@@ -1,0 +1,10 @@
+gnews
+requests
+beautifulsoup4
+python-dateutil
+cloudscraper
+ddgs
+feedparser
+trafilatura
+lxml
+lxml_html_clean
