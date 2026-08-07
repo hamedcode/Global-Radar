@@ -57,6 +57,9 @@ CONFIG = {
     'MIN_TEXT_LEN': 100,
     'MIN_AI_URGENCY_HINT': 4,
     'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
+    'CF_ACCOUNT_ID': os.environ.get('CF_ACCOUNT_ID'),
+    'CF_API_TOKEN': os.environ.get('CF_API_TOKEN'),
+    'CF_MODEL': os.environ.get('CF_MODEL', '@cf/meta/llama-3.3-70b-instruct-fp8-fast'),
     'AI_RETRIES': 3,
     # Only genuinely major stories reach Telegram. Keep this high on purpose.
     'MIN_TELEGRAM_URGENCY': 7,
@@ -97,7 +100,9 @@ class GlobalRadar:
             'Accept-Language': 'en-US,en;q=0.9,fa;q=0.8',
             'Cache-Control': 'no-cache',
         })
-        self.api_key = CONFIG['POLLINATIONS_KEY']
+        self.cf_account_id = CONFIG['CF_ACCOUNT_ID']
+        self.cf_api_token = CONFIG['CF_API_TOKEN']
+        self.cf_model = CONFIG['CF_MODEL']
         self.existing_news = self._load_existing_news()
 
         self.seen_urls = set()
@@ -458,8 +463,8 @@ class GlobalRadar:
     # ───────────────────────── AI analysis ─────────────────────────
 
     def analyze_with_ai(self, headline, full_text, source_name):
-        if not self.api_key:
-            logger.error("AI SKIPPED: POLLINATIONS_API_KEY is empty/not set in the environment.")
+        if not self.cf_account_id or not self.cf_api_token:
+            logger.error("AI SKIPPED: CF_ACCOUNT_ID or CF_API_TOKEN is empty/not set in the environment.")
             return None
 
         system_prompt = (
@@ -488,16 +493,17 @@ class GlobalRadar:
             "}"
         )
 
+        cf_url = f"https://api.cloudflare.com/client/v4/accounts/{self.cf_account_id}/ai/run/{self.cf_model}"
+
         current_text = full_text
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
                 if attempt > 0:
                     current_text = headline + " " + full_text[:800]
                 resp = self.scraper.post(
-                    "https://gen.pollinations.ai/v1/chat/completions",
-                    headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
+                    cf_url,
+                    headers={"Authorization": f"Bearer {self.cf_api_token}", "Content-Type": "application/json"},
                     json={
-                        "model": "openai",
                         "messages": [
                             {"role": "system", "content": system_prompt},
                             {"role": "user", "content": f"SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"},
@@ -507,13 +513,22 @@ class GlobalRadar:
                     timeout=CONFIG.get('AI_TIMEOUT', 45),
                 )
                 if resp.status_code == 200:
-                    raw = resp.json()['choices'][0]['message']['content']
+                    body = resp.json()
+                    if not body.get('success', True) and body.get('errors'):
+                        logger.error(f"CF AI error payload: {body['errors']}")
+                        time.sleep(1)
+                        continue
+                    raw = body.get('result', {}).get('response', '')
                     clean = re.sub(r'```json\s*|```', '', raw).strip()
+                    # Some models wrap output with stray text; grab the outermost {...} block.
+                    m = re.search(r'\{.*\}', clean, re.DOTALL)
+                    if m:
+                        clean = m.group(0)
                     data = json.loads(clean)
                     if 'title_fa' in data and 'summary' in data:
                         return data
                 else:
-                    logger.error(f"AI HTTP {resp.status_code}: {resp.text[:300]}")
+                    logger.error(f"CF AI HTTP {resp.status_code}: {resp.text[:300]}")
                 time.sleep(1)
             except Exception as e:
                 logger.error(f"AI Attempt {attempt+1} failed: {e}")
