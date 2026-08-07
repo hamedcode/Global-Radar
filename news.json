@@ -20,6 +20,46 @@
     "sent_to_telegram": true
   },
   {
+    "id": "782609301b",
+    "title_fa": "بازار سهام آمریکا جهش می‌کند",
+    "title_en": "U.S. stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes for easier rate policy",
+    "summary": [
+      "استخدام در آمریکا ۲۳ هزار شغل کم شد",
+      "امید به سیاست نرخ بهره آسان‌تر",
+      "بازار سهام جهش کرد"
+    ],
+    "body_fa": "در پی گزارش دولت مبنی بر کاهش غیرمنتظره ۲۳ هزار شغل توسط کارفرمایان در ماه گذشته، سهام در وال استریت افزایش یافت و بازده اوراق خزانه کاهش یافت. شاخص S&P 500 با افزایش ۰.۵ درصدی به رکورد خود در روز سه‌شنبه نزدیک شد. میانگین صنعتی داو جونز با افزایش ۱۱۸ امتیاز یا ۰.۲ درصدی و شاخص کامپوزیت ناسداک با افزایش ۱ درصدی، همه شاخص‌های اصلی در مسیر سودهای هفتگی قرار دارند. این کاهش در استخدام باعث افزایش امید به سیاست نرخ بهره آسان‌تر شده است.",
+    "category": "اقتصاد",
+    "tag": "بازار سهام",
+    "urgency": 7,
+    "source": "The Tribune-Democrat",
+    "url": "https://www.tribdem.com/news/business/u-s-stocks-jump-as-employers-unexpectedly-cut-23-000-jobs-raising-hopes-for-easier/article_0e361aef-944f-5bd7-9210-8670b803ea9e.html",
+    "clean_url": "https://www.tribdem.com/news/business/u-s-stocks-jump-as-employers-unexpectedly-cut-23-000-jobs-raising-hopes-for-easier/article_0e361aef-944f-5bd7-9210-8670b803ea9e.html",
+    "image": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/a/51/a51c1cbf-5bfa-5b97-8dff-f65cfb065966/6a75f6fcf3b5c.image.jpg?crop=1763,926,0,124&resize=1200,630&order=crop,resize",
+    "timestamp": 1786114740.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "e05f8719f2",
+    "title_fa": "آمار اشتغال ژوئیه",
+    "title_en": "July Payrolls: Bad News Is Good Again",
+    "summary": [
+      "آمار اشتغال ژوئیه منتشر شد",
+      "تأثیر بر تصمیمات فدرال رزرو",
+      "نرخ بهره در سپتامبر"
+    ],
+    "body_fa": "آمار اشتغال ژوئیه در ایالات متحده منتشر شد و توجه همه را به خود جلب کرد. این در حالی است که بحث‌های زیادی در مورد افزایش نرخ بهره توسط فدرال رزرو در سپتامبر و بقیه سال وجود دارد. با این حال، احتمال افزایش نرخ بهره توسط فدرال رزرو کم است. این آمار می‌تواند بر تصمیمات فدرال رزرو در مورد نرخ بهره تأثیر بگذارد. افزایش نرخ بهره می‌تواند بر بازار سهام و اقتصاد تأثیر بگذارد.",
+    "category": "اقتصاد",
+    "tag": "اشتغال",
+    "urgency": 6,
+    "source": "Seeking Alpha",
+    "url": "https://seekingalpha.com/article/4933104-july-payrolls-bad-news-is-good-again",
+    "clean_url": "https://seekingalpha.com/article/4933104-july-payrolls-bad-news-is-good-again",
+    "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319981864/image_1319981864.jpg?io=getty-c-w1536",
+    "timestamp": 1786114740.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "bbf8d94ac8",
     "title_fa": "متاماسک کیف پول هوشمند برای هوش مصنوعی معرفی کرد",
     "title_en": "Morning Minute: MetaMask Hands AI Agents a Wallet",
@@ -340,6 +380,26 @@
     "image": "https://s.yimg.com/bo/a362d7f7-f342-59b9-bd36-c01cdbdbf51a_1783067230542.png.cf.jpg",
     "timestamp": 1786055597.0,
     "sent_to_telegram": true
+  },
+  {
+    "id": "3443aa01a7",
+    "title_fa": "رشد اقتصادی فیلیپین در فصل دوم ۲۰۲۶",
+    "title_en": "PH economy grows slower at 2.3% in Q2 2026",
+    "summary": [
+      "رشد اقتصادی فیلیپین ۲.۳% در فصل دوم ۲۰۲۶",
+      "به دلیل کاهش اعتماد سرمایه‌گذاران و مصرف‌کنندگان",
+      "تأثیر رسوایی فساد کنترل سیلاب"
+    ],
+    "body_fa": "اقتصاد فیلیپین در فصل دوم سال ۲۰۲۶ با رشد ۲.۳ درصدی مواجه شد. این کاهش رشد اقتصادی STILL به دلیل کاهش اعتماد سرمایه‌گذاران و مصرف‌کنندگان در میان اثرات باقی‌مانده از رسوایی فساد کنترل سیلاب است. این موضوع نشان می‌دهد که اقتصاد فیلیپین仍 در حال تلاش برای بهبود از اثرات این رسوایی است. رشد اقتصادی فیلیپین در مقایسه با فصل قبل کاهش یافته است و این موضوع نگرانی‌هایی را در مورد آینده اقتصادی این کشور ایجاد کرده است. کاهش اعتماد سرمایه‌گذاران و مصرف‌کنندگان یکی از عوامل اصلی این کاهش رشد اقتصادی است.",
+    "category": "اقتصاد",
+    "tag": "فیلیپین",
+    "urgency": 4,
+    "source": "GMA Network on MSN",
+    "url": "https://www.msn.com/en-ph/money/economy/ph-economy-grows-slower-at-2-3-in-q2-2026/ar-AA29zPFo",
+    "clean_url": "https://www.msn.com/en-ph/money/economy/ph-economy-grows-slower-at-2-3-in-q2-2026/ar-AA29zPFo",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786054530.0,
+    "sent_to_telegram": false
   },
   {
     "id": "41b972a542",
