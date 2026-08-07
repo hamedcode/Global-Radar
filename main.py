@@ -459,6 +459,7 @@ class GlobalRadar:
 
     def analyze_with_ai(self, headline, full_text, source_name):
         if not self.api_key:
+            logger.error("AI SKIPPED: POLLINATIONS_API_KEY is empty/not set in the environment.")
             return None
 
         system_prompt = (
@@ -511,6 +512,8 @@ class GlobalRadar:
                     data = json.loads(clean)
                     if 'title_fa' in data and 'summary' in data:
                         return data
+                else:
+                    logger.error(f"AI HTTP {resp.status_code}: {resp.text[:300]}")
                 time.sleep(1)
             except Exception as e:
                 logger.error(f"AI Attempt {attempt+1} failed: {e}")
