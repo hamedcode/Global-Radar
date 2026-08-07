@@ -53,7 +53,7 @@ CONFIG = {
     'AI_TIMEOUT': 45,
     'MAX_WORKERS': 3,
     'MAX_CANDIDATES': 20,
-    'MAX_TEXT_CHARS': 1800,
+    'MAX_TEXT_CHARS': 2500,
     'MIN_TEXT_LEN': 100,
     'MIN_AI_URGENCY_HINT': 4,
     'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
@@ -292,7 +292,8 @@ class GlobalRadar:
     # ───────────────────────── market snapshot ─────────────────────────
 
     def fetch_market_rates(self):
-        data = {"btc": "نامشخص", "eth": "نامشخص", "usdt_irt": "نامشخص", "updated": "--:--"}
+        data = {"btc": "نامشخص", "eth": "نامشخص", "usdt_irt": "نامشخص",
+                "usd_irt": "نامشخص", "coin_irt": "نامشخص", "updated": "--:--"}
         try:
             resp = self.scraper.get(
                 "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true",
@@ -323,6 +324,31 @@ class GlobalRadar:
                     data['usdt_irt'] = f"{toman:,.0f} تومان"
         except Exception as e:
             logger.warning(f"Nobitex USDT fetch failed: {e}")
+
+        # Iran open-market USD and full gold coin (Emami), scraped from alanchand.com
+        try:
+            resp = self.scraper.get("https://alanchand.com/en/currencies-price/usd", timeout=10)
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.text, 'lxml')
+                usd_input = soup.find('input', attrs={'data-curr': 'tmn'})
+                if usd_input:
+                    val = usd_input.get('data-price') or usd_input.get('value')
+                    if val:
+                        data["usd_irt"] = f"{int(int(str(val).replace(',', '')) / 10):,} تومان"
+        except Exception as e:
+            logger.warning(f"alanchand USD fetch failed: {e}")
+
+        try:
+            resp = self.scraper.get("https://alanchand.com/en/gold-price/sekkeh", timeout=10)
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.text, 'lxml')
+                coin_input = soup.find('input', attrs={'data-curr': 'tmn'})
+                if coin_input:
+                    val = coin_input.get('data-price') or coin_input.get('value')
+                    if val:
+                        data["coin_irt"] = f"{int(int(str(val).replace(',', '')) / 10):,} تومان"
+        except Exception as e:
+            logger.warning(f"alanchand coin fetch failed: {e}")
 
         data["updated"] = time.strftime("%H:%M")
         return data
@@ -492,11 +518,13 @@ class GlobalRadar:
             "🔴 قوانین نگارش:\n"
             "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
             "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
-            "۳. summary باید ۲ تا ۳ خط کوتاه باشد و حتماً بر اساس متن کامل خبر (TEXT) نوشته شود، نه فقط تیتر:\n"
-            "   - خط اول: چه اتفاقی افتاد (با جزئیات و اعداد مهم از متن خبر)\n"
-            "   - خط دوم: چرا مهمه / چه تاثیری داره\n"
-            "   - خط سوم (اختیاری ولی ترجیحاً بنویس): یک جزئیات یا رقم یا واکنش مهم دیگر از متن خبر\n"
-            "   هر خط حداکثر ۲۵ کلمه. summary هرگز نباید فقط تکرار تیتر باشد.\n"
+            "۳. summary باید ۴ تا ۵ خط کوتاه باشد و حتماً بر اساس متن کامل خبر (TEXT) نوشته شود، نه فقط تیتر. این ۴-۵ خط باید کل ماجرا رو با جزئیات کافی توضیح بده، نه فقط یک اشاره‌ی کلی:\n"
+            "   - خط ۱: چه اتفاقی افتاد (با جزئیات و اعداد مهم از متن خبر)\n"
+            "   - خط ۲: زمینه و پس‌زمینه‌ی خبر (چرا الان اتفاق افتاد)\n"
+            "   - خط ۳: چرا مهمه / چه تاثیری داره\n"
+            "   - خط ۴: یک جزئیات، رقم یا واکنش مهم دیگر از متن خبر\n"
+            "   - خط ۵ (اختیاری): پیامد احتمالی یا قدم بعدی\n"
+            "   هر خط حداکثر ۲۵ کلمه. summary هرگز نباید فقط تکرار تیتر باشد و نباید کلی‌گویی باشد.\n"
             "۴. تیتر (title_fa) حداکثر ۱۰ کلمه، جذاب و بدون کلمات اضافه.\n\n"
             "قواعد امتیازبندی urgency (1 تا 10):\n"
             "- 9-10: تصمیم غافلگیرکننده فدرال‌رزرو، سقوط/رشد بزرگ بازار سهام (بالای ۳٪ در یک روز)، هک یا فروپاشی بزرگ کریپتو، تایید/رد ETF بیت‌کوین، جهش بیت‌کوین به رکورد جدید، اعلام مدل هوش‌مصنوعی انقلابی از OpenAI/Google/Anthropic.\n"
@@ -506,7 +534,7 @@ class GlobalRadar:
             "فرمت خروجی باید دقیقاً JSON زیر باشد و هیچ متن اضافه‌ای قبل یا بعدش نباشه:\n"
             "{\n"
             ' "title_fa": "تیتر کوتاه و روان",\n'
-            ' "summary": ["خط اول: چه اتفاقی افتاد", "خط دوم: چرا مهمه", "خط سوم: یک جزئیات یا رقم مهم دیگر"],\n'
+            ' "summary": ["خط ۱: چه اتفاقی افتاد", "خط ۲: زمینه و پس‌زمینه", "خط ۳: چرا مهمه", "خط ۴: یک رقم یا واکنش مهم", "خط ۵: پیامد بعدی (اختیاری)"],\n'
             ' "category": "اقتصاد یا کریپتو یا تکنولوژی",\n'
             ' "tag": "کلمه کلیدی کوتاه",\n'
             ' "urgency": عدد بین 1 تا 10\n'
@@ -620,7 +648,7 @@ class GlobalRadar:
             "id": news_id,
             "title_fa": ai.get('title_fa', raw_title),
             "title_en": raw_title,
-            "summary": ai.get('summary', [snippet])[:3],
+            "summary": ai.get('summary', [snippet])[:5],
             "category": category,
             "tag": ai.get('tag', 'General'),
             "urgency": urgency_val,
@@ -642,6 +670,120 @@ class GlobalRadar:
         return combined
 
     # ───────────────────────── telegram digest ─────────────────────────
+
+    def send_rich_digest_to_telegram(self, items, market=None):
+        """Send digest via Telegram's Bot API 10.1 Rich Messages (sendRichMessage).
+        Falls back to a plain-text sendMessage digest if the rich call fails
+        (older Bot API server, or any transient issue)."""
+        token = CONFIG['TELEGRAM']['BOT_TOKEN']
+        chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
+        if not token or not chat_id or not items:
+            logger.warning("TG credentials or items missing. Skipping dispatch.")
+            return False
+
+        def esc(s):
+            return html.escape(str(s or ''), quote=False)
+
+        now_ir = self._get_tehran_time()
+        time_str = now_ir.strftime("%H:%M")
+        date_str = now_ir.strftime("%Y/%m/%d")
+        base_site = os.environ.get('SITE_URL', '')
+
+        items_sorted = sorted(items, key=lambda x: x.get('urgency', 3), reverse=True)
+
+        # ── collect a handful of valid images for a collage ──
+        photo_urls = []
+        for it in items_sorted:
+            img = it.get('image')
+            if self._is_valid_image_url(img) and img not in photo_urls:
+                photo_urls.append(img)
+            if len(photo_urls) >= 6:
+                break
+
+        media_html = ""
+        if len(photo_urls) == 1:
+            media_html = f"<figure><img src=\"{esc(photo_urls[0])}\"/><figcaption>رصد جهانی — {esc(time_str)}</figcaption></figure>\n"
+        elif len(photo_urls) > 1:
+            imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
+            media_html = f"<tg-collage>{imgs}<figcaption>تصاویر مرتبط با اخبار مهم</figcaption></tg-collage>\n"
+
+        market_html = ""
+        if market:
+            market_html = (
+                "<table bordered striped>\n"
+                "<tr><th>💵 دلار</th><th>🪙 سکه</th><th>₿ بیت‌کوین</th><th>Ξ اتریوم</th><th>₮ تتر</th></tr>\n"
+                f"<tr>"
+                f"<td align='center'>{esc(market.get('usd_irt'))}</td>"
+                f"<td align='center'>{esc(market.get('coin_irt'))}</td>"
+                f"<td align='center'>{esc(market.get('btc'))}</td>"
+                f"<td align='center'>{esc(market.get('eth'))}</td>"
+                f"<td align='center'>{esc(market.get('usdt_irt'))}</td>"
+                f"</tr>\n</table>\n"
+            )
+
+        cat_emoji = {'اقتصاد': '📊', 'کریپتو': '🪙', 'تکنولوژی': '💻'}
+
+        headlines_li = []
+        for it in items_sorted:
+            title = esc(it.get('title_fa') or it.get('title_en'))
+            urgency = it.get('urgency', 3)
+            icon = "🔥" if urgency >= 8 else ("🚨" if urgency >= 6 else "🔹")
+            headlines_li.append(f"<li>{icon} {title}</li>")
+        headlines_html = "<ul>\n" + "\n".join(headlines_li) + "\n</ul>\n"
+
+        details_parts = []
+        for i, it in enumerate(items_sorted, 1):
+            title = esc(it.get('title_fa') or it.get('title_en'))
+            source = esc(it.get('source', 'Unknown'))
+            cat = it.get('category', 'اقتصاد')
+            src_url = it.get('url') or '#'
+            summary_html = "".join(f"<li>{esc(s)}</li>" for s in it.get('summary', []) if s)
+            open_attr = " open" if i == 1 else ""
+            details_parts.append(
+                f"<details{open_attr}>\n"
+                f"<summary><b>{cat_emoji.get(cat, '🔹')} {title}</b></summary>\n"
+                f"<ul>{summary_html}</ul>\n"
+                f"<p>🔗 <a href=\"{esc(src_url)}\">منبع: {source}</a></p>\n"
+                f"</details>\n<hr/>\n"
+            )
+        details_html = "".join(details_parts)
+
+        footer_html = ""
+        if base_site:
+            footer_html = f"<footer><p>📊 <a href=\"{esc(base_site)}\">آرشیو کامل رصد جهانی</a></p></footer>\n"
+
+        full_html = (
+            f"<h1>🌐 خلاصه اخبار مهم جهان</h1>\n"
+            f"<p>⏱ {esc(time_str)} — {esc(date_str)} (تهران)</p>\n"
+            f"{market_html}"
+            f"<hr/>\n"
+            f"{media_html}"
+            f"<h2>📌 سرخط‌ها</h2>\n"
+            f"{headlines_html}"
+            f"<hr/>\n"
+            f"<h2>📋 جزئیات</h2>\n"
+            f"{details_html}"
+            f"{footer_html}"
+        )
+        if len(full_html) > 30000:
+            full_html = full_html[:30000]
+
+        api_url = f"https://api.telegram.org/bot{token}/sendRichMessage"
+        payload = {
+            "chat_id": chat_id,
+            "rich_message": {"html": full_html, "is_rtl": True},
+        }
+
+        try:
+            resp = self.scraper.post(api_url, json=payload, timeout=30)
+            if resp.status_code == 200:
+                logger.info(">>> Rich Message digest sent to Telegram.")
+                return True
+            logger.warning(f"sendRichMessage failed ({resp.status_code}): {resp.text[:300]} — falling back to plain text.")
+        except Exception as e:
+            logger.warning(f"sendRichMessage exception: {e} — falling back to plain text.")
+
+        return self.send_digest_to_telegram(items, market=market)
 
     def send_digest_to_telegram(self, items, market=None):
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
@@ -676,6 +818,8 @@ class GlobalRadar:
         if market:
             lines.append(
                 f"\n\n💰 <b>قیمت‌های لحظه‌ای</b>\n"
+                f"💵 دلار: {esc(market.get('usd_irt'))}\n"
+                f"🪙 سکه تمام: {esc(market.get('coin_irt'))}\n"
                 f"₿ بیت‌کوین: {esc(market.get('btc'))}\n"
                 f"Ξ اتریوم: {esc(market.get('eth'))}\n"
                 f"₮ تتر: {esc(market.get('usdt_irt'))}"
@@ -800,7 +944,7 @@ class GlobalRadar:
 
             if pending:
                 logger.info(f"Dispatching digest for slot {slot} with {len(pending)} items.")
-                sent_ok = self.send_digest_to_telegram(pending, market=market_snapshot)
+                sent_ok = self.send_rich_digest_to_telegram(pending, market=market_snapshot)
                 if sent_ok:
                     sent_ids = {it['id'] for it in pending}
                     for it in self.existing_news:
