@@ -30,7 +30,8 @@ jobs:
 
       - name: Run Radar Script
         env:
-          POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
           SITE_URL: ${{ vars.SITE_URL }}
