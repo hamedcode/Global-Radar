@@ -127,6 +127,27 @@
     "sent_to_telegram": false
   },
   {
+    "id": "377d991cef",
+    "title_fa": "سقوط بازار سهام",
+    "title_en": "Stock Market crash",
+    "summary": [
+      "سقوط ۱۱٪ بازار سهام کره جنوبی",
+      "پس از افت ۴۰٪ ناشی از ETFهای تک‌سهامی",
+      "بازگشت ۱۸٪ با خبرهای خوب از شرکت‌های فناوری",
+      "هدف ۱۰٬۰۰۰-۱۱٬۰۰۰ برای Kospi توسط Nomura",
+      "حذف رتبه‌بندی بازار توسط Citi"
+    ],
+    "category": "اقتصاد",
+    "tag": "بازار سهام",
+    "urgency": 8,
+    "source": "The Economic Times",
+    "url": "https://economictimes.indiatimes.com/markets/stock-market-crash",
+    "clean_url": "https://economictimes.indiatimes.com/markets/stock-market-crash",
+    "image": "https://img.etimg.com/photo/19555866.cms",
+    "timestamp": 1786060800.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "48d384040e",
     "title_fa": "قیمت نفت پایین‌تر از حمایت طلا",
     "title_en": "Lower Oil Prices Lend Support For The Gold Rally",
