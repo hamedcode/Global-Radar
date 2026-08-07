@@ -144,6 +144,24 @@
     "sent_to_telegram": false
   },
   {
+    "id": "d7ebb96dc9",
+    "title_fa": "چارچوب کریپتو آمریکا و انگلیس",
+    "title_en": "Transatlantic Crypto Framework: What the US-UK Stablecoin Deal Means for Markets",
+    "summary": [
+      "آمریکا و انگلیس چارچوب دیجیتال مشترک اعلام کردند",
+      "ثبات بازار کریپتو را افزایش می‌دهد"
+    ],
+    "category": "کریپتو",
+    "tag": "استیبل‌کوین",
+    "urgency": 8,
+    "source": "99bitcoins · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/transatlantic-crypto-framework-us-uk-145211186.html",
+    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/transatlantic-crypto-framework-us-uk-145211186.html",
+    "image": "https://media.zenfs.com/en/99bitcoins_us_315/8bfbe046305dedd61dd7cc32ea01992e",
+    "timestamp": 1786028728.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "4ae04793a9",
     "title_fa": "استراتژی جدید رئیس فدرال رزرو",
     "title_en": "What will Kevin Warsh do if America's economy breaks?",
