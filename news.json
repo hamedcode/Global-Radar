@@ -36,6 +36,25 @@
     "sent_to_telegram": true
   },
   {
+    "id": "fa302a2239",
+    "title_fa": "نرخ حساب‌های پس‌انداز با سود بالا",
+    "title_en": "High-Yield Savings Account Rates Today: August 7, 2026",
+    "summary": [
+      "نرخ حساب‌های پس‌انداز ثابت مانده",
+      "سود بالاتر نسبت به چند سال پیش",
+      "نرخ ممکن است با کاهش نرخ بهره فدرال تغییر کند"
+    ],
+    "category": "اقتصاد",
+    "tag": "نرخ بهره",
+    "urgency": 4,
+    "source": "Forbes",
+    "url": "https://www.forbes.com/advisor/banking/savings/savings-account-rates-today-08-07-26/",
+    "clean_url": "https://www.forbes.com/advisor/banking/savings/savings-account-rates-today-08-07-26",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786081140.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "c9e5ebcbe7",
     "title_fa": "بازار در انتظار گزارش اشتغال",
     "title_en": "Morning bid: Hoping for a clean and tidy jobs report",
