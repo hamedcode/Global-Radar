@@ -1,5 +1,23 @@
 [
   {
+    "id": "d717cf290c",
+    "title_fa": "هوش مصنوعی پایان اعتیاد وال استریت به EPS",
+    "title_en": "AI could end Wall Street’s EPS obsession: Marty Fridson",
+    "summary": [
+      "هوش مصنوعی توجه را از EPS به جریان نقدی سوق می‌دهد",
+      "مهم است چون نشان‌دهنده تغییر در ارزیابی عملکرد شرکت‌هاست"
+    ],
+    "category": "تکنولوژی",
+    "tag": "هوش مصنوعی",
+    "urgency": 7,
+    "source": "ZAWYA",
+    "url": "https://www.zawya.com/ar/special-coverage/insights/ai-could-end-wall-streets-eps-obsession-marty-fridson-424733",
+    "clean_url": "https://www.zawya.com/ar/special-coverage/insights/ai-could-end-wall-streets-eps-obsession-marty-fridson-424733",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786090125.6389751,
+    "sent_to_telegram": false
+  },
+  {
     "id": "c9e5ebcbe7",
     "title_fa": "بازار در انتظار گزارش اشتغال",
     "title_en": "Morning bid: Hoping for a clean and tidy jobs report",
@@ -90,6 +108,24 @@
     "sent_to_telegram": false
   },
   {
+    "id": "86a39f97ee",
+    "title_fa": "بازگشت سهام تکنولوژی چین",
+    "title_en": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+    "summary": [
+      "سهام تکنولوژی چین پس از سقوط رکوردی، بهبود یافت",
+      "به دلیل بهبود درآمد شرکت‌ها و بازگشت تکنولوژی جهانی"
+    ],
+    "category": "تکنولوژی",
+    "tag": "سهام چین",
+    "urgency": 6,
+    "source": "South China Morning Post on MSN",
+    "url": "https://www.msn.com/en-xl/money/other/global-ai-trade-revival-brightens-outlook-for-chinese-tech-stocks-after-record-sell-offs/ar-AA29A7NT",
+    "clean_url": "https://www.msn.com/en-xl/money/other/global-ai-trade-revival-brightens-outlook-for-chinese-tech-stocks-after-record-sell-offs/ar-AA29A7NT",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786056073.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "7b9c26dfab",
     "title_fa": "سقوط سهام شرکت‌های فناوری",
     "title_en": "Tech Down as Software, AI Firms Wobble — Tech Roundup",
@@ -141,6 +177,24 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-soft-guidance-high-200855599.html",
     "image": "https://media.zenfs.com/en/kiplinger_425/82eff7b5e8b4b9a0e9025d8a74fc3bd9",
     "timestamp": 1786048397.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "29390ae9d2",
+    "title_fa": "پیش‌بینی رشد ۲.۵ درصدی اقتصاد",
+    "title_en": "Nomura Global Bond Fund Q2 2026 Commentary",
+    "summary": [
+      "رشد اقتصادی ۲.۵ درصدی پیش‌بینی شده",
+      "مهم برای ارزیابی بازار"
+    ],
+    "category": "اقتصاد",
+    "tag": "رشد اقتصادی",
+    "urgency": 4,
+    "source": "Seeking Alpha",
+    "url": "https://seekingalpha.com/article/4931883-nomura-global-bond-fund-q2-2026-commentary",
+    "clean_url": "https://seekingalpha.com/article/4931883-nomura-global-bond-fund-q2-2026-commentary",
+    "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195351026/image_2195351026.jpg?io=getty-c-w1536",
+    "timestamp": 1786029600.0,
     "sent_to_telegram": false
   },
   {
