@@ -1,5 +1,25 @@
 [
   {
+    "id": "b8ad8d4557",
+    "title_fa": "سکه‌های بیوتک به رکورد ۵۲ هفته‌ای می‌رسند",
+    "title_en": "These two biotech stocks hit fresh 52-week highs today – NTRA clocks best day in nearly 20 months",
+    "summary": [
+      "نترا با ۷۵۲ میلیون دلار درآمد، رکورد زد",
+      "بالا بودن درآمد از تخمین‌ها مهمه",
+      "قیمت هدف نترا به ۳۲۰ دلار رسید"
+    ],
+    "body_fa": "سکه‌های بیوتک نترا و دیگری به رکورد ۵۲ هفته‌ای رسیدند. نترا با انتشار درآمد ۷۵۲ میلیون دلاری در سه‌ماهه دوم،expectations وال استریت را شکست. این درآمد بالاتر از تخمین ۶۶۱ میلیون دلاری بود. به دنبال این خبر، شرکت تحقیقاتی BTIG قیمت هدف خود برای نترا را از ۲۹۰ دلار به ۳۲۰ دلار افزایش داد. این افزایش قیمت هدف نشان‌دهنده اعتماد به آینده شرکت است. نترا بهترین روز خود را در نزدیک به ۲۰ ماه تجربه کرد.",
+    "category": "اقتصاد",
+    "tag": "بیوتک",
+    "urgency": 6,
+    "source": "Stocktwits on MSN",
+    "url": "https://www.msn.com/en-us/money/general/these-two-biotech-stocks-hit-fresh-52-week-highs-today-ntra-clocks-best-day-in-nearly-20-months/ar-AA29C2Ic?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/money/general/these-two-biotech-stocks-hit-fresh-52-week-highs-today-ntra-clocks-best-day-in-nearly-20-months/ar-AA29C2Ic",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786128121.674651,
+    "sent_to_telegram": false
+  },
+  {
     "id": "14b83262b1",
     "title_fa": "نفت و جنگ",
     "title_en": "Gulf uncertainty is creating 'win, win' strategy with Chevron and other oil majors",
@@ -78,6 +98,26 @@
     "image": "https://www.bing.com/th?id=ONUT.UkB9sqnGOXLwwKWOHrYKOQ",
     "timestamp": 1786106583.4641943,
     "sent_to_telegram": true
+  },
+  {
+    "id": "022f213ba6",
+    "title_fa": "بازار سهام با گزارش شغل‌ها رشد می‌کند",
+    "title_en": "Stock Market Today: Major Indexes Rise After Jobs Report, on Track for Biggest...",
+    "summary": [
+      "شاخص‌های اصلی بازار سهام امروز رشد کردند",
+      "با انتشار گزارش شغل‌ها، نگرانی‌ها درباره افزایش نرخ بهره کاهش یافت",
+      "این رشد可能 بزرگ‌ترین افزایش هفتگی در ۳ ماه اخیر باشد"
+    ],
+    "body_fa": "بازار سهام امروز با انتشار گزارش شغل‌های ژوئیه، که نشان‌دهنده کاهش ۲۳ هزار شغل در این ماه بود، رشد کرد. این در حالی است که انتظار می‌رفت ۸۳ هزار شغل جدید ایجاد شود. نرخ بیکاری نیز به ۴.۱ درصد رسید. با این گزارش، نگرانی‌های سرمایه‌گذاران درباره افزایش نرخ بهره توسط فدرال رزرو کاهش یافت و شاخص‌های اصلی بازار سهام مانند S&P 500 و Nasdaq Composite به ترتیب ۰.۶ و ۰.۹ درصد رشد کردند. این رشد可能 منجر به بزرگ‌ترین افزایش هفتگی در ۳ ماه اخیر شود.",
+    "category": "اقتصاد",
+    "tag": "بازار سهام",
+    "urgency": 6,
+    "source": "Investopedia · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html",
+    "image": "https://media.zenfs.com/en/investopedia_245/b4f23fc7e6e0cb184904d3646ba2ab34",
+    "timestamp": 1786102914.0,
+    "sent_to_telegram": false
   },
   {
     "id": "5511dc76fb",
