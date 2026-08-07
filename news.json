@@ -1,5 +1,25 @@
 [
   {
+    "id": "14b83262b1",
+    "title_fa": "نفت و جنگ",
+    "title_en": "Gulf uncertainty is creating 'win, win' strategy with Chevron and other oil majors",
+    "summary": [
+      "ناآرامی خلیج فارس باعث افزایش قیمت نفت شده",
+      "فرصت خرید نفت با قیمت پایین",
+      "شرکت‌های نفتی سود می‌کنند"
+    ],
+    "body_fa": "ناآرامی در خلیج فارس باعث افزایش قیمت نفت شده است. این افزایش قیمت باعث شده است که شرکت‌های نفتی مانند Шевرون سود زیادی کسب کنند. با فروش گزینه‌های خرید نفت، سرمایه‌گذاران می‌توانند از این افزایش قیمت سود ببرند. این استراتژی یک فرصت نادر برای سرمایه‌گذاران است تا از افزایش قیمت نفت بهره ببرند.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 6,
+    "source": "CNBC",
+    "url": "https://www.msn.com/en-us/money/markets/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors/ar-AA29C7c3",
+    "clean_url": "https://www.msn.com/en-us/money/markets/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors/ar-AA29C7c3",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786119984.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "bbf8d94ac8",
     "title_fa": "متاماسک کیف پول هوشمند برای هوش مصنوعی معرفی کرد",
     "title_en": "Morning Minute: MetaMask Hands AI Agents a Wallet",
@@ -57,7 +77,7 @@
     "clean_url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
     "image": "https://s.yimg.com/bo/e66332e9-a5e9-5051-b1af-5a3a2a71c23e_1785194770227.jpg",
     "timestamp": 1786100787.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "f57bb7ad6b",
@@ -224,6 +244,26 @@
     "clean_url": "https://www.msn.com/en-us/money/economy/the-strait-of-hormuz-could-finally-reopen-here-s-what-happens-to-oil-prices-and-the-global-economy-next/vi-AA29BdXf",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786074485.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b4891cd5a9",
+    "title_fa": "حملات ایران به اهداف خصمانه",
+    "title_en": "US-Iran war news LIVE: Oil prices continue to rise as Iran attacks 'hostile targets' in Strait of Hormuz",
+    "summary": [
+      "حملات ایران به اهداف خصمانه در تنگه هرمز",
+      "قیمت نفت افزایش یافت",
+      "تهران می‌خواهد از ورود کشتی‌های آمریکا به تنگه هرمز جلوگیری کند"
+    ],
+    "body_fa": "ایران به اهداف خصمانه در تنگه هرمز حمله کرده است. این اقدام منجر به افزایش قیمت نفت شده است. تهران با امضای توافقی با عمان، قصد دارد از ورود کشتی‌های آمریکایی به این مسیر حیاتی جلوگیری کند. این درگیری‌ها بر بازار نفت و اقتصاد جهانی تأثیر می‌گذارد. قیمت نفت با این اخبار افزایش یافته است و نگرانی‌ها درباره امنیت انرژی در منطقه افزایش می‌یابد. این موضوع می‌تواند بر اقتصاد جهانی و قیمت انرژی تأثیر گذارد.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 6,
+    "source": "Live Mint",
+    "url": "https://www.msn.com/en-in/war-and-conflicts/war-events/us-iran-war-news-live-oil-prices-continue-to-rise-as-iran-attacks-hostile-targets-in-strait-of-hormuz/ar-AA29ytC0",
+    "clean_url": "https://www.msn.com/en-in/war-and-conflicts/war-events/us-iran-war-news-live-oil-prices-continue-to-rise-as-iran-attacks-hostile-targets-in-strait-of-hormuz/ar-AA29ytC0",
+    "image": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/crude_oil_1697775793536_1786060528891_7d211847-48d7-4841-a48f-ea11076e6dad.jpg",
+    "timestamp": 1786061913.0,
     "sent_to_telegram": true
   },
   {
