@@ -780,8 +780,7 @@ class GlobalRadar:
                     self._atomic_json_dump(CONFIG['FILES']['NEWS'], self.existing_news)
                     self._mark_schedule_as_sent(slot)
             else:
-                logger.info(f"Slot {slot} reached but no items pass the urgency bar; marking as checked.")
-                self._mark_schedule_as_sent(slot)
+                logger.info(f"Slot {slot} reached but no items pass the urgency bar yet; will re-check next run within this window.")
         elif slot:
             logger.info(f"Slot {slot} already dispatched.")
 
