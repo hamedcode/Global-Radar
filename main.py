@@ -44,6 +44,7 @@ CONFIG = {
         'NEWS': 'news.json',
         'MARKET': 'market.json',
         'SCHEDULE_STATE': 'schedule_state.json',
+        'SITE_CONFIG': 'config.json',
     },
     'TELEGRAM': {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'),
@@ -291,24 +292,65 @@ class GlobalRadar:
 
     # ───────────────────────── market snapshot ─────────────────────────
 
+    def _scrape_alanchand_price(self, url):
+        """Try several strategies since alanchand pages don't all share the same markup.
+        Returns a raw numeric string (as shown on page) or None."""
+        try:
+            resp = self.scraper.get(url, timeout=10)
+            if resp.status_code != 200:
+                return None
+            html_text = resp.text
+            soup = BeautifulSoup(html_text, 'lxml')
+
+            # Strategy 1: hidden input used on currency pages
+            el = soup.find('input', attrs={'data-curr': 'tmn'})
+            if el:
+                val = el.get('data-price') or el.get('value')
+                if val:
+                    return str(val).replace(',', '')
+
+            # Strategy 2: schema.org JSON-LD price offers
+            for script in soup.find_all('script', attrs={'type': 'application/ld+json'}):
+                try:
+                    payload = json.loads(script.string or '{}')
+                    candidates = payload if isinstance(payload, list) else [payload]
+                    for c in candidates:
+                        offers = c.get('offers') if isinstance(c, dict) else None
+                        if isinstance(offers, dict) and offers.get('price'):
+                            return str(offers['price']).replace(',', '')
+                except Exception:
+                    continue
+
+            # Strategy 3: raw-text regex for "12,345,678 IRR"
+            m = re.search(r'([\d][\d,]{5,})\s*IRR', html_text)
+            if m:
+                return m.group(1).replace(',', '')
+        except Exception as e:
+            logger.warning(f"alanchand scrape failed for {url}: {e}")
+        return None
+
     def fetch_market_rates(self):
-        data = {"btc": "نامشخص", "eth": "نامشخص", "usdt_irt": "نامشخص",
-                "usd_irt": "نامشخص", "coin_irt": "نامشخص", "updated": "--:--"}
+        data = {"btc": "نامشخص", "eth": "نامشخص", "xrp": "نامشخص",
+                "usdt_irt": "نامشخص", "coin_irt": "نامشخص", "gold_oz_usd": "نامشخص",
+                "updated": "--:--"}
         try:
             resp = self.scraper.get(
-                "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true",
+                "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,ripple&vs_currencies=usd&include_24hr_change=true",
                 timeout=10
             )
             if resp.status_code == 200:
                 j = resp.json()
                 btc = j.get('bitcoin', {})
                 eth = j.get('ethereum', {})
+                xrp = j.get('ripple', {})
                 if btc.get('usd'):
                     data['btc'] = f"${btc['usd']:,.0f} ({btc.get('usd_24h_change', 0):+.1f}%)"
                 if eth.get('usd'):
                     data['eth'] = f"${eth['usd']:,.0f} ({eth.get('usd_24h_change', 0):+.1f}%)"
+                if xrp.get('usd'):
+                    data['xrp'] = f"${xrp['usd']:,.3f} ({xrp.get('usd_24h_change', 0):+.1f}%)"
         except Exception as e:
-            logger.warning(f"Market fetch failed: {e}")
+            logger.warning(f"CoinGecko fetch failed: {e}")
 
         try:
             resp = self.scraper.post(
@@ -325,30 +367,23 @@ class GlobalRadar:
         except Exception as e:
             logger.warning(f"Nobitex USDT fetch failed: {e}")
 
-        # Iran open-market USD and full gold coin (Emami), scraped from alanchand.com
-        try:
-            resp = self.scraper.get("https://alanchand.com/en/currencies-price/usd", timeout=10)
-            if resp.status_code == 200:
-                soup = BeautifulSoup(resp.text, 'lxml')
-                usd_input = soup.find('input', attrs={'data-curr': 'tmn'})
-                if usd_input:
-                    val = usd_input.get('data-price') or usd_input.get('value')
-                    if val:
-                        data["usd_irt"] = f"{int(int(str(val).replace(',', '')) / 10):,} تومان"
-        except Exception as e:
-            logger.warning(f"alanchand USD fetch failed: {e}")
+        # Full gold coin (Emami), priced in Rial -> convert to Toman
+        coin_raw = self._scrape_alanchand_price("https://alanchand.com/en/gold-price/sekkeh")
+        if coin_raw:
+            try:
+                data["coin_irt"] = f"{int(float(coin_raw) / 10):,} تومان"
+            except Exception:
+                pass
 
+        # Gold ounce, priced directly in USD on alanchand — grab the $ figure instead
         try:
-            resp = self.scraper.get("https://alanchand.com/en/gold-price/sekkeh", timeout=10)
+            resp = self.scraper.get("https://alanchand.com/en/gold-price/usd_xau", timeout=10)
             if resp.status_code == 200:
-                soup = BeautifulSoup(resp.text, 'lxml')
-                coin_input = soup.find('input', attrs={'data-curr': 'tmn'})
-                if coin_input:
-                    val = coin_input.get('data-price') or coin_input.get('value')
-                    if val:
-                        data["coin_irt"] = f"{int(int(str(val).replace(',', '')) / 10):,} تومان"
+                m = re.search(r'\$\s?([\d,]+\.?\d*)', resp.text)
+                if m:
+                    data["gold_oz_usd"] = f"${m.group(1)}"
         except Exception as e:
-            logger.warning(f"alanchand coin fetch failed: {e}")
+            logger.warning(f"alanchand gold ounce fetch failed: {e}")
 
         data["updated"] = time.strftime("%H:%M")
         return data
@@ -518,13 +553,13 @@ class GlobalRadar:
             "🔴 قوانین نگارش:\n"
             "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
             "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
-            "۳. summary باید ۴ تا ۵ خط کوتاه باشد و حتماً بر اساس متن کامل خبر (TEXT) نوشته شود، نه فقط تیتر. این ۴-۵ خط باید کل ماجرا رو با جزئیات کافی توضیح بده، نه فقط یک اشاره‌ی کلی:\n"
-            "   - خط ۱: چه اتفاقی افتاد (با جزئیات و اعداد مهم از متن خبر)\n"
-            "   - خط ۲: زمینه و پس‌زمینه‌ی خبر (چرا الان اتفاق افتاد)\n"
-            "   - خط ۳: چرا مهمه / چه تاثیری داره\n"
-            "   - خط ۴: یک جزئیات، رقم یا واکنش مهم دیگر از متن خبر\n"
-            "   - خط ۵ (اختیاری): پیامد احتمالی یا قدم بعدی\n"
-            "   هر خط حداکثر ۲۵ کلمه. summary هرگز نباید فقط تکرار تیتر باشد و نباید کلی‌گویی باشد.\n"
+            "۳. باید دو نسخه از خبر بنویسی، هر دو بر اساس متن کامل خبر (TEXT)، نه فقط تیتر:\n"
+            "   الف) summary: نسخه‌ی خیلی کوتاه برای تلگرام (فضا محدوده)، دقیقاً ۲ تا ۳ خط، هر خط حداکثر ۲۵ کلمه:\n"
+            "      - خط ۱: چه اتفاقی افتاد (با مهم‌ترین رقم یا جزئیات)\n"
+            "      - خط ۲: چرا مهمه / چه تاثیری داره\n"
+            "      - خط ۳ (اختیاری): یک جزئیات مهم دیگر\n"
+            "   ب) body_fa: نسخه‌ی کامل‌تر برای سایت (اینجا محدودیت فضا نداریم)، یک متن روان و پیوسته فارسی در ۴ تا ۷ جمله که کل خبر رو با جزئیات، زمینه، اعداد، نقل‌قول‌های مهم (در صورت وجود) و پیامدهای احتمالی توضیح بده. این باید یک ترجمه‌ی روان و بازنویسی‌شده باشه، نه ترجمه‌ی کلمه‌به‌کلمه.\n"
+            "   summary و body_fa هرگز نباید فقط تکرار تیتر باشن.\n"
             "۴. تیتر (title_fa) حداکثر ۱۰ کلمه، جذاب و بدون کلمات اضافه.\n\n"
             "قواعد امتیازبندی urgency (1 تا 10):\n"
             "- 9-10: تصمیم غافلگیرکننده فدرال‌رزرو، سقوط/رشد بزرگ بازار سهام (بالای ۳٪ در یک روز)، هک یا فروپاشی بزرگ کریپتو، تایید/رد ETF بیت‌کوین، جهش بیت‌کوین به رکورد جدید، اعلام مدل هوش‌مصنوعی انقلابی از OpenAI/Google/Anthropic.\n"
@@ -534,7 +569,8 @@ class GlobalRadar:
             "فرمت خروجی باید دقیقاً JSON زیر باشد و هیچ متن اضافه‌ای قبل یا بعدش نباشه:\n"
             "{\n"
             ' "title_fa": "تیتر کوتاه و روان",\n'
-            ' "summary": ["خط ۱: چه اتفاقی افتاد", "خط ۲: زمینه و پس‌زمینه", "خط ۳: چرا مهمه", "خط ۴: یک رقم یا واکنش مهم", "خط ۵: پیامد بعدی (اختیاری)"],\n'
+            ' "summary": ["خط ۱: چه اتفاقی افتاد", "خط ۲: چرا مهمه", "خط ۳: جزئیات مهم دیگر (اختیاری)"],\n'
+            ' "body_fa": "یک پاراگراف ۴ تا ۷ جمله‌ای، روان و کامل، که کل خبر رو با جزئیات توضیح میده.",\n'
             ' "category": "اقتصاد یا کریپتو یا تکنولوژی",\n'
             ' "tag": "کلمه کلیدی کوتاه",\n'
             ' "urgency": عدد بین 1 تا 10\n'
@@ -648,7 +684,8 @@ class GlobalRadar:
             "id": news_id,
             "title_fa": ai.get('title_fa', raw_title),
             "title_en": raw_title,
-            "summary": ai.get('summary', [snippet])[:5],
+            "summary": ai.get('summary', [snippet])[:3],
+            "body_fa": ai.get('body_fa', ''),
             "category": category,
             "tag": ai.get('tag', 'General'),
             "urgency": urgency_val,
@@ -711,13 +748,14 @@ class GlobalRadar:
         if market:
             market_html = (
                 "<table bordered striped>\n"
-                "<tr><th>💵 دلار</th><th>🪙 سکه</th><th>₿ بیت‌کوین</th><th>Ξ اتریوم</th><th>₮ تتر</th></tr>\n"
+                "<tr><th>🪙 سکه تمام</th><th>🥇 انس طلا</th><th>₮ تتر</th><th>₿ بیت‌کوین</th><th>Ξ اتریوم</th><th>✕ ریپل</th></tr>\n"
                 f"<tr>"
-                f"<td align='center'>{esc(market.get('usd_irt'))}</td>"
                 f"<td align='center'>{esc(market.get('coin_irt'))}</td>"
+                f"<td align='center'>{esc(market.get('gold_oz_usd'))}</td>"
+                f"<td align='center'>{esc(market.get('usdt_irt'))}</td>"
                 f"<td align='center'>{esc(market.get('btc'))}</td>"
                 f"<td align='center'>{esc(market.get('eth'))}</td>"
-                f"<td align='center'>{esc(market.get('usdt_irt'))}</td>"
+                f"<td align='center'>{esc(market.get('xrp'))}</td>"
                 f"</tr>\n</table>\n"
             )
 
@@ -818,11 +856,12 @@ class GlobalRadar:
         if market:
             lines.append(
                 f"\n\n💰 <b>قیمت‌های لحظه‌ای</b>\n"
-                f"💵 دلار: {esc(market.get('usd_irt'))}\n"
                 f"🪙 سکه تمام: {esc(market.get('coin_irt'))}\n"
+                f"🥇 انس طلا: {esc(market.get('gold_oz_usd'))}\n"
+                f"₮ تتر: {esc(market.get('usdt_irt'))}\n"
                 f"₿ بیت‌کوین: {esc(market.get('btc'))}\n"
                 f"Ξ اتریوم: {esc(market.get('eth'))}\n"
-                f"₮ تتر: {esc(market.get('usdt_irt'))}"
+                f"✕ ریپل: {esc(market.get('xrp'))}"
             )
 
         if base_site:
@@ -866,6 +905,14 @@ class GlobalRadar:
 
         market_snapshot = self.fetch_market_rates()
         self._atomic_json_dump(CONFIG['FILES']['MARKET'], market_snapshot)
+
+        raw_channel = (CONFIG['TELEGRAM']['CHANNEL_ID'] or '').strip()
+        telegram_link = f"https://t.me/{raw_channel.lstrip('@')}" if raw_channel.startswith('@') else ''
+        self._atomic_json_dump(CONFIG['FILES']['SITE_CONFIG'], {
+            "telegram_channel": raw_channel,
+            "telegram_link": telegram_link,
+            "site_url": os.environ.get('SITE_URL', ''),
+        })
 
         manual_url = os.environ.get('MANUAL_URL')
         if manual_url and manual_url.strip():
