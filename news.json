@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "id": "c9e5ebcbe7",
+    "title_fa": "بازار در انتظار گزارش اشتغال",
+    "title_en": "Morning bid: Hoping for a clean and tidy jobs report",
+    "summary": [
+      "بازار در انتظار گزارش اشتغال",
+      "تأثیر بر تصمیم نرخ بهره"
+    ],
+    "category": "اقتصاد",
+    "tag": "اشتغال",
+    "urgency": 4,
+    "source": "Reuters on MSN",
+    "url": "https://www.msn.com/en-us/money/economy/morning-bid-hoping-for-a-clean-and-tidy-jobs-report/ar-AA29yW2S?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/money/economy/morning-bid-hoping-for-a-clean-and-tidy-jobs-report/ar-AA29yW2S",
+    "image": "https://www.bing.com/th?id=ONUT.AM2zpYTZ43asX2JUnr1vrQ",
+    "timestamp": 1786080799.8436255,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "e4da69e0e6",
+    "title_fa": "نتایج مالی SoFi و Visa",
+    "title_en": "SoFi and Visa Earnings Point to Consumer Confidence",
+    "summary": [
+      "SoFi و Visa نتایج مالی قوی اعلام کردند",
+      "نشان‌دهنده اعتماد مصرف‌کننده است"
+    ],
+    "category": "اقتصاد",
+    "tag": "SoFi",
+    "urgency": 6,
+    "source": "Motley Fool · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-visa-earnings-point-consumer-050046903.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/sofi-visa-earnings-point-consumer-050046903.html",
+    "image": "https://media.zenfs.com/en/motleyfool.com/742acd69e529f23dffb4b1e3f7f8c849",
+    "timestamp": 1786078817.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "608ec7c26d",
+    "title_fa": "کتی وود ۱۷ میلیون دلار از سهام پالانتیر می‌فروشد",
+    "title_en": "Cathie Wood sells $17 million of popular AI stock",
+    "summary": [
+      "کتی وود ۱۷ میلیون دلار از سهام پالانتیر فروخت",
+      "اثر بر صندوق‌های سرمایه‌گذاری"
+    ],
+    "category": "اقتصاد",
+    "tag": "کتی وود",
+    "urgency": 4,
+    "source": "TheStreet · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-17-million-040638393.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-17-million-040638393.html",
+    "image": "https://media.zenfs.com/en/thestreet_881/8469761f96135ef3b000a99401ccda42",
+    "timestamp": 1786077197.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "2ccfc6140d",
+    "title_fa": "nLight درآمد رکوردی را گزارش کرد",
+    "title_en": "nLight Q2 Earnings Call Highlights",
+    "summary": [
+      "nLight درآمد رکوردی 82.6 میلیون دلار را گزارش کرد",
+      "رشد 34 درصدی درآمد سالانه"
+    ],
+    "category": "اقتصاد",
+    "tag": "nLight",
+    "urgency": 5,
+    "source": "MarketBeat · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nlight-q2-earnings-call-highlights-040351290.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/nlight-q2-earnings-call-highlights-040351290.html",
+    "image": "https://media.zenfs.com/en/marketbeat_955/20ac0c883a2b748a3c9918f62ca8e10b",
+    "timestamp": 1786077197.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "48d384040e",
+    "title_fa": "قیمت نفت پایین‌تر از حمایت طلا",
+    "title_en": "Lower Oil Prices Lend Support For The Gold Rally",
+    "summary": [
+      "قیمت نفت دومین هفته پیاپی کاهش یافت",
+      "به دلیل دیپلماسی آمریکا و ایران"
+    ],
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 4,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
+    "clean_url": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_lugb6b2d9h.jpg",
+    "timestamp": 1786060800.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "7b9c26dfab",
+    "title_fa": "سقوط سهام شرکت‌های فناوری",
+    "title_en": "Tech Down as Software, AI Firms Wobble — Tech Roundup",
+    "summary": [
+      "سهام شرکت‌های فناوری سقوط کرد",
+      "به دلیل نگرانی از سرمایه‌گذاری‌های بزرگ"
+    ],
+    "category": "تکنولوژی",
+    "tag": "سهام",
+    "urgency": 6,
+    "source": "Morningstar",
+    "url": "https://www.morningstar.com/news/dow-jones/2026080620644/tech-down-as-software-ai-firms-wobble-tech-roundup",
+    "clean_url": "https://www.morningstar.com/news/dow-jones/2026080620644/tech-down-as-software-ai-firms-wobble-tech-roundup",
+    "image": "https://s.yimg.com/bo/a362d7f7-f342-59b9-bd36-c01cdbdbf51a_1783067230542.png.cf.jpg",
+    "timestamp": 1786055597.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "b8e3b88ddd",
+    "title_fa": "بازار سهام با کاهش قیمت نفت و نرخ بهره",
+    "title_en": "Stocks Slip on Soft Guidance, High Expectations: Stock Market Today",
+    "summary": [
+      "بازار سهام امروز کاهش یافت",
+      "به دلیل انتظارات بالا و نگرانی از آینده"
+    ],
+    "category": "اقتصاد",
+    "tag": "بازار سهام",
+    "urgency": 4,
+    "source": "Kiplinger · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-soft-guidance-high-200855599.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-soft-guidance-high-200855599.html",
+    "image": "https://media.zenfs.com/en/kiplinger_425/82eff7b5e8b4b9a0e9025d8a74fc3bd9",
+    "timestamp": 1786048397.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "3fc49959b4",
+    "title_fa": "ساخت داشبورد اقتصادی ماهانه",
+    "title_en": "Build A Monthly Economic Dashboard, Then Skip The Headlines",
+    "summary": [
+      "ساخت داشبورد اقتصادی ماهانه برای تمرکز بر مسائل مهم",
+      "کمک به رهبران تجاری برای صرفه‌جویی در زمان و تمرکز"
+    ],
+    "category": "اقتصاد",
+    "tag": "داشبورد اقتصادی",
+    "urgency": 4,
+    "source": "Forbes · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/articles/build-monthly-economic-dashboard-then-113000736.html",
+    "clean_url": "https://finance.yahoo.com/economy/articles/build-monthly-economic-dashboard-then-113000736.html",
+    "image": "https://media.zenfs.com/en/forbes_contributor_845/dbbb46e0273bbd8ffd3b6682c5dcf051",
+    "timestamp": 1786015995.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "59318ce80d",
+    "title_fa": "سود قوی تکنولوژی بازار آمریکا را بالا می‌برد",
+    "title_en": "Strong tech earnings lift major US indices",
+    "summary": [
+      "سود سهام شرکت‌های بزرگ تکنولوژی افزایش یافت",
+      "بازار را با امید به درآمد بیشتر از هوش مصنوعی تقویت می‌کند"
+    ],
+    "category": "تکنولوژی",
+    "tag": "هوش مصنوعی",
+    "urgency": 8,
+    "source": "The Jerusalem Post",
+    "url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-904797",
+    "clean_url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-904797",
+    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733012",
+    "timestamp": 1786015620.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "82bd978076",
+    "title_fa": "رکورد ۵ روزه 道 جونز پایان یافت",
+    "title_en": "Markets News, Aug. 5, 2026: Dow’s Winning Streak Ends as Major Indexes Close Low...",
+    "summary": [
+      "داو جونز ۴۵۰ امتیاز از دست داد",
+      "سقوط بازار سهام و افزایش قیمت نفت"
+    ],
+    "category": "اقتصاد",
+    "tag": "داو جونز",
+    "urgency": 6,
+    "source": "Investopedia · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-aug-5-2026-103759036.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-aug-5-2026-103759036.html",
+    "image": "https://media.zenfs.com/en/investopedia_245/9014021bd5917f50f1cd47a691109e71",
+    "timestamp": 1786012397.0,
+    "sent_to_telegram": false
+  }
+]
