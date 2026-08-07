@@ -108,6 +108,24 @@
     "sent_to_telegram": false
   },
   {
+    "id": "41b972a542",
+    "title_fa": "سود سه‌ماهه کرتیس-رایت ۱۲ درصد افزایش یافت",
+    "title_en": "Curtiss-Wright Corp (CW) (Q2 2026) Earnings Call Highlights: Rec",
+    "summary": [
+      "فروش کرتیس-رایت ۵ درصد افزایش یافت",
+      "سود عملیاتی ۱۲ درصد رشد کرد"
+    ],
+    "category": "اقتصاد",
+    "tag": "سود سه‌ماهه",
+    "urgency": 4,
+    "source": "Guru Focus",
+    "url": "https://www.gurufocus.com/news/9014201/curtisswright-corp-cw-q2-2026-earnings-call-highlights-record-orders-and-raised-guidance-signal-strong-momentum",
+    "clean_url": "https://www.gurufocus.com/news/9014201/curtisswright-corp-cw-q2-2026-earnings-call-highlights-record-orders-and-raised-guidance-signal-strong-momentum",
+    "image": "https://s.yimg.com/bo/04db979d-da41-52da-a5ce-3335d1ffce48_1786059472671.png.cf.jpg",
+    "timestamp": 1786052967.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "b8e3b88ddd",
     "title_fa": "بازار سهام با کاهش قیمت نفت و نرخ بهره",
     "title_en": "Stocks Slip on Soft Guidance, High Expectations: Stock Market Today",
@@ -123,6 +141,24 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-soft-guidance-high-200855599.html",
     "image": "https://media.zenfs.com/en/kiplinger_425/82eff7b5e8b4b9a0e9025d8a74fc3bd9",
     "timestamp": 1786048397.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "4ae04793a9",
+    "title_fa": "استراتژی جدید رئیس فدرال رزرو",
+    "title_en": "What will Kevin Warsh do if America's economy breaks?",
+    "summary": [
+      "کوین وارシュ رئیس فدرال رزرو سکوت اختیار کرده",
+      "این استراتژی ممکنه نوسانات بازار را افزایش بده"
+    ],
+    "category": "اقتصاد",
+    "tag": "فدرال رزرو",
+    "urgency": 6,
+    "source": "Mint",
+    "url": "https://www.livemint.com/global/what-will-kevin-warsh-do-if-america-s-economy-breaks/amp-11786012351663.html",
+    "clean_url": "https://www.livemint.com/global/what-will-kevin-warsh-do-if-america-s-economy-breaks/amp-11786012351663.html",
+    "image": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/USA-BONDS-YIELDCURVE-0_1786018344456_1786018363968_2d8c49b9-7917-43ef-965f-fa285f9d06ac.JPG",
+    "timestamp": 1786018380.0,
     "sent_to_telegram": false
   },
   {
@@ -159,7 +195,7 @@
     "clean_url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-904797",
     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733012",
     "timestamp": 1786015620.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "82bd978076",
