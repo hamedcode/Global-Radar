@@ -1,5 +1,23 @@
 [
   {
+    "id": "1c2afd2c78",
+    "title_fa": "ثروت زاکربرگ ۱۸ میلیارد دلار نوسان کرد",
+    "title_en": "Mark Zuckerberg's Net Worth Swung by Double-Digit Billions Twice This Summer as Meta's AI Spending Divides Wall Street. Here's What the Volatility Signals for Investors.",
+    "summary": [
+      "ثروت زاکربرگ با تغییرات دو رقمی میلیاردی نوسان کرد",
+      "نشان‌دهنده اختلاف نظر در مورد هزینه‌های AI متا است"
+    ],
+    "category": "تکنولوژی",
+    "tag": "زاکربرگ",
+    "urgency": 7,
+    "source": "The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/08/07/mark-zuckerberg-net-worth-volatility-meta-ai/",
+    "clean_url": "https://www.fool.com/investing/2026/08/07/mark-zuckerberg-net-worth-volatility-meta-ai",
+    "image": "https://www.bing.com/th?id=ONUT.Dr5kS0K2eBXN8Dg_Cp-miQ",
+    "timestamp": 1786096380.430628,
+    "sent_to_telegram": true
+  },
+  {
     "id": "d717cf290c",
     "title_fa": "هوش مصنوعی پایان اعتیاد وال استریت به EPS",
     "title_en": "AI could end Wall Street’s EPS obsession: Marty Fridson",
@@ -15,7 +33,7 @@
     "clean_url": "https://www.zawya.com/ar/special-coverage/insights/ai-could-end-wall-streets-eps-obsession-marty-fridson-424733",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786090125.6389751,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "c9e5ebcbe7",
@@ -213,7 +231,7 @@
     "clean_url": "https://finance.yahoo.com/markets/crypto/articles/transatlantic-crypto-framework-us-uk-145211186.html",
     "image": "https://media.zenfs.com/en/99bitcoins_us_315/8bfbe046305dedd61dd7cc32ea01992e",
     "timestamp": 1786028728.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "4ae04793a9",
