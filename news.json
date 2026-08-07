@@ -1,5 +1,25 @@
 [
   {
+    "id": "5511dc76fb",
+    "title_fa": "بازار با تکرار تجربه",
+    "title_en": "Morning Bid: Dealjà vu",
+    "summary": [
+      "شکست اسپیس‌ایکس و AMD در جلب رضایت سرمایه‌گذاران",
+      "علیرغم درآمد بیشتر، نگرانی‌ها درباره هزینه‌های هوش مصنوعی باقی ماند",
+      "قیمت نفت کاهش یافت"
+    ],
+    "body_fa": "در هفته گذشته، بازار با تکرار تجربه‌های قبلی روبرو بود. شرکت‌های بزرگ فناوری مانند اسپیس‌ایکس و AMD علی‌رغم درآمد بیشتر، نتوانستند سرمایه‌گذاران را راضی کنند. نگرانی‌ها درباره دوام هزینه‌های هوش مصنوعی仍 باقی ماند. در همین حال، احتمال توافق موقت جدید بین ایالات متحده و ایران导致 کاهش قیمت نفت شد، اما به نظر می‌رسد امیدواری در آخر هفته کاهش یافت. این هفته، شرکت‌های بزرگی مانند الی لیلی، مرک، کونوکوفیلیپس، کاترپیلار و دیزنی گزارش‌های مالی خود را منتشر کردند. نتایج به طور کلی رضایت‌بخش بود، اما نگرانی‌ها درباره آینده بازار仍 باقی ماند.",
+    "category": "اقتصاد",
+    "tag": "بازار",
+    "urgency": 4,
+    "source": "AOL",
+    "url": "https://www.aol.com/articles/morning-bid-dealj-vu-104313000.html",
+    "clean_url": "https://www.aol.com/articles/morning-bid-dealj-vu-104313000.html",
+    "image": "https://www.bing.com/th?id=ONUT.ddnlkb9ZhTmkwAf3VBhPww",
+    "timestamp": 1786102789.7052972,
+    "sent_to_telegram": false
+  },
+  {
     "id": "f57bb7ad6b",
     "title_fa": "تورم آمریکا می‌تواند بر بازار سهام تأثیر بگذارد",
     "title_en": "Inflation data to test record-setting US stocks, Fed rate views",
@@ -144,6 +164,26 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/nlight-q2-earnings-call-highlights-040351290.html",
     "image": "https://media.zenfs.com/en/marketbeat_955/20ac0c883a2b748a3c9918f62ca8e10b",
     "timestamp": 1786077197.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "c36a21a3eb",
+    "title_fa": "بازگشایی تنگه هرمز و تاثیر بر قیمت نفت",
+    "title_en": "The Strait of Hormuz could finally reopen... here's what happens to oil prices and the global economy next",
+    "summary": [
+      "تنگه هرمز ممکن است به‌زودی بازگشایی شود",
+      "این اتفاق می‌تواند قیمت نفت را تحت تاثیر قرار دهد",
+      "تاثیرات آن بر اقتصاد جهانی"
+    ],
+    "body_fa": "یک پیشنهاد برای تعلیق ۱۴ روزه عملیات نظامی شامل بازگشایی فوری تنگه هرمز برای کشتی‌های غیرنظامی و تجاری تحت هماهنگی نظامی ایران است. این موضوع می‌تواند影响 مستقیمی بر قیمت نفت و اقتصاد جهانی داشته باشد. با بازگشایی تنگه هرمز، قیمت نفت可能 کاهش یابد و این می‌تواند به بهبود شرایط اقتصادی در جهان کمک کند. از سوی دیگر، این اتفاق می‌تواند منجر به تغییرات در روابط سیاسی و اقتصادی بین کشورها شود. در این شرایط، اقتصاددانان و کارشناسان بازار پیش‌بینی‌های متفاوتی را ارائه می‌کنند.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 6,
+    "source": "Money & Macro on MSN",
+    "url": "https://www.msn.com/en-us/money/economy/the-strait-of-hormuz-could-finally-reopen-here-s-what-happens-to-oil-prices-and-the-global-economy-next/vi-AA29BdXf",
+    "clean_url": "https://www.msn.com/en-us/money/economy/the-strait-of-hormuz-could-finally-reopen-here-s-what-happens-to-oil-prices-and-the-global-economy-next/vi-AA29BdXf",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786074485.0,
     "sent_to_telegram": false
   },
   {
