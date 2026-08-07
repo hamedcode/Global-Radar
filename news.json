@@ -140,6 +140,26 @@
     "sent_to_telegram": false
   },
   {
+    "id": "45ee94580b",
+    "title_fa": "ترامپ مدیا طرح‌های کریپتو را رها کرد",
+    "title_en": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+    "summary": [
+      "ترامپ مدیا طرح‌های کریپتو با Crypto.com را لغو کرد",
+      "به دلیل شرایط بازار و تغییر در استراتژی تجاری",
+      "فاند‌های Truth Social بدون تغییر باقی می‌مانند"
+    ],
+    "body_fa": "گروه رسانه‌ای و فناوری ترامپ، به رهبری دونالد ترامپ، طرح‌های خود برای راه‌اندازی یک شرکت خزانه‌داری کریپتو با پشتیبانی Crypto.com را لغو کرده است. این تصمیم در پی توافق سه‌جانبه بین ترامپ مدیا، Crypto.com و شرکت اکتساب目的 خاص یورکویل 取消 شده است. دلیل این لغو، شرایط بازار غالب و تغییر در استراتژی تجاری و سهامداران اعلام شده است. با این وجود، فاند‌های موجود Truth Social بدون تغییر باقی خواهند ماند. این خبر نشان‌دهنده تغییر در رویکرد ترامپ مدیا نسبت به بازار کریپتو است.",
+    "category": "کریپتو",
+    "tag": "ترامپ مدیا",
+    "urgency": 4,
+    "source": "Decrypt",
+    "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+    "clean_url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+    "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png",
+    "timestamp": 1786111440.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "4c2509ed02",
     "title_fa": "یورو در برابر دلار جهش می‌کند",
     "title_en": "EUR/USD Rockets Past 1.1560 as Soft U.S. Jobs Data Fuel Fed Rate-Cut Surge",
