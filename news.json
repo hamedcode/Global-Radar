@@ -1,5 +1,25 @@
 [
   {
+    "id": "4701b8f9d0",
+    "title_fa": "heatflation جهانی",
+    "title_en": "Heatwaves spark global 'heatflation' as food prices soar",
+    "summary": [
+      "heatwaves باعث افزایش قیمت مواد غذایی شده",
+      "این افزایش قیمت به دلیل کاهش تولید ناشی از گرما است",
+      "تأثیرات آن بر اقتصاد جهانی در حال افزایش است"
+    ],
+    "body_fa": "با ادامه یافتن heatwaves در سراسر جهان، قیمت مواد غذایی به شدت افزایش یافته است. این پدیده به عنوان 'heatflation' شناخته می‌شود. کاهش تولید ناشی از گرما،cause اصلی این افزایش قیمت است. خانه‌داران مانند خانم بک، 38 ساله، که در یک سوپرمارکت بزرگ در شهر سجونگ خرید می‌کنند، با افزایش قیمت مواد غذایی مواجه شده‌اند. این افزایش قیمت نه تنها بر اقتصاد خانوارها، بلکه بر اقتصاد جهانی نیز تأثیر می‌گذارد. با توجه به ادامه یافتن heatwaves، انتظار می‌رود که قیمت مواد غذایی در آینده نیز افزایش یابد.",
+    "category": "اقتصاد",
+    "tag": "heatflation",
+    "urgency": 6,
+    "source": "The Chosun Ilbo on MSN",
+    "url": "https://www.msn.com/en-xl/news/other/heatwaves-spark-global-heatflation-as-food-prices-soar/ar-AA29Ch7p?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-xl/news/other/heatwaves-spark-global-heatflation-as-food-prices-soar/ar-AA29Ch7p",
+    "image": "https://www.bing.com/th?id=ONUT.V4B51anUeDGV8z04bRJLIQ",
+    "timestamp": 1786145189.5477033,
+    "sent_to_telegram": false
+  },
+  {
     "id": "650345d9b9",
     "title_fa": "درگیری هوثی‌ها و عربستان",
     "title_en": "Why the Houthi-Saudi Arabia conflict matters to Bangladesh",
@@ -374,6 +394,26 @@
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786090125.6389751,
     "sent_to_telegram": true
+  },
+  {
+    "id": "1a07b6616d",
+    "title_fa": "قیمت نفت به ۷۸ دلار نزدیک می‌شود",
+    "title_en": "WTI Price Forecast: Growing internal war risks in Middle East support recovery to near $78",
+    "summary": [
+      "قیمت نفت WTI به ۷۷.۸۰ دلار رسید",
+      "به دلیل افزایش خطر جنگ داخلی در خاورمیانه",
+      "توافق پیشنهادی ایران و عمان برای مدیریت تنگه هرمز"
+    ],
+    "body_fa": "قیمت نفت غرب تگزاس (WTI) در بازار نیویورک به gần ۷۷.۸۰ دلار رسید. این افزایش قیمت به دلیل افزایش خطر جنگ داخلی در خاورمیانه و عدم اطمینان از توافق پیشنهادی بین ایالات متحده و ایران برای بازگشایی تنگه هرمز است. رئیس جمهور ایالات متحده، دونالد ترامپ، اعلام کرده بود که ایران توافق کرده است تنگه هرمز را بازگشایی کند و تهدید هسته‌ای خود را متوقف کند، اما اکنون ایران در حال مذاکره با عمان برای مدیریت مشترک این تنگه است. این عدم اطمینان منجر به افزایش قیمت نفت شده است.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 6,
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/wti-price-forecast-growing-internal-war-risks-in-middle-east-support-recovery-to-near-78-202608070630",
+    "clean_url": "https://www.fxstreet.com/news/wti-price-forecast-growing-internal-war-risks-in-middle-east-support-recovery-to-near-78-202608070630",
+    "image": "https://editorial.fxsstatic.com/images/i/Oil-18326_Medium.png",
+    "timestamp": 1786084200.0,
+    "sent_to_telegram": false
   },
   {
     "id": "fa302a2239",
