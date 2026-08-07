@@ -519,14 +519,18 @@ class GlobalRadar:
                         time.sleep(1)
                         continue
                     raw = body.get('result', {}).get('response', '')
-                    clean = re.sub(r'```json\s*|```', '', raw).strip()
-                    # Some models wrap output with stray text; grab the outermost {...} block.
-                    m = re.search(r'\{.*\}', clean, re.DOTALL)
-                    if m:
-                        clean = m.group(0)
-                    data = json.loads(clean)
-                    if 'title_fa' in data and 'summary' in data:
+                    if isinstance(raw, dict):
+                        data = raw
+                    else:
+                        clean = re.sub(r'```json\s*|```', '', str(raw)).strip()
+                        # Some models wrap output with stray text; grab the outermost {...} block.
+                        m = re.search(r'\{.*\}', clean, re.DOTALL)
+                        if m:
+                            clean = m.group(0)
+                        data = json.loads(clean)
+                    if isinstance(data, dict) and 'title_fa' in data and 'summary' in data:
                         return data
+                    logger.error(f"AI response missing expected keys: {str(data)[:300]}")
                 else:
                     logger.error(f"CF AI HTTP {resp.status_code}: {resp.text[:300]}")
                 time.sleep(1)
