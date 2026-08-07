@@ -40,6 +40,26 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1bb2f5ff8b",
+    "title_fa": "چین در حال پیشی گرفتن در هوش مصنوعی",
+    "title_en": "China is gaining ground in AI. But the U.S. still has a major advantage",
+    "summary": [
+      "چین در هوش مصنوعی پیشرفت می‌کند",
+      "ایالات متحده هنوز برتری دارد",
+      "چین در مدل‌های باز پیشی گرفته است"
+    ],
+    "body_fa": "چین در زمینه هوش مصنوعی در حال پیشرفت است، اما ایالات متحده هنوز برتری دارد. رئیس شرکت Hugging Face، کلمان دلانگ، ادعا کرد که چین در حال برتری در مدل‌های باز هوش مصنوعی است و ممکن است تا پایان سال یا سال آینده در مرزهای پیشرفته نیز برتری پیدا کند.尽管 چین به دلیل محدودیت دسترسی به محاسبات پیشرفته هوش مصنوعی با چالش مواجه است، اما مدل‌های هوش مصنوعی چین در حال کاهش فاصله عملکردی با مدل‌های آمریکایی هستند. ایالات متحده در زمینه محاسبات هوش مصنوعی برتری دارد و سعی کرده است چین را از دسترسی به این فناوری باز دارد.",
+    "category": "تکنولوژی",
+    "tag": "هوش مصنوعی",
+    "urgency": 6,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
+    "clean_url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
+    "image": "https://s.yimg.com/bo/e66332e9-a5e9-5051-b1af-5a3a2a71c23e_1785194770227.jpg",
+    "timestamp": 1786100787.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "f57bb7ad6b",
     "title_fa": "تورم آمریکا می‌تواند بر بازار سهام تأثیر بگذارد",
     "title_en": "Inflation data to test record-setting US stocks, Fed rate views",
