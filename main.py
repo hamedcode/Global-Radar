@@ -61,9 +61,9 @@ CONFIG = {
     'CF_API_TOKEN': os.environ.get('CF_API_TOKEN'),
     'CF_MODEL': os.environ.get('CF_MODEL', '@cf/meta/llama-3.3-70b-instruct-fp8-fast'),
     'AI_RETRIES': 3,
-    # Only genuinely major stories reach Telegram. Keep this high on purpose.
-    'MIN_TELEGRAM_URGENCY': 7,
-    'MAX_DIGEST_ITEMS': 6,
+    # Telegram now mirrors the site: same 4+ bar used to save a story at all.
+    'MIN_TELEGRAM_URGENCY': 4,
+    'MAX_DIGEST_ITEMS': 40,
     'MAX_NEWS_AGE_HOURS': 20,
     # Digest is only dispatched inside these Tehran-time windows (3-4x/day, not every run).
     'DIGEST_SLOTS': [
@@ -292,7 +292,7 @@ class GlobalRadar:
     # ───────────────────────── market snapshot ─────────────────────────
 
     def fetch_market_rates(self):
-        data = {"btc": "نامشخص", "eth": "نامشخص", "updated": "--:--"}
+        data = {"btc": "نامشخص", "eth": "نامشخص", "usdt_irt": "نامشخص", "updated": "--:--"}
         try:
             resp = self.scraper.get(
                 "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true",
@@ -308,6 +308,22 @@ class GlobalRadar:
                     data['eth'] = f"${eth['usd']:,.0f} ({eth.get('usd_24h_change', 0):+.1f}%)"
         except Exception as e:
             logger.warning(f"Market fetch failed: {e}")
+
+        try:
+            resp = self.scraper.post(
+                "https://api.nobitex.ir/market/stats",
+                json={"srcCurrency": "usdt", "dstCurrency": "rls"},
+                timeout=10
+            )
+            if resp.status_code == 200:
+                j = resp.json()
+                latest_rial = j.get('stats', {}).get('usdt-rls', {}).get('latest')
+                if latest_rial:
+                    toman = float(latest_rial) / 10
+                    data['usdt_irt'] = f"{toman:,.0f} تومان"
+        except Exception as e:
+            logger.warning(f"Nobitex USDT fetch failed: {e}")
+
         data["updated"] = time.strftime("%H:%M")
         return data
 
@@ -476,7 +492,11 @@ class GlobalRadar:
             "🔴 قوانین نگارش:\n"
             "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
             "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
-            "۳. summary باید دقیقاً ۲ خط کوتاه باشد: خط اول 'چه اتفاقی افتاد' و خط دوم 'چرا مهمه / تاثیرش چیه'. هر خط حداکثر ۲۵ کلمه.\n"
+            "۳. summary باید ۲ تا ۳ خط کوتاه باشد و حتماً بر اساس متن کامل خبر (TEXT) نوشته شود، نه فقط تیتر:\n"
+            "   - خط اول: چه اتفاقی افتاد (با جزئیات و اعداد مهم از متن خبر)\n"
+            "   - خط دوم: چرا مهمه / چه تاثیری داره\n"
+            "   - خط سوم (اختیاری ولی ترجیحاً بنویس): یک جزئیات یا رقم یا واکنش مهم دیگر از متن خبر\n"
+            "   هر خط حداکثر ۲۵ کلمه. summary هرگز نباید فقط تکرار تیتر باشد.\n"
             "۴. تیتر (title_fa) حداکثر ۱۰ کلمه، جذاب و بدون کلمات اضافه.\n\n"
             "قواعد امتیازبندی urgency (1 تا 10):\n"
             "- 9-10: تصمیم غافلگیرکننده فدرال‌رزرو، سقوط/رشد بزرگ بازار سهام (بالای ۳٪ در یک روز)، هک یا فروپاشی بزرگ کریپتو، تایید/رد ETF بیت‌کوین، جهش بیت‌کوین به رکورد جدید، اعلام مدل هوش‌مصنوعی انقلابی از OpenAI/Google/Anthropic.\n"
@@ -486,7 +506,7 @@ class GlobalRadar:
             "فرمت خروجی باید دقیقاً JSON زیر باشد و هیچ متن اضافه‌ای قبل یا بعدش نباشه:\n"
             "{\n"
             ' "title_fa": "تیتر کوتاه و روان",\n'
-            ' "summary": ["خط اول: چه اتفاقی افتاد", "خط دوم: چرا مهمه"],\n'
+            ' "summary": ["خط اول: چه اتفاقی افتاد", "خط دوم: چرا مهمه", "خط سوم: یک جزئیات یا رقم مهم دیگر"],\n'
             ' "category": "اقتصاد یا کریپتو یا تکنولوژی",\n'
             ' "tag": "کلمه کلیدی کوتاه",\n'
             ' "urgency": عدد بین 1 تا 10\n'
@@ -600,7 +620,7 @@ class GlobalRadar:
             "id": news_id,
             "title_fa": ai.get('title_fa', raw_title),
             "title_en": raw_title,
-            "summary": ai.get('summary', [snippet])[:2],
+            "summary": ai.get('summary', [snippet])[:3],
             "category": category,
             "tag": ai.get('tag', 'General'),
             "urgency": urgency_val,
@@ -623,7 +643,7 @@ class GlobalRadar:
 
     # ───────────────────────── telegram digest ─────────────────────────
 
-    def send_digest_to_telegram(self, items):
+    def send_digest_to_telegram(self, items, market=None):
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id or not items:
@@ -652,6 +672,14 @@ class GlobalRadar:
                 for s in it.get('summary', []):
                     lines.append(esc(s))
                 lines.append(f"🔗 <a href=\"{esc(it['url'])}\">منبع: {esc(it['source'])}</a>")
+
+        if market:
+            lines.append(
+                f"\n\n💰 <b>قیمت‌های لحظه‌ای</b>\n"
+                f"₿ بیت‌کوین: {esc(market.get('btc'))}\n"
+                f"Ξ اتریوم: {esc(market.get('eth'))}\n"
+                f"₮ تتر: {esc(market.get('usdt_irt'))}"
+            )
 
         if base_site:
             lines.append(f"\n\n📌 <a href=\"{esc(base_site)}\">مشاهده آرشیو کامل</a>")
@@ -692,7 +720,8 @@ class GlobalRadar:
     def run(self):
         logger.info(">>> GlobalRadar started...")
 
-        self._atomic_json_dump(CONFIG['FILES']['MARKET'], self.fetch_market_rates())
+        market_snapshot = self.fetch_market_rates()
+        self._atomic_json_dump(CONFIG['FILES']['MARKET'], market_snapshot)
 
         manual_url = os.environ.get('MANUAL_URL')
         if manual_url and manual_url.strip():
@@ -771,7 +800,7 @@ class GlobalRadar:
 
             if pending:
                 logger.info(f"Dispatching digest for slot {slot} with {len(pending)} items.")
-                sent_ok = self.send_digest_to_telegram(pending)
+                sent_ok = self.send_digest_to_telegram(pending, market=market_snapshot)
                 if sent_ok:
                     sent_ids = {it['id'] for it in pending}
                     for it in self.existing_news:
