@@ -1,5 +1,25 @@
 [
   {
+    "id": "bbf8d94ac8",
+    "title_fa": "متاماسک کیف پول هوشمند برای هوش مصنوعی معرفی کرد",
+    "title_en": "Morning Minute: MetaMask Hands AI Agents a Wallet",
+    "summary": [
+      "متاماسک کیف پول Agent Wallet را معرفی کرد",
+      "این کیف پول به هوش مصنوعی اجازه می‌دهد تا معاملات خود را انجام دهد",
+      "با محدودیت‌های امنیتی برای کاربران"
+    ],
+    "body_fa": "متاماسک، یکی از بزرگ‌ترین ارائه‌دهندگان کیف پول دیجیتال، روز پنج‌شنبه کیف پول Agent Wallet را معرفی کرد. این کیف پول به هوش مصنوعی اجازه می‌دهد تا به طور خودکار معاملات کریپتو را انجام دهد، اما با محدودیت‌هایی که کاربر تعیین می‌کند. این حرکت نشان‌دهنده تلاش متاماسک برای ترکیب فناوری‌های هوش مصنوعی با امنیت و خودمختاری در معاملات دیجیتال است. با این ویژگی جدید، کاربران می‌توانند به هوش مصنوعی اجازه دهند تا به طور خودکار معاملات را انجام دهد، در حالی که仍 کنترل کامل بر روی دارایی‌های خود دارند.",
+    "category": "کریپتو",
+    "tag": "متاماسک",
+    "urgency": 7,
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-metamask-hands-ai-120035346.html",
+    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-metamask-hands-ai-120035346.html",
+    "image": "https://www.bing.com/th?id=ONUT.UkB9sqnGOXLwwKWOHrYKOQ",
+    "timestamp": 1786106583.4641943,
+    "sent_to_telegram": true
+  },
+  {
     "id": "5511dc76fb",
     "title_fa": "بازار با تکرار تجربه",
     "title_en": "Morning Bid: Dealjà vu",
@@ -17,7 +37,7 @@
     "clean_url": "https://www.aol.com/articles/morning-bid-dealj-vu-104313000.html",
     "image": "https://www.bing.com/th?id=ONUT.ddnlkb9ZhTmkwAf3VBhPww",
     "timestamp": 1786102789.7052972,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "f57bb7ad6b",
@@ -37,7 +57,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/inflation-data-test-record-setting-100226016.html",
     "image": "https://media.zenfs.com/en/reuters.com/8b26bf53bfdfedc6ea60da5e65358a7c",
     "timestamp": 1786096917.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "1c2afd2c78",
@@ -92,7 +112,7 @@
     "clean_url": "https://www.forbes.com/advisor/banking/savings/savings-account-rates-today-08-07-26",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786081140.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "c9e5ebcbe7",
@@ -110,7 +130,7 @@
     "clean_url": "https://www.msn.com/en-us/money/economy/morning-bid-hoping-for-a-clean-and-tidy-jobs-report/ar-AA29yW2S",
     "image": "https://www.bing.com/th?id=ONUT.AM2zpYTZ43asX2JUnr1vrQ",
     "timestamp": 1786080799.8436255,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "e4da69e0e6",
@@ -128,7 +148,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/sofi-visa-earnings-point-consumer-050046903.html",
     "image": "https://media.zenfs.com/en/motleyfool.com/742acd69e529f23dffb4b1e3f7f8c849",
     "timestamp": 1786078817.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "608ec7c26d",
@@ -146,7 +166,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-17-million-040638393.html",
     "image": "https://media.zenfs.com/en/thestreet_881/8469761f96135ef3b000a99401ccda42",
     "timestamp": 1786077197.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "2ccfc6140d",
@@ -164,7 +184,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/nlight-q2-earnings-call-highlights-040351290.html",
     "image": "https://media.zenfs.com/en/marketbeat_955/20ac0c883a2b748a3c9918f62ca8e10b",
     "timestamp": 1786077197.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "c36a21a3eb",
@@ -184,7 +204,7 @@
     "clean_url": "https://www.msn.com/en-us/money/economy/the-strait-of-hormuz-could-finally-reopen-here-s-what-happens-to-oil-prices-and-the-global-economy-next/vi-AA29BdXf",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786074485.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "377d991cef",
@@ -205,7 +225,7 @@
     "clean_url": "https://economictimes.indiatimes.com/markets/stock-market-crash",
     "image": "https://img.etimg.com/photo/19555866.cms",
     "timestamp": 1786060800.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "48d384040e",
@@ -223,7 +243,7 @@
     "clean_url": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
     "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_lugb6b2d9h.jpg",
     "timestamp": 1786060800.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "86a39f97ee",
@@ -241,7 +261,7 @@
     "clean_url": "https://www.msn.com/en-xl/money/other/global-ai-trade-revival-brightens-outlook-for-chinese-tech-stocks-after-record-sell-offs/ar-AA29A7NT",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786056073.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "7b9c26dfab",
@@ -259,7 +279,7 @@
     "clean_url": "https://www.morningstar.com/news/dow-jones/2026080620644/tech-down-as-software-ai-firms-wobble-tech-roundup",
     "image": "https://s.yimg.com/bo/a362d7f7-f342-59b9-bd36-c01cdbdbf51a_1783067230542.png.cf.jpg",
     "timestamp": 1786055597.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "41b972a542",
@@ -277,7 +297,7 @@
     "clean_url": "https://www.gurufocus.com/news/9014201/curtisswright-corp-cw-q2-2026-earnings-call-highlights-record-orders-and-raised-guidance-signal-strong-momentum",
     "image": "https://s.yimg.com/bo/04db979d-da41-52da-a5ce-3335d1ffce48_1786059472671.png.cf.jpg",
     "timestamp": 1786052967.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "b8e3b88ddd",
@@ -295,7 +315,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-soft-guidance-high-200855599.html",
     "image": "https://media.zenfs.com/en/kiplinger_425/82eff7b5e8b4b9a0e9025d8a74fc3bd9",
     "timestamp": 1786048397.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "29390ae9d2",
@@ -313,7 +333,7 @@
     "clean_url": "https://seekingalpha.com/article/4931883-nomura-global-bond-fund-q2-2026-commentary",
     "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195351026/image_2195351026.jpg?io=getty-c-w1536",
     "timestamp": 1786029600.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "d7ebb96dc9",
@@ -349,7 +369,7 @@
     "clean_url": "https://www.livemint.com/global/what-will-kevin-warsh-do-if-america-s-economy-breaks/amp-11786012351663.html",
     "image": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/USA-BONDS-YIELDCURVE-0_1786018344456_1786018363968_2d8c49b9-7917-43ef-965f-fa285f9d06ac.JPG",
     "timestamp": 1786018380.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "3fc49959b4",
@@ -367,7 +387,7 @@
     "clean_url": "https://finance.yahoo.com/economy/articles/build-monthly-economic-dashboard-then-113000736.html",
     "image": "https://media.zenfs.com/en/forbes_contributor_845/dbbb46e0273bbd8ffd3b6682c5dcf051",
     "timestamp": 1786015995.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "59318ce80d",
@@ -403,6 +423,6 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-aug-5-2026-103759036.html",
     "image": "https://media.zenfs.com/en/investopedia_245/9014021bd5917f50f1cd47a691109e71",
     "timestamp": 1786012397.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   }
 ]
