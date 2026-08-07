@@ -1,5 +1,25 @@
 [
   {
+    "id": "9a3f4385ce",
+    "title_fa": "رکورد جدید S&P با کاهش نگرانی از افزایش نرخ بهره",
+    "title_en": "S&P closes at record high as soft jobs report eases rate-hike concerns",
+    "summary": [
+      "S&P به رکورد جدید رسید",
+      "soft jobs report نگرانی از افزایش نرخ بهره را کاهش داد",
+      "23,000 شغل از دست رفت"
+    ],
+    "body_fa": "بازار سهام آمریکا روز جمعه با افزایش همراه بود و شاخص S&P به رکورد جدیدی رسید. این افزایش پس از انتشار گزارش شغل‌های نرم که نشان داد اقتصاد آمریکا به طور غیرمنتظره‌ای 23,000 شغل را از دست داده است، رخ داد. این عدد بسیار پایین‌تر از تخمین ekonomist‌ها است که انتظار افزایش 80,000 شغل را داشتند. همچنین گزارش‌های قبلی در مورد افزایش شغل در دو ماه گذشته به طور قابل توجهی اصلاح شدند. نرخ بیکاری نیز به 4.1 درصد رسید که این کاهش به دلیل خروج کارگران از نیروی کار بود. این گزارش导致 کاهش نگرانی از افزایش نرخ بهره توسط فدرال رزرو در جلسه سپتامبر آنها شد.",
+    "category": "اقتصاد",
+    "tag": "S&P",
+    "urgency": 8,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-muted-095442868.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-muted-095442868.html",
+    "image": "https://media.zenfs.com/en/reuters.com/6dbdbeff095d7fc54d9d0c8d2fba4e1c",
+    "timestamp": 1786132916.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "b8ad8d4557",
     "title_fa": "سکه‌های بیوتک به رکورد ۵۲ هفته‌ای می‌رسند",
     "title_en": "These two biotech stocks hit fresh 52-week highs today – NTRA clocks best day in nearly 20 months",
@@ -120,6 +140,26 @@
     "sent_to_telegram": false
   },
   {
+    "id": "a3076fdc6d",
+    "title_fa": "بازار سهام با رکورد بهترین هفته",
+    "title_en": "Stock market today: Major indexes on track for best week since April as stocks rise after jobs report; SpaceX extends rally",
+    "summary": [
+      "بازار سهام با رشد ۰.۸٪",
+      "رالی در سهام تکنولوژی",
+      "بهترین هفته از آوریل تاکنون"
+    ],
+    "body_fa": "بازار سهام امروز با رشد سهام تکنولوژی، به ویژه پس از انتشار گزارش شگفت‌آور بازار کار، رو به افزایش گذاشت. شاخص کامپوزیت ناسداک با ۰.۸٪ افزایش، در صدر رشد قرار داشت. این رشد نشان‌دهنده بهترین هفته برای بازار سهام از آوریل تاکنون است. با این اوج‌گیری، سرمایه‌گذاران به تحلیل گزارش بازار کار و影响 آن بر بازار سهام می‌پردازند. این گزارش که حاکی از شرایط بهتر از انتظار در بازار کار است، باعث افزایش اعتماد سرمایه‌گذاران به بازار شده است.",
+    "category": "اقتصاد",
+    "tag": "بازار سهام",
+    "urgency": 6,
+    "source": "Investopedia on MSN",
+    "url": "https://www.msn.com/en-us/money/markets/stock-market-today-major-indexes-rise-after-jobs-report-on-track-for-biggest-weekly-gains-in-months-spacex-surges-for-2nd-straight-day/ar-AA29Bjnk",
+    "clean_url": "https://www.msn.com/en-us/money/markets/stock-market-today-major-indexes-rise-after-jobs-report-on-track-for-biggest-weekly-gains-in-months-spacex-surges-for-2nd-straight-day/ar-AA29Bjnk",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786102964.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "022f213ba6",
     "title_fa": "بازار سهام با گزارش شغل‌ها رشد می‌کند",
     "title_en": "Stock Market Today: Major Indexes Rise After Jobs Report, on Track for Biggest...",
@@ -178,6 +218,26 @@
     "image": "https://s.yimg.com/bo/e66332e9-a5e9-5051-b1af-5a3a2a71c23e_1785194770227.jpg",
     "timestamp": 1786100787.0,
     "sent_to_telegram": true
+  },
+  {
+    "id": "6d575e79b0",
+    "title_fa": "قیمت اتریوم به 1929 دلار رسید",
+    "title_en": "Ethereum Price Today: ETH Is Trading At $1,929",
+    "summary": [
+      "اتریوم به 1929 دلار رسید",
+      "قیمت اتریوم در 52 هفته گذشته بین 1507 تا 4954 دلار نوسان کرده",
+      "اتریوم 52 هفته پیش به رکورد 4954 دلار رسید"
+    ],
+    "body_fa": "قیمت اتریوم در ساعت ۸:۲۲ صبح به وقت شرق آمریکا به ۱۹۲۹ دلار رسید. این قیمت در مقایسه با رکورد ۵۲ هفته گذشته که در ۲۴ آگوست ۲۰۲۵ به ۴۹۵۴ دلار رسید، کاهش قابل توجهی را نشان می‌دهد. همچنین، قیمت اتریوم در ۶ ژوئن به پایین‌ترین سطح خود در ۵۲ هفته گذشته با قیمت ۱۵۰۷ دلار رسید. این نوسانات قیمت نشان‌دهنده‌ی تغییرات مداوم در بازار کریپتو است.",
+    "category": "کریپتو",
+    "tag": "اتریوم",
+    "urgency": 4,
+    "source": "Forbes",
+    "url": "https://www.forbes.com/advisor/investing/cryptocurrency/ethereum-price-today/",
+    "clean_url": "https://www.forbes.com/advisor/investing/cryptocurrency/ethereum-price-today",
+    "image": "https://www.forbes.com/advisor/wp-content/uploads/2025/02/ethereum-ETFs.jpg",
+    "timestamp": 1786098300.0,
+    "sent_to_telegram": false
   },
   {
     "id": "f57bb7ad6b",
