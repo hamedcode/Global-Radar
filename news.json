@@ -17,7 +17,7 @@
     "clean_url": "https://www.msn.com/en-xl/news/other/heatwaves-spark-global-heatflation-as-food-prices-soar/ar-AA29Ch7p",
     "image": "https://www.bing.com/th?id=ONUT.V4B51anUeDGV8z04bRJLIQ",
     "timestamp": 1786145189.5477033,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "650345d9b9",
@@ -37,7 +37,7 @@
     "clean_url": "https://www.tbsnews.net/features/panorama/why-houthi-saudi-arabia-conflict-matters-bangladesh-1509066",
     "image": "https://www.bing.com/th?id=ONUT.htD9JN9ZHGXF26EKDxxaqQ",
     "timestamp": 1786138258.999485,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "dbc0318aec",
@@ -57,7 +57,7 @@
     "clean_url": "https://www.ibtimes.com/weak-jobs-report-boosted-bets-that-fed-wont-hike-rates-september-stocks-climbed-3806201",
     "image": "https://s.yimg.com/bo/9d539ce9-d19a-52cb-bf65-7bfda060662e_1781603356332.png.cf.jpg",
     "timestamp": 1786133923.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "9a3f4385ce",
@@ -77,7 +77,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-muted-095442868.html",
     "image": "https://media.zenfs.com/en/reuters.com/6dbdbeff095d7fc54d9d0c8d2fba4e1c",
     "timestamp": 1786132916.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "b8ad8d4557",
@@ -97,7 +97,7 @@
     "clean_url": "https://www.msn.com/en-us/money/general/these-two-biotech-stocks-hit-fresh-52-week-highs-today-ntra-clocks-best-day-in-nearly-20-months/ar-AA29C2Ic",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786128121.674651,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "14b83262b1",
@@ -137,7 +137,7 @@
     "clean_url": "https://www.tribdem.com/news/business/u-s-stocks-jump-as-employers-unexpectedly-cut-23-000-jobs-raising-hopes-for-easier/article_0e361aef-944f-5bd7-9210-8670b803ea9e.html",
     "image": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/a/51/a51c1cbf-5bfa-5b97-8dff-f65cfb065966/6a75f6fcf3b5c.image.jpg?crop=1763,926,0,124&resize=1200,630&order=crop,resize",
     "timestamp": 1786114740.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "e05f8719f2",
@@ -157,7 +157,7 @@
     "clean_url": "https://seekingalpha.com/article/4933104-july-payrolls-bad-news-is-good-again",
     "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319981864/image_1319981864.jpg?io=getty-c-w1536",
     "timestamp": 1786114740.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "76c2d91ef1",
@@ -177,7 +177,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-palantir-lead-tech-stock-145917235.html",
     "image": "https://media.zenfs.com/en/forbes_staff_375/e359c979cf06cfc67cb33758d3c2c925",
     "timestamp": 1786113043.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "45ee94580b",
@@ -197,7 +197,7 @@
     "clean_url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
     "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png",
     "timestamp": 1786111440.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "1fa0938a48",
@@ -217,7 +217,7 @@
     "clean_url": "https://www.msn.com/en-us/money/top-stocks/stock-market-today-major-indexes-on-track-for-best-week-since-april-as-stocks-rise-after-jobs-report-spacex-extends-rally/ar-AA29Bjnk",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786108363.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "4c2509ed02",
@@ -237,7 +237,7 @@
     "clean_url": "https://www.econotimes.com/EUR-USD-Rockets-Past-11560-as-Soft-US-Jobs-Data-Fuel-Fed-Rate-Cut-Surge-1748923",
     "image": "https://f1.econotimes.com/2026/08/1qpj29cs1k.png",
     "timestamp": 1786107240.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "bbf8d94ac8",
@@ -277,7 +277,7 @@
     "clean_url": "https://www.foxbusiness.com/category/earnings",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786105140.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "a3076fdc6d",
@@ -297,7 +297,7 @@
     "clean_url": "https://www.msn.com/en-us/money/markets/stock-market-today-major-indexes-rise-after-jobs-report-on-track-for-biggest-weekly-gains-in-months-spacex-surges-for-2nd-straight-day/ar-AA29Bjnk",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786102964.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "022f213ba6",
@@ -317,7 +317,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html",
     "image": "https://media.zenfs.com/en/investopedia_245/b4f23fc7e6e0cb184904d3646ba2ab34",
     "timestamp": 1786102914.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "5511dc76fb",
@@ -377,7 +377,7 @@
     "clean_url": "https://www.forbes.com/advisor/investing/cryptocurrency/ethereum-price-today",
     "image": "https://www.forbes.com/advisor/wp-content/uploads/2025/02/ethereum-ETFs.jpg",
     "timestamp": 1786098300.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "f57bb7ad6b",
@@ -453,7 +453,7 @@
     "clean_url": "https://www.fxstreet.com/news/wti-price-forecast-growing-internal-war-risks-in-middle-east-support-recovery-to-near-78-202608070630",
     "image": "https://editorial.fxsstatic.com/images/i/Oil-18326_Medium.png",
     "timestamp": 1786084200.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "fa302a2239",
@@ -679,7 +679,7 @@
     "clean_url": "https://www.msn.com/en-ph/money/economy/ph-economy-grows-slower-at-2-3-in-q2-2026/ar-AA29zPFo",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786054530.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "41b972a542",
