@@ -40,6 +40,26 @@
     "sent_to_telegram": false
   },
   {
+    "id": "dbc0318aec",
+    "title_fa": "بازار سهام با گزارش اشتغال ضعیف رشد کرد",
+    "title_en": "A Weak Jobs Report Boosted Bets That The Fed Won't Hike Rates In September....",
+    "summary": [
+      "گزارش اشتغال ضعیف باعث رشد بازار سهام شد",
+      "شانس افزایش نرخ بهره در سپتامبر کم شد",
+      "S&P 500 با ۰.۶۲ درصد رشد کرد"
+    ],
+    "body_fa": "بازار سهام آمریکا با انتشار گزارش اشتغال ضعیف در روز جمعه رشد کرد. این گزارش باعث افزایش احتمال عدم افزایش نرخ بهره توسط فدرال رزرو در سپتامبر شد. شاخص S&P 500 با افزایش ۰.۶۲ درصد به بالای ۷۷۰۰ رسید و در طول هفته بیش از ۳ درصد رشد کرد. شاخص Nasdaq Composite با افزایش ۱.۳۰ درصد عملکرد بهتری داشت. شرکت Doximity با معرفی محصول جدید هوش مصنوعی خود، بیش از ۳۰ درصد رشد کرد. این رشد باعث افزایش امیدواری در بازار شد و شاخص‌های اصلی برای دومین هفته متوالی رشد کردند.",
+    "category": "اقتصاد",
+    "tag": "بازار سهام",
+    "urgency": 6,
+    "source": "International Business Times",
+    "url": "https://www.ibtimes.com/weak-jobs-report-boosted-bets-that-fed-wont-hike-rates-september-stocks-climbed-3806201",
+    "clean_url": "https://www.ibtimes.com/weak-jobs-report-boosted-bets-that-fed-wont-hike-rates-september-stocks-climbed-3806201",
+    "image": "https://s.yimg.com/bo/9d539ce9-d19a-52cb-bf65-7bfda060662e_1781603356332.png.cf.jpg",
+    "timestamp": 1786133923.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "9a3f4385ce",
     "title_fa": "رکورد جدید S&P با کاهش نگرانی از افزایش نرخ بهره",
     "title_en": "S&P closes at record high as soft jobs report eases rate-hike concerns",
