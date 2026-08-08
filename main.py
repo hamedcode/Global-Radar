@@ -60,7 +60,7 @@ CONFIG = {
     'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
     'CF_ACCOUNT_ID': os.environ.get('CF_ACCOUNT_ID'),
     'CF_API_TOKEN': os.environ.get('CF_API_TOKEN'),
-    'CF_MODEL': os.environ.get('CF_MODEL', '@cf/meta/llama-3.3-70b-instruct-fp8-fast'),
+    'CF_MODEL': os.environ.get('CF_MODEL', '@cf/zai-org/glm-4.7-flash'),
     'AI_RETRIES': 3,
     # Telegram now mirrors the site: same 4+ bar used to save a story at all.
     'MIN_TELEGRAM_URGENCY': 4,
