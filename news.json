@@ -180,6 +180,26 @@
     "sent_to_telegram": false
   },
   {
+    "id": "1fa0938a48",
+    "title_fa": "اس اند پی ۵۰۰ به رکورد جدید می‌رسد",
+    "title_en": "Markets news, Aug. 7, 2026: S&P 500 closes at record high as major indexes finish best week since April; SpaceX shares soar",
+    "summary": [
+      "اس اند پی ۵۰۰ با رشد ۰.۶٪ به رکورد جدید رسید",
+      "این رشد به دلیل بهبود در بخش فناوری بود",
+      "بهترین هفته از آوریل برای شاخص‌های اصلی"
+    ],
+    "body_fa": "شاخص‌های اصلی بازار سهام روز جمعه با رشد قابل توجهی همراه بودند. بخش فناوری با رشد قابل توجهی، پیشتاز این رشد بود. این افزایش به دنبال انتشار گزارش شگفت‌آور بازار کار بود که نگرانی‌ها در مورد احتمال افزایش نرخ بهره را کاهش داد. اس اند پی ۵۰۰ با رشد ۰.۶٪ به رکورد جدید خود رسید و این بهترین هفته برای شاخص‌های اصلی از آوریل بوده است. این رشد نشان‌دهنده بهبود شرایط بازار و کاهش نگرانی‌های اقتصادی است. همچنین، سهام اسپیس‌ایکس با رشد قابل توجهی همراه بود.",
+    "category": "اقتصاد",
+    "tag": "اس اند پی ۵۰۰",
+    "urgency": 8,
+    "source": "Investopedia on MSN",
+    "url": "https://www.msn.com/en-us/money/top-stocks/stock-market-today-major-indexes-on-track-for-best-week-since-april-as-stocks-rise-after-jobs-report-spacex-extends-rally/ar-AA29Bjnk",
+    "clean_url": "https://www.msn.com/en-us/money/top-stocks/stock-market-today-major-indexes-on-track-for-best-week-since-april-as-stocks-rise-after-jobs-report-spacex-extends-rally/ar-AA29Bjnk",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786108363.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "4c2509ed02",
     "title_fa": "یورو در برابر دلار جهش می‌کند",
     "title_en": "EUR/USD Rockets Past 1.1560 as Soft U.S. Jobs Data Fuel Fed Rate-Cut Surge",
