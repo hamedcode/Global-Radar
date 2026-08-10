@@ -374,34 +374,14 @@ class GlobalRadar:
         except Exception as e:
             logger.warning(f"CoinGecko fetch failed: {e}")
 
-        try:
-            resp = self.scraper.post(
-                "https://api.nobitex.ir/market/stats",
-                json={"srcCurrency": "usdt", "dstCurrency": "rls"},
-                headers={"Content-Type": "application/json"},
-                timeout=12
-            )
-            if resp.status_code == 200:
-                j = resp.json()
-                latest_rial = j.get('stats', {}).get('usdt-rls', {}).get('latest')
-                if latest_rial:
-                    toman = float(latest_rial) / 10
-                    data['usdt_irt'] = f"{toman:,.0f} تومان"
-                else:
-                    logger.warning(f"Nobitex response missing usdt-rls.latest: {str(j)[:300]}")
-            else:
-                logger.warning(f"Nobitex HTTP {resp.status_code}: {resp.text[:300]}")
-        except Exception as e:
-            logger.warning(f"Nobitex USDT fetch failed: {e}")
-
-        if data['usdt_irt'] == "نامشخص":
-            # Fallback to alanchand's own USDT page if Nobitex is unreachable
-            usdt_raw = self._scrape_alanchand_price("https://alanchand.com/en/crypto-price/usdt", mode='irr')
-            if usdt_raw:
-                try:
-                    data['usdt_irt'] = f"{int(float(usdt_raw) / 10):,} تومان"
-                except Exception:
-                    pass
+        # USDT/Toman, scraped from alanchand (Nobitex's API is unreachable from
+        # GitHub Actions runners — persistent DNS failure, not worth retrying).
+        usdt_raw = self._scrape_alanchand_price("https://alanchand.com/en/crypto-price/usdt", mode='irr')
+        if usdt_raw:
+            try:
+                data['usdt_irt'] = f"{int(float(usdt_raw) / 10):,} تومان"
+            except Exception:
+                pass
 
         # Full gold coin (Emami), priced in Rial -> convert to Toman
         coin_raw = self._scrape_alanchand_price("https://alanchand.com/en/gold-price/sekkeh", mode='irr')
@@ -613,7 +593,7 @@ class GlobalRadar:
             "}"
         )
 
-        cf_url = f"https://api.cloudflare.com/client/v4/accounts/{self.cf_account_id}/ai/run/{self.cf_model}"
+        cf_url = f"https://api.cloudflare.com/client/v4/accounts/{self.cf_account_id}/ai/v1/chat/completions"
 
         current_text = full_text
         for attempt in range(CONFIG['AI_RETRIES']):
@@ -624,12 +604,13 @@ class GlobalRadar:
                     cf_url,
                     headers={"Authorization": f"Bearer {self.cf_api_token}", "Content-Type": "application/json"},
                     json={
+                        "model": self.cf_model,
                         "messages": [
                             {"role": "system", "content": system_prompt},
                             {"role": "user", "content": f"SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"},
                         ],
                         "temperature": 0.25,
-                        "max_tokens": 4000,
+                        "max_tokens": 8000,
                     },
                     timeout=CONFIG.get('AI_TIMEOUT', 45),
                 )
@@ -639,7 +620,16 @@ class GlobalRadar:
                         logger.error(f"CF AI error payload: {body['errors']}")
                         time.sleep(1)
                         continue
-                    raw = body.get('result', {}).get('response', '')
+                    # OpenAI-compatible shape first, fall back to raw /ai/run shape
+                    raw = ''
+                    try:
+                        raw = body['choices'][0]['message']['content']
+                    except (KeyError, IndexError, TypeError):
+                        raw = body.get('result', {}).get('response', '')
+                    if not raw:
+                        logger.error(f"AI empty response body: {str(body)[:400]}")
+                        time.sleep(1)
+                        continue
                     if isinstance(raw, dict):
                         data = raw
                     else:
