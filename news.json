@@ -1,5 +1,45 @@
 [
   {
+    "id": "06b40b46ea",
+    "title_fa": "استریمینگ هالیوود به سودآوری رسیده؛ ادغام بزرگ در راه",
+    "title_en": "How the Streamers Stack Up in Subscribers, Revenue and Profits | Analysis",
+    "summary": [
+      "پنج استودیوی هالیوود در گزارش‌های سه ماهه سودآوری و رشد درآمد را اعلام کردند.",
+      "استریمینگ به‌عنوان موتور کلیدی سودآوری تبدیل شد و رقابت با تلویزیون خطی و پلتفرم‌های دیگر تشدید شد.",
+      "ادغام ۱۱۰ میلیارد دلاری وارنر‑بروس و پارامونت که با دعوی حقوقی مواجه است، می‌تواند رتبه‌بندی بازار را تغییر دهد."
+    ],
+    "body_fa": "پنج استودیوی بزرگ هالیوود در گزارش‌های سه ماهه اخیر، کسب سود و افزایش درآمد در بخش مستقیم‑به‑مصرف (DTC) خود را اعلام کردند. این تحول نشان می‌دهد که استریمینگ دیگر فقط یک پروژه رشد نیست، بلکه به‌عنوان منبع اصلی سودآوری برای این شرکت‌ها تبدیل شده است. نتایج نشان می‌دهد که در حالی که رشد مشترکین به‌دست آوردن شفافیت کمتری دارد، تلویزیون خطی به‌دلیل قطع‌سیم‌ها و رقابت با یوتیوب، پادکست‌ها و بازی‌های ویدئویی فشار می‌گیرد. نتفلیکس همچنان پیشتاز است، اما پس از سقوط پیشنهاد ۸۳ میلیارد دلاری برای خرید دارایی‌های استریمینگ وارنر‑بروس دیسکاوری، به‌جای گزارش‌های شش ماهه، گزارش‌های سالانه تعامل را منتشر خواهد کرد. دیزنی زیر رهبری جوش دآمارو، برنامه دارد دیزنی‌پلاس را به «مرکز دیجیتال» تبدیل کند و اپلیکیشن یکپارچه دیزنی‌پلاس‑هولو را تا پایان سال عرضه کند. در عین حال، ادغام ۱۱۰ میلیارد دلاری وارنر‑بروس و پارامونت که با دعوی ۱۲ دادستان ایالتی مواجه است، می‌تواند موقعیت این دو را در رده‌های بالای بازار استریمینگ تغییر دهد؛ اگر این معامله به‌سرعت بسته شود، ممکن است از دیزنی پیشی بگیرند. این تحولات نشان می‌دهد که رقابت برای جذب کاربران و درآمد در فضای دیجیتال به‌طور فزاینده‌ای تند و پرریسک است.",
+    "category": "تکنولوژی",
+    "tag": "استریمینگ",
+    "urgency": 5,
+    "source": "TheWrap",
+    "url": "https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-paramount-subscribers-revenue-profits-august-2026/",
+    "clean_url": "https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-paramount-subscribers-revenue-profits-august-2026",
+    "image": "https://s.yimg.com/bo/029c21de-f75c-5917-b40a-b0791366a1ad_1786368327848.jpg",
+    "timestamp": 1786365291.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "163f9e2422",
+    "title_fa": "قهرمانان ETFهای لِورِج‌دار هفته گذشته",
+    "title_en": "Best-Performing Leveraged Single-Stock ETFs of Last Week",
+    "summary": [
+      "ETFهای لِورِج‌دار تک‌سهمی مانند RDW با رشد 148.9٪ در هفته گذشته صعود کردند.",
+      "این صعود در پس‌زمینهٔ رشد 3‑5٪ شاخص‌های اصلی پس از کاهش استخدام رخ داد.",
+      "گزارش‌های مثبت شرکت‌ها و کاهش نگرانی‌های نرخ بهره، تقاضا برای این ابزارها را تقویت کرد."
+    ],
+    "body_fa": "هفتهٔ گذشته بازار سهام آمریکا با رشد 3.6٪ در S&P 500، 3٪ در Dow Jones و 5.2٪ در Nasdaq به‌سرعت پیش رفت. این حرکت ناشی از گزارش استخدامی جولای بود که 23,000 شغل کمتر از انتظار نشان داد و نگرانی‌ها دربارهٔ افزایش نرخ بهره را کاهش داد. در همین زمان، ETFهای لِورِج‌دار تک‌سهمی به‌ویژه RDW که 62.4٪ افزایش قیمت داشت، به‌سرعت جذب سرمایه‌گذاران شدند؛ RDWU حتی 148.9٪ رشد کرد. علاوه بر این، ETFهای نیمه‌رسانا مانند SOXX بیش از 7٪ افزایش یافت. این روند نشان می‌دهد که سرمایه‌گذاران به دنبال ابزارهای پرنوسان برای بهره‌برداری از حرکات کوتاه‌مدت بازار هستند و ممکن است فشار خرید بر این دسته از ETFها ادامه یابد.",
+    "category": "اقتصاد",
+    "tag": "ETF",
+    "urgency": 4,
+    "source": "Zacks · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/best-performing-leveraged-single-stock-120000585.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/best-performing-leveraged-single-stock-120000585.html",
+    "image": "https://media.zenfs.com/en/zacks.com/49c5041735019a39841398f799864f7b",
+    "timestamp": 1786361691.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "9ca4a2d444",
     "title_fa": "انتخاب رباتیکال ماری سرپرست «Claude for Legal» توسط Anthropic",
     "title_en": "Must ‘Claude For Legal’ Head Be A Lawyer?",
@@ -17,6 +57,46 @@
     "clean_url": "https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer",
     "image": "https://www.bing.com/th?id=ONUT.H9WOPHPlB-KbOsZw5kHFww",
     "timestamp": 1786358461.4059994,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "629b50e186",
+    "title_fa": "دَن آیوز: گزارش‌های بزرگ‌تک نقطه عطف درآمد هوش مصنوعی",
+    "title_en": "Dan Ives Says Big Tech Earnings Were The 'Wow Moment' For AI Monetization — 'It'...",
+    "summary": [
+      "دَن آیوز گفت فصل سودهای بزرگ‌تک، به‌ویژه مایکروسافت، نشانگر درآمد واقعی هوش مصنوعی است.",
+      "این نشان می‌دهد هزینه‌های عظیم زیرساخت AI به تقاضای واقعی تبدیل شده و ارزش‌گذاری‌های بالای سهام را توجیه می‌کند.",
+      "سرعت رشد در تمام لایه‌های AI از ابر‌سرویس‌ها تا چیپ‌سازها و نرم‌افزارها مشهود است."
+    ],
+    "body_fa": "استراتژیست فناوری دان آیوز در مصاحبه‌ای با CNBC اعلام کرد فصل سودهای اخیر شرکت‌های بزرگ‌تک، به‌ویژه مایکروسافت، نقطه عطفی برای سرمایه‌گذاران در زمینه درآمدزایی هوش مصنوعی بوده است. او افزود هزینه‌های کلان سرمایه‌گذاری در زیرساخت‌های AI دیگر فقط پیش‌بینی نیست؛ تقاضای واقعی در سراسر زنجیره ارزش، از ابر‌سرویس‌ها و تولیدکنندگان چیپ تا مراکز داده و نرم‌افزارهایی چون Palantir، مشهود است. این گستردگی نشان می‌دهد سهام فناوری همچنان می‌تواند رشد کند و سودهای بالاتر می‌توانند ارزش‌گذاری‌های فعلی را توجیه کنند. آیوز معتقد است این تحولات، شواهدی ملموس از بازده اقتصادی سرمایه‌گذاری‌های AI ارائه می‌دهد و فشار برای ادامه رشد سرمایه‌گذاری را کاهش می‌دهد.",
+    "category": "تکنولوژی",
+    "tag": "AI",
+    "urgency": 5,
+    "source": "Stocktwits · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-big-tech-103712727.html",
+    "clean_url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-big-tech-103712727.html",
+    "image": "https://media.zenfs.com/en/stocktwits_383/0894fa9b1aa067c4e0f5f4aa72863ef8",
+    "timestamp": 1786358091.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "2d1a9b3745",
+    "title_fa": "بازار سهام آمریکا در انتظار CPI و قیمت نفت",
+    "title_en": "Stock market today: Dow, S&P 500, Nasdaq little changed in wait for key...",
+    "summary": [
+      "شاخص‌های اصلی آمریکا روز اول هفته با نوسان کم آغاز شدند؛ نفت به 85 دلار در هر بشکه رسید.",
+      "سرمایه‌گذاران منتظر داده‌های CPI و تصمیم فدرال رزرو درباره نرخ بهره هستند.",
+      "گزارش‌های مالی شرکت‌های هوش مصنوعی مانند CoreWeave و Super Micro در روزهای آینده منتشر می‌شود."
+    ],
+    "body_fa": "بازار سهام آمریکا در آغاز هفته با نوسان کم ادامه یافت؛ شاخص‌های Dow Jones، S&P 500 و Nasdaq زیر خط صفر رفتند، هرچند هنوز نزدیک به رکوردهای تاریخی هستند. قیمت نفت برنت پس از شایعات بازگشایی مجدد تنگه هرمز به 85 دلار در هر بشکه افزایش یافت. سرمایه‌گذاران در حالت انتظار برای انتشار شاخص قیمت مصرف‌کننده (CPI) در روز چهارشنبه هستند که می‌تواند مسیر سیاست پولی فدرال رزرو را تعیین کند. اعضای فدرال رزرو هنوز درباره افزایش نرخ بهره تقسیم نظر هستند و به تأثیر شوک نفتی ناشی از تنش‌های خاورمیانه توجه می‌کنند. گزارش‌های مالی شرکت‌های فناوری هوش مصنوعی مانند CoreWeave، Nebius، Cerebras Systems و Super Micro Computer نیز در روزهای آینده منتشر می‌شود و می‌تواند دید سرمایه‌گذاران را نسبت به ساختار AI گسترش دهد.",
+    "category": "اقتصاد",
+    "tag": "CPI",
+    "urgency": 4,
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
+    "clean_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
+    "image": "https://d29szjachogqwa.cloudfront.net/images/2026-08/5a1f0a0c-64a9-47b1-a82f-ae0e41333cf2",
+    "timestamp": 1786358091.0,
     "sent_to_telegram": false
   },
   {
@@ -77,6 +157,26 @@
     "clean_url": "https://www.msn.com/en-au/news/other/royal-commission-into-artificial-intelligence-launched-in-south-australia/ar-AA29KhlG",
     "image": "https://www.bing.com/th?id=ONUT.vIzcgFi9Xoq5MuJhGYTdIQ",
     "timestamp": 1786343610.842574,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "d841ee8e61",
+    "title_fa": "قانون کلیاریتی پیش‌نقش رأی مهم سنا در سپتامبر",
+    "title_en": "Crypto Bill heads toward key senate vote in September: What Trump-backed Clarity Act proposes",
+    "summary": [
+      "سنا به سمت رأی‌گیری در مورد قانون کلیاریتی برای تنظیم کلی رمزارزها پیش می‌رود.",
+      "در صورت تصویب، نقش‌های SEC و CFTC مشخص می‌شود و دارایی‌های دیجیتال به‌صورت اوراق بهادار یا کالا طبقه‌بندی می‌شوند.",
+      "قانون افراد ارشد دولتی را تا سال ۲۰۲۹ از انتشار رمزارز منع می‌کند."
+    ],
+    "body_fa": "مجلس سنا ایالات متحده در حال نزدیک شدن به رأی‌گیری مهمی برای قانون کلیاریتی است که پس از تعطیلات اوت برگزار می‌شود. این لایحه، چارچوب فدرال جامعی برای رمزارزها ایجاد می‌کند و هدفش تعیین این است که کدام دارایی دیجیتال به‌عنوان اوراق بهادار و کدام به‌عنوان کالا شناخته شود، به‌طوری که مسئولیت‌های نظارتی بین SEC و CFTC تقسیم شود. طرفداران می‌گویند این قانون می‌تواند عدم قطعیت قانونی را کاهش داده و سرمایه‌گذاری در حوزه دیجیتال را تشویق کند. بخشی حساس قانون، ممنوعیت انتشار رمزارز توسط افراد ارشد دولتی، از جمله رئیس‌جمهور و معاون، تا ژانویه ۲۰۲۹ است که برای ترامپ و خانواده‌اش مهم است. دموکرات‌ها برای حمایت، تقویت سازوکارهای اخلاقی و امکان پیگیری توسط دادستانی ایالتی را می‌خواهند، در حالی که لایحه اجرای این ممنوعیت را به وزارت دادگستری می‌سپارد.",
+    "category": "کریپتو",
+    "tag": "قانون_کلیاریتی",
+    "urgency": 7,
+    "source": "Mint",
+    "url": "https://www.livemint.com/news/us-news/crypto-bill-heads-toward-key-senate-vote-in-september-what-trump-backed-clarity-act-proposes-11786365632967.html",
+    "clean_url": "https://www.livemint.com/news/us-news/crypto-bill-heads-toward-key-senate-vote-in-september-what-trump-backed-clarity-act-proposes-11786365632967.html",
+    "image": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/USA-SEC-CRYPTO-0_1763460540099_1763460557259_1786367286059_16c1c983-1328-4427-8d09-86de5fbcd465.JPG",
+    "timestamp": 1786342200.0,
     "sent_to_telegram": false
   },
   {
