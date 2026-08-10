@@ -1,5 +1,45 @@
 [
   {
+    "id": "9ca4a2d444",
+    "title_fa": "انتخاب رباتیکال ماری سرپرست «Claude for Legal» توسط Anthropic",
+    "title_en": "Must ‘Claude For Legal’ Head Be A Lawyer?",
+    "summary": [
+      "Anthropic سرپرست جدید «Claude for Legal» را به رباتیکال ماری منصوب کرد.",
+      "این انتصاب نشان می‌دهد شرکت هوش مصنوعی جدی به توسعه ابزارهای حقوقی می‌شود.",
+      "ماری دکترای هوش مصنوعی حقوقی MIT دارد ولی تجربه کاری محدود در دفاتر حقوقی دارد."
+    ],
+    "body_fa": "Anthropic برای بخش حقوقی خود، Claude for Legal، رباتیکال ماری را به عنوان سرپرست رسمی منصوب کرد. ماری دکترای هوش مصنوعی حقوقی از MIT دارد و عضو گروه Codex در استنفورد است، اما فقط دو دوره کارآموزی کوتاه‌مدت در دفاتر حقوقی داشته است. انتصاب او نشان می‌دهد Anthropic قصد دارد به‌طور جدی در بازار فناوری حقوقی حضور داشته باشد و با وکلا برای توسعه محصولی که نیازهای واقعی آن‌ها را برآورده کند، همکاری کند. برخی وکلا انتقاد کردند که ماری تجربه کافی در شرکت‌های حقوقی ندارد، اما طرفداران او می‌گویند دانش فنی و توانایی گوش دادن به نیازهای کاربران مهم‌تر است. این حرکت می‌تواند سرعت پیشرفت ابزارهای هوش مصنوعی در حوزه حقوقی را افزایش دهد.",
+    "category": "تکنولوژی",
+    "tag": "Claude for Legal",
+    "urgency": 5,
+    "source": "Artificial Lawyer",
+    "url": "https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer/",
+    "clean_url": "https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer",
+    "image": "https://www.bing.com/th?id=ONUT.H9WOPHPlB-KbOsZw5kHFww",
+    "timestamp": 1786358461.4059994,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "a4058cbb5e",
+    "title_fa": "سابر با رشد ۳.۶٪ فروش و سود کمتر از انتظار، نتایج قوی Q2 را اعلام کرد",
+    "title_en": "SABR Q2 Deep Dive: AI Investments, Corporate Travel Strength, and Airline Tech...",
+    "summary": [
+      "سابر در سه ماهه دوم ۲۰۲۶ فروش ۷۱۲ میلیون دلاری، ۳.۶٪ رشد سالانه و پیشی از پیش‌بینی‌ها ثبت کرد.",
+      "این نتایج نشان‌دهنده تقویت تقاضای سفرهای تجاری و پیشرفت‌های هوش مصنوعی شرکت است که می‌تواند سودآوری را بهبود بخشد.",
+      "با این حال، راهنمایی EBITDA برای Q3 زیر انتظار است و هزینه‌های فناوری و بازسازی فشار بر جریان نقدی کوتاه‌مدت خواهد داشت."
+    ],
+    "body_fa": "سابر (NASDAQ:SABR) در گزارش مالی سه ماهه دوم سال ۲۰۲۶، فروش ۷۱۲ میلیون دلاری را اعلام کرد که ۳.۶٪ رشد سالانه و ۲.۶٪ پیشی از پیش‌بینی‌های تحلیل‌گران دارد. سود هر سهم به صورت غیر GAAP منفی ۰.۱۷ دلار بود که کمتر از انتظارات -۰.۰۷ دلار بود و EBITDA تنظیم‌شده ۱۴۳ میلیون دلار با حاشیه ۲۰.۱٪ ثبت شد. مدیرعامل کورت اکر تأکید کرد که تقاضای سفرهای تجاری، که تقریباً نیمی از رزروهای بازار را تشکیل می‌دهد، به رشد فروش هوایی کمک کرده و فشارهای ضعف در تقاضای تفریحی را جبران کرده است. شرکت همچنین پیشرفت‌های هوش مصنوعی «agentic AI» و گسترش فناوری SabreMosaic را به عنوان عوامل اصلی رشد ذکر کرد. با این حال، راهنمایی EBITDA برای سه ماهه سوم به ۱۲۷ میلیون دلار کاهش یافت که زیر انتظارات بازار است و هزینه‌های بالای فناوری و هزینه‌های بازسازی می‌تواند جریان نقدی کوتاه‌مدت را تحت فشار قرار دهد.",
+    "category": "تکنولوژی",
+    "tag": "Sabre",
+    "urgency": 5,
+    "source": "StockStory · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sabr-q2-deep-dive-ai-091722489.html",
+    "clean_url": "https://finance.yahoo.com/technology/ai/articles/sabr-q2-deep-dive-ai-091722489.html",
+    "image": "https://media.zenfs.com/en/stockstory_922/313b38dcf0d2833d8f5a000924dd6573",
+    "timestamp": 1786354854.0,
+    "sent_to_telegram": false
+  },
+  {
     "id": "5f195e879d",
     "title_fa": "سه سهم دفاعی پس از گزارش‌های قوی رشد کردند",
     "title_en": "Beneficiaries of the new security landscape: Can three technology and defense stocks continue to soar? BAE Systems, RTX, and Volatus Aerospace",
@@ -37,6 +77,46 @@
     "clean_url": "https://www.msn.com/en-au/news/other/royal-commission-into-artificial-intelligence-launched-in-south-australia/ar-AA29KhlG",
     "image": "https://www.bing.com/th?id=ONUT.vIzcgFi9Xoq5MuJhGYTdIQ",
     "timestamp": 1786343610.842574,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "7007d048c8",
+    "title_fa": "هفتهٔ بحرانی: CPI، بحران فدرال رزرو و گزارش‌های هوش مصنوعی",
+    "title_en": "Critical Week Ahead: CPI Report, Fed Drama, and AI Company Earnings Take Center Stage",
+    "summary": [
+      "انتشار CPI ژوئیه پیش‌بینی می‌شود ۰٫۲٪ ماهانه برای شاخص‌های سرعنوان و هسته‌ای افزایش یابد؛ احتمال حذف گورنر فدرال رزرو لیزا کوک و گزارش‌های سه شرکت زیرساخت هوش مصنوعی.",
+      "این ارقام می‌توانند مسیر نرخ بهره فدرال رزرو را در سپتامبر شکل دهند و پس از رشد قوی شاخص‌ها، نوسانات بازار را تشدید کنند.",
+      "هفته با انتشار آمار فروش خرده‌فروشی و شاخص اعتماد مصرف‌کننده در پایان جمع می‌شود."
+    ],
+    "body_fa": "پیش‌بینی می‌شود که گزارش CPI ژوئیه ماهانه ۰٫۲٪ برای شاخص‌های سرعنوان و هسته‌ای افزایش نشان دهد، در حالی که بحث‌های سیاسی پیرامون حذف گورنر فدرال رزرو لیزا کوک به‌سرعت در حال شکل‌گیری است. سه شرکت بزرگ زیرساخت هوش مصنوعی—Nebius، CoreWeave و Cerebras—نتایج سه‌ماهه خود را منتشر کردند که می‌تواند توجه سرمایه‌گذاران را به سمت این بخش جلب کند. پس از انتشار داده‌های شغلی قوی، شاخص‌های S&P 500، Nasdaq و Dow Jones بیشترین رشد هفتگی خود را از آوریل تجربه کردند. بانک آمریکا معتقد است که CPI پیش‌بینی‌شده می‌تواند دلایل برای افزایش نرخ بهره در سپتامبر را تقویت کند. جمعه نیز آمار فروش خرده‌فروشی و شاخص اعتماد مصرف‌کننده دانشگاه میشیگان منتشر می‌شود که نقش کلیدی در تعیین جهت بازار خواهند داشت.",
+    "category": "اقتصاد",
+    "tag": "CPI",
+    "urgency": 4,
+    "source": "Blockonomi",
+    "url": "https://blockonomi.com/critical-week-ahead-cpi-report-fed-drama-and-ai-company-earnings-take-center-stage/",
+    "clean_url": "https://blockonomi.com/critical-week-ahead-cpi-report-fed-drama-and-ai-company-earnings-take-center-stage",
+    "image": "https://blockonomi.com/wp-content/uploads/2026/08/Wall-street-3.webp",
+    "timestamp": 1786328100.0,
+    "sent_to_telegram": false
+  },
+  {
+    "id": "e08dd2b3f2",
+    "title_fa": "قیمت نفت WTI زیر ۷۶.۵۰ دلار، ابهام بازگشایی هرمز",
+    "title_en": "WTI slips below $76.50 despite uncertainty over reopening Strait of Hormuz",
+    "summary": [
+      "WTI امروز حدود ۷۹.۴۰ دلار در آسیا معامله شد، پس از سقوط ۱.۵٪ روز قبل.",
+      "ابهام بازگشایی مجدد آب‌راه هرمز و تنش‌های منطقه‌ای بر قیمت نفت تأثیر دارد.",
+      "ایران و عمان به توافق نزدیک برای مسیر امن کشتی‌ها رسیده‌اند اما بازگشت فوری نیست."
+    ],
+    "body_fa": "قیمت نفت خام West Texas Intermediate (WTI) امروز در ساعات آسیایی حدود ۷۹.۴۰ دلار در هر بشکه ثبت شد، پس از کاهش ۱.۵ درصدی روز قبل. این بازگشت قیمت در حالی رخ داد که عدم قطعیت درباره بازگشایی مجدد آب‌راه استراتژیک هرمز ادامه دارد. ایران اعلام کرد مذاکرات با عمان برای ایجاد مسیر حمل‌ونقل امن نزدیک به توافق است، اما تأکید کرد بازگشت فوری امکان‌پذیر نیست. در همین زمان، گروه حوثی یمن به تصرف پالایشگاه جازان سعودی حمله کرد و یک تانکر شرکت ADNOC نیز در هرمز هدف حمله شد. تحلیل‌گران TD Securities می‌گویند بازار انرژی به امید توافق‌نامه‌ای برای رفع تنش‌ها ادامه می‌دهد و داده‌های تعادل نفت جهانی نشان‌دهنده کسری معنادار است. این ترکیب از عوامل بنیادی مثبت و امید به حل دیپلماتیک، فشار خرید بر WTI و برنت را حفظ کرده است.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 5,
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/wti-slips-below-7650-despite-uncertainty-over-reopening-strait-of-hormuz-202608100048",
+    "clean_url": "https://www.fxstreet.com/news/wti-slips-below-7650-despite-uncertainty-over-reopening-strait-of-hormuz-202608100048",
+    "image": "https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1_Medium.png",
+    "timestamp": 1786322820.0,
     "sent_to_telegram": false
   },
   {
