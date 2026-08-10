@@ -1,5 +1,85 @@
 [
   {
+    "id": "70ef5caef6",
+    "title_fa": "جیم کرامر به BDX پس از گزارش Q3 توصیه کرد",
+    "title_en": "Jim Cramer Sees Cheap Valuation in Becton, Dickinson (BDX) After Q3 Beat and...",
+    "summary": [
+      "BDX سه‌ماهه سوم FY2026 را با سود 9 سنت بالاتر از پیش‌بینی و رشد 5.4٪ فروش به 4.98 میلیارد دلار گزارش داد.",
+      "جیم کرامر این نتایج را «ارزش‌گذاری ارزان» (۱۴× پیش‌بینی سود) دانست و سهام را ۴٪ بالا برد.",
+      "پس از جداسازی بخش تشخیص، تمرکز بر دستگاه‌های پزشکی با حاشیه بالا ادامه دارد."
+    ],
+    "body_fa": "در تاریخ ۶ اوت، جیم کرامر در برنامه Mad Money به Becton, Dickinson (BDX) اشاره کرد. این شرکت در سه‌ماهه سوم مالی ۲۰۲۶، سود تنظیم‌شده ۳٫۲۳ دلار به ازای هر سهم و درآمد ۴٫۹۸ میلیارد دلار را اعلام کرد که ۹ سنت بالاتر از پیش‌بینی و رشد ۵٫۴٪ سالانه بود. پس از جداسازی واحد تشخیص، مدیریت بر دستگاه‌های پزشکی با حاشیه بالا متمرکز شد و پیش‌بینی‌های سود سالانه را به بازه ۱۲٫۶۲ تا ۱۲٫۷۲ دلار ارتقا داد. سهام BDX پس از اعلام نتایج نزدیک به ۴٪ افزایش یافت و با نسبت حدود ۱۴ برابر سود پیش‌بینی‌شده، به‌نظر کرامر ارزان محسوب می‌شود.",
+    "category": "اقتصاد",
+    "tag": "BDX",
+    "urgency": 4,
+    "source": "Insider Monkey · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sees-cheap-valuation-175313326.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sees-cheap-valuation-175313326.html",
+    "image": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
+    "timestamp": 1786384407.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "695e0fc456",
+    "title_fa": "S&P 500 با رشد EPS 20٪؛ هوش مصنوعی موتور رشد",
+    "title_en": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the...",
+    "summary": [
+      "حدود ۹۰٪ شرکت‌های S&P 500 گزارش سود سهام Q2 را دادند؛ ۸۰٪ رشد EPS سالانه داشته‌اند.",
+      "بانک آمریکا می‌گوید هوش مصنوعی با رشد ۲۸٪ در سهام مرتبط، اصلی‌ترین موتور رشد شاخص است.",
+      "اما کارشناسان پیش‌بینی می‌کنند رشد EPS در ۲۰۲۷ کاهش یابد و بازار ممکن است حمایت کمتری کند."
+    ],
+    "body_fa": "تا کنون حدود ۹۰٪ شرکت‌های شاخص S&P 500 گزارش‌های مالی سه‌ماهه دوم را منتشر کرده‌اند که ۸۰٪ آن‌ها رشد سالانه سود هر سهم (EPS) داشته‌اند؛ این رقم باعث قرارگیری این دوره در صدک ۹۴ در میان دوره‌های تاریخی شد. بانک آمریکا پیش‌بینی می‌کند این روند باعث شود شاخص برای چهار دوره متوالی رشد EPS بالای ۲۰٪ داشته باشد، که تنها ۱۰ بار از سال ۱۹۳۶ تا کنون رخ داده است. استراتژیست‌های این بانک معتقدند هوش مصنوعی عامل اصلی این رشد است؛ میانگین رشد EPS برای سهام‌های مرتبط با AI ۲۸٪ و برای سایر سهام ۱۲٪ بوده است. با این حال، آن‌ها هشدار می‌دهند که پس از این دوره رشد شدید، سرعت رشد EPS در سال ۲۰۲۷ کاهش خواهد یافت و ممکن است حمایت بازار از سهام کمتر شود. طوری که حاشیه سود در بخش فناوری به‌سرعت افزایش یافته، اما در سایر بخش‌ها تقریباً ثابت مانده است، که نشان می‌دهد بازار به شدت به رونق AI وابسته شده است.",
+    "category": "اقتصاد",
+    "tag": "AI",
+    "urgency": 5,
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html",
+    "clean_url": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html",
+    "image": "https://d29szjachogqwa.cloudfront.net/images/2026-08/504a7d7e-c37d-4d2c-be56-b5c2bd5a8fb8",
+    "timestamp": 1786383327.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "137296e217",
+    "title_fa": "رشد رکوردی درآمد Geodrill ولی حاشیه‌ها سقوط کرد",
+    "title_en": "Geodrill Q2 Earnings Call Highlights",
+    "summary": [
+      "درآمد سه ماهه دوم 2026 Geodrill به 55.1 میلیون دلار رسید و نسبت به سال قبل 10٪ افزایش یافت.",
+      "با این حال حاشیه سود به‌طور قابل‌توجهی کاهش یافت؛ حاشیه ناخالص 16٪ و EBITDA 14٪، در مقابل 24٪/28٪ سال پیش.",
+      "هزینه‌های بالای نیروی کار، تورم و مشکلات عملیاتی در شیلی منجر به ضرر خالص حدود 200 هزار دلار شد."
+    ],
+    "body_fa": "Geodrill Limited در گزارش مالی سه ماهه دوم 2026، درآمد تاریخی 55.1 میلیون دلاری را اعلام کرد که نسبت به دوره مشابه سال قبل 10٪ رشد داشته است. اما حاشیه‌های سود به‌طور چشمگیری فشرده شد؛ حاشیه ناخالص تنها 16٪ و حاشیه EBITDA به 14٪ کاهش یافت، در حالی که در سال گذشته به ترتیب 24٪ و 28٪ بودند. مدیرعامل شرکت، دیو هارپر، این کاهش حاشیه را به هزینه‌های بالای نیروی کار، تورم در مواد مصرفی و ارزیابی ارز غنا نسبت داد. عملیات در شیلی به‌خصوص با کاهش بهره‌وری حفاری و قراردادهای کم‌سود مواجه شد که انتظار می‌رود در چند فصل آینده کاهش یابد. اگرچه تقاضا برای خدمات حفاری همچنان قوی است، شرکت باید کارایی را بهبود بخشد و قیمت‌گذاری قراردادها را مطابق با هزینه‌های بالاتر تنظیم کند.",
+    "category": "اقتصاد",
+    "tag": "Geodrill",
+    "urgency": 4,
+    "source": "MarketBeat · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/geodrill-q2-earnings-call-highlights-170435407.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/geodrill-q2-earnings-call-highlights-170435407.html",
+    "image": "https://media.zenfs.com/en/marketbeat_955/fc818accbf13ae0b22e96e32cb23a927",
+    "timestamp": 1786381947.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "171c6333d5",
+    "title_fa": "زاکس پیش‌بینی سودهای غیرمنتظره مایکروسافت و آمازون",
+    "title_en": "Microsoft, Amazon, Micron and Alphabet are part of Zacks Earnings Preview",
+    "summary": [
+      "مایکروسافت، آمازون، میکرون و آلفابت در فهرست زاکس برای احتمال سودهای غیرمنتظره Q2 2026 قرار گرفتند.",
+      "این پیش‌بینی نشان‌دهنده ادامه رشد درآمدهای هوش مصنوعی و فشار مثبت بر بازنگری‌های تحلیل‌گران است.",
+      "گروه Magnificent 7 تا کنون درآمدها را 85.5٪ نسبت به سال گذشته افزایش داده‌اند."
+    ],
+    "body_fa": "زاکس امروز فهرستی از شرکت‌های محتمل برای ارائه سودهای غیرمنتظره در فصل دوم 2026 منتشر کرد که شامل مایکروسافت، آمازون، میکرون و آلفابت می‌شود. این شرکت‌ها به‌ویژه به دلیل سرمایه‌گذاری‌های سنگین در زیرساخت‌های هوش مصنوعی و عملکرد قوی بخش ابری، مورد توجه قرار گرفته‌اند. فصل دوم گزارش‌های مالی نشان می‌دهد که بازنگری‌های مثبت تحلیل‌گران در هشت بخش مختلف از جمله فناوری و انرژی ادامه دارد. اعضای گروه Magnificent 7 تا کنون درآمدها را 85.5٪ نسبت به سال گذشته افزایش داده‌اند و رشد 27.5٪ در فروش را تجربه کرده‌اند. علاوه بر این، سود غیرعملی آلفابت از سهام SpaceX حدود 77.4 میلیارد دلار به‌عنوان یک عامل افزایشی در نتایج کلی محسوب می‌شود. انتظار می‌رود نتایج Nvidia که در ۲۶ آگوست منتشر می‌شود، این روند را تکمیل کند.",
+    "category": "اقتصاد",
+    "tag": "earnings",
+    "urgency": 4,
+    "source": "Zacks · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-micron-alphabet-part-150600706.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-micron-alphabet-part-150600706.html",
+    "image": "https://media.zenfs.com/en/zacks.com/f7ee9fd1261c79c18c594e1dc7300155",
+    "timestamp": 1786374747.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "06b40b46ea",
     "title_fa": "استریمینگ هالیوود به سودآوری رسیده؛ ادغام بزرگ در راه",
     "title_en": "How the Streamers Stack Up in Subscribers, Revenue and Profits | Analysis",
@@ -17,7 +97,7 @@
     "clean_url": "https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-paramount-subscribers-revenue-profits-august-2026",
     "image": "https://s.yimg.com/bo/029c21de-f75c-5917-b40a-b0791366a1ad_1786368327848.jpg",
     "timestamp": 1786365291.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "163f9e2422",
@@ -37,7 +117,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/best-performing-leveraged-single-stock-120000585.html",
     "image": "https://media.zenfs.com/en/zacks.com/49c5041735019a39841398f799864f7b",
     "timestamp": 1786361691.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "9ca4a2d444",
@@ -57,7 +137,7 @@
     "clean_url": "https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer",
     "image": "https://www.bing.com/th?id=ONUT.H9WOPHPlB-KbOsZw5kHFww",
     "timestamp": 1786358461.4059994,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "629b50e186",
@@ -77,7 +157,7 @@
     "clean_url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-big-tech-103712727.html",
     "image": "https://media.zenfs.com/en/stocktwits_383/0894fa9b1aa067c4e0f5f4aa72863ef8",
     "timestamp": 1786358091.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "2d1a9b3745",
@@ -97,7 +177,7 @@
     "clean_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-08/5a1f0a0c-64a9-47b1-a82f-ae0e41333cf2",
     "timestamp": 1786358091.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "a4058cbb5e",
@@ -117,7 +197,7 @@
     "clean_url": "https://finance.yahoo.com/technology/ai/articles/sabr-q2-deep-dive-ai-091722489.html",
     "image": "https://media.zenfs.com/en/stockstory_922/313b38dcf0d2833d8f5a000924dd6573",
     "timestamp": 1786354854.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "5f195e879d",
@@ -137,7 +217,7 @@
     "clean_url": "https://www.msn.com/en-ca/money/economy/beneficiaries-of-the-new-security-landscape-can-three-technology-and-defense-stocks-continue-to-soar-bae-systems-rtx-and-volatus-aerospace/ar-AA29KtUp",
     "image": "https://www.bing.com/th?id=ONUT.gw9a6kXAsnXxAIJaMVLdBA",
     "timestamp": 1786343616.8692753,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "82811af75a",
@@ -157,7 +237,7 @@
     "clean_url": "https://www.msn.com/en-au/news/other/royal-commission-into-artificial-intelligence-launched-in-south-australia/ar-AA29KhlG",
     "image": "https://www.bing.com/th?id=ONUT.vIzcgFi9Xoq5MuJhGYTdIQ",
     "timestamp": 1786343610.842574,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "d841ee8e61",
@@ -177,7 +257,7 @@
     "clean_url": "https://www.livemint.com/news/us-news/crypto-bill-heads-toward-key-senate-vote-in-september-what-trump-backed-clarity-act-proposes-11786365632967.html",
     "image": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/USA-SEC-CRYPTO-0_1763460540099_1763460557259_1786367286059_16c1c983-1328-4427-8d09-86de5fbcd465.JPG",
     "timestamp": 1786342200.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "7007d048c8",
@@ -197,7 +277,7 @@
     "clean_url": "https://blockonomi.com/critical-week-ahead-cpi-report-fed-drama-and-ai-company-earnings-take-center-stage",
     "image": "https://blockonomi.com/wp-content/uploads/2026/08/Wall-street-3.webp",
     "timestamp": 1786328100.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "e08dd2b3f2",
@@ -217,7 +297,7 @@
     "clean_url": "https://www.fxstreet.com/news/wti-slips-below-7650-despite-uncertainty-over-reopening-strait-of-hormuz-202608100048",
     "image": "https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1_Medium.png",
     "timestamp": 1786322820.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "377d991cef",
@@ -237,7 +317,7 @@
     "clean_url": "https://economictimes.indiatimes.com/markets/stock-market-crash",
     "image": "https://img.etimg.com/photo/19555866.cms",
     "timestamp": 1786320000.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "7e7c359ab0",
@@ -257,7 +337,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/adobe-vs-arista-networks-technology-233101690.html",
     "image": "https://media.zenfs.com/en/motleyfool.com/3265e8d439c2de10a17a880ea74c15df",
     "timestamp": 1786318391.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "01e98a7dbf",
@@ -277,7 +357,7 @@
     "clean_url": "https://finance.yahoo.com/economy/articles/inflation-date-earnings-momentum-other-170002840.html",
     "image": "https://media.zenfs.com/en/barchart_com_477/a3f8b7b175c2147da9ed22b631b9dee3",
     "timestamp": 1786293191.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "e3fa0baa09",
@@ -297,7 +377,7 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/72-billion-reason-buy-caterpillar-160002878.html",
     "image": "https://media.zenfs.com/en/barchart_com_477/de471d3908ee34fde7cdbfb8222eae0d",
     "timestamp": 1786289591.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   },
   {
     "id": "9f4b617867",
@@ -317,6 +397,6 @@
     "clean_url": "https://finance.yahoo.com/technology/ai/articles/does-innodata-record-q2-ai-121043049.html",
     "image": "https://media.zenfs.com/en/simply_wall_st__316/436d8a2bc259eaa09523a3bc325b5211",
     "timestamp": 1786278791.0,
-    "sent_to_telegram": false
+    "sent_to_telegram": true
   }
 ]
