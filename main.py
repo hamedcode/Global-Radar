@@ -51,7 +51,7 @@ CONFIG = {
         'CHANNEL_ID': os.environ.get('TG_CHANNEL_ID'),
     },
     'TIMEOUT': 12,
-    'AI_TIMEOUT': 45,
+    'AI_TIMEOUT': 90,
     'MAX_WORKERS': 3,
     'MAX_CANDIDATES': 20,
     'MAX_TEXT_CHARS': 2500,
@@ -60,7 +60,7 @@ CONFIG = {
     'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
     'CF_ACCOUNT_ID': os.environ.get('CF_ACCOUNT_ID'),
     'CF_API_TOKEN': os.environ.get('CF_API_TOKEN'),
-    'CF_MODEL': os.environ.get('CF_MODEL', '@cf/google/gemma-4-26b-a4b-it'),
+    'CF_MODEL': os.environ.get('CF_MODEL', '@cf/openai/gpt-oss-120b'),
     'AI_RETRIES': 3,
     # Telegram now mirrors the site: same 4+ bar used to save a story at all.
     'MIN_TELEGRAM_URGENCY': 4,
@@ -629,6 +629,7 @@ class GlobalRadar:
                             {"role": "user", "content": f"SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"},
                         ],
                         "temperature": 0.25,
+                        "max_tokens": 4000,
                     },
                     timeout=CONFIG.get('AI_TIMEOUT', 45),
                 )
@@ -642,7 +643,8 @@ class GlobalRadar:
                     if isinstance(raw, dict):
                         data = raw
                     else:
-                        clean = re.sub(r'```json\s*|```', '', str(raw)).strip()
+                        clean = re.sub(r'<think>.*?</think>', '', str(raw), flags=re.DOTALL)
+                        clean = re.sub(r'```json\s*|```', '', clean).strip()
                         # Some models wrap output with stray text; grab the outermost {...} block.
                         m = re.search(r'\{.*\}', clean, re.DOTALL)
                         if m:
