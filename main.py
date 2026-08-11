@@ -69,13 +69,6 @@ CONFIG = {
     # Total items kept in news.json / shown on the site. Newest-first; anything
     # beyond this count is dropped as new items come in.
     'HISTORY_SIZE': 300,
-    # Digest is only dispatched inside these Tehran-time windows (3-4x/day, not every run).
-    'DIGEST_SLOTS': [
-        (8, 10, 'slot_09'),
-        (12, 14, 'slot_13'),
-        (16, 18, 'slot_17'),
-        (20, 22, 'slot_21'),
-    ],
 }
 
 BAD_IMAGE_HOSTS = (
@@ -260,38 +253,6 @@ class GlobalRadar:
             if self._is_valid_image_url(c):
                 return c
         return self._get_fallback_image(category)
-
-    # ───────────────────────── schedule state ─────────────────────────
-
-    def _is_schedule_already_sent(self, slot_key):
-        path = CONFIG['FILES']['SCHEDULE_STATE']
-        if not os.path.exists(path):
-            return False
-        try:
-            with open(path, 'r', encoding='utf-8') as f:
-                return json.load(f).get(slot_key, False)
-        except Exception:
-            return False
-
-    def _mark_schedule_as_sent(self, slot_key):
-        path = CONFIG['FILES']['SCHEDULE_STATE']
-        data = {}
-        if os.path.exists(path):
-            try:
-                with open(path, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-            except Exception:
-                data = {}
-        data[slot_key] = True
-        self._atomic_json_dump(path, data)
-
-    def _current_digest_slot(self):
-        hour = self._get_tehran_time().hour
-        today = self._get_tehran_time().strftime("%Y-%m-%d")
-        for start, end, name in CONFIG['DIGEST_SLOTS']:
-            if start <= hour < end:
-                return f"{name}_{today}"
-        return None
 
     # ───────────────────────── market snapshot ─────────────────────────
 
@@ -1014,30 +975,29 @@ class GlobalRadar:
         else:
             logger.info(">>> No valid new items found this run.")
 
-        # ── Dispatch digest only inside a scheduled Tehran-time window, once per slot ──
-        slot = self._current_digest_slot()
-        if slot and not self._is_schedule_already_sent(slot):
-            pending = [
-                it for it in self.existing_news
-                if it.get('urgency', 0) >= CONFIG['MIN_TELEGRAM_URGENCY'] and not it.get('sent_to_telegram')
-            ]
-            pending.sort(key=lambda x: x.get('urgency', 0), reverse=True)
-            pending = pending[:CONFIG['MAX_DIGEST_ITEMS']]
+        # ── Dispatch digest whenever there are qualifying items to send.
+        # No time-window gate needed: the workflow itself only runs 4x/day,
+        # so every run that finds something already lands us at ~4 msgs/day,
+        # without the fragility of matching GitHub's (often late) cron time
+        # against a fixed Tehran-hour window.
+        pending = [
+            it for it in self.existing_news
+            if it.get('urgency', 0) >= CONFIG['MIN_TELEGRAM_URGENCY'] and not it.get('sent_to_telegram')
+        ]
+        pending.sort(key=lambda x: x.get('urgency', 0), reverse=True)
+        pending = pending[:CONFIG['MAX_DIGEST_ITEMS']]
 
-            if pending:
-                logger.info(f"Dispatching digest for slot {slot} with {len(pending)} items.")
-                sent_ok = self.send_rich_digest_to_telegram(pending, market=market_snapshot)
-                if sent_ok:
-                    sent_ids = {it['id'] for it in pending}
-                    for it in self.existing_news:
-                        if it['id'] in sent_ids:
-                            it['sent_to_telegram'] = True
-                    self._atomic_json_dump(CONFIG['FILES']['NEWS'], self.existing_news)
-                    self._mark_schedule_as_sent(slot)
-            else:
-                logger.info(f"Slot {slot} reached but no items pass the urgency bar yet; will re-check next run within this window.")
-        elif slot:
-            logger.info(f"Slot {slot} already dispatched.")
+        if pending:
+            logger.info(f"Dispatching digest with {len(pending)} items.")
+            sent_ok = self.send_rich_digest_to_telegram(pending, market=market_snapshot)
+            if sent_ok:
+                sent_ids = {it['id'] for it in pending}
+                for it in self.existing_news:
+                    if it['id'] in sent_ids:
+                        it['sent_to_telegram'] = True
+                self._atomic_json_dump(CONFIG['FILES']['NEWS'], self.existing_news)
+        else:
+            logger.info("No pending items above the Telegram urgency bar this run.")
 
         logger.info(f">>> Done. New={len(new_items)} | Failed hosts this run={len(self.failed_hosts)}")
 
