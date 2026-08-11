@@ -1,5 +1,65 @@
 [
   {
+    "id": "8cab413c42",
+    "title_fa": "سهم‌های غیر‌تکنولوژی پیشی‌گیرند؛ رشد سود S&P 500 به سرعت رکوردی",
+    "title_en": "Good news for stock-market bulls: Corporate earnings growth is no longer being...",
+    "summary": [
+      "شرکت‌های S&P 500 به‌طور متوسط ۸٪ از تخمین EPS پیشی گرفتند و سود سالانه حدود ۳۰٪ رشد کرد، سریع‌ترین رشد از Q4‑2021.",
+      "شرکت‌های غیر‑تکنولوژی با پیشی‌گیری ۱۰٪ نسبت به تخمین‌ها، پیش‌بینی‌های سود ۲۰۲۶‑۲۰۲۷ را ارتقا دادند و چشم‌انداز صعودی بازار را تقویت می‌کند.",
+      "ولز فارگو فرصت خرید در بخش‌های فناوری، صنعتی و مالی را به‌دلیل اختلاف بین عملکرد و قیمت سهام می‌بیند."
+    ],
+    "body_fa": "تحلیل‌گران ولز فارگو اعلام کردند فصل گزارش‌های مالی S&P 500 با پیشی‌گیری میانگین ۸٪ نسبت به تخمین‌های EPS و رشد حدود ۳۰٪ نسبت به سال گذشته، به‌سرعتی که از سه‌ماهه چهارم ۲۰۲۱ دیده نشده، پیش می‌رود. جالب‌تر این است که شرکت‌های غیر‑تکنولوژی با پیشی‌گیری حدود ۱۰٪ نسبت به انتظارات، بهتر از گروه «هفت شگفت‌انگیز» عمل کردند. این روند باعث ارتقای پیش‌بینی‌های سود برای نیمه دوم ۲۰۲۶ (۰٫۸٪) و سال ۲۰۲۷ (۱٫۶٪) شد که از تاریخچه قبلی پیشی گرفته‌اند. ولز فارگو این فرصت را برای خرید در بخش‌های فناوری، صنعتی و مالی می‌بیند، هرچند بازدهی سهام این بخش‌ها هنوز با رشد سود همگام نشده است. در کنار این، شرکت‌های غیر‑تکنولوژی شروع به افزایش هزینه‌های سرمایه‌ای برای پروژه‌های بزرگ کرده‌اند که می‌تواند رشد اقتصادی را تقویت کند.",
+    "category": "اقتصاد",
+    "tag": "earnings",
+    "urgency": 5,
+    "source": "Morningstar",
+    "url": "https://www.morningstar.com/news/marketwatch/2026081085/good-news-for-stock-market-bulls-corporate-earnings-growth-is-no-longer-being-driven-just-by-tech",
+    "clean_url": "https://www.morningstar.com/news/marketwatch/2026081085/good-news-for-stock-market-bulls-corporate-earnings-growth-is-no-longer-being-driven-just-by-tech",
+    "image": "https://s.yimg.com/bo/a362d7f7-f342-59b9-bd36-c01cdbdbf51a_1783067230542.png.cf.jpg",
+    "timestamp": 1786393091.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a09e642941",
+    "title_fa": "رشد تورم و رکود بازار مسکن استرالیا؛ RBA تصمیم‌گیری سخت",
+    "title_en": "Will the Reserve Bank blink on inflation as the property market slows?",
+    "summary": [
+      "بازار مسکن استرالیا پس از ۲۵ سال رشد، به دلیل تغییرات مالیاتی و کاهش تقاضا، به سرعت کند می‌شود.",
+      "بانک مرکزی استرالیا (RBA) برای مهار تورم، احتمالاً نرخ بهره را بالا نگه می‌دارد؛ این فشار بر خریداران مسکن می‌افزاید.",
+      "کارشناسان هشدار می‌دهند که اگر تورم مسکن در شاخص‌ها گنجانده نشود، فشارهای مخفی بر بدهی‌های مسکن افزایش می‌یابد."
+    ],
+    "body_fa": "پس از دو و نیم دهه رشد مستمر، بازار مسکن استرالیا به دلیل اصلاحات مالیاتی در بودجه ماه مه و کاهش تقاضا، به سمت رکود می‌رود. بانک مرکزی استرالیا (RBA) تأکید دارد که هدف اصلی‌اش مهار تورم است و برای این منظور ممکن است نرخ بهره را در سطوح بالا حفظ کند، حتی اگر این کار فشار بر خریداران خانه را افزایش دهد. در محاسبه تورم، هزینه مسکن جدید لحاظ می‌شود اما هزینه‌های اجاره یا وام مسکن در شاخص‌ها گنجانده نمی‌شود، که می‌تواند تصویر ناقصی از فشارهای واقعی بر خانوارها ارائه دهد. کارشناسان هشدار می‌دهند که این عدم شمول می‌تواند فشارهای مخفی بر بدهی‌های مسکن را تشدید کند و خطر یک بحران مسکن را افزایش دهد. در صورت ادامه این روند، استرالیا ممکن است به نمونه‌های قبلی مانند ژاپن یا چین در دوره‌های پس‌بوم‌پذیری نزدیک شود.",
+    "category": "اقتصاد",
+    "tag": "RBA",
+    "urgency": 5,
+    "source": "ABC (Australian Broadcasting Corporation)",
+    "url": "https://www.abc.net.au/news/2026-08-11/will-the-rba-blink-on-inflation-as-the-property-market-slows/107021878",
+    "clean_url": "https://www.abc.net.au/news/2026-08-11/will-the-rba-blink-on-inflation-as-the-property-market-slows/107021878",
+    "image": "https://live-production.wcms.abc-cdn.net.au/2c7abdfe0c8d4a01076eee1acc3ea5ea?impolicy=wcms_watermark_news&cropH=665&cropW=1182&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "timestamp": 1786387680.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "effeaeb597",
+    "title_fa": "کرامر: داروهای بزرگ، نوآوری غیر‑تک، فرصت خرید",
+    "title_en": "Jim Cramer Highlights Pharmaceutical Giants as Non-Tech Innovation Plays Like...",
+    "summary": [
+      "جیم کرامر در برنامه Mad Money سهام دارویی مانند ایلی لیلی و جانسون اند جانسون را برای سرمایه‌گذاران توصیه کرد.",
+      "دلیل این توصیه، رشد نوآوری‌های بیوتکنولوژی و دریافت تاییدیه FDA برای واکسن آنفولانزای mRNA توسط Moderna است.",
+      "شایعات ادغام AstraZeneca‑BMS مطرح شد اما تحلیل‌گران به خطرات پتنت و ارزیابی ارزش اشاره کردند."
+    ],
+    "body_fa": "در برنامهٔ ۶ اوت Mad Money، جیم کرامر به سرمایه‌گذاران گفت که پس از رشد طولانی‌مدت تکنولوژی، باید به بخش‌های دیگر مانند داروسازی نگاه کنند. او ایلی لیلی، جانسون اند جانسون، آمجن و مدرنا را به‌عنوان «سهام غیر‑تک» با نوآوری قوی معرفی کرد و به عملکرد عالی این شرکت‌ها در سه‌ماهه اخیر اشاره کرد. کرامر به ویژه به دریافت تاییدیه FDA برای واکسن آنفولانزای mRNA توسط مدرنا اشاره کرد که باعث افزایش ۸۳ درصدی سهم این شرکت در سال جاری شده است. در ادامه، دربارهٔ شایعات خرید بریکست‑مایرز اسکوئیر توسط AstraZeneca صحبت شد؛ تحلیل‌گران به دشواری توافق بر سر ارزش‌گذاری و خطرات پتنت بریکست‑مایرز اسکوئیر هشدار دادند. به‌طور کلی، کرامر معتقد است این داروهای بزرگ می‌توانند ترکیبی از رشد بالا، سودآوری و سود تقسیمی قوی ارائه دهند.",
+    "category": "اقتصاد",
+    "tag": "دارو",
+    "urgency": 5,
+    "source": "Insider Monkey · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-highlights-pharmaceutical-giants-180730894.html",
+    "clean_url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-highlights-pharmaceutical-giants-180730894.html",
+    "image": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
+    "timestamp": 1786385891.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "70ef5caef6",
     "title_fa": "جیم کرامر به BDX پس از گزارش Q3 توصیه کرد",
     "title_en": "Jim Cramer Sees Cheap Valuation in Becton, Dickinson (BDX) After Q3 Beat and...",
@@ -60,6 +120,46 @@
     "sent_to_telegram": true
   },
   {
+    "id": "044928a863",
+    "title_fa": "SEC جلسه‌ای برای پیشنهاد قانون Reg Crypto برگزار می‌کند",
+    "title_en": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+    "summary": [
+      "کمیسیون بورس و اوراق بهادار آمریکا جلسه‌ای برای معرفی قانون پیشنهادی Reg Crypto ترتیب داد.",
+      "این قانون مسیر قانونی برای انتشار دارایی‌های دیجیتال بدون نیاز به ثبت‌نام SEC را فراهم می‌کند.",
+      "جلسه ۱۴ آگوست برگزار می‌شود و پس از عدم اقدام سنا، اولین قانون‌گذاری بزرگ در حوزه کریپتوست."
+    ],
+    "body_fa": "کمیسیون بورس و اوراق بهادار آمریکا (SEC) برای اولین بار فرآیند قانون‌گذاری بزرگ در حوزه کریپتو را آغاز می‌کند و جلسه‌ای در ۱۴ آگوست برای ارائه پیشنهادی به نام «Regulation Crypto» برنامه‌ریزی کرده است. این قانون مسیر رسمی برای انتشار دارایی‌های دیجیتال به‌صورت سرمایه‌گذاری‌های قراردادی بدون نیاز به ثبت‌نام کامل در SEC فراهم می‌کند و پس از اتمام پروژه، امکان خروج از نظارت این نهاد را نیز می‌دهد. اقدام SEC پس از عدم رأی‌گیری سنا بر روی قانون Clarity Act انجام می‌شود و هدف آن ایجاد اطمینان قانونی برای شرکت‌های کریپتو است. تحلیل‌گران انتظار دارند این چارچوب جدید بتواند هزینه‌های انطباق را کاهش داده و جذب سرمایه برای پروژه‌های دیجیتال را تسهیل کند. در صورت تصویب، این گام می‌تواند به‌عنوان نقطه عطفی در تنظیمات بازارهای دیجیتال در ایالات متحده شناخته شود.",
+    "category": "کریپتو",
+    "tag": "RegCrypto",
+    "urgency": 7,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
+    "clean_url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7bb0699e8b9da16592a55f2b39f0777935133915-2344x1318.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.6605&fp-y=0.4183&w=1920&h=1080&q=75",
+    "timestamp": 1786381200.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "88568b1c39",
+    "title_fa": "دلار کانادا پس از دو ماه نزول به 1.39 رسید",
+    "title_en": "The Canadian Dollar takes back two months in ten sessions",
+    "summary": [
+      "دلار کانادا در ۱۰ روز معاملاتی به بالای 1.3900 مقابل دلار آمریکا رسید.",
+      "این رشد، دو ماه پیشرفت دلار آمریکا را معکوس کرد و نشانگر تقویت لونی به‌دلیل نفت و کاهش دستمزدهای آمریکا است.",
+      "قیمت نفت برنت بالای 86 دلار و عدم برنامه‌های پولی جدید در کانادا این حرکت را تقویت کرد."
+    ],
+    "body_fa": "دلار کانادا در ده روز اخیر به بالای 1.3900 مقابل دلار آمریکا رسید و قوی‌ترین سطح خود از اوایل ژوئن را ثبت کرد. این افزایش، دو ماه پیشرفت دلار آمریکا را در برابر لونی معکوس کرد و نشانگر تغییر در دینامیک بازارهای ارز است. عوامل اصلی شامل کاهش دستمزدهای ایالات متحده در روزهای آخر هفته و افزایش قیمت نفت برنت که به بالای 86 دلار رسید، بود. بانک مرکزی کانادا پیش‌بینی کرده بود که نرخ ارز در حدود 71 سنت دلار آمریکا باشد، اما نرخ فعلی نزدیک به 71.8 سنت است که نشان از فشار بر تورم دارد. هیچ برنامه پولی جدیدی در کانادا اعلام نشده و بازارهای مالی به این تحرک واکنش مثبت نشان دادند.",
+    "category": "اقتصاد",
+    "tag": "دلار_کانادا",
+    "urgency": 5,
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/the-canadian-dollar-takes-back-two-months-in-ten-sessions-202608101644",
+    "clean_url": "https://www.fxstreet.com/news/the-canadian-dollar-takes-back-two-months-in-ten-sessions-202608101644",
+    "image": "https://editorial.fxsstatic.com/images/i/discover-52_Medium.png",
+    "timestamp": 1786380300.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "171c6333d5",
     "title_fa": "زاکس پیش‌بینی سودهای غیرمنتظره مایکروسافت و آمازون",
     "title_en": "Microsoft, Amazon, Micron and Alphabet are part of Zacks Earnings Preview",
@@ -100,6 +200,26 @@
     "sent_to_telegram": true
   },
   {
+    "id": "23a0e1ce09",
+    "title_fa": "شاخص‌های اصلی کاهش یافتند؛ نفت بالا رفت",
+    "title_en": "Markets News, Aug. 10, 2026: Major Indexes Tick Lower as Tech Shares Come Under...",
+    "summary": [
+      "سه‌شنبه شاخص‌های S&P 500، Nasdaq و Dow به‌طور جزئی کاهش یافتند؛ نفت خام با افزایش 5٪ مواجه شد.",
+      "سرمایه‌گذاران منتظر گزارش CPI روز چهارشنبه هستند که می‌تواند جهت‌گیری نرخ بهره فدرال رزرو را تعیین کند.",
+      "قیمت بیت‌کوین در حدود 64,000 دلار ثابت ماند؛ سهام SpaceX پس از افت قبلی بیش از 4٪ رشد کرد."
+    ],
+    "body_fa": "در روز دوشنبه، سه شاخص اصلی بازارهای آمریکا به‌خاطر فشار بر سهام فناوری کمی کاهش یافتند؛ S&P 500 کمتر از 0.1٪، Nasdaq 0.3٪ و Dow 0.1٪ سقوط کردند. این حرکت پس از ثبت رکوردهای تاریخی در هفته پیش رخ داد و سرمایه‌گذاران چشم به گزارش CPI روز چهارشنبه دوخته‌اند تا تصمیمات آینده فدرال رزرو را پیش‌بینی کنند. در عین حال، نفت خام به دلیل اعلام فهرست جدید تقاضاهای ایران برای بازگشایی تنگه هرمز، 5٪ افزایش یافت و قیمت WTI به بالای 82 دلار رسید. بیت‌کوین در حدود 64,000 دلار معامله می‌شد و سهام SpaceX پس از افت قبلی، 4٪ رشد کرد.",
+    "category": "اقتصاد",
+    "tag": "شاخص‌ها",
+    "urgency": 5,
+    "source": "Investopedia · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-index-122904227.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-index-122904227.html",
+    "image": "https://media.zenfs.com/en/investopedia_245/04bf71143462d5630bb2b9f77cf2dfbf",
+    "timestamp": 1786364291.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "163f9e2422",
     "title_fa": "قهرمانان ETFهای لِورِج‌دار هفته گذشته",
     "title_en": "Best-Performing Leveraged Single-Stock ETFs of Last Week",
@@ -117,6 +237,26 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/best-performing-leveraged-single-stock-120000585.html",
     "image": "https://media.zenfs.com/en/zacks.com/49c5041735019a39841398f799864f7b",
     "timestamp": 1786361691.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1cd4674ca9",
+    "title_fa": "هوش مصنوعی رشد سود سه ماهه دوم را تقویت کرد",
+    "title_en": "AI drives corporate earnings surge in Q2, boosts major tech firms",
+    "summary": [
+      "هوش مصنوعی باعث افزایش چشمگیر سود Q2 شد؛ Broadcom، Alphabet و Microsoft درآمدهای خود را به‌طور قابل‌توجهی ارتقا دادند.",
+      "این رشد نشان می‌دهد AI به‌عنوان موتور اصلی سودآوری تبدیل شده و چشم‌انداز ارزیابی Anthropic را بهبود می‌بخشد.",
+      "بازار به‌دنبال اعلامیه‌های جدید سرمایه‌گذاری یا شراکت‌های Anthropic برای تأیید این روند است."
+    ],
+    "body_fa": "بر اساس گزارشی از Yahoo Finance، سودهای شرکت‌های بزرگ فناوری در سه ماهه دوم به‌دلیل پیشرفت‌های هوش مصنوعی به‌طور قابل‌توجهی افزایش یافت. شرکت‌هایی چون Broadcom، Alphabet و Microsoft گزارش دادند که درآمدهایشان از زیرساخت‌ها و راهکارهای AI به‌طور چشمگیری رشد کرده است. این تحول نشان می‌دهد هوش مصنوعی دیگر بازار فرعی نیست بلکه عامل اصلی سودآوری شرکت‌هاست. تحلیل‌گران این رشد را نشانه‌ای از ارزش‌گذاری بالاتر برای شرکت‌های AI مانند Anthropic می‌دانند و انتظار دارند تا پایان سال این شرکت به اهداف ارزیابی‌اش برسد. سرمایه‌گذاران به‌خصوص به اعلامیه‌های جدید سرمایه‌گذاری یا شراکت‌های Anthropic توجه دارند تا تأیید بیشتری برای این روند دریافت کنند.",
+    "category": "تکنولوژی",
+    "tag": "AI",
+    "urgency": 6,
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/ai-drives-corporate-earnings-surge-in-q2-boosts-major-tech-firms/",
+    "clean_url": "https://cryptobriefing.com/ai-drives-corporate-earnings-surge-in-q2-boosts-major-tech-firms",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/10134624/coworkers-in-a-tech-startup-office-1-800x420.jpeg",
+    "timestamp": 1786358760.0,
     "sent_to_telegram": true
   },
   {
