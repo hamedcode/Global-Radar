@@ -1,5 +1,65 @@
 [
   {
+    "id": "c7c12357ff",
+    "title_fa": "رکورد نرخ اشتراک‌گذاری در گزارش Q2 گروپرو",
+    "title_en": "GoPro Inc (GPRO) (Q2 2026) Earnings Call Highlights: Record Subs",
+    "summary": [
+      "گروپرو در گزارش Q2 2026 نرخ پیوست‌سازی مشترکین را به ۶۹٪ ارتقا داد، مقابل ۵۴٪ سال قبل.",
+      "این رشد نشان‌دهنده افزایش پایدار کاربران و می‌تواند سودآوری و ارزش سهام را تقویت کند.",
+      "شرکت پیش‌بینی کرد که درآمد ماهانه فعال در نیمه‌سال آینده نیز رشد خواهد کرد."
+    ],
+    "body_fa": "در تماس earnings فصل دوم ۲۰۲۶، گروپرو اعلام کرد نرخ پیوست‌سازی مشترکین (Subscriber Attach Rate) به رکورد ۶۹ درصد رسیده است؛ عددی که نسبت به دوره مشابه سال گذشته ۵۴ درصد بوده. این افزایش نشان‌دهنده جذب بیشتر کاربران به سرویس‌های اشتراکی و احتمال ارتقای درآمدهای تکراری است. مدیرعامل شرکت به این نکته اشاره کرد که رشد پایدار در تعداد مشترکین، بهبود حاشیه سود و توانایی سرمایه‌گذاری در محصولات جدید را ممکن می‌سازد. علاوه بر این، گروپرو پیش‌بینی کرد که تعداد کاربران فعال ماهانه (MAU) در ماه‌های آینده نیز افزایشی خواهد داشت، که می‌تواند فشار مثبت بر قیمت سهام ایجاد کند.",
+    "category": "تکنولوژی",
+    "tag": "GoPro",
+    "urgency": 5,
+    "source": "Guru Focus",
+    "url": "https://www.gurufocus.com/news/9023233/gopro-inc-gpro-q2-2026-earnings-call-highlights-record-subscriber-growth-amid-strategic-review",
+    "clean_url": "https://www.gurufocus.com/news/9023233/gopro-inc-gpro-q2-2026-earnings-call-highlights-record-subscriber-growth-amid-strategic-review",
+    "image": "https://s.yimg.com/bo/9718ab21-8f79-538d-8f28-d93ef2ac8ef8_1786411039744.png.cf.jpg",
+    "timestamp": 1786421777.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "41bd2f1463",
+    "title_fa": "اقتصاد قطر در ۲۰۲۵ رشد قوی نشان داد",
+    "title_en": "Qatar economy delivers strong growth and stability in 2025",
+    "summary": [
+      "بانک مرکزی قطر گزارش سالانه ۲۰۲۵ را منتشر کرد؛ رشد قوی و ثبات اقتصادی را اعلام کرد.",
+      "این نشان‌دهنده توانایی اقتصاد قطر در حفظ رشد در برابر چالش‌های منطقه‌ای است.",
+      "گزارش می‌تواند جذب سرمایه‌گذاری خارجی و حمایت از برنامه‌های توسعه را تقویت کند."
+    ],
+    "body_fa": "بانک مرکزی قطر در گزارش سالانه ۲۰۲۵ خود اعلام کرد که اقتصاد این کشور در طول سال رشد قوی و ثباتی را تجربه کرده است. این عملکرد مثبت نشان می‌دهد که قطر توانسته است با چالش‌های منطقه‌ای و نوسانات بازارهای جهانی مقابله کند. گزارش به بهبود شاخص‌های کلیدی مانند تولید ناخالص داخلی، سرمایه‌گذاری و تراز تجاری اشاره دارد. این روند مثبت می‌تواند اعتماد سرمایه‌گذاران خارجی را جلب کرده و برنامه‌های توسعه‌ای دولت را تسهیل کند. همچنین، ثبات اقتصادی به حفظ صندوق‌های سرمایه‌گذاری ملی و پشتیبانی از سیاست‌های مالی کمک می‌کند.",
+    "category": "اقتصاد",
+    "tag": "قطر",
+    "urgency": 4,
+    "source": "MSN",
+    "url": "https://www.msn.com/en-ae/money/economy/qatar-economy-delivers-strong-growth-and-stability-in-2025/ar-AA29PUxd",
+    "clean_url": "https://www.msn.com/en-ae/money/economy/qatar-economy-delivers-strong-growth-and-stability-in-2025/ar-AA29PUxd",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786416060.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "158e41bb22",
+    "title_fa": "سنا پیش‌نویس قانون شفاف‌سازی رمزارزها را پیش می‌برد",
+    "title_en": "US stock market: Senate moves to advance Crypto Clarity Act in major win for Trump, industry",
+    "summary": [
+      "سنا پس از تعطیلات اوت، رأی کلیدی برای پیشبرد قانون Crypto Clarity Act را برنامه‌ریزی کرد.",
+      "این قانون چارچوب نظارتی جامع برای رمزارزها ایجاد می‌کند و برای صنعت و دولت ترامپ مهم است.",
+      "تصویب آن می‌تواند ابهامات قانونی را کاهش و جذب سرمایه‌گذاری را تسهیل کند."
+    ],
+    "body_fa": "سنای ایالات متحده پس از تعطیلات اوت، به رای‌گیری کلیدی برای پیشبرد قانون Crypto Clarity Act می‌پردازد. این لایحه هدف دارد چارچوب نظارتی یکپارچه‌ای برای رمزارزها تعریف کند، شامل طبقه‌بندی دارایی‌ها، الزامات مجوز برای صرافی‌ها و حفاظت از مصرف‌کنندگان. حمایت این اقدام از سوی دولت ترامپ و گروه‌های صنعتی رمزارزهاست، در حالی که برخی قانونگذاران مخالف محدودیت‌های احتمالی هستند. تصویب این قانون می‌تواند ابهامات قانونی را برطرف کرده و سرمایه‌گذاران را برای ورود به بازارهای دیجیتال تشویق کند، که پیامدهای مثبت برای قیمت‌ها و نوآوری‌های فناوری مالی دارد.",
+    "category": "کریپتو",
+    "tag": "Crypto Clarity Act",
+    "urgency": 7,
+    "source": "The Economic Times on MSN",
+    "url": "https://www.msn.com/en-in/news/other/us-stock-market-senate-moves-to-advance-crypto-clarity-act-in-major-win-for-trump-industry/ar-AA29PF8F",
+    "clean_url": "https://www.msn.com/en-in/news/other/us-stock-market-senate-moves-to-advance-crypto-clarity-act-in-major-win-for-trump-industry/ar-AA29PF8F",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786414718.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "82dbe79a87",
     "title_fa": "سنگاپور پیش‌بینی رشد ۲۰۲۶ را به‌دلیل رونق هوش مصنوعی ارتقا داد",
     "title_en": "Global market: Singapore raises 2026 growth forecast on AI boom, resilient global economy",
@@ -17,6 +77,26 @@
     "clean_url": "https://www.msn.com/en-in/news/other/global-market-singapore-raises-2026-growth-forecast-on-ai-boom-resilient-global-economy/ar-AA29OGSq",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786398842.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8cab413c42",
+    "title_fa": "سهم‌های S&P 500 با رشد سود 30٪ پیش‌بینی می‌شوند",
+    "title_en": "Good news for stock-market bulls: Corporate earnings growth is no longer being...",
+    "summary": [
+      "80٪ شرکت‌های S&P 500 گزارش سود کردند؛ به‌طور متوسط 8٪ بالاتر از تخمین‌ها.",
+      "این پیشرفت سریع‌ترین رشد سالانه از Q4‑2021 است و پیش‌بینی‌های 2026‑2027 را ارتقا داد.",
+      "شرکت‌های غیر‑تکنولوژی با 10٪ پیشی‌گیری، فرصت خرید در صنایع، مالی و فناوری را ایجاد می‌کند."
+    ],
+    "body_fa": "پس از انتشار نتایج 80٪ شرکت‌های شاخص S&P 500، سود هر سهم (EPS) به‌طور متوسط 8٪ بالاتر از پیش‌بینی‌های وال‌استریت شد و رشد سالانه‌ای حدود 30٪ نسبت به دوره مشابه سال گذشته نشان می‌دهد؛ این سرعت رشد سریع‌ترین دوره پس از سه‌ماهه چهارم 2021 است. جالب‌تر این است که شرکت‌های غیر‑تکنولوژی با پیشی‌گیری حدود 10٪ نسبت به انتظارات، بهتر از گروه «هفت شگفت‌انگیز» عمل کردند. این روند مثبت باعث ارتقای پیش‌بینی‌های سود برای نیمه دوم 2026 (0.8٪) و سال 2027 (1.6٪) شد. استراتژیست‌های Wells Fargo این فرصت را برای خرید در بخش‌های فناوری، صنعتی و مالی که هنوز بازدهی سهامشان با سودهای بهبود یافته همگام نشده، می‌دانند. علاوه بر این، هزینه‌های سرمایه‌ای شرکت‌های غیر‑تکنولوژی نیز در حال افزایش است که می‌تواند رشد بلندمدت را تقویت کند.",
+    "category": "اقتصاد",
+    "tag": "earnings",
+    "urgency": 5,
+    "source": "Morningstar",
+    "url": "https://www.morningstar.com/news/marketwatch/2026081085/good-news-for-stock-market-bulls-corporate-earnings-growth-is-no-longer-being-driven-just-by-tech",
+    "clean_url": "https://www.morningstar.com/news/marketwatch/2026081085/good-news-for-stock-market-bulls-corporate-earnings-growth-is-no-longer-being-driven-just-by-tech",
+    "image": "https://s.yimg.com/bo/a362d7f7-f342-59b9-bd36-c01cdbdbf51a_1783067230542.png.cf.jpg",
+    "timestamp": 1786392977.0,
     "sent_to_telegram": true
   },
   {
@@ -57,6 +137,26 @@
     "clean_url": "https://www.fxstreet.com/news/wti-jumps-over-6-as-strait-of-hormuz-reopening-remains-uncertain-202608101822",
     "image": "https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2_Medium.png",
     "timestamp": 1786386120.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "695e0fc456",
+    "title_fa": "سودهای Q2 با رشد ۲۸٪ در سهام هوش مصنوعی",
+    "title_en": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the...",
+    "summary": [
+      "حدود ۹۰٪ شرکت‌های S&P 500 گزارش سود سه‌ماهه دوم را منتشر کردند؛ ۸۰٪ رشد EPS سالانه داشتند.",
+      "بانک آمریکا می‌گوید هوش مصنوعی موتور اصلی رشد است؛ میانگین EPS سهام AI ۲۸٪ افزایش یافت.",
+      "پیش‌بینی‌ها نشان می‌دهد رشد EPS در ۲۰۲۷ کاهش خواهد یافت و ممکن است بازدهی بازار را تحت فشار قرار دهد."
+    ],
+    "body_fa": "در پایان فصل دوم مالی، تقریباً ۹۰٪ شرکت‌های شاخص S&P 500 نتایج خود را اعلام کردند که ۸۰٪ آن‌ها رشد سالانه سود هر سهم (EPS) داشته‌اند؛ این رقم باعث قرارگیری این فصل در صدک ۹۴ در بین دوره‌های تاریخی شد. پژوهشگران بانک آمریکا معتقدند که رونق هوش مصنوعی نقش اصلی در این رشد داشته؛ میانگین EPS سهام مرتبط با AI حدود ۲۸٪ رشد کرده، در حالی که میانگین سایر سهام تنها ۱۲٪ افزایش یافت. با این حال، کارشناسان هشدار می‌دهند که سرعت رشد سود در سال‌های آینده، به‌ویژه در ۲۰۲۷، ممکن است کاهش یابد و این موضوع می‌تواند تمایل بازار به حمایت از سهام را کم کند. طرز فکر سرمایه‌گذاران نیز ممکن است با کاهش رشد EPS، بازدهی سهام را زیر فشار قرار دهد. به‌علاوه، حاشیه سود در بخش فناوری به‌طور مداوم افزایش یافته، در حالی که سایر بخش‌ها این پیشرفت را تجربه نکرده‌اند، که نشانگر وابستگی فزاینده بازار به رونق AI است.",
+    "category": "اقتصاد",
+    "tag": "AI",
+    "urgency": 5,
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html",
+    "clean_url": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html",
+    "image": "https://d29szjachogqwa.cloudfront.net/images/2026-08/504a7d7e-c37d-4d2c-be56-b5c2bd5a8fb8",
+    "timestamp": 1786382177.0,
     "sent_to_telegram": true
   },
   {
