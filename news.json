@@ -40,6 +40,26 @@
     "sent_to_telegram": true
   },
   {
+    "id": "261beb3204",
+    "title_fa": "قیمت نفت WTI بیش از ۶٪ جهش یافت",
+    "title_en": "WTI jumps over 6% as Strait of Hormuz reopening remains uncertain",
+    "summary": [
+      "قیمت WTI امروز بیش از ۶٪ بالا رفت و به حدود ۸۱.۱۵ دلار در هر بشکه رسید.",
+      "این جهش به دلیل عدم قطعیت درباره زمان بازگشایی تنگه هرمز و نگرانی‌های تأمین است.",
+      "ایران خواستار رفع تحریم‌ها، جبران خسارات جنگی و تضمین‌های امنیتی قبل از بازگشایی است."
+    ],
+    "body_fa": "قیمت نفت خام West Texas Intermediate (WTI) امروز بیش از ۶ درصد افزایش یافت و به ۸۱.۱۵ دلار در هر بشکه نزدیک شد، که بالاترین سطح یک هفته‌ای است. این رشد پس از کاهش قیمت‌ها در هفته گذشته به دلیل گزارش‌های اولیه درباره توافق موقت ایران و عمان برای بازگشایی تنگه هرمز رخ داد، اما پس از عدم اعلام نهایی توافق، نگرانی‌ها دوباره سر برآورد. مذاکرات جدید بین وزیر خارجه ایران و عمان در مرحلهٔ نهایی است، اما تهران تأکید می‌کند که تنها بازگشایی مسیرهای کشتی کافی نیست؛ ایالات متحده باید تحریم‌ها را رفع کند و تضمین‌های امنیتی ارائه دهد. در عین حال، رئیس‌جمهور آمریکا از این درخواست‌ها رد شده و به جبران خسارات ناشی از حملات اشاره کرده است. این عدم قطعیت باعث حفظ پرمیوم ریسک ژئوپولیتیک در بازار نفت شده و احتمال ادامه نوسان قیمت‌ها را افزایش می‌دهد.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 7,
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/wti-jumps-over-6-as-strait-of-hormuz-reopening-remains-uncertain-202608101822",
+    "clean_url": "https://www.fxstreet.com/news/wti-jumps-over-6-as-strait-of-hormuz-reopening-remains-uncertain-202608101822",
+    "image": "https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2_Medium.png",
+    "timestamp": 1786386120.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "044928a863",
     "title_fa": "SEC جلسه‌ای برای معرفی قانون جدید رمزارز برگزار می‌کند",
     "title_en": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
