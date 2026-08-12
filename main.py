@@ -529,6 +529,7 @@ class GlobalRadar:
             "🔴 قوانین نگارش:\n"
             "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
             "۰. فقط و فقط فارسی بنویس. هیچ کاراکتر چینی، ژاپنی یا هیچ زبان دیگری (جز اسامی خاص انگلیسی مثل نام شرکت‌ها) نباید در خروجی باشد. این قانون رو با دقت کامل رعایت کن.\n"
+            "۰۰. برای اسم افراد یا مکان‌هایی که تلفظ فارسی رایج و شناخته‌شده دارن (مثل تنگه هرمز)، فقط همون املای درست و رایج رو بنویس. اگه از تلفظ فارسی یه اسم خاص (مخصوصاً اسم افراد) مطمئن نیستی، به‌جای حدس‌زدن یه املای اشتباه، همون اسم رو به انگلیسی/لاتین بنویس. هرگز املای اختراعی یا نامطمئن برای اسم خاص ننویس.\n"
             "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
             "۳. باید دو نسخه از خبر بنویسی، هر دو بر اساس متن کامل خبر (TEXT)، نه فقط تیتر:\n"
             "   الف) summary: نسخه‌ی خیلی کوتاه برای تلگرام (فضا محدوده)، دقیقاً ۲ تا ۳ خط، هر خط حداکثر ۲۵ کلمه:\n"
@@ -626,6 +627,39 @@ class GlobalRadar:
         )
         return re.sub(r'\s{2,}', ' ', cleaned).strip()
 
+    # Common AI mistranscriptions of Persian proper nouns — extend as more show up.
+    _KNOWN_TYPO_FIXES = {
+        'هورموز': 'هرمز',
+        'تنگه هورموز': 'تنگه هرمز',
+    }
+
+    def _fix_common_typos(self, text):
+        if not text:
+            return text
+        for wrong, right in self._KNOWN_TYPO_FIXES.items():
+            text = text.replace(wrong, right)
+        # Ensure a space between a digit run and an adjacent Persian word
+        # (model sometimes glues them together, e.g. "389میلیون").
+        text = re.sub(r'(\d)([\u0600-\u06FF])', r'\1 \2', text)
+        text = re.sub(r'([\u0600-\u06FF])(\d)', r'\1 \2', text)
+        return text
+
+    def _fix_rtl_flow(self, text):
+        """Persian is RTL, but runs of Latin letters/numbers/tickers embedded in
+        it (company names, %, $ figures) confuse the Unicode bidi algorithm and
+        visually scramble the sentence. Wrap each such run in RTL isolate marks
+        (U+2067 ... U+2069) so it renders inline without reordering the rest of
+        the sentence, and force the whole string to start RTL (U+200F)."""
+        if not text:
+            return text
+        RLI, PDI, RLM = '\u2067', '\u2069', '\u200f'
+        wrapped = re.sub(
+            r'[A-Za-z0-9][A-Za-z0-9 .,%$&/\-]*[A-Za-z0-9%]|[A-Za-z0-9]',
+            lambda m: f'{RLI}{m.group(0)}{PDI}',
+            text
+        )
+        return RLM + wrapped
+
     def process_item(self, entry):
         raw_title = (entry.get('title') or '').rsplit(' - ', 1)[0].strip()
         if not raw_title:
@@ -681,12 +715,15 @@ class GlobalRadar:
         photo_url = self._pick_image(photo_url, entry.get('image'), category=category)
         news_id = self._generate_news_id(clean_final_url)
 
+        def clean_fa(t):
+            return self._fix_rtl_flow(self._fix_common_typos(self._strip_foreign_scripts(t)))
+
         return {
             "id": news_id,
-            "title_fa": self._strip_foreign_scripts(ai.get('title_fa', raw_title)),
+            "title_fa": clean_fa(ai.get('title_fa', raw_title)),
             "title_en": raw_title,
-            "summary": [self._strip_foreign_scripts(s) for s in ai.get('summary', [snippet])[:3]],
-            "body_fa": self._strip_foreign_scripts(ai.get('body_fa', '')),
+            "summary": [clean_fa(s) for s in ai.get('summary', [snippet])[:3]],
+            "body_fa": clean_fa(ai.get('body_fa', '')),
             "category": category,
             "tag": ai.get('tag', 'General'),
             "urgency": urgency_val,
@@ -728,22 +765,6 @@ class GlobalRadar:
         base_site = os.environ.get('SITE_URL', '')
 
         items_sorted = sorted(items, key=lambda x: x.get('urgency', 3), reverse=True)
-
-        # ── collect a handful of valid images for a collage ──
-        photo_urls = []
-        for it in items_sorted:
-            img = it.get('image')
-            if self._is_valid_image_url(img) and img not in photo_urls:
-                photo_urls.append(img)
-            if len(photo_urls) >= 6:
-                break
-
-        media_html = ""
-        if len(photo_urls) == 1:
-            media_html = f"<figure><img src=\"{esc(photo_urls[0])}\"/><figcaption>رصد جهانی — {esc(time_str)}</figcaption></figure>\n"
-        elif len(photo_urls) > 1:
-            imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
-            media_html = f"<tg-collage>{imgs}<figcaption>تصاویر مرتبط با اخبار مهم</figcaption></tg-collage>\n"
 
         market_html = ""
         if market:
@@ -793,7 +814,6 @@ class GlobalRadar:
             f"<p>⏱ {esc(time_str)} — {esc(date_str)} (تهران)</p>\n"
             f"{market_html}"
             f"<hr/>\n"
-            f"{media_html}"
             f"<h2>📋 جزئیات</h2>\n"
             f"{details_html}"
             f"{footer_html}"
