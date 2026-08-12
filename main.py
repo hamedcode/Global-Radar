@@ -530,6 +530,7 @@ class GlobalRadar:
             "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
             "۰. فقط و فقط فارسی بنویس. هیچ کاراکتر چینی، ژاپنی یا هیچ زبان دیگری (جز اسامی خاص انگلیسی مثل نام شرکت‌ها) نباید در خروجی باشد. این قانون رو با دقت کامل رعایت کن.\n"
             "۰۰. برای اسم افراد یا مکان‌هایی که تلفظ فارسی رایج و شناخته‌شده دارن (مثل تنگه هرمز)، فقط همون املای درست و رایج رو بنویس. اگه از تلفظ فارسی یه اسم خاص (مخصوصاً اسم افراد) مطمئن نیستی، به‌جای حدس‌زدن یه املای اشتباه، همون اسم رو به انگلیسی/لاتین بنویس. هرگز املای اختراعی یا نامطمئن برای اسم خاص ننویس.\n"
+            "۰۰۰. هر عدد رو همیشه یک‌تکه و بدون فاصله بنویس (مثلاً 4400 یا 4,400 — هرگز 4 400 با فاصله‌ی وسط). فاصله‌ی داخل عدد در متن فارسی باعث به‌هم‌ریختن ترتیب نمایش عدد میشه.\n"
             "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
             "۳. باید دو نسخه از خبر بنویسی، هر دو بر اساس متن کامل خبر (TEXT)، نه فقط تیتر:\n"
             "   الف) summary: نسخه‌ی خیلی کوتاه برای تلگرام (فضا محدوده)، دقیقاً ۲ تا ۳ خط، هر خط حداکثر ۲۵ کلمه:\n"
@@ -638,23 +639,49 @@ class GlobalRadar:
             return text
         for wrong, right in self._KNOWN_TYPO_FIXES.items():
             text = text.replace(wrong, right)
+        # Collapse spaces the model sometimes mistakenly inserts as a thousands
+        # separator (e.g. "4 400" meant as "4400"). In RTL text, separate
+        # space-delimited number tokens get visually reordered relative to each
+        # other, which looks like the digits themselves got scrambled.
+        collapse_pattern = re.compile(r'(?<=\d)\s(?=\d{3}(?:\D|$))')
+        for _ in range(3):
+            text = collapse_pattern.sub('', text)
         # Ensure a space between a digit run and an adjacent Persian word
         # (model sometimes glues them together, e.g. "389میلیون").
         text = re.sub(r'(\d)([\u0600-\u06FF])', r'\1 \2', text)
         text = re.sub(r'([\u0600-\u06FF])(\d)', r'\1 \2', text)
         return text
 
+    _PERSIAN_DIGIT_MAP = str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹')
+
+    def _persianize_numbers(self, text):
+        """Convert standalone Western digits to Persian-Arabic digits. Numbers
+        glued to Latin letters (tickers like S&P500, product names like iPhone17)
+        are left as Western digits since they're part of an English token.
+        Native Persian digits don't trigger the LTR-embedding/reordering problem
+        that plain Telegram numerals do inside RTL text."""
+        if not text:
+            return text
+
+        def repl(m):
+            token = m.group(0)
+            if re.fullmatch(r'[\d.,%]+', token):
+                return token.translate(self._PERSIAN_DIGIT_MAP)
+            return token  # contains a letter -> leave the whole token untouched
+
+        return re.sub(r'[A-Za-z0-9][A-Za-z0-9.,%]*', repl, text)
+
     def _fix_rtl_flow(self, text):
-        """Persian is RTL, but runs of Latin letters/numbers/tickers embedded in
-        it (company names, %, $ figures) confuse the Unicode bidi algorithm and
-        visually scramble the sentence. Wrap each such run in RTL isolate marks
-        (U+2067 ... U+2069) so it renders inline without reordering the rest of
-        the sentence, and force the whole string to start RTL (U+200F)."""
+        """Persian is RTL, but runs of Latin letters (company names, tickers)
+        embedded in it confuse the Unicode bidi algorithm and visually scramble
+        the sentence. Wrap each such run in RTL isolate marks (U+2067 ... U+2069)
+        so it renders inline without reordering the rest of the sentence, and
+        force the whole string to start RTL (U+200F)."""
         if not text:
             return text
         RLI, PDI, RLM = '\u2067', '\u2069', '\u200f'
         wrapped = re.sub(
-            r'[A-Za-z0-9][A-Za-z0-9 .,%$&/\-]*[A-Za-z0-9%]|[A-Za-z0-9]',
+            r'[A-Za-z][A-Za-z0-9 .,%$&/\-]*[A-Za-z0-9%]|[A-Za-z]',
             lambda m: f'{RLI}{m.group(0)}{PDI}',
             text
         )
@@ -716,7 +743,11 @@ class GlobalRadar:
         news_id = self._generate_news_id(clean_final_url)
 
         def clean_fa(t):
-            return self._fix_rtl_flow(self._fix_common_typos(self._strip_foreign_scripts(t)))
+            t = self._strip_foreign_scripts(t)
+            t = self._fix_common_typos(t)
+            t = self._persianize_numbers(t)
+            t = self._fix_rtl_flow(t)
+            return t
 
         return {
             "id": news_id,
