@@ -1,5 +1,85 @@
 [
   {
+    "id": "f28d7d411d",
+    "title_fa": "‏سهام ⁧CoreWeave⁩ پس از گزارش سودی چشمگیر جهش کرد",
+    "title_en": "Why CoreWeave stock soared past its biggest earnings test",
+    "summary": [
+      "‏⁧CoreWeave⁩ سه‌ماهه‌ای با رشد درآمد و ظرفیت‌های جدید گزارش داد و سهامش بیش از ⁧30⁩ ٪ پرش کرد.",
+      "‏این رشد نشان‌دهنده تقاضای فراوان برای پردازش هوش مصنوعی است و سرمایه‌گذاران را به باور قوی‌تری از شرکت سوق داد.",
+      "‏شرکت در حال گسترش پایگاه مشتریان و تقویت موقعیت خود به‌عنوان پیشرو زیرساخت‌های ⁧AI⁩ است."
+    ],
+    "body_fa": "‏⁧CoreWeave⁩ در گزارش سه‌ماهه اخیر خود، رشد چشمگیر درآمد و گسترش ظرفیت‌های پردازشی را اعلام کرد که باعث صعود بیش از ⁧30⁩ ٪ سهام شد. این افزایش نشان می‌دهد تقاضای شرکت‌ها برای قدرت محاسباتی هوش مصنوعی به سرعت در حال افزایش است. مدیریت شرکت گفت مشتریان جدیدی به پلتفرم اضافه شده و ظرفیت‌های موجود گسترش یافته‌اند. تحلیل‌گران این نتایج را نشانه‌ای از عبور شرکت از مرحله اثبات توانایی به مرحله تسلط بر بازار می‌دانند. اگرچه این رشد می‌تواند فرصت‌های سرمایه‌گذاری ایجاد کند، اما نوسانات قیمتی سریع نیز خطراتی به همراه دارد.",
+    "category": "تکنولوژی",
+    "tag": "CoreWeave",
+    "urgency": 5,
+    "source": "Rolling Out",
+    "url": "https://rollingout.com/2026/08/12/why-coreweave-stock-soared-past-biggest/",
+    "clean_url": "https://rollingout.com/2026/08/12/why-coreweave-stock-soared-past-biggest",
+    "image": "https://s.yimg.com/bo/0041c147-7b8e-5ea7-be83-79e6ef1f41ef_1778684168592.jpg",
+    "timestamp": 1786548998.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cf54d80919",
+    "title_fa": "‏سودهای چشمگیر سه شرکت ⁧AI⁩ بازار را به حرکت درآورد",
+    "title_en": "A fresh batch of earnings show the market's AI trade is still going strong",
+    "summary": [
+      "‏شرکت‌های ⁧CoreWeave⁩، ⁧Super Micro⁩ و ⁧Nebius⁩ پس از گزارش سود فوق‌العاده، سهامشان تا صدها درصد جهش کرد.",
+      "‏این نتایج تقاضای قوی برای سخت‌افزارهای هوش مصنوعی را نشان می‌دهد و انتظارات بازار برای گزارش ⁧Nvidia⁩ را تقویت می‌کند.",
+      "‏شاخص‌های ⁧Nasdaq⁩ و ⁧S&P 500⁩ نیز با رشد ⁧0.8⁩ ٪ و ⁧0.25⁩ ٪ به نفع سهام ⁧AI⁩ حرکت کردند."
+    ],
+    "body_fa": "‏گزارش‌های سود سه شرکت ⁧CoreWeave⁩، ⁧Super Micro Computer⁩ و ⁧Nebius⁩ باعث شد سهام این‌ها به‌صورت سه‌رقمی افزایش یابد. ⁧CoreWeave⁩ درآمد خود را نسبت به سال گذشته دو برابر کرد و هر دو شرکت راهنمایی‌های مثبت برای تقاضای سخت‌افزارهای هوش مصنوعی در فصل‌های آینده ارائه دادند. این نتایج، به‌ویژه پیش از انتشار گزارش ⁧Nvidia⁩ در اواخر ماه اوت، امید سرمایه‌گذاران به ادامه رونق ⁧AI⁩ را تقویت کرد. سایر شرکت‌های زنجیره تأمین ⁧AI⁩ مانند ⁧Dell⁩، ⁧Micron⁩ و ⁧Intel⁩ نیز با رشد قابل‌توجهی مواجه شدند. در همین روز، شاخص ⁧Nasdaq 100⁩ حدود ⁧0.79⁩ ٪ و ⁧S&P 500⁩ حدود ⁧0.25⁩ ٪ افزایش یافتند.",
+    "category": "تکنولوژی",
+    "tag": "AI earnings",
+    "urgency": 6,
+    "source": "Business Insider · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fresh-batch-earnings-show-markets-150440307.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/fresh-batch-earnings-show-markets-150440307.html",
+    "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/6c36cfcd39bc042a9d0bb545baa29991.jpg",
+    "timestamp": 1786547678.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c834339718",
+    "title_fa": "‏ماکسیموس پس از حذف پاداش ⁧VA⁩ سود را کاهش داد",
+    "title_en": "Can Maximus Weather the VA Contract Hit and Rebuild Earnings Momentum?",
+    "summary": [
+      "‏ماکسیموس سود تنظیم‌شده ⁧FY2026⁩ را به ۷.۹‑۸.۲ دلار به‌جای ۸.۲ ۵‑۸.۵ دلار کاهش داد.",
+      "‏دلیل این کاهش توقف مشوق‌های برنامه ⁧VA⁩ است که حدود ۰.۳ ۵ دلار به هر سهم افزوده می‌شد.",
+      "‏این تغییر هم‌زمان با حفظ راهنمایی درآمد کل در حدود ۵.۲‑۵.۳ میلیارد دلار است."
+    ],
+    "body_fa": "‏ماکسیموس، شرکت خدمات فدرال، راهنمایی سود تنظیم‌شده ⁧fiscal 2026⁩ را از ۸.۲ ۵‑۸.۵ دلار به ۷.۹‑۸.۲ دلار به‌دلیل توقف مشوق‌های برنامه ⁧Medical Disability Exam⁩ وزارت امور کهنه‌سربازان (⁧VA⁩) کاهش داد. این مشوق‌ها حدود ۰.۳ ۵ دلار به هر سهم سود اضافه می‌کردند و حذف آن‌ها اثر مستقیم بر سود سه‌ماهه چهارم و اولین سه‌ماهه ⁧fiscal 2027⁩ دارد. علاوه بر کاهش سود، حاشیه ⁧EBITDA⁩ تنظیم‌شده به حدود ۱ ۳.۷ ٪ و جریان نقدی آزاد به ۴ ۲ ۵‑۴ ۷ ۵ میلیون دلار کاهش یافت، در حالی که پیش‌بینی درآمد کل در حدود ۵.۲‑۵.۳ میلیارد دلار ثابت ماند. شرکت با بیش از ۵ ۵٪ درآمد از دولت فدرال آمریکا حساس به تغییرات قراردادهای بزرگ است، مشابه همتایان خود مانند ⁧Booz Allen⁩ و ⁧Leidos⁩. مدیران امیدوارند بهبود حاشیه عملیاتی و رشد ارگانیک میانه‌رقم‌های تک رقمی بتواند اثرات منفی موقت را جبران کند.",
+    "category": "اقتصاد",
+    "tag": "Maximus",
+    "urgency": 5,
+    "source": "Zacks · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/maximus-weather-va-contract-hit-135600146.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/maximus-weather-va-contract-hit-135600146.html",
+    "image": "https://media.zenfs.com/en/zacks.com/c14c90007f7cfbd147ba65b3ecc5617c.jpg",
+    "timestamp": 1786544078.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6f7339ab4a",
+    "title_fa": "‏سهم‌های ⁧Similarweb⁩ پس از گزارش سودآوری ⁧17⁩ ٪ جهش کرد",
+    "title_en": "Similarweb shares surge after earnings beat and upgraded 2026 outlook",
+    "summary": [
+      "‏سهم‌های ⁧Similarweb⁩ ۱ ۷٪ در پیش‌بازار پس از گزارش سود سه‌ماهه دوم که ⁧EPS⁩ ۰.۰ ۶ دلار بود، ارتقا یافت.",
+      "‏درآمد ۹ ٪ رشد کرد به ۷ ۷.۲ میلیون دلار و پیش‌بینی سال ۲ ۰ ۲ ۶ به‌دلیل تقاضای قوی برای راهکارهای هوش مصنوعی ارتقا یافت.",
+      "‏شرکت بیش از ۶ ۰ میلیون دلار قرارداد چندساله جدید به‌دست آورد و اولین سود عملیاتی مثبت ⁧GAAP⁩ را ثبت کرد."
+    ],
+    "body_fa": "‏⁧Similarweb Ltd⁩. سهام خود را پس از انتشار نتایج مالی سه‌ماهه دوم با افزایش ۱ ۷٪ در پیش‌بازار ارتقا داد. سود هر سهم به‌صورت تنظیم‌شده ۰.۰ ۶ دلار رسید که دو برابر تخمین تحلیل‌گران (۰.۰ ۳ دلار) بود و درآمد ۹ ٪ رشد کرد تا ۷ ۷.۲ میلیون دلار، بالاتر از پیش‌بینی ۷ ۵.۵ ۴ میلیون دلار. شرکت بیش از ۶ ۰ میلیون دلار قراردادهای چندساله جدید، از جمله سه قرارداد هفت‌رقمی، به‌دست آورد و نرخ نگهداری درآمد خالص را به ۱ ۰ ۰ ٪ رساند. این عوامل باعث شد که پیش‌بینی درآمد سالانه ۲ ۰ ۲ ۶ به ۳ ۱ ۴‑۳ ۱ ۸ میلیون دلار ارتقا یابد. علاوه بر این، ⁧Similarweb⁩ برای اولین بار سود عملیاتی مثبت ⁧GAAP⁩ به‌ارزش ۰.۷ میلیون دلار را گزارش کرد، که نشان‌دهنده بهبود قابل توجه حاشیه سود است.",
+    "category": "اقتصاد",
+    "tag": "Similarweb",
+    "urgency": 5,
+    "source": "InvestorsHub · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/similarweb-shares-surge-earnings-beat-134010586.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/similarweb-shares-surge-earnings-beat-134010586.html",
+    "image": "https://media.zenfs.com/en/investorshub_458/9b3cb64e1bd4d4589f30971057def9cb.png.cf.jpg",
+    "timestamp": 1786540478.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "856ac9a3b4",
     "title_fa": "‏تحلیل صبحانه‌ستار: سهام دیزنی زیرارزش‌گذاری شده",
     "title_en": "After Earnings, Is Disney Stock a Buy, a Sell, or Fairly Valued?",
@@ -17,6 +97,26 @@
     "clean_url": "https://www.morningstar.com/stocks/after-earnings-is-disney-stock-buy-sell-or-fairly-valued-10",
     "image": "https://s.yimg.com/bo/1a7c857d-8080-59d8-94da-2d3360041817_1782106822746.jpg",
     "timestamp": 1786528779.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c6d5682c51",
+    "title_fa": "‏⁧Wintermute⁩ با سرمایه‌گذاری یک میلیارد دلاری به هوش مصنوعی می‌پردازد",
+    "title_en": "Wintermute Plans $1B AI Infrastructure Push as It Diversifies Beyond Crypto",
+    "summary": [
+      "‏⁧Wintermute⁩ قصد دارد در پنج سال آینده حدود ⁧1⁩ میلیارد دلار در زیرساخت‌های هوش مصنوعی و معاملات فرکانس بالا سرمایه‌گذاری کند.",
+      "‏این گام به شرکت کمک می‌کند تا درآمد غیرکریپتو را تا بیش از ۵ ۰٪ تا سال ۲ ۰ ۲ ۷ افزایش دهد.",
+      "‏در همین زمان حجم معاملات روزانه‌اش از ۱ ۵ به ۱ ۰ میلیارد دلار کاهش یافته است."
+    ],
+    "body_fa": "‏شرکت لندن‌مبنی ⁧Wintermute⁩، که پیشتر به‌عنوان یکی از بزرگ‌ترین سازندگان بازارهای رمزارز شناخته می‌شد، برنامه دارد حدود یک میلیارد دلار را در زیرساخت‌های هوش مصنوعی و مراکز داده با سرعت بالا در پنج سال آینده صرف کند. هدف این سرمایه‌گذاری گسترش فعالیت‌هایش به بازارهای سنتی مانند سهام، کالا، ارزهای خارجی و بازارهای پیش‌بینی است. مدیرعامل ایوگنی گاووی اعلام کرد که تا پایان ۲ ۰ ۲ ۷، بیش از نیمی از درآمد شرکت باید از فعالیت‌های غیرکریپتو تأمین شود، در حالی که در حال حاضر این سهم حدود ۱ ۰٪ است. این تصمیم در زمانی اتخاذ شد که حجم معاملات روزانه ⁧Wintermute⁩ از حدود ۱ ۵ میلیارد دلار در سال ۲ ۰ ۲ ۵ به حدود ۱ ۰ میلیارد دلار در سال جاری کاهش یافته است. شرکت در آمریکا به‌تازگی به‌عنوان کارگزار-تاجر ثبت‌نام کرده و می‌تواند در معاملات سهام، گزینه‌ها و محصولات مبادله‌ای شرکت کند. گسترش تیم نیویورک از ۱ ۷ نفر و افزایش نیروی کار جهانی به‌حد ۴ ۰٪ در سال آینده نیز بخشی از برنامه رشد است. حرکت مشابهی توسط صرافی‌های بزرگ رمزارز و حتی ماینرهای بیت‌کوین مانند ⁧Riot Platforms⁩ که قرارداد ۹.۱ میلیارد دلاری برای مراکز داده هوش مصنوعی امضا کرده‌اند، نشان می‌دهد که صنعت رمزارز به‌سرعت به حوزه مالی سنتی و فناوری‌های پیشرفته می‌پیوندد.",
+    "category": "کریپتو",
+    "tag": "Wintermute",
+    "urgency": 7,
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wintermute-plans-1b-ai-infrastructure-151400003.html",
+    "clean_url": "https://finance.yahoo.com/technology/ai/articles/wintermute-plans-1b-ai-infrastructure-151400003.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/A178F99CC3C13C9953C55915B0CF57FCA051D7E78C9B6BB33BF725C70E9C5BC5/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Ffd006b412ec97729491a6f165169da8d.jpg",
+    "timestamp": 1786522440.0,
     "sent_to_telegram": true
   },
   {
@@ -120,6 +220,26 @@
     "sent_to_telegram": true
   },
   {
+    "id": "b2a6463568",
+    "title_fa": "‏نرخ تورم ژوئیه ۳ ٫ ۴ ٪؛ انرژی همچنان گران",
+    "title_en": "Inflation Was Moderate in July, but Energy Prices Remain Elevated",
+    "summary": [
+      "‏شاخص قیمت مصرف‌کننده (⁧CPI⁩) ژوئیه ۳ ٫ ۴ ٪ ⁧YoY⁩ افزایش یافت.",
+      "‏این رقم نشان‌دهنده تورم متوسط است، اما قیمت انرژی همچنان بالا مانده.",
+      "‏داده‌های اکتبر ۲ ۰ ۲ ۵ به‌دلیل تعطیلی دولت موجود نیست."
+    ],
+    "body_fa": "‏آمار ⁧CPI⁩ ماه ژوئیه نشان داد قیمت‌ها نسبت به سال گذشته ۳ ٫ ۴ ٪ افزایش یافته‌اند که نشانگر تورم متوسط است. با این حال، بخش انرژی به دلیل ادامه جنگ در ایران قیمت‌های بالایی را حفظ کرده است. این داده‌ها به‌صورت فصلی تنظیم شده‌اند. لازم به ذکر است که به دلیل تعطیلی دولت، داده‌های اکتبر ۲ ۰ ۲ ۵ در این گزارش موجود نیستند. این وضعیت می‌تواند فشار بر سیاست‌گذاران پولی برای بررسی مسیر نرخ بهره داشته باشد.",
+    "category": "اقتصاد",
+    "tag": "inflation",
+    "urgency": 4,
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report",
+    "clean_url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786503900.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "729f79c7b7",
     "title_fa": "‏پیش‌بینی ⁧IEA⁩: تقاضای نفت تا ۲ ۰ ۲ ۶ به‌طور چشمگیری کاهش می‌یابد",
     "title_en": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
@@ -137,6 +257,26 @@
     "clean_url": "https://www.msn.com/en-us/money/economy/hormuz-closure-squeezes-global-economy-as-oil-demand-destruction-intensifies-iea-says/ar-AA29ULQw",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786496640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e2b55fd078",
+    "title_fa": "‏بانک مرکزی استرالیا نرخ‌ها را ثابت نگه داشت",
+    "title_en": "RBA Holds Rates Amid Concerns Over Stubborn High Inflation",
+    "summary": [
+      "‏بانک مرکزی استرالیا (⁧RBA⁩) نرخ بهره را ثابت نگه داشت.",
+      "‏تورم هنوز بالاتر از هدف ۲‑۳ ٪ است و تا اوایل ۲ ۰ ۲ ۸ بهبود نمی‌یابد.",
+      "‏اقتصاد به‌تدریج در حال کند شدن است."
+    ],
+    "body_fa": "‏در بیانیه سیاست پولی اخیر، بانک مرکزی استرالیا (⁧RBA⁩) اعلام کرد که نرخ بهره را بدون تغییر نگه می‌دارد. این تصمیم به دلیل این است که تورم هنوز بالاتر از محدوده هدف ۲ تا ۳ درصد است و پیش‌بینی می‌شود تا اوایل سال ۲ ۰ ۲ ۸ به میانه این بازه نرسد. بانک اشاره کرد که رشد اقتصادی همان‌طور که انتظار می‌رفت، در حال کاهش است، اما هنوز نیازی به کاهش نرخ‌ها احساس نمی‌شود. ثابت نگه داشتن نرخ‌ها می‌تواند فشار بر بازارهای مسکن و ارز استرالیا را ادامه دهد و نشان‌دهنده ادامه سیاست‌های سختگیرانه برای مهار تورم است.",
+    "category": "اقتصاد",
+    "tag": "RBA",
+    "urgency": 5,
+    "source": "Forbes",
+    "url": "https://www.forbes.com/advisor/au/personal-finance/interest-rate-news/",
+    "clean_url": "https://www.forbes.com/advisor/au/personal-finance/interest-rate-news",
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/11/shutterstock_1968631708-1.jpg",
+    "timestamp": 1786492800.0,
     "sent_to_telegram": true
   },
   {
