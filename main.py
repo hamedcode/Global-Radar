@@ -639,53 +639,12 @@ class GlobalRadar:
             return text
         for wrong, right in self._KNOWN_TYPO_FIXES.items():
             text = text.replace(wrong, right)
-        # Collapse spaces the model sometimes mistakenly inserts as a thousands
-        # separator (e.g. "4 400" meant as "4400"). In RTL text, separate
-        # space-delimited number tokens get visually reordered relative to each
-        # other, which looks like the digits themselves got scrambled.
-        collapse_pattern = re.compile(r'(?<=\d)\s(?=\d{3}(?:\D|$))')
-        for _ in range(3):
-            text = collapse_pattern.sub('', text)
-        # Ensure a space between a digit run and an adjacent Persian word
-        # (model sometimes glues them together, e.g. "389میلیون").
-        text = re.sub(r'(\d)([\u0600-\u06FF])', r'\1 \2', text)
-        text = re.sub(r'([\u0600-\u06FF])(\d)', r'\1 \2', text)
+        # Ensure a space at Persian/Latin (letters or digits) boundaries when
+        # the model glues them together without one, e.g. "389میلیون" or
+        # "Wintermuteشرکت" — this is the main cause of words reading as jumbled.
+        text = re.sub(r'([\u0600-\u06FF])([A-Za-z0-9])', r'\1 \2', text)
+        text = re.sub(r'([A-Za-z0-9])([\u0600-\u06FF])', r'\1 \2', text)
         return text
-
-    _PERSIAN_DIGIT_MAP = str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹')
-
-    def _persianize_numbers(self, text):
-        """Convert standalone Western digits to Persian-Arabic digits. Numbers
-        glued to Latin letters (tickers like S&P500, product names like iPhone17)
-        are left as Western digits since they're part of an English token.
-        Native Persian digits don't trigger the LTR-embedding/reordering problem
-        that plain Telegram numerals do inside RTL text."""
-        if not text:
-            return text
-
-        def repl(m):
-            token = m.group(0)
-            if re.fullmatch(r'[\d.,%]+', token):
-                return token.translate(self._PERSIAN_DIGIT_MAP)
-            return token  # contains a letter -> leave the whole token untouched
-
-        return re.sub(r'[A-Za-z0-9][A-Za-z0-9.,%]*', repl, text)
-
-    def _fix_rtl_flow(self, text):
-        """Persian is RTL, but runs of Latin letters (company names, tickers)
-        embedded in it confuse the Unicode bidi algorithm and visually scramble
-        the sentence. Wrap each such run in RTL isolate marks (U+2067 ... U+2069)
-        so it renders inline without reordering the rest of the sentence, and
-        force the whole string to start RTL (U+200F)."""
-        if not text:
-            return text
-        RLI, PDI, RLM = '\u2067', '\u2069', '\u200f'
-        wrapped = re.sub(
-            r'[A-Za-z][A-Za-z0-9 .,%$&/\-]*[A-Za-z0-9%]|[A-Za-z]',
-            lambda m: f'{RLI}{m.group(0)}{PDI}',
-            text
-        )
-        return RLM + wrapped
 
     def process_item(self, entry):
         raw_title = (entry.get('title') or '').rsplit(' - ', 1)[0].strip()
@@ -745,8 +704,6 @@ class GlobalRadar:
         def clean_fa(t):
             t = self._strip_foreign_scripts(t)
             t = self._fix_common_typos(t)
-            t = self._persianize_numbers(t)
-            t = self._fix_rtl_flow(t)
             return t
 
         return {
@@ -902,12 +859,9 @@ class GlobalRadar:
         if market:
             lines.append(
                 f"\n\n💰 <b>قیمت‌های لحظه‌ای</b>\n"
-                f"🪙 سکه تمام: {esc(market.get('coin_irt'))}\n"
-                f"🥇 انس طلا: {esc(market.get('gold_oz_usd'))}\n"
-                f"₮ تتر: {esc(market.get('usdt_irt'))}\n"
-                f"₿ بیت‌کوین: {esc(market.get('btc'))}\n"
-                f"Ξ اتریوم: {esc(market.get('eth'))}\n"
-                f"✕ ریپل: {esc(market.get('xrp'))}"
+                f"🪙 سکه: {esc(market.get('coin_irt'))}  |  🥇 طلا: {esc(market.get('gold_oz_usd'))}\n"
+                f"₮ تتر: {esc(market.get('usdt_irt'))}  |  ₿ بیت‌کوین: {esc(market.get('btc'))}\n"
+                f"Ξ اتریوم: {esc(market.get('eth'))}  |  ✕ ریپل: {esc(market.get('xrp'))}"
             )
 
         if base_site:
@@ -1040,6 +994,15 @@ class GlobalRadar:
 
         if pending:
             logger.info(f"Dispatching digest with {len(pending)} items.")
+            # NOTE: sendRichMessage is disabled — Telegram's own Rich Message
+            # renderer has a confirmed bug that reverses multi-digit numbers
+            # inside RTL text (reproduced with both Western and Persian digits),
+            # unrelated to our data. The plain formatted message below has
+            # always rendered numbers correctly. Re-enable
+            # send_rich_digest_to_telegram(...) if/when Telegram fixes this.
+            # Rich Message kept per request. Note: Telegram's own Rich Message
+            # renderer has a confirmed bug that can still occasionally reverse
+            # multi-digit numbers in RTL text — that part is out of our control.
             sent_ok = self.send_rich_digest_to_telegram(pending, market=market_snapshot)
             if sent_ok:
                 sent_ids = {it['id'] for it in pending}
