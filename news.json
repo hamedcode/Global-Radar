@@ -1,5 +1,85 @@
 [
   {
+    "id": "c7d5b66a33",
+    "title_fa": "سهام پس از CPI نرم آمریکا و سودهای هوش مصنوعی",
+    "title_en": "Asian stocks rise on soft US CPI, AI earnings rally | FXStreet",
+    "summary": [
+      "داده‌های CPI آمریکا در جولای 3.4 ٪ YoY ثبت شد، کمی کمتر از 3.5 ٪ پیشین.",
+      "این کاهش انتظارات برای سیاست تسهیلی فدرال رزرو را تقویت کرد و سهام آسیا را بالا برد.",
+      "سهم‌های فناوری به‌ویژه سامسونگ و SK Hynix پس از سودهای هوش مصنوعی رشد 5‑9 ٪ داشتند."
+    ],
+    "body_fa": "در جولای، شاخص CPI سرانه آمریکا 3.4 ٪ سالانه شد که کمی پایین‌تر از 3.5 ٪ ماه پیش بود و با پیش‌بینی‌ها هم‌راستا بود. این داده‌های نرم‌تر، انتظار بازارها را برای سیاست تسهیلی فدرال رزرو تقویت کرد؛ احتمال افزایش نرخ بهره در سپتامبر به حدود 40 ٪ و در اکتبر به 60 ٪ کاهش یافت. سرمایه‌گذاران به‌ویژه به سهام فناوری روی آوردند؛ شرکت‌های بزرگ چینی و کره‌ای پس از گزارش سودهای قوی در حوزه هوش مصنوعی، رشد قابل توجهی یافتند. در ژاپن، شاخص نیککی 225 با 1.63 ٪ افزایش به بالای 68,600 رسید و در کره جنوبی، KOSPI نزدیک 4.22 ٪ رشد کرد؛ سامسونگ الکترونیک نزدیک 5 ٪ و SK Hynix بیش از 9 ٪ صعود کرد. این روند نشان می‌دهد تقاضا برای زیرساخت‌های هوش مصنوعی و نیمه‌رساناها همچنان در حال گسترش است و می‌تواند فشار خرید بر بازارهای آسیایی را ادامه دهد.",
+    "category": "اقتصاد",
+    "tag": "CPI",
+    "urgency": 5,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/asian-stocks-rise-on-soft-us-cpi-ai-earnings-rally-202608130351",
+    "clean_url": "https://www.fxstreet.com/news/asian-stocks-rise-on-soft-us-cpi-ai-earnings-rally-202608130351",
+    "image": "https://s.yimg.com/bo/4a91491b-b6fb-5fda-9f32-cd119b2dff96_1785111916534.png.cf.jpg",
+    "timestamp": 1786593253.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bc5fa1a376",
+    "title_fa": "WTI زیر 82.5 دلار پس از افزایش ناگهانی ذخایر نفت آمریکا",
+    "title_en": "WTI declines below $82.50 as oil inventories rise far more than expected",
+    "summary": [
+      "WTI در ساعات اولیه آسیایی به 82.45 دلار رسید، پس از افزایش 17.4 میلیون بشکه ذخایر نفت آمریکا.",
+      "این افزایش بزرگ خلاف پیش‌بینی‌های بازار (-1.4M) است و فشار نزولی بر قیمت‌ها ایجاد کرد.",
+      "تحلیل‌گران هشدار می‌دهند که عدم پیشرفت مذاکرات ایران‑آمریکا درباره تنگه هرمز می‌تواند نوسان قیمت را ادامه دهد."
+    ],
+    "body_fa": "استاندارد غربی نفت (WTI) در آغاز معاملات آسیایی به حدود 82.45 دلار کاهش یافت؛ این سقوط پس از گزارش اداره انرژی آمریکا (EIA) بود که موجودی نفت خام را برای هفته منتهی به 7 اوت با 17.422 میلیون بشکه افزایش داد، در حالی که بازار انتظار کاهش 1.4 میلیون بشکه را داشت. این اختلاف بزرگ با انتظارات باعث فشار فروش بر قیمت‌ها شد و نگرانی‌ها درباره تنگه هرمز را تشدید کرد. مقامات ایرانی و آمریکایی هنوز به توافقی برای بازگشایی دائم این مسیر بحرانی نرسیده‌اند؛ ادعای ترامپ درباره «کنترل کامل» نیز مورد رد ایران قرار گرفته است. تحلیل‌گران رابوبانک معتقدند هر توافق کوتاه‌مدت احتمالاً محدود به یک دوره 60 روزه خواهد بود و ریسک ژئوپولیتیکی همچنان عامل اصلی نوسان نفت باقی می‌ماند. از نظر فنی، WTI زیر میانگین 100‑روزه ساده (86.67 دلار) و باندهای بولینگر قرار دارد که نشانگر روند نزولی کوتاه‌مدت است.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 5,
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/wti-declines-below-8250-as-oil-inventories-rise-far-more-than-expected-202608130053",
+    "clean_url": "https://www.fxstreet.com/news/wti-declines-below-8250-as-oil-inventories-rise-far-more-than-expected-202608130053",
+    "image": "https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1_Medium.png",
+    "timestamp": 1786582320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8a70a0ef2b",
+    "title_fa": "کاتی وود ۱۶٫۲ میلیون دلار سهام برودکام خرید",
+    "title_en": "Cathie Wood buys $16.2 million of popular semiconductor stock",
+    "summary": [
+      "کاتی وود، مدیر آرک اینوویشن، ۱۶٫۲ میلیون دلار سهام برودکام (AVGO) خرید.",
+      "این خرید پیش از گزارش سود شرکت انجام شد و می‌تواند توجه سرمایه‌گذاران به این چیپ‌ساز را افزایش دهد.",
+      "در عین حال، ETF آرک اینوویشن سال جاری تنها ۴٫۲۸٪ رشد داشته، در مقابل ۱۳٫۲۳٪ شاخص S&P500."
+    ],
+    "body_fa": "کاتی وود، مدیر ارشد آرک اینوویشن، ۱۶٫۲ میلیون دلار سهام برودکام (AVGO) خریداری کرد؛ این اقدام پیش از انتشار گزارش سود سه ماهه شرکت انجام شد. وود معمولاً در فصل گزارش‌های مالی به‌سرعت در سهام‌های فناوری مورد علاقه‌اش سرمایه‌گذاری می‌کند. در حالی که ETF آرک اینوویشن تا تاریخ ۱۲ اوت تنها ۴٫۲۸٪ رشد داشته، شاخص S&P 500 در همان دوره ۱۳٫۲۳٪ افزایش یافت. وود به‌نظر می‌رسد به‌دلیل انتظارات مثبت از هوش مصنوعی و توانایی شرکت‌ها در حفظ حاشیه سود، این خرید را توجیه می‌کند. او در پست اخیر خود بر این نکته تأکید کرد که شرکت‌های پیشرو در استفاده از هوش مصنوعی، در آینده نسبت به رقبای خود برتری خواهند داشت.",
+    "category": "اقتصاد",
+    "tag": "Broadcom",
+    "urgency": 5,
+    "source": "TheStreet · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/articles/cathie-wood-buys-16-2-220700896.html",
+    "clean_url": "https://finance.yahoo.com/technology/articles/cathie-wood-buys-16-2-220700896.html",
+    "image": "https://media.zenfs.com/en/thestreet_881/38add968259ce213988dba150223737a.jpg",
+    "timestamp": 1786571653.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3124bee316",
+    "title_fa": "غول‌های AI الگوی نوسان گزارش مالی را تغییر دادند",
+    "title_en": "AI hyperscalers upend usual earnings stock swing pattern",
+    "summary": [
+      "آمازون، مایکروسافت و گوگل در فصل گزارش‌های مالی، نوسان‌های قیمتی بالاتری از معمول ایجاد کردند.",
+      "این تغییر الگو نشان می‌دهد که هزینه‌های سرمایه‌ای هوش مصنوعی به‌جای شرکت‌های کوچک، بازار را هدایت می‌کند.",
+      "استراتژی خرید گزینه‌های straddle در هفته اول به‌طور متوسط ۲۳٪ سود داد."
+    ],
+    "body_fa": "داده‌های سرویس تحلیل‌گری گزینه‌ها ORATS نشان می‌دهد که در این فصل گزارش‌های مالی، غول‌های هوش مصنوعی مانند آمازون، مایکروسافت، گوگل و متا نوسان‌های پس از گزارش‌های خود را بیش از حد معمول افزایش دادند. در گذشته، شرکت‌های کوچک به‌دلیل نقدینگی کمتر و پوشش تحلیلی محدود، نوسان‌های بزرگتری داشتند، اما این بار الگو وارونه شد. سرمایه‌گذاران به‌سرعت به اخبار هزینه‌های سرمایه‌ای AI واکنش نشان دادند و برخی سهام را با خرید یا فروش شدید دنبال کردند. استراتژی ترکیبی خرید اختیار خرید و فروش (straddle) در هفته اول به‌طور متوسط ۲۳٪ سود ایجاد کرد، در حالی که در هفته‌های بعدی این سودها کاهش یافت. این تغییر نشان می‌دهد که هزینه‌های AI به‌عنوان عامل کلیدی در تصمیم‌گیری‌های سرمایه‌گذاری در بازارهای سهام بزرگ تبدیل شده‌اند.",
+    "category": "تکنولوژی",
+    "tag": "AI",
+    "urgency": 6,
+    "source": "ET CIO",
+    "url": "https://cio.economictimes.indiatimes.com/news/investments/ai-hyperscalers-upend-usual-earnings-stock-swing-pattern/133191606",
+    "clean_url": "https://cio.economictimes.indiatimes.com/news/investments/ai-hyperscalers-upend-usual-earnings-stock-swing-pattern/133191606",
+    "image": "https://etimg.etb2bimg.com/thumb/msid-133191606,imgsize-95354,width-1200,height=627,overlay-etcio,resizemode-75/investments/ai-hyperscalers-upend-usual-earnings-stock-swing-pattern.jpg",
+    "timestamp": 1786563060.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "6a1d21cac9",
     "title_fa": "سهام مایکروسافت پس از گزارش ۲۶٪ رشد کرد",
     "title_en": "Up 26% Since July 29, Is It Too Late to Buy Microsoft Stock?",
@@ -37,6 +117,26 @@
     "clean_url": "https://www.fxstreet.com/news/wti-holds-firm-as-strait-of-hormuz-concerns-outweigh-sharp-us-inventory-build-202608121719",
     "image": "https://editorial.fxsstatic.com/images/i/Commodities_Oil-1_Medium.jpg",
     "timestamp": 1786555200.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c7101590ee",
+    "title_fa": "سرریز تولید چین می‌تواند بحران اقتصادی جهانی را به‌وجود آورد",
+    "title_en": "The Next Global Economic Crisis Could Be Made in China",
+    "summary": [
+      "چین با مازاد تولید و مازاد تجاری نزدیک 1.2 تریلیون دلار در 2025 ، خطر فروپاشی بازارهای جهانی را افزایش می‌دهد.",
+      "اگر توان جذب این مازاد به حد شکست برسد، بحران اقتصادی جهانی در زمانی که دولت‌ها آماده نیستند، رخ می‌دهد.",
+      "افزایش محافظه‌کاری و محدودیت دسترسی چین به بازارهای خارجی می‌تواند استراتژی «گردش دوگانه» را به‌هم بزند."
+    ],
+    "body_fa": "چین در دو دهه گذشته بزرگ‌ترین مازاد تجاری تاریخ را ایجاد کرده و در سال 2025 به نزدیک 1.2 تریلیون دلار رسیده است. این مازاد، که با رشد صادراتی سه برابر تجارت جهانی همراه بوده، در کوتاه‌مدت برای چین سودآور و برای بقیه جهان تورم‌کاه بوده، اما از نظر ساختاری غیرقابل‌پایدار است. تقاضای جهانی برای کالاهای ارزان چین در حال کاهش است؛ کشورهای پیشرفته و در حال توسعه دیگر تمایل به پذیرش ورود گسترده محصولات چینی ندارند. در نتیجه، محافظه‌کاری تجاری افزایش می‌یابد و دسترسی چین به بازارهای خارجی محدود می‌شود، که می‌تواند استراتژی «گردش دوگانه» پکن را به خطر بیندازد. اگر این روند به نقطه شکست برسد، عدم توانایی جذب مازاد تولید می‌تواند به بحران اقتصادی جهانی منجر شود، در حالی که دولت‌ها برای مقابله با چنین شوک‌ایی آماده نیستند.",
+    "category": "اقتصاد",
+    "tag": "چین-مازاد-تجاری",
+    "urgency": 6,
+    "source": "Foreign Affairs",
+    "url": "https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman",
+    "clean_url": "https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman",
+    "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/04/1_Moscoso_ForeignAffairs_rgb.jpg?itok=Fkw6vMMs",
+    "timestamp": 1786554000.0,
     "sent_to_telegram": true
   },
   {
@@ -117,6 +217,26 @@
     "clean_url": "https://www.thestreet.com/crypto/markets/sec-could-deliver-two-major-decisions-on-aug-14",
     "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1786533840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d8785cc758",
+    "title_fa": "نزدیک شدن شاخص‌های بورس به دلیل CPI مطابق پیش‌بینی",
+    "title_en": "Stock Market Today: Nasdaq Finishes Higher as CoreWeave, Supermicro Lead Tech...",
+    "summary": [
+      "شاخص نازداک ۰٫۵٪ و اس‌اند‌پی ۰٫۳٪ افزایش یافتند؛ CPI جولای ۳٫۴٪ YoY.",
+      "داده‌های تورم مطابق انتظار، فشار برای افزایش نرخ بهره فدرال رزرو را کم کرد.",
+      "سهام فناوری مانند CoreWeave و SuperMicro پس از گزارش‌های قوی رشد ۱۹٪ داشتند."
+    ],
+    "body_fa": "بازارهای سهام آمریکا امروز پس از انتشار داده‌های تورم جولای که با پیش‌بینی‌ها هم‌راستا بود، به‌طور کلی صعودی بودند؛ نازداک ۰٫۵٪ و اس‌اند‌پی ۰٫۳٪ افزایش یافتند و داو جونز به‌صورت جزئی کاهش یافت. CPI سالانه ۳٫۴٪ ثبت شد که نسبت به ماه پیش کمی کاهش یافت و CPI هسته‌ای به ۲٫۵٪ رسید، کم‌ترین سطح از فوریه. این نتایج باعث شد احتمال افزایش نرخ بهره توسط فدرال رزرو به ۴۰٪ کاهش یابد. سهام فناوری به‌ویژه CoreWeave و Super Micro پس از گزارش‌های قوی سه‌ماهه، هر کدام حدود ۱۹٪ رشد کردند. در مجموع، روایت «نیازی به افزایش نرخ‌ها نیست» در بازار تقویت شد.",
+    "category": "اقتصاد",
+    "tag": "CPI",
+    "urgency": 5,
+    "source": "Investopedia · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-finishes-105004502.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-finishes-105004502.html",
+    "image": "https://media.zenfs.com/en/investopedia_245/4348fc42f438895164ce2929ce70b9ad.jpg",
+    "timestamp": 1786532053.0,
     "sent_to_telegram": true
   },
   {
