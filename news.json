@@ -1,5 +1,45 @@
 [
   {
+    "id": "d664c98941",
+    "title_fa": "‏هزینه‌های استقراض آمریکا به بالاترین سطح ۲۵ ساله رسید",
+    "title_en": "US borrowing costs hit 25-year high",
+    "summary": [
+      "‏دولت آمریکا ۳۰ ساله اوراق با نرخ ۵.۲۱۶٪ و ۱۰ ساله با ۴.۶۸۳٪ فروخت",
+      "‏این بالاترین نرخ‌ها از سال ۲۰۰۱/۲۰۰۷ است و فشار بر بدهی ملی ۴۰ تریلیون دلاری را نشان می‌دهد",
+      "‏سرمایه‌گذاران به دلیل حجم بالای عرضه و نگرانی از سیاست‌های فدرال رزرو، بازدهی بالاتر می‌طلبند"
+    ],
+    "body_fa": "‏امروز خزانه‌داری آمریکا ۳۰ ساله اوراق دولتی را با نرخ ۵.۲۱۶٪ و ۱۰ ساله را با ۴.۶۸۳٪ به فروش رساند؛ این ارقام بالاترین سطح از سال‌های ۲۰۰۱ و ۲۰۰۷ هستند. بدهی ملی نزدیک ۴۰ تریلیون دلار و نسبت بدهی به تولید ناخالص داخلی بیش از ۱۲۱٪ شده است. هزینه سرویس بدهی سالانه اکنون بیش از هزینه دفاعی کشور است. تحلیل‌گران می‌گویند حجم بالای عرضه اوراق و نگرانی از سیاست‌های فدرال رزرو باعث فشار بر بازدهی‌ها شده. برخی سرمایه‌گذاران به‌دلیل عدم اطمینان از استقلال رئیس جدید فدرال رزرو، بازدهی بالاتر می‌طلبند. این وضعیت می‌تواند هزینه تأمین مالی دولت و شرکت‌های بزرگ فناوری را در سال‌های آینده افزایش دهد.",
+    "category": "اقتصاد",
+    "tag": "اوراق_دولت",
+    "urgency": 8,
+    "source": "The Telegraph · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/us-borrowing-costs-hit-25-080213519.html",
+    "clean_url": "https://finance.yahoo.com/economy/policy/articles/us-borrowing-costs-hit-25-080213519.html",
+    "image": "https://media.zenfs.com/en/the_telegraph_258/e1e57f892e84bee420db585e2e92e78c.jpg",
+    "timestamp": 1786696223.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a7a2e23d2f",
+    "title_fa": "‏بازارها با ویک کم‌نوسان به سمت رکورد جدید می‌جهند",
+    "title_en": "Markets are looking eerily calm as investors chase FOMO rally",
+    "summary": [
+      "‏سهام آمریکا پس از توقف کوتاه، دوباره به رکوردهای جدید رسید و شاخص VIX به پایین‌ترین سطح ژانویه رسید.",
+      "‏این آرامش ناآرام باعث نگرانی‌ها دربارهٔ بی‌احتیاطی سرمایه‌گذاران در برابر ریسک‌های احتمالی شد.",
+      "‏تقاضا برای گزینه‌های حفاظتی کاهش یافت، در حالی که پیش‌بینی‌های سودآوری شرکت‌ها بهبود یافته است."
+    ],
+    "body_fa": "‏پس از یک توقف کوتاه در ماه‌های ژوئن و ژوئیه، سهام ایالات متحده دوباره به رکوردهای جدید رسید؛ شاخص S&P 500 روز پنجشنبه به بالاترین سطح تاریخ خود ختم شد. همزمان، شاخص نوسان‌سنج VIX به 14.39 سقوط کرد که پایین‌ترین مقدار آن از اوایل ژانویه است. تقاضا برای گزینه‌های حفاظتی مانند پوت‌ها کاهش یافت و شاخص Skew سکوِه در 4‑اگوست به 2026 رسید. در کره جنوبی نیز شاخص نوسان‌سنج Kospi 200 بیش از 34 ٪ در این ماه کاهش یافت. اگرچه پیش‌بینی‌های سودآوری شرکت‌ها بهبود یافته، اما کارشناسان هشدار می‌دهند که این آرامش ممکن است سرمایه‌گذاران را نسبت به خطرات احتمالی بی‌احتیاط کند.",
+    "category": "اقتصاد",
+    "tag": "VIX",
+    "urgency": 5,
+    "source": "Morningstar",
+    "url": "https://www.morningstar.com/news/marketwatch/20260813397/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally",
+    "clean_url": "https://www.morningstar.com/news/marketwatch/20260813397/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally",
+    "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+    "timestamp": 1786676700.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "01054b8dc6",
     "title_fa": "‏قیمت نفت به دلیل تنش‌های آمریکا‑ایران کمی افزایش یافت",
     "title_en": "Oil prices today: Crude edges higher as US-Iran tensions revive supply concerns",
@@ -17,6 +57,26 @@
     "clean_url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-14-august-2026-crude-edges-higher-as-us-iran-tensions-revive-supply-concerns/articleshow/133227220.cms",
     "image": "https://static.toiimg.com/thumb/msid-133227280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "timestamp": 1786673760.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5fa303a226",
+    "title_fa": "‏پیشنهاد «Regulation Crypto» توسط SEC به تعویق افتاد",
+    "title_en": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+    "summary": [
+      "‏SEC جلسه‌ای که قرار بود قانون جدید رمزارزها را معرفی کند، لغو کرد.",
+      "‏این تعویق باعث عدم قطعیت برای بازارهای دیجیتال و تاخیر در چارچوب نظارتی می‌شود.",
+      "‏پیشنهاد «Regulation Crypto» می‌خواست امکان صدور اوراق رمزارزی بدون ثبت‌نام کامل را فراهم کند."
+    ],
+    "body_fa": "‏سازمان بورس و اوراق بهادار آمریکا (SEC) به‌طور ناگهانی جلسه‌ای را که قرار بود در آن قانون «Regulation Crypto» را پیشنهاد کند، لغو کرد و تاریخ جدیدی اعلام نکرد. این قانون می‌خواست چارچوب محدودی برای صدور اوراق رمزارزی بدون نیاز به ثبت‌نام کامل ایجاد کند و در آینده امکان خروج از نظارت SEC را فراهم سازد. به‌دلیل این تعویق، بازارهای دیجیتال با عدم قطعیت بیشتری مواجه می‌شوند و انتظار برای قوانین واضح‌تر طولانی می‌شود. در عین حال، عدم پیشرفت لایحه Digital Asset Market Clarity Act در سنا، فشار را بر SEC برای ارائه راه‌حل‌های نظارتی افزایش می‌دهد. همچنین انتظار می‌رفت که SEC به‌زودی استثنای نوآوری برای توکنیزه‌سازی اوراق را معرفی کند، اما این نیز به تعویق افتاده است.",
+    "category": "کریپتو",
+    "tag": "SEC",
+    "urgency": 7,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+    "clean_url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.526&fp-y=0.8214&w=1920&h=1080&q=75",
+    "timestamp": 1786634280.0,
     "sent_to_telegram": true
   },
   {
