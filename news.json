@@ -1,5 +1,25 @@
 [
   {
+    "id": "01054b8dc6",
+    "title_fa": "‏قیمت نفت به دلیل تنش‌های آمریکا‑ایران کمی افزایش یافت",
+    "title_en": "Oil prices today: Crude edges higher as US-Iran tensions revive supply concerns",
+    "summary": [
+      "‏نفت برنت 0.1 ٪ و وی‌تی‌آی 0.05 ٪ بالا رفت؛ برنت به 87.16 دلار و وی‌تی‌آی به 81.29 دلار رسید.",
+      "‏این حرکت پس از تهدید ایالات متحده برای حفظ محاصره‌ ناوبری ایران و نگرانی از قطع‌ جریان نفتی است.",
+      "‏با این حال، پیش‌بینی‌های تقاضای ضعیف و افزایش موجودی‌های آمریکا مانع رشد بیشتر قیمت شد."
+    ],
+    "body_fa": "‏قیمت نفت خام در روز جمعه با افزایش جزئی مواجه شد؛ برنت 9 سنت و وی‌تی‌آی 4 سنت افزایش یافت. این رشد پس از اعلام ایالات متحده برای حفظ محاصره‌ ناوبری ایران به‌صورت نامحدود رخ داد و نگرانی‌ها درباره قطع‌ جریان نفت از تنگه هرمز را تقویت کرد. ایران نیز اعلام کرد که این تنگه تحت کنترل جمهوری اسلامی است. در همین حین، دو کشتی متعلق به شرکت نفتی دولتی امارات در مسیر عبور از تنگه مورد حمله قرار گرفت که به‌نظر می‌رسد توسط ایران انجام شده است. اما پیش‌بینی‌های ضعیف تقاضای جهانی و افزایش موجودی‌های نفتی آمریکا، فشار خرید را محدود کرد و باعث شد رشد قیمت‌ها در حدی کم‌مقدار باقی بماند.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 6,
+    "source": "Indiatimes",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-14-august-2026-crude-edges-higher-as-us-iran-tensions-revive-supply-concerns/articleshow/133227220.cms",
+    "clean_url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-14-august-2026-crude-edges-higher-as-us-iran-tensions-revive-supply-concerns/articleshow/133227220.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133227280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "timestamp": 1786673760.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "13d8a94046",
     "title_fa": "‏قیمت طلا پس از اوج ۴۴۵۰ دلار تثبیت شد",
     "title_en": "Gold (XAUUSD) Price Forecast: Gold Rally Stalls as Dollar Holds Firm",
