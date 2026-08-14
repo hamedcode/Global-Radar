@@ -1,5 +1,25 @@
 [
   {
+    "id": "36e3b3867e",
+    "title_fa": "‏پیشنهاد MSCI حذف شرکت‌های بیت‌کوین از شاخص‌های جهانی",
+    "title_en": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
+    "summary": [
+      "‏MSCI اعلام کرد ممکن است شرکت‌های دارنده بیت‌کوین مثل استراتژی را از شاخص‌های جهانی حذف کند.",
+      "‏حذف این شرکت‌ها می‌تواند باعث فروش اجباری صندوق‌های پیگیری شاخص و کاهش جریان‌های منفعل به بازار بیت‌کوین شود.",
+      "‏استراتژی تا کنون حدود 63.3 میلیارد دلار بیت‌کوین خریداری کرده و بزرگ‌ترین دارنده شرکتی این دارایی است."
+    ],
+    "body_fa": "‏سازمان MSCI در مشاوره‌ای اعلام کرد قصد دارد شرکت‌های «غیر فعال» را از شاخص‌های بازار جهانی قابل سرمایه‌گذاری (GIMI) حذف کند. این طرح می‌تواند شرکت‌های دارنده بیت‌کوین مانند استراتژی و متاپلانِت را که عمدتاً بیت‌کوین نگه می‌دارند، از شاخص‌های ACWI IMI حذف کند. حذف این شرکت‌ها باعث فروش اجباری توسط صندوق‌های پیگیری شاخص و از دست رفتن جریان‌های سرمایه‌گذاری منفعل به بیت‌کوین می‌شود. استراتژی که تا به امروز حدود 63.3 میلیارد دلار بیت‌کوین خریداری کرده، در پاسخ گفت «بیت‌کوین نیازی به MSCI ندارد». MSCI تا 30 سپتامبر نظرات را جمع‌آوری می‌کند و هنوز تصمیم نهایی را اعلام نکرده؛ امکان تغییر یا لغو طرح وجود دارد. اگر طرح اجرا شود، تأثیر مستقیم بر قیمت بیت‌کوین و جذابیت سرمایه‌گذاری در شرکت‌های خزانه‌دار خواهد داشت.",
+    "category": "کریپتو",
+    "tag": "MSCI",
+    "urgency": 8,
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
+    "clean_url": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg",
+    "timestamp": 1786731852.53053,
+    "sent_to_telegram": true
+  },
+  {
     "id": "4873c25fa7",
     "title_fa": "‏استراتژی: MSCI باید بازارها را بسنجد نه دارایی‌ها",
     "title_en": "Strategy says MSCI should measure markets, not dictate corporate assets",
