@@ -1,5 +1,45 @@
 [
   {
+    "id": "aec77a1779",
+    "title_fa": "‏ارزش بازار TSMC بالای ۲ تریلیون دلار؛ تقاضای تراشه‌ها همچنان قوی",
+    "title_en": "Demand for Chips Shows No Signs of Slowing. Is Taiwan Semiconductor Too Expensive Now?",
+    "summary": [
+      "‏ارزش بازار شرکت تولیدکننده تراشه TSMC به بیش از ۲ تریلیون دلار رسید و درآمد سه ماهه دوم ۳۶٪ رشد کرد.",
+      "‏این رشد نشان‌دهنده ادامه تقاضای قوی برای چیپ‌های هوش مصنوعی و حمایت از سرمایه‌گذاران است.",
+      "‏شرکت در حال راه‌اندازی مشارکت با سونی برای تولید حسگرهای تصویری نسل جدید تا ۲۰۲۹ است."
+    ],
+    "body_fa": "‏شرکت تایوان سمی‌کان (TSMC) ارزش بازار خود را به بیش از ۲ تریلیون دلار ارتقا داد؛ رشد درآمد سه ماهه دوم سال ۳۶٪ نسبت به سال قبل و افزایش سود خالص ۷۷٫۴٪ نشان از رونق تقاضای تراشه‌های هوش مصنوعی دارد. جریان نقدی آزاد قوی و دو برابر شدن سود سهام در سه سال اخیر، ترازنامه‌ای مستحکم برای این غول تولیدکننده فراهم کرده. TSMC همچنین با سونی برای ساخت حسگرهای تصویری نسل جدید که برای آیفون‌ها و کاربردهای فیزیکی هوش مصنوعی هدف‌گذاری شده‌اند، مشارکت چند میلیارد دلاری راه‌اندازی می‌کند و هدف تولید انبوه تا سال ۲۰۲۹ است. با نسبت‌های P/E پیشرو ۲۵ و PEG نزدیک به ۱، سهام این شرکت هنوز به‌نظر می‌رسد نسبتاً منصفانه باشد، هرچند قیمت آن بالا است. این تحولات نشان می‌دهد که تقاضای تراشه‌ها در کوتاه‌مدت و میان‌مدت ادامه خواهد داشت و TSMC همچنان گزینه‌ای جذاب برای سرمایه‌گذاران بلندمدت محسوب می‌شود.",
+    "category": "اقتصاد",
+    "tag": "نیمه‌رسانه",
+    "urgency": 5,
+    "source": "AOL",
+    "url": "https://www.aol.com/articles/demand-chips-shows-no-signs-090600000.html",
+    "clean_url": "https://www.aol.com/articles/demand-chips-shows-no-signs-090600000.html",
+    "image": "https://www.bing.com/th?id=ONUT.9nhvMzoJ0z04oFVOxD8vsQ",
+    "timestamp": 1786787233.145933,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a5e291ece1",
+    "title_fa": "‏سرمایه‌گذاران نهادی موقعیت‌های تکنولوژی برتر را کم کردند",
+    "title_en": "Institutional investors reveal cautious approach to tech favorites in US...",
+    "summary": [
+      "‏تقریباً 44 ٪ از مؤسسات سرمایه‌گذاری سهام گروه Magnificent Seven را کاهش دادند",
+      "‏این نشانگر عدم توافق دربارهٔ سودآوری شرکت‌های هوش مصنوعی و نیمه‌رسانا است",
+      "‏در عین حال 42 ٪ سرمایه‌گذار موقعیت‌های این شرکت‌ها را گسترش دادند"
+    ],
+    "body_fa": "‏بررسی 13F‌های 6,371 مؤسسه سرمایه‌گذاری نشان می‌دهد که در سه ماهه دوم سال 2024 ، حدود 44 ٪ از آن‌ها سهام گروه Magnificent Seven شامل مایکروسافت و متا را کاهش دادند، در حالی که 42 ٪ دیگر موقعیت‌های این شرکت‌ها را گسترش یا تازه‌سازی کردند. این اختلاف جزئی اما منفی نشان می‌دهد که خریداران و فروشندگان به‌طور تقریباً مساوی عمل کرده‌اند و توافقی دربارهٔ آیندهٔ این بخش‌ها وجود ندارد. برخی تحلیل‌گران معتقدند این رفتار ناشی از محدودیت‌های ریسک و سیاست‌های سرمایه‌گذاری است و نه از چشم‌انداز بنیادی. به‌همین دلیل، حتی پس از گزارش‌های سود خوب، برخی سهام‌های بزرگ فناوری همچنان تحت فشار فروش باقی مانده‌اند. با این حال، تمایل کلی مؤسسات به سمت سبدهای تکنولوژی همچنان مثبت است.",
+    "category": "اقتصاد",
+    "tag": "MagnificentSeven",
+    "urgency": 5,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
+    "image": "https://media.zenfs.com/en/reuters-finance.com/7bab38a91b8780fc72012c172d48b4c0.jpg",
+    "timestamp": 1786744016.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "36e3b3867e",
     "title_fa": "‏پیشنهاد MSCI حذف شرکت‌های بیت‌کوین از شاخص‌های جهانی",
     "title_en": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
@@ -17,6 +57,26 @@
     "clean_url": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg",
     "timestamp": 1786731852.53053,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "784de5bd53",
+    "title_fa": "‏نتیجه‌گیری سه ماهه دوم وال‌مارت و تاثیر بر بازار",
+    "title_en": "Q2 Earnings Season Enters Final Stretch: Walmart Headlines Upcoming Retail...",
+    "summary": [
+      "‏وال‌مارت پس از پیشی‌گیری پنج ساله، در سه ماهه دوم ۱۱.۶٪ کاهش یافت.",
+      "‏این افت با توجه به سودآوری قوی و ارزیابی بالای ۳۷.۶ برابر EPS ، نگرانی سرمایه‌گذاران را تشدید می‌کند.",
+      "‏انتشار نتایج هدف‌دار در ۲۰ اوت می‌تواند جهت‌گیری بازار را تغییر دهد."
+    ],
+    "body_fa": "‏وال‌مارت در پنج سال گذشته بیش از ۱۳۰٪ رشد داشته بود، اما در سه ماهه دوم سال جاری سهام آن ۱۱.۶٪ کاهش یافت. این کاهش پس از گزارش نتایج سه ماهه که به‌طور قابل‌توجهی از تخمین‌های سرنخ EPS و فروش پیشی گرفت، اما هنوز نتوانست فشارهای هزینه‌ای ناشی از سوخت گران را جبران کند. ارزیابی سهام شرکت در حال حاضر ۳۷.۶ برابر سود تخمینی ۱۲ ماه آینده است که نزدیک به اوج تاریخی ۱۰ ساله است. مدیریت در ماه مه راهنمایی محافظه‌کارانه‌ای ارائه داد که باعث نگرانی بازار شد. نتایج نهایی که در ۲۰ اوت منتشر می‌شود، می‌تواند واکنش‌های قیمتی مهمی ایجاد کند و مسیر سهام خرده‌فروشی‌های بزرگ را تحت تأثیر قرار دهد.",
+    "category": "اقتصاد",
+    "tag": "وال‌مارت",
+    "urgency": 5,
+    "source": "Zacks · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-enters-final-173800061.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-enters-final-173800061.html",
+    "image": "https://media.zenfs.com/en/zacks.com/3d76cb528670a51f2c5ec1e11cfb6cdb.jpg",
+    "timestamp": 1786729616.0,
     "sent_to_telegram": true
   },
   {
