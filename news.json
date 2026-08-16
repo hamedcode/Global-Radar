@@ -1,5 +1,45 @@
 [
   {
+    "id": "873e830d54",
+    "title_fa": "‏عدم وضوح فدرال رزرو، سرمایه‌گذاران به گزارش‌های سود می‌نگرند",
+    "title_en": "With Fed mum on next move, investors look to earnings to keep stocks afloat",
+    "summary": [
+      "‏فدرال رزرو بدون راهنمایی جدید، سرمایه‌گذاران به فصل سودآوری شرکت‌ها تکیه می‌کنند.",
+      "‏این امر به‌ویژه برای سهام فناوری و شرکت‌های هوش مصنوعی که رشدشان به گزارش‌های سود وابسته است، مهم است.",
+      "‏در حال حاضر 85 ٪ شرکت‌های S&P500 سود پیش‌بینی را پشت سر گذاشتند."
+    ],
+    "body_fa": "‏فدرال رزرو هنوز راهنمایی واضحی دربارهٔ نرخ بهره یا سیاست‌های پولی ارائه نکرده و این عدم قطعیت باعث شده سرمایه‌گذاران به نتایج مالی شرکت‌ها توجه کنند. به‌ویژه شرکت‌های فناوری و هوش مصنوعی که به سرمایه‌گذاری در زیرساخت‌های AI وابسته‌اند، به‌دنبال تأیید سودآوری هستند. طبق داده‌های LSEG ، حدود 85 ٪ شرکت‌های شاخص S&P500 که گزارش‌های خود را منتشر کرده‌اند، پیش‌بینی‌های سود analysts را پشت سر گذاشته‌اند. سود خالص این شرکت‌ها 32.7 ٪ رشد داشته و این شامل Alphabet و Amazon نیست. این نتایج مثبت به‌خصوص پس از رکورد جدید S&P500 و کاهش نرخ‌های واقعی خزانه‌داری، نوسانات بازار را محدود کرده است. با این حال، نگرانی‌ها دربارهٔ افزایش دوبارهٔ تورم به‌دلیل قیمت‌های انرژی و عدم پیشرفت مذاکرات ایست‑ایران همچنان باقیست. بنابراین، چشم‌انداز کوتاه‌مدت بازار به شدت به عملکرد سه ماهه‌های آینده، از جمله Walmart و Analog Devices ، وابسته خواهد بود.",
+    "category": "اقتصاد",
+    "tag": "سودآوری",
+    "urgency": 5,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fed-mum-next-move-investors-100328523.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/fed-mum-next-move-investors-100328523.html",
+    "image": "https://media.zenfs.com/en/reuters.com/10eec2312adf5ea36799ae3105cc7570.jpg",
+    "timestamp": 1786885193.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9dc436c92c",
+    "title_fa": "‏شاخص Dow Jones به رکورد تاریخی رسید",
+    "title_en": "Dow Jones",
+    "summary": [
+      "‏Dow Jones Industrial Average بالاترین سطح تاریخ را ثبت کرد، افزایشی بیش از 1 ٪.",
+      "‏این رشد به دلیل کاهش قیمت نفت و سودهای قوی فناوری بود و حس مثبت سرمایه‌گذاران را تقویت کرد.",
+      "‏در همان روز Nasdaq بیش از 2 ٪ و S&P 500 نیز 1.5 ٪ ارتقا یافت."
+    ],
+    "body_fa": "‏شاخص Dow Jones Industrial Average که شامل 30 شرکت بزرگ آمریکایی است، امروز به بالاترین سطح تاریخی خود رسید. این افزایش بیش از 1 ٪ به دلیل کاهش قیمت نفت و گزارش‌های سود قوی شرکت‌های فناوری بود. در همان جلسه، Nasdaq بیش از 2 ٪ و S&P 500 نیز حدود 1.5 ٪ رشد کردند. سرمایه‌گذاران با دید مثبت به بازار نگاه می‌کردند و انتظار ادامه روند صعودی را داشتند. این رکورد نشان‌دهنده قدرت بازار سهام آمریکا در مواجهه با نوسانات جهانی است.",
+    "category": "اقتصاد",
+    "tag": "DowJones",
+    "urgency": 5,
+    "source": "The Economic Times",
+    "url": "https://economictimes.indiatimes.com/markets/dow-jones",
+    "clean_url": "https://economictimes.indiatimes.com/markets/dow-jones",
+    "image": "https://economictimes.indiatimes.com/thumb/msid-132850484,width-160,height-120,imgsize-71528,resizemode-75/markets/us-stocks/news/explained-why-dow-jones-closed-at-lifetime-high-despite-caution-over-ai-frenzy.jpg",
+    "timestamp": 1786864500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ae94387606",
     "title_fa": "‏تورم بریتانیا به‌دلیل کمبود تراشه AI و انرژی بالا می‌رود",
     "title_en": "UK inflation set to rise as AI chip crunch, energy costs add pressure",
@@ -17,6 +57,26 @@
     "clean_url": "https://www.business-standard.com/world-news/uk-inflation-set-to-rise-as-ai-chip-crunch-energy-costs-add-pressure-126081600048_1.html",
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786846448-8379.jpg",
     "timestamp": 1786863840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "feebe37916",
+    "title_fa": "‏سهم‌های فناوری با حباب سودی مواجه‌اند نه ارزیابی‌گری",
+    "title_en": "Goldman Sachs: Tech stocks face an 'earnings bubble', not a valuation one",
+    "summary": [
+      "‏گلدمن ساکس هشدار داد سهام فناوری در حباب سودی نه‌تنها ارزیابی قرار دارند",
+      "‏اگر سودهای قوی ادامه نیابد، فشار بر قیمت‌ها و سرمایه‌گذاران افزایش می‌یابد",
+      "‏ارزش‌گذاری‌ها قبلاً کاهش یافتند اما نگرانی از پایداری سودها تازه است"
+    ],
+    "body_fa": "‏گلدمن ساکس در گزارشی اخیر بیان کرد که نگرانی اصلی دربارهٔ سهام فناوری، حبابی است که بر پایهٔ سودهای بالا شکل گرفته نه بر پایهٔ ارزیابی‌های بیش از حد. اگر این سودها نتوانند در سال‌های آینده حفظ شوند، ممکن است قیمت این سهام به سرعت کاهش یابد. این دیدگاه پس از دوره‌ای است که ارزش‌گذاری‌ها در بخش فناوری نسبت به اوج‌های پیشین تعدیل شده‌اند. تحلیل‌گران این نکته را به عنوان هشدار برای سرمایه‌گذاران مطرح می‌کنند تا به جای تمرکز صرف بر قیمت، به پایداری درآمدها توجه کنند. گلدمن ساکس پیش‌بینی می‌کند که اگر رشد سودها به سرعت کاهش یابد، فشار فروش بر سهام فناوری می‌تواند بازار را تحت تأثیر قرار دهد.",
+    "category": "تکنولوژی",
+    "tag": "فناوری",
+    "urgency": 5,
+    "source": "Asianet Newsable on MSN",
+    "url": "https://www.msn.com/en-in/news/other/goldman-sachs-tech-stocks-face-an-earnings-bubble-not-a-valuation-one/ar-AA2adD86",
+    "clean_url": "https://www.msn.com/en-in/news/other/goldman-sachs-tech-stocks-face-an-earnings-bubble-not-a-valuation-one/ar-AA2adD86",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786845649.0,
     "sent_to_telegram": true
   },
   {
@@ -57,6 +117,86 @@
     "clean_url": "https://www.moneycontrol.com/news/opinion/hormuz-deadlock-fed-pause-bets-set-stage-for-two-way-commodity-volatility-next-week-14006519.html",
     "image": "https://images.moneycontrol.com/static-mcnews/2024/09/20240906033445_stock-market-pexels-.jpg",
     "timestamp": 1786843620.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "35e58cc773",
+    "title_fa": "‏دیدار سفیدخانه با رهبران کریپتو، احتمال تغییر قیمت بیت‌کوین",
+    "title_en": "Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer",
+    "summary": [
+      "‏ترامپ قرار است در جلسه‌ای در سفیدخانه با مدیران بزرگ کریپتو حضور یابد.",
+      "‏این ملاقات می‌تواند مسیر قوانین جدید و تأثیر مستقیم بر قیمت بیت‌کوین را شکل دهد.",
+      "‏همزمان، سنا برنامه‌ریزی برای رأی‌گیری در لایحه Clarity Act در سپتامبر دارد."
+    ],
+    "body_fa": "‏در هفته آینده، دونالد ترامپ قرار است در یک نشست در سفیدخانه با مدیران شرکت‌های بزرگ کریپتو از جمله Coinbase ، Ripple ، Gemini ، Robinhood ، Polymarket و Kalshi حضور پیدا کند. در این جلسه ناظران ارشد مانند مایکل سلیگ رئیس کمیسیون معاملات آتی کالا (CFTC) و پل آتکینز رئیس SEC نیز حضور خواهند داشت و احتمال حضور وزرای خزانه‌داری اسکندر بستان و تجارت هوارد لوتنیک نیز مطرح است. این دیدار پیش از جلسه کمیته مشورتی نوآوری CFTC برگزار می‌شود که در آن نمایندگانی از صنایع مالی و پیش‌بینی‌گری حضور دارند. در عین حال، لایحه ساختار بازار کریپتو به نام Clarity Act پس از عدم رأی‌گیری در سنا به تعویق افتاده و رهبری سنا برنامه‌ریزی کرده است تا در اواسط سپتامبر به آن رای بدهد. تحلیل‌گران پیش از این این لایحه را به عنوان مهم‌ترین محرک برای رشد قیمت بیت‌کوین می‌دانستند، اما اکنون به دلیل عدم قطعیت‌های قانونی، انتظار می‌رود تأثیر آن کمتر باشد.",
+    "category": "کریپتو",
+    "tag": "WhiteHouse",
+    "urgency": 5,
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/",
+    "clean_url": "https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a805521025557f55d6156f4/0x0.jpg?format=jpg&crop=2301,1534,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "timestamp": 1786827600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dc3b3df40b",
+    "title_fa": "‏نقش پرمیوم ژئوپولیتیک بر قیمت نفت در برابر رکود",
+    "title_en": "Oil’s geopolitical premium collides with weaker global economy",
+    "summary": [
+      "‏نفت برنت از حدود 69 دلار به 105 دلار در ژوئیه صعود کرد و سپس به حدود 87 دلار کاهش یافت.",
+      "‏این نوسان نشان می‌دهد تنش‌های ژئوپولیتیک در تنگه هرمز بر تقاضا و موجودی‌های جهانی فشار می‌آورد.",
+      "‏حجم عبور نفت از تنگه هرمز از 21.6 میلیون بشکه در روز به 4.9 میلیون بشکه کاهش یافت."
+    ],
+    "body_fa": "‏بازار نفت جهانی امروز تحت تأثیر ترکیبی از ریسک‌های ژئوپولیتیک و ضعف تقاضای جهانی قرار دارد. پس از توافق صلحی میان آمریکا و ایران در ژوئن، قیمت برنت به حدود 69 دلار سقوط کرد، اما حملات مکرر به کشتی‌ها در تنگه هرمز و کاهش بارگیری‌ها در اواخر ژوئیه، قیمت را به 105 دلار رساند و سپس به حدود 87 دلار بازگشت. تنگه هرمز که یک‌پنجم حمل و نقل نفت جهان را در بر دارد، به‌دلیل کاهش شدید حجم عبور از 21.6 میلیون به 4.9 میلیون بشکه در روز، ریسک‌های تأمین را بالا برده است. این نوسان‌ها نشان می‌دهد که حتی پیش از بروز کمبود واقعی، بازارها به دلیل ترس از عدم دسترسی به منابع، پرمیوم ژئوپولیتیک را به قیمت‌ها اضافه می‌کنند.",
+    "category": "اقتصاد",
+    "tag": "نفت",
+    "urgency": 5,
+    "source": "AzerNews",
+    "url": "https://www.azernews.az/analysis/262389.html",
+    "clean_url": "https://www.azernews.az/analysis/262389.html",
+    "image": "https://www.azernews.az/media/2026/08/16/kjhgfds8765432.jpg",
+    "timestamp": 1786823700.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0686b21bf9",
+    "title_fa": "‏کمبود چیپ‌های AI تورم بریتانیا را تشدید می‌کند",
+    "title_en": "AI ‘Chipflation’ Washes Ashore in the UK Economy",
+    "summary": [
+      "‏کمبود حافظه‌های هوش مصنوعی، تورم مصرف‌کننده بریتانیا را در ژوئیه به ۲٫۹٪ می‌رساند.",
+      "‏هزینه‌های بالای انرژی و چیپ‌ها فشار بر بانک انگلستان برای افزایش نرخ بهره می‌آورد.",
+      "‏قیمت لپ‌تاپ‌های اپل و کنسول‌های Xbox به‌زودی افزایش می‌یابد."
+    ],
+    "body_fa": "‏داده‌های پیش‌بینی بلومبرگ نشان می‌دهد که تورم مصرف‌کننده بریتانیا در ماه ژوئیه ۲٫۹٪ افزایش خواهد یافت. این رشد ناشی از کمبود حافظه‌های هوش مصنوعی و هزینه‌های بالاتر انرژی است که فشار بر قیمت‌های الکترونیک را افزایش می‌دهد. هزینه لپ‌تاپ‌های اپل، تبلت‌ها و کنسول‌های Xbox به‌زودی بالا می‌رود و این موضوع می‌تواند بخشی از تورم هسته‌ای شود. بانک انگلستان که اقتصاد مقاوم دارد، به‌خصوص پس از رشد غیرمنتظره در ژوئن، ممکن است برای خنثی‌سازی این فشارها نرخ بهره را بالا ببرد. کارشناسان اشاره می‌کنند که تحولات خاورمیانه نیز نقش مهمی در شکل‌گیری قیمت‌ها دارد.",
+    "category": "اقتصاد",
+    "tag": "تورم",
+    "urgency": 6,
+    "source": "Bloomberg · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/articles/ai-chipflation-washes-ashore-uk-200000084.html",
+    "clean_url": "https://finance.yahoo.com/economy/articles/ai-chipflation-washes-ashore-uk-200000084.html",
+    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/4a4eea93897eeed9890070c0ce363833.jpg",
+    "timestamp": 1786823451.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9405f78c4f",
+    "title_fa": "‏گلدمن ساکس هشدار: حباب سود در فناوری شکل می‌گیرد",
+    "title_en": "Why Goldman Sachs thinks there may be an ‘earnings bubble’ in tech?",
+    "summary": [
+      "‏گلدمن ساکس در گزارشی اعلام کرد که بازار فناوری ممکن است به «حباب سود» تبدیل شود.",
+      "‏این نگرانی‌ها ناشی از رشد سریع هزینه‌های سرمایه‌ای شرکت‌های بزرگ و کاهش جریان نقدی آزاد است که می‌تواند ارزش سهام را تحت فشار قرار دهد.",
+      "‏گلدمن ساکس اشاره کرد که نسبت P/E فناوری نسبت به بقیه سهام S&P 500 تنها کمی بالاتر است، نشانگر کاهش پریمیوم."
+    ],
+    "body_fa": "‏گلدمن ساکس در گزارش Global Strategy Views خود هشدار داد که اگرچه ارزش‌گذاری سهام فناوری به‌نظر نمی‌رسد حباب باشد، اما ممکن است یک «حباب سود» شکل بگیرد. این نگرانی از این جهت است که سرمایه‌گذاران می‌پرسند آیا رشد قوی سود این بخش می‌تواند ادامه یابد، به‌ویژه پس از افزایش چشمگیر هزینه‌های سرمایه‌ای شرکت‌های بزرگ فناوری. پس از معرفی ChatGPT ، شرکت‌های ابرمقیاس هزینه‌های Capex خود را به‌طور قابل‌توجهی افزایش دادند که باعث کاهش جریان نقدی آزاد و نیاز به تأمین مالی از طریق بدهی و سهام شد. در نتیجه، بازده جریان نقدی آزاد در بازار سهام آمریکا که تحت تسلط این شرکت‌هاست، نسبت به بازارهای ارزش‌محور مانند اروپا کاهش یافته است. گلدمن ساکس افزود که نسبت P/E پنج شرکت بزرگ فناوری در ایالات متحده تنها کمی بالاتر از میانگین ۴۹۵ سهم دیگر S&P 500 است، پس از دوره‌ای که از ۲۰۱۷ به‌صورت مداوم پریمیوم داشته‌اند. اگر این روند ادامه یابد، ممکن است ارزش‌گذاری‌های فعلی تحت فشار قرار گیرند و سرمایه‌گذاران به سمت دارایی‌های ارزش‌محور حرکت کنند.",
+    "category": "اقتصاد",
+    "tag": "حباب_سود",
+    "urgency": 6,
+    "source": "The Hindu BusinessLine",
+    "url": "https://www.thehindubusinessline.com/markets/why-goldman-sachs-thinks-there-may-be-an-earnings-bubble-in-tech/article71352404.ece",
+    "clean_url": "https://www.thehindubusinessline.com/markets/why-goldman-sachs-thinks-there-may-be-an-earnings-bubble-in-tech/article71352404.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/b4pyh0/article71352422.ece/alternates/LANDSCAPE_1200/PO18_Telescope.jpg",
+    "timestamp": 1786823160.0,
     "sent_to_telegram": true
   },
   {
