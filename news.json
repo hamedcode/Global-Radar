@@ -1,5 +1,45 @@
 [
   {
+    "id": "ae94387606",
+    "title_fa": "‏تورم بریتانیا به‌دلیل کمبود تراشه AI و انرژی بالا می‌رود",
+    "title_en": "UK inflation set to rise as AI chip crunch, energy costs add pressure",
+    "summary": [
+      "‏پیش‌بینی می‌شود تورم سالانه بریتانیا به‌دلیل کمبود تراشه‌های هوش مصنوعی و هزینه‌های انرژی افزایش یابد.",
+      "‏این فشارهای هزینه‌ای می‌تواند سیاست‌پذیران بانک مرکزی را به افزایش نرخ بهره وادار کند.",
+      "‏تحلیل‌گران هشدار می‌دهند که این روند ممکن است رشد اقتصادی را تحت‌سخت فشار قرار دهد."
+    ],
+    "body_fa": "‏بر اساس آخرین داده‌های آمارگیری، تورم مصرف‌کننده در بریتانیا احتمالاً در ماه‌های آینده افزایش خواهد یافت. عوامل اصلی این افزایش، کمبود تراشه‌های مورد استفاده در هوش مصنوعی که باعث افزایش قیمت‌های الکترونیک می‌شود و هزینه‌های انرژی بالا به‌ویژه گاز و برق است. این ترکیب هزینه‌ای فشار بر هزینه‌های زندگی خانوارها وارد می‌کند و ممکن است بانک مرکزی انگلستان را به رفع نرخ بهره یا تغییر سیاست‌های پولی وادار کند. تحلیل‌گران بازار نیز پیش‌بینی می‌کنند که این فشارهای تورمی می‌تواند رشد اقتصادی را کاهش داده و نوسانات در بازارهای مالی را تشدید کند. در نتیجه، سرمایه‌گذاران باید به تحولات نرخ بهره و سیاست‌های مالی نزدیک به این دوره توجه ویژه‌ای داشته باشند.",
+    "category": "اقتصاد",
+    "tag": "تورم",
+    "urgency": 5,
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/uk-inflation-set-to-rise-as-ai-chip-crunch-energy-costs-add-pressure-126081600048_1.html",
+    "clean_url": "https://www.business-standard.com/world-news/uk-inflation-set-to-rise-as-ai-chip-crunch-energy-costs-add-pressure-126081600048_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786846448-8379.jpg",
+    "timestamp": 1786863840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "53a4f7d9fa",
+    "title_fa": "‏مداخله تاریخی آمریکا و ژاپن در بازار ین",
+    "title_en": "Traders are spoiling for a fight over the yen",
+    "summary": [
+      "‏مداخله مشترک آمریکا و ژاپن نرخ ین را از 164 به 156 یِن/دلار پایین آورد.",
+      "‏با فروش روزانه ین توسط سرمایه‌گذاران، نرخ به 159 یِن/دلار برگشت و خطر نوسان شدید زنده شد.",
+      "‏این وضعیت می‌تواند فشار بر دلار و بازارهای ریسک‌پذیر ایجاد کند."
+    ],
+    "body_fa": "‏دو هفته پیش، وزیر خزانه‌داری آمریکا برای اولین بار از سال 1998 به‌صورت دوجانبه در بازار ین مداخله کرد و با خرید ین، دلار را از 164 به حدود 156 یِن/دلار کاهش داد. پس از این اقدام، سرمایه‌گذاران به‌صورت روزانه مقادیر قابل‌توجهی ین می‌فروشند و نرخ را به 159 یِن/دلار برگردانده‌اند. این روند نشان می‌دهد که بازار آمادهٔ یک نبرد ارزی است و احتمال نوسان شدید در ین و دلار وجود دارد. اگر فروش ین ادامه یابد، می‌تواند فشار بر دلار آمریکا و بازارهای ریسک‌پذیر جهانی را افزایش دهد. در این میان، معامله‌گران به‌خصوص در استراتژی «carry trade» که از نرخ پایین ین بهره می‌برند، نقش مهمی در تشدید نوسان دارند.",
+    "category": "اقتصاد",
+    "tag": "ین",
+    "urgency": 6,
+    "source": "The Business Times",
+    "url": "https://www.businesstimes.com.sg/opinion-features/traders-are-spoiling-fight-over-yen",
+    "clean_url": "https://www.businesstimes.com.sg/opinion-features/traders-are-spoiling-fight-over-yen",
+    "image": "https://cassette.sphdigital.com.sg/image/businesstimes/be4dad0f8a04483b6757d0eafeedfed8a0014bd5a0c991e1e09597e1be2cd275?w=1920&f=webp",
+    "timestamp": 1786844580.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b9022d800c",
     "title_fa": "‏داده‌های نرم‌افزاری فشار بر توقف نرخ بهره فدرال‌رزرو و نوسان دوطرفه کالاها",
     "title_en": "Hormuz deadlock, Fed pause bets set stage for two-way commodity volatility next week",
