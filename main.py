@@ -90,7 +90,7 @@ CONFIG = {
     'CF_API_TOKEN_2': os.environ.get('CF_API_TOKEN_2'),
     'CF_MODEL': os.environ.get('CF_MODEL', '@cf/openai/gpt-oss-120b'),
     'GEMINI_API_KEY': os.environ.get('GEMINI_API_KEY'),
-    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL', 'gemini-2.5-flash'),
+    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL', 'gemini-3.6-flash'),
     'AI_RETRIES': 3,
     # Storage bar (site/archive) — same bar is used for Telegram now, so
     # everything that's stored also gets sent (per user request).
@@ -161,6 +161,14 @@ class GlobalRadar:
         self.gemini_model = CONFIG['GEMINI_MODEL']
         if not self.gemini_api_key and not self.cf_accounts:
             logger.error("NO AI PROVIDER CONFIGURED: neither Gemini nor Cloudflare credentials are set.")
+        gemini_status = "not set" if not self.gemini_api_key else (
+            "set, unexpected format (Gemini keys normally start with AIzaSy — double check it's from aistudio.google.com/apikey)"
+            if not self.gemini_api_key.startswith("AIzaSy") else "set"
+        )
+        logger.info(
+            f">>> AI providers — Gemini: {gemini_status} | "
+            f"Cloudflare accounts: {len(self.cf_accounts)}"
+        )
         self.existing_news = self._load_existing_news()
 
         self.seen_urls = set()
@@ -1127,7 +1135,11 @@ class GlobalRadar:
 
     def run(self):
         logger.info(">>> GlobalRadar started...")
-        logger.info(f">>> Using AI model: {self.cf_model or '(not set!)'}")
+        logger.info(
+            f">>> Cloudflare model: {self.cf_model or '(not set)'} "
+            f"({len(self.cf_accounts)} account(s)) | "
+            f"Gemini model: {self.gemini_model if self.gemini_api_key else '(no key set)'}"
+        )
 
         market_snapshot = self.fetch_market_rates()
         self._atomic_json_dump(CONFIG['FILES']['MARKET'], market_snapshot)
