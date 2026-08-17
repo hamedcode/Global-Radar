@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>رصد جهانی | اقتصاد، کریپتو، تکنولوژی</title>
+<title>رصد جهانی | اقتصاد، ژئوپلیتیک، تکنولوژی، کریپتو، گیم</title>
 <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css" rel="stylesheet">
 <style>
   :root{
@@ -42,16 +42,19 @@
 
 <header>
   <h1>🌐 رصد جهانی</h1>
-  <p>مهم‌ترین اخبار اقتصاد، کریپتو و تکنولوژی جهان</p>
+  <p>مهم‌ترین اخبار اقتصاد، ژئوپلیتیک، تکنولوژی، کریپتو و گیم جهان</p>
 </header>
 
 <div class="market" id="marketBar">در حال بارگذاری قیمت‌ها...</div>
 
 <div class="tabs" id="tabs">
   <div class="tab active" data-cat="all">همه</div>
-  <div class="tab" data-cat="اقتصاد">📊 اقتصاد</div>
-  <div class="tab" data-cat="کریپتو">🪙 کریپتو</div>
+  <div class="tab" data-cat="اقتصاد و بازار">📊 اقتصاد و بازار</div>
+  <div class="tab" data-cat="انرژی و کالا">🛢️ انرژی و کالا</div>
+  <div class="tab" data-cat="ژئوپلیتیک و سیاست اقتصادی">🌍 ژئوپلیتیک</div>
   <div class="tab" data-cat="تکنولوژی">💻 تکنولوژی</div>
+  <div class="tab" data-cat="کریپتو و بلاکچین">🪙 کریپتو</div>
+  <div class="tab" data-cat="گیم">🎮 گیم</div>
 </div>
 
 <main id="feed">
@@ -139,7 +142,7 @@ fetch('config.json?t=' + Date.now())
   .then(r => r.json())
   .then(c => {
     const footer = document.getElementById('siteFooter');
-    let html = '🌐 رصد جهانی — اخبار اقتصاد، کریپتو و تکنولوژی';
+    let html = '🌐 رصد جهانی — اخبار اقتصاد، ژئوپلیتیک، تکنولوژی، کریپتو و گیم';
     if (c.telegram_link) {
       html += ` &nbsp;|&nbsp; 📢 <a href="${c.telegram_link}" target="_blank" rel="noopener">کانال تلگرام</a>`;
     } else if (c.telegram_channel) {

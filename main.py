@@ -18,27 +18,46 @@ import trafilatura
 
 # ───────────────────────── CONFIGURATION ─────────────────────────
 CONFIG = {
-    # Search themes: global macro economy, crypto, big tech. NO general politics.
+    # Search themes: macro economy, energy/commodities, econ-relevant geopolitics,
+    # tech, crypto, gaming. NO general politics for its own sake.
     'SEARCH_QUERIES': [
-        '(Federal Reserve OR "interest rate" OR inflation OR recession) global economy',
+        # اقتصاد و بازار
+        '(Federal Reserve OR ECB OR "interest rate" OR inflation OR recession) global economy',
         '(stock market OR "Wall Street" OR S&P500 OR Nasdaq) (crash OR rally OR record OR selloff)',
-        '(oil price OR OPEC OR gold price) major move',
-        'Bitcoin OR Ethereum (ETF OR regulation OR hack OR crash OR rally OR all-time high)',
-        'crypto (SEC OR regulation OR exchange OR stablecoin) major',
+        'banking crisis OR sovereign debt OR credit downgrade',
+        # انرژی و کالا
+        '(oil price OR OPEC OR "natural gas") major move',
+        'gold price OR "Treasury yields" major move',
+        # ژئوپلیتیک و سیاست اقتصادی
+        'sanctions OR tariffs global trade impact',
+        '"Strait of Hormuz" OR "Suez Canal" shipping disruption',
+        'US China trade OR export controls',
+        'Russia Ukraine OR Middle East economic impact',
+        # تکنولوژی
         '(OpenAI OR "Google DeepMind" OR Anthropic OR Nvidia OR Microsoft OR Meta OR Apple) (AI OR launch OR breakthrough)',
         '(Nvidia OR Apple OR Microsoft OR Amazon OR Google OR Tesla) (earnings OR lawsuit OR antitrust OR layoffs)',
-        'major tech company earnings report',
+        'semiconductor OR chip shortage OR chip export',
+        'major cyberattack OR data breach company',
+        # کریپتو و بلاکچین
+        'Bitcoin OR Ethereum (ETF OR regulation OR hack OR crash OR rally OR all-time high)',
+        'crypto (SEC OR regulation OR exchange OR stablecoin) major',
+        '"exchange hack" OR "bridge exploit" OR "smart contract exploit" crypto',
+        # گیم
+        '(PlayStation OR Xbox OR Nintendo OR Steam) major announcement OR acquisition',
+        'game studio (acquisition OR shutdown OR layoffs)',
     ],
     'TARGET_SOURCES': [
         'bloomberg.com', 'reuters.com', 'cnbc.com', 'wsj.com', 'ft.com',
         'apnews.com', 'coindesk.com', 'theblock.co', 'techcrunch.com',
-        'theverge.com', 'axios.com', 'businessinsider.com'
+        'theverge.com', 'axios.com', 'businessinsider.com',
+        'oilprice.com', 'kitco.com', 'ign.com', 'gamesindustry.biz',
     ],
     'SOURCE_PRIORITY': {
         'bloomberg.com': 10, 'reuters.com': 10, 'wsj.com': 9, 'ft.com': 9,
         'cnbc.com': 8, 'apnews.com': 8, 'coindesk.com': 8, 'theblock.co': 8,
         'techcrunch.com': 6, 'theverge.com': 6, 'axios.com': 6,
-        'businessinsider.com': 5,
+        'businessinsider.com': 5, 'oilprice.com': 6, 'kitco.com': 6,
+        'gamesindustry.biz': 6, 'ign.com': 5,
     },
     'FILES': {
         'NEWS': 'news.json',
@@ -53,18 +72,34 @@ CONFIG = {
     'TIMEOUT': 12,
     'AI_TIMEOUT': 90,
     'MAX_WORKERS': 3,
-    'MAX_CANDIDATES': 20,
+    # Candidates that actually reach the AI call, after the free keyword
+    # pre-filter below. Kept moderate on purpose: with a 120B model on
+    # Workers AI's free 10,000-neurons/day allocation, each extra AI call
+    # eats into that budget across all 4 daily runs.
+    'MAX_CANDIDATES': 30,
     'MAX_TEXT_CHARS': 2500,
     'MIN_TEXT_LEN': 100,
+    # Pre-AI (free, keyword-based) cutoff — see _cheap_urgency_hint. Anything
+    # below this AND without a substantial article body is dropped before
+    # ever costing an AI call.
     'MIN_AI_URGENCY_HINT': 4,
     'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
     'CF_ACCOUNT_ID': os.environ.get('CF_ACCOUNT_ID'),
     'CF_API_TOKEN': os.environ.get('CF_API_TOKEN'),
+    'CF_ACCOUNT_ID_2': os.environ.get('CF_ACCOUNT_ID_2'),
+    'CF_API_TOKEN_2': os.environ.get('CF_API_TOKEN_2'),
     'CF_MODEL': os.environ.get('CF_MODEL', '@cf/openai/gpt-oss-120b'),
+    'GEMINI_API_KEY': os.environ.get('GEMINI_API_KEY'),
+    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL', 'gemini-2.5-flash'),
     'AI_RETRIES': 3,
-    # Telegram now mirrors the site: same 4+ bar used to save a story at all.
+    # Storage bar (site/archive) — same bar is used for Telegram now, so
+    # everything that's stored also gets sent (per user request).
     'MIN_TELEGRAM_URGENCY': 4,
-    'MAX_DIGEST_ITEMS': 40,
+    # Cap on how many items go out in a single digest message/run. If more
+    # than this qualify in one run, the rest simply go out on the next run
+    # (they stay "unsent" and get picked up again) — nothing is lost, it's
+    # just spread out so one run doesn't blast a huge wall of text.
+    'MAX_DIGEST_ITEMS': 20,
     'MAX_NEWS_AGE_HOURS': 20,
     # Total items kept in news.json / shown on the site. Newest-first; anything
     # beyond this count is dropped as new items come in.
@@ -79,9 +114,21 @@ BAD_IMAGE_HOSTS = (
 )
 
 CATEGORY_FALLBACK_IMAGE = {
-    'اقتصاد': 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80',
-    'کریپتو': 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80',
+    'اقتصاد و بازار': 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80',
+    'انرژی و کالا': 'https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80',
+    'ژئوپلیتیک و سیاست اقتصادی': 'https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80',
     'تکنولوژی': 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80',
+    'کریپتو و بلاکچین': 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80',
+    'گیم': 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80',
+}
+
+CATEGORY_EMOJI = {
+    'اقتصاد و بازار': '📊',
+    'انرژی و کالا': '🛢️',
+    'ژئوپلیتیک و سیاست اقتصادی': '🌍',
+    'تکنولوژی': '💻',
+    'کریپتو و بلاکچین': '🪙',
+    'گیم': '🎮',
 }
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -100,6 +147,20 @@ class GlobalRadar:
         self.cf_account_id = CONFIG['CF_ACCOUNT_ID']
         self.cf_api_token = CONFIG['CF_API_TOKEN']
         self.cf_model = CONFIG['CF_MODEL']
+        # Up to 2 Cloudflare accounts, so writing calls can rotate/fail over
+        # between them and roughly double the effective daily neuron budget.
+        self.cf_accounts = [
+            (aid, tok) for aid, tok in (
+                (CONFIG['CF_ACCOUNT_ID'], CONFIG['CF_API_TOKEN']),
+                (CONFIG['CF_ACCOUNT_ID_2'], CONFIG['CF_API_TOKEN_2']),
+            ) if aid and tok
+        ]
+        if not self.cf_accounts:
+            logger.warning("No Cloudflare account configured (CF_ACCOUNT_ID/CF_API_TOKEN missing).")
+        self.gemini_api_key = CONFIG['GEMINI_API_KEY']
+        self.gemini_model = CONFIG['GEMINI_MODEL']
+        if not self.gemini_api_key and not self.cf_accounts:
+            logger.error("NO AI PROVIDER CONFIGURED: neither Gemini nor Cloudflare credentials are set.")
         self.existing_news = self._load_existing_news()
 
         self.seen_urls = set()
@@ -210,14 +271,24 @@ class GlobalRadar:
         return 3
 
     def _cheap_urgency_hint(self, title, publisher=""):
+        """Free, keyword-based pre-filter (no AI call). This is the actual
+        triage stage: it decides which candidates are even worth spending an
+        AI call on. Kept intentionally simple/fast so it can run over a large
+        raw candidate pool without cost."""
         t = (title or '').lower()
         score = 3
         high = [
             'crash', 'plunge', 'soar', 'record high', 'all-time high', 'surge', 'ban',
             'hack', 'collapse', 'bankrupt', 'rate cut', 'rate hike', 'fed', 'sec sues',
-            'approve', 'antitrust', 'breakthrough',
+            'approve', 'antitrust', 'breakthrough', 'exploit', 'sanction', 'sanctions',
+            'strait of hormuz', 'suez canal', 'export control', 'acquire', 'acquisition',
+            'shutdown', 'shuts down', 'mass layoffs',
         ]
-        mid = ['earnings', 'inflation', 'ipo', 'merger', 'acquisition', 'launch', 'lawsuit']
+        mid = [
+            'earnings', 'inflation', 'ipo', 'merger', 'lawsuit', 'launch',
+            'tariff', 'opec', 'oil price', 'gold price', 'trade war', 'stablecoin',
+            'regulation', 'etf', 'layoffs', 'console', 'studio',
+        ]
         if any(w in t for w in high):
             score += 3
         if any(w in t for w in mid):
@@ -246,9 +317,9 @@ class GlobalRadar:
         return True
 
     def _get_fallback_image(self, category):
-        return CATEGORY_FALLBACK_IMAGE.get(category, CATEGORY_FALLBACK_IMAGE['اقتصاد'])
+        return CATEGORY_FALLBACK_IMAGE.get(category, CATEGORY_FALLBACK_IMAGE['اقتصاد و بازار'])
 
-    def _pick_image(self, *candidates, category='اقتصاد'):
+    def _pick_image(self, *candidates, category='اقتصاد و بازار'):
         for c in candidates:
             if self._is_valid_image_url(c):
                 return c
@@ -513,106 +584,226 @@ class GlobalRadar:
 
         return extracted_text, extracted_image
 
-    # ───────────────────────── AI analysis ─────────────────────────
+    # ───────────────────────── AI analysis (2-stage, multi-provider) ─────────────────────────
+    #
+    # Stage A — SELECTION / PRIORITIZATION (headline + snippet only, cheap):
+    #   Primary: Gemini Flash (much higher free daily request quota, so it can
+    #   afford to run over every candidate that clears the free keyword filter).
+    #   Fallback: Cloudflare, if Gemini isn't configured or fails.
+    #   Decides: category, subcategory, iran_relevant, and a preliminary
+    #   importance score used only to decide whether it's worth scraping the
+    #   full article and spending a Stage B call on it.
+    #
+    # Stage B — WRITING / TRANSLATION (full article text, more expensive):
+    #   Primary: Cloudflare (rotates across up to 2 accounts if a second one
+    #   is configured). This is the model whose Persian output has already
+    #   been tuned/debugged extensively for this project.
+    #   Fallback: Gemini, if all Cloudflare accounts fail or are exhausted.
+    #   Produces: title_fa, summary, body_fa, tag, and the FINAL authoritative
+    #   importance/is_rumor/is_analysis (full-text judgment beats headline-only).
+    #
+    # Either provider can be entirely absent (no GEMINI_API_KEY, or no CF
+    # credentials) and the pipeline still works on whichever one is present.
 
-    def analyze_with_ai(self, headline, full_text, source_name):
-        if not self.cf_account_id or not self.cf_api_token:
-            logger.error("AI SKIPPED: CF_ACCOUNT_ID or CF_API_TOKEN is empty/not set in the environment.")
+    _SELECTION_PROMPT = (
+        "تو یک دستیار گزینش خبر برای یک کانال خبری فارسی هستی. فقط بر اساس تیتر و خلاصه‌ی کوتاه (نه متن کامل) باید "
+        "تصمیم بگیری این خبر ارزش بررسی کامل داره یا نه.\n\n"
+        "خبر باید دقیقاً در یکی از این ۶ دسته باشد:\n"
+        "  ۱. اقتصاد و بازار (فدرال‌رزرو/ECB، نرخ بهره، تورم، رکود، بحران بانکی، بازار سهام)\n"
+        "  ۲. انرژی و کالا (نفت، گاز، OPEC، طلا، دلار، Treasury)\n"
+        "  ۳. ژئوپلیتیک و سیاست اقتصادی (تحریم، تعرفه، تجارت جهانی، تنگه هرمز، کانال سوئز، آمریکا-چین، درگیری‌های مؤثر بر اقتصاد جهانی)\n"
+        "  ۴. تکنولوژی (AI، نیمه‌هادی، Big Tech، سایبرسکیوریتی، فضا، رباتیک، خودروی خودران، بیوتک)\n"
+        "  ۵. کریپتو و بلاکچین (بیت‌کوین، اتریوم، ETF، رگولاسیون، هک صرافی/پروتکل)\n"
+        "  ۶. گیم (کنسول، استودیوهای بزرگ، بازی‌های AAA، خرید/ادغام/تعطیلی استودیو، اخراج گسترده)\n"
+        "اگر خبر در هیچ‌کدام از این ۶ دسته نمی‌گنجد (مثلاً سیاست داخلی صرف، ورزش، سرگرمی عمومی)، importance رو خیلی پایین (1) بده.\n\n"
+        "importance (1 تا 10) فقط یک تخمین اولیه است — همینه که تعیین می‌کنه آیا ارزش بررسی کامل رو داره:\n"
+        "9-10: احتمالاً یک خبر خیلی بزرگ (سقوط بازار، هک بزرگ، تصمیم غافلگیرکننده فدرال‌رزرو، تحریم بزرگ). "
+        "4-8: احتمالاً قابل‌توجه ولی نه لزوماً خیلی بزرگ. 1-3: احتمالاً روتین/کم‌اهمیت/شایعه/تحلیل شخصی/بی‌ربط.\n\n"
+        "فقط JSON زیر رو برگردون، بدون هیچ متن اضافه:\n"
+        "{\n"
+        ' "category": "دقیقاً یکی از ۶ رشته‌ی فارسی بالا",\n'
+        ' "subcategory": "۲ تا ۴ کلمه فارسی",\n'
+        ' "importance": عدد بین 1 تا 10,\n'
+        ' "iran_relevant": true یا false\n'
+        "}"
+    )
+
+    _WRITING_PROMPT = (
+        "تو یک تحلیل‌گر ارشد بازارهای مالی جهانی، ژئوپلیتیک اقتصادی، تکنولوژی، کریپتو و صنعت گیم هستی که برای یک کانال خبری فارسی خلاصه می‌نویسی.\n\n"
+        "این خبر از قبل در یکی از این ۶ دسته گزینش شده (در ورودی به‌عنوان CATEGORY_HINT داده میشه): "
+        "اقتصاد و بازار / انرژی و کالا / ژئوپلیتیک و سیاست اقتصادی / تکنولوژی / کریپتو و بلاکچین / گیم. "
+        "اگه با خوندن متن کامل فکر می‌کنی دسته‌ی درست‌تری هست، آزادی عوضش کنی، ولی فقط بین همین ۶ گزینه.\n\n"
+        "🎯 **وظیفه اصلی: فیلتر سخت‌گیرانه اهمیت، این بار بر اساس متن کامل خبر.**\n"
+        "فقط اخباری که واقعاً 'خیلی مهم' هستن باید importance بالا بگیرن. اخبار روتین، تکراری، شایعه یا تحلیل/نظر (نه رویداد واقعی) باید importance پایین بگیرن.\n"
+        "❌ **سیاست داخلی معمولی، اظهارنظر سیاستمدار بدون اثر اقتصادی، یا دیپلماسی روتین را importance پایین (1 تا 2) بده.**\n\n"
+        "🔴 قوانین نگارش:\n"
+        "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
+        "۰. فقط و فقط فارسی بنویس. هیچ کاراکتر چینی، ژاپنی یا هیچ زبان دیگری (جز اسامی خاص انگلیسی مثل نام شرکت‌ها) نباید در خروجی باشد. این قانون رو با دقت کامل رعایت کن.\n"
+        "۰۰. برای اسم افراد یا مکان‌هایی که تلفظ فارسی رایج و شناخته‌شده دارن (مثل تنگه هرمز)، فقط همون املای درست و رایج رو بنویس. اگه از تلفظ فارسی یه اسم خاص (مخصوصاً اسم افراد) مطمئن نیستی، به‌جای حدس‌زدن یه املای اشتباه، همون اسم رو به انگلیسی/لاتین بنویس. هرگز املای اختراعی یا نامطمئن برای اسم خاص ننویس.\n"
+        "۰۰۰. هر عدد رو همیشه یک‌تکه و بدون فاصله بنویس (مثلاً 4400 یا 4,400 — هرگز 4 400 با فاصله‌ی وسط). فاصله‌ی داخل عدد در متن فارسی باعث به‌هم‌ریختن ترتیب نمایش عدد میشه.\n"
+        "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
+        "۳. باید دو نسخه از خبر بنویسی، هر دو بر اساس متن کامل خبر (TEXT)، نه فقط تیتر:\n"
+        "   الف) summary: نسخه‌ی خیلی کوتاه برای تلگرام (فضا محدوده)، دقیقاً ۲ تا ۳ خط، هر خط حداکثر ۲۵ کلمه:\n"
+        "      - خط ۱: چه اتفاقی افتاد (با مهم‌ترین رقم یا جزئیات)\n"
+        "      - خط ۲: چرا مهمه / چه تاثیری داره\n"
+        "      - خط ۳ (اختیاری): یک جزئیات مهم دیگر\n"
+        "   ب) body_fa: نسخه‌ی کامل‌تر برای سایت (اینجا محدودیت فضا نداریم)، یک متن روان و پیوسته فارسی در ۴ تا ۷ جمله که کل خبر رو با جزئیات، زمینه، اعداد، نقل‌قول‌های مهم (در صورت وجود) و پیامدهای احتمالی توضیح بده. این باید یک ترجمه‌ی روان و بازنویسی‌شده باشه، نه ترجمه‌ی کلمه‌به‌کلمه.\n"
+        "   summary و body_fa هرگز نباید فقط تکرار تیتر باشن.\n"
+        "۴. تیتر (title_fa) حداکثر ۱۰ کلمه، جذاب و بدون کلمات اضافه.\n"
+        "۵. هیچ‌وقت title_fa، هیچ‌کدوم از خط‌های summary، یا body_fa رو با یک کلمه یا حرف انگلیسی/لاتین شروع نکن. همیشه اولین کلمه‌ی جمله باید فارسی باشه، حتی اگه لازم باشه ترتیب جمله رو کمی عوض کنی.\n\n"
+        "قواعد امتیازبندی importance (1 تا 10):\n"
+        "- 9-10: تصمیم غافلگیرکننده فدرال‌رزرو، سقوط/رشد بزرگ بازار سهام (بالای ۳٪ در یک روز)، هک یا فروپاشی بزرگ کریپتو، تایید/رد ETF بیت‌کوین، جهش بیت‌کوین به رکورد جدید، اعلام مدل هوش‌مصنوعی انقلابی، تحریم/تعرفه بزرگ با اثر جهانی، اختلال بزرگ در تنگه هرمز یا کانال سوئز، خرید/تعطیلی بزرگ در صنعت گیم.\n"
+        "- 7-8: نتایج مالی غافلگیرکننده شرکت‌های بزرگ، تغییر نرخ بهره، رگولاسیون مهم کریپتو، ادغام/تملک بزرگ، حکم مهم آنتی‌تراست، تغییر مهم سیاست تجاری بین دو کشور بزرگ.\n"
+        "- 4-6: گزارش‌های اقتصادی معمول بدون شگفتی خاص، اخبار محصول متوسط، رویداد ژئوپلیتیک با اثر اقتصادی محدود.\n"
+        "- 1-3: اخبار روتین، تکراری، شایعه، تحلیل/نظر بدون رویداد واقعی، محصول/آپدیت جزئی، یا سیاسی صرف بدون تاثیر اقتصادی.\n\n"
+        "🔒 **قانون اصلی حذف:** اگر خبر اثر قابل‌توجهی بر جهان، اقتصاد، بازار، فناوری، کریپتو یا صنعت گیم نداره، حتی اگه از منبع معتبر باشه، importance رو پایین (زیر ۴) بده.\n\n"
+        "فرمت خروجی باید دقیقاً JSON زیر باشد و هیچ متن اضافه‌ای قبل یا بعدش نباشه:\n"
+        "{\n"
+        ' "title_fa": "تیتر کوتاه و روان",\n'
+        ' "summary": ["خط ۱: چه اتفاقی افتاد", "خط ۲: چرا مهمه", "خط ۳: جزئیات مهم دیگر (اختیاری)"],\n'
+        ' "body_fa": "یک پاراگراف ۴ تا ۷ جمله‌ای، روان و کامل، که کل خبر رو با جزئیات توضیح میده.",\n'
+        ' "category": "یکی از ۶ دسته، دقیقاً همون رشته فارسی",\n'
+        ' "subcategory": "۲ تا ۴ کلمه فارسی",\n'
+        ' "tag": "کلمه کلیدی کوتاه",\n'
+        ' "importance": عدد بین 1 تا 10,\n'
+        ' "is_rumor": true یا false,\n'
+        ' "is_analysis": true یا false,\n'
+        ' "iran_relevant": true یا false\n'
+        "}"
+    )
+
+    def _parse_json_from_text(self, raw):
+        if isinstance(raw, dict):
+            return raw
+        clean = re.sub(r'<think>.*?</think>', '', str(raw), flags=re.DOTALL)
+        clean = re.sub(r'```json\s*|```', '', clean).strip()
+        m = re.search(r'\{.*\}', clean, re.DOTALL)
+        if m:
+            clean = m.group(0)
+        return json.loads(clean)
+
+    def _call_cloudflare(self, account, system_prompt, user_content, max_tokens=2000):
+        """One attempt against a single Cloudflare account. Returns parsed
+        dict or None. Caller handles retries/fallback across accounts."""
+        account_id, api_token = account
+        cf_url = f"https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/v1/chat/completions"
+        try:
+            resp = self.scraper.post(
+                cf_url,
+                headers={"Authorization": f"Bearer {api_token}", "Content-Type": "application/json"},
+                json={
+                    "model": self.cf_model,
+                    "messages": [
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": user_content},
+                    ],
+                    "temperature": 0.25,
+                    "max_tokens": max_tokens,
+                },
+                timeout=CONFIG.get('AI_TIMEOUT', 45),
+            )
+            if resp.status_code != 200:
+                logger.warning(f"CF AI HTTP {resp.status_code} (account {account_id[:6]}...): {resp.text[:200]}")
+                return None
+            body = resp.json()
+            if not body.get('success', True) and body.get('errors'):
+                logger.warning(f"CF AI error payload: {body['errors']}")
+                return None
+            try:
+                raw = body['choices'][0]['message']['content']
+            except (KeyError, IndexError, TypeError):
+                raw = body.get('result', {}).get('response', '')
+            if not raw:
+                logger.warning(f"CF AI empty response body: {str(body)[:300]}")
+                return None
+            return self._parse_json_from_text(raw)
+        except Exception as e:
+            logger.warning(f"CF AI call failed (account {account_id[:6]}...): {e}")
             return None
 
-        system_prompt = (
-            "تو یک تحلیل‌گر ارشد بازارهای مالی جهانی، کریپتو و تکنولوژی هستی که برای یک کانال خبری فارسی خلاصه می‌نویسی.\n\n"
-            "🎯 **وظیفه اصلی: فیلتر سخت‌گیرانه اهمیت.**\n"
-            "فقط اخباری که واقعاً 'خیلی مهم' هستن باید امتیاز urgency بالا بگیرن. اخبار روتین، تکراری یا کم‌اهمیت باید امتیاز پایین بگیرن.\n"
-            "این خبر باید در یکی از این سه دسته باشد: اقتصاد کلان و بازارهای مالی جهانی (نرخ بهره، تورم، سهام، نفت، طلا)، کریپتو (بیت‌کوین، اتریوم، رگولاسیون، هک، ETF)، یا تکنولوژی (شرکت‌های بزرگ تک، هوش مصنوعی، محصولات جدید، دعاوی قضایی بزرگ).\n"
-            "❌ **اخبار سیاسی صرف (انتخابات، درگیری‌های نظامی، دیپلماسی) که تاثیر مستقیم و فوری بر بازار/اقتصاد/تکنولوژی نداره را کنار بگذار و urgency پایین (1 تا 2) بده.**\n\n"
-            "🔴 قوانین نگارش:\n"
-            "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
-            "۰. فقط و فقط فارسی بنویس. هیچ کاراکتر چینی، ژاپنی یا هیچ زبان دیگری (جز اسامی خاص انگلیسی مثل نام شرکت‌ها) نباید در خروجی باشد. این قانون رو با دقت کامل رعایت کن.\n"
-            "۰۰. برای اسم افراد یا مکان‌هایی که تلفظ فارسی رایج و شناخته‌شده دارن (مثل تنگه هرمز)، فقط همون املای درست و رایج رو بنویس. اگه از تلفظ فارسی یه اسم خاص (مخصوصاً اسم افراد) مطمئن نیستی، به‌جای حدس‌زدن یه املای اشتباه، همون اسم رو به انگلیسی/لاتین بنویس. هرگز املای اختراعی یا نامطمئن برای اسم خاص ننویس.\n"
-            "۰۰۰. هر عدد رو همیشه یک‌تکه و بدون فاصله بنویس (مثلاً 4400 یا 4,400 — هرگز 4 400 با فاصله‌ی وسط). فاصله‌ی داخل عدد در متن فارسی باعث به‌هم‌ریختن ترتیب نمایش عدد میشه.\n"
-            "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
-            "۳. باید دو نسخه از خبر بنویسی، هر دو بر اساس متن کامل خبر (TEXT)، نه فقط تیتر:\n"
-            "   الف) summary: نسخه‌ی خیلی کوتاه برای تلگرام (فضا محدوده)، دقیقاً ۲ تا ۳ خط، هر خط حداکثر ۲۵ کلمه:\n"
-            "      - خط ۱: چه اتفاقی افتاد (با مهم‌ترین رقم یا جزئیات)\n"
-            "      - خط ۲: چرا مهمه / چه تاثیری داره\n"
-            "      - خط ۳ (اختیاری): یک جزئیات مهم دیگر\n"
-            "   ب) body_fa: نسخه‌ی کامل‌تر برای سایت (اینجا محدودیت فضا نداریم)، یک متن روان و پیوسته فارسی در ۴ تا ۷ جمله که کل خبر رو با جزئیات، زمینه، اعداد، نقل‌قول‌های مهم (در صورت وجود) و پیامدهای احتمالی توضیح بده. این باید یک ترجمه‌ی روان و بازنویسی‌شده باشه، نه ترجمه‌ی کلمه‌به‌کلمه.\n"
-            "   summary و body_fa هرگز نباید فقط تکرار تیتر باشن.\n"
-            "۴. تیتر (title_fa) حداکثر ۱۰ کلمه، جذاب و بدون کلمات اضافه.\n"
-            "۵. هیچ‌وقت title_fa، هیچ‌کدوم از خط‌های summary، یا body_fa رو با یک کلمه یا حرف انگلیسی/لاتین شروع نکن (مثلاً با تیکر یا اسم شرکت شروع نشه). همیشه اولین کلمه‌ی جمله باید فارسی باشه، حتی اگه لازم باشه ترتیب جمله رو کمی عوض کنی.\n\n"
-            "قواعد امتیازبندی urgency (1 تا 10):\n"
-            "- 9-10: تصمیم غافلگیرکننده فدرال‌رزرو، سقوط/رشد بزرگ بازار سهام (بالای ۳٪ در یک روز)، هک یا فروپاشی بزرگ کریپتو، تایید/رد ETF بیت‌کوین، جهش بیت‌کوین به رکورد جدید، اعلام مدل هوش‌مصنوعی انقلابی از OpenAI/Google/Anthropic.\n"
-            "- 7-8: نتایج مالی غافلگیرکننده شرکت‌های بزرگ تک، تغییر نرخ بهره، رگولاسیون مهم کریپتو، ادغام/تملک بزرگ، حکم مهم آنتی‌تراست.\n"
-            "- 4-6: گزارش‌های اقتصادی معمول (تورم، اشتغال) بدون شگفتی خاص، اخبار محصول متوسط.\n"
-            "- 1-3: اخبار روتین، تکراری، حدس و گمان، یا سیاسی صرف بدون تاثیر اقتصادی.\n\n"
-            "فرمت خروجی باید دقیقاً JSON زیر باشد و هیچ متن اضافه‌ای قبل یا بعدش نباشه:\n"
-            "{\n"
-            ' "title_fa": "تیتر کوتاه و روان",\n'
-            ' "summary": ["خط ۱: چه اتفاقی افتاد", "خط ۲: چرا مهمه", "خط ۳: جزئیات مهم دیگر (اختیاری)"],\n'
-            ' "body_fa": "یک پاراگراف ۴ تا ۷ جمله‌ای، روان و کامل، که کل خبر رو با جزئیات توضیح میده.",\n'
-            ' "category": "اقتصاد یا کریپتو یا تکنولوژی",\n'
-            ' "tag": "کلمه کلیدی کوتاه",\n'
-            ' "urgency": عدد بین 1 تا 10\n'
-            "}"
+    def _call_cloudflare_with_failover(self, system_prompt, user_content, url_for_routing, max_tokens=2000):
+        if not self.cf_accounts:
+            return None
+        start = hash(url_for_routing or '') % len(self.cf_accounts)
+        order = self.cf_accounts[start:] + self.cf_accounts[:start]
+        for account in order:
+            for attempt in range(CONFIG['AI_RETRIES']):
+                data = self._call_cloudflare(account, system_prompt, user_content, max_tokens=max_tokens)
+                if data:
+                    return data
+                time.sleep(1)
+        return None
+
+    def _call_gemini(self, system_prompt, user_content):
+        if not self.gemini_api_key:
+            return None
+        gemini_url = (
+            f"https://generativelanguage.googleapis.com/v1beta/models/"
+            f"{self.gemini_model}:generateContent"
         )
-
-        cf_url = f"https://api.cloudflare.com/client/v4/accounts/{self.cf_account_id}/ai/v1/chat/completions"
-
-        current_text = full_text
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
-                if attempt > 0:
-                    current_text = headline + " " + full_text[:800]
                 resp = self.scraper.post(
-                    cf_url,
-                    headers={"Authorization": f"Bearer {self.cf_api_token}", "Content-Type": "application/json"},
+                    gemini_url,
+                    headers={"x-goog-api-key": self.gemini_api_key, "Content-Type": "application/json"},
                     json={
-                        "model": self.cf_model,
-                        "messages": [
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": f"SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"},
-                        ],
-                        "temperature": 0.25,
-                        "max_tokens": 8000,
+                        "systemInstruction": {"parts": [{"text": system_prompt}]},
+                        "contents": [{"role": "user", "parts": [{"text": user_content}]}],
+                        "generationConfig": {
+                            "temperature": 0.25,
+                            "responseMimeType": "application/json",
+                        },
                     },
                     timeout=CONFIG.get('AI_TIMEOUT', 45),
                 )
-                if resp.status_code == 200:
-                    body = resp.json()
-                    if not body.get('success', True) and body.get('errors'):
-                        logger.error(f"CF AI error payload: {body['errors']}")
-                        time.sleep(1)
-                        continue
-                    # OpenAI-compatible shape first, fall back to raw /ai/run shape
-                    raw = ''
-                    try:
-                        raw = body['choices'][0]['message']['content']
-                    except (KeyError, IndexError, TypeError):
-                        raw = body.get('result', {}).get('response', '')
-                    if not raw:
-                        logger.error(f"AI empty response body: {str(body)[:400]}")
-                        time.sleep(1)
-                        continue
-                    if isinstance(raw, dict):
-                        data = raw
-                    else:
-                        clean = re.sub(r'<think>.*?</think>', '', str(raw), flags=re.DOTALL)
-                        clean = re.sub(r'```json\s*|```', '', clean).strip()
-                        # Some models wrap output with stray text; grab the outermost {...} block.
-                        m = re.search(r'\{.*\}', clean, re.DOTALL)
-                        if m:
-                            clean = m.group(0)
-                        data = json.loads(clean)
-                    if isinstance(data, dict) and 'title_fa' in data and 'summary' in data:
-                        return data
-                    logger.error(f"AI response missing expected keys: {str(data)[:300]}")
-                else:
-                    logger.error(f"CF AI HTTP {resp.status_code}: {resp.text[:300]}")
-                time.sleep(1)
+                if resp.status_code != 200:
+                    logger.warning(f"Gemini HTTP {resp.status_code}: {resp.text[:200]}")
+                    time.sleep(1)
+                    continue
+                body = resp.json()
+                raw = body['candidates'][0]['content']['parts'][0]['text']
+                if not raw:
+                    time.sleep(1)
+                    continue
+                return self._parse_json_from_text(raw)
             except Exception as e:
-                logger.error(f"AI Attempt {attempt+1} failed: {e}")
-                time.sleep(2)
+                logger.warning(f"Gemini call failed: {e}")
+                time.sleep(1)
+        return None
+
+    def select_with_ai(self, headline, snippet, source_name, url_for_routing):
+        """Stage A: cheap, headline-only selection/prioritization. Gemini
+        primary (higher free quota, runs over every keyword-filtered
+        candidate), Cloudflare fallback."""
+        user_content = f"SOURCE: {source_name}\nHEADLINE: {headline}\nSNIPPET: {snippet[:500]}"
+        data = self._call_gemini(self._SELECTION_PROMPT, user_content)
+        if data and 'category' in data:
+            data['_selected_by'] = 'gemini'
+            return data
+        data = self._call_cloudflare_with_failover(self._SELECTION_PROMPT, user_content, url_for_routing, max_tokens=300)
+        if data and 'category' in data:
+            data['_selected_by'] = 'cloudflare'
+            return data
+        return None
+
+    def write_with_ai(self, headline, full_text, source_name, category_hint, url_for_routing):
+        """Stage B: full-article writing/translation. Cloudflare primary
+        (rotates accounts, already-tuned Persian output), Gemini fallback."""
+        user_content = (
+            f"SOURCE: {source_name}\nCATEGORY_HINT: {category_hint}\n"
+            f"HEADLINE: {headline}\nTEXT: {full_text}"
+        )
+        data = self._call_cloudflare_with_failover(self._WRITING_PROMPT, user_content, url_for_routing, max_tokens=8000)
+        if data and 'title_fa' in data and 'summary' in data:
+            return data
+        # Fallback: trim text a bit for Gemini's single-shot call.
+        user_content_short = (
+            f"SOURCE: {source_name}\nCATEGORY_HINT: {category_hint}\n"
+            f"HEADLINE: {headline}\nTEXT: {full_text[:2000]}"
+        )
+        data = self._call_gemini(self._WRITING_PROMPT, user_content_short)
+        if data and 'title_fa' in data and 'summary' in data:
+            return data
         return None
 
     # ───────────────────────── process item ─────────────────────────
@@ -668,20 +859,43 @@ class GlobalRadar:
                 return None
 
         hint = self._cheap_urgency_hint(raw_title, publisher)
-        logger.info(f"Processing (hint={hint}, score={self._domain_score(final_url, publisher)}): {publisher} | {raw_title[:50]}...")
-
         snippet = entry.get('description', raw_title)
+
+        # Free triage gate: cut obvious junk before spending any AI call at all.
+        if hint < CONFIG.get('MIN_AI_URGENCY_HINT', 4) and len(snippet) < 200:
+            return None
+
+        # ── Stage A: selection/prioritization (headline + snippet only) ──
+        selection = self.select_with_ai(raw_title, snippet, publisher, clean_final_url)
+        if not selection:
+            logger.warning(f"Selection stage failed (no AI provider available?): {raw_title[:60]}")
+            return None
+        try:
+            prelim_importance = int(selection.get('importance', 3))
+        except Exception:
+            prelim_importance = 3
+        if prelim_importance < CONFIG.get('MIN_AI_URGENCY_HINT', 4):
+            return None
+
+        category_hint = selection.get('category', 'اقتصاد و بازار')
+        logger.info(
+            f"Processing (hint={hint}, selected_by={selection.get('_selected_by', '?')}, "
+            f"prelim={prelim_importance}, cat={category_hint}): {publisher} | {raw_title[:50]}..."
+        )
+
+        # Only scrape the full article for candidates that survived Stage A.
         text, photo_url = self.scrape_article_data(final_url, snippet, raw_image=entry.get('image'))
 
-        if hint < CONFIG.get('MIN_AI_URGENCY_HINT', 4) and len(text) < 200:
-            return None
-
-        ai = self.analyze_with_ai(raw_title, text, publisher)
+        # ── Stage B: writing/translation (full article text) ──
+        ai = self.write_with_ai(raw_title, text, publisher, category_hint, clean_final_url)
         if not ai:
             return None
+        # Fill in anything Stage B omitted with Stage A's judgment.
+        ai.setdefault('subcategory', selection.get('subcategory', ''))
+        ai.setdefault('iran_relevant', selection.get('iran_relevant', False))
 
         try:
-            urgency_val = int(ai.get('urgency', 3))
+            urgency_val = int(ai.get('importance', ai.get('urgency', 3)))
         except Exception:
             urgency_val = 3
 
@@ -690,14 +904,20 @@ class GlobalRadar:
         if urgency_val < 4:
             return None
 
+        # Rumors get dropped outright regardless of how "important" they were
+        # scored — unverified claims shouldn't reach the channel just because
+        # the underlying story is a big one.
+        if ai.get('is_rumor') is True:
+            return None
+
         try:
             ts = parser.parse(entry.get('published date')).timestamp()
         except Exception:
             ts = time.time()
 
-        category = ai.get('category', 'اقتصاد')
+        category = ai.get('category', 'اقتصاد و بازار')
         if category not in CATEGORY_FALLBACK_IMAGE:
-            category = 'اقتصاد'
+            category = 'اقتصاد و بازار'
 
         photo_url = self._pick_image(photo_url, entry.get('image'), category=category)
         news_id = self._generate_news_id(clean_final_url)
@@ -716,8 +936,10 @@ class GlobalRadar:
             "summary": [clean_fa(s) for s in ai.get('summary', [snippet])[:3]],
             "body_fa": clean_fa(ai.get('body_fa', '')),
             "category": category,
+            "subcategory": ai.get('subcategory', ''),
             "tag": ai.get('tag', 'General'),
             "urgency": urgency_val,
+            "iran_relevant": bool(ai.get('iran_relevant', False)),
             "source": publisher,
             "url": final_url,
             "clean_url": clean_final_url,
@@ -777,13 +999,13 @@ class GlobalRadar:
                 f"</tr>\n</table>\n"
             )
 
-        cat_emoji = {'اقتصاد': '📊', 'کریپتو': '🪙', 'تکنولوژی': '💻'}
+        cat_emoji = CATEGORY_EMOJI
 
         details_parts = []
         for i, it in enumerate(items_sorted, 1):
             title = esc(it.get('title_fa') or it.get('title_en'))
             source = esc(it.get('source', 'Unknown'))
-            cat = it.get('category', 'اقتصاد')
+            cat = it.get('category', 'اقتصاد و بازار')
             src_url = it.get('url') or '#'
             body_text = it.get('body_fa') or " ".join(it.get('summary', []))
             open_attr = " open" if i == 1 else ""
@@ -846,9 +1068,9 @@ class GlobalRadar:
 
         by_cat = {}
         for it in items:
-            by_cat.setdefault(it.get('category', 'اقتصاد'), []).append(it)
+            by_cat.setdefault(it.get('category', 'اقتصاد و بازار'), []).append(it)
 
-        cat_emoji = {'اقتصاد': '📊', 'کریپتو': '🪙', 'تکنولوژی': '💻'}
+        cat_emoji = CATEGORY_EMOJI
 
         lines = [f"🌐 <b>خلاصه اخبار مهم جهان</b>\n⏱ {time_str} — {date_str} (تهران)\n"]
         for cat, cat_items in by_cat.items():
@@ -957,10 +1179,13 @@ class GlobalRadar:
                 candidates.append(item)
 
             candidates.sort(
-                key=lambda x: self._domain_score(x.get('url'), x.get('publisher', {}).get('title', '')),
+                key=lambda x: (
+                    self._cheap_urgency_hint(x.get('title', ''), x.get('publisher', {}).get('title', '')),
+                    self._domain_score(x.get('url'), x.get('publisher', {}).get('title', '')),
+                ),
                 reverse=True
             )
-            candidates = candidates[:CONFIG.get('MAX_CANDIDATES', 20)]
+            candidates = candidates[:CONFIG.get('MAX_CANDIDATES', 30)]
             logger.info(f"Total fetched: {len(results)} | Candidates: {len(candidates)}")
 
         new_items = []
