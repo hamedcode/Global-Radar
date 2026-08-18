@@ -1,5 +1,49 @@
 [
   {
+    "id": "a3b7fb516b",
+    "title_fa": "‏درآمد ۱۴ برابری Anthropic باعث جهش سهام چیپ شد",
+    "title_en": "Marvell Technology, FormFactor, and Applied Materials Shares Are Soaring, What...",
+    "summary": [
+      "‏شرکت هوش مصنوعی Anthropic درآمد سه ماهه دوم را بیش از ۱۴ برابر به 11.5 میلیارد دلار ارتقا داد.",
+      "‏این خبر باعث شد سهام مارول، فرم‌فاکتور و آپلاید متریالز به‌طور متوسط ۵ تا ۶ درصد افزایش یابد.",
+      "‏بلومبرگ پیش‌بینی می‌کند درآمد Anthropic تا سال 2028 به حدود 190-200 میلیارد دلار برسد."
+    ],
+    "body_fa": "‏بلومبرگ گزارش داد که Anthropic ، شرکت هوش مصنوعی، درآمد سه ماهه دوم را از 787 میلیون دلار در سال گذشته به بیش از 11.5 میلیارد دلار ارتقا داده است، که بیش از ۱۴ برابر رشد است. این افزایش باعث شد برای اولین بار سود عملیاتی تنظیم‌شده مثبت شود. ارقام هنوز ممکن است بازنگری شوند، اما نشان می‌دهد تقاضا برای پردازنده‌ها، حافظه و ذخیره‌سازی مرتبط با هوش مصنوعی در حال گسترش است. به‌دلیل این خبر، سهام شرکت‌های نیمه‌رسانا مانند مارول تکنولوژی (5.8 ٪)، فرم‌فاکتور (5.4 ٪) و آپلاید متریالز (5.9 ٪) در جلسه بعدازظهر بالا رفت. بلومبرگ همچنین پیش‌بینی کرد که درآمد Anthropic تا سال 2028 به حدود 190-200 میلیارد دلار خواهد رسید. در همین زمان، وزیر تجارت آمریکا اعلام کرد که دولت مخالف استفاده اپل از حافظه‌های چینی است، که می‌تواند تقاضا برای حافظه‌های تولید شده توسط میکرون، سامسونگ و اس‌کی‌های‌نیکس را تقویت کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "StockStory · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-formfactor-applied-materials-013420673.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-formfactor-applied-materials-013420673.html",
+    "image": "https://media.zenfs.com/en/stockstory_922/d0c508e063f679ea538d34e866cf1d98.jpg",
+    "timestamp": 1787018086.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "06acf3bdf0",
+    "title_fa": "‏میکرون و وسترن دیجیتال پس از اظهارات لوتنیک 5‑6 ٪ رشد",
+    "title_en": "Micron and Western Digital Shares Are Soaring, What You Need To Know",
+    "summary": [
+      "‏میکرون و وسترن دیجیتال پس از اظهارات لوتنیک درباره مخالفت ترامپ با خرید اپل از حافظه‌های چینی، 5‑6 ٪ جهش یافتند.",
+      "‏این خبر نشان می‌دهد تقاضای حافظه‌های AI‑محور برای سال‌های آینده پابرجاست و فشار بر عرضه چینی را کاهش می‌دهد.",
+      "‏ساندیسک پیش‌بینی رشد 15‑18 ٪ درآمد تا 2030 و حاشیه سود حدود 80 ٪ ارائه داد."
+    ],
+    "body_fa": "‏در جلسه بعدازظهر، سهام میکرون و وسترن دیجیتال به ترتیب 5.8 ٪ و 5.4 ٪ افزایش یافتند؛ پس از آنکه وزیر تجارت آمریکا، هاوارد لوتنیک، اعلام کرد دولت ترامپ مخالف خرید اپل از حافظه‌های چینی است. لوتنیک افزود این موضع باعث می‌شود تقاضا به سمت تولیدکنندگان آمریکایی و آسیایی مانند میکرون، سامسونگ و SK hynix منتقل شود. این اظهارات پس از به‌روزرسانی‌های مثبت ساندیسک درباره رشد دو رقمی درآمد تا سال 2030 و حاشیه سود بالای 80 ٪ منتشر شد. تحلیل‌گران این حرکت را نشانه‌ای از تنگنای طولانی‌مدت حافظه‌های NAND و DRAM مرتبط با هوش مصنوعی می‌دانند. در نتیجه، سرمایه‌گذاران به‌سرعت به این سهام فناوری‌محور روی آوردند.",
+    "category": "تکنولوژی",
+    "subcategory": "سهم‌های فناوری",
+    "tag": "حافظه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "StockStory · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-soaring-004620344.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-soaring-004620344.html",
+    "image": "https://media.zenfs.com/en/stockstory_922/dcf057c27655d03a050775ca9f19c022.jpg",
+    "timestamp": 1787014486.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "701e6b933c",
     "title_fa": "‏قیمت بالای کنسول‌های بازی؛ دلایل و پیامدها",
     "title_en": "Why Are Video Game Consoles So Expensive These Days (And Games Historically...",
@@ -85,6 +129,28 @@
     "clean_url": "https://www.fxempire.com/forecasts/article/gold-news-can-a-softer-dollar-keep-gold-prices-underpinned-before-fed-minutes-1617164",
     "image": "https://s.yimg.com/bo/ae22cfdf-7fe1-5dbf-8354-c33414b6a94e_1786971887433.jpg",
     "timestamp": 1786970272.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c0396c150a",
+    "title_fa": "‏متل استودیو جدیدی برای Roblox و Fortnite راه‌اندازی کرد",
+    "title_en": "Toymaker Mattel launches a new game studio with a focus on Roblox and Fortnite",
+    "summary": [
+      "‏متل استودیو بازی جدیدی راه‌اندازی کرد که روی Roblox و Fortnite تمرکز دارد",
+      "‏این حرکت نشان می‌دهد شرکت‌های اسباب‌بازی به دنبال درآمد از پلتفرم‌های آنلاین هستند",
+      "‏استودیو به Steam یا کنسول‌ها علاقه‌ای نشان نمی‌دهد"
+    ],
+    "body_fa": "‏متل گیم استودیو یک استودیو بازی جدید راه‌اندازی کرده که به‌طور خاص بر روی پلتفرم‌های Roblox و Fortnite متمرکز است. این تصمیم نشان می‌دهد شرکت‌های اسباب‌بازی به دنبال کسب درآمد از بازی‌های آنلاین و جامعهٔ جوانان هستند. استودیو جدید قصد دارد محتواهای جذاب برای کاربران این دو پلتفرم تولید کند و به‌جای تمرکز بر Steam یا کنسول‌های سنتی عمل کند. این گام بخشی از روند گسترده‌تر ورود شرکت‌های غیر‌گیمینگ به بازار بازی‌های دیجیتال است. انتظار می‌رود این استودیو بتواند فرصت‌های تجاری جدیدی برای متل ایجاد کند.",
+    "category": "گیم",
+    "subcategory": "استودیو جدید",
+    "tag": "Mattel",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "PC Gamer on MSN",
+    "url": "https://www.msn.com/en-us/money/general/toymaker-mattel-launches-a-new-game-studio-with-a-focus-on-roblox-and-fortnite/ar-AA2ak78D",
+    "clean_url": "https://www.msn.com/en-us/money/general/toymaker-mattel-launches-a-new-game-studio-with-a-focus-on-roblox-and-fortnite/ar-AA2ak78D",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1786967182.0,
     "sent_to_telegram": true
   },
   {
