@@ -1,5 +1,27 @@
 [
   {
+    "id": "65c580dcaf",
+    "title_fa": "‏محدودیت‌های صادراتی آمریکا به شرکت‌های تراشه‌ساز آسیب می‌رساند",
+    "title_en": "With Export Controls, Nvidia, AMD And Intel Lose Much More Than Sales",
+    "summary": [
+      "‏آمریکا با اعمال محدودیت‌های صادراتی، فروش Nvidia ، AMD و Intel به چین را کاهش داد.",
+      "‏این سیاست نه تنها فروش را کم می‌کند، بلکه دانش مشتری و نوآوری‌های بلندمدت این شرکت‌ها را تهدید می‌کند.",
+      "‏در عوض شرکت‌های چینی مانند Hua Hong Grace و SMIC سودهای تا 385 ٪ ثبت کردند."
+    ],
+    "body_fa": "‏دولت ایالات متحده تحت رهبری بایدن و کنگره محدودیت‌های صادراتی جدیدی برای شرکت‌های تولیدکننده تراشه اعمال کرده‌اند. این اقدامات باعث شد تا Nvidia ، AMD و Intel دسترسی به بازار چین را از دست بدهند و فروش کوتاه‌مدت خود را کاهش دهند. اما خسارت واقعی فراتر از فروش است؛ شرکت‌های آمریکایی از دست دادن دانش عمیق مشتریان و روابط کلیدی که برای نوآوری‌های آینده ضروری است، رنج می‌برند. در همین حال، شرکت‌های چینی مانند Hua Hong Grace و SMIC با سودهای تا 385 ٪ به دلیل تقاضای داخلی برای چیپ‌های هوش مصنوعی بدون محدودیت‌های آمریکا رشد چشمگیری داشته‌اند. این روند به هدف خودکفایی چین در زمینه نیمه‌رساناها نزدیک‌تر می‌شود و توان رقابتی بلندمدت صنعت فناوری آمریکا را تحت فشار قرار می‌دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "صنعت نیمه‌رسانا",
+    "tag": "صادرات‌چیپ",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/johntamny/2026/08/18/with-export-controls-nvidia-amd--intel-lose-much-more-than-sales/",
+    "clean_url": "https://www.forbes.com/sites/johntamny/2026/08/18/with-export-controls-nvidia-amd--intel-lose-much-more-than-sales",
+    "image": "https://s.yimg.com/bo/0a1c1ee9-5dd3-5fa1-92ff-48df408c583f_1787098299303.jpg",
+    "timestamp": 1787061307.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "3b3503617f",
     "title_fa": "‏هک‌گر \"Hatman\" میلیون‌ها رکورد کارمندی شرکت‌های بزرگ را فاش کرد",
     "title_en": "Millions of stolen records allegedly dumped online by mystery \"Hatman\" hacker — ...",
@@ -19,6 +41,50 @@
     "clean_url": "https://tech.yahoo.com/cybersecurity/articles/millions-stolen-records-allegedly-dumped-130000483.html",
     "image": "https://media.zenfs.com/en/techradar_949/a2fc2478f4bcc524d23d9b1aa3ab719c.jpg",
     "timestamp": 1787057596.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5170d236be",
+    "title_fa": "‏کمیسیون بورس آمریکا اولین قانون بزرگ کریپتو را پیشنهاد کرد",
+    "title_en": "U.S. SEC proposes first major crypto rule in surprise announcement",
+    "summary": [
+      "‏کمیسیون بورس و اوراق بهادار آمریکا (SEC) قانون پیشنهادی جدیدی برای کریپتو منتشر کرد.",
+      "‏قانون هدفش تسهیل عرضه اوراق بهادار دیجیتال بدون نقض قوانین موجود است.",
+      "‏این اقدام ناگهانی می‌تواند بازارهای رمزارز و برنامه‌های ETF را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏کمیسیون بورس و اوراق بهادار ایالات متحده (SEC) در یک اعلامیه ناگهانی، پیشنهادی برای قانون جدید در حوزه رمزارزها ارائه داد. این قانون قصد دارد چارچوبی واضح برای عرضه اوراق بهادار دیجیتال فراهم کند تا شرکت‌ها بدون خطر نقض قوانین فعلی بتوانند توکن‌های خود را به بازار عرضه کنند. در متن پیشنهادی، تعریف دقیق «ارزش‌گذاری» برای توکن‌ها و شرایط استفاده از «محافظت‌پذیری» برای پلتفرم‌های معاملاتی ذکر شده است. انتظار می‌رود این اقدام مسیر راه‌اندازی صندوق‌های ETF مبتنی بر کریپتو را هموارتر کند و فشارهای نظارتی را کاهش دهد. واکنش اولیه بازار مثبت بود و برخی رمزارزها پس از انتشار خبر رشد کوتاه‌مدتی نشان دادند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "SEC",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/08/18/r",
+    "clean_url": "https://www.coindesk.com/policy/2026/08/18/r",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1787055000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b6e9b1ce50",
+    "title_fa": "‏نتفلیکس شش هفته پس از تحسین، NightSchool Studio را بست",
+    "title_en": "Netflix shut down the Oxenfree studio six weeks after praising its new game",
+    "summary": [
+      "‏نتفلیکس شش هفته پس از تحسین بازی جدید، Night School Studio و استودیوی هلسینکی Moonloot را بسته.",
+      "‏این اقدام نشان‌دهنده تغییر استراتژی نتفلیکس در حوزه بازی و احتمال کاهش سرمایه‌گذاری در استودیوهای مستقل است.",
+      "‏بسته شدن این دو استودیو منجر به حذف شغل‌های نامشخص در هلسینکی و سایر مکان‌ها شد."
+    ],
+    "body_fa": "‏نتفلیکس در سال ۲۰۲۱ Night School Studio را که سازنده بازی مشهور Oxenfree بود، خریداری کرد. پس از انتشار بازی جدید این استودیو، شرکت در رسانه‌ها به شدت از آن تعریف کرد. اما تنها شش هفته پس از این تحسین، نتفلیکس اعلام کرد که Night School Studio و استودیوی هلسینکی Moonloot را بسته و برنامه‌های کاهش نیروی کار را اجرا می‌کند. جزئیات دقیق درباره تعداد شغل‌های از دست رفته منتشر نشده، اما گفته شده که این تصمیم بخشی از بازنگری استراتژیک شرکت در بخش بازی‌های ویدئویی است. بسته شدن این استودیوها نشان می‌دهد که نتفلیکس ممکن است تمرکز خود را از تولید محتواهای تعاملی به سمت تولید محتوای ویدئویی سنتی یا دیگر حوزه‌ها تغییر دهد. این خبر واکنش‌های متفاوتی در جامعه گیمینگ به‌وجود آورد و نگرانی‌ها درباره آینده استودیوهای مستقل تحت مالکیت پلتفرم‌های استریمینگ را تشدید کرد.",
+    "category": "گیم",
+    "subcategory": "بسته شدن استودیو",
+    "tag": "NightSchoolStudio",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Clownfish TV on MSN",
+    "url": "https://www.msn.com/en-us/money/other/netflix-shut-down-the-oxenfree-studio-six-weeks-after-praising-its-new-game/ar-AA2aptSM",
+    "clean_url": "https://www.msn.com/en-us/money/other/netflix-shut-down-the-oxenfree-studio-six-weeks-after-praising-its-new-game/ar-AA2aptSM",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1787053204.0,
     "sent_to_telegram": true
   },
   {
