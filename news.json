@@ -1,5 +1,71 @@
 [
   {
+    "id": "11310b57db",
+    "title_fa": "‏صادرات یترم نادر چین به آمریکا در ژوئیه افزایش یافت",
+    "title_en": "China exports to US rise of rare earth critical to aerospace sector",
+    "summary": [
+      "‏صادرات یترم نادر چین به آمریکا در ماه ژوئیه نسبت به ماه قبل افزایش یافت.",
+      "‏این عنصر برای ساخت قطعات هوافضا حیاتی است و می‌تواند تأثیرات ژئوپلیتیکی و زنجیره تأمین ایالات متحده داشته باشد.",
+      "‏داده‌های گمرکی چین این رشد را تأیید کرد."
+    ],
+    "body_fa": "‏داده‌های گمرکی چین نشان داد که صادرات یترم، یکی از عناصر نادر ضروری برای صنعت هوافضا، در ماه ژوئیه به ایالات متحده افزایش یافته است. یترم برای تولید پره‌های توربینی، لیزرها و سایر قطعات پیشرفته هوافضایی به‌کار می‌رود و تقاضای آن در آمریکا رو به رشد است. این افزایش صادرات می‌تواند وابستگی آمریکا به منابع چینی را در بخش حساس هوافضا تقویت کند و نگرانی‌های ژئوپلیتیکی مرتبط با زنجیره تأمین مواد کمیاب را تشدید نماید. در عین حال، مقامات آمریکایی ممکن است برای تنوع‌بخشی به منابع این عنصر اقداماتی را مدنظر داشته باشند. این روند نشان‌دهنده تغییرات در تعامل تجاری دو کشور در حوزه‌های استراتژیک است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "صنعت هوافضا",
+    "tag": "یترم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/china-exports-us-rise-rare-earth-critical-aerospace-sector-2026-08-20/",
+    "clean_url": "https://www.reuters.com/world/asia-pacific/china-exports-us-rise-rare-earth-critical-aerospace-sector-2026-08-20",
+    "image": "https://s.yimg.com/bo/1bebf3e0-1909-54fc-9c80-5453fbdee812_1787238912975.jpg",
+    "timestamp": 1787237772.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f5e25f1b14",
+    "title_fa": "‏سوپرمایکر مدیریت ارشد را در تحقیق صادراتی پاک کرد",
+    "title_en": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence...",
+    "summary": [
+      "‏سوپرمایکر اعلام کرد که تحقیقات مستقل هیچ مدرکی از آگاهی مدیریت ارشد درباره طرح تخلف صادراتی نشان نداده است.",
+      "‏این خبر باعث شد سهام شرکت تقریباً ۵٪ در صبح روز پنجشنبه افزایش یابد.",
+      "‏شرکت همچنین اقدام به اخراج چند کارمند و تقویت برنامه‌های انطباق صادراتی کرد."
+    ],
+    "body_fa": "‏سوپرمایکر (Super Micro Computer Inc.) اعلام کرد که پس از یک تحقیق مستقل، هیچ مدرکی مبنی بر آگاهی مدیریت ارشد درباره یک طرح تخلف در کنترل صادرات یافت نشد. این تحقیق همچنین نشان داد که شرکت به‌صورت مستقیم محصولات تحت کنترل صادراتی را به طرف‌های محدود یا به مکان‌های ممنوع نپیوسته است و صورت‌های مالی پیشین نیز تحت تأثیر این ادعاها نیستند. در پی نتایج، سوپرمایکر اقدام به اخراج چند کارمند در بخش‌های فروش، پشتیبانی فنی و توسعه کسب‌وکار کرد که قوانین داخلی و کد رفتار شرکت را نقض کرده بودند. علاوه بر این، شرکت توصیه‌های هیئت‌مدیران مستقل را برای تقویت برنامه انطباق صادراتی پذیرفت و برخی اقدامات را که تحت نظارت مشاور حقوقی و مسئول انطباق انجام شده بود، اجرا کرد. سهام سوپرمایکر پس از انتشار این خبر، در آغاز معاملات پنجشنبه نزدیک به ۵٪ افزایش یافت و این نماد یکی از پرطرفدارترین نمادهای Stocktwits شد.",
+    "category": "تکنولوژی",
+    "subcategory": "حاکمیت شرکتی",
+    "tag": "Supermicro",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Stocktwits · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/smci-clears-senior-management-export-140211442.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/smci-clears-senior-management-export-140211442.html",
+    "image": "https://media.zenfs.com/en/stocktwits_383/feeaada0a77072e384696d6ebf830845",
+    "timestamp": 1787234172.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e70cf93e7a",
+    "title_fa": "‏XRP بیش از ۲۰٪ رشد کرد و به پنجم رسید",
+    "title_en": "XRP climbs to 5th on crypto rankings after rallying over 20%",
+    "summary": [
+      "‏XRP در ۲۴ ساعت بیش از ۲۰٪ افزایش یافت و به رتبه پنجم بازار رسید.",
+      "‏این جهش ناشی از خرید دوبل اوراق خزانه‌داری آمریکا و لکوئیدیشن‌های کوتاه‌فروش بود که ۳.۳ میلیارد دلار حجم داشت.",
+      "‏این حرکت نشان‌دهنده تأثیر سیاست‌های مالی بر بازارهای رمزارز است."
+    ],
+    "body_fa": "‏دولت آمریکا تصمیم گرفت خرید اوراق قرضه خود را دو برابر کند. این اقدام باعث شد تا حدود ۳.۳ میلیارد دلار در موقعیت‌های کوتاه‌فروش رمزارزها منقضی شود. نتیجه این لکوئیدیشن، صعود بیش از ۲۰٪ در قیمت XRP در طول ۲۴ ساعت بود. با این رشد، XRP به رتبه پنجم فهرست رمزارزهای برتر جهان ارتقا یافت. دیدار دونالد ترامپ با مدیرعامل Ripple ، براد گارلینگهوس، نشان از توجه مقامات سیاسی به این بازار دارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت رمزارزها",
+    "tag": "XRP",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "24/7 Wall St. on MSN",
+    "url": "https://www.msn.com/en-us/money/markets/xrp-climbs-to-5th-on-crypto-rankings-after-rallying-over-20/ar-AA2azkmJ",
+    "clean_url": "https://www.msn.com/en-us/money/markets/xrp-climbs-to-5th-on-crypto-rankings-after-rallying-over-20/ar-AA2azkmJ",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1787217863.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "415bd2b978",
     "title_fa": "‏قانون جدید آمریکا مالیات ۱۰۰٪ بر صادرات هندی می‌گذارد",
     "title_en": "Sanction-proofing India’s interests and autonomy",
@@ -19,6 +85,72 @@
     "clean_url": "https://www.hindustantimes.com/opinion/sanctionproofing-india-s-interests-and-autonomy-101787159048144.html",
     "image": "https://www.bing.com/th?id=ONUT.py9OsrRb-1Hfjp-iT4nFIQ",
     "timestamp": 1787205424.25918,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5c3285d49c",
+    "title_fa": "‏سهام Circle پس از رشد رمزارزها ۴۳٪ جهش کرد",
+    "title_en": "Circle stock jumps amid a crypto rally, but major USDC risks remain",
+    "summary": [
+      "‏سهام Circle پس از رشد رمزارزها ۴۳٪ از پایین‌ترین سطح سال به ۸۳.۱۳ دلار رسید.",
+      "‏این افزایش به دلیل بازگشت بیت‌کوین، جریان‌های ETF و تاریخ راه‌اندازی لایه‌۱ Arc است.",
+      "‏اما کاهش سرمایه بازار USDC از ۸۰ به ۷۲ میلیارد دلار، ریسک اصلی برای رشد آینده Circle است."
+    ],
+    "body_fa": "‏سهام Circle Internet Group در این هفته به بالاترین سطح خود از ۲۲ ژوئن رسید و پس از پایین‌ترین قیمت سال، ۴۳٪ افزایش یافت. این جهش هم‌زمان با بازگشت قوی بیت‌کوین و اکثر آلت‌کوین‌ها و ورود بیش از ۱٫۴ میلیارد دلار به ETF های بیت‌کوین و ۵۳۴ میلیون دلار به ETF های اتریوم در ماه جاری رخ داد. شرکت همچنین با اعلام تاریخ راه‌اندازی لایه‌۱ Arc برای ۱۶ سپتامبر، یک محرک خاص شرکت‌محور به بازار اضافه کرد. با این حال، سرمایه بازار استیبل‌کوین USDC از بیش از ۸۰ میلیارد دلار به حدود ۷۲٫۴ میلیارد دلار کاهش یافته که می‌تواند فشار بر درآمدهای Circle وارد کند. اگر جذب کاربران به Arc به سرعت پیش نرود و USDC سهم بازار خود را از دست بدهد، رشد سهام ممکن است متوقف یا حتی معکوس شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سهام کریپتو",
+    "tag": "Circle",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Invezz",
+    "url": "https://invezz.com/news/2026/08/20/circle-stock-jumps-amid-a-crypto-rally-but-major-usdc-risks-remain/",
+    "clean_url": "https://invezz.com/news/2026/08/20/circle-stock-jumps-amid-a-crypto-rally-but-major-usdc-risks-remain",
+    "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/04/Circle.png",
+    "timestamp": 1787200200.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c28175081a",
+    "title_fa": "‏کریپتو، هوش مصنوعی و شرط‌بندی هزینه‌انتخاباتی آمریکا را رکورد کردند",
+    "title_en": "Crypto, AI and betting firms drive record US midterm spending",
+    "summary": [
+      "‏صنایع کریپتو، هوش مصنوعی و شرط‌بندی در انتخابات میانه‌دوره 2026 آمریکا، ۵۱۷ میلیون دلار هزینه کردند.",
+      "‏این هزینه رکوردی نشان می‌دهد که این صنایع در شکل‌دادن به سیاست‌های نظارتی و مالی نقش کلیدی می‌گیرند.",
+      "‏ریسک اصلی، اعمال محدودیت‌های سخت‌گیرانه توسط نهادهای نظارتی است که می‌تواند رشد این شرکت‌ها را تهدید کند."
+    ],
+    "body_fa": "‏صنایع کریپتو، هوش مصنوعی و شرط‌بندی در انتخابات میانه‌دوره 2026 ایالات متحده، تا پایان سه‌ماهه اول، ۵۱۷ میلیون دلار هزینه سیاسی صرف کرده‌اند. این رقم از هزینه کل شرکتی در دوره دو ساله انتخابات ۲۰۲۴ که ۴۶۱ میلیون دلار بود، پیشی گرفته و رکورد جدیدی ثبت می‌کند. شرکت‌های بزرگ مانند Coinbase و DraftKings از طریق سوپ‌پک‌ها و PAC های وابسته، به نامزدهای دوستدار خود کمک مالی می‌کنند تا قوانین نظارتی و مالی به نفعشان تنظیم شود. در عین حال، قانونگذاران به‌طور فزاینده‌ای به نظارت بر این حوزه‌ها می‌پردازند و ریسک اصلی برای این صنایع، اعمال محدودیت‌های سخت‌گیرانه یا مالیات‌های بالاتر توسط نهادهای فدرال یا ایالتی است. اگر چنین محدودیت‌هایی اعمال شود، می‌تواند رشد و حاشیه سود این شرکت‌ها را تحت فشار قرار دهد، حتی اگر سیاست‌های فدرال‌تری خوشایند باشد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "هزینه‌های انتخاباتی",
+    "tag": "هزینه‌انتخاباتی",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Invezz",
+    "url": "https://invezz.com/news/2026/08/20/crypto-ai-and-betting-firms-drive-record-us-midterm-spending/",
+    "clean_url": "https://invezz.com/news/2026/08/20/crypto-ai-and-betting-firms-drive-record-us-midterm-spending",
+    "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/08/US-Capitol-building.png",
+    "timestamp": 1787200020.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2d0e692268",
+    "title_fa": "‏بدهی عمومی جهان به نزدیک صد درصد تولید ناخالص می‌رسد",
+    "title_en": "Global Sovereign Debt: Are We Heading Towards a Debt Crisis?",
+    "summary": [
+      "‏بدهی دولتی جهان تا سال 2029 به حدود 100 ٪ تولید داخلی خواهد رسید.",
+      "‏این افزایش با بهره‌های بلندمدت بالا برای اقتصادهای پیشرفته همراه است و خطر بحران بدهی را ایجاد می‌کند.",
+      "‏فشار بر اقتصادهای نوظهور مانند هند و چین می‌تواند منجر به خروج سرمایه و تورم مالی شود."
+    ],
+    "body_fa": "‏در بحران مالی جهانی پیشین، بدهی‌های عمومی به سرعت افزایش یافت اما هزینه‌های استقراض پایین بود و فشار کمتری ایجاد می‌کرد. امروز، بازدهی اوراق بلندمدت در اقتصادهای پیشرفته به نزدیک 5 ٪ رسیده و هزینه‌های استقراض به شدت بالا رفته است. پیش‌بینی‌ها نشان می‌دهد تا سال 2029 بدهی عمومی جهانی تقریباً 100 ٪ از تولید ناخالص داخلی خواهد شد. این روند عمدتاً توسط ایالات متحده، ژاپن و فرانسه که بدهی‌هایشان به 250 ٪ از تولید داخلی نزدیک است، تقویت می‌شود. در میان اقتصادهای نوظهور، چین و هند به دلیل هزینه‌های بالای استقراض ممکن است با خروج سرمایه و فشار بر ارزهای خود مواجه شوند. در نتیجه، دولت‌ها ممکن است هزینه‌های رفاهی، سرمایه‌گذاری‌های اقلیمی و مالیات‌ها را افزایش دهند تا بار بدهی را مدیریت کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بدهی عمومی",
+    "tag": "بدهی",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Deccan Chronicle",
+    "url": "https://www.deccanchronicle.com/business/economics/global-sovereign-debt-are-we-heading-towards-a-debt-crisis-1980848",
+    "clean_url": "https://www.deccanchronicle.com/business/economics/global-sovereign-debt-are-we-heading-towards-a-debt-crisis-1980848",
+    "image": "https://www.deccanchronicle.com/h-upload/2026/08/20/2079108-untitled-design-71.jpg",
+    "timestamp": 1787196180.0,
     "sent_to_telegram": true
   },
   {
