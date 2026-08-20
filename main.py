@@ -45,6 +45,8 @@ CONFIG = {
         # گیم
         '(PlayStation OR Xbox OR Nintendo OR Steam) major announcement OR acquisition',
         'game studio (acquisition OR shutdown OR layoffs)',
+        '(console OR "Nintendo Switch" OR PS5 OR Xbox) jailbreak OR "custom firmware" OR "modchip"',
+        '(Denuvo OR DRM) cracked OR bypassed major game',
     ],
     'TARGET_SOURCES': [
         'bloomberg.com', 'reuters.com', 'cnbc.com', 'wsj.com', 'ft.com',
@@ -290,12 +292,13 @@ class GlobalRadar:
             'hack', 'collapse', 'bankrupt', 'rate cut', 'rate hike', 'fed', 'sec sues',
             'approve', 'antitrust', 'breakthrough', 'exploit', 'sanction', 'sanctions',
             'strait of hormuz', 'suez canal', 'export control', 'acquire', 'acquisition',
-            'shutdown', 'shuts down', 'mass layoffs',
+            'shutdown', 'shuts down', 'mass layoffs', 'jailbreak', 'jailbroken', 'cracked',
         ]
         mid = [
             'earnings', 'inflation', 'ipo', 'merger', 'lawsuit', 'launch',
             'tariff', 'opec', 'oil price', 'gold price', 'trade war', 'stablecoin',
-            'regulation', 'etf', 'layoffs', 'console', 'studio',
+            'regulation', 'etf', 'layoffs', 'console', 'studio', 'crack', 'denuvo',
+            'drm', 'piracy', 'modchip', 'custom firmware',
         ]
         if any(w in t for w in high):
             score += 3
@@ -622,8 +625,12 @@ class GlobalRadar:
         "  ۳. ژئوپلیتیک و سیاست اقتصادی (تحریم، تعرفه، تجارت جهانی، تنگه هرمز، کانال سوئز، آمریکا-چین، درگیری‌های مؤثر بر اقتصاد جهانی)\n"
         "  ۴. تکنولوژی (AI، نیمه‌هادی، Big Tech، سایبرسکیوریتی، فضا، رباتیک، خودروی خودران، بیوتک)\n"
         "  ۵. کریپتو و بلاکچین (بیت‌کوین، اتریوم، ETF، رگولاسیون، هک صرافی/پروتکل)\n"
-        "  ۶. گیم (کنسول، استودیوهای بزرگ، بازی‌های AAA، خرید/ادغام/تعطیلی استودیو، اخراج گسترده)\n"
+        "  ۶. گیم (کنسول، استودیوهای بزرگ، بازی‌های AAA، خرید/ادغام/تعطیلی استودیو، اخراج گسترده، جیلبریک/هک شدن کنسول‌ها، کرک شدن قفل DRM/Denuvo بازی‌های بزرگ)\n"
         "اگر خبر در هیچ‌کدام از این ۶ دسته نمی‌گنجد (مثلاً سیاست داخلی صرف، ورزش، سرگرمی عمومی)، importance رو خیلی پایین (1) بده.\n\n"
+        "🔁 **چک تکراری بودن:** یک لیست از تیترهای فارسی اخباری که همین اواخر منتشر شده بهت داده میشه (زیر HEADLINE/SNIPPET). "
+        "این خبر رو با اون لیست مقایسه کن. اگر همون رویداد/داستان قبلاً منتشر شده — حتی اگه این منبع با کلمات یا زاویه‌ی متفاوت "
+        "(مثلاً یکی روی اسم شخص تمرکز کرده، یکی روی اسم شرکت/استودیو) همون خبر رو نوشته باشه — `is_duplicate` رو true بده. "
+        "فقط وقتی false بده که این واقعاً یک رویداد/خبر جدید و متفاوت باشه.\n\n"
         "importance (1 تا 10) فقط یک تخمین اولیه است — همینه که تعیین می‌کنه آیا ارزش بررسی کامل رو داره:\n"
         "9-10: احتمالاً یک خبر خیلی بزرگ (سقوط بازار، هک بزرگ، تصمیم غافلگیرکننده فدرال‌رزرو، تحریم بزرگ). "
         "4-8: احتمالاً قابل‌توجه ولی نه لزوماً خیلی بزرگ. 1-3: احتمالاً روتین/کم‌اهمیت/شایعه/تحلیل شخصی/بی‌ربط.\n\n"
@@ -632,7 +639,8 @@ class GlobalRadar:
         ' "category": "دقیقاً یکی از ۶ رشته‌ی فارسی بالا",\n'
         ' "subcategory": "۲ تا ۴ کلمه فارسی",\n'
         ' "importance": عدد بین 1 تا 10,\n'
-        ' "iran_relevant": true یا false\n'
+        ' "iran_relevant": true یا false,\n'
+        ' "is_duplicate": true یا false\n'
         "}"
     )
 
@@ -657,7 +665,7 @@ class GlobalRadar:
         "      - خط ۳ (اختیاری): یک جزئیات مهم دیگر\n"
         "   ب) body_fa: نسخه‌ی کامل‌تر برای سایت (اینجا محدودیت فضا نداریم)، یک متن روان و پیوسته فارسی در ۴ تا ۷ جمله که کل خبر رو با جزئیات، زمینه، اعداد، نقل‌قول‌های مهم (در صورت وجود) و پیامدهای احتمالی توضیح بده. این باید یک ترجمه‌ی روان و بازنویسی‌شده باشه، نه ترجمه‌ی کلمه‌به‌کلمه.\n"
         "   summary و body_fa هرگز نباید فقط تکرار تیتر باشن.\n"
-        "۴. تیتر (title_fa) حداکثر ۱۰ کلمه، جذاب و بدون کلمات اضافه.\n"
+        "۴. تیتر (title_fa) حداکثر ۱۰ کلمه، جذاب و بدون کلمات اضافه. تیتر باید یک جمله‌ی کامل و درست دستوری فارسی باشه — حتماً فعل داشته باشه و فعلش با فاعل و زمان جمله درست صرف شده باشه (نه یک عبارت ناقص بدون فعل، و نه فعل با صرف غلط). قبل از نهایی‌کردن تیتر، خودت یک بار جمله رو از نظر دستوری بررسی کن.\n"
         "۵. هیچ‌وقت title_fa، هیچ‌کدوم از خط‌های summary، یا body_fa رو با یک کلمه یا حرف انگلیسی/لاتین شروع نکن. همیشه اولین کلمه‌ی جمله باید فارسی باشه، حتی اگه لازم باشه ترتیب جمله رو کمی عوض کنی.\n\n"
         "قواعد امتیازبندی importance (1 تا 10):\n"
         "- 9-10: تصمیم غافلگیرکننده فدرال‌رزرو، سقوط/رشد بزرگ بازار سهام (بالای ۳٪ در یک روز)، هک یا فروپاشی بزرگ کریپتو، تایید/رد ETF بیت‌کوین، جهش بیت‌کوین به رکورد جدید، اعلام مدل هوش‌مصنوعی انقلابی، تحریم/تعرفه بزرگ با اثر جهانی، اختلال بزرگ در تنگه هرمز یا کانال سوئز، خرید/تعطیلی بزرگ در صنعت گیم.\n"
@@ -779,11 +787,30 @@ class GlobalRadar:
                 time.sleep(1)
         return None
 
+    def _recent_titles_context(self, hours=72, limit=60):
+        """Compact list of recently published titles (across the site's
+        history, not just this run) for the AI to check semantic duplicates
+        against — catches 'same story, different source/wording' cases that
+        plain token-overlap matching misses (e.g. one source frames it around
+        a person's name, another around the studio/company name)."""
+        cutoff = time.time() - hours * 3600
+        recent = [
+            it for it in self.existing_news
+            if it.get('timestamp', 0) >= cutoff and it.get('title_fa')
+        ]
+        recent.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+        lines = [f"- [{it.get('category', '')}] {it['title_fa']}" for it in recent[:limit]]
+        return "\n".join(lines)
+
     def select_with_ai(self, headline, snippet, source_name, url_for_routing):
         """Stage A: cheap, headline-only selection/prioritization. Gemini
         primary (higher free quota, runs over every keyword-filtered
         candidate), Cloudflare fallback."""
-        user_content = f"SOURCE: {source_name}\nHEADLINE: {headline}\nSNIPPET: {snippet[:500]}"
+        recent_titles = self._recent_titles_context()
+        user_content = (
+            f"SOURCE: {source_name}\nHEADLINE: {headline}\nSNIPPET: {snippet[:500]}\n\n"
+            f"اخبار منتشرشده‌ی اخیر (برای چک تکراری نبودن):\n{recent_titles or '(هیچ‌کدام)'}"
+        )
         data = self._call_gemini(self._SELECTION_PROMPT, user_content)
         if data and 'category' in data:
             data['_selected_by'] = 'gemini'
@@ -883,6 +910,9 @@ class GlobalRadar:
         except Exception:
             prelim_importance = 3
         if prelim_importance < CONFIG.get('MIN_AI_URGENCY_HINT', 4):
+            return None
+        if selection.get('is_duplicate') is True:
+            logger.info(f"Skipping (AI flagged as duplicate of a recent story): {raw_title[:60]}")
             return None
 
         category_hint = selection.get('category', 'اقتصاد و بازار')
