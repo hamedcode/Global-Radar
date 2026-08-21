@@ -1,5 +1,49 @@
 [
   {
+    "id": "d6061d1f25",
+    "title_fa": "‏قیمت طلا به بالاترین سطح ۱۱ هفته‌ای رسید",
+    "title_en": "Gold Price Forecast: XAU/USD extends rally as US debt concerns continue to drag...",
+    "summary": [
+      "‏قیمت طلا ۰٫۶۵٪ افزایش یافت و به حدود ۴۵۵۰ دلار رسید، بالاترین سطح در بیش از ۱۱ هفته.",
+      "‏این رشد به دلیل تضعیف دلار آمریکا پس از برنامه خرید مجدد بدهی‌های بلندمدت خزانه‌داری و نگرانی‌ها درباره هزینه‌های استقراض بود.",
+      "‏تحلیل‌گران معتقدند مسیر طلا به تصمیمات فدرال رزرو و سخنرانی کیون وارش در همایش جکسون هول بستگی دارد."
+    ],
+    "body_fa": "‏قیمت طلا در جلسه اولیهٔ بازارهای اروپایی جمعه حدود ۴۵۵۰ دلار شد که بالاترین سطح در بیش از ۱۱ هفته است. این افزایش ۰٫۶۵٪ ناشی از ضعف دلار آمریکا است که پس از اعلام برنامهٔ خرید مجدد بدهی‌های بلندمدت توسط خزانه‌داری، تحت فشار قرار گرفته. تصمیم وزارت خزانه‌داری برای دو برابر کردن خریدهای بدهی، نگرانی‌ها دربارهٔ هزینه‌های استقراض و فشار مالی دولت را تشدید کرده و باعث سقوط شاخص دلار (DXY) به نزدیک کم‌ترین سطح سه ماهه‌اش شد. تحلیل‌گران MUFG هشدار می‌دهند که این اقدام ممکن است تقاضا برای دارایی‌های دلاری را کاهش دهد و فشار بر دلار را ادامه دهد. به گفتهٔ استراتژیست‌های GoldSilver Central ، مسیر آیندهٔ طلا به سیاست‌های فدرال رزرو و به‌ویژهٔ سخنرانی کیون وارش در همایش جکسون هول در اواخر ماه بستگی دارد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-extends-rally-as-us-debt-concerns-continue-to-drag-us-dollar-202608210629",
+    "clean_url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-extends-rally-as-us-debt-concerns-continue-to-drag-us-dollar-202608210629",
+    "image": "https://s.yimg.com/bo/3b0ce240-5197-5b6f-b76f-c58be346c847_1786337560341.png.cf.jpg",
+    "timestamp": 1787292316.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5e3d8a40cd",
+    "title_fa": "‏قیمت غلات به‌دلیل اختلالات دریای سیاه و هزینه‌های بالا رفت",
+    "title_en": "More imported inflation? Grain price hike may add to global economic woes after oil shock",
+    "summary": [
+      "‏اختلالات دریای سیاه، هزینه‌های سرسام‌آور کود و هوای شدید، قیمت غلات را به‌طور قابل‌توجهی افزایش داد.",
+      "‏این افزایش می‌تواند فشار بر تورم غذا در سرتاسر جهان را تقویت کند و ثبات اقتصادی را تهدید نماید.",
+      "‏قیمت نفت نیز پس از شوک اخیر، به‌همراه این عوامل، فشارهای تورمی را تشدید می‌کند."
+    ],
+    "body_fa": "‏اختلالات اخیر در مسیرهای حمل‌ونقل دریای سیاه، به‌همراه هزینه‌های رو به رشد کودهای شیمیایی و شرایط آب و هوایی شدید، عرضه غلات را تحت فشار قرار داده است. این عوامل منجر به افزایش چشمگیر قیمت گندم، ذرت و سایر محصولات دانه‌ای در بازارهای جهانی شده‌اند. همزمان، پس از شوک نفتی اخیر، هزینه‌های حمل‌ونقل و تولید نیز بالا رفته و فشار بر تورم غذا را تشدید می‌کند. کارشناسان هشدار می‌دهند که این ترکیب عوامل می‌تواند به‌سرعت به تورم عمومی در کشورهای واردکننده، از جمله ایران، منجر شود. در نتیجه، بانک‌های مرکزی ممکن است برای مهار تورم، سیاست‌های پولی سختگیرانه‌تری اتخاذ کنند. این وضعیت می‌تواند رشد اقتصادی جهانی را تحت فشار قرار داده و نوسانات بازارهای مالی را افزایش دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قیمت غلات",
+    "tag": "تورم غذا",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "NDTV Profit on MSN",
+    "url": "https://www.msn.com/en-in/news/other/more-imported-inflation-grain-price-hike-may-add-to-global-economic-woes-after-oil-shock/ar-AA2aDQKv",
+    "clean_url": "https://www.msn.com/en-in/news/other/more-imported-inflation-grain-price-hike-may-add-to-global-economic-woes-after-oil-shock/ar-AA2aDQKv",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1787289459.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "328a8ed3c3",
     "title_fa": "‏شیش نفر مسلح تانکر را در خلیج عدن تصرف کردند",
     "title_en": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
