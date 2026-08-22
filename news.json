@@ -1,5 +1,27 @@
 [
   {
+    "id": "e077796232",
+    "title_fa": "‏SCB EIC پیش‌بینی رشد ۲٫۵٪ اقتصاد جهانی در ۲۰۲۶",
+    "title_en": "SCB EIC sees global economy growing 2.5% on AI, Thai economy at 2% amid uneven recovery",
+    "summary": [
+      "‏SCB Economic Intelligence Center پیش‌بینی کرد اقتصاد جهانی در ۲۰۲۶ با سرمایه‌گذاری هوش مصنوعی ۲٫۵٪ رشد کند.",
+      "‏این رشد نسبت به سال‌های پیش کمی افزایش دارد و نشان‌دهنده نقش AI و تقاضای الکترونیک است.",
+      "‏بانک هشدار داد ریکاوری تایلند ناپایدار است و ریسک‌های ژئوپلیتیک می‌توانند فشار بر قیمت انرژی و زنجیره تأمین بگذارند."
+    ],
+    "body_fa": "‏مرکز اطلاعات اقتصادی بانک تجاری سیام (SCB EIC) پیش‌بینی کرد که اقتصاد جهانی در سال ۲۰۲۶ با رشد ۲٫۵٪ گسترش یابد و در ۲۰۲۷ به ۲٫۶٪ ارتقا یابد. این رشد به سرمایه‌گذاری مستمر در زیرساخت‌های هوش مصنوعی و تقاضای قوی برای محصولات الکترونیکی نسبت داده می‌شود. با این حال، مرکز خطرات ژئوپلیتیک از جمله درگیری‌های نظامی و تنش‌های تجاری را که می‌توانند قیمت انرژی، هزینه‌های تولید و زنجیره‌های تأمین را تحت تأثیر قرار دهند، برجسته کرد. در خلیج فارس، حمل‌ونقل نفت هنوز به نصف سطح پیش از جنگ بازنگشته و قیمت‌های نفت به‌تدریج کاهش می‌یابند اما بازگشت به سطوح قبلی در کوتاه‌مدت محتمل نیست. تجارت آسیایی ادامه دارد و چین با گسترش صادرات به بازارهای دیگر، رشد خود را حفظ می‌کند، در حالی که صادرات چین به آمریکا کاهش یافته است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "رشد اقتصادی جهانی",
+    "tag": "AI",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "Pattaya Mail",
+    "url": "https://www.pattayamail.com/latestnews/news/scb-eic-sees-global-economy-growing-2-5-on-ai-thai-economy-at-2-amid-uneven-recovery-562335",
+    "clean_url": "https://www.pattayamail.com/latestnews/news/scb-eic-sees-global-economy-growing-2-5-on-ai-thai-economy-at-2-amid-uneven-recovery-562335",
+    "image": "https://www.pattayamail.com/wp-content/uploads/2026/08/Pattaya-8-SCB-EIC-sees-global-economy-growing-2.5_-on-AI-Thai-economy-at-2_-amid-uneven-recovery-copy.jpg",
+    "timestamp": 1787331600.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "fab62f4150",
     "title_fa": "‏Double Fine پس از جدایی از Xbox ، مالکیت بازی‌ها را بازپس گرفت",
     "title_en": "Double Fine Owns IP and Publishing Rights for All of Its Games Following Xbox Split, Psychonauts Studio Confirms",
