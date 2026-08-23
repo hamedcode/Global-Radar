@@ -1,5 +1,49 @@
 [
   {
+    "id": "922e20177b",
+    "title_fa": "‏دستمزدهای بریتانیا کاهش یافت و تورم افزایش شد",
+    "title_en": "Charting the global economy: UK payrolls slide, inflation rises",
+    "summary": [
+      "‏آمار جدید نشان داد که تعداد شغل‌های خالی در بریتانیا به کمترین سطح پنجساله رسید و دستمزدها کاهش یافت",
+      "‏این کاهش همراه با افزایش نرخ تورم بود که عمدتاً به دلیل جهش قیمت انرژی رخ داد",
+      "‏در ناحیه یورو نیز نشانه‌های کاهش فعالیت‌های تجاری مشاهده شد"
+    ],
+    "body_fa": "‏آمار اخیر نشان می‌دهد بازار کار بریتانیا در حال ضعف است؛ تعداد آگهی‌های شغلی به کمترین سطح در پنج سال گذشته رسیده و رشد دستمزدها متوقف شده است. در همین زمان، نرخ تورم در این کشور افزایش یافته و به‌ویژه به دلیل افزایش شدید قیمت انرژی است. این ترکیب فشارهای تورمی و رکود جزئی در بازار کار می‌تواند سیاست‌گذاران را به بازنگری در سیاست‌های پولی و مالی وادار کند. در ناحیه یورو، داده‌های جدید نیز نشان‌دهنده کاهش تقاضا و کندی در فعالیت‌های تجاری است که می‌تواند رشد اقتصادی منطقه را تحت فشار قرار دهد. تحلیل‌گران پیش‌بینی می‌کنند که این روند ممکن است فشار بر بانک‌های مرکزی برای تنظیم نرخ بهره ایجاد کند. در مجموع، این تحولات می‌تواند بر بازارهای مالی جهانی و نرخ ارزها تأثیر قابل‌توجهی داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار کار بریتانیا",
+    "tag": "دستمزد",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Economic Times on MSN",
+    "url": "https://www.msn.com/en-in/news/other/charting-the-global-economy-uk-payrolls-slide-inflation-rises/ar-AA2aKd4u",
+    "clean_url": "https://www.msn.com/en-in/news/other/charting-the-global-economy-uk-payrolls-slide-inflation-rises/ar-AA2aKd4u",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1787437987.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7db8c78c25",
+    "title_fa": "‏ترامپ طرح ایزوله‌سازی اقتصادی ایران را اعلام کرد",
+    "title_en": "Trump’s Economic Isolation Plan Risks Iran Strikes Across Gulf",
+    "summary": [
+      "‏ترامپ برنامه جدید تحریم و مسدودسازی تجاری علیه ایران را معرفی کرد.",
+      "‏هدف فشار اقتصادی برای مجبور کردن تهران به پذیرش توافق صلح است و می‌تواند قیمت نفت را بالا ببرد.",
+      "‏ایران ممکن است با حملات نظامی به زیرساخت‌های خلیج پاسخی بدهد."
+    ],
+    "body_fa": "‏دولت ترامپ برنامه‌ای برای ایزوله‌سازی اقتصادی ایران ارائه داد که شامل تحریم‌های جدید، مسدودسازی دریایی و فشارهای تجاری بر شرکای تجاری تهران می‌شود. وزیر خزانه‌داری اسکات بسن‌ت در دوشنبه جزئیات این طرح را فاش خواهد کرد و هدف آن تغییر محور جنگ از درگیری‌های نظامی به فشارهای اقتصادی است. این اقدام می‌تواند کشورهای چین، هند، ترکیه و امارات متحده عربی را نیز درگیر کند. ارتش پاسدار انقلاب ایران که کنترل تنگه هرمز را ادعا می‌کند، با پهپادهای شهاب و موشک‌های بالستیک به زیرساخت‌های انرژی خلیج حمله کرده و احتمالاً در واکنش به این فشارها، حملات نظامی جدیدی انجام خواهد داد. چنین تحرکی می‌تواند قیمت نفت جهانی را افزایش داده و هزینه‌های جنگ برای ایالات متحده را بالا ببرد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم اقتصادی",
+    "tag": "ایران",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Bloomberg · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/trump-economic-isolation-plan-risks-130145608.html",
+    "clean_url": "https://finance.yahoo.com/economy/policy/articles/trump-economic-isolation-plan-risks-130145608.html",
+    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/225220dac752de9b55fb41a83b7477e8.jpg",
+    "timestamp": 1787403275.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "77d1591384",
     "title_fa": "‏بیت‌کوین و اتر پس فشار فروش کوتاه به اوج رسید",
     "title_en": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
