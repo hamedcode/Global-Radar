@@ -1,5 +1,71 @@
 [
   {
+    "id": "a9f05ae1e6",
+    "title_fa": "‏قیمت طلا از چند روز صعود به ۴۶۶۰ دلار رسید",
+    "title_en": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
+    "summary": [
+      "‏قیمت طلا پس از پنج روز صعود، به ۴۶۶۰ دلار در هر اونس رسید.",
+      "‏کاهش قیمت نفت و مذاکرات ایران‑عمان برای بازگشایی تنگه هرمز فشار تورمی را کم کرد.",
+      "‏سرمایه‌گذاران به‌دلیل کاهش بازدهی اوراق دولتی، به طلا پناه بردند."
+    ],
+    "body_fa": "‏طلا پس از پنج روز صعود، قیمتش به ۴۶۶۰ دلار در هر اونس نزدیک بالاترین سطح سه ماهه رسید. این افزایش بیش از ۷٪ در یک هفته، به‌دلیل کاهش بازدهی اوراق قرضه بلندمدت و خریدهای فدرال رزرو از بدهی‌های دولتی بود. همزمان، قیمت نفت به‌دلیل امید به کاهش تنش‌ها در تنگه هرمز، که ایران و عمان درباره یک مسیر دریایی موقت گفتگو می‌کردند، کاهش یافت. کاهش قیمت انرژی فشار بر فدرال رزرو برای افزایش نرخ بهره را کم کرد و این امر تقاضای طلا را تقویت کرد. بانکدار سوزان کالینز، رئیس بانک بوستون فدرال، گفت تا پیشرفت در کاهش تورم، نرخ‌ها ثابت بمانند. در بازار، نقره ۰.۳٪ و پلاتین کمی ثابت و پالادیوم کمی افزایش یافت.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Bloomberg · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-five-day-gain-235239126.html",
+    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-five-day-gain-235239126.html",
+    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/c6b37f174c51808d398c53d0d4f03ad4.jpg",
+    "timestamp": 1787702328.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8cff7e15db",
+    "title_fa": "‏IMF می‌گوید اقتصاد جهانی در برابر شوک انرژی مقاوم است",
+    "title_en": "IMF’s Georgieva sees economy's resilience on energy shock, warns of fiscal strain",
+    "summary": [
+      "‏IMF رئیس‌جمهور کریستالینا جورجیوا اعلام کرد اقتصاد جهانی در مواجهه با شوک انرژی خلیج‌فارس مقاوم باقی مانده.",
+      "‏او هشدار داد فشارهای مالی، تورم سرسخت و افزایش بازده اوراق می‌تواند رشد را تحت فشار قرار دهد.",
+      "‏او افزود سرمایه‌گذاری هوش مصنوعی می‌تواند به عنوان تعادل‌ساز در برابر شوک انرژی عمل کند."
+    ],
+    "body_fa": "‏کریستالینا جورجیوا، مدیرعامل صندوق بین‌المللی پول، گفت اقتصاد جهانی در مواجهه با شوک انرژی ناشی از جنگ ایران و بسته شدن تنگه هرمز، بهتر از انتظارات عمل کرده است. با این حال، او فشارهای مالی رو به افزایش، تورم سرسخت و ریسک‌های بدهی بالا را به عنوان خطرات اصلی برای رشد آینده نامید. افزایش بازده اوراق قرضه و احتمال ادامه سیاست‌های پولی سختگیرانه توسط بانک‌های مرکزی می‌تواند رشد را محدود کند. جورجیوا افزود سرمایه‌گذاری گسترده در هوش مصنوعی، به‌ویژه در ایالات متحده و مراکز داده، می‌تواند اثرات منفی شوک انرژی را خنثی کند. صندوق IMF در ژوئیه پیش‌بینی رشد جهانی را برای سال 2026 به 3 درصد کاهش داد و این پیش‌بینی را در نشست ماه اکتبر بانکوک به‌روزرسانی خواهد کرد. او هشدار داد که اگر قیمت نفت به سطوح بالاتر بازگردد، می‌تواند تورم را تشدید و فشار بر سیاست‌های پولی را افزایش دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "پیش‌بینی رشد جهانی",
+    "tag": "IMF",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Firstpost",
+    "url": "https://www.firstpost.com/business/imfs-georgieva-sees-economys-resilience-on-energy-shock-warns-of-fiscal-strain-14040774.html",
+    "clean_url": "https://www.firstpost.com/business/imfs-georgieva-sees-economys-resilience-on-energy-shock-warns-of-fiscal-strain-14040774.html",
+    "image": "https://images.firstpost.com/uploads/2026/04/AFP__20260415__A7WW3YE__v1__HighRes__UsEconomyImfWorldBank-1-2026-04-6608927cce384cea8f18ee9fd2658997.jpg?im=FitAndFill,width=1200,height=675",
+    "timestamp": 1787681040.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fce7d0e065",
+    "title_fa": "‏IMF می‌گوید اقتصاد جهان شوک انرژی ایران را تحمل کرد",
+    "title_en": "IMF's Georgieva says global economy weathering energy shock, sees fiscal concerns",
+    "summary": [
+      "‏مدیرعامل صندوق بین‌المللی پول کریستالینا جورجیوا اعلام کرد اقتصاد جهانی شوک انرژی ناشی از جنگ ایران را بهتر از پیش‌بینی تحمل کرده است.",
+      "‏این خبر نشان می‌دهد فشارهای تورمی کمتر شد اما نگرانی‌های مالی و کسری‌های بودجه‌ای همچنان باقی است.",
+      "‏او هشدار داد که سیاست‌های مالی نادرست می‌تواند رشد اقتصادی را تهدید کند."
+    ],
+    "body_fa": "‏کریستالینا جورجیوا، مدیرعامل صندوق بین‌المللی پول، در بیانیه‌ای در واشنگتن روز ۲۵ اوت گفت اقتصاد جهانی توانسته است شوک انرژی ناشی از جنگ ایران را بهتر از انتظارات اولیه تحمل کند. او افزود که اگرچه این امر فشارهای تورمی را کاهش داده، اما نگرانی‌های جدی در زمینه سیاست‌های مالی و کسری‌های بودجه‌ای باقی مانده است. جورجیوا تأکید کرد که اصلاحات مالی و کنترل هزینه‌های دولتی برای حفظ رشد پایدار ضروری است. این اظهارات می‌تواند بر تصمیمات بانک‌های مرکزی و سیاست‌گذاران مالی در سراسر جهان تأثیر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "اقتصاد جهانی",
+    "tag": "IMF",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters on MSN",
+    "url": "https://www.msn.com/en-ca/news/other/imfs-georgieva-says-global-economy-weathering-energy-shock-sees-fiscal-concerns/ar-AA2aUY5M",
+    "clean_url": "https://www.msn.com/en-ca/news/other/imfs-georgieva-says-global-economy-weathering-energy-shock-sees-fiscal-concerns/ar-AA2aUY5M",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1787676433.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "4e30a28dce",
     "title_fa": "‏ترامپ با تعرفه‌های جدید کانادا، سنا را به خطر می‌اندازد",
     "title_en": "Trump’s trade war with Canada could rattle economies in states with key Senate r...",
@@ -63,6 +129,28 @@
     "clean_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-spots-ethereum-launch-134223847.html",
     "image": "https://media.zenfs.com/en/ccn_928/8670d207408defffe20735cfe7ac2094",
     "timestamp": 1787666117.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d9df7ba699",
+    "title_fa": "‏IMF: جنگ ایران و هوش مصنوعی اقتصاد را تهدید می‌کند",
+    "title_en": "Global economy's next big threat? IMF flags Iran war, inflation and AI risks",
+    "summary": [
+      "‏IMF مدیرعامل کریستالینا جورجیوا اعلام کرد که جنگ ایران و رشد سرمایه‌گذاری در هوش مصنوعی دو نیروی متضاد بر اقتصاد جهانی ایجاد می‌کنند.",
+      "‏این هشدار نشان می‌دهد که فشارهای عرضه از خاورمیانه و تقاضای مثبت از هوش مصنوعی می‌توانند تورم و بدهی‌ها را تشدید کنند.",
+      "‏جورجیوا توصیه کرد بانک‌های مرکزی بر تثبیت قیمت تمرکز کنند و دولت‌ها برنامه‌های مالی پایدار ارائه دهند."
+    ],
+    "body_fa": "‏مدیرعامل صندوق بین‌المللی پول، کریستالینا جورجیوا، در واشنگتن هشدار داد که جنگ جاری در ایران و گسترش سرمایه‌گذاری در هوش مصنوعی دو نیروی متضاد بر اقتصاد جهانی ایجاد کرده‌اند. او گفت این ترکیب منجر به کشمکش بین شوک منفی عرضه انرژی از خاورمیانه و شوک مثبت تقاضای ناشی از هوش مصنوعی می‌شود. این وضعیت می‌تواند فشارهای تورمی را تشدید کرده و بدهی‌های عمومی را در مواجهه با هزینه‌های بالای وام‌گیری دشوارتر کند. جورجیوا از بانک‌های مرکزی خواست تا به حفظ ثبات قیمت‌ها پایبند بمانند و از تسهیل زودهنگام خودداری کنند. همچنین او بر ضرورت ارائه برنامه‌های مالی قابل‌اعتماد توسط دولت‌ها برای تضمین مسیر پایدار بدهی و کسری تأکید کرد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "اقتصاد جهانی",
+    "tag": "IMF",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Moneycontrol",
+    "url": "https://www.moneycontrol.com/news/business/global-economy-s-next-big-threat-imf-flags-iran-war-inflation-and-ai-risks-14015457.html",
+    "clean_url": "https://www.moneycontrol.com/news/business/global-economy-s-next-big-threat-imf-flags-iran-war-inflation-and-ai-risks-14015457.html",
+    "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260825191117_IMF.jpg",
+    "timestamp": 1787662020.0,
     "sent_to_telegram": true
   },
   {
