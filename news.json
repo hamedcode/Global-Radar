@@ -22,6 +22,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "80fa637190",
+    "title_fa": "‏بار بدهی آمریکا با افزایش هزینه‌های استقراض خطر بلندمدت می‌شود",
+    "title_en": "US debt burden raises longer-term risks as borrowing costs rise",
+    "summary": [
+      "‏هزینه‌های استقراض بدهی دولت آمریکا در حال افزایش است و کسری مالی مداوم ادامه دارد.",
+      "‏این روند نگرانی‌ها درباره پایداری بلندمدت بدهی و رقابت شدید برای جذب سرمایه جهانی را تقویت می‌کند.",
+      "‏به‌خصوص در صورتی که نرخ بهره ادامه یابد، فشار بر بازارهای مالی جهانی افزایش می‌یابد."
+    ],
+    "body_fa": "‏بدهی دولت ایالات متحده همچنان پایه‌ای اساسی برای بازارهای مالی جهانی محسوب می‌شود. اما هزینه‌های استقراض این بدهی به‌تازگی افزایش یافته و فشار بر خزانه‌داری را تشدید کرده است. کسری‌های مالی مستمر و عدم تعادل در بودجه باعث شده‌اند که حجم بدهی به سطوح تاریخی نزدیک شود. علاوه بر این، رقابت شدید برای جذب سرمایه‌های بین‌المللی، به‌ویژه در مواجهه با نرخ‌های بهره بالاتر، فرصت‌های سرمایه‌گذاری در آمریکا را محدود می‌کند. تحلیل‌گران به خطرات بلندمدت برای پایداری بدهی و احتمال نوسان در بازارهای جهانی هشدار داده‌اند. در صورت ادامه این روند، ممکن است هزینه‌های استقراض بیشتر شود و فشار بر نرخ‌های بهره و ارزهای دیگر افزایش یابد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بدهی دولتی",
+    "tag": "بدهی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Economic Times",
+    "url": "https://www.msn.com/en-in/news/other/us-debt-burden-raises-longer-term-risks-as-borrowing-costs-rise/ar-AA2aX08n",
+    "clean_url": "https://www.msn.com/en-in/news/other/us-debt-burden-raises-longer-term-risks-as-borrowing-costs-rise/ar-AA2aX08n",
+    "image": "https://img.etimg.com/thumb/msid-133533609,width-1200,height-630,imgsize-45776,overlay-etmarkets/articleshow.jpg",
+    "timestamp": 1787729617.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a9f05ae1e6",
     "title_fa": "‏قیمت طلا از چند روز صعود به ۴۶۶۰ دلار رسید",
     "title_en": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
