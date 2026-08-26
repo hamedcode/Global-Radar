@@ -1,5 +1,49 @@
 [
   {
+    "id": "c488761e47",
+    "title_fa": "‏تحریم‌های آمریکا به ایران، به خود ایالات متحده صدمه می‌زند",
+    "title_en": "Something was buried in America’s Iran sanctions rollout: An acknowledgment that following through would hurt the US too",
+    "summary": [
+      "‏واشنگتن برنامه جدید تحریم‌های سخت علیه ایران را اعلام کرد که می‌تواند به اقتصاد خود آمریکا آسیب برساند.",
+      "‏این نکته مهم است چون می‌تواند فشارهای اقتصادی داخلی و قیمت نفت را تحت تأثیر قرار دهد.",
+      "‏تحلیل‌گران هشدار می‌دهند که این تحریم‌ها می‌توانند تجارت نفتی آمریکا را هم مختل کنند."
+    ],
+    "body_fa": "‏دولت آمریکا تازه مجموعه‌ای از تحریم‌های سخت علیه ایران را به اجرا گذاشت. این تحریم‌ها شامل محدودیت‌های شدید بر صادرات نفت و مالیات‌های سنگین بر شرکت‌های ایرانی است. مقامات واشنگتن اذعان کرده‌اند که اجرای کامل این اقدامات می‌تواند به خود اقتصاد آمریکا، به‌ویژه در بخش انرژی و تورم داخلی، آسیب برساند. کارشناسان پیش‌بینی می‌کنند که این فشارها ممکن است قیمت نفت جهانی را بالا برده و هزینه‌های سوخت در ایالات متحده را افزایش دهد. در نتیجه، سیاست‌گذاران باید بین هدف سیاسی و پیامدهای اقتصادی داخلی تعادل برقرار کنند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌های آمریکا",
+    "tag": "تحریم_ایران",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "National Security Journal on MSN",
+    "url": "https://www.msn.com/en-us/money/general/something-was-buried-in-america-s-iran-sanctions-rollout-an-acknowledgment-that-following-through-would-hurt-the-us-too/ar-AA2aZmuY?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/money/general/something-was-buried-in-america-s-iran-sanctions-rollout-an-acknowledgment-that-following-through-would-hurt-the-us-too/ar-AA2aZmuY",
+    "image": "https://www.bing.com/th?id=ONUT.8w-7-fCtlHYOdRAJgdVfig",
+    "timestamp": 1787772340.276007,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "214e69dda4",
+    "title_fa": "‏Nvidia و دیگر شرکت‌ها امروز سود می‌دهند؛ بازار منتظر داده‌ها",
+    "title_en": "Calm Before Storm as Nvidia Earnings, Data Deluge, Bigger Trade War Loom |...",
+    "summary": [
+      "‏Nvidia ، CrowdStrike و Salesforce امروز نتایج سه ماهه خود را منتشر می‌کنند.",
+      "‏این گزارش‌ها همراه با انتشار داده‌های کلان اقتصادی و تنش تجاری با ایران و کانادا می‌تواند نوسان بازار را تشدید کند.",
+      "‏همچنین رئیس فدرال ریک بَرکین درباره اقتصاد سخنرانی می‌کند."
+    ],
+    "body_fa": "‏امروز سه شرکت بزرگ فناوری Nvidia ، CrowdStrike و Salesforce گزارش سود سه ماهه خود را ارائه می‌دهند. این انتشار‌ها همزمان با انتشار داده‌های کلان اقتصادی شامل شاخص‌های PCE ، درآمد شخصی و سفارشات کالاهای بادوام خواهد بود. علاوه بر این، تنش‌های تجاری اخیر با ایران و کانادا می‌تواند نگرانی‌های سرمایه‌گذاران را افزایش دهد. بازار به‌دقت به این اخبار نگاه می‌کند تا جهت‌گیری‌های کوتاه‌مدت شاخص‌های سهام را پیش‌بینی کند. رئیس فدرال ریک بَرکین نیز در همین روز درباره وضعیت اقتصادی سخنرانی خواهد کرد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش سود",
+    "tag": "Nvidia",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "TheStreet.com",
+    "url": "https://pro.thestreet.com/market-commentary/calm-before-storm-as-nvidia-earnings-data-deluge-bigger-trade-war-loom",
+    "clean_url": "https://pro.thestreet.com/market-commentary/calm-before-storm-as-nvidia-earnings-data-deluge-bigger-trade-war-loom",
+    "image": "https://s.yimg.com/bo/16942bf0-e295-510a-8247-f60494e00b70_1786991023864.jpg",
+    "timestamp": 1787747073.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1aa8a33eb9",
     "title_fa": "‏بازارها از سیاست فدرال‌رزرو سردرگم‌اند",
     "title_en": "Markets Are Confused About the Fed, Just as Chair Warsh Wants It",
