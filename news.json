@@ -1,5 +1,27 @@
 [
   {
+    "id": "33803a4d8f",
+    "title_fa": "‏کین وارش فدرال رزرو تحت فشار برای روشن‌سازی سیاست تورمی",
+    "title_en": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
+    "summary": [
+      "‏کین وارش، رئیس جدید فدرال رزرو، در کنفرانس خبری فشار برای بیان دیدگاه‌هایش درباره تورم و نرخ بهره را دریافت کرد.",
+      "‏این موضوع برای وال‌استریت و اقتصاد کلان مهم است چون عدم راهنمایی واضح می‌تواند نوسان بازار را تشدید کند.",
+      "‏وارش در سمپوزیوم جکسون‌هول احتمالاً سعی دارد چارچوب مفهومی سیاست پولی خود را توضیح دهد."
+    ],
+    "body_fa": "‏کیون وارش، رئیس جدید فدرال رزرو، با رویکردی متفاوت نسبت به پیشینان خود، در کنفرانس‌های خبری کمتر درباره وضعیت اقتصاد و تورم صحبت می‌کند. این سکوت باعث نگرانی اقتصاددانان و سرمایه‌گذاران وال‌استریت شده که به دنبال راهنمایی واضح برای سیاست‌های نرخ بهره هستند. وارش در روز جمعه در سمپوزیوم سالانه جکسون‌هول ویومینگ فرصتی دارد تا به این انتقادات پاسخ دهد و چارچوب مفهومی خود برای هدایت سیاست پولی را شرح دهد. او پیش از این اعلام کرده بود که نمی‌خواهد «راهنمایی پیشرو» ارائه دهد، چرا که این کار انعطاف‌پذیری بانک مرکزی را محدود می‌کند. با این حال، برخی کارشناسان معتقدند می‌تواند بدون افشای جزئیات تصمیمات آینده، دیدگاه‌های کلی خود را بیان کند. اگر وارش بتواند ابهامات را برطرف کند، احتمال کاهش نوسان بازارها و تثبیت انتظارات تورمی افزایش می‌یابد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "فدرال رزرو",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/inflation-federal-reserve-interest-rates-a8661a4be7fcf3076891382cf9df1a5e",
+    "clean_url": "https://apnews.com/article/inflation-federal-reserve-interest-rates-a8661a4be7fcf3076891382cf9df1a5e",
+    "image": "https://dims.apnews.com/dims4/default/239e478/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd6%2F15%2F9fc895aae848190e578cd55e5d19%2Fecdbfa85ee88475eaafa4174edf0e12f",
+    "timestamp": 1787824800.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "c488761e47",
     "title_fa": "‏تحریم‌های آمریکا به ایران، به خود ایالات متحده صدمه می‌زند",
     "title_en": "Something was buried in America’s Iran sanctions rollout: An acknowledgment that following through would hurt the US too",
