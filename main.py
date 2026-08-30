@@ -6,6 +6,7 @@ import cloudscraper
 import html
 import re
 import concurrent.futures
+import threading
 import feedparser
 import hashlib
 from urllib.parse import quote, unquote, urlparse, urlunparse
@@ -172,6 +173,13 @@ class GlobalRadar:
             f"Cloudflare accounts: {len(self.cf_accounts)}"
         )
         self.existing_news = self._load_existing_news()
+        self.batch_titles_lock = threading.Lock()
+        # Titles (English) already accepted by Stage A earlier in *this* run —
+        # since candidates are processed concurrently (ThreadPoolExecutor),
+        # this lets later threads catch "same story, different source"
+        # duplicates that are being written in parallel, not just ones from
+        # past runs already sitting in news.json.
+        self.batch_titles = []
 
         self.seen_urls = set()
         self.seen_titles = set()
@@ -800,6 +808,8 @@ class GlobalRadar:
         ]
         recent.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
         lines = [f"- [{it.get('category', '')}] {it['title_fa']}" for it in recent[:limit]]
+        with self.batch_titles_lock:
+            lines = list(self.batch_titles) + lines
         return "\n".join(lines)
 
     def select_with_ai(self, headline, snippet, source_name, url_for_routing):
@@ -839,6 +849,33 @@ class GlobalRadar:
         data = self._call_gemini(self._WRITING_PROMPT, user_content_short)
         if data and 'title_fa' in data and 'summary' in data:
             return data
+        return None
+
+    _TITLE_QA_PROMPT = (
+        "تو یک ویراستار فارسی هستی. فقط یک کار داری: تیتر زیر رو از نظر دستور زبان و روانی بررسی کن.\n"
+        "مشکلاتی که باید پیدا کنی: فعل نداشتن، فعل با صرف غلط (زمان/شخص اشتباه)، جمله‌ی ناقص یا نامفهوم، ترتیب عجیب کلمات.\n"
+        "اگه تیتر از نظر دستوری کاملاً درست و روان بود، همون رو بدون هیچ تغییری برگردون.\n"
+        "اگه ایراد داشت، فقط حداقل تغییر لازم برای درست‌کردنش رو بده — معنا و طول تیتر رو حفظ کن، بازنویسی کامل نکن.\n"
+        "خروجی فقط این JSON باشه، بدون هیچ توضیح اضافه: {\"title_fa\": \"...\"}"
+    )
+
+    def review_title_fa(self, title_fa, body_fa=""):
+        """Dedicated Gemini-only proofreading pass for the final Persian
+        title. Cheap (tiny input/output), separate from Stage A/B so it runs
+        regardless of which provider wrote the article. If Gemini isn't
+        configured or the call fails, silently keep the original title —
+        this is a QA nicety, not something worth blocking the pipeline on."""
+        if not title_fa or not self.gemini_api_key:
+            return None
+        user_content = f"TITLE: {title_fa}\nCONTEXT (برای فهم بهتر معنا): {body_fa[:300]}"
+        data = self._call_gemini(self._TITLE_QA_PROMPT, user_content)
+        if data and data.get('title_fa'):
+            fixed = data['title_fa'].strip()
+            # Sanity guard: if Gemini returned something wildly different in
+            # length, treat it as a misfire and keep the original rather than
+            # risking a hallucinated replacement title.
+            if fixed and 0.5 <= len(fixed) / max(len(title_fa), 1) <= 1.8:
+                return fixed
         return None
 
     # ───────────────────────── process item ─────────────────────────
@@ -916,6 +953,9 @@ class GlobalRadar:
             return None
 
         category_hint = selection.get('category', 'اقتصاد و بازار')
+        with self.batch_titles_lock:
+            self.batch_titles.append(f"- [{category_hint}] {raw_title}")
+
         logger.info(
             f"Processing (hint={hint}, selected_by={selection.get('_selected_by', '?')}, "
             f"prelim={prelim_importance}, cat={category_hint}): {publisher} | {raw_title[:50]}..."
@@ -931,6 +971,14 @@ class GlobalRadar:
         # Fill in anything Stage B omitted with Stage A's judgment.
         ai.setdefault('subcategory', selection.get('subcategory', ''))
         ai.setdefault('iran_relevant', selection.get('iran_relevant', False))
+
+        # ── Title QA pass: a dedicated, cheap Gemini call whose only job is
+        # to catch a missing/misconjugated verb or an awkward title_fa. The
+        # writing model (Cloudflare, usually) sometimes ships a title that's
+        # grammatically off even when the body/summary are fine.
+        reviewed_title = self.review_title_fa(ai.get('title_fa', raw_title), ai.get('body_fa', ''))
+        if reviewed_title:
+            ai['title_fa'] = reviewed_title
 
         try:
             urgency_val = int(ai.get('importance', ai.get('urgency', 3)))
