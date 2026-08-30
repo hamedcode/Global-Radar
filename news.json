@@ -1,5 +1,27 @@
 [
   {
+    "id": "bd5bb54a2d",
+    "title_fa": "‏چین با مدل GLM‑5.3‑Flash پیشتاز هوش مصنوعی شد",
+    "title_en": "The Chinese are now ahead in AI race",
+    "summary": [
+      "‏مدل جدید چینی GLM‑5.3‑Flash با ۳۰۰ میلیون پارامتر و توان پردازش ۱۰۰ تریلیون توکن در روز عرضه شد.",
+      "‏این مدل با چیپ‌های هوآوی اجرا می‌شود و نشان می‌دهد چین توانسته محدودیت‌های سخت‌افزاری آمریکا را دور بزند.",
+      "‏ارائه رایگان یک هفته‌ای این مدل فشار جدیدی بر رقبای آمریکایی مانند OpenAI ایجاد می‌کند."
+    ],
+    "body_fa": "‏در هفتهٔ گذشته استارتاپ چینی Zhipu AI مدل زبانی جدید GLM‑5.3‑Flash را معرفی کرد. این مدل حدود ۳۰۰ میلیون پارامتر دارد که چندین برابر کوچکتر از مدل‌های پیشرفتهٔ غربی است، اما با به‌کارگیری روش‌های جدید در سازماندهی هوش، عملکرد قابل توجهی نشان می‌دهد. مهم‌ترین نکته این است که GLM‑5.3‑Flash به‌صورت کامل بر روی چیپ‌های هوآوی اجرا می‌شود و به این ترتیب چین محدودیت‌های سخت‌افزاری اعمال‌شده توسط ایالات متحده را دور زده است. برای یک هفته به‌صورت رایگان در دسترس قرار گرفت و توان پردازش ۱۰۰ تریلیون توکن در روز را فراهم کرد. علاوه بر این، وزن‌های مدل به‌صورت باز منتشر شده‌اند و هر کسی می‌تواند آن را اجرا کند، که می‌تواند رقابت در حوزهٔ هوش مصنوعی را به‌طور قابل‌توجهی تغییر دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "چین",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "India Today",
+    "url": "https://www.indiatoday.in/technology/this-week-in-ai/story/the-chinese-are-now-ahead-in-ai-race-2982960-2026-08-30",
+    "clean_url": "https://www.indiatoday.in/technology/this-week-in-ai/story/the-chinese-are-now-ahead-in-ai-race-2982960-2026-08-30",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/china-vs-us-ai-303239309-16x9_0.jpg?VersionId=90.kAm.0s0kVhu1662fG9bx39tzfq7Vp",
+    "timestamp": 1788086174.3727844,
+    "sent_to_telegram": true
+  },
+  {
     "id": "2ce854e6c6",
     "title_fa": "‏شرکت‌های فناوری آمریکا با هوش مصنوعی ۱۴۰٬۰۰۰ شغل را حذف کردند",
     "title_en": "AI Layoffs Need Evidence, Not Executive Storytelling",
