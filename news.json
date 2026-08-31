@@ -1,5 +1,27 @@
 [
   {
+    "id": "9203b71945",
+    "title_fa": "‏استودیوی کپنهاگ Rovio پس از لغو Sonic Blitz بسته شد",
+    "title_en": "Sega’s Rovio Copenhagen studio is closing after its mobile game Sonic Blitz was cancelled",
+    "summary": [
+      "‏سازمان Rovio استودیو کپنهاگن خود را پس از لغو بازی موبایلی Sonic Blitz بسته کرد.",
+      "‏این تصمیم به دلیل عدم جذب بازیکن و نگهداری ضعیف بازی، حدود 20 کارمند را تحت تأثیر قرار داد.",
+      "‏بازی در ژوئن 2025 به‌صورت نرم‌افزاری در برزیل و فیلیپین عرضه شد اما در فوریه 2026 لغو شد."
+    ],
+    "body_fa": "‏رؤیوی استودیو کپنهاگن خود را پس از لغو پروژه Sonic Blitz بسته کرد. این بازی ترکیبی از دویدن و جمع‌آوری کارت بود که در ژوئن 2025 به‌صورت نرم‌افزاری در برزیل و فیلیپین عرضه شد، اما به دلیل جذب بازیکن ضعیف و نگهداری نامناسب، در فوریه 2026 کاملاً لغو شد. مدیران شرکت، از جمله آلن پلتیر-نرمان، اعلام کردند که انتظار داشتند کارت‌های زیبا و داستان‌محور بتوانند طرفداران سونیک را جذب کنند، اما نتوانستند بازیکنان را برای مدت طولانی نگه دارند. پس از لغو بازی، حدود 20 نفر از تیم که بر روی پروژه کار می‌کردند، یا به پروژه‌های دیگر منتقل شدند یا بسته به تصمیم شرکت، بسته‌خدمات خروجی دریافت می‌کنند. این بسته شدن نشان‌دهنده چالش‌های بزرگ در بازار بازی‌های موبایلی حتی برای عناوین شناخته‌شده است.",
+    "category": "گیم",
+    "subcategory": "بازی موبایل",
+    "tag": "SonicBlitz",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "Video Games Chronicle",
+    "url": "https://www.videogameschronicle.com/news/segas-rovio-copenhagen-studio-is-closing-after-its-mobile-game-sonic-blitz-was-cancelled/",
+    "clean_url": "https://www.videogameschronicle.com/news/segas-rovio-copenhagen-studio-is-closing-after-its-mobile-game-sonic-blitz-was-cancelled",
+    "image": "https://www.videogameschronicle.com/files/2026/08/sonic-blitz.jpg",
+    "timestamp": 1788149640.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "bd5bb54a2d",
     "title_fa": "‏چین با مدل GLM‑5.3‑Flash پیشتاز هوش مصنوعی شد",
     "title_en": "The Chinese are now ahead in AI race",
