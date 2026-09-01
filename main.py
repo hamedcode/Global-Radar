@@ -93,7 +93,20 @@ CONFIG = {
     'CF_API_TOKEN_2': os.environ.get('CF_API_TOKEN_2'),
     'CF_MODEL': os.environ.get('CF_MODEL', '@cf/openai/gpt-oss-120b'),
     'GEMINI_API_KEY': os.environ.get('GEMINI_API_KEY'),
-    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL', 'gemini-3.6-flash'),
+    # '-latest' aliases auto-follow Google's current stable release, so we
+    # don't get bitten again by a hardcoded model name being deprecated
+    # (like gemini-2.5-flash was).
+    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL', 'gemini-flash-latest'),
+    # Stage A (selection) gets its own, cheaper/higher-quota model — it's a
+    # simple classification task run over every candidate, so Flash-Lite
+    # (higher free RPM/RPD than full Flash) is the better fit.
+    'GEMINI_MODEL_SELECTION': os.environ.get('GEMINI_MODEL_SELECTION', 'gemini-flash-lite-latest'),
+    # Conservative shared cap across ALL Gemini calls (selection + writing
+    # fallback + title QA), regardless of which model each one uses — Google
+    # publishes free-tier RPM as low as ~10-15 depending on model/account, so
+    # staying under that with margin avoids 429s outright rather than
+    # reacting to them after the fact.
+    'GEMINI_MAX_RPM': int(os.environ.get('GEMINI_MAX_RPM', '8')),
     'AI_RETRIES': 3,
     # Storage bar (site/archive) — same bar is used for Telegram now, so
     # everything that's stored also gets sent (per user request).
@@ -103,6 +116,10 @@ CONFIG = {
     # (they stay "unsent" and get picked up again) — nothing is lost, it's
     # just spread out so one run doesn't blast a huge wall of text.
     'MAX_DIGEST_ITEMS': 20,
+    # If a run finds no qualifying news, we still send a bare price update so
+    # the channel doesn't go silent — but capped, so a slow news day doesn't
+    # turn into spam.
+    'MAX_PRICE_ONLY_PER_DAY': 2,
     'MAX_NEWS_AGE_HOURS': 20,
     # Total items kept in news.json / shown on the site. Newest-first; anything
     # beyond this count is dropped as new items come in.
@@ -162,6 +179,9 @@ class GlobalRadar:
             logger.warning("No Cloudflare account configured (CF_ACCOUNT_ID/CF_API_TOKEN missing).")
         self.gemini_api_key = CONFIG['GEMINI_API_KEY']
         self.gemini_model = CONFIG['GEMINI_MODEL']
+        self.gemini_model_selection = CONFIG['GEMINI_MODEL_SELECTION']
+        self.gemini_rpm_lock = threading.Lock()
+        self.gemini_call_times = []  # sliding 60s window of call timestamps, shared across all Gemini calls
         if not self.gemini_api_key and not self.cf_accounts:
             logger.error("NO AI PROVIDER CONFIGURED: neither Gemini nor Cloudflare credentials are set.")
         gemini_status = "not set" if not self.gemini_api_key else (
@@ -663,7 +683,7 @@ class GlobalRadar:
         "🔴 قوانین نگارش:\n"
         "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
         "۰. فقط و فقط فارسی بنویس. هیچ کاراکتر چینی، ژاپنی یا هیچ زبان دیگری (جز اسامی خاص انگلیسی مثل نام شرکت‌ها) نباید در خروجی باشد. این قانون رو با دقت کامل رعایت کن.\n"
-        "۰۰. برای اسم افراد یا مکان‌هایی که تلفظ فارسی رایج و شناخته‌شده دارن (مثل تنگه هرمز)، فقط همون املای درست و رایج رو بنویس. اگه از تلفظ فارسی یه اسم خاص (مخصوصاً اسم افراد) مطمئن نیستی، به‌جای حدس‌زدن یه املای اشتباه، همون اسم رو به انگلیسی/لاتین بنویس. هرگز املای اختراعی یا نامطمئن برای اسم خاص ننویس.\n"
+        "۰۰. برای اسم افراد یا مکان‌هایی که تلفظ فارسی رایج و شناخته‌شده دارن (مثل تنگه هرمز)، فقط همون املای درست و رایج رو بنویس. اگه از تلفظ فارسی یه اسم خاص (مخصوصاً اسم افراد) مطمئن نیستی، به‌جای حدس‌زدن یه املای اشتباه، همون اسم رو به انگلیسی/لاتین بنویس. هرگز املای اختراعی یا نامطمئن برای اسم خاص ننویس. **هرگز اسم یه شخص رو با یه اسم فارسی رایج دیگه که فقط شبیهش به نظر میاد جایگزین نکن** — مثلاً «Kevin» باید «کوین» ترجمه بشه، نه «کیوان» (که یه اسم کاملاً متفاوت و رایج فارسیه)؛ اگه مطمئن نیستی «کوین» درسته یا نه، همون «Kevin» رو به انگلیسی بنویس، ولی هرگز به یه اسم فارسی موجود دیگه که صداش شبیهه تبدیلش نکن.\n"
         "۰۰۰. هر عدد رو همیشه یک‌تکه و بدون فاصله بنویس (مثلاً 4400 یا 4,400 — هرگز 4 400 با فاصله‌ی وسط). فاصله‌ی داخل عدد در متن فارسی باعث به‌هم‌ریختن ترتیب نمایش عدد میشه.\n"
         "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
         "۳. باید دو نسخه از خبر بنویسی، هر دو بر اساس متن کامل خبر (TEXT)، نه فقط تیتر:\n"
@@ -758,15 +778,33 @@ class GlobalRadar:
                 time.sleep(1)
         return None
 
-    def _call_gemini(self, system_prompt, user_content):
+    def _throttle_gemini_rpm(self):
+        """Block until we're under CONFIG['GEMINI_MAX_RPM'] calls in the
+        trailing 60s. Shared across every Gemini call (selection, writing
+        fallback, title QA) and thread-safe, since candidates are processed
+        concurrently."""
+        max_rpm = CONFIG.get('GEMINI_MAX_RPM', 8)
+        while True:
+            with self.gemini_rpm_lock:
+                now = time.time()
+                self.gemini_call_times = [t for t in self.gemini_call_times if now - t < 60]
+                if len(self.gemini_call_times) < max_rpm:
+                    self.gemini_call_times.append(now)
+                    return
+                wait_for = 60 - (now - self.gemini_call_times[0]) + 0.1
+            time.sleep(max(wait_for, 0.1))
+
+    def _call_gemini(self, system_prompt, user_content, model=None):
         if not self.gemini_api_key:
             return None
+        model = model or self.gemini_model
         gemini_url = (
             f"https://generativelanguage.googleapis.com/v1beta/models/"
-            f"{self.gemini_model}:generateContent"
+            f"{model}:generateContent"
         )
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
+                self._throttle_gemini_rpm()
                 resp = self.scraper.post(
                     gemini_url,
                     headers={"x-goog-api-key": self.gemini_api_key, "Content-Type": "application/json"},
@@ -780,6 +818,10 @@ class GlobalRadar:
                     },
                     timeout=CONFIG.get('AI_TIMEOUT', 45),
                 )
+                if resp.status_code == 429:
+                    logger.warning(f"Gemini 429 (rate limited): {resp.text[:200]}")
+                    time.sleep(5)
+                    continue
                 if resp.status_code != 200:
                     logger.warning(f"Gemini HTTP {resp.status_code}: {resp.text[:200]}")
                     time.sleep(1)
@@ -821,7 +863,7 @@ class GlobalRadar:
             f"SOURCE: {source_name}\nHEADLINE: {headline}\nSNIPPET: {snippet[:500]}\n\n"
             f"اخبار منتشرشده‌ی اخیر (برای چک تکراری نبودن):\n{recent_titles or '(هیچ‌کدام)'}"
         )
-        data = self._call_gemini(self._SELECTION_PROMPT, user_content)
+        data = self._call_gemini(self._SELECTION_PROMPT, user_content, model=self.gemini_model_selection)
         if data and 'category' in data:
             data['_selected_by'] = 'gemini'
             return data
@@ -856,6 +898,7 @@ class GlobalRadar:
         "مشکلاتی که باید پیدا کنی: فعل نداشتن، فعل با صرف غلط (زمان/شخص اشتباه)، جمله‌ی ناقص یا نامفهوم، ترتیب عجیب کلمات.\n"
         "اگه تیتر از نظر دستوری کاملاً درست و روان بود، همون رو بدون هیچ تغییری برگردون.\n"
         "اگه ایراد داشت، فقط حداقل تغییر لازم برای درست‌کردنش رو بده — معنا و طول تیتر رو حفظ کن، بازنویسی کامل نکن.\n"
+        "🚫 هرگز اسم خاص (اسم شخص، شرکت، مکان) رو تغییر نده، حتی اگه فکر می‌کنی یه املای رایج‌تر یا آشناتر هست — فقط دستور زبان و فعل رو اصلاح کن، نه اسامی رو.\n"
         "خروجی فقط این JSON باشه، بدون هیچ توضیح اضافه: {\"title_fa\": \"...\"}"
     )
 
@@ -1137,6 +1180,71 @@ class GlobalRadar:
 
         return self.send_digest_to_telegram(items, market=market)
 
+    def _load_schedule_state(self):
+        try:
+            with open(CONFIG['FILES']['SCHEDULE_STATE'], 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception:
+            return {}
+
+    def send_price_only_update(self, market):
+        """Bare price-update message for runs where no news cleared the bar
+        — keeps the channel from going silent without pretending there's
+        real news. Capped separately per day by the caller."""
+        token = CONFIG['TELEGRAM']['BOT_TOKEN']
+        chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
+        if not token or not chat_id or not market:
+            return False
+
+        def esc(s):
+            return html.escape(str(s or ''), quote=False)
+
+        now_ir = self._get_tehran_time()
+        time_str = now_ir.strftime("%H:%M")
+        date_str = now_ir.strftime("%Y/%m/%d")
+        base_site = os.environ.get('SITE_URL', '')
+
+        text = (
+            f"💰 <b>آپدیت قیمت‌ها</b>\n⏱ {time_str} — {date_str} (تهران)\n\n"
+            f"🪙 سکه: {esc(market.get('coin_irt'))}  |  🥇 طلا: {esc(market.get('gold_oz_usd'))}\n"
+            f"₮ تتر: {esc(market.get('usdt_irt'))}  |  ₿ بیت‌کوین: {esc(market.get('btc'))}\n"
+            f"Ξ اتریوم: {esc(market.get('eth'))}  |  ✕ ریپل: {esc(market.get('xrp'))}\n\n"
+            f"در این بازه خبر مهمی برای گزارش پیدا نشد."
+        )
+        if base_site:
+            text += f"\n\n📌 <a href=\"{esc(base_site)}\">مشاهده آرشیو کامل</a>"
+
+        try:
+            resp = self.scraper.post(
+                f"https://api.telegram.org/bot{token}/sendMessage",
+                json={"chat_id": chat_id, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True},
+                timeout=30,
+            )
+            if resp.status_code == 200:
+                logger.info(">>> Price-only update sent to Telegram (no qualifying news this run).")
+                return True
+            logger.error(f"Price-only Telegram send failed: {resp.status_code} {resp.text[:200]}")
+            return False
+        except Exception as e:
+            logger.error(f"Price-only Telegram send exception: {e}")
+            return False
+
+    def _maybe_send_price_only_update(self, market):
+        if not market:
+            return
+        state = self._load_schedule_state()
+        today = self._get_tehran_time().strftime('%Y-%m-%d')
+        if state.get('date') != today:
+            state = {'date': today, 'price_only_sent': 0}
+        cap = CONFIG.get('MAX_PRICE_ONLY_PER_DAY', 2)
+        sent_today = state.get('price_only_sent', 0)
+        if sent_today >= cap:
+            logger.info(f"Skipping price-only update — already sent {sent_today}/{cap} today.")
+            return
+        if self.send_price_only_update(market):
+            state['price_only_sent'] = sent_today + 1
+            self._atomic_json_dump(CONFIG['FILES']['SCHEDULE_STATE'], state)
+
     def send_digest_to_telegram(self, items, market=None):
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
@@ -1216,7 +1324,9 @@ class GlobalRadar:
         logger.info(
             f">>> Cloudflare model: {self.cf_model or '(not set)'} "
             f"({len(self.cf_accounts)} account(s)) | "
-            f"Gemini model: {self.gemini_model if self.gemini_api_key else '(no key set)'}"
+            f"Gemini (writing/QA): {self.gemini_model if self.gemini_api_key else '(no key set)'} | "
+            f"Gemini (selection): {self.gemini_model_selection if self.gemini_api_key else '(no key set)'} | "
+            f"max {CONFIG.get('GEMINI_MAX_RPM', 8)} RPM"
         )
 
         market_snapshot = self.fetch_market_rates()
@@ -1330,6 +1440,7 @@ class GlobalRadar:
                 self._atomic_json_dump(CONFIG['FILES']['NEWS'], self.existing_news)
         else:
             logger.info("No pending items above the Telegram urgency bar this run.")
+            self._maybe_send_price_only_update(market_snapshot)
 
         logger.info(f">>> Done. New={len(new_items)} | Failed hosts this run={len(self.failed_hosts)}")
 
