@@ -1,5 +1,49 @@
 [
   {
+    "id": "018be48a75",
+    "title_fa": "‏قیمت‌های نفت بازار اوراق جهانی را به لبه نزدیک می‌کند",
+    "title_en": "Oil prices push global bond market closer to the edge",
+    "summary": [
+      "‏قیمت نفت بالا رفت و بازده اوراق قرضه جهانی افزایش یافت.",
+      "‏این فشار می‌تواند هزینه‌های استقراض دولت‌ها و شرکت‌ها را بالا ببرد.",
+      "‏افزایش هزینه‌های انرژی به عنوان عامل اصلی تورمی شناخته شد."
+    ],
+    "body_fa": "‏قیمت نفت در ماه‌های اخیر به سطوح بالایی رسید و این امر باعث شد بازده اوراق قرضه در سرتاسر جهان افزایش یابد. تحلیل‌گران می‌گویند که هزینه‌های انرژی بالاتر، فشار تورمی جدیدی ایجاد کرده که به سرعت به بازارهای ثابت‌درآمد منتقل می‌شود. افزایش بازده‌ها هزینه استقراض برای دولت‌ها و شرکت‌ها را بالا می‌برد و می‌تواند نقدینگی بازار را تحت فشار قرار دهد. این تحولات نشان می‌دهد که نوسانات انرژی می‌تواند به‌سرعت به ریسک‌های مالی گسترده‌تری منجر شود. در نتیجه، سرمایه‌گذاران به دنبال راهکارهای حفاظتی در برابر این فشارهای تورمی هستند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت نفت و اوراق",
+    "tag": "نفت",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "The Wall Street Journal on MSN",
+    "url": "https://www.msn.com/en-us/money/economy/oil-prices-push-global-bond-market-closer-to-the-edge/ar-AA2bmBsT?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/money/economy/oil-prices-push-global-bond-market-closer-to-the-edge/ar-AA2bmBsT",
+    "image": "https://www.bing.com/th?id=ONUT.APOVr33idXfxuHm97qgeGA",
+    "timestamp": 1788283459.977792,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b4b21163ec",
+    "title_fa": "‏سود اوراق قرضه جهانی بالا رفت؛ بازارها کاهش یافت",
+    "title_en": "Bond yields rise as oil prices fan inflation fears; stocks slip",
+    "summary": [
+      "‏بازده اوراق دولتی جهانی افزایش یافت؛ ۱۰‑ساله ژاپن به ۳٪ رسید",
+      "‏این افزایش نشان‌دهنده نگرانی از تورم و احتمال افزایش نرخ بهره توسط بانک‌های مرکزی است",
+      "‏قیمت نفت هم بالای ۲٪ شد و فشار بر سهام‌ها را افزاش داد"
+    ],
+    "body_fa": "‏بازده اوراق قرضه دولتی در سطح جهانی دوباره افزایش یافت؛ ۱۰‑ساله ژاپن برای اولین بار از سال ۱۹۹۶ به ۳٪ رسید و اوراق بریتانیا و ناحیه یورو نیز به بالاترین سطوح بیش از ده ساله نزدیک شدند. این حرکت ناشی از جهش بیش از ۲٪ در قیمت نفت است که پس از تجدید درگیری‌های ایالات متحده و ایران و ترس از اختلالات تأمین در خاورمیانه رخ داد. افزایش قیمت نفت باعث بالا رفتن انتظارات تورمی شد و داده‌های اخیر نشان داد که تورم ناحیه یورو دوباره بالای ۳٪ است. در پی این، معامله‌گران احتمال افزایش نرخ بهره در سپتامبر توسط فدرال رزرو و بانک مرکزی اروپا را افزایش دادند. بازار سهام نیز واکنش منفی نشان داد؛ شاخص‌های داو جونز، اس اند پی ۵۰۰ و نزدک هر کدام حدود نیم درصد کاهش یافتند. وزیرفرصت خزانه‌داری آمریکا نیز احتمال اعمال تحریم‌های بانکی علیه ایران را اعلام کرد که می‌تواند فشار اقتصادی بیشتری بر خاورمیانه ایجاد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار اوراق قرضه",
+    "tag": "نرخ بهره",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/articles/bond-selloff-pressures-stocks-oil-014547216.html",
+    "clean_url": "https://finance.yahoo.com/markets/articles/bond-selloff-pressures-stocks-oil-014547216.html",
+    "image": "https://media.zenfs.com/en/reuters.com/2de9db3e6fbfb394da64ad5ebf91243a.jpg",
+    "timestamp": 1788280380.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "02767ea4da",
     "title_fa": "‏چین به تحریم‌های آمریکا علیه ایران پایبند نخواهد شد",
     "title_en": "Why China will not comply with US sanctions on Iran",
@@ -19,6 +63,28 @@
     "clean_url": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-04T053738Z_188766805_RC2T7KASRMG4_RTRMADP_3_OIL-ASIA-COLUMN-RUSSELL-1788263766.jpg?resize=1920%2C1440",
     "timestamp": 1788269747.8320405,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "78251291f9",
+    "title_fa": "‏سکو در بیسکهک حملات و تحریم‌ها ایران را محکوم کرد",
+    "title_en": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
+    "summary": [
+      "‏رهبران سکو در بیسکهک، بیانیه‌ای صادر کردند که حملات آمریکا‑اسرائیل و تحریم‌های غربی علیه ایران را محکوم می‌کند.",
+      "‏این موضع‌گیری نشان‌دهنده اتحاد چین، روسیه، هند و پاکستان در حمایت از حاکمیت ایران و مخالفت با فشارهای یک‌جانبه است.",
+      "‏بیانیه همچنین به حق ایران در پیمان عدم گسترش سلاح‌های هسته‌ای (NPT) اشاره کرد."
+    ],
+    "body_fa": "‏رهبران سازمان همکاری شانگهای در بیسکهک، که دو روز به طول انجامید، بیانیه‌ای مشترک صادر کردند. در این بیانیه، حملات نظامی ایالات متحده و اسرائیل به خاک ایران و خساراتی که به اقتصاد و مردم این کشور وارد کرده‌اند، به‌صراحت محکوم شد. اعضای سکو همچنین تأکید کردند که این اقدامات نقض اصول حقوق بین‌الملل و منشور سازمان ملل است و خطر جدی برای صلح و امنیت جهانی ایجاد می‌کند. چین، روسیه، هند و پاکستان ضمن ابراز همدردی با ایران، حمایت خود را از حاکمیت و تمامیت ارضی این کشور اعلام کردند و خواستار حل مسالمت‌آمیز منازعات شدند. بیانیه همچنین به مخالفت سکو با هرگونه تحریم‌های یک‌جانبه که با قوانین سازمان ملل و WTO در تضاد باشد، اشاره کرد و هشدار داد که این تحریم‌ها می‌توانند اثر منفی بر اقتصاد جهانی داشته باشند. در کنار این موضع‌گیری، سکو حق ایران را به عنوان عضو پیمان عدم گسترش سلاح‌های هسته‌ای (NPT) برای استفاده صلح‌آمیز از انرژی هسته‌ای تأیید کرد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "سازمان‌های بین‌المللی",
+    "tag": "سکو",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Al Jazeera · via Yahoo News",
+    "url": "https://www.yahoo.com/news/world/articles/sco-slams-attacks-sanctions-iran-133233378.html",
+    "clean_url": "https://www.yahoo.com/news/world/articles/sco-slams-attacks-sanctions-iran-133233378.html",
+    "image": "https://media.zenfs.com/en/al_jazeera_289/263666636ed0d94ae54a49129fdf0330.jpg",
+    "timestamp": 1788268921.0,
     "sent_to_telegram": true
   },
   {
@@ -63,6 +129,28 @@
     "clean_url": "https://www.firstonline.info/en/Government-bonds-under-pressure:-what's-happening-to-bonds-and-why-the-US-and-Japan-are-under-special-surveillance--but-France-and-Germany-are-also-under-scrutiny.",
     "image": "https://www.firstonline.info/wp-content/uploads/2019/12/bond.jpg",
     "timestamp": 1788247020.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "04daf947ec",
+    "title_fa": "‏هش‌دکس توکن HYPE را به ETF کریپتو ناسداک افزود",
+    "title_en": "Hashdex adds Hyperliquid’s HYPE to Nasdaq crypto index ETF",
+    "summary": [
+      "‏هش‌دکس توکن HYPE را به ETF ایندکس کریپتو ناسداک افزود",
+      "‏این افزودن نشان‌دهنده گسترش سبد به نه دارایی و جذب پلتفرم بزرگ غیرمتمرکز است",
+      "‏HYPE سال جاری ۲۳۰٪ رشد کرده و قیمتش حدود ۸۳ دلار است"
+    ],
+    "body_fa": "‏هش‌دکس در خبر رسمی خود اعلام کرد که توکن HYPE متعلق به پلتفرم غیرمتمرکز Hyperliquid به‌موقع روز سه‌شنبه به صندوق ETF ایندکس کریپتو ناسداک (NCIQ) اضافه شد. این افزودن سبد صندوق را به نه دارایی گسترش داد؛ دارایی‌های دیگر شامل بیت‌کوین، اتریوم، سولانا، XRP ، استلار، کاردانو، چین‌لینک و بیت‌کوین کش هستند. برای ورود به ایندکس، HYPE باید معیارهای سرمایه بازار، نقدینگی، امکان نگهداری امن و استانداردهای نظارتی را برآورده می‌کرد. سامیر کرابِج، مدیر ارشد سرمایه‌گذاری هش‌دکس، گفت این گام نشان می‌دهد صندوق می‌تواند به‌سرعت با رشد اکوسیستم‌های نوظهور همگام شود و به سرمایه‌گذاران دسترسی سیستماتیک به آن‌ها بدهد. توکن HYPE در سال جاری حدود ۲۳۰٪ رشد کرده و قیمت آن به حدود ۸۳ دلار رسیده است. همزمان، Hyperliquid در مذاکراتی با Payward (شرکت مادر Kraken) برای ارائه فیوچرز دائمی تحت نظارت CFTC به‌صورت بیتی‌نومیل در ایالات متحده است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ETF ایندکس",
+    "tag": "HYPE",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/hashdex-adds-hyperliquids-hype-to-nasdaq-crypto-index-etf/",
+    "clean_url": "https://cryptobriefing.com/hashdex-adds-hyperliquids-hype-to-nasdaq-crypto-index-etf",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01093655/Hashdex-adds-HYPE-800x419.jpg",
+    "timestamp": 1788244620.0,
     "sent_to_telegram": true
   },
   {
