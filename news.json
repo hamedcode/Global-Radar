@@ -88,6 +88,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "290e0d8002",
+    "title_fa": "‏هک‌های کریپتو در اوت 136 میلیون دلار هزینه کردند",
+    "title_en": "50 major hacks cost crypto investors $136M in August",
+    "summary": [
+      "‏در اوت 50 هک بزرگ کریپتو ثبت شد که 136 میلیون دلار خسارت زد",
+      "‏این تعداد نسبت به ژوئیه ۶۷٪ افزایش یافت و نگرانی‌ها درباره امنیت دارایی‌های دیجیتال را تقویت کرد",
+      "‏هکرها عمدتاً توکن‌های DeFi و کیف پول‌های غیرمتمرکز را هدف گرفتند"
+    ],
+    "body_fa": "‏در ماه اوت سال جاری، ۵۰ هک مهم در حوزهٔ رمزارزها ثبت شد که مجموع خسارت آن‌ها حدود ۱۳۶ میلیون دلار برآورد می‌شود. این رقم نسبت به ماه ژوئیه ۶۷ درصد رشد داشته و نشان‌دهندهٔ افزایش خطرات امنیتی در فضای دیجیتال است. اکثر حملات به توکن‌های مالی غیرمتمرکز (DeFi) و کیف‌پول‌های غیرمتمرکز متمرکز بودند. کارشناسان هشدار دادند که این روند می‌تواند اعتماد سرمایه‌گذاران را تحت فشار قرار داده و فشار بیشتری بر نهادهای نظارتی برای تقویت چارچوب‌های امنیتی ایجاد کند. شرکت‌های امنیتی نیز به‌سرعت در حال به‌روزرسانی ابزارهای دفاعی خود هستند تا از تکرار چنین خساراتی جلوگیری کنند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "هک‌های کریپتو",
+    "tag": "هک",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "TheStreet on MSN",
+    "url": "https://www.msn.com/en-us/news/other/50-major-hacks-cost-crypto-investors-136m-in-august/ar-AA2bmA4I",
+    "clean_url": "https://www.msn.com/en-us/news/other/50-major-hacks-cost-crypto-investors-136m-in-august/ar-AA2bmA4I",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1788259500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1c5ec2e0e1",
     "title_fa": "‏تعرفه ۵۰٪ آمریکا بر کالاهای کانادا به جنگ تجاری نمی‌انجامد",
     "title_en": "Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish",
