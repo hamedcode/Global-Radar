@@ -2,9 +2,9 @@ name: Global Radar Update
 
 on:
   schedule:
-    # 4 runs/day, timed to land inside the 4 Tehran digest windows (08/13/17/21):
-    - cron: '30 4 * * *'   # 04:30 UTC = 08:00 Tehran
-    - cron: '30 8 * * *'   # 08:30 UTC = 12:00 Tehran
+    # 4 runs/day, timed to land inside the 4 Tehran digest windows (09/13/17/21):
+    - cron: '30 5 * * *'   # 05:30 UTC = 09:00 Tehran
+    - cron: '30 9 * * *'   # 09:30 UTC = 13:00 Tehran
     - cron: '30 13 * * *'  # 13:30 UTC = 17:00 Tehran
     - cron: '30 17 * * *'  # 17:30 UTC = 21:00 Tehran
   workflow_dispatch:
