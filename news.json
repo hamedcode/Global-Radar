@@ -44,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0cba548677",
+    "title_fa": "‏Coinbase معاملات مشتقهٔ رمزارزی را در کانادا راه‌اندازی کرد",
+    "title_en": "Coinbase bets on Canada crypto market with derivative contracts launch",
+    "summary": [
+      "‏Coinbase به سرمایه‌گذاران کانادایی امکان دسترسی به قراردادهای مشتقهٔ رمزارزی نظارت‌شده را داد.",
+      "‏این گام بازار رمزارزهای کانادا را گسترش می‌دهد و رقابت را با صرافی‌های محلی تشدید می‌کند.",
+      "‏قراردادها تحت نظارت سازمان‌های مالی کانادا هستند."
+    ],
+    "body_fa": "‏Coinbase در تاریخ ۲ سپتامبر اعلام کرد که برای سرمایه‌گذاران واجد شرایط در کانادا، قراردادهای مشتقهٔ رمزارزی نظارت‌شده را راه‌اندازی کرده است. این محصولات به‌صورت داخلی و تحت قوانین سازمان‌های نظارتی مالی کانادا ارائه می‌شوند و به کاربران امکان معامله با لوریج و پوشش ریسک را می‌دهند. این اقدام نشان‌دهندهٔ تمایل صرافی‌های بزرگ به گسترش حضور در بازارهای تنظیم‌شده است و می‌تواند رقابت را برای صرافی‌های محلی افزایش دهد. کارشناسان پیش‌بینی می‌کنند این گسترش می‌تواند حجم معاملات رمزارزها در کانادا را به‌طور قابل‌توجهی افزایش دهد و مسیر پذیرش قانونی بیشتر را هموار سازد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پلتفرم‌های معاملاتی",
+    "tag": "Coinbase",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Cryptopolitan on MSN",
+    "url": "https://www.msn.com/en-us/news/other/coinbase-bets-on-canada-crypto-market-with-derivative-contracts-launch/ar-AA2brLm3",
+    "clean_url": "https://www.msn.com/en-us/news/other/coinbase-bets-on-canada-crypto-market-with-derivative-contracts-launch/ar-AA2brLm3",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1788351310.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "635d4e92df",
     "title_fa": "‏بانک مرکزی بنگلادش بستهٔ تمدید وام‌های معوق را اجرا کرد",
     "title_en": "Why Cenbank's special rescheduling package fails to fix default loan problems",
@@ -85,6 +107,28 @@
     "clean_url": "https://www.reuters.com/business/energy/china-maintains-stable-refined-fuel-exports-under-relaxed-controls-sources-say-2026-09-02",
     "image": "https://s.yimg.com/bo/9be269bd-8337-5522-82cc-37029f4479af_1781273238192.jpg",
     "timestamp": 1788335299.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e1ad867e40",
+    "title_fa": "‏بازده‌های بلندمدت خزانه‌داری آمریکا به بالاترین سطح از سال ۲۰۰۷ رسید",
+    "title_en": "The history of financing America, in six crisis episodes",
+    "summary": [
+      "‏بازده‌های طولانی‌مدت اوراق خزانه‌داری آمریکا به بالاترین سطح از سال ۲۰۰۷ رسید",
+      "‏این افزایش نشان‌دهنده نگرانی‌های بازار از چشم‌انداز مالی ایالات متحده است",
+      "‏بدهی ملی نیز از ۴۰ تریلیون دلار فراتر رفته است"
+    ],
+    "body_fa": "‏بازده‌های طولانی‌مدت اوراق خزانه‌داری ایالات متحده به بالاترین سطح خود از سال ۲۰۰۷ رسیده‌اند. این روند نشان می‌دهد که سرمایه‌گذاران نسبت به توان پرداخت بدهی‌های دولتی آمریکا اضطراب دارند. در همین زمان، بدهی ملی آمریکا از ۴۰ تریلیون دلار عبور کرده و به رکوردهای تاریخی نزدیک می‌شود. این ترکیب از نرخ بهره بالا و بدهی عظیم می‌تواند فشار بر سیاست‌گذاران مالی برای اصلاحات مالی ایجاد کند. تحلیل‌گران هشدار می‌دهند که ادامه این روند ممکن است نوسانات بیشتری در بازارهای جهانی به‌وجود آورد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "مالی عمومی",
+    "tag": "بدهی‌دولتی",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/history-financing-america-six-crisis-episodes-2026-09-02/",
+    "clean_url": "https://www.reuters.com/legal/government/history-financing-america-six-crisis-episodes-2026-09-02",
+    "image": "https://www.reuters.com/resizer/v2/CJKP7YZLEFPOHLUM7T56Q6Q7EQ.jpg?auth=68f7a3f5e79bc1acb7821befdab81f592a5e7d78784c02576593a59854dd6854&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1788325320.0,
     "sent_to_telegram": true
   },
   {
