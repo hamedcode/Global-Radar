@@ -1,5 +1,27 @@
 [
   {
+    "id": "244de9bd2e",
+    "title_fa": "‏دولت نیوزیلند بدهی را دو برابر کرد؛ خطر افزایش یافت",
+    "title_en": "Nation of Debt: Political parties largely ignorant to debt dilemma, as economists fear we're living beyond our means",
+    "summary": [
+      "‏دولت نیوزیلند بدهی عمومی را به ۲۵۰ میلیارد دلار رسانده و نسبت به ۲۰۱۹ دو برابر شده است",
+      "‏این افزایش بدهی ریسک مالی کشور را در صورت وقوع بحران‌های آینده بالا می‌برد",
+      "‏احزاب سیاسی نظرات متفاوتی درباره مالیات و هزینه‌ها دارند اما برنامه‌ای جدی برای کاهش بدهی ندارند"
+    ],
+    "body_fa": "‏دولت نیوزیلند همچنان برای تأمین هزینه‌های جاری به استقراض ادامه می‌دهد و تا پایان ماه مه بدهی هسته‌ای دولت به حدود ۲۵۰ میلیارد دلار رسید که نسبت به سال ۲۰۱۹ حدود ۱۶۷ درصد افزایش یافته است. نسبت بدهی به تولید ناخالص داخلی در مه ۲۰۲۴ به ۴۶ درصد پیش‌بینی می‌شود که نزدیک به سقف ۵۰ درصدی است که صندوق خزانه‌داری در زمان‌های عادی می‌خواهد حفظ شود. کارشناسان اقتصادی، از جمله نهادهای بین‌المللی مانند IMF و OECD ، هشدار می‌دهند که بدون افزایش مالیات یا کاهش هزینه‌ها، فشار مالی بر کشور در صورت وقوع بحران‌های طبیعی یا ژئوپلیتیکی بیشتر خواهد شد. احزاب سیاسی نظرات متفاوتی درباره نحوهٔ مدیریت بدهی دارند؛ ملی‌گرایان و حزب فرصت هزینه کمتر و مالیات کمتر را می‌خواهند، در حالی که کارگرها و سبزها هزینه و مالیات بیشتری را پیشنهاد می‌کنند. این اختلافات در پیش‌برد برنامه‌های مالی می‌تواند بر تصمیم‌گیری‌های آینده دولت و وضعیت بازار اوراق قرضهٔ نیوزیلند تأثیر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بدهی عمومی",
+    "tag": "بدهی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "NZ Herald",
+    "url": "https://www.nzherald.co.nz/business/personal-finance/tax/nation-of-debt-political-parties-largely-ignorant-to-debt-dilemma-as-economists-fear-were-living-beyond-our-means/premium/FDOKTS6FAJGKZBHGAOJLWSWYGU/",
+    "clean_url": "https://www.nzherald.co.nz/business/personal-finance/tax/nation-of-debt-political-parties-largely-ignorant-to-debt-dilemma-as-economists-fear-were-living-beyond-our-means/premium/FDOKTS6FAJGKZBHGAOJLWSWYGU",
+    "image": "https://www.nzherald.co.nz/resizer/v2/4SUMUBFNWVBTXBH3TJCTEEWPGE.jpg?auth=ca93069a7b97aa5bafc395df15f03d3773d24d8b80990696d092f5c172073039&width=1200&height=675&quality=70&smart=true",
+    "timestamp": 1788368460.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "7dddf649a3",
     "title_fa": "‏آلمان پس از حمله پهپاد روسی به لایپزیگ واکنش داد",
     "title_en": "Europe must accept Russia has torn up the rule book",
