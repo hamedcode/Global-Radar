@@ -66,6 +66,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "f04dbca82f",
+    "title_fa": "‏سهام Coinbase ، Circle و MicroStrategy با رشد کریپتو افزایش یافت",
+    "title_en": "Coinbase, Circle, MicroStrategy stocks surge on crypto rebound",
+    "summary": [
+      "‏سهام شرکت‌های Coinbase ، Circle و MicroStrategy پس از جهش بازار کریپتو به‌سرعت افزایش یافت.",
+      "‏این رشد نشان‌دهنده بازگشت سرمایه‌گذاران به دارایی‌های دیجیتال و تأثیر مثبت آن بر سهام مرتبط است.",
+      "‏به‌ویژه Coinbase که بزرگ‌ترین صرافی رمزارز جهان است، بیش از ۴٪ رشد کرد."
+    ],
+    "body_fa": "‏در پی رالی صعودی بازار رمزارزها، سهام شرکت‌های مرتبط با کریپتو به‌سرعت افزایش یافت. به‌ویژه صرافی بزرگ Coinbase که در بورس نیویورک فهرست شده، حدود ۴٪ رشد کرد. Circle ، شرکت خدمات پرداخت مبتنی بر USDC ، و MicroStrategy ، صاحب بیت‌کوین‌های عظیم، نیز به ترتیب ۳٪ و ۲.۵٪ افزایش یافتند. این حرکت نشان می‌دهد که سرمایه‌گذاران به‌دنبال بهره‌برداری از بازگشت قیمت‌های دیجیتال، به سهام این شرکت‌ها روی می‌آورند. تحلیل‌گران پیش‌بینی می‌کنند که ادامهٔ رشد بازار رمزارز می‌تواند فشار خرید بر این سهام را تقویت کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سهام کریپتو",
+    "tag": "Coinbase",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TheStreet on MSN",
+    "url": "https://www.msn.com/en-us/money/top-stocks/coinbase-circle-microstrategy-stocks-surge-on-crypto-rebound/ar-AA2bvwp2",
+    "clean_url": "https://www.msn.com/en-us/money/top-stocks/coinbase-circle-microstrategy-stocks-surge-on-crypto-rebound/ar-AA2bvwp2",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1788433560.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3ae3a43061",
+    "title_fa": "‏آژانس رتبه‌بندی ژاپنی رتبه هند را به A- ارتقا داد",
+    "title_en": "India's economy shatters a 35-year barrier to enter A-rated club",
+    "summary": [
+      "‏آژانس رتبه‌بندی ژاپنی (JCRA) رتبه اعتباری حاکمیتی هند را از BBB+ به A- ارتقا داد",
+      "‏این ارتقا پس از 35 سال است که هند دوباره در دسته A قرار می‌گیرد و می‌تواند هزینه‌های قرض‌گیری و جذب سرمایه را کاهش دهد",
+      "‏این تغییر پس از ارتقاءهای قبلی توسط Morningstar DBRS نیز رخ داد"
+    ],
+    "body_fa": "‏آژانس رتبه‌بندی ژاپنی (JCRA) رتبه اعتباری حاکمیتی هند را از BBB+ به A- ارتقا داد. این ارتقا اولین بار است که هند پس از 35 سال دوباره در دسته A قرار می‌گیرد. پیش از این، موسسات دیگری مانند Morningstar DBRS نیز رتبه هند را بهبود داده بودند. ارتقای رتبه می‌تواند هزینه‌های قرض‌گیری دولت را کاهش داده و جذابیت سرمایه‌گذاری خارجی را افزایش دهد. در نتیجه، انتظار می‌رود فشار بر روپیه کاهش یابد و بازارهای مالی هندی رونق بیشتری پیدا کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "رتبه‌سنجی اعتباری",
+    "tag": "رتبه‌سنجی",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Economic Times",
+    "url": "https://www.msn.com/en-in/money/credit-cards/india-s-economy-shatters-a-35-year-barrier-to-enter-a-rated-club/ar-AA2bu9tz",
+    "clean_url": "https://www.msn.com/en-in/money/credit-cards/india-s-economy-shatters-a-35-year-barrier-to-enter-a-rated-club/ar-AA2bu9tz",
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2btqh3.img?w=1200&h=900&m=4&q=65",
+    "timestamp": 1788427993.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "efddbc3f13",
     "title_fa": "‏ال‌نینو فوق‌العاده تا 2027 اقتصاد جهان را تهدید می‌کند",
     "title_en": "'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets",
