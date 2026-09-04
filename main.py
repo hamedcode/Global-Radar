@@ -1097,6 +1097,27 @@ class GlobalRadar:
 
     # ───────────────────────── telegram digest ─────────────────────────
 
+    def _build_market_html(self, market, esc):
+        if not market:
+            return ""
+        return (
+            "<table bordered striped>\n"
+            "<tr><th>🪙 سکه تمام</th><th>🥇 انس طلا</th><th>₮ تتر</th></tr>\n"
+            f"<tr>"
+            f"<td align='center'>{esc(market.get('coin_irt'))}</td>"
+            f"<td align='center'>{esc(market.get('gold_oz_usd'))}</td>"
+            f"<td align='center'>{esc(market.get('usdt_irt'))}</td>"
+            f"</tr>\n</table>\n"
+            "<hr/>\n"
+            "<table bordered striped>\n"
+            "<tr><th>₿ بیت‌کوین</th><th>Ξ اتریوم</th><th>✕ ریپل</th></tr>\n"
+            f"<tr>"
+            f"<td align='center'>{esc(market.get('btc'))}</td>"
+            f"<td align='center'>{esc(market.get('eth'))}</td>"
+            f"<td align='center'>{esc(market.get('xrp'))}</td>"
+            f"</tr>\n</table>\n"
+        )
+
     def send_rich_digest_to_telegram(self, items, market=None):
         """Send digest via Telegram's Bot API 10.1 Rich Messages (sendRichMessage).
         Falls back to a plain-text sendMessage digest if the rich call fails
@@ -1117,25 +1138,7 @@ class GlobalRadar:
 
         items_sorted = sorted(items, key=lambda x: x.get('urgency', 3), reverse=True)
 
-        market_html = ""
-        if market:
-            market_html = (
-                "<table bordered striped>\n"
-                "<tr><th>🪙 سکه تمام</th><th>🥇 انس طلا</th><th>₮ تتر</th></tr>\n"
-                f"<tr>"
-                f"<td align='center'>{esc(market.get('coin_irt'))}</td>"
-                f"<td align='center'>{esc(market.get('gold_oz_usd'))}</td>"
-                f"<td align='center'>{esc(market.get('usdt_irt'))}</td>"
-                f"</tr>\n</table>\n"
-                "<hr/>\n"
-                "<table bordered striped>\n"
-                "<tr><th>₿ بیت‌کوین</th><th>Ξ اتریوم</th><th>✕ ریپل</th></tr>\n"
-                f"<tr>"
-                f"<td align='center'>{esc(market.get('btc'))}</td>"
-                f"<td align='center'>{esc(market.get('eth'))}</td>"
-                f"<td align='center'>{esc(market.get('xrp'))}</td>"
-                f"</tr>\n</table>\n"
-            )
+        market_html = self._build_market_html(market, esc)
 
         cat_emoji = CATEGORY_EMOJI
 
@@ -1199,7 +1202,8 @@ class GlobalRadar:
     def send_price_only_update(self, market):
         """Bare price-update message for runs where no news cleared the bar
         — keeps the channel from going silent without pretending there's
-        real news. Capped separately per day by the caller."""
+        real news. Uses the same two-table look as the news digest. Capped
+        separately per day by the caller."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id or not market:
@@ -1213,12 +1217,36 @@ class GlobalRadar:
         date_str = now_ir.strftime("%Y/%m/%d")
         base_site = os.environ.get('SITE_URL', '')
 
+        market_html = self._build_market_html(market, esc)
+        footer_html = ""
+        if base_site:
+            footer_html = f"<footer><p>📊 <a href=\"{esc(base_site)}\">آرشیو کامل رصد جهانی</a></p></footer>\n"
+
+        full_html = (
+            f"<h1>💰 آپدیت قیمت‌ها</h1>\n"
+            f"<p>⏱ {esc(time_str)} — {esc(date_str)} (تهران)</p>\n"
+            f"{market_html}"
+            f"{footer_html}"
+        )
+
+        try:
+            resp = self.scraper.post(
+                f"https://api.telegram.org/bot{token}/sendRichMessage",
+                json={"chat_id": chat_id, "rich_message": {"html": full_html, "is_rtl": True}},
+                timeout=30,
+            )
+            if resp.status_code == 200:
+                logger.info(">>> Price-only update sent to Telegram (Rich Message, no qualifying news this run).")
+                return True
+            logger.warning(f"Price-only sendRichMessage failed ({resp.status_code}): {resp.text[:200]} — falling back to plain text.")
+        except Exception as e:
+            logger.warning(f"Price-only sendRichMessage exception: {e} — falling back to plain text.")
+
+        # Plain-text fallback, still two rows (pipe-separated) to mirror the table layout.
         text = (
             f"💰 <b>آپدیت قیمت‌ها</b>\n⏱ {time_str} — {date_str} (تهران)\n\n"
-            f"🪙 سکه: {esc(market.get('coin_irt'))}  |  🥇 طلا: {esc(market.get('gold_oz_usd'))}\n"
-            f"₮ تتر: {esc(market.get('usdt_irt'))}  |  ₿ بیت‌کوین: {esc(market.get('btc'))}\n"
-            f"Ξ اتریوم: {esc(market.get('eth'))}  |  ✕ ریپل: {esc(market.get('xrp'))}\n\n"
-            f"در این بازه خبر مهمی برای گزارش پیدا نشد."
+            f"🪙 سکه: {esc(market.get('coin_irt'))}  |  🥇 طلا: {esc(market.get('gold_oz_usd'))}  |  ₮ تتر: {esc(market.get('usdt_irt'))}\n"
+            f"₿ بیت‌کوین: {esc(market.get('btc'))}  |  Ξ اتریوم: {esc(market.get('eth'))}  |  ✕ ریپل: {esc(market.get('xrp'))}"
         )
         if base_site:
             text += f"\n\n📌 <a href=\"{esc(base_site)}\">مشاهده آرشیو کامل</a>"
@@ -1230,7 +1258,7 @@ class GlobalRadar:
                 timeout=30,
             )
             if resp.status_code == 200:
-                logger.info(">>> Price-only update sent to Telegram (no qualifying news this run).")
+                logger.info(">>> Price-only update sent to Telegram (plain-text fallback).")
                 return True
             logger.error(f"Price-only Telegram send failed: {resp.status_code} {resp.text[:200]}")
             return False
