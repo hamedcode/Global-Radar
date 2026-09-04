@@ -1,5 +1,71 @@
 [
   {
+    "id": "b243f03a01",
+    "title_fa": "‏شی جین‌پینگ با هیئت‌مدیران بزرگ به واشنگتن می‌رود",
+    "title_en": "Exclusive-China's Xi to bring large CEO delegation on US visit, sources say",
+    "summary": [
+      "‏شی جین‌پینگ برای اجلاس ۲۴ سپتامبر یک هیئت بزرگ از مدیران عامل چینی را به همراه خود به واشنگتن می‌برد.",
+      "‏این حرکت نشان‌دهنده تمایل پکن به تقویت روابط سرمایه‌گذاری با آمریکا و می‌تواند پیش‌زمینه‌ای برای مذاکرات تجاری باشد.",
+      "‏آخرین بار چنین هیئتی در ۲۰۱۵ حضور داشت و شامل جاك ما و پوونی ما بود."
+    ],
+    "body_fa": "‏شی جین‌پینگ برای اجلاس ۲۴ سپتامبر در واشنگتن یک هیئت بزرگ از مدیران عامل و اجراییان چینی را همراه خود می‌آورد. این تصمیم در حالی است که روابط تجاری چین و آمریکا تحت فشارهای تعرفه‌ای و محدودیت‌های سرمایه‌گذاری قرار دارد. حضور مدیران بزرگ می‌تواند نشان‌دهنده تمایل پکن به بازگشت به تعاملات اقتصادی و ارائه فرصت‌های سرمایه‌گذاری برای آمریکا باشد، به‌ویژه پیش از انتخابات میانی ایالات متحده. آخرین بار چنین هیئتی در سال ۲۰۱۵ به همراه جاك ما و پوونی ما به آمریکا سفر کرده بود و در آن زمان توافق‌های بزرگ تجاری مانند خرید ۳۸ میلیارد دلاری هواپیماهای بوئینگ به‌دست آمد. کارشناسان بر این باورند که حضور این مدیران می‌تواند مذاکرات تجاری را تسهیل کند و فشارهای سیاسی را کاهش دهد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "سفر تجاری چین-آمریکا",
+    "tag": "کسب‌وکار چین",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/exclusive-chinas-xi-bring-large-104707459.html",
+    "clean_url": "https://finance.yahoo.com/news/exclusive-chinas-xi-bring-large-104707459.html",
+    "image": "https://media.zenfs.com/en/reuters.com/722b9c5623ec5e9e1e6db9669f6dc192.jpg",
+    "timestamp": 1788533695.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1a53e9c32e",
+    "title_fa": "‏قیمت طلا تلفات نظامی و تورم آمریکا را نوسان داد",
+    "title_en": "Gold Forecast: US inflation holds the key to the next move | FXStreet",
+    "summary": [
+      "‏قیمت طلا پس از کاهش شدید در نیمه اول هفته، به‌دست‌آمده و نزدیک 4300 دلار شد.",
+      "‏سرمایه‌گذاران داده‌های تورم آمریکا در ماه اوت و تصمیم احتمالی فدرال رزرو را برای تعیین مسیر طلا بررسی می‌کنند.",
+      "‏تشدید تنش‌های نظامی بین ایالات متحده و ایران نیز بر نوسان طلا تأثیر گذاشت."
+    ],
+    "body_fa": "‏طلا پس از افت شدید در ابتدای هفته، توانست ضررهای خود را جبران کند و نزدیک 4300 دلار بسته شود. این بازگشت به دلیل تغییرات در انتظارات بازار نسبت به تصمیمات احتمالی فدرال رزرو در جلسه بعدی است. سرمایه‌گذاران به داده‌های تورم آمریکا در ماه اوت توجه ویژه‌ای دارند، چرا که این ارقام می‌توانند مسیر نرخ بهره را تعیین کنند. نظرات محافظه‌کارانه برخی اعضای فدرال رزرو، به‌ویژه کریستوفر والر، باعث کاهش فشار فروش بر دلار شد و به نفع طلا عمل کرد. در همین حین، تشدید تنش‌های نظامی بین ایالات متحده و ایران، به‌ویژه حملات به جزایر و پایگاه‌های نظامی، فشار دیگری بر بازار طلا وارد کرد.",
+    "category": "انرژی و کالا",
+    "subcategory": "طلا",
+    "tag": "قیمت طلا",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/analysis/gold-weekly-forecast-fed-uncertainty-caps-the-upside-202609041440",
+    "clean_url": "https://www.fxstreet.com/analysis/gold-weekly-forecast-fed-uncertainty-caps-the-upside-202609041440",
+    "image": "https://s.yimg.com/bo/8e8591fe-a018-5d4a-85b1-43f70f3c253a_1781869103115.png.cf.jpg",
+    "timestamp": 1788533694.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "db9adf8266",
+    "title_fa": "‏شاخص ASX200 به‌دلیل نگرانی نرخ بهره سقوط کرد",
+    "title_en": "Australian Shares Slip As ASX 200 Snaps Two-Day Rally Amid RBA Rate Fears And Ex-Dividend Drag Today",
+    "summary": [
+      "‏شاخص S&P/ASX200 در روز جمعه ۱۳٫۶ امتیاز (۰٫۱۵٪) به ۹٬۰۰۶٫۵ سقوط کرد.",
+      "‏این کاهش به نگرانی‌های نرخ بهره بانک مرکزی استرالیا و اثر ex‑dividend بر سهامهای برخی شرکت‌ها نسبت داده شد.",
+      "‏در عین حال، معدن‌کاران طلا به‌دلیل افزایش ۲٫۴٪ قیمت طلا، رشد کردند."
+    ],
+    "body_fa": "‏در روز جمعه بازار سهام استرالیا با کاهش شاخص S&P/ASX200 به ۹٬۰۰۶٫۵ و افت ۱۳٫۶ امتیاز (۰٫۱۵٪) به پایان رسید؛ این سقوط دو روز پیروزی قبلی را قطع کرد. اگرچه بازارهای آمریکا با رشد قوی و طلا نیز در حال صعود بودند، اما نگرانی‌ها دربارهٔ احتمال حفظ نرخ بهره توسط بانک مرکزی استرالیا و فشارهای مکانیکی ناشی از معاملات ex‑dividend باعث فشار بر شاخص شد. شرکت‌هایی چون Eagers Automotive ، Ampol ، Viva Energy و Aussie Broadband بدون حق سود سهام معامله می‌شدند که به‌طور مستقیم بر عملکرد شاخص اثر منفی داشت. معدن‌کاران طلا مانند Evolution Mining و Newmont به‌دلیل افزایش ۲٫۴٪ قیمت طلا به ۴٬۵۲۰٫۱۰ دلار در هر اونس، که ناشی از دلار ضعیف‌تر و کاهش بازده اوراق خزانه‌داری پس از اظهارات دوفی فدرال کریستوفر والر بود، رشد کردند. همچنین سهام انرژی به دلیل تقویت قیمت نفت که در پی تنش‌های جاری میان ایالات متحده و ایران ادامه داشت، حمایت یافت.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام استرالیا",
+    "tag": "ASX200",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "International Business Times AU",
+    "url": "https://www.ibtimes.com.au/australian-shares-dip-ex-dividend-global-tensions-1874983",
+    "clean_url": "https://www.ibtimes.com.au/australian-shares-dip-ex-dividend-global-tensions-1874983",
+    "image": "https://d.ibtimes.com.au/en/full/1893564/asx-200-top-gainers-telix-pharma-jumps-323-fda.png",
+    "timestamp": 1788526200.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "22340dcbdf",
     "title_fa": "‏ادغام سلاح‌های کردها و نیروهای سوریه ثبات موقت به‌وجود آورد",
     "title_en": "Geopolitical Realignment & Kurdish Disarmament Architecture 2026-2031",
@@ -22,6 +88,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "d50226acf5",
+    "title_fa": "‏قیمت ETF طلا با افزایش نرخ بهره رشد کرد",
+    "title_en": "Why Gold ETFs Could Keep Shining Despite Higher Rates",
+    "summary": [
+      "‏ETF طلا SPDR Gold Trust در ۲ سپتامبر ۲۰۲۶، ۱٫۵٪ رشد کرد",
+      "‏این افزایش در حالی رخ داد که نرخ بهره دولتی در جهان به اوج رسیده و هزینه استقراض افزایش یافته",
+      "‏سرمایه‌گذاران به دلیل نگرانی‌های مالی دولت‌ها و نوسان ارز، طلا را به عنوان ذخیره ارزش می‌پسندند"
+    ],
+    "body_fa": "‏فروش اوراق قرضه دولتی باعث شده هزینه استقراض برای دولت‌ها بالا برود و سبدهای مالی فشار ببیند. در همین دوره، بازده اوراق ۱۰‑ساله آلمان به بالاترین سطح از سال ۲۰۱۱ و بازده ۱۰‑ساله ایالات متحده به بالاترین مقدار از نوامبر ۲۰۲۳ رسیده است. با این حال، طلا به عنوان دارایی بدون بهره و بدون ریسک اعتباری، جذابیت خود را حفظ کرده و ETF طلا SPDR Gold Trust در روز ۲ سپتامبر ۲۰۲۶، ۱٫۵٪ و در طول ماه ۸٫۴٪ افزایش یافت. این رفتار نشان می‌دهد که سرمایه‌گذاران در مواجهه با نگرانی‌های مالی دولت‌ها و نوسان ارز، به طلا به عنوان ذخیره ارزش پناه می‌برند. بنابراین، حتی در محیطی با نرخ بهره بالا، طلا می‌تواند به عنوان پناهگاهی برای حفظ ارزش سرمایه عمل کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "طلا و ETF",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Zacks · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/why-gold-etfs-could-keep-120000521.html",
+    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/why-gold-etfs-could-keep-120000521.html",
+    "image": "https://media.zenfs.com/en/zacks.com/566da5b5f1d48c0417c66649ec5e5092.jpg",
+    "timestamp": 1788522894.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "523ae462a1",
     "title_fa": "‏تجارت آمریکا به‌خاطر واردات هوش مصنوعی گسترش یافت",
     "title_en": "The AI boom just blew a hole in Trump’s trade war",
@@ -41,6 +129,28 @@
     "clean_url": "https://asiatimes.com/2026/09/the-ai-boom-just-blew-a-hole-in-trumps-trade-war",
     "image": "https://www.bing.com/th?id=ONUT.-5jch1e4pSCRFm5LYSahXw",
     "timestamp": 1788515711.9487789,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d8afb9a4a0",
+    "title_fa": "‏روویو پس از لغو Sonic Blitz استودیو کپنهاگ را بست",
+    "title_en": "Sonic Blitz Is Dead — And Now Rovio Is Closing the Studio Behind It",
+    "summary": [
+      "‏روویو استودیو کپنهاگ خود را پس از لغو بازی Sonic Blitz بسته",
+      "‏این تصمیم نشان‌دهندهٔ دشواری حفظ کاربران در بازی‌های موبایلی و هزینه‌های بالای جذب بازیکن است",
+      "‏حدود ۲۰ نفر در پروژه کار می‌کردند و برخی ممکن است به پروژه‌های دیگر منتقل شوند"
+    ],
+    "body_fa": "‏روویو امروز اعلام کرد که عملیات استودیو کپنهاگ خود را پس از لغو بازی Sonic Blitz متوقف می‌کند. این بازی که از مه 2025 به‌صورت نرم‌افزاری آزمایشی در برزیل و فیلیپین عرضه شد، بیش از 200,000 بار دانلود شد اما نرخ نگهداری بازیکنان در هفتهٔ اول رضایت‌بخش نبود. مدیرعامل روویو، الکس پلتیه‑نرمان، گفت حفظ تعامل طولانی‌مدت برای موفقیت بازی‌های کارت‌محور حیاتی است. استودیو حدود ۲۰ نفر را در پروژه به کار می‌گرفت و شرکت بسته به نیاز ممکن است برخی از این افراد را به پروژه‌های دیگر منتقل کند. این بسته شدن در کنار تعطیلی استودیو Lumi و کاهش ۳۶ نفره نیروی کار در اکتبر 2025 ، نشانگر فشارهای اقتصادی در صنعت بازی‌های موبایلی است.",
+    "category": "گیم",
+    "subcategory": "بسته شدن استودیو",
+    "tag": "Rovio",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Player.One",
+    "url": "https://www.player.one/sonic-blitz-dead-now-rovio-closing-studio-behind-it-164047",
+    "clean_url": "https://www.player.one/sonic-blitz-dead-now-rovio-closing-studio-behind-it-164047",
+    "image": "https://d.player.one/en/full/229557/sonic-blitz-key-art.jpg",
+    "timestamp": 1788514980.0,
     "sent_to_telegram": true
   },
   {
@@ -85,6 +195,28 @@
     "clean_url": "https://www.yahoo.com/news/us/articles/us-diesel-prices-hit-record-083758350.html",
     "image": "https://media.zenfs.com/en/ap.org/2d2474f1c76f28abf8a32b896542c4e5.jpg",
     "timestamp": 1788511968.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "88ef01771e",
+    "title_fa": "‏شرکت‌های نادر چین برخی صادرات به آمریکا را متوقف کردند",
+    "title_en": "China rare earth firms halt some US shipments over geopolitical worries, sources...",
+    "summary": [
+      "‏برخی تأمین‌کنندگان نادر چین از اوایل اوت از ارسال مواد به شرکت‌های آمریکایی خودداری کردند.",
+      "‏این تصمیم به دلیل ترس از مجازات‌های پکن و فشارهای ژئوپلیتیک پیش از سفر شی جین‌پینگ به واشنگتن است.",
+      "‏قیمت نادرهای کلیدی همچون یتریوم و تنگستن نزدیک به رکوردهای تاریخی باقی مانده و عرضه محدود است."
+    ],
+    "body_fa": "‏برخی از تأمین‌کنندگان چینی مواد نادر از اوایل اوت از ارسال این مواد به شرکت‌های آمریکایی خودداری کردند. این اقدام ناشی از نگرانی‌های ژئوپلیتیک و ترس از مجازات‌های احتمالی پکن پس از تحریم‌های جدید علیه Responsible Business Alliance است. شرکت‌ها برای اجتناب از درگیر شدن در چارچوب‌های نظارتی RMI و RBA ، ترجیح دادند صادرات را متوقف کنند. این مسأله پیش از سفر شی جین‌پینگ به واشنگتن در ۲۴ سپتامبر به برنامه‌ریزی دولت آمریکا وارد شده و فشار بر چین برای رعایت توافقات بوسان افزوده شده است. در عین حال، قیمت نادرهای کلیدی مانند یتریوم، ایندین فسفید و تنگستن که در صنایع نظامی، هوافضا و ساخت تراشه کاربرد دارند، نزدیک به سطوح رکوردی باقی مانده و عرضه محدود است. کاهش صادرات به آمریکا می‌تواند زنجیره تأمین صنایع حساس همچون تجهیزات پزشکی و انرژی را تحت فشار قرار دهد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "صنعت نادر",
+    "tag": "نادرهای_چین",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/china-rare-earth-firms-halt-071537922.html",
+    "clean_url": "https://finance.yahoo.com/news/china-rare-earth-firms-halt-071537922.html",
+    "image": "https://media.zenfs.com/en/reuters.com/c066611727c836c5eccef51a2ffdb4fb.jpg",
+    "timestamp": 1788504895.0,
     "sent_to_telegram": true
   },
   {
