@@ -1,5 +1,27 @@
 [
   {
+    "id": "2a5a613cc2",
+    "title_fa": "‏بیت‌کوین ۸۰٬۰۰۰ دلار شد؛ وولر نرخ بهره را ثابت می‌داند",
+    "title_en": "Bitcoin Faces Sept. 16 Fed Test as Core Inflation Slides From 4.76% to 3.05%",
+    "summary": [
+      "‏بیت‌کوین دوباره بالای ۸۰٬۰۰۰ دلار رسید پس از اظهارات گورنر فدرال رزرو دربارهٔ تورم.",
+      "‏این نشان می‌دهد احتمال نگه‌داشتن نرخ بهره در جلسهٔ ۱۶ سپتامبر افزایش یافته و می‌تواند بازار رمزارزها را تحت تأثیر قرار دهد.",
+      "‏هسته‌ای تورم سه‌ماهه از ۴.۷۶٪ به ۳.۰۵٪ کاهش یافت."
+    ],
+    "body_fa": "‏قیمت بیت‌کوین پس از اظهارات گورنر فدرال رزرو، کریستوفر والر، که کاهش تورم هسته‌ای را گزارش داد، به بالای ۸۰٬۰۰۰ دلار ارتقا یافت. والر گفت اگر تورم ادامه به سرد شدن داشته باشد، ممکن است نرخ بهره در جلسهٔ ۱۶ سپتامبر ثابت بماند. او افزود که هسته‌ای تورم سه‌ماهه از ۴.۷۶٪ در فوریه به ۳.۰۵٪ تا ژوئیه کاهش یافته است، اگرچه تورم سالانه PCE هنوز بالای هدف ۲٪ فدرال رزرو است. این اظهارات باعث شد معامله‌گران رمزارزها امید به عدم افزایش نرخ بهره پیدا کنند. در عین حال، طلا‌فروشی پیتر شیف انتقاد کرد و گفت تمایل به نگه‌داشتن نرخ بهره با تعهد به افزایش متفاوت است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "بیت‌کوین",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CCN · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-sept-16-fed-161752305.html",
+    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-sept-16-fed-161752305.html",
+    "image": "https://media.zenfs.com/en/ccn_928/8d610bccc74d88f7eb75faf81de37c9d",
+    "timestamp": 1788624811.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a64aa51977",
     "title_fa": "‏تایوان ۱۶۶ پرونده مالکیت چینی در فناوری را بررسی کرد",
     "title_en": "Taiwan cracks down on tech businesses with illegal Chinese ownership — 166 inves...",
@@ -41,6 +63,28 @@
     "clean_url": "https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html",
     "image": "https://media.zenfs.com/en/reuters.com/12be4d25407557b063a649565b7b4723.jpg",
     "timestamp": 1788592530.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6eb3e440e0",
+    "title_fa": "‏بنگی بخش‌های خالی دفتر بلویو را زیرمستأجر می‌کند",
+    "title_en": "Bungie Is ‘Exploring’ Subleasing Parts Of Its Massive 210,984 Sq. Ft. Studio After Laying Off More Than 600 People In Just Three Years",
+    "summary": [
+      "‏بنگی پس از اخراج بیش از ۶۰۰ نفر، قصد دارد بخش‌های بزرگ دفتر ۲۱۰,۹۸۴ فوت‌مربعی خود در بلویو، واشنگتن را زیرمستأجر کند.",
+      "‏این اقدام نشان‌دهنده تغییر نیازهای کاری به مدل دیجیتال‑اول و فشارهای مالی ناشی از کاهش موفقیت بازی‌هاست.",
+      "‏استودیو همچنان حضور فیزیکی در بلویو را حفظ خواهد کرد."
+    ],
+    "body_fa": "‏استودیو بنگی در بلویو، واشنگتن، یک فضای کاری ۲۱۰,۹۸۴ فوت‌مربعی دارد که در سال ۲۰۲۱ به دلیل موفقیت Destiny 2 دو برابر شد. اما پس از اخراج بیش از ۶۰۰ کارمند در سه سال اخیر و کاهش درآمدهای بازی، شرکت به بررسی گزینه‌های زیرمستأجر کردن بخش‌های بزرگ این دفتر پرداخته است. یک سخنگو بنگی به Game Post گفت این حرکت بازتابی از نیازهای جدید کاری به مدل دیجیتال‑اول و کارآمدی همکاری از راه دور است. دفتر شامل فضاهای ورزشی، دیوار صعود، استودیوی موشن‌کپچر و اتاق‌های صداگذاری است که می‌تواند به مستأجران جدید ارائه شود. بنگی حضور فیزیکی خود در بلویو را حفظ می‌کند اما فضای خالی را برای درآمد جانبی به کار می‌گیرد.",
+    "category": "گیم",
+    "subcategory": "املاک استودیوی بازی",
+    "tag": "Bungie",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Kotaku",
+    "url": "https://kotaku.com/bungie-is-exploring-subleasing-parts-of-its-massive-210984-sq-ft-studio-after-laying-off-more-than-600-people-in-just-three-years-2000731541",
+    "clean_url": "https://kotaku.com/bungie-is-exploring-subleasing-parts-of-its-massive-210984-sq-ft-studio-after-laying-off-more-than-600-people-in-just-three-years-2000731541",
+    "image": "https://kotaku.com/app/uploads/2026/05/destiny2a.jpg",
+    "timestamp": 1788586200.0,
     "sent_to_telegram": true
   },
   {
