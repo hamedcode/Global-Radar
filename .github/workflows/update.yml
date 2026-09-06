@@ -2,11 +2,15 @@ name: Global Radar Update
 
 on:
   schedule:
-    # 4 runs/day, timed to land inside the 4 Tehran digest windows (09/13/17/21):
-    - cron: '30 5 * * *'   # 05:30 UTC = 09:00 Tehran
-    - cron: '30 9 * * *'   # 09:30 UTC = 13:00 Tehran
-    - cron: '30 13 * * *'  # 13:30 UTC = 17:00 Tehran
-    - cron: '30 17 * * *'  # 17:30 UTC = 21:00 Tehran
+    # 4 runs/day, timed to land inside the 4 Tehran digest windows (09/13/17/21).
+    # NOTE: minute is intentionally NOT :00/:15/:30/:45 — GitHub's own docs warn
+    # that scheduled workflows can be silently delayed/dropped during high load,
+    # and load is highest right at common trigger minutes. An off-beat minute
+    # (here :47) reduces the chance of landing in that congestion.
+    - cron: '47 5 * * *'   # 05:47 UTC ≈ 09:17 Tehran
+    - cron: '47 9 * * *'   # 09:47 UTC ≈ 13:17 Tehran
+    - cron: '47 13 * * *'  # 13:47 UTC ≈ 17:17 Tehran
+    - cron: '47 17 * * *'  # 17:47 UTC ≈ 21:17 Tehran
   workflow_dispatch:
     inputs:
       manual_url:
@@ -51,3 +55,4 @@ jobs:
           git config --global user.email "bot@noreply.github.com"
           git add news.json market.json schedule_state.json config.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update news feed" && git push)
+          
