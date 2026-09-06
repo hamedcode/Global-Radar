@@ -47,20 +47,21 @@ CONFIG = {
         '(PlayStation OR Xbox OR Nintendo OR Steam) major announcement OR acquisition',
         'game studio (acquisition OR shutdown OR layoffs)',
         '(console OR "Nintendo Switch" OR PS5 OR Xbox) jailbreak OR "custom firmware" OR "modchip"',
-        '(Denuvo OR DRM) cracked OR bypassed major game',
+        '(Denuvo OR DRM) (cracked OR bypassed OR removed OR "no longer protected") game',
     ],
     'TARGET_SOURCES': [
         'bloomberg.com', 'reuters.com', 'cnbc.com', 'wsj.com', 'ft.com',
         'apnews.com', 'coindesk.com', 'theblock.co', 'techcrunch.com',
         'theverge.com', 'axios.com', 'businessinsider.com',
         'oilprice.com', 'kitco.com', 'ign.com', 'gamesindustry.biz',
+        'dsogaming.com',
     ],
     'SOURCE_PRIORITY': {
         'bloomberg.com': 10, 'reuters.com': 10, 'wsj.com': 9, 'ft.com': 9,
         'cnbc.com': 8, 'apnews.com': 8, 'coindesk.com': 8, 'theblock.co': 8,
         'techcrunch.com': 6, 'theverge.com': 6, 'axios.com': 6,
         'businessinsider.com': 5, 'oilprice.com': 6, 'kitco.com': 6,
-        'gamesindustry.biz': 6, 'ign.com': 5,
+        'gamesindustry.biz': 6, 'ign.com': 5, 'dsogaming.com': 5,
     },
     'FILES': {
         'NEWS': 'news.json',
