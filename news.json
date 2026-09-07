@@ -1,5 +1,49 @@
 [
   {
+    "id": "61b6028b1a",
+    "title_fa": "‏تایوان با دیپلماسی چیپ، سرمایه‌گذاری هوش مصنوعی را گسترش داد",
+    "title_en": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth...",
+    "summary": [
+      "‏تایوان در نمایشگاه SEMICON ، نقش خود را به عنوان تأمین‌کنندهٔ قابل اعتماد چیپ‌های هوش مصنوعی برجسته کرد.",
+      "‏این حرکت نشان‌دهندهٔ فشار آمریکا برای انتقال تولید به خاک خود و تقویت همکاری‌های دو جانبه است.",
+      "‏شرکت TSMC ۲۶۵ میلیارد دلار سرمایه‌گذاری در آریزونا و ۲۰ میلیارد دلار سرمایه‌گذاری دیگر در ایالات متحده اعلام کرد."
+    ],
+    "body_fa": "‏تایوان در نمایشگاه بزرگ SEMICON به‌عنوان یک تأمین‌کنندهٔ دمکراتیک و قابل اعتماد برای چیپ‌های هوش مصنوعی معرفی شد و دیپلماسی فناوری خود را تقویت کرد. رئیس‌جمهور لای چین‌ته در دو سخنرانی به گسترش جهانی شرکت‌های تایوانی برای ایجاد «ثبات و رفاه مشترک» اشاره کرد. وزارت اقتصاد تایوان اعلام کرد که شرکت‌های داخلی قصد دارند حدود ۲۰ میلیارد دلار سرمایه‌گذاری در ایالات متحده انجام دهند. توافق قبلی با واشنگتن برای کاهش تعرفه‌های صادرات در ازای افزایش سرمایه‌گذاری‌های آمریکایی همچنان زیر سؤال است و مقامات تجاری آمریکا هشدار دادند که تعرفه‌ها برای شرکت‌های غیرمحلی اعمال می‌شود. TSMC برنامه دارد ۲۶۵ میلیارد دلار در کارخانه‌های آریزونا سرمایه‌گذاری کند و فاکس‌کان نیز تأکید کرد که باید «با تایوان در کشوری که بازار آن است» تولید شود. این روند نشان می‌دهد که فشار ژئوپلیتیک و نیاز به تنوع زنجیره تأمین، مسیر توسعهٔ صنعت نیم‌رسانه‌ها را شکل می‌دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "نیم‌رسانه‌ها",
+    "tag": "چیپ‌تایوان",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
+    "clean_url": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
+    "image": "https://media.zenfs.com/en/reuters.com/c4e0e292e8ad475c655896b4dee3eaee.jpg",
+    "timestamp": 1788747274.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1575de3713",
+    "title_fa": "‏بدهی به ۴۰ تریلیون دلار رسید؛ ۱۹٪ مالیات برای بهره",
+    "title_en": "Brutal Reality: 19 Cents of Every Tax Dollar Now Just for Interest — What It Means For Your Money",
+    "summary": [
+      "‏بدهی ملی آمریکا به بیش از ۴۰ تریلیون دلار رسید",
+      "‏هر ۱ دلار مالیات، ۱۹ سنت صرف پرداخت بهره می‌شود، که فشار بر تورم و نرخ بهره را افزایش می‌دهد",
+      "‏این سطح بدهی اولین بار از تاریخ آمریکا به این حد رسیده و نگرانی‌های سرمایه‌گذاران را برانگیخته است"
+    ],
+    "body_fa": "‏بدهی کل دولت فدرال آمریکا در آگوست ۲۰۲۶ به بیش از ۴۰ تریلیون دلار رسیده که نشانگر رشد شتاب‌دار در دو دهه اخیر است. به‌طور متوسط، ۱۹ سنت از هر دلار مالیات صرف پرداخت بهره می‌شود و هیچ بخشی از اصل بدهی کاهش نمی‌یابد. این بار مالیات‌گذاران به‌طور مستقیم با هزینهٔ بهره‌برداری از بدهی‌های دولتی مواجه می‌شوند. چنین فشار مالی می‌تواند تورم را تشدید کند و نرخ بهره بلندمدت را بالا ببرد. سرمایه‌گذاران و تحلیل‌گران بازار به این وضعیت به‌عنوان هشدار جدی برای ثبات مالی و سیاست‌های مالی آینده نگاه می‌کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بدهی ملی آمریکا",
+    "tag": "دین عمومی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Tech Edvocate",
+    "url": "https://www.thetechedvocate.org/brutal-reality-19-cents-of-every-tax-dollar-now-just-for-interest-what-it-means-for-your-money/",
+    "clean_url": "https://www.thetechedvocate.org/brutal-reality-19-cents-of-every-tax-dollar-now-just-for-interest-what-it-means-for-your-money",
+    "image": "https://www.thetechedvocate.org/wp-content/uploads/2026/09/featured-image-1788759240406-660x400.jpg",
+    "timestamp": 1788739200.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "84d03f9045",
     "title_fa": "‏SEC به ISS حکم تحویل سوابق توصیه‌های پروکسی را داد",
     "title_en": "SEC sues ISS to force handover of proxy recommendations and voting records",
