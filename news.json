@@ -1,5 +1,27 @@
 [
   {
+    "id": "713b78f65e",
+    "title_fa": "‏Anthropic پیش از IPO 15 میلیارد دلار بدهی جذب می‌کند",
+    "title_en": "Anthropic seeking $15 billion in debt before its IPO: Is that a warning sign or a bullish signal for AI infrastructure stocks?",
+    "summary": [
+      "‏Anthropic قصد دارد پیش از عرضه عمومی 15 میلیارد دلار بدهی جذب کند",
+      "‏این اقدام نشانگر تقاضای سرمایه برای زیرساخت‌های هوش مصنوعی و می‌تواند قیمت سهام مرتبط را تحت تأثیر قرار دهد",
+      "‏اگر موفق شود، می‌تواند به رشد سریع مدل‌های AI و رقابت با OpenAI کمک کند"
+    ],
+    "body_fa": "‏شرکت Anthropic که توسط پیشینان OpenAI تأسیس شده، برای تأمین هزینه‌های محاسباتی عظیم خود پیش از عرضه عمومی سهام، به دنبال جذب 15 میلیارد دلار بدهی است. این میزان سرمایه‌گذاری نشان می‌دهد که شرکت‌ها برای گسترش زیرساخت‌های هوش مصنوعی به منابع مالی بزرگ نیاز دارند. جذب بدهی به جای انتشار سهام می‌تواند فشار کمتری بر ارزش فعلی سهام موجود بگذارد، اما سطح بدهی بالا نگرانی‌هایی درباره ریسک مالی ایجاد می‌کند. سرمایه‌گذاران در حوزه زیرساخت‌های AI ممکن است این حرکت را نشانه‌ای از رشد تقاضا و فرصت‌های سودآور ببینند. در صورت موفقیت، این مدل می‌تواند الگویی برای سایر شرکت‌های هوش مصنوعی باشد که به دنبال تأمین مالی سریع برای توسعه مدل‌های پیشرفته هستند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Motley Fool on MSN",
+    "url": "https://www.msn.com/en-us/news/other/anthropic-seeking-15-billion-in-debt-before-its-ipo-is-that-a-warning-sign-or-a-bullish-signal-for-ai-infrastructure-stocks/ar-AA2bLabq?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/news/other/anthropic-seeking-15-billion-in-debt-before-its-ipo-is-that-a-warning-sign-or-a-bullish-signal-for-ai-infrastructure-stocks/ar-AA2bLabq",
+    "image": "https://www.bing.com/th?id=ONUT.-oXfeR3MADlFeXgPxuETKg",
+    "timestamp": 1788814082.772821,
+    "sent_to_telegram": true
+  },
+  {
     "id": "61b6028b1a",
     "title_fa": "‏تایوان با دیپلماسی چیپ، سرمایه‌گذاری هوش مصنوعی را گسترش داد",
     "title_en": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth...",
