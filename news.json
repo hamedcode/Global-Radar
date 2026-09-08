@@ -1,5 +1,27 @@
 [
   {
+    "id": "56da44475f",
+    "title_fa": "‏هک ۳۲۰ میلیون دلاری Liquid خطرات DeFi را نشان داد",
+    "title_en": "A $320 Million Hack Exposes the Cracks in Crypto’s Plumbing",
+    "summary": [
+      "‏هک شبکه Liquid به ارزش ۳۲۰ میلیون دلار رخ داد",
+      "‏این حادثه نشان می‌دهد زیرساخت‌های DeFi هنوز برای مؤسسات مالی امن نیستند",
+      "‏در سال ۲۰۲۶ مجموع خسارات هک‌ها به ۱.۴ میلیارد دلار رسید"
+    ],
+    "body_fa": "‏هک شبکه Liquid که به بیت‌کوین متصل است، حدود ۳۲۰ میلیون دلار را از دست داد. این حمله نشان می‌دهد که لایه‌های جانبی بلاکچین مانند کیف‌پول‌ها، سازوکارهای نگهداری و زیرساخت‌های تراکنش هنوز در برابر هکرها آسیب‌پذیرند. نیکیل راگهویرا، مدیرعامل شرکت Predicate ، گفت DeFi هنوز برای استانداردهای مؤسسات مالی قابل اعتماد نیست. طبق داده‌های DefiLlama ، تا کنون در سال ۲۰۲۶ حدود ۱.۴ میلیارد دلار از طریق ۲۵۰ حمله به دارایی‌های دیجیتال سرقت شده است که بیش از ۱۰٪ آن‌ها به پل‌ها و زیرساخت‌های بین‌زنجیره‌ای مربوط می‌شود. این روند خطرات را برای پذیرش گسترده رمزارزها توسط بانک‌ها و سرمایه‌گذاران نهادی افزایش می‌دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "هک و امنیت",
+    "tag": "Liquid",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/320-million-hack-exposes-cracks-121936077.html",
+    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/320-million-hack-exposes-cracks-121936077.html",
+    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/6d7c72c0389420ca905a519ace1c4c66.jpg",
+    "timestamp": 1788870845.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "892f3b4f3d",
     "title_fa": "‏قیمت طلا با تقویت دلار کاهش یافت؛ نفت اوج گرفت",
     "title_en": "Gold reverses early gains as US Dollar rebounds, Oil prices rise | FXStreet",
@@ -19,6 +41,28 @@
     "clean_url": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126",
     "image": "https://s.yimg.com/bo/43718c20-86dd-5b0b-b7a6-b639d9af611c_1782465983677.jpg",
     "timestamp": 1788868350.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "81f29fb704",
+    "title_fa": "‏استودیوی Don't Nod می‌گوید ممکن است امسال آخرین سالش باشد",
+    "title_en": "Life is Strange studio warns this year could be its last",
+    "summary": [
+      "‏استودیوی Don't Nod اعلام کرد ممکن است پس از ژانویه 2027 فعالیت خود را متوقف کند.",
+      "‏این به دلیل کاهش 56 ٪ درآمد نیمه‌سالی 2026 و هزینه‌های بالای توسعه است.",
+      "‏برنامه تحول شرکت ممکن است تا 90 شغل را حذف کند."
+    ],
+    "body_fa": "‏استودیوی فرانسوی Don't Nod ، سازندهٔ بازی‌های Life is Strange ، Lost Records: Bloom & Rage و Aphelion ، اعلام کرد که آیندهٔ فعالیتش پس از ژانویه 2027 مشکوک است. در گزارش مالی نیمه‌سالی 2026 ، این استودیو درآمد عملیاتی خود را ۵۶٪ نسبت به سال گذشته کاهش داد و همزمان هزینه‌های توسعه افزایش یافت. شرکت به مشکلات کلی بازار بازی‌های ویدئویی اشاره کرد که دسترسی به سرمایه و موفقیت تجاری را دشوارتر کرده است. برای بقا، برنامهٔ «تحول»یی را اجرا می‌کند که تمرکز را بر یک خط تولید در فرانسه می‌گذارد و ممکن است تا ۹۰ شغل را حذف کند. پروژهٔ داخلی P14 هنوز نتوانسته بود هدف‌های مالی خود را برآورده کند و فروش Aphelion نیز به‌طور قابل‌توجهی کمتر از انتظار بود، به‌طوری که آیندهٔ این استودیو به تأمین مالی این پروژه بستگی دارد.",
+    "category": "گیم",
+    "subcategory": "استودیوهای بازی",
+    "tag": "Don't Nod",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Polygon",
+    "url": "https://www.polygon.com/life-is-strange-creator-dont-nod-closure/",
+    "clean_url": "https://www.polygon.com/life-is-strange-creator-dont-nod-closure",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8668363/LiS_BTS_SC1.png?w=1600&h=900&fit=crop",
+    "timestamp": 1788860220.0,
     "sent_to_telegram": true
   },
   {
