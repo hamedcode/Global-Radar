@@ -1,5 +1,27 @@
 [
   {
+    "id": "892f3b4f3d",
+    "title_fa": "‏قیمت طلا با تقویت دلار کاهش یافت؛ نفت اوج گرفت",
+    "title_en": "Gold reverses early gains as US Dollar rebounds, Oil prices rise | FXStreet",
+    "summary": [
+      "‏قیمت طلا به حدود ۴۴۰۰ دلار کاهش یافت، پس از بازگشت ارزش دلار آمریکا در آغاز معاملات آمریکا.",
+      "‏قیمت نفت نیز به ۹۱.۵ دلار در هر بشکه رسید و نگرانی‌های تورمی و نرخ بهره را تشدید کرد.",
+      "‏در عین حال، حملات حوثی‌ها به چهار شهر سعودی تنش‌های خاورمیانه را تشدید کرد."
+    ],
+    "body_fa": "‏قیمت طلا در آغاز روز معاملاتی آمریکا به حدود ۴۴۰۰ دلار افت کرد و پس از رسیدن به بالاترین سطح روزانه ۴۴۴۳ دلار، به دلیل بازگشت دلار آمریکا و افزایش قیمت نفت کاهش یافت. نفت خام (WTI) به ۹۱.۵ دلار در هر بشکه ارتقا یافت و بالاترین سطح خود از ۸ ژوئن را ثبت کرد. این افزایش قیمت نفت باعث نگرانی‌های بیشتر درباره تورم و فشار بر نرخ بهره شد؛ در حالی که فدرال رزرو هنوز تصمیم‌گیری درباره افزایش نرخ بهره را به داده‌های اقتصادی این هفته موکول کرده است. تنش‌های خاورمیانه پس از حملات حوثی‌ها به شهرهای جنوبی سعودی و واکنش‌های نظامی ایالات متحده و ایران، به فشار بر بازارهای انرژی افزوده است. این عوامل ترکیبی می‌توانند روند نزولی طلا را در کوتاه‌مدت ادامه دهند، مگر اینکه داده‌های تورمی جدید فشار کمتری بر دلار وارد کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126",
+    "clean_url": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126",
+    "image": "https://s.yimg.com/bo/43718c20-86dd-5b0b-b7a6-b639d9af611c_1782465983677.jpg",
+    "timestamp": 1788868350.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "43b2f33a36",
     "title_fa": "‏ین ژاپن به بالاترین سطح از فوریه می‌رسد؛ نفت صعودی",
     "title_en": "Forex Today: Japanese Yen extends rally, Oil prices climb higher | FXStreet",
@@ -19,6 +41,28 @@
     "clean_url": "https://www.fxstreet.com/news/forex-today-japanese-yen-extends-rally-oil-prices-climb-higher-202609080738",
     "image": "https://s.yimg.com/bo/67910c17-2849-5bc4-86c7-cdba4562d573_1788390915340.png.cf.jpg",
     "timestamp": 1788854720.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9f235d762b",
+    "title_fa": "‏سرمایه‌گذاران اسپیس‌اکس به روش بافت می‌نگرند",
+    "title_en": "SpaceX Investors Turn To Warren Buffett's Playbook As Volatile Stock Continues Wild Ride Since Record IPO",
+    "summary": [
+      "‏سهام اسپیس‌اکس پس از عرضه عمومی رکوردی، با نوسان شدید ادامه دارد",
+      "‏سرمایه‌گذاران برای تصمیم‌گیری به اصول سرمایه‌گذاری وارن بافت مراجعه می‌کنند",
+      "‏این روش بر محدود کردن سرمایه‌گذاری در حوزه‌های آشنا تأکید دارد"
+    ],
+    "body_fa": "‏اسپیس‌اکس در ژوئن 2024 با عرضه عمومی رکوردی به بازار سهام وارد شد و بلافاصله به هفتمین شرکت بزرگ فهرست‌نشده در بورس آمریکا تبدیل شد. پس از ورود، قیمت سهام نوسانات شدیدی را تجربه کرد و در هفته‌های نخست سقوط قابل‌توجهی داشت. با وجود این نوسان، سرمایه‌گذاران به دنبال راهنمایی‌های وارن بافت هستند که همواره بر «حلقه توانایی» خود سرمایه‌گذاری می‌کند. کریستوفر روان، نویسندهٔ سرمایه‌گذاری، می‌گوید که بافت به سرمایه‌گذاران توصیه می‌کند تنها در کسب‌وکارهایی سرمایه‌گذاری کنند که به‌خوبی می‌فهمند. این رویکرد برای ارزیابی سهام اسپیس‌اکس به کار گرفته می‌شود، هرچند برخی سرمایه‌گذاران هنوز تمام جزئیات کسب‌وکار را درک نمی‌کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری",
+    "tag": "SpaceX",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "International Business Times AU",
+    "url": "https://www.ibtimes.com.au/buffett-investment-principles-spacex-1875148",
+    "clean_url": "https://www.ibtimes.com.au/buffett-investment-principles-spacex-1875148",
+    "image": "https://d.ibtimes.com.au/en/full/1838633/berkshire-hathaway-chairman-warren-buffett.jpg",
+    "timestamp": 1788827100.0,
     "sent_to_telegram": true
   },
   {
