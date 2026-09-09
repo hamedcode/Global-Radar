@@ -1,5 +1,27 @@
 [
   {
+    "id": "4c62be9c68",
+    "title_fa": "‏قیمت نقره به ۶۷.۵ دلار رسید؛ دلار آمریکا ضعیف شد",
+    "title_en": "Silver price rebounds as US Dollar softens but Fed hike fears linger | FXStreet",
+    "summary": [
+      "‏نقره ۲.۶٪ بالا رفته و به حدود ۶۷.۵ دلار رسید",
+      "‏ضعف دلار آمریکا و نگرانی‌های تورمی باعث این حرکت شد",
+      "‏اما افزایش قیمت نفت و احتمال افزایش نرخ بهره فدرال‌رزرو فشار می‌آورد"
+    ],
+    "body_fa": "‏نقره در روز چهارشنبه حدود ۶۷.۵ دلار معامله شد و نسبت به روز قبل ۲.۶۴٪ افزایش یافت. این رشد به دلیل ضعف گستردهٔ دلار آمریکا بود که شاخص DXY را به ۹۸.۶۱ نزدیک‌ترین سطح خود از ۲۱ اوت رسانده است. با این حال، افزایش شدید قیمت نفت به‌واسطه تنش‌های نظامی بین ایالات متحده و ایران، فشار تورمی را تازه می‌کند و انتظارات بازار برای افزایش نرخ بهره فدرال‌رزرو را تقویت می‌کند؛ ابزار CME FedWatch نشان می‌دهد احتمال ۲۵ پایهٔ افزایش در جلسهٔ سپتامبر حدود ۶۲٪ است. در همین زمان، بازده اوراق ۱۰ سالهٔ آمریکا نزدیک ۴.۸۰٪ است که بالاترین سطح از نوامبر ۲۰۲۳ می‌باشد. سرمایه‌گذاران به انتشار شاخص قیمت تولیدکنندگان (PPI) و شاخص قیمت مصرف‌کننده (CPI) در روزهای آینده توجه دارند، که می‌تواند مسیر نقره را بیشتر تحت تأثیر قرار دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت نقره",
+    "tag": "نقره",
+    "urgency": 4,
+    "iran_relevant": true,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/silver-price-rebounds-as-us-dollar-weakness-clashes-with-rising-rate-expectations-202609091333",
+    "clean_url": "https://www.fxstreet.com/news/silver-price-rebounds-as-us-dollar-weakness-clashes-with-rising-rate-expectations-202609091333",
+    "image": "https://s.yimg.com/bo/c0040712-e835-5ff8-87c1-94cce225081a_1787731439896.png.cf.jpg",
+    "timestamp": 1788962530.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "d50fae84e6",
     "title_fa": "‏رهگیری موشک‌های ایران بر فراز اردن؛ پیام هوش‌مصنوعی ترامپ",
     "title_en": "Iran’s missiles were intercepted over Jordan then Trump sent a chilling AI-generated message about Kharg Island",
@@ -85,6 +107,72 @@
     "clean_url": "https://tradersunion.com/news/institutions/show/3275056-jpmorgan-enters-greece",
     "image": "https://tradersunion.com/uploads/images/tu-news/02026/09/3275056/jpmorgan-enters-greece.jpg",
     "timestamp": 1788949800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "228c87e9cc",
+    "title_fa": "‏ایران رمزارزها را برای مقابله با فشار آمریکا سست کرد",
+    "title_en": "Iran makes a major crypto move as U.S. pressure hits its economy",
+    "summary": [
+      "‏ایران تحت فشار آمریکا قوانین رمزارزها را شل کرد و امکان تبادل ارزهای خارجی را در بازار آزاد فراهم کرد",
+      "‏این تصمیم می‌تواند به‌دسترس‌پذیری بیشتر رمزارزها برای تجارت بین‌المللی و دور زدن تحریم‌ها کمک کند",
+      "‏برخی تحلیل‌گران پیش‌بینی می‌کنند این حرکت می‌تواند حجم معاملات رمزارز در ایران را دو برابر کند"
+    ],
+    "body_fa": "‏ایران پس از آغاز عملیات نظامی آمریکا و اسرائیل علیه این کشور، به‌سرعت قوانین مربوط به رمزارزها را شل کرد. تحت چارچوب جدید، معامله‌گران می‌توانند ارزهای خارجی را به‌صورت آزاد در بازار تبادل کنند و از رمزارزها برای انتقال ارزش استفاده نمایند. این تغییر سیاست در پی فشارهای اقتصادی و تحریم‌های بین‌المللی اتخاذ شده و هدف اصلی آن تسهیل تجارت بین‌المللی و دور زدن محدودیت‌های مالی است. کارشناسان بر این باورند که این گام می‌تواند حجم معاملات رمزارز در ایران را به‌طور قابل‌توجهی افزایش دهد و بازار داخلی را تحت تأثیر قرار دهد. در عین حال، نگرانی‌هایی دربارهٔ ریسک‌های مالی و نظارتی این تحول وجود دارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین رمزارز",
+    "tag": "ایران",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "TheStreet",
+    "url": "https://www.thestreet.com/crypto/politics/iran-makes-a-major-crypto-move-as-u-s-pressure-hits-its-economy",
+    "clean_url": "https://www.thestreet.com/crypto/politics/iran-makes-a-major-crypto-move-as-u-s-pressure-hits-its-economy",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1788941640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d892240504",
+    "title_fa": "‏رشد اقتصاد جهانی در نیمه دوم سال گرم می‌ماند",
+    "title_en": "In a global economic heatwave, beware financial wildfires",
+    "summary": [
+      "‏رشد اقتصاد جهانی در نیمه دوم سال با سرعت بالا ادامه دارد.",
+      "‏این وضعیت باعث نگرانی مدیران سرمایه‌گذاری برای یافتن راه‌حل‌های محافظتی می‌شود.",
+      "‏حتی دو جنگ و قیمت‌های انرژی بالا نتوانستند رونق را خنک کنند."
+    ],
+    "body_fa": "‏با وجود دو جنگ بزرگ و قیمت‌های انرژی سرسام‌آور، رشد اقتصادی جهان همچنان گرم است و پیش‌بینی می‌شود تا نیمه دوم سال ادامه یابد. این گرما باعث می‌شود بانک‌ها و مدیران سرمایه‌گذاری به دنبال راه‌حل‌های حفاظتی یا «آتش‌نشانی» برای جلوگیری از خطرات تورمی و نوسانات شدید بازار باشند. تحلیل‌گران هشدار می‌دهند که فشارهای هزینه‌ای و عدم اطمینان ژئوپلیتیک می‌تواند به ایجاد «آتش‌سوزی‌های مالی» منجر شود. در نتیجه، سیاست‌گذاران ممکن است برای خنک کردن اقتصاد، ابزارهای پولی یا مالی جدیدی به کار گیرند. این روند می‌تواند بر بازارهای سهام، اوراق قرضه و ارزهای دیجیتال تأثیر قابل‌توجهی داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "رشد اقتصادی جهانی",
+    "tag": "گرما",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/commentary/reuters-open-interest/global-economic-heatwave-beware-financial-wildfires-mike-dolan-2026-09-09/",
+    "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/global-economic-heatwave-beware-financial-wildfires-mike-dolan-2026-09-09",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1788933660.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dacfc1dd20",
+    "title_fa": "‏سنسکس هند ۸۱۳ امتیاز سقوط کرد؛ نفت بالای ۱۰۰ دلار",
+    "title_en": "Sensex today | Stock Market Highlights: Sensex crashes 813 pts, Nifty closes at 23,431 as crude crosses $100",
+    "summary": [
+      "‏سنسکس هند ۸۱۳ امتیاز یا ۱٫۰۸٪ سقوط کرد و نایفی به ۲۳٬۴۳۱ رسید",
+      "‏افزایش قیمت نفت به بالای ۱۰۰ دلار و تشدید تنش‌های خاورمیانه باعث نگرانی‌های تورمی و فشار بر روپیه شد",
+      "‏ارگان‌های نظامی ایران موشک به پایگاه آمریکایی در اردن شلیک کردند"
+    ],
+    "body_fa": "‏در پی تشدید جنگ شش ماهه در خاورمیانه، سپاه پاسداران ایران موشک‌های بالستیک به پایگاه نظامی آمریکا در اردن شلیک کرد و ده کشتی را هدف قرار داد. این تحولات باعث شد قیمت نفت برنت برای اولین بار پس از اواخر ژوئیه از ۱۰۰ دلار در هر بشکه عبور کند. در بازارهای مالی هند، شاخص سنسکس ۸۱۳٫۳۵ امتیاز یا ۱٫۰۸٪ سقوط کرد و به ۷۴٬۷۶۴٫۲۳ رسید؛ نایفی نیز ۲۳٬۴۳۱٫۵۰ شد. دوشنبه، روپیه به ۹۵٫۱۱ دلار سقوط کرد و بانک مرکزی احتمالاً با استفاده از سوآپ‌های ارزی برای جذب نقدینگی اقدام خواهد کرد. سیزده‌از شانزده بخش اصلی بازار سهام ضرر کردند و بخش فناوری اطلاعات نیز تحت فشار سرمایه‌گذاران منتظر داده‌های تورمی آمریکا قرار گرفت. این سقوط سه‌روزه بازارهای آسیایی نشان می‌دهد که تنش‌های ژئوپلیتیک می‌تواند به سرعت بر نرخ ارزها و شاخص‌های بورس تأثیر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام هند",
+    "tag": "سنسکس",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "The Hindu BusinessLine",
+    "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-september-2026/article71445394.ece",
+    "clean_url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-september-2026/article71445394.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/jacsh3/article71445396.ece/alternates/LANDSCAPE_1200/stock+market+4.jpg",
+    "timestamp": 1788927540.0,
     "sent_to_telegram": true
   },
   {
