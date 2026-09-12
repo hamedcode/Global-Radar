@@ -1,5 +1,27 @@
 [
   {
+    "id": "c1a910e0df",
+    "title_fa": "‏بلوک BRICS تحریم‌های یک‌جانبه را محکوم کرد",
+    "title_en": "BRICS condemns \"unilateral economic sanctions\" stops short of naming any actors",
+    "summary": [
+      "‏بلوک BRICS بیانیه‌ای صادر کرد که تحریم‌های یک‌جانبه را محکوم می‌کند",
+      "‏این بیانیه بدون اشاره به کشورهای خاص، به‌ویژه ایالات متحده، صادر شد",
+      "‏بیان این موضع می‌تواند تنش‌های اقتصادی پیرامون جنگ آمریکا‑ایران را تشدید کند"
+    ],
+    "body_fa": "‏در نشست مشترک BRICS 2026 که به‌صورت یک‌صدا در 12 سپتامبر 2026 تصویب شد، اعضا تحریم‌های یک‌جانبه را به‌طور قاطع محکوم کردند. اگرچه بیانیه به‌صراحت هیچ کشور خاصی را نام نیاورد، اما در زمینهٔ تنش‌های جاری بین ایالات متحده و ایران مطرح شد. این موضع‌گیری نشان‌دهندهٔ همبستگی اقتصادی این بلوک در مقابل فشارهای تحریمی غرب است. کارشناسان پیش‌بینی می‌کنند این پیام می‌تواند بر روابط تجاری و سرمایه‌گذاری‌های بین‌المللی اثر بگذارد و فشار بر کشورهای هدف تحریم‌ها را افزایش دهد. در عین حال، عدم اشاره مستقیم به بازیگران خاص، سعی در حفظ دیپلماسی و جلوگیری از تشدید تنش‌های مستقیم دارد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌های یک‌جانبه",
+    "tag": "BRICS",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "WION on MSN",
+    "url": "https://www.msn.com/en-in/politics/government/brics-condemns-unilateral-economic-sanctions-stops-short-of-naming-any-actors/ar-AA2c5C9Y?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-in/politics/government/brics-condemns-unilateral-economic-sanctions-stops-short-of-naming-any-actors/ar-AA2c5C9Y",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789241965.451675,
+    "sent_to_telegram": true
+  },
+  {
     "id": "099f68a90c",
     "title_fa": "‏پژوهشگر پیشین OpenAI پیشرفت بی‌رویه هوش مصنوعی را هشدار داد",
     "title_en": "Ex-OpenAI researcher sounds alarm on unchecked AI progress",
