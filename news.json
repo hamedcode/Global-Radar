@@ -1,5 +1,27 @@
 [
   {
+    "id": "72dbd10ffe",
+    "title_fa": "‏قیمت نفت افزایش یافت و فشار بر تورم جهانی شد",
+    "title_en": "Charting the Global Economy: Oil Surge Fans Global Inflation",
+    "summary": [
+      "‏قیمت نفت در سطح تاریخی بالا رفت.",
+      "‏این افزایش به تسریع فشارهای تورمی در اقتصادهای جهان منجر شد.",
+      "‏بلومبرگ در گزارشی به بررسی اثرات این روند بر سیاست‌های پولی پرداخت."
+    ],
+    "body_fa": "‏نفت به‌تازگی با رشد قیمتی قابل‌توجهی مواجه شد و به‌سرعت به بالاترین سطوح چند ساله رسید. این صعود هزینه‌های انرژی را برای مصرف‌کنندگان و شرکت‌ها افزایش داد و به‌عنوان یک عامل مهم در بالا رفتن نرخ تورم در کشورهای مختلف شناخته شد. تحلیل‌گران بلومبرگ اشاره کردند که عوامل ترکیبی از کاهش تولید در برخی کشورهای تولیدکننده، تقاضای قوی پس از دوران کووید و تحولات ژئوپلیتیکی می‌تواند این روند را تقویت کند. در نتیجه، بانک‌های مرکزی ممکن است برای مهار تورم فشارهای پولی بیشتری اعمال کنند. این وضعیت برای اقتصادهای وابسته به واردات انرژی، به‌ویژه کشورهایی که دلار را به‌عنوان ارز ارزی استفاده می‌کنند، پیامدهای مهمی دارد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و تورم",
+    "tag": "نفت",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/charting-the-global-economy-oil-surge-fans-global-inflation",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-09-12/charting-the-global-economy-oil-surge-fans-global-inflation",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789178400.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a736dc2931",
     "title_fa": "‏قیمت طلا پس از انتشار CPI زیر ۴۳۰۰ دلار می‌جهد",
     "title_en": "Gold price dodges CPI shock as US yields hand bulls lifeline | FXStreet",
