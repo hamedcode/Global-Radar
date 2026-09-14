@@ -1,5 +1,93 @@
 [
   {
+    "id": "275515f0b9",
+    "title_fa": "‏چین درخواست کاهش هوش مصنوعی Anthropic را جنگ سرد خواند",
+    "title_en": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic",
+    "summary": [
+      "‏مدیرعامل Anthropic مقاله‌ای منتشر کرد که توسعه هوش مصنوعی را کند کند.",
+      "‏روزنامه دولتی چین این درخواست را به‌عنوان تاکتیک جنگ سرد توصیف کرد و نشان‌دهنده تنش‌های ژئوپلیتیک در حوزه AI است.",
+      "‏این اظهارات می‌تواند بحث‌های تنظیم‌گری جهانی هوش مصنوعی را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏مدیرعامل شرکت Anthropic در مقاله‌ای خواستار کاهش سرعت پیشرفت هوش مصنوعی شد و دلایل اخلاقی و ایمنی را برای این کار بیان کرد. روزنامه دولتی چین، که معمولاً موضع‌گیری‌های رسمی دولت را منعکس می‌کند، این درخواست را به‌عنوان یک تاکتیک جنگ سرد توصیف کرد و ادعا کرد که هدف آن محدود کردن پیشرفت فناوری‌های پیشرفته در کشورهای غربی است. این واکنش نشان می‌دهد که رقابت بر سر هوش مصنوعی به یک میدان جدید ژئوپلیتیک تبدیل شده است. چین به‌طور مستمر بر سرعت‌بالای توسعه AI تأکید دارد و این انتقاد می‌تواند بر مباحث تنظیم‌گری بین‌المللی تأثیر بگذارد. در عین حال، این بحث‌ها ممکن است فشارهای بیشتری بر شرکت‌های فناوری برای اتخاذ چارچوب‌های ایمنی و شفافیت ایجاد کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/",
+    "clean_url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14",
+    "image": "https://s.yimg.com/bo/5982fe87-33b7-552a-b9ed-3fbcb42c9cf3_1789359549152.jpg",
+    "timestamp": 1789358321.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2b15cc5b94",
+    "title_fa": "‏قیمت نفت به بالاترین سطح از مه و خطرناک شد",
+    "title_en": "Oil prices surge into 'danger zone', bleak outlook looms for Australia",
+    "summary": [
+      "‏قیمت نفت به بالاترین سطح از مه رسید و وارد «منطقه خطر» شد",
+      "‏این افزایش ناشی از وضعیت نامنظم اقتصاد آمریکا و ادامه جنگ در ایران، چشم‌انداز اقتصادی سختی برای استرالیا ایجاد می‌کند",
+      "‏قیمت نفت در این روز حدود ۸ درصد افزایش یافت"
+    ],
+    "body_fa": "‏قیمت نفت در روزهای اخیر به بالاترین سطح خود از ماه مه رسید و وارد «منطقه خطر» شد. این جهش به دلیل ترکیبی از اقتصاد نامنظم ایالات متحده و ادامه درگیری‌های نظامی در ایران رخ داد. تحلیل‌گران هشدار دادند که این وضعیت می‌تواند فشارهای تورمی را در کشورهای مصرف‌کننده نفت، به‌ویژه استرالیا، تشدید کند. پیش‌بینی‌ها نشان می‌دهد که رشد قیمت‌ها ممکن است به کاهش رشد اقتصادی و افزایش هزینه‌های انرژی در استرالیا منجر شود. در نتیجه، چشم‌انداز اقتصادی این کشور به‌نظر می‌رسد که با چالش‌های جدی مواجه باشد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت نفت",
+    "tag": "نفت",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "news.com.au",
+    "url": "https://www.news.com.au/finance/economy/world-economy/oil-prices-surge-into-danger-zone-bleak-outlook-looms-for-australia/news-story/0ea745b754a3d8744c939b2911ec9908",
+    "clean_url": "https://www.news.com.au/finance/economy/world-economy/oil-prices-surge-into-danger-zone-bleak-outlook-looms-for-australia/news-story/0ea745b754a3d8744c939b2911ec9908",
+    "image": "https://content.api.news/v3/images/bin/6bd80858bf599a65468b92502dcea2eb",
+    "timestamp": 1789350120.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "aca8875ae3",
+    "title_fa": "‏محدودیت‌های تجاری جهان، سرعت انتقال انرژی پاک را کاهش می‌دهند",
+    "title_en": "‘Slowing things down’: Trade wars hit global electrification shift",
+    "summary": [
+      "‏دولت‌ها محدودیت‌های تجاری بر فناوری‌های خورشیدی، خودروهای الکتریکی و باتری‌ها اعمال کردند.",
+      "‏این موانع هزینه‌های انتقال به انرژی پاک را بالا برده و سرعت کاهش انتشار گازهای گلخانه‌ای را کم می‌کند.",
+      "‏صنعت و اتحادیه‌های برق هشدار دادند که این سیاست‌ها می‌توانند مسیر تحول انرژی را دچار تنگنا کنند."
+    ],
+    "body_fa": "‏در سال‌های اخیر، دولت‌های مختلف از برلین تا برازیل با اعمال محدودیت‌های تجاری بر فناوری‌های پاک، سعی در حفظ مشاغل داخلی و کاهش وابستگی به چین دارند. این اقدامات شامل محدودیت‌های واردات فناوری خورشیدی، تعرفه‌های بالای باتری‌ها، خودروهای الکتریکی و حتی مواد معدنی حیاتی می‌شود. به‌دنبال این سیاست‌ها، هزینه کل زنجیره تأمین انرژی پاک بین سال‌های ۲۰۲۳ و ۲۰۲۴ نه‌برابر شده و خطر افزایش قیمت برق برای مصرف‌کنندگان را به‌وجود آورده است. کارن ویِلند، مدیرعامل ائتلاف GridWise Alliance ، اظهار کرد که این موانع قطعاً سرعت انتقال به انرژی‌های تجدیدپذیر را کاهش می‌دهند. تحلیل‌گران بین‌المللی انرژی نیز هشدار می‌دهند که تنگناهای تجاری می‌توانند انتشار گازهای گلخانه‌ای را بالا برده و اهداف اقلیمی را به خطر بیاندازند. اگر این روند ادامه یابد، مسیر جهانی به سمت انرژی پاک با هزینه‌های بالاتر و زمان‌برداری طولانی‌تر مواجه خواهد شد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "محدودیت‌های تجاری انرژی",
+    "tag": "تجارت_پاک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Politico · via Yahoo News",
+    "url": "https://www.yahoo.com/news/us/articles/trade-wars-going-electric-planet-200000742.html",
+    "clean_url": "https://www.yahoo.com/news/us/articles/trade-wars-going-electric-planet-200000742.html",
+    "image": "https://media.zenfs.com/en/politico_453/db78eae91b469832f9678e30fad05cac.jpg",
+    "timestamp": 1789329521.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "46b7c28025",
+    "title_fa": "‏استودیوی Arcustin Games ۵۰۰ هزار دلار سرمایه جذب کرد",
+    "title_en": "AI-native game studio Arcustin Games raises $500K from Webrazzi GSYF",
+    "summary": [
+      "‏استودیوی موبایل Arcustin Games در استانبول ۵۰۰٬۰۰۰ دلار سرمایه پیش‌دانه جذب کرد",
+      "‏این سرمایه‌گذاری توسط صندوق Webrazzi GSYF با ارزش‌گذاری ۱۰ میلیون دلاری انجام شد",
+      "‏استودیو با رویکرد AI‑native قصد دارد اولین بازی پازلی هیبریدال‑کژوال خود را تکمیل کند"
+    ],
+    "body_fa": "‏استودیوی موبایل Arcustin Games مستقر در استانبول، ۵۰۰٬۰۰۰ دلار سرمایه پیش‌دانه با ارزش‌گذاری ۱۰ میلیون دلاری از صندوق سرمایه‌گذاری Webrazzi GSYF جذب کرد. Webrazzi GSYF که توسط İş Portföy و Webrazzi تأسیس شده، پیش از این از شرکت‌هایی چون Brix و GameByte حمایت کرده است. Arcustin Games که در سال ۲۰۲۵ توسط بارış دیکیچی و تولگا دیکیچی تأسیس شد، بازی‌های پازلی هیبریدال‑کژوال را با رویکرد AI‑native توسعه می‌دهد. استودیو ترکیبی از فرآیندهای تولید پشتیبانی‌شده توسط هوش مصنوعی و ساختار سازمانی کم‌هزینه را برای ایجاد مدلی سرمایه‌کارآمد به کار می‌گیرد. این سرمایه‌گذاری برای گسترش تیم، تکمیل توسعه اولین بازی و پشتیبانی از جذب کاربران صرف خواهد شد.",
+    "category": "گیم",
+    "subcategory": "سرمایه‌گذاری استارتاپ",
+    "tag": "AI‑gaming",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "Tech.eu",
+    "url": "https://tech.eu/2026/09/14/ai-native-game-studio-arcustin-games-raises-500k-from-webrazzi-gsyf/",
+    "clean_url": "https://tech.eu/2026/09/14/ai-native-game-studio-arcustin-games-raises-500k-from-webrazzi-gsyf",
+    "image": "https://cdn.tech.eu/uploads/2026/09/arcustingames-featured-653.png",
+    "timestamp": 1789318800.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "35fdbc8a52",
     "title_fa": "‏ژئلی خودرو الکتریکی TT را با ۱۹٬۱۷۰ دلار عرضه کرد",
     "title_en": "China just launched a $19,170 electric vehicle",
