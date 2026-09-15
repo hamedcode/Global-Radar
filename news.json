@@ -44,6 +44,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "b38b7f8912",
+    "title_fa": "‏سرمایه‌گذاری 150 میلیارد دلاری مراکز داده استرالیا تورم را تشدید می‌کند",
+    "title_en": "Australia’s data centre build‑out carries risks for the economy – and inflation",
+    "summary": [
+      "‏شرکت‌های فناوری جهانی تا سال 2030 تا 150 میلیارد دلار استرالیا را برای ساخت مراکز داده اختصاص می‌دهند.",
+      "‏این سرمایه‌گذاری می‌تواند شغل ایجاد کند اما فشار بر مسکن، شبکه برق و نیروی کار ماهر را افزایش دهد.",
+      "‏بخش عمده هزینه‌ها شامل سرورها و تجهیزات وارداتی است که سود کمتری به اقتصاد داخلی می‌رساند."
+    ],
+    "body_fa": "‏استرالیا در حال تجربه یک رونق ساخت مراکز داده است که بر پایه هوش مصنوعی و تقاضای روزافزون خدمات دیجیتال شکل گرفته است. شرکت‌های فناوری جهانی تا سال 2030 حدود 150 میلیارد دلار استرالیا را برای این پروژه‌ها اختصاص می‌دهند. اگرچه این سرمایه‌گذاری می‌تواند مشاغل مهندسی، برق و ساخت‌وساز ایجاد کند، اما بخش بزرگی از هزینه‌ها به سرورها، پردازنده‌ها و تجهیزات شبکه وارداتی می‌رود و به اقتصاد داخلی کم‌اثر می‌ماند. این امر می‌تواند فشار بر بازار مسکن، شبکه‌های برق و نیروی کار ماهر ایجاد کند؛ در حال حاضر کمبود تا 72 هزار کارگر ماهر در این حوزه‌ها وجود دارد. دستمزدهای بالا برای برق‌کاران با تجربه، که تا 200 هزار دلار در سال می‌رسد، می‌تواند هزینه‌های نیروی کار را در کل اقتصاد افزایش دهد. در نتیجه، اثر کلی این رونق بر رشد تولیدی و تورم ممکن است کمتر از حجم کل سرمایه‌گذاری باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "مراکز داده",
+    "tag": "داده‌مرکز",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Conversation",
+    "url": "https://theconversation.com/australias-data-centre-build-out-carries-risks-for-the-economy-and-inflation-290157",
+    "clean_url": "https://theconversation.com/australias-data-centre-build-out-carries-risks-for-the-economy-and-inflation-290157",
+    "image": "https://images.theconversation.com/files/758682/original/file-20260909-60-9jy37y.png?ixlib=rb-4.1.1&rect=71%2C97%2C1929%2C964&q=45&auto=format&w=1356&h=668&fit=crop",
+    "timestamp": 1789477980.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5c841af53b",
+    "title_fa": "‏سناتورهای آمریکا قانون‌گذاری جدید کریپتو را مسدود کردند",
+    "title_en": "Senate blocks crypto regulation bill in a major blow to the industry",
+    "summary": [
+      "‏سناتورهای دموکرات آمریکا با رأی ۴۹-۵۰ لایحه تنظیم مقررات کریپتو را رد کردند.",
+      "‏این تصمیم ضربه‌ای بزرگ برای بازار ۲.۳ تریلیون دلاری کریپتو و تلاش برای چارچوب نظارتی یکپارچه است.",
+      "‏لایحه به دلیل عدم تضمین‌های کافی اخلاقی برای جلوگیری از منافع شخصی دونالد ترامپ رد شد."
+    ],
+    "body_fa": "‏در جلسه‌ای که به‌عنوان آزمونی برای سال انتخاباتی شناخته شد، سناتورهای دموکرات با رأی ۴۹-۵۰ لایحه‌ای برای ایجاد چارچوب نظارتی جدید بر دارایی‌های دیجیتال را مسدود کردند. این لایحه که توسط صنعت کریپتو پشتیبانی می‌شد، هدفش تنظیم قوانین یکسان برای بازار ۲.۳ تریلیون دلاری بود. دموکرات‌ها خواستار تضمین‌های اخلاقی قوی برای جلوگیری از سودآوری شخصی رئیس‌جمهور دونالد ترامپ از سرمایه‌گذاری‌های کریپتو بودند. ترامپ برخی تعهدات جدید در زمینه اخلاقی ارائه داد، اما دموکرات‌ها آن را ناکافی دانستند و خواستار شرط خروج از دارایی‌های دیجیتال در صورت رسیدن به ارزش معین شدند. عدم توافق نهایی باعث شد لایحه نتواند ۶۰ رأی لازم برای پیشبرد را کسب کند و این شکست به‌عنوان یک ضربه مهم برای صنعت کریپتو تلقی می‌شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "قانون‌گذاری کریپتو",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "NBC News",
+    "url": "https://www.nbcnews.com/business/business-news/senate-blocks-crypto-regulation-bill-major-blow-industry-rcna598007",
+    "clean_url": "https://www.nbcnews.com/business/business-news/senate-blocks-crypto-regulation-bill-major-blow-industry-rcna598007",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260915-John-Thune-ch-1526-2283f2.jpg",
+    "timestamp": 1789475580.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a792e9c8fa",
+    "title_fa": "‏سناتورهای آمریکا رأی به رد قانون Clarity دادند",
+    "title_en": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
+    "summary": [
+      "‏سنای آمریکا نتایج رأی کلوتور را برای قانون Clarity Act اعلام کرد و آن را مسدود کرد.",
+      "‏این تصمیم مانع پیشبرد چارچوب جامع نظارتی برای صنعت رمزارزها می‌شود و فشار بر بازارها را افزایش می‌دهد.",
+      "‏قانون Clarity Act پیش از تصویب به دلیل مخالفت‌های حزبی به تاخیر افتاد."
+    ],
+    "body_fa": "‏در روز سه‌شنبه، سنای ایالات متحده رأی به رد کلوتور برای قانون پیشنهادی Clarity Act داد. بدون کسب اکثریت لازم برای پایان بحث، این لایحه قادر به پیشروی در مجلس نشد. قانون Clarity Act که هدفش ایجاد چارچوب نظارتی جامع برای رمزارزها بود، اکنون با مانعی جدی مواجه شد. این شکست برای صنعت کریپتو که به دنبال شفافیت قانونی و حمایت‌های دولتی است، ضربه‌ای محسوب می‌شود. تحلیل‌گران پیش‌بینی می‌کنند این رویداد می‌تواند نوسانات قیمت بیت‌کوین و سایر رمزارزها را تشدید کند. همچنین فشار بر قانون‌گذاران برای ارائه راه‌حل‌های جایگزین در آینده افزایش خواهد یافت.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "Clarity Act",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CNBC on MSN",
+    "url": "https://www.msn.com/en-us/money/markets/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-blow-to-crypto-industry/ar-AA2chehg",
+    "clean_url": "https://www.msn.com/en-us/money/markets/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-blow-to-crypto-industry/ar-AA2chehg",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789473938.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "48656ac1d8",
     "title_fa": "‏ایران با خطر جنگ دوجبهه‌ای در خلیج فارس مواجه شد",
     "title_en": "Daniel DePetris: Will Iran become a two-front war?",
