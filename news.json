@@ -1,5 +1,49 @@
 [
   {
+    "id": "1deaca7756",
+    "title_fa": "‏جنگ تجاری کارنی می‌تواند ترامپ را برای همیشه متوقف کند",
+    "title_en": "Can Carney’s Trade War Stop Trump For Good?",
+    "summary": [
+      "‏کانادا تعرفه‌های انتقامی اعمال کرد که می‌تواند فشار سیاسی بر ترامپ ایجاد کند",
+      "‏این اقدام می‌تواند نتایج میانی‌دوره‌ای آمریکا را تحت تأثیر قرار دهد",
+      "‏در صورت ادامه، پیامدهای جهانی قابل توجهی در پی خواهد داشت"
+    ],
+    "body_fa": "‏کانادا در واکنش به سیاست‌های تجاری ایالات متحده، تعرفه‌های انتقامی جدیدی بر کالاهای آمریکایی اعمال کرد. این گام، که توسط وزیر مالیات‌دار کانادا، جیمز کارنی، هدایت می‌شود، هدفش فشار آوردن به دولت ترامپ است. تحلیل‌گران بر این باورند که این تعرفه‌ها می‌توانند حمایت عمومی از ترامپ را در انتخابات میانی‌دوره‌ای تضعیف کنند. کاهش محبوبیت او می‌تواند نتایج انتخابات مجلس نمایندگان و سنا را به نفع مخالفان او تغییر دهد. اگر این روند ادامه یابد، تأثیرات اقتصادی و ژئوپلیتیکی گسترده‌تری بر روابط دو کشور و حتی صلح جهانی خواهد داشت.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تجارت بین‌المللی",
+    "tag": "تعرفه",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "Maclean's",
+    "url": "https://macleans.ca/politics/can-carneys-trade-war-stop-trump-for-good/",
+    "clean_url": "https://macleans.ca/politics/can-carneys-trade-war-stop-trump-for-good",
+    "image": "https://www.bing.com/th?id=ONUT.qtM8Cux8hEyqzxePqC6gOw",
+    "timestamp": 1789494481.854777,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ce8caf9cc0",
+    "title_fa": "‏ناآرامی‌های سراسری در سوریه پس از افزایش ۴۰٪ قیمت دیزل",
+    "title_en": "Syrians take to the streets over fuel price hikes, China cracks down on foreign...",
+    "summary": [
+      "‏دولت سوریه افزایش ۴۰٪ قیمت دیزل و ۳۰٪ بنزین را اعلام کرد.",
+      "‏این تصمیم باعث تظاهرات گسترده در چندین استان شد و اولین ناآرامی اقتصادی بزرگ تحت ریاست احمد الشراع بود.",
+      "‏افزایش قیمت‌ها ناشی از جنگ ایران و خاموش شدن یکی از بزرگ‌ترین پالایشگاه‌های کشور است."
+    ],
+    "body_fa": "‏دولت سوریه روز یکشنبه اعلام کرد که قیمت دیزل تا ۴۰٪ و بنزین تا ۳۰٪ افزایش می‌یابد. این اقدام در واکنش به رشد قیمت‌های جهانی نفت به دلیل جنگ ایران و همچنین خاموش شدن یکی از بزرگ‌ترین پالایشگاه‌های کشور انجام شد. تولید نفت سوریه حدود ۱۰۰٬۰۰۰ بشکه در روز است که تنها یک‌سوم نیازهای انرژی داخلی را پوشش می‌دهد و بقیه را باید وارد کند. پس از اعلام این افزایش، تظاهرات در چندین استان به‌سرعت گسترش یافت و اولین ناآرامی اقتصادی گسترده تحت رهبری احمد الشراع، که در اواخر ۲۰۲۴ قدرت را به دست گرفت، به شمار می‌رود. این تحرکات می‌تواند فشارهای سیاسی و امنیتی جدیدی بر دولت سوریه وارد کند و تأثیرات منطقه‌ای داشته باشد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "ناآرامی‌های اقتصادی",
+    "tag": "نقض سوخت",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "GZERO · via Yahoo News",
+    "url": "https://www.yahoo.com/news/world/articles/syrians-streets-over-fuel-price-154658854.html",
+    "clean_url": "https://www.yahoo.com/news/world/articles/syrians-streets-over-fuel-price-154658854.html",
+    "image": "https://media.zenfs.com/en/gzero_551/beab9b69cc696ba319a10cf19ef7b5f6.jpg",
+    "timestamp": 1789487202.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "48656ac1d8",
     "title_fa": "‏ایران با خطر جنگ دوجبهه‌ای در خلیج فارس مواجه شد",
     "title_en": "Daniel DePetris: Will Iran become a two-front war?",
@@ -41,6 +85,28 @@
     "clean_url": "https://finance.yahoo.com/technology/ai/articles/ais-safety-slowdown-spooks-market-100000111.html",
     "image": "https://s.yimg.com/lo/mysterio/api/76d707e86fcbccc7957f4386b06a8fbd8b8fdfd141deffc509b4061028ab647b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2F5f1c28c3c6d9ff4c767315dd42f24004.jpg",
     "timestamp": 1789468112.268981,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6f0401b19f",
+    "title_fa": "‏بیت‌کوین و سهام کریپتو پیش از قانون CLARITY کاهش یافت",
+    "title_en": "Bitcoin, crypto stocks slip ahead of CLARITY Act, Fed decision",
+    "summary": [
+      "‏بیت‌کوین و سهام مرتبط با کریپتو در روز سه‌شنبه کاهش یافتند.",
+      "‏بازارها پیش از تصمیمات مهم قانون CLARITY و فدرال‌رزرو واکنش نشان دادند.",
+      "‏کاهش حدود ۲٪ برای بیت‌کوین و برخی سهام کریپتو گزارش شد."
+    ],
+    "body_fa": "‏بازارهای دیجیتال روز سه‌شنبه تحت فشار تصمیمات مهم واشنگتن قرار گرفتند. سرمایه‌گذاران پیش از اعلام نتایج قانون CLARITY که به‌توضیح مقررات کریپتو می‌پردازد و تصمیم فدرال‌رزرو درباره نرخ بهره، به‌دقت نظاره‌گر بودند. در این شرایط، قیمت بیت‌کوین حدود دو درصد کاهش یافت و سهام شرکت‌های فعال در حوزه کریپتو نیز به‌طور مشابهی فشار گرفتند. این افت نشان می‌دهد که انتظارهای نظارتی و پولی می‌تواند به‌سرعت بر قیمت‌های دیجیتال تأثیر بگذارد. تحلیل‌گران پیش‌بینی می‌کنند که نتایج نهایی این دو تصمیم می‌تواند روند بازارهای کریپتو را در هفته‌های آینده شکل دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "TheStreet",
+    "url": "https://www.thestreet.com/crypto/markets/bitcoin-crypto-stocks-slip-ahead-of-clarity-act-fed-decision",
+    "clean_url": "https://www.thestreet.com/crypto/markets/bitcoin-crypto-stocks-slip-ahead-of-clarity-act-fed-decision",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789457220.0,
     "sent_to_telegram": true
   },
   {
