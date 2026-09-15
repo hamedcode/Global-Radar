@@ -66,6 +66,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "011d559c4f",
+    "title_fa": "‏قیمت نفت صد دلاری، بانک‌های مرکزی به هشدار تورم برگشتند",
+    "title_en": "$100 Oil Puts Central Banks Back on Inflation Alert",
+    "summary": [
+      "‏نفت خام به صد دلار رسید و قیمت دیزل در آمریکا ۶۰٪ افزایش یافت.",
+      "‏این افزایش فشار تورمی را تقویت کرده و بانک‌های مرکزی را به بررسی افزایش نرخ بهره وادار کرده.",
+      "‏اروپا و آمریکا به‌ویژه نگران اثرات طولانی‌مدت جنگ خاورمیانه بر قیمت انرژی هستند."
+    ],
+    "body_fa": "‏نفت خام به سطح صد دلار آمریکا رسید و موجودی‌های جهانی نفت به‌تدریج کاهش یافت. در ایالات متحده، قیمت دیزل از اواخر فوریه تا کنون حدود ۶۰٪ افزایش یافته و به رکورد شش دلاری در هر گالن رسیده است. اگرچه شاخص هسته‌ای تورم در ماه اوت تنها ۲.۴٪ بود، اما هزینه‌های انرژی به‌تدریج به سبد مصرف‌کنندگان سرایت می‌کند. این فشارهای قیمتی باعث شده بانک مرکزی فدرال رزرو و بانک مرکزی اروپا به احتمال زیاد نرخ بهره را ۲۵ پایه افزایش دهند. اقتصاددانان اشاره می‌کنند که ادامه جنگ در خاورمیانه و عدم رفع تحریم‌ها می‌تواند فشارهای تورمی را برای ماه‌های آینده تثبیت کند. در نتیجه، بازارهای مالی به‌دقت تحولات قیمت نفت و سیاست‌های پولی را دنبال می‌کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نفت و تورم",
+    "tag": "نفت",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Oilprice.com · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/100-oil-puts-central-banks-230000875.html",
+    "clean_url": "https://finance.yahoo.com/economy/policy/articles/100-oil-puts-central-banks-230000875.html",
+    "image": "https://media.zenfs.com/en/oilprice.com/953fd0c2b8c6c3cfe383675e1f8f3f9b.jpg",
+    "timestamp": 1789428507.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "eef1dd9b0c",
+    "title_fa": "‏رادیانت لاجستیکز درآمد و سود سه‌ماهه چهارم را ۱۸٪ افزایش داد",
+    "title_en": "Radiant Logistics Q4 Earnings Call Highlights",
+    "summary": [
+      "‏درآمد رادیانت لاجستیکز در سه‌ماهه چهارم ۱۸٫۵٪ به ۲۶۱٫۴ میلیون دلار رسید",
+      "‏سود خالص به ۷٫۵ میلیون دلار و EBITDA تنظیم‌شده به ۱۰٫۴ میلیون دلار افزایش یافت",
+      "‏شرکت اعتبار ۲۰۰ میلیونی را تا سال ۲۰۳۱ تمدید کرد و برنامه خریدهای هدفمند دارد"
+    ],
+    "body_fa": "‏رادیانت لاجستیکز (RLGT) نتایج مالی قوی‌تری برای سه‌ماهه چهارم مالی که در ۳۰ ژوئن ۲۰۲۶ به پایان رسید، منتشر کرد. درآمد این دوره ۱۸٫۵٪ رشد کرده و به ۲۶۱٫۴ میلیون دلار رسید، در حالی که سود خالص به ۷٫۵ میلیون دلار و هر سهم پایه ۰٫۱۶ دلار افزایش یافت. EBITDA تنظیم‌شده ۳۱٫۶٪ رشد کرده و به ۱۰٫۴ میلیون دلار رسید و حاشیه آن ۲۴۰ نقطه پایه گسترش یافت. شرکت اعتبار ۲۰۰ میلیونی خود را تا سال ۲۰۳۱ تمدید کرد و ۱۰۰ میلیون دلار ظرفیت خرید اضافه کرد، در حالی که بدهی خالصی گزارش نکرد. مدیریت قصد دارد با خریدهای هدفمند، تبدیل ایستگاه‌های نماینده و احتمالاً بازخرید سهام، رشد را ادامه دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش مالی شرکت",
+    "tag": "Radiant Logistics",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "MarketBeat · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-q4-earnings-call-220322464.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-q4-earnings-call-220322464.html",
+    "image": "https://media.zenfs.com/en/marketbeat_955/a03b5b63d3982364940ca0b3e8315119.jpg",
+    "timestamp": 1789424908.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ccb39faa58",
     "title_fa": "‏کلاهبرداری بانکی در برزیل انتخابات را تهدید کرد",
     "title_en": "Banking scandal rocks Brazil’s politics and the country’s presidential election in October",
