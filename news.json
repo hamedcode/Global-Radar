@@ -44,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "3b68bf2a42",
+    "title_fa": "‏بانک بزرگ استرالیا نرخ‌ها را بالا برد؛ نشانه‌ای برای RBA",
+    "title_en": "Major bank hikes rates in 'clear sign' of RBA's next move",
+    "summary": [
+      "‏یک بانک بزرگ استرالیا نرخ‌های سپرده و وام خود را افزایش داد.",
+      "‏این اقدام نشان می‌دهد که بانک انتظار دارد بانک مرکزی استرالیا (RBA) پیش از پایان سال نرخ بهره را بالا ببرد.",
+      "‏انتظار افزایش نرخ می‌تواند ارزش دلار استرالیا و بازارهای اوراق قرضه را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏یک بانک بزرگ استرالیا این هفته نرخ‌های سپرده و وام خود را افزایش داد. این حرکت به‌عنوان سیگنالی برای احتمال افزایش نرخ بهره توسط بانک مرکزی استرالیا (RBA) پیش از پایان سال تلقی می‌شود. بازارهای ارزی و اوراق قرضه استرالیا به خبر واکنش مثبت نشان دادند و ارزش دلار استرالیا کمی ارتقا یافت. در صورت افزایش نرخ‌های RBA ، هزینه‌های استقراض برای شرکت‌ها و خانوارها بالا می‌رود و فشار بر تورم افزایش می‌یابد. سخنران بانک گفت انتظار دارد RBA در ماه‌های آینده تصمیم مشابهی اتخاذ کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نرخ بهره بانکی",
+    "tag": "RBA",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "nine.com.au on MSN",
+    "url": "https://www.msn.com/en-au/news/other/major-bank-hikes-rates-in-clear-sign-of-rbas-next-move/ar-AA2ciBwE",
+    "clean_url": "https://www.msn.com/en-au/news/other/major-bank-hikes-rates-in-clear-sign-of-rbas-next-move/ar-AA2ciBwE",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789496835.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1deaca7756",
     "title_fa": "‏جنگ تجاری کارنی می‌تواند ترامپ را برای همیشه متوقف کند",
     "title_en": "Can Carney’s Trade War Stop Trump For Good?",
