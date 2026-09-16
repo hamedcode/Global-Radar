@@ -1,5 +1,49 @@
 [
   {
+    "id": "02ef3a5ba5",
+    "title_fa": "‏گوگل پرداخت به ناشران برای هوش مصنوعی را شروع کرد",
+    "title_en": "Google AI overviews will start paying for your content",
+    "summary": [
+      "‏گوگل در مرحله آزمایشی، به ناشران محتوا که در پاسخ‌های هوش مصنوعی‌اش استفاده می‌شود، پرداخت مستقیم آغاز کرد.",
+      "‏این اقدام می‌تواند مدل کسب‌وکار رسانه‌ها را تغییردهد و هزینه استفاده از داده‌ها را شفاف‌سازی کند.",
+      "‏شرکت در حال تست این برنامه در چندین کشور است و جزئیات پرداخت هنوز نهایی نشده."
+    ],
+    "body_fa": "‏گوگل اعلام کرد که در یک برنامه آزمایشی، به ناشران مطالبی که برای تولید پاسخ‌های هوش مصنوعی‌اش استفاده می‌شود، پرداخت مستقیم خواهد کرد. هدف این طرح، جبران هزینه‌های تولید محتوا و ایجاد شفافیت در استفاده از داده‌های ناشران است. پرداخت‌ها بر پایه میزان استفاده از مطالب در پاسخ‌های خلاصه‌ای که هوش مصنوعی گوگل ارائه می‌دهد، محاسبه می‌شود. این برنامه در چندین بازار آزمایشی اجرا می‌شود و جزئیات دقیق مبلغ و معیارهای ارزیابی هنوز نهایی نشده‌اند. اگر موفق باشد، می‌تواند به تغییر ساختار درآمدی رسانه‌ها و تنظیم جدیدی برای استفاده از داده‌های دیجیتال منجر شود.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی محتوا",
+    "tag": "پرداخت AI",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Under30CEO on MSN",
+    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/google-ai-overviews-will-start-paying-for-your-content/ar-AA2cm3yl?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/google-ai-overviews-will-start-paying-for-your-content/ar-AA2cm3yl",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789580909.6834185,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e391bfe8b4",
+    "title_fa": "‏سابورو تولید خود را از کانادا به آمریکا منتقل می‌کند",
+    "title_en": "Sapporo Moving Some Production to US From Canada",
+    "summary": [
+      "‏سابورو برخی تولیدات آبجو را از کانادا به آمریکا منتقل می‌کند.",
+      "‏این تصمیم به دلیل اعمال 50 ٪ تعرفه‌های آمریکا بر صادرات کانادایی است و نشان‌دهنده تأثیر تنش‌های تجاری است.",
+      "‏شرکت قصد دارد تا نیمه اول 2027 تولید آبجو بدون الکل برای بازار آمریکا را در ایالات متحده راه‌اندازی کند."
+    ],
+    "body_fa": "‏شرکت سابورو بریوریز تصمیم گرفته بخشی از تولیدات خود را که پیشتر در کانادا انجام می‌شد، به ایالات متحده منتقل کند. این اقدام در واکنش به تعرفه‌های 50 ٪ آمریکا بر صادرات آبجو از کانادا صورت گرفته است. مسئول استراتژی شرکت، ریکو شوفو، گفت تولید آبجو بدون الکل برای بازار آمریکا تا نیمه اول 2027 در آمریکا انجام خواهد شد. سابورو همچنین در نظر دارد ظرفیت تولید در سواحل غربی آمریکا را افزایش دهد یا با تولیدکنندگان محلی همکاری کند. این تغییر بخشی از برنامه گسترده سرمایه‌گذاری 300 تا 400 میلیارد ین تا 2030 است که هدف آن رشد سود عملیاتی به 40 میلیارد ین است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تجارت بین‌المللی",
+    "tag": "تاریف",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/sapporo-moving-production-us-canada-140634668.html",
+    "clean_url": "https://finance.yahoo.com/economy/policy/articles/sapporo-moving-production-us-canada-140634668.html",
+    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/56e12e92a847109ca9597082dc683e1e.jpg",
+    "timestamp": 1789566380.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a1a83ad3dd",
     "title_fa": "‏اوکراین از آسیا خواست صادرات چیپ به روسیه قطع شود",
     "title_en": "Ukraine's message to Asian nations: your chips are turning up in Russian...",
@@ -41,6 +85,28 @@
     "clean_url": "https://finance.yahoo.com/technology/ai/articles/trump-few-good-options-slow-020112959.html",
     "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/033346d9bdba9d532add36c3b3091ca6.jpg",
     "timestamp": 1789525084.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5fe1fd2268",
+    "title_fa": "‏نقش کلیدی هند در رشد جهانی تأیید شد",
+    "title_en": "India key driver for global growth: senior IMF official",
+    "summary": [
+      "‏نایجل کلارک، معاون مدیرعامل صندوق بین‌المللی پول، هند را به‌عنوان بزرگ‌ترین اقتصاد در حال رشد جهان نامید.",
+      "‏این اظهار نظر نشان‌دهنده اهمیت هند برای رشد اقتصاد جهانی و می‌تواند سرمایه‌گذاران را به سمت بازار این کشور جذب کند.",
+      "‏کلارک در سفر خود به هند با وزیر مالی، رئیس بانک مرکزی و مقامات تجاری ملاقات کرد."
+    ],
+    "body_fa": "‏نایجل کلارک، معاون مدیرعامل صندوق بین‌المللی پول، در اظهاریه‌ای گفت که هند به‌عنوان سریع‌ترین اقتصاد بزرگ در حال رشد، عامل اصلی رشد جهانی است. او در بازدیدی که از ۷ تا ۱۱ سپتامبر به هند داشت، با وزیر مالی نیرمالا سیتارامان، رئیس بانک مرکزی سانجی مالهوتر، معاون رئیس نیتی آییگ آشوک کمار لاهیری و رهبران تجاری ملاقات کرد. کلارک به زیرساخت‌های قوی، چارچوب‌های سیاستی پایدار و نیروی کار ماهر هند اشاره کرد و گفت این عوامل می‌توانند موج جدیدی از رشد جهانی را به‌وجود آورند. او همچنین بر ضرورت سرمایه‌گذاری مستمر در مهارت‌ها و استفاده مسئولانه از فناوری برای به‌اشتراک‌گذاری عادلانه منافع رشد تأکید کرد. این بیانیه می‌تواند چشم‌انداز سرمایه‌گذاران خارجی را نسبت به بازار هند روشن‌تر کند و نقش این کشور را در اقتصاد جهانی تقویت نماید.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "رشد اقتصادی",
+    "tag": "هند",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "cfo.economictimes.indiatimes",
+    "url": "https://cfo.economictimes.indiatimes.com/news/economy/india-key-driver-for-global-growth-senior-imf-official/134280101",
+    "clean_url": "https://cfo.economictimes.indiatimes.com/news/economy/india-key-driver-for-global-growth-senior-imf-official/134280101",
+    "image": "https://etimg.etb2bimg.com/thumb/msid-134280101,imgsize-367770,width-1200,height=627,overlay-etcfo,resizemode-75/economy/india-key-driver-for-global-growth-senior-imf-official.jpg",
+    "timestamp": 1789515060.0,
     "sent_to_telegram": true
   },
   {
