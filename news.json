@@ -1,5 +1,49 @@
 [
   {
+    "id": "54a4a4dab3",
+    "title_fa": "‏تعارف‌های چین‑آمریکا پیش از اجلاس کاخ سفید بررسی شد",
+    "title_en": "Where the US-China tariff row stands ahead of White House summit",
+    "summary": [
+      "‏در هفته آینده، ترامپ و شی جین‌پینگ در کاخ سفید برای حل اختلاف تعرفه‌ها ملاقات می‌کنند",
+      "‏تعرفه‌های فعلی ۲۲٫۸٪ متوسط برای چین، بالاتر از سایر شرکای تجاری آمریکا است",
+      "‏هر دو طرف در حال مذاکره برای چارچوب کاهش تعرفه‌های ۳۰ میلیارد دلاری هستند"
+    ],
+    "body_fa": "‏تعرفه‌های آمریکا بر کالاهای چینی در اوت ۲۲٫۸٪ متوسط شد که بالاترین میزان میان شرکای تجاری اصلی واشنگتن است. برخی بخش‌ها مثل فولاد و آلومینیوم با ۴۰٫۵٪ و چین ۱۰٪ بر تمام کالاهای آمریکایی مالیات می‌گیرد و در برخی موارد مانند گاز مایع طبیعی ۱۵٪ اضافه می‌شود. حجم تجارت دو کشور در ژانویه تا آگوست ۴۰۰٫۸ میلیارد دلار بوده که ۵٫۴٪ رشد کرده و ۷۵٪ این مقدار مربوط به صادرات چین است. این مازاد تجاری همواره منبع تنش در روابط دو کشور بوده. در اجلاس کاخ سفید که برای ۲۴ سپتامبر برنامه‌ریزی شده، ترامپ اعلام کرد تقریباً همه موضوعات را با شی بررسی می‌کند ولی تعرفه‌ها «مهم‌ترین مسأله» باقی می‌مانند. چین و آمریکا در حال تنظیم چارچوبی برای کاهش تعرفه‌های ۳۰ میلیارد دلاری در هر طرف هستند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تعرفه‌های تجاری",
+    "tag": "تعرفه چین-آمریکا",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "AFP · via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/where-us-china-tariff-row-024709185.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/where-us-china-tariff-row-024709185.html",
+    "image": "https://media.zenfs.com/en/afp.com/3a5e76cde98bf5e10721a209c41fddab.jpg",
+    "timestamp": 1789611951.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5da8d7c89e",
+    "title_fa": "‏دریو آمودی، مدیرعامل Anthropic ، خواستار کاهش سرعت پیشرفت هوش مصنوعی شد",
+    "title_en": "Breakingviews",
+    "summary": [
+      "‏مدیرعامل Anthropic ، داریو آمودی، درخواست کرد پیشرفت هوش مصنوعی سرعت کمتری بگیرد.",
+      "‏این ایده می‌تواند مدل‌های کسب‌وکار شرکت‌های فناوری را به‌چالش بکشد.",
+      "‏آمودی هشدار داد که عدم کنترل می‌تواند تبعات قانونی و اخلاقی به‌وجود آورد."
+    ],
+    "body_fa": "‏داریو آمودی، مدیرعامل شرکت Anthropic ، در مصاحبه‌ای اعلام کرد که پیشرفت هوش مصنوعی باید با سرعت کمتری ادامه یابد. او معتقد است که رشد سریع فناوری‌های زبانی می‌تواند ساختارهای درآمدی و مدل‌های تجاری بسیاری از شرکت‌های فناوری را دگرگون کند. آمودی به خطرات احتمالی ناشی از عدم تنظیم مناسب، از جمله مشکلات قانونی و اخلاقی، اشاره کرد. این اظهارات در حالی مطرح می‌شود که رقبا همچنان به توسعه مدل‌های بزرگ می‌پردازند و فشار برای نوآوری بالا است. اگر این درخواست جدی گرفته شود، ممکن است قوانین جدید یا چارچوب‌های نظارتی بر صنعت هوش مصنوعی تحمیل گردد.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/commentary/breakingviews/chinas-brutal-ai-economics-hold-lessons-us-2026-09-16/",
+    "clean_url": "https://www.reuters.com/commentary/breakingviews/chinas-brutal-ai-economics-hold-lessons-us-2026-09-16",
+    "image": "https://s.yimg.com/bo/d3f403a4-ee08-5d7f-a2ee-1a7710d021d7_1789032002630.jpg",
+    "timestamp": 1789597551.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "02ef3a5ba5",
     "title_fa": "‏گوگل پرداخت به ناشران برای هوش مصنوعی را شروع کرد",
     "title_en": "Google AI overviews will start paying for your content",
@@ -19,6 +63,28 @@
     "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/google-ai-overviews-will-start-paying-for-your-content/ar-AA2cm3yl",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1789580909.6834185,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0f32ed4f38",
+    "title_fa": "‏دیزل به ۶٫۳ دلار رسید؛ حمایت ترامپ کشاورزی افت کرد",
+    "title_en": "Map of Trump approval rating in biggest farming states as diesel costs soar",
+    "summary": [
+      "‏دیزل به ۶٫۳ دلار در هر گالن رسید، رکورد تاریخی در ایالات‌متحده.",
+      "‏این افزایش قیمت باعث کاهش حمایت ترامپ در ایالت‌های کشاورزی مهم شد.",
+      "‏تنها کانزاس حمایت مثبت داشت؛ دیگر ایالت‌ها نظرسنجی منفی نشان دادند."
+    ],
+    "body_fa": "‏دیزل در ایالات‌متحده به ۶٫۳ دلار در هر گالن رسید که بالاترین سطح ثبت‌شده است. این جهش قیمت در پی اختلالات حمل‌ونقل نفت در خاورمیانه به‌دلیل جنگ آمریکا با ایران رخ داد. کشاورزان که به دیزل برای کارکرد ماشین‌آلات سنگین وابسته‌اند، با هزینه‌های بالاتر مواجه شدند. نظرسنجی‌های Civiqs نشان می‌دهد که حمایت ترامپ در ده ایالت بزرگ کشاورزی به‌طور قابل‌توجهی کاهش یافته و تنها در کانزاس کمی مثبت باقی مانده است. این کاهش حمایت می‌تواند برای جمهوری‌خواهان خطرناک باشد، زیرا این ایالت‌ها پایه اصلی رأی‌دهندگانشان در انتخابات میانی ۲۰۲۶ هستند. دموکرات‌ها امیدوارند این فشار اقتصادی به‌خصوص در ایالت‌های کلیدی مانند آیوا و کانزاس، حمایت‌هایشان را افزایش دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت دیزل",
+    "tag": "دیزل",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "NEWSWEEK · via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/map-trump-approval-rating-biggest-163311574.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/map-trump-approval-rating-biggest-163311574.html",
+    "image": "https://media.zenfs.com/en/newsweek_sports_200/4ed8680e470f43fe2cfd4496b14854aa.jpg",
+    "timestamp": 1789575951.0,
     "sent_to_telegram": true
   },
   {
