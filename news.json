@@ -88,6 +88,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0dbdc8b1a2",
+    "title_fa": "‏نفت بالای ۱۰۰ دلار و قرض‌گیری، استگفلیشن را تشدید می‌کند",
+    "title_en": "Rising oil, borrowing costs fuel stagflation fears for global economy",
+    "summary": [
+      "‏برنت بالای ۱۰۰ دلار و بازده اوراق دولتی در حال افزایش است.",
+      "‏این ترکیب فشارهای تورمی و رشد اقتصادی را به‌هم می‌زند و خطر استگفلیشن را زنده می‌کند.",
+      "‏بانک‌های مرکزی ممکن است نرخ بهره را سریع‌تر افزایش دهند."
+    ],
+    "body_fa": "‏برنت در هفته جاری به بالای ۱۰۰ دلار رسیده و به بالاترین سطح چند ماهه خود ادامه می‌دهد. همزمان، بازده اوراق قرضه دولتی در سطوح تاریخی نزدیک به ۴ درصد قرار گرفته و هزینه‌های استقراض برای دولت‌ها و شرکت‌ها را افزایش داده است. این دو عامل ترکیبی باعث تجدید نگرانی‌ها دربارهٔ فشارهای تورمی می‌شود، چرا که قیمت انرژی بالا و هزینه‌های مالی بیشتر می‌توانند تقاضا را کاهش دهند. تحلیل‌گران هشدار می‌دهند که این وضعیت می‌تواند به استگفلیشن منجر شود، وضعیتی که هم تورم بالا و هم رشد اقتصادی ضعیف را در کنار هم به‌وجود می‌آورد. بانک‌های مرکزی، به‌ویژه فدرال رزرو، ممکن است برای خنثی‌سازی این فشارها نرخ بهره را سریع‌تر از پیش برنامه‌ریزی شده افزایش دهند. چنین تصمیمی می‌تواند بازارهای سهام و ارز را تحت فشار قرار داده و ریسک‌های سرمایه‌گذاری را بالا ببرد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قیمت نفت",
+    "tag": "استگفلیشن",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "The Economic Times on MSN",
+    "url": "https://www.msn.com/en-in/general/general/rising-oil-borrowing-costs-fuel-stagflation-fears-for-global-economy/ar-AA2ctYnU",
+    "clean_url": "https://www.msn.com/en-in/general/general/rising-oil-borrowing-costs-fuel-stagflation-fears-for-global-economy/ar-AA2ctYnU",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789692518.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "782735a4fa",
     "title_fa": "‏قیمت طلا پس از افزایش نرخ فدرال به $4,400 رسید",
     "title_en": "Gold shrugs off Fed hike as falling yields reopen path to $4,400 | FXStreet",
