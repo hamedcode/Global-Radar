@@ -22,6 +22,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "b117b86220",
+    "title_fa": "‏بازارهای جهانی سهام به سمت سقوط می‌روند؟",
+    "title_en": "Are global stock markets heading for a crash?",
+    "summary": [
+      "‏بازارهای سهام جهان پس از اوج هوای مثبت، تحت فشارهای تورمی، نرخ بهره و قیمت نفت قرار گرفته‌اند.",
+      "‏اگر این فشارها ادامه یابد، احتمال سقوط شدید شاخص‌ها و اثرات منفی بر اقتصادهای جهانی افزایش می‌یابد.",
+      "‏فدرال رزرو این هفته اولین افزایش نرخ بهره پس از 2023 را انجام داد."
+    ],
+    "body_fa": "‏تابستان گذشته، بازارهای مالی جهان با امید به ادامه رونق هوش مصنوعی، به سطوح تاریخی رسیده بودند. اما تشدید جنگ در خاورمیانه و عدم پیشرفت در حل آن، باعث بروز نوسانات شدید شد. هزینه‌های قرض‌گیری دولت آمریکا به بالاترین سطح از سال ۲۰۰۷ رسید و فشار بر اوراق قرضه و هزینه‌های خانوار و شرکت‌ها افزایش یافت. قیمت نفت که به بیش از ۱۰۰ دلار در هر بشکه ارتقا یافت، فشار فروش در بازارهای بدهی را تشدید کرد و خطر سقوط سهام را بالا برد. در همین حال، فدرال رزرو برای اولین بار از سال ۲۰۲۳ نرخ بهره را افزایش داد و بانک‌های مرکزی دیگر نیز برنامه‌های مشابهی دارند. تحلیل‌گران، از جمله آلبرت ادوردز در سوسیه جنرال، هشدار می‌دهند که ترکیب این عوامل می‌تواند به رکود و سقوط شدید بازارهای سهام منجر شود. اگر این روند ادامه یابد، سرمایه‌گذاران باید برای نوسانات شدید و احتمال کاهش ارزش دارایی‌های خود آماده شوند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازارهای سهام",
+    "tag": "سقوط",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
+    "clean_url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
+    "image": "https://i.guim.co.uk/img/media/9f86b7cc961ff0e1ef0c93916d30d0777739c3aa/571_246_4145_3317/master/4145.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=606d07fd42cbe80b114f43b775451da5",
+    "timestamp": 1789894140.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fa31734b00",
+    "title_fa": "‏جنگ آمریکا‑اسرائیل‑ایران باعث شوک انرژی و تورم جهانی شد",
+    "title_en": "US-Israel-Iran war latest live news: Iran war energy shock spreads across global economy, fuel prices & inflation rise; check latest updates",
+    "summary": [
+      "‏جنگ بین آمریکا، اسرائیل و ایران به‌هم‌پوشانی انرژی منجر شد؛ قیمت سوخت‌ها به‌سرعت افزایش یافت",
+      "‏این افزایش قیمت‌ها فشار تورمی را در اقتصادهای جهان تشدید می‌کند",
+      "‏بازارهای مالی به‌دلیل نگرانی از ادامه درگیری، نوسان شدیدی نشان دادند"
+    ],
+    "body_fa": "‏درگیری نظامی میان ایالات متحده، اسرائیل و ایران به‌سرعت به یک بحران انرژی تبدیل شده است. تقاضای ناگهانی برای نفت و گاز باعث شده تا قیمت‌های سوخت در سرتاسر جهان به‌طور قابل‌توجهی بالا برود. این افزایش هزینه‌ها به‌سرعت به فشارهای تورمی در کشورهای مختلف منجر شده و قدرت خرید مصرف‌کنندگان را کاهش می‌دهد. علاوه بر این، بازارهای مالی به‌دلیل نگرانی از ادامه درگیری و عدم قطعیت‌های اقتصادی، نوسان شدید نشان داده‌اند. تحلیل‌گران هشدار می‌دهند که اگر تنش‌ها ادامه یابد، اثرات منفی بر رشد اقتصادی جهانی عمیق‌تر خواهد شد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "جنگ و انرژی",
+    "tag": "قیمت‌نفت",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "The Sunday Guardian Live on MSN",
+    "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-iran-war-energy-shock-spreads-across-global-economy-fuel-prices-inflation-rise-check-latest-updates/ar-AA2cBGn1",
+    "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-iran-war-energy-shock-spreads-across-global-economy-fuel-prices-inflation-rise-check-latest-updates/ar-AA2cBGn1",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789889460.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ffbbd256c1",
     "title_fa": "‏تعرفه‌های ترامپ تجارت دریاچه‌های بزرگ آمریکا-کانادا را تهدید می‌کند",
     "title_en": "Great Lakes bind U.S., Canada trade imperiled by Trump tariffs",
