@@ -1,5 +1,27 @@
 [
   {
+    "id": "19e06e134e",
+    "title_fa": "‏عدم تصویب قانون CLARITY به نفع Coinbase و به ضرر بانک‌ها است",
+    "title_en": "Brian Armstrong Says Coinbase May Benefit After CLARITY Act Fails, Banks Face...",
+    "summary": [
+      "‏Coinbase CEO گفت عدم تصویب قانون CLARITY رقابت را برای صرافی کاهش می‌دهد.",
+      "‏این وضعیت به نفع Coinbase است و بانک‌ها را در موقعیت بدتری قرار می‌دهد.",
+      "‏توکن‌سازی سهام در این صرافی نزدیک به یک میلیارد دلار حجم معامله دارد."
+    ],
+    "body_fa": "‏بریان آرمسترانگ، مدیرعامل Coinbase ، اعلام کرد که عدم تصویب قانون CLARITY رقابت را برای صرافی کاهش می‌دهد و در کوتاه‌مدت برای این شرکت مفید است. او افزود که بانک‌های بزرگ که به رقابت با کریپتو می‌پردازند، حالا در موقعیت بدتری قرار دارند و ممکن است در آینده دوباره برای قانون‌گذاری تلاش کنند. آرمسترانگ اشاره کرد که قانون GENIUS در حال حاضر به عنوان قانون اصلی شناخته می‌شود و Coinbase همچنان پاداش‌های استیبل‌کوین را پرداخت خواهد کرد. او همچنین گفت توکن‌سازی سهام در Coinbase به حجم تقریباً یک میلیارد دلار رسیده و این توکن‌ها به‌عنوان «اوراق بهادار واقعی» یک به یک با سهام پایه قابل تبدیل هستند. در نهایت، او به این نکته اشاره کرد که قوانین پیشنهادی SEC و CFTC ممکن است در برخی موارد نسبت به قانون CLARITY انعطاف‌پذیرتر باشند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین رمزارزها",
+    "tag": "CLARITY Act",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Stocktwits · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/brian-armstrong-says-coinbase-may-165719051.html",
+    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/brian-armstrong-says-coinbase-may-165719051.html",
+    "image": "https://media.zenfs.com/en/stocktwits_383/4c8dc4de2fd4cbe56a5938297ce96d96",
+    "timestamp": 1789922914.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b156a582dd",
     "title_fa": "‏فدرال رزرو نرخ بهره را به‌دلیل تورم چسبناک افزایش داد",
     "title_en": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
