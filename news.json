@@ -1,5 +1,27 @@
 [
   {
+    "id": "b156a582dd",
+    "title_fa": "‏فدرال رزرو نرخ بهره را به‌دلیل تورم چسبناک افزایش داد",
+    "title_en": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
+    "summary": [
+      "‏فدرال رزرو نرخ بهره اصلی را در روز چهارشنبه افزایش داد",
+      "‏این تصمیم نشان‌دهنده تورم پایدار و رشد سریع‌تر اقتصاد آمریکا است",
+      "‏دونالد ترامپ دوباره فدرال رزرو را مورد انتقاد قرار داد"
+    ],
+    "body_fa": "‏فدرال رزرو روز چهارشنبه نرخ بهره اصلی را ۲۵ نقطه پایه افزایش داد. این اقدام نشانگر این است که تورم در آمریکا به‌صورت چسبناک باقی مانده و رشد اقتصادی با سرعت بیشتری پیش می‌رود. رئیس‌جمهور دونالد ترامپ پس از این تصمیم، حملات خود را به سیاست پولی فدرال رزرو تجدید کرد. اگرچه این افزایش نرخ در کوتاه‌مدت بر بازارهای مالی تأثیر می‌گذارد، اما هزینه‌های بلندمدت وام‌گیری بیشتر به روندهای کلی اقتصادی وابسته است. تحلیل‌گران پیش‌بینی می‌کنند که این سیاست می‌تواند فشار بر قیمت‌های مصرف‌کننده را کاهش دهد ولی ممکن است رشد اقتصادی را کمی مهار کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نرخ بهره فدرال رزرو",
+    "tag": "نرخ بهره",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/federal-reserve-interest-rates-inflation-a633de46f84a3487f3bdc03f788188fa",
+    "clean_url": "https://apnews.com/article/federal-reserve-interest-rates-inflation-a633de46f84a3487f3bdc03f788188fa",
+    "image": "https://dims.apnews.com/dims4/default/c61be33/2147483647/strip/true/crop/7796x5195+0+1/resize/980x653!/quality/90/?url=https://assets.apnews.com/51/52/ad960f499fc601b9aa6141f411d5/ac7bb56a5e484304a5ff4a9513f04f68",
+    "timestamp": 1789905540.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ffbbd256c1",
     "title_fa": "‏تعرفه‌های ترامپ تجارت دریاچه‌های بزرگ آمریکا-کانادا را تهدید می‌کند",
     "title_en": "Great Lakes bind U.S., Canada trade imperiled by Trump tariffs",
