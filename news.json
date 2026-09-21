@@ -22,6 +22,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "4420d8f7b8",
+    "title_fa": "‏بیت‌کوین 84,000 دلار شد؛ آرمسترانگ 2030 را 400,000 دلار می‌بیند",
+    "title_en": "Bitcoin hits 7-month high as Coinbase CEO sees $400,000, says crypto won’t wait for Congress",
+    "summary": [
+      "‏بیت‌کوین امروز به بالای 84,000 دلار رسید، بالاترین سطح در هفت ماه گذشته.",
+      "‏این صعود نشانگر تقاضای قوی است و پیش‌بینی آرمسترانگ برای 2030 بین 300 تا 400 هزار دلار می‌تواند بازار را تحت تأثیر قرار دهد.",
+      "‏او افزود رمزارزها برای تصمیمات کنگره صبر نخواهند کرد."
+    ],
+    "body_fa": "‏دوشنبه بیت‌کوین قیمت خود را به بیش از 84,000 دلار ارتقا داد و بالاترین سطح در هفت ماه گذشته شد. این افزایش پس از چند روز نوسان مثبت در بازار رمزارزها رخ داد. براین‌چین، مدیرعامل شرکت Coinbase ، پیش‌بینی کرد که تا سال 2030 قیمت بیت‌کوین می‌تواند بین 300,000 تا 400,000 دلار برسد. او افزود که رشد رمزارزها به تصمیمات قانون‌گذاری کنگره وابسته نخواهد بود. این پیش‌بینی باعث شد سرمایه‌گذاران به احتمال افزایش چشمگیر قیمت در طول دهه آینده توجه کنند. در عین حال، تحلیل‌گران هشدار دادند که چنین پیش‌بینی‌های بلندمدت با ریسک‌های بالایی همراه است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "بیت‌کوین",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Benzinga on MSN",
+    "url": "https://www.msn.com/en-us/money/general/bitcoin-hits-7-month-high-as-coinbase-ceo-sees-400-000-says-crypto-won-t-wait-for-congress/ar-AA2cG6pG",
+    "clean_url": "https://www.msn.com/en-us/money/general/bitcoin-hits-7-month-high-as-coinbase-ceo-sees-400-000-says-crypto-won-t-wait-for-congress/ar-AA2cG6pG",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1789969910.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "71dee0ea8f",
     "title_fa": "‏دلار آمریکا روپیه اندونزی را هشت روز متوالی فشار می‌دهد",
     "title_en": "Indonesian Rupiah declines as US Dollar remains stronger amid hawkish Fed tone |...",
@@ -107,6 +129,28 @@
     "clean_url": "https://finance.yahoo.com/news/us-treasurys-bessent-chinas-launch-050623893.html",
     "image": "https://media.zenfs.com/en/reuters.com/3009d9eda16520ccf63660bbe7fa0504.jpg",
     "timestamp": 1789959979.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4077ead77a",
+    "title_fa": "‏ایران و متحدانش تنگه‌ها را کنترل، اقتصاد جهانی تهدید شد",
+    "title_en": "Iran and its allies threaten the global economy by controlling two key straits: Hormuz and Bab al-Mandab",
+    "summary": [
+      "‏ایران و متحدانش کنترل تنگه هرمز و باب‌ال‌مندب را به دست گرفتند",
+      "‏این وضعیت می‌تواند عرضه نفت را مختل کند و فشار بر تورم جهانی را افزایش دهد",
+      "‏آمریکا به درخواست عربستان برای مداخله در این تنگه‌ها پاسخ نداده"
+    ],
+    "body_fa": "‏پس از حملات هوایی ایالات متحده که منجر به بسته شدن موقت تنگه هرمز شد، حوثی‌ها با حمایت نظامی و مالی ایران کنترل شبه‌جزیره باب‌ال‌مندب را به‌دست آوردند. این دو مسیر بحرانی، که بیش از نیمی از صادرات نفت جهان از آن عبور می‌کند، اکنون تحت فشار جدی قرار دارند. عربستان سعودی دو بار از واشنگتن درخواست مداخله کرد اما رئیس‌جمهور ترامپ از مداخله خودداری کرد. بسته شدن یا محدود شدن عبور کشتی‌ها می‌تواند قیمت نفت را به‌سرعت بالا برد و تورم جهانی را تشدید کند. این تحولات نه تنها به بازارهای انرژی ضربه می‌زنند، بلکه می‌توانند بر نتایج انتخابات میانی‌سالانه آمریکا نیز تأثیر بگذارند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تنگه هرمز و باب‌ال‌مندب",
+    "tag": "نفت",
+    "urgency": 4,
+    "iran_relevant": true,
+    "source": "EL PAÍS English",
+    "url": "https://english.elpais.com/international/2026-09-21/iran-and-its-allies-threaten-the-global-economy-by-controlling-two-key-straits-hormuz-and-bab-al-mandab.html",
+    "clean_url": "https://english.elpais.com/international/2026-09-21/iran-and-its-allies-threaten-the-global-economy-by-controlling-two-key-straits-hormuz-and-bab-al-mandab.html",
+    "image": "https://imagenes.elpais.com/resizer/v2/5QPB3CXBHFIKJBG4CS4HXCAVW4.jpg?auth=94dfee493a65b3f12b5aec71ce7bfff018f377869e847056daf2015bb8d51ef5&width=1200",
+    "timestamp": 1789959960.0,
     "sent_to_telegram": true
   },
   {
@@ -6553,50 +6597,6 @@
     "clean_url": "https://finance.yahoo.com/technology/articles/why-video-game-consoles-expensive-160000404.html",
     "image": "https://media.zenfs.com/en/gamespot_323/ace6391f3f3a7f0cb42cc3378ae92422.jpg",
     "timestamp": 1786983735.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "510552d46c",
-    "title_fa": "‏درآمد رکوردی و سود ۲۹۵ میلیون دلاری International Seaways",
-    "title_en": "International Seaways (INSW) Q2 2026 Earnings Call",
-    "summary": [
-      "‏International Seaways در سه‌ماهه دوم 2026 سود خالص تنظیم‌شده ۲۹۵ میلیون دلار (۵.۹۱ دلار به ازای هر سهم) گزارش کرد.",
-      "‏این افزایش به‌دلیل نرخ‌های اسپاٹ بالاتر و EBITDA رکوردی ۳۴۵ میلیون دلاری است که هزینه حمل‌ونقل نفت را تحت تأثیر قرار می‌دهد.",
-      "‏شرکت ۴ کشتی جدید به‌قیمت ۲۴۴ میلیون دلار سفارش داد و ۷ کشتی قدیمی را به‌قیمت ۲۱۶ میلیون دلار فروخت."
-    ],
-    "body_fa": "‏International Seaways در گزارش مالی سه‌ماهه دوم 2026 ، سود خالص تنظیم‌شده ۲۹۵ میلیون دلار یا ۵.۹۱ دلار به ازای هر سهم اعلام کرد که نسبت به سال گذشته به‌طور چشمگیری افزایش یافته است. EBITDA این دوره به ۳۴۵ میلیون دلار رسید که بالاترین سطح تاریخ شرکت است و عمدتاً به دلیل نرخ‌های اسپاٹ بالاتر در بازار حمل‌ونقل نفت حاصل شده. جریان نقدی آزاد به ۲۶۱ میلیون دلار رسید که ۱۰۰ میلیون دلار بیش از رکورد قبلی است. شرکت ۴ کشتی جدید به‌قیمت ۲۴۴ میلیون دلار سفارش داد و ۷ کشتی قدیمی را به‌قیمت ۲۱۶ میلیون دلار به فروش رساند تا ناوگان خود را به‌روز کند. این نتایج نشان‌دهنده تقاضای قوی برای حمل‌ونقل نفت و محصولات پتروشیمی در شرایط نرخ‌های اسپاٹ بالا است.",
-    "category": "انرژی و کالا",
-    "subcategory": "حمل‌ونقل نفت",
-    "tag": "سود",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Motley Fool · via AOL",
-    "url": "https://www.aol.com/articles/international-seaways-insw-q2-2026-144401488.html",
-    "clean_url": "https://www.aol.com/articles/international-seaways-insw-q2-2026-144401488.html",
-    "image": "https://media.zenfs.com/en/aol_the_motley_fool_392/0bd598d880596b304169552d213dd39f.png.cf.jpg",
-    "timestamp": 1786979454.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "869316134a",
-    "title_fa": "‏احتمال تصویب قانون CLARITY به ۱۰٪ افتاد",
-    "title_en": "CLARITY Act Odds Collapse From 75% to 10% — XRP Regulatory Hopes Crushed?",
-    "summary": [
-      "‏احتمال تصویب قانون CLARITY از ۷۵٪ به ۱۰٪ کاهش یافت",
-      "‏این سقوط امیدهای تنظیمی XRP را تحت‌الشعاع قرار می‌دهد",
-      "‏سیاست‌گذاران هنوز با محدودیت‌های اخلاقی و بانک‌ها درگیرند"
-    ],
-    "body_fa": "‏گالاکسی ریسیرچ در تاریخ ۱۴ آگوست احتمال تصویب قانون CLARITY را از ۷۵٪ در ماه مه به ۱۰٪ کاهش داد. این کاهش به دلیل اختلافات اخلاقی بر سر محدودیت‌های رمزارز برای مقامات دولتی، فشار بانک‌های محلی بر استیبل‌کوین‌ها و مناقشات پیرامون محافظت از توسعه‌دهندگان نرم‌افزار غیرمحافظت‌دار است. زمان محدود سنا و عدم وجود زمان کافی برای بحث قبل از تعطیلات تابستانی، این وضعیت را تشدید کرده است. اگر قانون تصویب نشود، XRP یک محرک قانونی مهم را از دست می‌دهد، اما با توجه به پایان دعوی SEC‑Ripple در سال ۲۰۲۵، موقعیت نظارتی توکن به‌طور کامل به حالت نامشخص بازنخواهد گشت.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین رمزارز",
-    "tag": "XRP",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CCN · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-odds-collapse-75-124903207.html",
-    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-odds-collapse-75-124903207.html",
-    "image": "https://media.zenfs.com/en/ccn_928/64ca71e9c5e6290159eea322b1d9353b",
-    "timestamp": 1786971267.0,
     "sent_to_telegram": true
   }
 ]
