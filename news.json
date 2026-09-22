@@ -88,6 +88,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "92ed74cc22",
+    "title_fa": "‏Xbox Game Studios امروز در چه وضعیتی است",
+    "title_en": "What Is Xbox Game Studios At This Point?",
+    "summary": [
+      "‏Xbox Game Studios با ادغام استودیوهایی مثل inXile Entertainment به‌روز شد.",
+      "‏این ترکیب استراتژی مایکروسافت برای تقویت محتوای انحصاری و رقابت با پلی‌استیشن را نشان می‌دهد.",
+      "‏برنامه‌های آینده شامل عناوین جدیدی مثل Clockwork Revolution می‌شود."
+    ],
+    "body_fa": "‏مایکروسافت در سال‌های اخیر چندین استودیو بازی از جمله inXile Entertainment ، Bethesda و استودیوهای کوچکتر را به Xbox Game Studios اضافه کرده است. این ادغام باعث شد تا مجموعه‌ای از تیم‌های توسعه‌دهنده تحت یک سقف واحد شکل بگیرد و تمرکز بر تولید عناوین انحصاری برای Xbox و سرویس Game Pass تقویت شود. استودیوهای جدید همچنان به توسعه پروژه‌های خود ادامه می‌دهند؛ برای مثال inXile در حال کار بر روی Clockwork Revolution است. با این ترکیب، Xbox Game Studios می‌تواند تنوع ژانری بیشتری ارائه دهد و فشار بر رقبای اصلی مثل پلی‌استیشن را افزایش دهد. در عین حال، چالش‌های هماهنگی بین استودیوهای مختلف و حفظ هویت خلاقانه هر یک از آن‌ها باقی می‌ماند.",
+    "category": "گیم",
+    "subcategory": "استودیوهای بازی",
+    "tag": "Xbox",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/what-is-xbox-game-studios-at-this-point/",
+    "clean_url": "https://www.gamespot.com/articles/what-is-xbox-game-studios-at-this-point",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790075040.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fdda8e2b7f",
+    "title_fa": "‏مایکروسافت استودیو Rare را زیر پوشش Activision قرار داد",
+    "title_en": "Sea of Thieves Fans Fear for Rare's Future as Studio Gets Put Under Activision Following Xbox Reset",
+    "summary": [
+      "‏مایکروسافت استودیو Rare را زیر پوشش Activision قرار داد",
+      "‏این ادغام در چارچوب بازسازی استودیوهای Xbox و احتمال تغییر مسیر بازی Sea of Thieves است",
+      "‏طرفداران نگران آینده Rare و احتمال تبدیل آن به تیم پشتیبانی Call of Duty هستند"
+    ],
+    "body_fa": "‏مایکروسافت امروز اعلام کرد که استودیو Rare به‌عنوان بخشی از بازسازی استودیوهای Xbox ، تحت نظارت Activision قرار می‌گیرد. این تصمیم در چارچوب تغییرات گسترده‌ای است که شامل تعدیل نیروها و تجمیع مسئولیت‌ها می‌شود و Activision مسئولیت‌های کلیدی از جمله توسعه بازی Halo بعدی را بر عهده خواهد گرفت. طرفداران Rare نگران این هستند که استودیو به تیم پشتیبانی برای سری Call of Duty تبدیل شود، همان‌طور که پیش از این برخی استودیوهای دیگر تحت Activision تجربه کرده‌اند. برخی دیگر امیدوارند که Rare بتواند پروژه‌های جدیدی مثل بازی‌های Crash Bandicoot یا Banjo‑Kazooie را ادامه دهد. هنوز برنامه‌های دقیق برای آینده Rare اعلام نشده و اثرات این ادغام تا چند سال آینده قابل‌سنجی نخواهد بود.",
+    "category": "گیم",
+    "subcategory": "ادغام استودیوهای بازی",
+    "tag": "Rare",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset",
+    "clean_url": "https://www.ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset",
+    "image": "https://assets-prd.ignimgs.com/2026/03/19/seathievesthumb-1773933609982.png?width=1280&format=jpg&auto=webp&quality=80",
+    "timestamp": 1790072700.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "46b27900eb",
     "title_fa": "‏اکس‌بوک Turn 10 و Playground Games را برای Forza و Fable ادغام کرد",
     "title_en": "Xbox merges Playground Games & Turn 10 into one studio for Forza and Fable",
@@ -110,6 +154,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "7dcea17c5e",
+    "title_fa": "‏مایکروسافت ساختار Xbox Game Studios را به‌طور جدی کاهش می‌دهد",
+    "title_en": "Xbox Game Studios Is Quickly Disappearing",
+    "summary": [
+      "‏Xbox Game Studios از ۱۴ تیم به تنها سه تیم کاهش یافت و چندین استودیو به فروش یا انتقال به بخش‌های دیگر رفتند.",
+      "‏این بازسازی بزرگ می‌تواند آینده عناوین پرچم‌دار مایکروسافت مثل Halo و Bethesda را تحت تأثیر قرار دهد و بازار بازی‌های اول‌طرف را دگرگون کند.",
+      "‏استودیو Ninja Theory بدون خریدار در خطر بسته شدن است."
+    ],
+    "body_fa": "‏مایکروسافت اعلام کرد ساختار Xbox Game Studios به‌طور چشمگیری تغییر می‌کند. این بخش که پیش از این شامل ۱۴ تیم مستقل بود، هم‌اکنون تنها به سه تیم باقی مانده است. استودیوهای Double Fine ، Compulsion Games و Undead Labs به مدیریت خود بازگردانده شدند و Mojang نیز از زیرساخت Xbox جدا شد. ۳۴۳ Industries (حالا Halo Studios) به‌صورت شدیداً کوچک‌سازی شد و به‌عنوان تیم پشتیبانی برای Activision قرار گرفت؛ همچنین Rare و World’s Edge به Activision منتقل شدند و Obsidian تحت Bethesda قرار گرفت. بخش Turn 10 به Playground Games پیوست و Ninja Theory بدون خریدار در خطر بسته شدن است. این بازسازی می‌تواند مسیر توسعه عناوین پرچم‌دار مانند Halo و Bethesda را تحت تأثیر قرار دهد و چشم‌انداز بازار بازی‌های اول‌طرف را دگرگون کند.",
+    "category": "گیم",
+    "subcategory": "بازسازی استودیوهای Xbox",
+    "tag": "Xbox",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Kotaku",
+    "url": "https://kotaku.com/xbox-game-studios-looks-like-its-about-to-disappear-completely-2000736477",
+    "clean_url": "https://kotaku.com/xbox-game-studios-looks-like-its-about-to-disappear-completely-2000736477",
+    "image": "https://kotaku.com/app/uploads/2026/06/xbox-green.jpg",
+    "timestamp": 1790061300.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "f727c2a045",
     "title_fa": "‏چین دو ماده پیش‌ساز مخدر را به فهرست صادرات افزود",
     "title_en": "China expands export control list for drug precursor chemicals ahead of Trump-Xi...",
@@ -129,6 +195,28 @@
     "clean_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-expands-export-control-list-drug-precursor-chemicals-ahead-trump-xi-summit-2026-09-22",
     "image": "https://s.yimg.com/bo/78c2cac5-a848-57c7-830b-cf4eabfca9ab_1790063668641.jpg",
     "timestamp": 1790061106.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dd6f813180",
+    "title_fa": "‏بانک‌های مرکزی اروپا قوانین MiCAR را برای استیبل‌کوین‌ها سخت‌تر می‌خواهند",
+    "title_en": "European central banks seek tougher MiCAR rules for stablecoins and crypto",
+    "summary": [
+      "‏بانک‌های مرکزی اروپا درخواست تغییرات سختگیرانه در قوانین MiCAR برای استیبل‌کوین‌ها و رمزارزها کردند.",
+      "‏این تغییرات شامل الزامات نقدینگی جدید، نظارت اتحادیه‌ای قوی‌تر و محدودیت‌های بیشتر برای توکن‌های چند‌صاحبی است.",
+      "‏هدف جلوگیری از ریسک‌های مالی استیبل‌کوین‌های خارجی و تقویت نظارت بر ارائه‌دهندگان خدمات رمزارزی است."
+    ],
+    "body_fa": "‏بانک‌های مرکزی اروپا در یک گزارش به کمیسیون اروپا خواستار اصلاحات اساسی در چارچوب MiCAR شدند. آنها می‌گویند قوانین فعلی برای ذخایر استیبل‌کوین‌ها، به‌ویژه شرط سپرده بانکی، می‌تواند بانک‌ها را در معرض تأمین مالی ناپایدار قرار دهد. پیشنهادات شامل ایجاد سطل‌های نقدینگی با حداقل دارایی‌های با سررسید یک تا پنج روز کاری، نظارت مشترک توسط ESMA و اعمال الزامات سرمایه‌ای بیشتر برای ارائه‌دهندگان خدمات رمزارزی است. همچنین محدودیت‌های سخت‌تری برای توکن‌های چند‌صاحبی خارج از اتحادیه و ممنوعیت پرداخت سود بر توکن‌های e‑money و توکن‌های ارجاعی به دارایی‌ها مطرح شد. این تغییرات هدفشان کاهش ریسک‌های سیستمیک ناشی از استیبل‌کوین‌های خارجی و ایجاد چارچوبی یکپارچه برای نظارت بر گروه‌های چند‌وظیفه‌ای رمزارزی است. اگر تصویب شوند، می‌توانند تأثیر قابل‌توجهی بر بازارهای جهانی استیبل‌کوین و فعالیت‌های شرکت‌های رمزارزی داشته باشند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "MiCAR",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/ecb-tougher-eu-crypto-rules-stablecoin-interest-ban/",
+    "clean_url": "https://cryptobriefing.com/ecb-tougher-eu-crypto-rules-stablecoin-interest-ban",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22103324/ECB-urges-EU-to-scrap-bank-deposit-rule-for-stablecoins-over-funding-risks-800x420.jpg",
+    "timestamp": 1790058240.0,
     "sent_to_telegram": true
   },
   {
@@ -6509,94 +6597,6 @@
     "clean_url": "https://www.rockpapershotgun.com/without-us-bethesda-games-arent-bethesda-games-rallies-against-microsoft-layoffs-at-elder-scrolls-studio-continue-with-unionised-devs-morale-on-the-upswing",
     "image": "https://assetsio.gnwcdn.com/bethesda-union-rallies-against-layoffs-continue-02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
     "timestamp": 1787113800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "db3fe21214",
-    "title_fa": "‏لگارد: عقب‌نشینی آمریکا از نظم جهانی، رقابت‌پذیری اروپا در خطر",
-    "title_en": "U.S. retreat from global order ‘eroding’ European competitiveness, central bank boss warns",
-    "summary": [
-      "‏رئیس بانک مرکزی اروپا، کریستین لگارد، در مجمع جهانی اقتصاد گفت مدل رشد پس‌جنگی اروپا در حال فرسایش است.",
-      "‏او سه ستون رشد—تجارت آزاد، انرژی ارزان و نظم مبتنی بر ایمنی آمریکا—را که امروز در حال تضعیف‌اند، برجسته کرد.",
-      "‏لگارد به ۲۵۰۰ محدودیت تجاری جدید و تهدیدات تعرفه‌ای آمریکا علیه اتحادیه اروپا اشاره کرد."
-    ],
-    "body_fa": "‏کریستین لگارد، رئیس بانک مرکزی اروپا، در سخنرانی خود در مجمع جهانی اقتصاد ژنو، هشدار داد که مدل رشد پس‌جنگی قاره در حال فرسایش است و به شکل قبلی باز نخواهد گشت. او سه پایه اصلی این رشد را—تجارت جهانی گسترده، تولید با انرژی ارزان و نظام بین‌المللی مبتنی بر امنیت آمریکا—نام برد و گفت که هر سه در حال تضعیف هستند. در سال گذشته بیش از ۲۵۰۰ محدودیت تجاری در سطح جهان اعمال شد و ایالات متحده پس از بازگشت دونالد ترامپ، تعرفه‌های هدفمند از جمله ۲۰٪ بر کالاهای اروپایی را معرفی کرد که سپس به ۱۵٪ کاهش یافت. با این حال، عدم قطعیت درباره پایداری این توافق و فشارهای امنیتی آمریکا بر اروپا، به ویژه تهدیدهای نظامی روسیه و جنگ آمریکا‑ایران، باعث نگرانی‌های جدی درباره زنجیره‌های تأمین و سرمایه‌گذاری در اروپا شده است. لگارد تأکید کرد که وقتی وابستگی‌های اقتصادی می‌توانند به سلاح تبدیل شوند، تصمیمات تجاری و سرمایه‌گذاری تحت تأثیر ریسک‌های ژئوپلیتیکی قرار می‌گیرد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "روندهای تجاری",
-    "tag": "لگارد",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/lagarde-ecb-europe-economy-trump.html",
-    "clean_url": "https://www.cnbc.com/2026/08/19/lagarde-ecb-europe-economy-trump.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108320235-1781186107366-gettyimages-2280390387-GERMANY_ECB.jpeg?v=1781186133&w=1920&h=1080",
-    "timestamp": 1787113500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "780f179081",
-    "title_fa": "‏سهم‌های انرژی با رشد سود 147 ٪ در سه‌ماهه دوم",
-    "title_en": "5 Energy Stocks Cashing In On The New Energy Crunch",
-    "summary": [
-      "‏سهم‌های انرژی S&P 500 با رشد سود 147 ٪ نسبت به سال قبل، بهترین عملکرد را در میان 11 بخش داشته‌اند.",
-      "‏این رشد 42 ٪ در درآمد نشان‌دهنده تقاضای شدید انرژی و فرصت‌های سودآور برای سرمایه‌گذاران است.",
-      "‏پنج شرکت برتر این بخش در حال جذب سرمایه‌گذاران جدید هستند."
-    ],
-    "body_fa": "‏تقریباً 88 ٪ از شرکت‌های شاخص S&P 500 نتایج سه‌ماهه دوم را گزارش کرده‌اند و بخش انرژی با رشد سود 147 ٪ نسبت به سال گذشته، قوی‌ترین عملکرد را در میان 11 بخش داشته است. علاوه بر این، درآمد این بخش با افزایش 42 ٪، بیشترین رشد را نشان می‌دهد. این ارقام نشان‌دهنده فشار شدید بر بازار انرژی و تقاضای بالای مصرف‌کنندگان است. به‌دلیل این شرایط، پنج سهم برتر انرژی توانسته‌اند سرمایه‌گذاران زیادی را جذب کنند و فرصت‌های سودآوری جدیدی ایجاد نمایند. تحلیل‌گران پیش‌بینی می‌کنند این روند تا پایان سال ادامه یابد.",
-    "category": "انرژی و کالا",
-    "subcategory": "سهم‌های انرژی",
-    "tag": "انرژی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Oil Price US",
-    "url": "https://www.msn.com/en-us/money/economy/5-energy-stocks-cashing-in-on-the-new-energy-crunch/ar-AA2aq4Vo",
-    "clean_url": "https://www.msn.com/en-us/money/economy/5-energy-stocks-cashing-in-on-the-new-energy-crunch/ar-AA2aq4Vo",
-    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-18_prde4rngxm.jpg",
-    "timestamp": 1787097660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "380f324102",
-    "title_fa": "‏ایالات متحده تهدید به تحریم‌های جدید علیه ایران",
-    "title_en": "Iran prepares to keep economy alive as US threatens further sanctions",
-    "summary": [
-      "‏آمریکا برنامه‌ای برای اعمال تحریم‌های گسترده و بلاکاد دریایی علیه ایران اعلام کرد.",
-      "‏این اقدام می‌تواند فشار اقتصادی بر تهران را افزاش دهد و خطر اختلال در عبور نفت از تنگه هرمز را به همراه داشته باشد.",
-      "‏استاد اقتصاد می‌گوید ادامه درگیری هزینه‌های جهانی را بالا می‌برد."
-    ],
-    "body_fa": "‏دولت آمریکا اعلام کرد که قصد دارد موج جدیدی از تحریم‌ها و یک محاصرهٔ دریایی علیه ایران اعمال کند. اسکات بسنت، وزیر خزانه‌داری، گفت این اقدامات «هرگز در تاریخ انزوا اقتصادی یک کشور دیده نشده» است و ممکن است همین هفته اجرایی شود. رئیس‌جمهور دونالد ترامپ نیز تأکید کرد که ایران به شدت تحت فشار اقتصادی قرار خواهد گرفت و از تسلیم شدن امتناع کرد. از زمان شروع دومین دوره ریاست‌جمهوری ترامپ در فوریه 2025 ، دفتر نظارت بر دارایی‌های خارجی (OFAC) بیش از 1000 نفر، کشتی و هواپیمای مرتبط با ایران را تحریم کرده است. به‌نظر می‌رسد ایران به جای پذیرش توافقی تحت فشار آمریکا، به ادامهٔ درگیری مسلحانه برای شکستن محاصرهٔ بنادر روی آورد. کارشناسان هشدار می‌دهند که در صورت تشدید درگیری، اختلال در عبور نفت از تنگه هرمز و هزینه‌های اقتصادی جهانی افزایش خواهد یافت.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های اقتصادی",
-    "tag": "تحریم",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "Al Jazeera · via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/iran-prepares-keep-economy-alive-162149007.html",
-    "clean_url": "https://www.yahoo.com/news/politics/articles/iran-prepares-keep-economy-alive-162149007.html",
-    "image": "https://media.zenfs.com/en/al_jazeera_289/23ebe142b51a50541568341ca83ad06e.jpg",
-    "timestamp": 1787068513.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "09b4273b17",
-    "title_fa": "‏آمریکا به آستانهٔ پیش‌فرض بدهی؛ اثر بر اقتصاد هند",
-    "title_en": "US is nearing its debt default deadline. What is its impact on Indian economy?",
-    "summary": [
-      "‏آمریکا نزدیک به پیش‌فرض بدهی است؛ مهلت افزایش سقف تا 5 ژوئن باقی مانده.",
-      "‏این وضعیت می‌تواند نوسان شدید در بازارهای جهانی ایجاد کرده و فشار بر روپیه هند را افزایشت دهد.",
-      "‏یلنن هشدار داد که تأخیر در رفع سقف بدهی به اعتماد کسب‌وکار و هزینه‌های کوتاه‌مدت آسیب می‌رساند."
-    ],
-    "body_fa": "‏آمریکا در آستانهٔ پیش‌فرض بدهی قرار دارد و مهلت نهایی برای افزایش سقف بدهی تا 5 ژوئن است. اگر سقف بدهی افزایش نیابد، می‌تواند بحران اقتصادی داخلی و نوسانات شدید در بازارهای مالی جهانی ایجاد کند. یلنن، وزیر خزانه‌داری آمریکا، تأکید کرد که انتظار تا لحظهٔ آخر برای رفع سقف می‌تواند اعتماد کسب‌وکار و مصرف‌کنندگان را تحت فشار قرار دهد و هزینه‌های کوتاه‌مدت را بالا ببرد. در صورت افزایش سقف، انتظار می‌رود نوسان در بورس‌ها و ارزها ادامه یابد؛ سرمایه‌گذاران به دارایی‌های امن‌تری مانند طلا و دلار روی می‌آورند که باعث تقویت شاخص دلار و فشار بر روپیه هند می‌شود. اگر پیش‌فرض اتفاق بیفتد، رتبه اعتباری آمریکا به شدت کاهش می‌یابد و اوراق دولتی آمریکا که بخشی از ذخایر هند را تشکیل می‌دهند، ارزششان به‌طور قابل‌توجهی سقوط می‌کند. این می‌تواند منجر به کاهش نقدینگی در بازارهای بین‌المللی و هزینه بالاتر برای تأمین مالی پروژه‌های توسعه‌ای در هند شود. در مجموع، هر دو سناریو نشان می‌دهند که بحران بدهی آمریکا می‌تواند اثرات منفی قابل‌توجهی بر اقتصاد هند داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای مالی",
-    "tag": "دیف‌سقف",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "WION",
-    "url": "https://www.wionews.com/india-news/us-is-nearing-its-debt-default-deadline-what-is-its-impact-on-indian-economy-597206",
-    "clean_url": "https://www.wionews.com/india-news/us-is-nearing-its-debt-default-deadline-what-is-its-impact-on-indian-economy-597206",
-    "image": "https://cdn.wionews.com/sites/default/files/2019/02/14/84012-untitled-design-3.jpg?imwidth=1200&imheight=900",
-    "timestamp": 1787067720.0,
     "sent_to_telegram": true
   }
 ]
