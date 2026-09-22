@@ -1,5 +1,49 @@
 [
   {
+    "id": "7bc1832a25",
+    "title_fa": "‏آنتروپیک مدل Claude Opus 5.5 را رونمایی کرد",
+    "title_en": "Anthropic’s Claude Opus 5.5 Appears In Claude Code, Indicating Imminent Release, As Trump Renames AI To “Super Intelligence” Or SI",
+    "summary": [
+      "‏آنتروپیک مدل جدید Claude Opus 5.5 را که پنجرهٔ متنی یک‌میلیونی دارد، منتشر کرد.",
+      "‏این مدل با هزینهٔ ۴۰٪ کمتر و عملکرد برتر نسبت به نسخه‌های قبلی و GPT‑6 ، می‌تواند رقابت بازار هوش مصنوعی را تشدید کند.",
+      "‏در همین زمان، دونالد ترامپ اصطلاح هوش مصنوعی را به «سوپر اینتلیجنس» تغییر داد."
+    ],
+    "body_fa": "‏آنتروپیک اعلام کرد مدل جدید زبانی Claude Opus 5.5 را منتشر کرده است. این نسخه دارای پنجرهٔ متنی یک‌میلیونی توکن است و حالت «Responsive» جدیدی دارد که قبل از استدلال یا استفاده از ابزارها، یک جملهٔ پاسخ می‌دهد. خروجی مدل به سبک «انگلیسی واضح و مکالمه‌ای بدون Claude‑ism» تنظیم شده و از عبارات بازاریابی و ایموجی‌ها خودداری می‌کند. بر اساس ارزیابی‌های خارجی، هزینهٔ پردازش این مدل حدود ۴۰٪ کمتر از Opus 5 است و در آزمون‌های مقایسه‌ای ۵ امتیاز بالاتر از Fable 5.1 و GPT‑6 Astra کسب کرده است. در همین روز، دونالد ترامپ اصطلاح هوش مصنوعی را به «سوپر اینتلیجنس» (SI) تغییر داد و از دولت آمریکا خواست تا این واژه را بکار گیرد. این تغییر نام به تنهایی نمی‌تواند نگرانی‌های امنیتی مرتبط با هوش مصنوعی پیشرفته را برطرف کند، به‌ویژه پس از اعلام حضور مقامات آنتروپیک و OpenAI در جلسه شورای امنیت سازمان ملل.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Claude Opus",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Wccftech",
+    "url": "https://wccftech.com/anthropics-claude-opus-5-5-appears-in-claude-code-indicating-imminent-release-as-trump-renames-ai-to-super-intelligence-or-si/",
+    "clean_url": "https://wccftech.com/anthropics-claude-opus-5-5-appears-in-claude-code-indicating-imminent-release-as-trump-renames-ai-to-super-intelligence-or-si",
+    "image": "https://www.bing.com/th?id=ONUT.NcZyqMPDxfpI3Ql79_lDNQ",
+    "timestamp": 1790099503.5391736,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "44824d7c20",
+    "title_fa": "‏بیت‌کوین 86,000 رسید؛ بیل میلر معامله فدرال‌رزرو را نقد کرد",
+    "title_en": "Bill Miller IV says stop trading Bitcoin on Fed meetings, it’s a $1.6 million coin",
+    "summary": [
+      "‏بیت‌کوین پس از اولین افزایش نرخ بهره فدرال‌رزرو از 2023 به بالای 86,000 دلار رسید.",
+      "‏سرمایه‌گذاران هشدار دادند که معامله بیت‌کوین در زمان جلسات فدرال‌رزرو می‌تواند ریسک‌پذیری بیش از حد ایجاد کند.",
+      "‏بیل میلر این نکته را با اشاره به ارزش 1.6 میلیون دلاری یک سکه خاص مطرح کرد."
+    ],
+    "body_fa": "‏بیت‌کوین پس از اولین افزایش نرخ بهره فدرال‌رزرو از سال 2023 به بالای 86,000 دلار رسید و بالاترین سطح هشت‌ماهه خود را ثبت کرد. این صعود پس از اعلام تصمیم فدرال‌رزرو برای افزایش نرخ بهره بود که بازارهای رمزارز را تحت تأثیر قرار داد. بیل میلر چهارم، سرمایه‌گذار مشهور، اعلام کرد که معامله بیت‌کوین در زمان نشست‌های فدرال‌رزرو خطرناک است و آن را «سکه‌ای به ارزش 1.6 میلیون دلار» توصیف کرد. او توصیه کرد سرمایه‌گذاران از ورود به معاملات کوتاه‌مدت در این بازه زمانی خودداری کنند. این هشدار می‌تواند باعث کاهش نوسانات ناخواسته و تثبیت قیمت در دوره‌های بعدی شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "بیت‌کوین",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "TheStreet",
+    "url": "https://www.thestreet.com/crypto/markets/bill-miller-iv-says-stop-trading-bitcoin-on-fed-meetings-its-a-1-6-million-coin-",
+    "clean_url": "https://www.thestreet.com/crypto/markets/bill-miller-iv-says-stop-trading-bitcoin-on-fed-meetings-its-a-1-6-million-coin-",
+    "image": "https://www.bing.com/th?id=ONUT.839RT6wsgQ1hxK6dB_A0Ng",
+    "timestamp": 1790099384.5238822,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ae8cca9f2a",
     "title_fa": "‏قیمت بنزین به‌دلیل جنگ ایران به اوج 2022 رسید",
     "title_en": "Fuel Price Surge Sparked by Iran War Echoes 2022 Spike, But Economic Impact...",
@@ -41,6 +85,28 @@
     "clean_url": "https://finance.yahoo.com/economy/policy/articles/china-urges-eu-keep-auto-113759071.html",
     "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/45a517ea06a1ef1ef28b088979c1c1bc.jpg",
     "timestamp": 1790075506.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "46b27900eb",
+    "title_fa": "‏اکس‌بوک Turn 10 و Playground Games را برای Forza و Fable ادغام کرد",
+    "title_en": "Xbox merges Playground Games & Turn 10 into one studio for Forza and Fable",
+    "summary": [
+      "‏اکس‌بوک Turn 10 و Playground Games را برای توسعهٔ Forza و Fable در یک استودیو ترکیب کرد",
+      "‏این ادغام بخشی از بازسازی گستردهٔ ساختار بازی‌های مایکروسافت است",
+      "‏هدف تسریع تولید عناوین جدید و بهبود هماهنگی بین دو فرنچایز محبوب است"
+    ],
+    "body_fa": "‏اکس‌بوک اعلام کرد که استودیوهای Turn 10 ، سازندهٔ سری Forza ، و Playground Games ، مسئول بازی‌های Fable ، در یک واحد ترکیب می‌شوند. این تصمیم در چارچوب بازسازی کلی ساختار بازی‌های مایکروسافت و هدف بهینه‌سازی منابع اتخاذ شده است. ترکیب این دو تیم می‌تواند هم‌زمان بر روی توسعهٔ عناوین جدید Forza و Fable کار کند و از تبادل فناوری و تجربه بهره‌برداری کند. مایکروسافت امیدوار است این ادغام سرعت عرضهٔ بازی‌های با کیفیت بالا را افزایش دهد و هزینه‌های توسعه را کاهش دهد. این تغییر ممکن است تأثیراتی بر برنامه‌های جاری هر دو استودیو داشته باشد، اما جزئیات دقیق هنوز فاش نشده است.",
+    "category": "گیم",
+    "subcategory": "ادغام استودیو",
+    "tag": "Xbox",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Windows Report on MSN",
+    "url": "https://www.msn.com/en-xl/news/other/xbox-merges-playground-games-turn-10-into-one-studio-for-forza-and-fable/ar-AA2cL5ZP",
+    "clean_url": "https://www.msn.com/en-xl/news/other/xbox-merges-playground-games-turn-10-into-one-studio-for-forza-and-fable/ar-AA2cL5ZP",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790063034.0,
     "sent_to_telegram": true
   },
   {
@@ -88,6 +154,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "c1a2e907d0",
+    "title_fa": "‏استودیوی Obsidian به‌صورت رسمی زیر Bethesda منتقل شد",
+    "title_en": "Obsidian Entertainment Is Officially Moving Under Bethesda As It Works On Its New Fallout Game",
+    "summary": [
+      "‏استودیوی Obsidian به‌صورت رسمی زیر Bethesda قرار گرفت.",
+      "‏این انتقال بخشی از بازسازی Xbox Game Studios است و استودیو را برای ساخت بازی جدید Fallout مأمور می‌کند.",
+      "‏پروژه‌های فعلی مانند Grounded ادامه می‌یابند و برنامه‌ریزی برای Avowed 2 نیز پیش می‌رود."
+    ],
+    "body_fa": "‏استودیوی Obsidian در چارچوب بازسازی بزرگ Xbox Game Studios به‌صورت رسمی زیر Bethesda Game Studios قرار گرفت. این تغییر ساختاری به منظور تمرکز بیشتر بر عناوین بزرگ بلاک‌باستر مانند Fallout انجام شده است. اوبسیان که پیش از این به‌خاطر عناوین RPG مانند Fallout: New Vegas و The Outer Worlds شناخته می‌شود، هم‌اکنون مأمور ساخت یک بازی جدید Fallout شده است. مَت بووتی، مسئول محتوا در مایکروسافت، در بلاگی اعلام کرد که کارهای جاری استودیو از جمله Grounded ادامه خواهد یافت، اما اشاره‌ای به ادامه سری Avowed نکرد. این انتقال نشان‌دهندهٔ تلاش مایکروسافت برای بهینه‌سازی منابع و تقویت عناوین کلیدی در سرویس Game Pass است.",
+    "category": "گیم",
+    "subcategory": "ادغام استودیوهای بازی",
+    "tag": "Obsidian Bethesda",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Kotaku",
+    "url": "https://kotaku.com/obsidian-entertainment-is-officially-moving-under-bethesda-as-it-works-on-its-new-fallout-game-2000736429",
+    "clean_url": "https://kotaku.com/obsidian-entertainment-is-officially-moving-under-bethesda-as-it-works-on-its-new-fallout-game-2000736429",
+    "image": "https://kotaku.com/app/uploads/2025/01/b5957db8c7d2789669e4e99a7bf79b10.jpg",
+    "timestamp": 1790046840.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "aec2d24cea",
     "title_fa": "‏وزیر خارجه چین از تصادم با اتحادیه اروپا جلوگیری کرد",
     "title_en": "China, EU Should Avoid Trade Clash, Beijing’s Top Diplomat Says",
@@ -107,6 +195,28 @@
     "clean_url": "https://finance.yahoo.com/economy/policy/articles/china-eu-avoid-trade-clash-010520913.html",
     "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/1bf8ccd08e68a5a34013e0d26621646c.jpg",
     "timestamp": 1790039506.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3f2087f0f4",
+    "title_fa": "‏اکس‌باکس ۲۸۶ شغل را حذف و استودیوها را ترکیب کرد",
+    "title_en": "Xbox Announces Four Major Studio Changes And Cuts 286 Jobs",
+    "summary": [
+      "‏اکس‌باکس ۲۸۶ شغل را در استودیوهای داخلی حذف کرد",
+      "‏این حذف بخشی از برنامه ۳۲۰۰ شغلی است که در ژوئیه اعلام شد",
+      "‏همزمان چهار تغییر اساسی در ساختار استودیوها از جمله ترکیب Forza و مشارکت Activision با Halo انجام شد"
+    ],
+    "body_fa": "‏اکس‌باکس امروز اعلام کرد که ۲۸۶ موقعیت شغلی در استودیوهای داخلی از جمله Halo Studios و دیگر استودیوهای اولین‌طرف حذف می‌شود. این اقدام بخشی از برنامه کلی ۳۲۰۰ شغلی است که در ژوئیه گذشته اعلام شده بود و تا کنون تنها ۱۶۰۰ شغل اجرا شده بود. در کنار این کاهش نیرو، شرکت برنامه‌ای برای بازسازی ساختار استودیوهای خود دارد. چهار تغییر اصلی شامل مشارکت Activision با Halo ، ترکیب Rare و World's Edge ، پیوستن Obsidian به Bethesda و ادغام تیم‌های Playground و Turn 10 برای Forza است. همچنین King به‌عنوان بخشی از Microsoft Casual Games تمرکز جدیدی پیدا کرده است. این تغییرات می‌تواند به بهبود کارایی و تمرکز بر عناوین پرچم‌دار منجر شود، اما نگرانی‌ها دربارهٔ تأثیر بر توسعه بازی‌های آینده نیز وجود دارد.",
+    "category": "گیم",
+    "subcategory": "استخدام و برکناری",
+    "tag": "کاهش‌نیروی‌کار",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Pure Xbox",
+    "url": "https://www.purexbox.com/news/2026/09/xbox-announces-four-major-studio-changes-and-cuts-286-jobs",
+    "clean_url": "https://www.purexbox.com/news/2026/09/xbox-announces-four-major-studio-changes-and-cuts-286-jobs",
+    "image": "https://images.purexbox.com/e047822d96e58/large.jpg",
+    "timestamp": 1790035920.0,
     "sent_to_telegram": true
   },
   {
@@ -6487,116 +6597,6 @@
     "clean_url": "https://www.wionews.com/india-news/us-is-nearing-its-debt-default-deadline-what-is-its-impact-on-indian-economy-597206",
     "image": "https://cdn.wionews.com/sites/default/files/2019/02/14/84012-untitled-design-3.jpg?imwidth=1200&imheight=900",
     "timestamp": 1787067720.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "65c580dcaf",
-    "title_fa": "‏محدودیت‌های صادراتی آمریکا به شرکت‌های تراشه‌ساز آسیب می‌رساند",
-    "title_en": "With Export Controls, Nvidia, AMD And Intel Lose Much More Than Sales",
-    "summary": [
-      "‏آمریکا با اعمال محدودیت‌های صادراتی، فروش Nvidia ، AMD و Intel به چین را کاهش داد.",
-      "‏این سیاست نه تنها فروش را کم می‌کند، بلکه دانش مشتری و نوآوری‌های بلندمدت این شرکت‌ها را تهدید می‌کند.",
-      "‏در عوض شرکت‌های چینی مانند Hua Hong Grace و SMIC سودهای تا 385 ٪ ثبت کردند."
-    ],
-    "body_fa": "‏دولت ایالات متحده تحت رهبری بایدن و کنگره محدودیت‌های صادراتی جدیدی برای شرکت‌های تولیدکننده تراشه اعمال کرده‌اند. این اقدامات باعث شد تا Nvidia ، AMD و Intel دسترسی به بازار چین را از دست بدهند و فروش کوتاه‌مدت خود را کاهش دهند. اما خسارت واقعی فراتر از فروش است؛ شرکت‌های آمریکایی از دست دادن دانش عمیق مشتریان و روابط کلیدی که برای نوآوری‌های آینده ضروری است، رنج می‌برند. در همین حال، شرکت‌های چینی مانند Hua Hong Grace و SMIC با سودهای تا 385 ٪ به دلیل تقاضای داخلی برای چیپ‌های هوش مصنوعی بدون محدودیت‌های آمریکا رشد چشمگیری داشته‌اند. این روند به هدف خودکفایی چین در زمینه نیمه‌رساناها نزدیک‌تر می‌شود و توان رقابتی بلندمدت صنعت فناوری آمریکا را تحت فشار قرار می‌دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "صنعت نیمه‌رسانا",
-    "tag": "صادرات‌چیپ",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Forbes",
-    "url": "https://www.forbes.com/sites/johntamny/2026/08/18/with-export-controls-nvidia-amd--intel-lose-much-more-than-sales/",
-    "clean_url": "https://www.forbes.com/sites/johntamny/2026/08/18/with-export-controls-nvidia-amd--intel-lose-much-more-than-sales",
-    "image": "https://s.yimg.com/bo/0a1c1ee9-5dd3-5fa1-92ff-48df408c583f_1787098299303.jpg",
-    "timestamp": 1787061307.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3b3503617f",
-    "title_fa": "‏هک‌گر \"Hatman\" میلیون‌ها رکورد کارمندی شرکت‌های بزرگ را فاش کرد",
-    "title_en": "Millions of stolen records allegedly dumped online by mystery \"Hatman\" hacker — ...",
-    "summary": [
-      "‏هک‌گری به نام TheHatman ادعا کرد میلیون‌ها رکورد کارمندی از Azure/Entra شرکت‌های بزرگی مثل مک‌دونالد و تاتا را به‌دست آورده.",
-      "‏این داده‌ها شامل نام، ایمیل، عناوین شغلی و حساب‌های privileged است که می‌تواند منجر به تقلب و حملات فیشینگ شود.",
-      "‏شرکت‌های متاثر همچون Vodafone ، HCL و Wyndham نیز در لیست قربانیان هستند."
-    ],
-    "body_fa": "‏هک‌گری با نام مستعار TheHatman ادعا کرد که از طریق دسترسی‌های به‌دست آمده به حساب‌های Azure و Entra ، اطلاعات کارمندان میلیون‌ها کارمند در شرکت‌های بزرگ را استخراج کرده است. بر اساس فهرست منتشر شده، بیش از 1,700,000 رکورد مک‌دونالد، 800,000 رکورد Tata Consultancy Services ، 425,000 رکورد Vodafone و سایر شرکت‌ها از جمله HCL Technologies ، InterContinental Hotels Group و Wyndham Hotels در این سرقت گنجانده شده‌اند. داده‌های به‌دست آمده شامل نام، ایمیل، شماره تلفن، عنوان شغلی، آدرس محل کار، شناسه کاربری و حتی حساب‌های با دسترسی‌های بالا است. پژوهشگران امنیتی Cybernews نمونه‌ای از این داده‌ها را بررسی کردند و تأیید کردند که ساختار آن مشابه خروجی‌های دایرکتوری Azure است. اگرچه برخی از شرکت‌های ذکر شده حجم سرقت را زیر سؤال می‌برند، اما اگر صحت این اطلاعات تأیید شود، خطرات جدی از جمله جعل هویت، فیشینگ و انتقال وجه تقلبی برای مشتریان و شرکای تجاری پیش خواهد آمد. هکر در حال جستجوی خریدار برای این اطلاعات است و به‌نظر می‌رسد که این داده‌ها در بازارهای تاریک به فروش می‌رسند.",
-    "category": "تکنولوژی",
-    "subcategory": "دزدی داده کارمندی",
-    "tag": "دزدی داده",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechRadar · via Yahoo Tech",
-    "url": "https://tech.yahoo.com/cybersecurity/articles/millions-stolen-records-allegedly-dumped-130000483.html",
-    "clean_url": "https://tech.yahoo.com/cybersecurity/articles/millions-stolen-records-allegedly-dumped-130000483.html",
-    "image": "https://media.zenfs.com/en/techradar_949/a2fc2478f4bcc524d23d9b1aa3ab719c.jpg",
-    "timestamp": 1787057596.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5170d236be",
-    "title_fa": "‏کمیسیون بورس آمریکا اولین قانون بزرگ کریپتو را پیشنهاد کرد",
-    "title_en": "U.S. SEC proposes first major crypto rule in surprise announcement",
-    "summary": [
-      "‏کمیسیون بورس و اوراق بهادار آمریکا (SEC) قانون پیشنهادی جدیدی برای کریپتو منتشر کرد.",
-      "‏قانون هدفش تسهیل عرضه اوراق بهادار دیجیتال بدون نقض قوانین موجود است.",
-      "‏این اقدام ناگهانی می‌تواند بازارهای رمزارز و برنامه‌های ETF را تحت تأثیر قرار دهد."
-    ],
-    "body_fa": "‏کمیسیون بورس و اوراق بهادار ایالات متحده (SEC) در یک اعلامیه ناگهانی، پیشنهادی برای قانون جدید در حوزه رمزارزها ارائه داد. این قانون قصد دارد چارچوبی واضح برای عرضه اوراق بهادار دیجیتال فراهم کند تا شرکت‌ها بدون خطر نقض قوانین فعلی بتوانند توکن‌های خود را به بازار عرضه کنند. در متن پیشنهادی، تعریف دقیق «ارزش‌گذاری» برای توکن‌ها و شرایط استفاده از «محافظت‌پذیری» برای پلتفرم‌های معاملاتی ذکر شده است. انتظار می‌رود این اقدام مسیر راه‌اندازی صندوق‌های ETF مبتنی بر کریپتو را هموارتر کند و فشارهای نظارتی را کاهش دهد. واکنش اولیه بازار مثبت بود و برخی رمزارزها پس از انتشار خبر رشد کوتاه‌مدتی نشان دادند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین و مقررات",
-    "tag": "SEC",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/08/18/r",
-    "clean_url": "https://www.coindesk.com/policy/2026/08/18/r",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1787055000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b6e9b1ce50",
-    "title_fa": "‏نتفلیکس شش هفته پس از تحسین، NightSchool Studio را بست",
-    "title_en": "Netflix shut down the Oxenfree studio six weeks after praising its new game",
-    "summary": [
-      "‏نتفلیکس شش هفته پس از تحسین بازی جدید، Night School Studio و استودیوی هلسینکی Moonloot را بسته.",
-      "‏این اقدام نشان‌دهنده تغییر استراتژی نتفلیکس در حوزه بازی و احتمال کاهش سرمایه‌گذاری در استودیوهای مستقل است.",
-      "‏بسته شدن این دو استودیو منجر به حذف شغل‌های نامشخص در هلسینکی و سایر مکان‌ها شد."
-    ],
-    "body_fa": "‏نتفلیکس در سال ۲۰۲۱ Night School Studio را که سازنده بازی مشهور Oxenfree بود، خریداری کرد. پس از انتشار بازی جدید این استودیو، شرکت در رسانه‌ها به شدت از آن تعریف کرد. اما تنها شش هفته پس از این تحسین، نتفلیکس اعلام کرد که Night School Studio و استودیوی هلسینکی Moonloot را بسته و برنامه‌های کاهش نیروی کار را اجرا می‌کند. جزئیات دقیق درباره تعداد شغل‌های از دست رفته منتشر نشده، اما گفته شده که این تصمیم بخشی از بازنگری استراتژیک شرکت در بخش بازی‌های ویدئویی است. بسته شدن این استودیوها نشان می‌دهد که نتفلیکس ممکن است تمرکز خود را از تولید محتواهای تعاملی به سمت تولید محتوای ویدئویی سنتی یا دیگر حوزه‌ها تغییر دهد. این خبر واکنش‌های متفاوتی در جامعه گیمینگ به‌وجود آورد و نگرانی‌ها درباره آینده استودیوهای مستقل تحت مالکیت پلتفرم‌های استریمینگ را تشدید کرد.",
-    "category": "گیم",
-    "subcategory": "بسته شدن استودیو",
-    "tag": "NightSchoolStudio",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Clownfish TV on MSN",
-    "url": "https://www.msn.com/en-us/money/other/netflix-shut-down-the-oxenfree-studio-six-weeks-after-praising-its-new-game/ar-AA2aptSM",
-    "clean_url": "https://www.msn.com/en-us/money/other/netflix-shut-down-the-oxenfree-studio-six-weeks-after-praising-its-new-game/ar-AA2aptSM",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1787053204.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a903c2b714",
-    "title_fa": "‏قیمت طلا زیر 4400 دلار پس از افزایش بازدهی آمریکا",
-    "title_en": "Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally | FXStreet",
-    "summary": [
-      "‏قیمت طلا (XAU/USD) در روز سه‌شنبه زیر 4400 دلار معامله شد.",
-      "‏این کاهش به دلیل افزایش بازدهی اوراق قرضه آمریکا و نگرانی‌های خاورمیانه بود.",
-      "‏اگر طلا زیر 4317 دلار سقوط کند، ممکن است به سطح 4000 دلار برسد."
-    ],
-    "body_fa": "‏قیمت طلا در جلسه صبح اروپا کمی پایین آمد و زیر 4400 دلار تثبیت شد. این حرکت تحت فشار بازدهی‌های بالاتر اوراق خزانه‌داری آمریکا بود که بازده 10‑ساله به بالای 4.7 ٪ و 30‑ساله به بالای 5.3 ٪ رسید. نگرانی‌ها درباره تجدید تنش‌های خاورمیانه، به‌ویژه پس از پایان تفاهم‌نامه میان واشنگتن و تهران، نیز دلار ایمن‌پناه را تقویت کرد. تحلیل‌گران فنی مقاومت اصلی را در حدود 4500 دلار می‌دانند و خط 200‑روز SMA نزدیک 5000 دلار را کلید مقاومت می‌پندارند. در صورت شکست زیر 4317 دلار، طلا ممکن است به سطوح 4223 و حتی 4000 دلار سقوط کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eases-below-4-400-as-us-yields-rally-202608181043",
-    "clean_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eases-below-4-400-as-us-yields-rally-202608181043",
-    "image": "https://s.yimg.com/bo/8e8591fe-a018-5d4a-85b1-43f70f3c253a_1781869103115.png.cf.jpg",
-    "timestamp": 1787050395.0,
     "sent_to_telegram": true
   }
 ]
