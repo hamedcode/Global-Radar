@@ -1,5 +1,27 @@
 [
   {
+    "id": "4b44abaf80",
+    "title_fa": "‏قیمت طلا به‌دلیل افزایش نرخ فدرال‌رزرو ۱.۶٪ افت کرد",
+    "title_en": "Gold falls as Fed rate hike bets lift US Dollar to two-month high | FXStreet",
+    "summary": [
+      "‏قیمت طلا حدود ۴,۲۸۵ دلار شد و ۱.۶٪ کاهش یافت؛ دلار به بالاترین سطح دو ماهه رسید.",
+      "‏کاهش طلا به انتظارات افزایش نرخ بهره فدرال‌رزرو و داده‌های مثبت PMI مرتبط است.",
+      "‏شاخص دلار DXY به ۱۰۱ نزدیک شد و اوراق دو ساله نزدیک ۴.۷۹٪ شد."
+    ],
+    "body_fa": "‏طلا در روز چهارشنبه به حدود ۴,۲۸۵ دلار کاهش یافت، که نسبت به آغاز روز ۱.۶٪ افت داشت. این کاهش ناشی از تقویت دلار آمریکا بود که پس از انتشار داده‌های PMI مثبت و انتظارات از افزایش دیگر نرخ بهره توسط فدرال‌رزرو، به بالاترین سطح دو ماهه خود رسید. شاخص دلار (DXY) به حدود ۱۰۱.۰۰ رسید و اوراق قرضه دو ساله نزدیک ۴.۷۹٪ شد. فدرال‌رزرو هفته گذشته نرخ بهره پایه را ۲۵ پایه‌نقطه افزایش داد و پیش‌بینی می‌کند یک بار دیگر این سال نرخ را بالا ببرد. رئیس فدرال‌رزرو ریچموند، توماس بارکین، شرایط اقتصادی را در حال تقویت توصیف کرد و هشدار داد تورم بالا می‌تواند فشارهای آینده را تشدید کند. در عین حال، قیمت نفت WTI نزدیک ۹۰ دلار باقی مانده و مذاکرات بین آمریکا و ایران دربارهٔ راه‌بان هرمز هنوز به نتیجه نرسیده است.",
+    "category": "انرژی و کالا",
+    "subcategory": "طلا",
+    "tag": "قیمت طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
+    "clean_url": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
+    "image": "https://s.yimg.com/bo/3b0ce240-5197-5b6f-b76f-c58be346c847_1788932725292.png.cf.jpg",
+    "timestamp": 1790162751.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "849e11a2c5",
     "title_fa": "‏آمریکا در جنگ تجاری با چین به‌طور جدی عقب مانده است",
     "title_en": "View: The US is badly losing its trade war with China",
@@ -41,6 +63,94 @@
     "clean_url": "https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
     "image": "https://s.yimg.com/bo/5d6def6a-7c6a-5f13-ac6a-8c5a0621407c_1790152111505.jpg",
     "timestamp": 1790151420.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8fc2a15286",
+    "title_fa": "‏OECD پیش‌بینی رشد جهانی 2026 را به ۲٫۹٪ ارتقا داد",
+    "title_en": "OECD lifts 2026 global economic growth forecast to 2.9% despite Iran war disruption",
+    "summary": [
+      "‏OECD پیش‌بینی رشد اقتصادی جهانی برای سال 2026 را به ۲٫۹٪ ارتقا داد",
+      "‏این نشان می‌دهد اقتصاد جهان شوک انرژی ناشی از جنگ ایران را بهتر از انتظار جذب کرده است",
+      "‏اما سازمان هشدار داد که ریسک‌های پایدار همچنان وجود دارد"
+    ],
+    "body_fa": "‏سازمان اقتصادی همکاری و توسعه (OECD) پیش‌بینی رشد اقتصادی جهانی برای سال 2026 را از پیش‌فرض قبلی به ۲٫۹ درصد ارتقا داد. این افزایش نشان می‌دهد که اقتصادهای جهان توانسته‌اند شوک انرژی ناشی از جنگ ایران را بهتر از آنچه پیش‌بینی می‌شد جذب کنند. با این حال، OECD هشدار داد که ریسک‌های پایدار مانند نوسانات قیمت انرژی و فشارهای ژئوپلیتیک می‌توانند رشد را تحت‌تأثیر قرار دهند. این پیش‌بینی برای سیاست‌گذاران و بازارهای مالی اهمیت دارد، زیرا انتظارات رشد را تنظیم می‌کند و می‌تواند بر تصمیمات سرمایه‌گذاری و نرخ بهره تأثیر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "رشد اقتصادی جهانی",
+    "tag": "OECD",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Euronews on MSN",
+    "url": "https://www.msn.com/en-ph/money/economy/oecd-lifts-2026-global-economic-growth-forecast-to-2-9-despite-iran-war-disruption/ar-AA2cPhGc",
+    "clean_url": "https://www.msn.com/en-ph/money/economy/oecd-lifts-2026-global-economic-growth-forecast-to-2-9-despite-iran-war-disruption/ar-AA2cPhGc",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790144115.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "31aa2a2809",
+    "title_fa": "‏OECD پیش‌بینی رشد جهانی را به ۲٫۹٪ ارتقا داد",
+    "title_en": "OECD lifts forecasts for global growth",
+    "summary": [
+      "‏OECD پیش‌بینی رشد اقتصاد جهانی را به ۲٫۹٪ برای سال جاری ارتقا داد.",
+      "‏این افزایش نشان‌دهنده بهبود نسبت به پیش‌بینی قبلی است و می‌تواند بازارها و سیاست‌های پولی را تحت تأثیر قرار دهد.",
+      "‏برای سال آینده پیش‌بینی را به ۳٪ کاهش داد و ریسک‌های ژئوپلیتیک و انرژی را برجسته کرد."
+    ],
+    "body_fa": "‏سازمان همکاری و توسعه اقتصادی (OECD) پیش‌بینی رشد اقتصاد جهانی را برای سال جاری به ۲٫۹٪ ارتقا داد. این رقم برای منطقه یورو ۱٪ و برای آلمان ۱٫۱٪ پیش‌بینی شد که هر دو نسبت به برآوردهای قبلی افزایش یافت. با این حال، برای سال آینده پیش‌بینی رشد جهانی به ۳٪ و برای منطقه یورو به ۱٪ کاهش یافت. OECD تأکید کرد که ادامهٔ درگیری‌های خاورمیانه، تعرفه‌ها و محدودیت‌های صادراتی، و ریسک‌های آب و هوایی مانند ال‌نیونو می‌توانند چشم‌انداز را تحت فشار قرار دهند. همچنین عدم تحقق سرمایه‌گذاری‌های هوش مصنوعی می‌تواند رشد را کندتر کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "پیش‌بینی رشد جهانی",
+    "tag": "OECD",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/articles/oecd-lifts-forecasts-global-growth-093447657.html",
+    "clean_url": "https://finance.yahoo.com/economy/articles/oecd-lifts-forecasts-global-growth-093447657.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/ee4dc7eca39538037519d4f367fafabdbbcfb849ddcd3f6fcd5746997fa1dd8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0d7275ddf60cb2311746ecc299e825b0.jpg",
+    "timestamp": 1790130840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "037d5bfdfe",
+    "title_fa": "‏Undead Labs از Xbox جدا شد و مستقل شد",
+    "title_en": "Undead Labs leaves Xbox: State of Decay studio goes independent again amid layoffs",
+    "summary": [
+      "‏Undead Labs امروز از Xbox Game Studios جدا شد و دوباره به‌صورت استودیوی مستقل شد.",
+      "‏جدایی همراه با اخراج‌های گسترده بود و توسعه State of Decay 3 که هدف انتشار 2027 دارد، تحت تأثیر قرار گرفت.",
+      "‏بازی جدید برای Xbox ، PC و PS5 در مرحله آلفا است و بتای بسته‌شده تا پایان 2026 برنامه‌ریزی شده."
+    ],
+    "body_fa": "‏استودیوی Undead Labs که سازنده سری State of Decay است، امروز از Xbox Game Studios جدا شد و به‌صورت مستقل و احتمالاً مالکیت کارمندان ادامه می‌دهد. جدایی همزمان با اعلام یک دور جدید از برش‌های شغلی در مایکروسافت انجام شد و تعداد دقیق اخراج‌ها اعلام نشده است. توسعه State of Decay 3 که در حال حاضر در فاز آلفا است، برای سال 2027 برنامه‌ریزی شده بود اما این برش‌های نیروی کار ممکن است زمان‌بندی را به تعویق بیندازد. نسخه جدید بازی برای Xbox ، PC و PlayStation 5 هدف‌گذاری شده و بتای بسته‌شده تا پایان 2026 انتظار می‌رود. این تغییر نشان‌دهندهٔ فشارهای مالی و استراتژیک در بخش بازی‌های مایکروسافت است که می‌تواند بر برنامه‌های دیگر استودیوهای زیرمجموعه نیز تأثیر بگذارد.",
+    "category": "گیم",
+    "subcategory": "استودیوهای بازی",
+    "tag": "Undead Labs",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Softonic",
+    "url": "https://en.softonic.com/articles/undead-labs-leaves-xbox-state-of-decay-studio-goes-independent-again-amid-layoffs",
+    "clean_url": "https://en.softonic.com/articles/undead-labs-leaves-xbox-state-of-decay-studio-goes-independent-again-amid-layoffs",
+    "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/09/undead-labs-leaves-xbox-state-of-decay-studio-goes-independe-20260923.jpg",
+    "timestamp": 1790130000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "35a1c37a34",
+    "title_fa": "‏Undead Labs به استودیوی کارمند‑محور تبدیل شد، تعدادی اخراج شدند",
+    "title_en": "Undead Labs confirms it is now an \"employee-owned studio\", a \"significant number\" of employees face layoffs",
+    "summary": [
+      "‏Undead Labs اعلام کرد استودیوی مستقل کارمند‑محور شده و پس از جدایی از Xbox ، تعداد زیادی کارمند را اخراج کرد.",
+      "‏این تغییر نشان‌دهنده بازسازی بزرگ مایکروسافت در استودیوهای خود و ممکن است بر توسعه State of Decay 3 که برای 2027 برنامه‌ریزی شده است، تأثیر بگذارد.",
+      "‏بتای بسته برای State of Decay 3 تا پایان سال جاری برنامه‌ریزی شده است."
+    ],
+    "body_fa": "‏Undead Labs اعلام کرد پس از جدایی از Xbox به عنوان یک استودیوی کارمند‑محور مستقل فعالیت می‌کند. در این فرآیند، 268 نفر در بین استودیوهای مختلف مایکروسافت از جمله Undead Labs اخراج شدند. این اخراج‌ها شامل تعداد قابل‌توجهی از توسعه‌دهندگان کلیدی سری State of Decay است که به‌همراه تجربه‌هایشان در پروژه باقی می‌مانند. توسعه State of Decay 3 همچنان ادامه دارد و برای سال 2027 و انتشار بر روی Xbox ، Game Pass ، PC و PlayStation برنامه‌ریزی شده است. یک بتای بسته قبل از پایان سال جاری نیز در برنامه است. این تغییر بخشی از بازسازی گسترده مایکروسافت است که شامل انتقال استودیو Rare به Activision و ترکیب Playground Games و Turn 10 در یک استودیو می‌شود.",
+    "category": "گیم",
+    "subcategory": "استقلال استودیو",
+    "tag": "Undead Labs",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
+    "clean_url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
+    "image": "https://assetsio.gnwcdn.com/state-of-decay-3-headline-steam.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1790125020.0,
     "sent_to_telegram": true
   },
   {
@@ -6487,116 +6597,6 @@
     "clean_url": "https://www.foxnews.com/politics/iran-loses-key-economic-lifeline-in-middle-east-that-trumps-sanctions-couldnt-reach-as-deadlock-persists",
     "image": "https://s.yimg.com/bo/102b0eab-a8eb-587c-b393-df9cf59e47f6_1787152533172.jpg",
     "timestamp": 1787150997.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b10abe9047",
-    "title_fa": "‏ترامپ برای تصویب قانون Clarity در کنگره فشار می‌آورد",
-    "title_en": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-    "summary": [
-      "‏ترامپ در رویداد کریپتو در کاخ سفید، از کنگره خواست قانون Clarity را سریع‌تر تصویب کند.",
-      "‏این فشار می‌تواند چارچوب قانونی واضح‌تری برای رمزارزها فراهم کند و بازارها را تحت تأثیر قرار دهد.",
-      "‏در همان جلسه، مدیران ارشد چندین شرکت فناوری با رئیس‌جمهور ملاقات کردند تا نظرات خود را درباره نوآوری‌های مالی ارائه دهند."
-    ],
-    "body_fa": "‏در یک رویداد کریپتو در کاخ سفید، دونالد ترامپ از کنگره خواست تا قانون Clarity را بدون تأخیر تصویب کند. قانون Clarity به‌منظور ایجاد چارچوب قانونی واضح برای رمزارزها و جلوگیری از ابهام‌های نظارتی تدوین شده است. این درخواست در حالی مطرح شد که مدیران عامل چندین شرکت پیشرو در حوزه فناوری‌های نوین، پیش از برگزاری اولین کمیته مشورتی نوآوری در CFTC ، با رئیس‌جمهور ملاقات کردند. حضور این مدیران نشان‌دهنده تمایل صنعت به همکاری نزدیک با نهادهای نظارتی است. اگر کنگره به این فشار پاسخ مثبت دهد، می‌تواند مسیر قانونی برای سرمایه‌گذاری و توسعه پروژه‌های بلاکچین را هموار کند. اما تا زمان تصویب نهایی، بازار رمزارزها همچنان تحت تأثیر عدم قطعیت‌های نظارتی باقی می‌ماند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین و مقررات",
-    "tag": "Clarity Act",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-    "clean_url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1787143680.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1c07e01c31",
-    "title_fa": "‏بورس هند: نيفتي هفت روز کاهش، سنسکس ۳۲۶ نمره افت",
-    "title_en": "Sensex Today | Nifty 50 | Stock Market Highlights: Nifty falls for 7th day, ends below 24,100; Sensex sheds 326 pts; Power Grid, L&T down 2% each",
-    "summary": [
-      "‏ن ifty برای هفتمین روز متوالی کاهش یافت و زیر ۲۴,۱۰۰ بسته شد؛ Sensex ۳۲۶ امتیاز افت داشت.",
-      "‏این فشار فروش در بازارهای آسیایی به افزایش قیمت نفت پس از اظهارات ترامپ درباره ایران منجر شد.",
-      "‏همچنین Gaja برای جذب ۴۵۰ کرور روپیه و Kotak Mahindra برای صدور اوراق دلاری ۶۵۰ میلیون دلار اقدام کرد."
-    ],
-    "body_fa": "‏بازار بورس هند در روز چهارشنبه به رکورد نزولی خود ادامه داد؛ نيفتي برای هفتمین روز متوالی کاهش یافت و زیر ۲۴,۱۰۰ بسته شد. سنسکس نیز ۳۲۶ امتیاز افت کرد که نشانگر فشار فروش گسترده در سبدهای سهام است. این روند منفی با افزایش قیمت نفت همزمان شد، چرا که ترامپ اعلام کرد ایالات متحده در مذاکرات صلح با ایران مشارکت ندارد. افزایشی در قیمت نفت معمولاً فشار بر بازارهای نوظهور مانند هند ایجاد می‌کند. در همین حین، Gaja Alternative Asset Management قصد دارد ۴۵۰ کرور روپیه از طریق انتشار جدید سهام جذب کند و ۱۰۰ کرور روپیه دیگر را از طریق فروش سهام موجود تأمین نماید. همچنین بانک Kotak Mahindra ۶۵۰ میلیون دلار اوراق قرضه دلاری پنج‌ساله با نرخ ۱۰۸ نقطه پایه بالاتر از اوراق خزانه‌داری آمریکا منتشر کرد. این اقدامات نشان می‌دهد که علیرغم نوسانات کوتاه‌مدت، سرمایه‌گذاران همچنان به جذب سرمایه در ابزارهای بدهی و صندوق‌های سرمایه‌گذاری هندی علاقه‌مند هستند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام هند",
-    "tag": "Nifty",
-    "urgency": 4,
-    "iran_relevant": true,
-    "source": "The Economic Times",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ongc-bpcl-share-price-19-august-2026/liveblog/133335256.cms",
-    "clean_url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ongc-bpcl-share-price-19-august-2026/liveblog/133335256.cms",
-    "image": "https://economictimes.indiatimes.com/thumb/msid-133335256,width-1200,height-900,resizemode-4,imglength-1291870/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ongc-bpcl-share-price-19-august-2026.jpg",
-    "timestamp": 1787137980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "aa1ce27059",
-    "title_fa": "‏سازندگان آرکین استودیو جدیدی راه‌اندازی کردند",
-    "title_en": "Arkane Veterans Start New Studio Following XBOX Crisis",
-    "summary": [
-      "‏هاروی اسمیت و بن هورن استودیوی جدیدی به نام Black Pony Immersive تأسیس کردند.",
-      "‏پس از بسته شدن آرکین آستین و اخراج 96 نفر، این حرکت نشان‌دهنده تلاش برای بازگشت در صنعت بازی است.",
-      "‏آن‌ها به دنبال سرمایه‌گذاری بدون NFT و با تمرکز بر بازی‌های غوطه‌ور هستند."
-    ],
-    "body_fa": "‏در سال‌های اخیر مایکروسافت بیش از ۳۰۰۰ توسعه‌دهنده را از دست داد و استودیوی آرکین آستین پس از نقدهای ناموفق Redfall بسته شد. هاروی اسمیت، مدیر پیشین آرکین، به همراه ۹۶ همکارش بیکار شد. دو سال پس از این اتفاق، اسمیت و بن هورن استودیوی جدیدی به نام Black Pony Immersive راه‌اندازی کردند. آن‌ها می‌گویند در بدترین زمان برای تأسیس استودیو اقدام کرده‌اند، اما به دنبال یافتن شریک مالی مناسب بدون استفاده از فناوری NFT هستند. تیم قصد دارد با بهره‌گیری از تجربه‌های گذشته، بازی‌های غوطه‌ور و با کیفیت بالا تولید کند. این حرکت نشان می‌دهد که حتی پس از بحران‌های بزرگ، خالقان بازی‌های شناخته‌شده به دنبال ادامه مسیر خلاقیت هستند.",
-    "category": "گیم",
-    "subcategory": "استودیوهای بازی",
-    "tag": "آرکین",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "DualShockers",
-    "url": "https://www.dualshockers.com/arkane-veterans-start-new-studio-following-xbox-crisis/",
-    "clean_url": "https://www.dualshockers.com/arkane-veterans-start-new-studio-following-xbox-crisis",
-    "image": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/08/arkane-veterans-start-new-studio-following-xbox-crisis.jpg?w=1600&h=900&fit=crop",
-    "timestamp": 1787135880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e7bd5e7506",
-    "title_fa": "‏کاهش حمل‌ونقل کالا در تنگه هرمز پس از حمله کشتی",
-    "title_en": "Strait of Hormuz Shipping Slows After Vessel Attack",
-    "summary": [
-      "‏حمل‌ونقل کالاهای عمده از طریق تنگه هرمز پس از حمله به یک کشتی کاهش یافت.",
-      "‏این کاهش به دلیل تهدیدهای امنیتی و اختلاف ادعاهای ایالات متحده و ایران است که ممکن است فشار بر قیمت نفت ایجاد کند.",
-      "‏ناوبری در این مسیر کلیدی برای حدود 20 درصد صادرات نفت جهان است."
-    ],
-    "body_fa": "‏پس از حمله به یک کشتی در تنگه هرمز، حمل‌ونقل کالاهای عمده در این مسیر به‌طور قابل‌توجهی کاهش یافت. شرکت‌های ناوگان دریایی به دلیل تهدیدهای امنیتی و عدم قطعیت‌های حقوقی ناشی از ادعاهای متقابل ایالات متحده و ایران، با احتیاط بیشتری عمل می‌کنند. تنگه هرمز حدود 20 درصد از صادرات نفت جهان را عبور می‌دهد، بنابراین هر اختلالی می‌تواند بر قیمت جهانی نفت اثر بگذارد. این وضعیت ممکن است باعث افزایش هزینه‌های حمل‌ونقل و نوسان در بازارهای انرژی شود. مقامات بین‌المللی در حال بررسی راهکارهای امنیتی برای حفظ عبور آزاد کشتی‌ها هستند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "حمل و نقل دریایی",
-    "tag": "هورموز",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://www.msn.com/en-us/news/world/strait-of-hormuz-shipping-slows-after-vessel-attack/ar-AA2asgW4",
-    "clean_url": "https://www.msn.com/en-us/news/world/strait-of-hormuz-shipping-slows-after-vessel-attack/ar-AA2asgW4",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-19_wnjxrftqo5.jpg",
-    "timestamp": 1787131860.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7f01614798",
-    "title_fa": "‏هاروی اسمیت استودیوی خود را برای سیم‌های غوطه‌ور راه‌اندازی کرد",
-    "title_en": "Dishonored, Deus Ex Designer Stars New Studio to Continue Focusing on Immersive Sims",
-    "summary": [
-      "‏هاروی اسمیت، طراح مشهور Dishonored و Deus Ex ، استودیوی جدیدی به نام Black Pony Immersive راه‌اندازی کرد.",
-      "‏این استودیو بر توسعه بازی‌های تک‌نفره و «سیم‌های غوطه‌ور» تمرکز دارد، ژانری که اسمیت به‌خوبی می‌شناسد.",
-      "‏اسمیت تیمی از همکاران پیشین Dishonored و Deus Ex را به‌کار گرفته و پس از شکست Redfall ، سرنوشت متفاوتی برای استودیو می‌خواهد."
-    ],
-    "body_fa": "‏طراح برجسته هاروی اسمیت، که به‌خاطر کارهایش در سری‌های Dishonored و Deus Ex شناخته می‌شود، استودیوی جدیدی به نام Black Pony Immersive تأسیس کرد. این استودیو به‌طور اختصاصی بر ژانر «سیم غوطه‌ور» تمرکز خواهد کرد؛ بازی‌هایی که به خلاقیت بازیکن و کاوش عمیق در جهان می‌پردازند. اسمیت تیمی شامل همکاران پیشین خود از پروژه‌های Dishonored ، Deus Ex و Prey را گردآوری کرده و هدفشان ساخت بازی‌های تک‌نفره‌ داستان‌محور است. این حرکت پس از بسته شدن استودیوی آرکین در اوستین توسط مایکروسافت در سال 2024 و شکست پروژه Redfall صورت می‌گیرد. اسمیت امیدوار است با Black Pony Immersive ، مسیر متفاوتی برای توسعه بازی‌های سینمایی و تعاملی باز کند و به‌خصوص در بازار تک‌نفره، نوآوری‌های جدیدی ارائه دهد.",
-    "category": "گیم",
-    "subcategory": "استودیو جدید",
-    "tag": "ImmersiveSim",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/dishonored-deus-ex-designer-stars-new-studio-black-pony-immersive-immersive-sims",
-    "clean_url": "https://www.ign.com/articles/dishonored-deus-ex-designer-stars-new-studio-black-pony-immersive-immersive-sims",
-    "image": "https://assets-prd.ignimgs.com/2026/08/18/e3dishonored2-thumb-1465511853915-1787084973495.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "timestamp": 1787122800.0,
     "sent_to_telegram": true
   }
 ]
