@@ -66,6 +66,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "48d4190810",
+    "title_fa": "‏محدودیت صادرات دیزل آمریکا می‌تواند قیمت داخلی را کاهش دهد",
+    "title_en": "A Diesel Export Ban Could Lower Diesel Prices But Raise Other Costs",
+    "summary": [
+      "‏ایالات متحده بررسی ممنوعیت صادرات دیزل را آغاز کرد؛ صادرات روزانه حدود 1.5 میلیون بشکه.",
+      "‏هدف این اقدام کاهش قیمت دیزل برای کشاورزان و حمل‌ونقل داخلی است، اما ممکن است هزینه‌های وارداتی را بالا ببرد.",
+      "‏کاهش صادرات می‌تواند قیمت دیزل در بازارهای خارجی را افزایش داده و به‌صورت غیرمستقیم بر قیمت غذا تأثیر بگذارد."
+    ],
+    "body_fa": "‏با افزایش بی‌سابقه قیمت دیزل، دولت آمریکا به‌سرعت به بررسی محدود کردن صادرات این سوخت می‌پردازد. صادرات دیزل آمریکا حدود 1.5 میلیون بشکه در روز است و بخش‌های کشاورزی، حمل‌ونقل و ساخت‌وساز از قیمت‌های بالا رنج می‌برند. اگر بخشی از این صادرات در داخل کشور نگه داشته شود، موجودی داخلی افزایش یافته و فشار بر قیمت‌های داخلی کاهش می‌یابد. اما این کار باعث می‌شود که دیزل در بازارهای جهانی کمتر عرضه شود و قیمت‌های خارجی بالا رود. هزینه‌های بالاتر دیزل وارداتی می‌تواند به‌صورت غیرمستقیم قیمت مواد غذایی و کالاهای دیگر را در آمریکا افزایش دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و دیزل",
+    "tag": "محدودیت صادرات دیزل",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Forbes · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/energy/articles/diesel-export-ban-could-lower-100000284.html",
+    "clean_url": "https://finance.yahoo.com/energy/articles/diesel-export-ban-could-lower-100000284.html",
+    "image": "https://media.zenfs.com/en/forbes_contributor_845/00b9e8b70688b09dc9129a4b4766852a.jpg",
+    "timestamp": 1790243284.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "98b05f576f",
     "title_fa": "‏اکس‌بار پروژه Age of Empires را برکناری نیروها متوقف کرد",
     "title_en": "Next game from Age of Empires studio scrapped amid Xbox layoffs",
@@ -6575,28 +6597,6 @@
     "clean_url": "https://www.pattayamail.com/latestnews/news/scb-eic-sees-global-economy-growing-2-5-on-ai-thai-economy-at-2-amid-uneven-recovery-562335",
     "image": "https://www.pattayamail.com/wp-content/uploads/2026/08/Pattaya-8-SCB-EIC-sees-global-economy-growing-2.5_-on-AI-Thai-economy-at-2_-amid-uneven-recovery-copy.jpg",
     "timestamp": 1787331600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "fab62f4150",
-    "title_fa": "‏Double Fine پس از جدایی از Xbox ، مالکیت بازی‌ها را بازپس گرفت",
-    "title_en": "Double Fine Owns IP and Publishing Rights for All of Its Games Following Xbox Split, Psychonauts Studio Confirms",
-    "summary": [
-      "‏Double Fine تأیید کرد تمام حقوق مالکیت و نشر بازی‌هایش را پس از جدایی از Xbox به‌دست گرفته است.",
-      "‏این امر به استودیو امکان می‌دهد با فروش عناوین قبلی درآمدی برای پروژه‌های آینده تأمین کند.",
-      "‏استودیو همچنین کمپین Kickstarter Amnesia Fortnight 2026 را برای یک بازی‌جم جدید آغاز کرده است."
-    ],
-    "body_fa": "‏Double Fine Productions امروز در مصاحبه‌ای با Kinda Funny Games اعلام کرد پس از جدایی از Xbox تمام حقوق مالکیت و نشر بازی‌های خود را بازپس گرفته است. این بازگشت شامل عناوین مشهور همچون Psychonauts و Brutal Legend می‌شود و اگرچه ممکن است برخی از حقوق موقتاً به مایکروسافت تعلق داشته باشد، اما در طول زمان کامل منتقل خواهد شد. تِیم شافر تأکید کرد خرید هر یک از این بازی‌ها به استودیو کمک می‌کند تا درآمدی برای ادامه پروژه‌های آینده ایجاد کند و «runway» مالی خود را گسترش دهد. در همین راستا، Double Fine صفحه Kickstarter برای Amnesia Fortnight 2026 را راه‌اندازی کرده که یک بازی‌جم طولانی‌مدت در اواخر ماه اوت تا اواسط سپتامبر برگزار می‌شود و بازیکنان می‌توانند ایده‌های خود را برای تبدیل به بازی کوچک انتخاب کنند. این اقدام پس از برنامه بازسازی Xbox است که منجر به 3200 اخراج در تیم‌های مایکروسافت شد اما برای Double Fine فرصتی برای ادامه خلاقیت فراهم کرد.",
-    "category": "گیم",
-    "subcategory": "حقوق مالکیت",
-    "tag": "Double Fine",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/double-fine-owns-ip-and-publishing-rights-for-all-of-its-games-following-xbox-split-psychonauts-studio-confirms",
-    "clean_url": "https://www.ign.com/articles/double-fine-owns-ip-and-publishing-rights-for-all-of-its-games-following-xbox-split-psychonauts-studio-confirms",
-    "image": "https://assets-prd.ignimgs.com/2023/02/12/raz-smiling-1629392108306-1643856964438-1676178991278.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "timestamp": 1787327580.0,
     "sent_to_telegram": true
   }
 ]
