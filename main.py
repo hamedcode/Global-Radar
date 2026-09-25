@@ -102,12 +102,15 @@ CONFIG = {
     # simple classification task run over every candidate, so Flash-Lite
     # (higher free RPM/RPD than full Flash) is the better fit.
     'GEMINI_MODEL_SELECTION': os.environ.get('GEMINI_MODEL_SELECTION', 'gemini-flash-lite-latest'),
-    # Conservative shared cap across ALL Gemini calls (selection + writing
-    # fallback + title QA), regardless of which model each one uses — Google
-    # publishes free-tier RPM as low as ~10-15 depending on model/account, so
-    # staying under that with margin avoids 429s outright rather than
-    # reacting to them after the fact.
-    'GEMINI_MAX_RPM': int(os.environ.get('GEMINI_MAX_RPM', '8')),
+    # Google enforces RPM per MODEL, not per project/API key as a whole —
+    # each model has its own independent bucket (confirmed on Gemini API's
+    # rate-limits page: "Each model variation has an associated rate limit").
+    # So the selection model (flash-lite) and the writing model (flash) are
+    # throttled separately below, each with its own conservative default
+    # cap with margin under Google's published free-tier numbers. Tune these
+    # to your account's actual limits shown at aistudio.google.com/rate-limit.
+    'GEMINI_MAX_RPM_SELECTION': int(os.environ.get('GEMINI_MAX_RPM_SELECTION', os.environ.get('GEMINI_MAX_RPM', '8'))),
+    'GEMINI_MAX_RPM_WRITING': int(os.environ.get('GEMINI_MAX_RPM_WRITING', os.environ.get('GEMINI_MAX_RPM', '8'))),
     'AI_RETRIES': 3,
     # Storage bar (site/archive) — same bar is used for Telegram now, so
     # everything that's stored also gets sent (per user request).
@@ -182,7 +185,9 @@ class GlobalRadar:
         self.gemini_model = CONFIG['GEMINI_MODEL']
         self.gemini_model_selection = CONFIG['GEMINI_MODEL_SELECTION']
         self.gemini_rpm_lock = threading.Lock()
-        self.gemini_call_times = []  # sliding 60s window of call timestamps, shared across all Gemini calls
+        # Per-model sliding 60s windows — Google's RPM cap is per model, so
+        # the selection model and writing model must not share one counter.
+        self.gemini_call_times = {}
         if not self.gemini_api_key and not self.cf_accounts:
             logger.error("NO AI PROVIDER CONFIGURED: neither Gemini nor Cloudflare credentials are set.")
         gemini_status = "not set" if not self.gemini_api_key else (
@@ -807,20 +812,27 @@ class GlobalRadar:
                 time.sleep(1)
         return None
 
-    def _throttle_gemini_rpm(self):
-        """Block until we're under CONFIG['GEMINI_MAX_RPM'] calls in the
-        trailing 60s. Shared across every Gemini call (selection, writing
-        fallback, title QA) and thread-safe, since candidates are processed
-        concurrently."""
-        max_rpm = CONFIG.get('GEMINI_MAX_RPM', 8)
+    def _throttle_gemini_rpm(self, model):
+        """Block until we're under this MODEL's own RPM cap in the trailing
+        60s (each Gemini model has an independent quota bucket on Google's
+        side). Thread-safe, since candidates are processed concurrently."""
+        if model == self.gemini_model_selection:
+            max_rpm = CONFIG.get('GEMINI_MAX_RPM_SELECTION', 8)
+        elif model == self.gemini_model:
+            max_rpm = CONFIG.get('GEMINI_MAX_RPM_WRITING', 8)
+        else:
+            max_rpm = CONFIG.get('GEMINI_MAX_RPM_WRITING', 8)
         while True:
             with self.gemini_rpm_lock:
                 now = time.time()
-                self.gemini_call_times = [t for t in self.gemini_call_times if now - t < 60]
-                if len(self.gemini_call_times) < max_rpm:
-                    self.gemini_call_times.append(now)
+                times = self.gemini_call_times.get(model, [])
+                times = [t for t in times if now - t < 60]
+                if len(times) < max_rpm:
+                    times.append(now)
+                    self.gemini_call_times[model] = times
                     return
-                wait_for = 60 - (now - self.gemini_call_times[0]) + 0.1
+                self.gemini_call_times[model] = times
+                wait_for = 60 - (now - times[0]) + 0.1
             time.sleep(max(wait_for, 0.1))
 
     def _call_gemini(self, system_prompt, user_content, model=None):
@@ -833,7 +845,7 @@ class GlobalRadar:
         )
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
-                self._throttle_gemini_rpm()
+                self._throttle_gemini_rpm(model)
                 resp = self.scraper.post(
                     gemini_url,
                     headers={"x-goog-api-key": self.gemini_api_key, "Content-Type": "application/json"},
@@ -1392,7 +1404,7 @@ class GlobalRadar:
             f"({len(self.cf_accounts)} account(s)) | "
             f"Gemini (writing/QA): {self.gemini_model if self.gemini_api_key else '(no key set)'} | "
             f"Gemini (selection): {self.gemini_model_selection if self.gemini_api_key else '(no key set)'} | "
-            f"max {CONFIG.get('GEMINI_MAX_RPM', 8)} RPM"
+            f"max {CONFIG.get('GEMINI_MAX_RPM_SELECTION', 8)}/{CONFIG.get('GEMINI_MAX_RPM_WRITING', 8)} RPM (selection/writing)"
         )
 
         market_snapshot = self.fetch_market_rates()
@@ -1451,7 +1463,28 @@ class GlobalRadar:
                 ),
                 reverse=True
             )
-            candidates = candidates[:CONFIG.get('MAX_CANDIDATES', 30)]
+
+            # Intra-batch fuzzy dedup: the earlier fuzzy check only compares
+            # against previously-published news, so two differently-worded
+            # candidates about the same story (from two different sources,
+            # picked up in this same run) both used to sail through — and
+            # since candidates are then sent to process_item()/select_with_ai
+            # concurrently, neither one is aware of the other at selection
+            # time, so both get selected and published side by side.
+            # Walking the priority-sorted list and comparing each candidate
+            # only against ones already kept (not the raw existing_news
+            # pool) closes that gap, and keeps the higher-priority source
+            # of each duplicate cluster since we sort first.
+            deduped_candidates = []
+            for item in candidates:
+                title = item.get('title', '')
+                if self._is_duplicate_fuzzy(title, deduped_candidates):
+                    continue
+                deduped_candidates.append(item)
+            dropped = len(candidates) - len(deduped_candidates)
+            if dropped:
+                logger.info(f"Intra-batch fuzzy dedup dropped {dropped} candidate(s)")
+            candidates = deduped_candidates[:CONFIG.get('MAX_CANDIDATES', 30)]
             logger.info(f"Total fetched: {len(results)} | Candidates: {len(candidates)}")
 
         new_items = []
