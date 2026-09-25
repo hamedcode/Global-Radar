@@ -529,6 +529,23 @@ class GlobalRadar:
             logger.error(f"Bing RSS Error: {e}")
         return results
 
+    def fetch_source_rss(self, domain):
+        """Pulls recent headlines directly from one trusted domain, instead
+        of relying on it happening to match one of the keyword SEARCH_QUERIES.
+        Run once per domain in TARGET_SOURCES alongside the keyword search,
+        so a story phrased outside our query patterns still gets picked up
+        as long as a trusted outlet published it.
+        Deliberately reuses fetch_duckduckgo/fetch_bing_rss (not a raw Google
+        News RSS parse) because those two already resolve real publisher
+        URLs — a straight Google News RSS feed only hands back
+        news.google.com redirect links, which get silently dropped by the
+        news.google.com filter later in the pipeline."""
+        results = []
+        query = f"site:{domain}"
+        results.extend(self.fetch_duckduckgo(query, 10))
+        results.extend(self.fetch_bing_rss(query))
+        return results
+
     def fetch_manual_url(self, url):
         try:
             resp = self.scraper.get(url, timeout=15)
@@ -557,11 +574,15 @@ class GlobalRadar:
     def get_combined_news(self):
         all_entries = []
         futs = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=16) as ex:
             for q in CONFIG['SEARCH_QUERIES']:
                 futs.append(ex.submit(self.fetch_gnews, q))
                 futs.append(ex.submit(self.fetch_duckduckgo, q, 6))
                 futs.append(ex.submit(self.fetch_bing_rss, q))
+            # Direct per-source coverage: catches stories from our trusted
+            # outlets that don't happen to match any keyword query pattern.
+            for domain in CONFIG['TARGET_SOURCES']:
+                futs.append(ex.submit(self.fetch_source_rss, domain))
             for fut in concurrent.futures.as_completed(futs):
                 try:
                     all_entries.extend(fut.result() or [])
@@ -635,10 +656,13 @@ class GlobalRadar:
     #   full article and spending a Stage B call on it.
     #
     # Stage B — WRITING / TRANSLATION (full article text, more expensive):
-    #   Primary: Cloudflare (rotates across up to 2 accounts if a second one
-    #   is configured). This is the model whose Persian output has already
-    #   been tuned/debugged extensively for this project.
-    #   Fallback: Gemini, if all Cloudflare accounts fail or are exhausted.
+    #   Primary: Gemini Flash. This stage only runs on the small number of
+    #   already-selected items (not every candidate), so it can afford a
+    #   lower-quota/higher-quality model — and translation accuracy (names,
+    #   fluency) matters far more here than in the cheap Stage A filter.
+    #   Fallback: Cloudflare (rotates across up to 2 accounts if a second
+    #   one is configured), used if Gemini is unconfigured, rate-limited,
+    #   or fails outright.
     #   Produces: title_fa, summary, body_fa, tag, and the FINAL authoritative
     #   importance/is_rumor/is_analysis (full-text judgment beats headline-only).
     #
@@ -684,7 +708,7 @@ class GlobalRadar:
         "🔴 قوانین نگارش:\n"
         "۱. خیلی روان، ساده و مستقیم بنویس. از کلمات پیچیده و ترجمه تحت‌اللفظی خودداری کن.\n"
         "۰. فقط و فقط فارسی بنویس. هیچ کاراکتر چینی، ژاپنی یا هیچ زبان دیگری (جز اسامی خاص انگلیسی مثل نام شرکت‌ها) نباید در خروجی باشد. این قانون رو با دقت کامل رعایت کن.\n"
-        "۰۰. برای اسم افراد یا مکان‌هایی که تلفظ فارسی رایج و شناخته‌شده دارن (مثل تنگه هرمز)، فقط همون املای درست و رایج رو بنویس. اگه از تلفظ فارسی یه اسم خاص (مخصوصاً اسم افراد) مطمئن نیستی، به‌جای حدس‌زدن یه املای اشتباه، همون اسم رو به انگلیسی/لاتین بنویس. هرگز املای اختراعی یا نامطمئن برای اسم خاص ننویس. **هرگز اسم یه شخص رو با یه اسم فارسی رایج دیگه که فقط شبیهش به نظر میاد جایگزین نکن** — مثلاً «Kevin» باید «کوین» ترجمه بشه، نه «کیوان» (که یه اسم کاملاً متفاوت و رایج فارسیه)؛ اگه مطمئن نیستی «کوین» درسته یا نه، همون «Kevin» رو به انگلیسی بنویس، ولی هرگز به یه اسم فارسی موجود دیگه که صداش شبیهه تبدیلش نکن.\n"
+        "۰۰. اسم افراد و اسم شرکت‌ها (مثلاً Kevin Smith، Nvidia، OpenAI) رو هرگز به فارسی ننویس — همیشه دقیقاً به همون شکل انگلیسی/لاتین اصلی‌شون (با همون بزرگی/کوچکی حروف) توی متن فارسی بیار، حتی اگه یه تلفظ فارسی رایج و شناخته‌شده براشون سراغ داری. این قانون مطلقه و استثنا نداره — هرگز حدس یا املای فارسی برای اسم شخص یا شرکت اختراع نکن. تنها اسم‌هایی که می‌تونن فارسی نوشته بشن، اسم مکان‌ها/کشورها/نهادهایی هستن که خودشون یه اسم فارسی رایج و اختصاصی دارن (نه ترجمه/تلفظ اسم شخص یا شرکت) — مثل «تنگه هرمز»، «کانال سوئز»، «فدرال‌رزرو»، «اتحادیه اروپا». اگه شک داری یه اسم خاص از این دسته‌ست یا اسم شخص/شرکته، همون انگلیسی بنویس.\n"
         "۰۰۰. هر عدد رو همیشه یک‌تکه و بدون فاصله بنویس (مثلاً 4400 یا 4,400 — هرگز 4 400 با فاصله‌ی وسط). فاصله‌ی داخل عدد در متن فارسی باعث به‌هم‌ریختن ترتیب نمایش عدد میشه.\n"
         "۲. از عبارات کلیشه‌ای مثل 'به نظر می‌رسد'، 'لازم به ذکر است'، 'شایان ذکر است' استفاده نکن.\n"
         "۳. باید دو نسخه از خبر بنویسی، هر دو بر اساس متن کامل خبر (TEXT)، نه فقط تیتر:\n"
@@ -879,21 +903,25 @@ class GlobalRadar:
         return None
 
     def write_with_ai(self, headline, full_text, source_name, category_hint, url_for_routing):
-        """Stage B: full-article writing/translation. Cloudflare primary
-        (rotates accounts, already-tuned Persian output), Gemini fallback."""
+        """Stage B: full-article writing/translation. Gemini Flash primary
+        (this stage only runs on the few already-selected items, so it can
+        afford the lower-quota, higher-quality model; translation accuracy
+        — names especially — matters far more here than in Stage A).
+        Cloudflare (gpt-oss-120b) is the fallback, used only when Gemini is
+        unconfigured, rate-limited, or fails outright."""
         user_content = (
-            f"SOURCE: {source_name}\nCATEGORY_HINT: {category_hint}\n"
-            f"HEADLINE: {headline}\nTEXT: {full_text}"
-        )
-        data = self._call_cloudflare_with_failover(self._WRITING_PROMPT, user_content, url_for_routing, max_tokens=8000)
-        if data and 'title_fa' in data and 'summary' in data:
-            return data
-        # Fallback: trim text a bit for Gemini's single-shot call.
-        user_content_short = (
             f"SOURCE: {source_name}\nCATEGORY_HINT: {category_hint}\n"
             f"HEADLINE: {headline}\nTEXT: {full_text[:2000]}"
         )
-        data = self._call_gemini(self._WRITING_PROMPT, user_content_short)
+        data = self._call_gemini(self._WRITING_PROMPT, user_content)
+        if data and 'title_fa' in data and 'summary' in data:
+            return data
+        # Fallback: Cloudflare can take the full (untrimmed) text.
+        user_content_full = (
+            f"SOURCE: {source_name}\nCATEGORY_HINT: {category_hint}\n"
+            f"HEADLINE: {headline}\nTEXT: {full_text}"
+        )
+        data = self._call_cloudflare_with_failover(self._WRITING_PROMPT, user_content_full, url_for_routing, max_tokens=8000)
         if data and 'title_fa' in data and 'summary' in data:
             return data
         return None
