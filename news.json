@@ -1,5 +1,49 @@
 [
   {
+    "id": "e20900a6fe",
+    "title_fa": "‏هیترو اعلام کرد راه‌اندازی باند سوم تا 2039 تعویق می‌افتد",
+    "title_en": "UK's Heathrow airport says planned third runway may be delayed until 2039",
+    "summary": [
+      "‏فرودگاه هیترو برنامه‌ریزی شده برای باند سوم را تا سال 2039 به تعویق انداخت.",
+      "‏این تاخیر ظرفیت پروازی بریتانیا را محدود می‌کند و بر برنامه‌های توسعه هواپیمایی اثر می‌گذارد.",
+      "‏دلیل اصلی، چالش‌های قانونی و محیط‌زیستی است."
+    ],
+    "body_fa": "‏فرودگاه هیترو در روز شنبه اعلام کرد که افتتاح باند سوم برنامه‌ریزی شده ممکن است تا سال 2039 به تعویق بیفتد. این پروژه که پیش از این هدف داشت تا اواخر دههٔ ۲۰۲۰ تکمیل شود، به دلیل موانع قانونی، اعتراضات محیط‌زیستی و نیاز به بازنگری در طرح‌های شهری با تاخیر مواجه شده است. دولت بریتانیا هنوز حمایت مالی خود را از پروژه اعلام کرده اما می‌خواهد اطمینان حاصل کند که تمام معیارهای زیست‌محیطی رعایت می‌شود. تاخیر باند سوم می‌تواند باعث کاهش ظرفیت کل فرودگاه، افزایش هزینه‌های پروازهای داخلی و خارجی و فشار بر سایر فرودگاه‌های منطقه‌ای شود. شرکت‌های هواپیمایی و سرمایه‌گذاران به دنبال تنظیم برنامه‌های خود برای مقابله با این تغییر هستند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "حمل و نقل",
+    "tag": "هیترو",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-heathrow-airport-says-planned-third-runway-may-be-delayed-until-2039-2026-09-26/",
+    "clean_url": "https://www.reuters.com/world/uk/uks-heathrow-airport-says-planned-third-runway-may-be-delayed-until-2039-2026-09-26",
+    "image": "https://s.yimg.com/bo/0fd9fa17-b024-5fa3-839a-26d4d6080132_1790441129035.jpg",
+    "timestamp": 1790440394.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "86389e86e7",
+    "title_fa": "‏Payward به ساخت زیرساخت مالی یکپارچه می‌پردازد",
+    "title_en": "Kraken’s parent Payward is building a financial empire that goes far beyond cryp...",
+    "summary": [
+      "‏Payward ، شرکت مادر Kraken ، میلیاردها دلار برای ترکیب تجارت، پرداخت، مدیریت دارایی و خدمات نهادی در یک زیرساخت مشترک سرمایه‌گذاری می‌کند.",
+      "‏این حرکت می‌تواند نقش کلیدی در تبدیل شدن به پلتفرم مالی جامع داشته باشد و رقابت با Coinbase و Binance را تشدید کند.",
+      "‏شرکت قصد دارد این زیرساخت را برای برندها و شرکت‌های مالی دیگر نیز در دسترس بگذارد."
+    ],
+    "body_fa": "‏Payward ، شرکت مادر صرافی Kraken ، اعلام کرد که به جای تمرکز صرف بر صرافی، در حال ساخت یک پلتفرم مالی یکپارچه است. این پلتفرم شامل تجارت، بانکداری، مدیریت دارایی و خدمات نهادی است که بر پایه یک زیرساخت و یک دفتر کل مشترک عمل می‌کند. برای رسیدن به این هدف، Payward به‌صورت داخلی محصول می‌سازد، شرکت‌های مرتبط را خریداری می‌کند و با مؤسسات مالی معتبر همکاری می‌کند. تا به امروز این شرکت میلیاردها دلار برای خرید derivatives ، توکن‌سازی سهام و گسترش قابلیت‌های بانکی در آمریکا و اروپا صرف کرده است. هم‌اکنون Payward قصد دارد این زیرساخت را نه تنها برای Kraken بلکه برای برندها و شرکت‌های مالی دیگر نیز در دسترس بگذارد. این استراتژی می‌تواند رقابت با Coinbase و Binance را در حوزه «Everything Exchange» تشدید کند و مسیر جدیدی برای ادغام خدمات مالی دیجیتال باز کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سازمان مالی",
+    "tag": "Payward",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+    "clean_url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+    "image": "https://s.yimg.com/bo/402f8a31-54c5-5b4d-9f10-75a085e812ef_1788529351977.jpg",
+    "timestamp": 1790432654.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "2d0daa8750",
     "title_fa": "‏شرکت‌های چینی به دنبال بازار مراکز داده هوش مصنوعی آمریکا",
     "title_en": "China wants in on U.S. AI data center boom. Here's why",
@@ -19,6 +63,50 @@
     "clean_url": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html",
     "image": "https://s.yimg.com/bo/84d3114d-7080-5764-8210-8ac545797c5c_1790425752519.jpg",
     "timestamp": 1790423575.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "56ce2e5877",
+    "title_fa": "‏چین در مجمع ملل، آمریکا را به تحریم ایران سرزنش کرد",
+    "title_en": "China pushes back against US on Iran and Cuba in UN speech",
+    "summary": [
+      "‏چین در سخنرانی مجمع عمومی ملل، آمریکا را به‌خاطر تحریم ایران و کوبا سرزنش کرد",
+      "‏این موضع‌گیری نشان‌دهنده تشدید تنش‌های چین‑آمریکا در حوزه سیاست خارجی است",
+      "‏چین بر احترام به حاکمیت کشورهای خلیج تأکید کرد"
+    ],
+    "body_fa": "‏در نشست مجمع عمومی سازمان ملل در روز شنبه، نماینده چین به‌صراحت آمریکا را به‌دلیل تحریم‌های اعمال‌شده بر ایران و کوبا سرزنش کرد. او خواستار احترام به حاکمیت و سرزمین تمام کشورهای خلیج شد و گفت مداخله‌های خارجی باید پایان یابد. این اظهارات نشانگر تشدید رقابت ژئوپلیتیک بین دو قدرت بزرگ است. چین با این سخنرانی سعی دارد موضع خود را در برابر فشارهای اقتصادی و سیاسی ایالات متحده تقویت کند. این رویداد می‌تواند بر مذاکرات آینده درباره تحریم‌ها و روابط تجاری تأثیرگذار باشد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "روابط چین-آمریکا",
+    "tag": "تحریم",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/video/watch/idRW561226092026RP1/",
+    "clean_url": "https://www.reuters.com/video/watch/idRW561226092026RP1",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790416200.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9a0965d0d9",
+    "title_fa": "‏نوسان اوراق قرضه باعث رشد سهام فناوری شد",
+    "title_en": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields",
+    "summary": [
+      "‏بازارهای سهام فناوری مثل Meta و Microsoft در هفته گذشته ۲٪ رشد کردند",
+      "‏این افزایش در حالی رخ داد که بازده اوراق خزانه‌داری به بالاترین سطوح چنددهه‌ای رسید و انتظار افزایش نرخ بهره فدرال رزرو بالا رفت",
+      "‏قیمت نفت به ۱۰۸ دلار در هر بشکه رسید و به نوسان بازار کمک کرد"
+    ],
+    "body_fa": "‏هفتهٔ گذشته بازارهای سهام با نوسان شدیدی مواجه شد؛ بازده اوراق دولتی ۱۰‑ساله به بالای ۵.۲٪ و ۳۰‑ساله به ۵.۵٪ رسید که بالاترین سطوح از سال‌های ۲۰۰۷ و ۲۰۰۴ بود. این فشار نرخ‌ها باعث شد سرمایه‌گذاران به سمت سهام فناوری گرایش پیدا کنند؛ شاخص Nasdaq ۲٪ و S&P 500 یک درصد افزایش یافتند، در حالی که Dow Jones تنها ۰.۳٪ رشد کرد. انتظار برای افزایش نرخ بهره فدرال رزرو به ۶۶٪ در ماه اکتبر افزایش یافت. در همین حین، Meta در کنفرانس Meta Connect برنامهٔ هوش مصنوعی شخصی «Muse» را معرفی کرد و قصد دارد این سرویس را در اپلیکیشن‌ها و سخت‌افزارهای خود ادغام و از طریق اشتراک‌های پولی درآمدزایی کند. Microsoft نیز با اعلام پیشرفت‌های جدید در سرویس‌های ابری و هوش مصنوعی، سهم خود را در رشد این بخش تقویت کرد. قیمت نفت که به ۱۰۸ دلار در هر بشکه رسید، تحت تأثیر درخواست ایران برای بازگشت به توافق‌نامهٔ صلح موقت و بازگشایی مجدد تنگه هرمز قرار داشت.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "نوسان اوراق",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html",
+    "clean_url": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108363129-17894885332026-09-15t160318z_508452316_rc2pjnat84vu_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
+    "timestamp": 1790414220.0,
     "sent_to_telegram": true
   },
   {
@@ -132,6 +220,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "af5a93f302",
+    "title_fa": "‏ایالات متحده و چین تعرفه‌ها را کم کردند",
+    "title_en": "U.S., China Agree to Trim Tariffs, Start AI Dialogue",
+    "summary": [
+      "‏ایالات متحده و چین توافق کردند تعرفه‌های کالاهای کم‌حساس را کاهش دهند.",
+      "‏این گام می‌تواند تنش‌های تجاری را کاهش داده و بازارهای جهانی را تقویت کند.",
+      "‏همزمان گفت‌وگوی دو جانبه درباره هوش مصنوعی نیز آغاز شد."
+    ],
+    "body_fa": "‏پس از اجلاس رئیس‌جمهور ترامپ با شی جین‌پینگ، ایالات متحده و چین به توافق رسیدند تا تعرفه‌های مربوط به صادرات کم‌حساس را کاهش دهند. این تصمیم بخشی از تلاش برای کاهش تنش‌های تجاری بین دو اقتصاد بزرگ است و می‌تواند به بهبود جریان‌های تجاری و رشد اقتصادی جهانی کمک کند. علاوه بر این، دو کشور موافقت کردند تا گفت‌وگوی دو‑جانبه درباره هوش مصنوعی را آغاز کنند، گامی که نشان‌دهنده تمایل به همکاری در فناوری‌های پیشرفته است. کارشناسان پیش‌بینی می‌کنند این توافق ممکن است به بازگشت سرمایه‌گذاران به بازارهای سهام و کالاها منجر شود و فشارهای تجاری را کاهش دهد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌ها و تعرفه‌ها",
+    "tag": "تعرفه",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758",
+    "clean_url": "https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790392380.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "88d950e85d",
+    "title_fa": "‏ترامپ پیشنهاد ایران برای بازگشایی تنگه هرمز را رد کرد",
+    "title_en": "Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz",
+    "summary": [
+      "‏ترامپ اعلام کرد که پیشنهاد ایران برای آتش‌بس و بازگشایی تنگه هرمز را نمی‌پذیرد.",
+      "‏این رد، فشار بر مذاکرات برای رفع تنش‌های خلیج فارس و تأمین مسیرهای نفتی را افزایش می‌دهد.",
+      "‏ایران گفته بود بازگشایی تنگه می‌تواند به‌سرعت حمل و نقل نفت را بهبود بخشد."
+    ],
+    "body_fa": "‏دیپلمات‌های ایرانی پیشنهاد آتش‌بس و بازگشایی تنگه هرمز را به ایالات متحده ارائه دادند. در واکنش، دونالد ترامپ، که هنوز در سیاست داخلی آمریکا نفوذ دارد، این پیشنهاد را به‌طور قطعی رد کرد. او اعلام کرد که هیچ‌گونه تسهیل در بازگشایی مسیر بحرانی نفتی بدون پیش‌شرط‌های امنیتی و سیاسی قابل قبول نیست. تنگه هرمز که حدود ۲۰ درصد صادرات نفت جهان از آن عبور می‌کند، نقش کلیدی در بازارهای انرژی جهانی دارد. رد این پیشنهاد می‌تواند مذاکرات بین‌المللی برای کاهش تنش‌های خلیج فارس را پیچیده‌تر کند و نگرانی‌ها درباره تأمین نفت را افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند که اگر مذاکرات به این شکل ادامه یابد، نوسان قیمت نفت ممکن است ادامه یابد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "منطقه خلیج فارس",
+    "tag": "تنگه هرمز",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faafeab17-4fcc-4f7a-a393-825c43eb772c.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+    "timestamp": 1790391660.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "2967b77b5b",
     "title_fa": "‏بانک مرکزی سوئیس وضعیت تورم را مطلوب ارزیابی کرد",
     "title_en": "SNB Is in Comfortable Situation on Inflation, Schlegel Tells SRF",
@@ -237,6 +369,28 @@
     "clean_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
     "image": "https://s.yimg.com/bo/883af74d-fd7d-531f-83d5-2b16f0203c8c_1790378789375.jpg",
     "timestamp": 1790378185.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d382020a4e",
+    "title_fa": "‏هستر پیرس کمیسر SEC از تاریخ ۲ اکتبر استعفا می‌دهد",
+    "title_en": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+    "summary": [
+      "‏کمیسر SEC هستر پیرس که به «کریپتو ماد» مشهور است، روز ۲ اکتبر از سمت خود می‌رود.",
+      "‏این خروج ممکن است مسیر تنظیمات رمزارزها در آمریکا را تحت تأثیر قرار دهد.",
+      "‏همزمان SEC راهنمایی‌های جدیدی درباره توکن‌ها و پروژه‌های رمزارزی منتشر کرد."
+    ],
+    "body_fa": "‏کمیسر SEC هستر پیرس که در میان فعالان رمزارز به «کریپتو ماد» معروف است، روز ۲ اکتبر از سمت خود استعفا می‌دهد. او در طول دوره حضورش به‌ویژه تحت ریاست‌های جِی کلایتون و گری گنسلر، برای شفاف‌سازی قوانین رمزارزها تلاش کرد. پیرس در سال‌های اخیر مسئولیت تیم کار رمزارز SEC را بر عهده داشت و راهنمایی‌های متعددی درباره استخراج، استیکینگ، میم‌کوین‌ها و تعریف دارایی‌های دیجیتال ارائه کرد. در همان زمان که او اعلام کرد، SEC یک سری دستورالعمل‌های جدید درباره طبقه‌بندی توکن‌ها و مسیر توکنیزه‌سازی اوراق بهادار منتشر کرد. خروج او ممکن است نشان‌دهنده تغییر جهت نظارت این نهاد باشد و بازارهای رمزارزی به واکنش‌های احتمالی به سیاست‌های جدید حساس هستند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "SEC",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+    "clean_url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+    "image": "https://s.yimg.com/bo/ab3cf3d6-ba1d-5639-8420-cf41ab18ccb3_1790375688595.jpg",
+    "timestamp": 1790375054.0,
     "sent_to_telegram": true
   },
   {
@@ -6441,160 +6595,6 @@
     "clean_url": "https://finance.yahoo.com/markets/crypto/articles/4-major-countries-start-crypto-131307354.html",
     "image": "https://s.yimg.com/lo/mysterio/api/db287deb54931046b558272c5e681e8f29d21dcbf441bc66ece9614d73b8d93f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F3b946a318c0bfad41999ed25b51b2835.png",
     "timestamp": 1788243180.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "51a883f3af",
-    "title_fa": "‏تحلیل‌گران به فروشت گسترده اوراق قرضه جهانی واکنش نشان دادند",
-    "title_en": "Analysts react to global bond selloff",
-    "summary": [
-      "‏اوراق قرضه جهانی با فروش گسترده مواجه شدند",
-      "‏تحلیل‌گران هشدار دادند که اگر تورم سریع خنک نشود، فدرال رزرو ممکن است نرخ بهره را افزایش دهد",
-      "‏این فشار بر بازارهای ثابت‌درآمد می‌تواند نوسانات سهام را تشدید کند"
-    ],
-    "body_fa": "‏بازار اوراق قرضه جهانی در روزهای اخیر با فروش گسترده‌ای روبه‌رو شد که باعث افزایش نرخ بهره واقعی شد. تحلیل‌گران مالی به این تحرک واکنش نشان دادند و نگرانی خود را از ادامه فشار بر قیمت‌های ثابت‌درآمد ابراز کردند. در همین زمان، مایکل بار، یکی از اعضای فدرال رزرو، گفت اگر تورم به سرعت کاهش نیابد، بانک مرکزی آمریکا مجبور به افزایش نرخ بهره خواهد شد. این اظهارات می‌تواند موجی از فروش بیشتر اوراق قرضه و نوسان در بازارهای سهام ایجاد کند. سرمایه‌گذاران به دنبال نشانه‌های بیشتر از سیاست پولی سختگیرانه هستند تا استراتژی‌های خود را تنظیم کنند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار اوراق قرضه",
-    "tag": "فروش اوراق",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/view-analysts-react-global-bond-selloff-2026-09-01/",
-    "clean_url": "https://www.reuters.com/business/view-analysts-react-global-bond-selloff-2026-09-01",
-    "image": "https://s.yimg.com/bo/160a9d14-06be-515c-98bd-b10b1f578002_1788248291093.jpg",
-    "timestamp": 1788240903.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5931f17fa7",
-    "title_fa": "‏بازسازی Fate/Extra Record پس از استعفای مدیر، توسعه‌دهندگان عوض شد",
-    "title_en": "Fate/Extra Record remake changes developers after studio director steps down",
-    "summary": [
-      "‏بازسازی بازی Fate/Extra Record پس از استعفای مدیر استودیو، توسعه‌دهندگان جدیدی به عهده گرفتند.",
-      "‏این تغییر پس از چندین تاخیر و قطع همکاری با ناشر قبلی صورت گرفت و می‌تواند زمان عرضه را تحت تأثیر قرار دهد.",
-      "‏طرفداران باید منتظر تاریخ جدیدی باشند."
-    ],
-    "body_fa": "‏بازسازی Fate/Extra Record پس از استعفای مدیر استودیو، تیم توسعه جدیدی به پروژه اختصاص یافت. این تغییر پس از دوره‌ای از تاخیرهای متعدد و قطع همکاری با ناشر قبلی رخ داد. استودیو قبلی که مسئول نسخه اولیه بود، دیگر در توسعه مشارکت ندارد. توسعه‌دهندگان جدید باید مسیر فنی و داستانی بازی را بازنگری کنند. انتظار می‌رود این تحولات زمان عرضه نهایی را به تأخیر بیندازد. طرفداران باید برای اعلام تاریخ جدید صبر کنند.",
-    "category": "گیم",
-    "subcategory": "توسعه بازی",
-    "tag": "Fate/Extra",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "Skoar! on MSN",
-    "url": "https://www.msn.com/en-in/news/other/fateextra-record-remake-changes-developers-after-studio-director-steps-down/ar-AA2bklgB",
-    "clean_url": "https://www.msn.com/en-in/news/other/fateextra-record-remake-changes-developers-after-studio-director-steps-down/ar-AA2bklgB",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1788223445.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7d11721f98",
-    "title_fa": "‏بانک آمریکا تقاضای سرمایه‌گذاران برای طلا را تشخیص داد",
-    "title_en": "Bank of America Spots Major Shift in Gold",
-    "summary": [
-      "‏سرمایه‌گذاران به طلا بیشترین ورود سرمایه را از اکتبر 2025 داشته‌اند.",
-      "‏این موج تقاضا نشان‌دهنده نگرانی‌های تورمی و نوسانات نرخ بهره است و می‌تواند قیمت طلا را تقویت کند.",
-      "‏بانک آمریکا این داده‌ها را در گزارش ماهانهٔ خود دربارهٔ جریان‌های سرمایه‌گذاری منتشر کرد."
-    ],
-    "body_fa": "‏بانک آمریکا در آخرین گزارش خود اعلام کرد که تقاضای سرمایه‌گذاران برای طلا به بالاترین سطح خود از اکتبر 2025 رسیده است. بر اساس داده‌های صندوق‌های سرمایه‌گذاری، ورود خالص سرمایه به صندوق‌های طلا در ماه اخیر به حدود ۲۲ میلیارد دلار رسید. این افزایش نشان‌دهنده نگرانی‌های بازار نسبت به تورم پایدار و احتمال ادامهٔ سیاست‌های تسهیلی یا نوسانات نرخ بهره است. تحلیل‌گران پیش‌بینی می‌کنند که این جریان می‌تواند فشار صعودی بر قیمت طلا ایجاد کند و طلا را به عنوان پناهگاهی امن برای سرمایه‌گذاران مطرح سازد. در عین حال، برخی کارشناسان هشدار می‌دهند که اگر نرخ بهره به سرعت کاهش یابد، جذابیت طلا ممکن است کاهش یابد. به‌طور کلی، این تغییر در تقاضای صندوق‌ها می‌تواند روند قیمت طلا را در ماه‌های آینده تحت تأثیر قرار دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Guru Focus",
-    "url": "https://www.gurufocus.com/news/9059999/bank-of-america-spots-major-shift-in-gold",
-    "clean_url": "https://www.gurufocus.com/news/9059999/bank-of-america-spots-major-shift-in-gold",
-    "image": "https://s.yimg.com/bo/ceca8efd-8194-5557-8d2e-ae0e09815e54_1786268153621.jpg",
-    "timestamp": 1788222731.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2595752ec7",
-    "title_fa": "‏هند در ژوئیه اقتصاد شاداب داشت؛ ریسک‌های غذایی پیش‌رو",
-    "title_en": "Domestic economy retains vigour in July, but risks loom on food, weather: Financ...",
-    "summary": [
-      "‏اقتصاد داخلی هند در ژوئیه رشد پایدار نشان داد، تقاضای قوی و بخش خارجی ثابت.",
-      "‏اما افزایش قیمت غذا و خطرات ال‌نینو می‌تواند رشد را تحت فشار قرار دهد.",
-      "‏کشاورزی با بارش‌های اخیر بهبود یافت ولی سطح کشت هنوز کمتر از سال گذشته است."
-    ],
-    "body_fa": "‏وزارت مالیه هند در بررسی ماهانه اقتصادی ماه اوت اعلام کرد که اقتصاد داخلی در ماه ژوئیه شاداب باقی مانده است. تقاضای داخلی قوی و بخش خارجی نسبتاً ثابت، اثر عدم قطعیت‌های جهانی را کاهش داده‌اند. با این حال، برخی شاخص‌های با فرکانس بالا مانند PMI تولید و خدمات و صدور صورتحساب‌های الکترونیکی رشد خود را کند کرده‌اند. وزارت به خطرات احتمالی ناشی از ال‌نینو که می‌تواند به کاهش محصول‌های خوارکی مانند گندم و خردل منجر شود و فشار بر تورم غذا را افزایش دهد، هشدار داد. کشاورزی با بارش‌های اخیر بهبود یافت اما سطح کشت هنوز کمتر از سال گذشته است. در بخش خارجی، کسری حساب جاری کمی افزایش یافت اما ذخایر ارزی کافی و جریان سرمایه‌ای مثبت به عنوان بالشتک عمل می‌کند. در مجموع، اگرچه اقتصاد داخلی شاداب است، ریسک‌های غذایی و آب و هوایی می‌توانند چالش‌های مهمی برای رشد آینده ایجاد کنند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "اقتصاد داخلی",
-    "tag": "قیمت‌غذا",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "Forbes India",
-    "url": "https://www.forbesindia.com/article/news/domestic-economy-retains-vigour-in-july-but-risks-loom-on-food-weather-finance-ministry/2997647/1",
-    "clean_url": "https://www.forbesindia.com/article/news/domestic-economy-retains-vigour-in-july-but-risks-loom-on-food-weather-finance-ministry/2997647/1",
-    "image": "https://images.forbesindia.com/blog/wp-content/uploads/2026/09/20241023T051118Z1260858104RC26IAACVVG0RTRMADP3ASIALNGTRUCKS-1BG-2026-09-18aec502557be578a51f0acdb395309b.jpg?im=FitAndFill,width=1200,height=900",
-    "timestamp": 1788214020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7cdef76624",
-    "title_fa": "‏استودیوی Star Wars Zero Company اکثریت کارکنان را مرخصی کرد",
-    "title_en": "The studio behind Star Wars Zero Company has reportedly furloughed the majority of its staff",
-    "summary": [
-      "‏استودیوی Star Wars Zero Company اکثریت کارکنانش را به مرخصی فرستاد",
-      "‏این اقدام به دلیل عدم اطمینان نسبت به عملکرد بازی نقش‌آفرینی TTRPG جدید است",
-      "‏فروش نامشخص این محصول می‌تواند آینده پروژه‌های مشابه را تحت تاثیر قرار دهد"
-    ],
-    "body_fa": "‏استودیوی سازندهٔ بازی نقش‌آفرینی Star Wars Zero Company اعلام کرد که اکثریت کارکنان خود را به مرخصی موقت فرستاده است. این تصمیم پس از عدم اطمینان دربارهٔ عملکرد فروش این TTRPG اتخاذ شد. شرکت هنوز جزئیات مالی دقیق را منتشر نکرده، اما کاهش نیروی کار نشانگر فشارهای مالی است. کارشناسان پیش‌بینی می‌کنند این وضعیت می‌تواند برنامه‌های توسعهٔ آیندهٔ استودیو را به تعویق بیندازد. همچنین ممکن است سایر ناشران بازی‌های مشابه را در ارزیابی ریسک‌های سرمایه‌گذاری محتاط‌تر کند.",
-    "category": "گیم",
-    "subcategory": "نیروی انسانی",
-    "tag": "فورکلاژ",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "PC Gamer on MSN",
-    "url": "https://www.msn.com/en-us/gaming/gaming-platforms/the-studio-behind-star-wars-zero-company-has-reportedly-furloughed-the-majority-of-its-staff/ar-AA2bk1iT",
-    "clean_url": "https://www.msn.com/en-us/gaming/gaming-platforms/the-studio-behind-star-wars-zero-company-has-reportedly-furloughed-the-majority-of-its-staff/ar-AA2bk1iT",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1788211651.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7c3c7f6fe2",
-    "title_fa": "‏قیمت طلا به‌دلیل افزایش نرخ بهره و قیمت نفت افت کرد",
-    "title_en": "Gold slips as Warsh Fed hike bets, Oil rally lift US yields | FXStreet",
-    "summary": [
-      "‏قیمت طلا حدود 0.40 ٪ کاهش یافت و به 4,432 دلار رسید پس از اظهارات تندفکرانهٔ رئیس فدرال رزرو کیوین وارش.",
-      "‏این افت ناشی از افزایش قیمت نفت و سطوح بالاتر اوراق قرضهٔ ۱۰ ساله آمریکا است که فشار بر طلا را افزایش می‌دهد.",
-      "‏با این حال، طلا تا پایان ماه بیش از 9 ٪ رشد داشته و در محدودهٔ 4,470 تا 4,500 دلار باقی می‌ماند."
-    ],
-    "body_fa": "‏قیمت طلا در روز دوشنبه حدود 0.40 ٪ کاهش یافت و به 4,432 دلار رسید، پس از اظهارات تندفکرانهٔ رئیس فدرال رزرو کیوین وارش که احتمال افزایش نرخ بهره در جلسهٔ سپتامبر را زنده کرد. در همان زمان، قیمت نفت برنت و نفت سبک آمریکا به‌طور قابل‌توجهی بالا رفت و به 85.62 دلار برای هر بشکه رسید، که باعث افزایش انتظارات از تورم و فشار بر اوراق قرضهٔ ۱۰ ساله شد؛ این اوراق اکنون 4.706 ٪ هستند. دلار نیز کمی کاهش یافت و شاخص DXY به 99.42 رسید. بازارهای مالی پیش‌بینی می‌کنند احتمال افزایش نرخ بهره در سپتامبر 64 ٪ است، در حالی که داده‌های اقتصادی مهمی چون شاخص‌های PMI ، آمار اشتغال و حقوق و دستمزد در این هفته منتشر می‌شود. اگر طلا بتواند سطح 4,500 دلار را بازپس گیرد، می‌تواند مسیر صعودی خود را ادامه دهد؛ در غیر این صورت احتمال ادامهٔ حرکت افقی وجود دارد.",
-    "category": "انرژی و کالا",
-    "subcategory": "طلا و نفت",
-    "tag": "قیمت طلا",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/gold-slips-as-warsh-fed-hike-bets-oil-rally-lift-us-yields-202608311836",
-    "clean_url": "https://www.fxstreet.com/news/gold-slips-as-warsh-fed-hike-bets-oil-rally-lift-us-yields-202608311836",
-    "image": "https://s.yimg.com/bo/5ec7f67a-66c3-598f-9398-3aa1038a682f_1785125594228.jpg",
-    "timestamp": 1788201428.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "24addc3339",
-    "title_fa": "‏استودیوی بهترین بازی استار وارز، 80 ٪ کارکنان را فورلوغ کرد",
-    "title_en": "Studio Behind The Best-Reviewed Star Wars Game In 22 Years Furloughed Up To 80 Percent Of Its Staff",
-    "summary": [
-      "‏بازی Star Wars Zero Company با امتیاز بالا منتشر شد اما تا 80 ٪ کارکنان قبل از عرضه فورلوغ شدند",
-      "‏این اقدام می‌تواند توان استودیو برای رفع باگ‌ها و ادامه توسعه را تحت‌الشعاع قرار دهد",
-      "‏موضوع در دعوای حقوقی بین مؤسسان استودیو نیز مطرح شده است"
-    ],
-    "body_fa": "‏استودیوی Bit Reactor که بازی Star Wars Zero Company را تولید کرده بود، پس از دریافت بهترین امتیازهای نقدی در ۲۲ سال گذشته، تا 80 ٪ نیروی کار خود را فورلوغ کرد. این کار در هفته‌های پیش از عرضهٔ ۲۷ اوت انجام شد و تنها یک تیم اسکلت‌دار برای رفع مشکلات پس از انتشار باقی مانده است. نمایندهٔ استودیو این وضعیت را تأیید کرد اما تعداد دقیق افراد را فاش نکرد. این تصمیم پیش از دریافت نقدهای مثبت اتخاذ شد و باعث نگرانی دربارهٔ توانایی استودیو برای پشتیبانی از بازی شد. همزمان، دعوای حقوقی بین معاون اجرایی سابق و یکی از بنیان‌گذاران استودیو به دادگاه کشیده شده و تا سال ۲۰۲۷ به تعویق خواهد افتاد. عدم اطمینان دربارهٔ آیندهٔ Bit Reactor می‌تواند تصمیمات سرمایه‌گذاران EA ، به‌ویژه مالکان سعودی، برای ادامهٔ پروژه‌های Zero Company را تحت تأثیر قرار دهد.",
-    "category": "گیم",
-    "subcategory": "استخدام و اخراج",
-    "tag": "فورلوغ",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Kotaku",
-    "url": "https://kotaku.com/studio-behind-the-best-reviewed-star-wars-game-in-22-years-furloughed-up-to-80-percent-of-its-staff-2000730078",
-    "clean_url": "https://kotaku.com/studio-behind-the-best-reviewed-star-wars-game-in-22-years-furloughed-up-to-80-percent-of-its-staff-2000730078",
-    "image": "https://kotaku.com/app/uploads/2026/08/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080-1200x675.jpg",
-    "timestamp": 1788196140.0,
     "sent_to_telegram": true
   }
 ]
