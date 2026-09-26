@@ -1,5 +1,27 @@
 [
   {
+    "id": "e694ee7662",
+    "title_fa": "‏IMF بازدید گابن را تمام کرد؛ مذاکرات بدهی ادامه دارد",
+    "title_en": "IMF concludes visit to Gabon, says debt talks to continue",
+    "summary": [
+      "‏IMF پس از پایان بازدید از گابن، گفت مذاکرات بدهی کشور ادامه دارد.",
+      "‏این خبر نشان می‌دهد تعهد سازمان به حمایت مالی گابن و احتمال ادامه برنامه‌های اصلاحی.",
+      "‏مذاکرات شامل بازنگری شرایط بازپرداخت و دریافت وام‌های جدید است."
+    ],
+    "body_fa": "‏سازمان بین‌المللی پول (IMF) بازدید خود را از گابن به پایان رساند و اعلام کرد مذاکرات درباره بدهی این کشور ادامه دارد. این بازدید در پی نگرانی‌های بین‌المللی درباره توان بازپرداخت گابن و نیاز به اصلاحات ساختاری انجام شد. نمایندگان IMF گفتند که برنامه‌های حمایتی می‌تواند شامل بازنگری در شرایط بازپرداخت و امکان دریافت وام‌های جدید باشد. ادامه مذاکرات نشان‌دهنده تعهد سازمان به کمک به گابن برای تثبیت اقتصاد و جلوگیری از بحران بدهی است. اگر توافق حاصل شود، می‌تواند فشارهای مالی بر گابن را کاهش داده و اعتماد سرمایه‌گذاران را تقویت کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بدهی گابن",
+    "tag": "IMF",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/imf-concludes-visit-gabon-says-debt-talks-continue-2026-09-26/",
+    "clean_url": "https://www.reuters.com/world/africa/imf-concludes-visit-gabon-says-debt-talks-continue-2026-09-26",
+    "image": "https://s.yimg.com/bo/86810c7b-5846-5570-8b3b-c398c938b24b_1790259445472.jpg",
+    "timestamp": 1790446245.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "e20900a6fe",
     "title_fa": "‏هیترو اعلام کرد راه‌اندازی باند سوم تا 2039 تعویق می‌افتد",
     "title_en": "UK's Heathrow airport says planned third runway may be delayed until 2039",
@@ -19,6 +41,28 @@
     "clean_url": "https://www.reuters.com/world/uk/uks-heathrow-airport-says-planned-third-runway-may-be-delayed-until-2039-2026-09-26",
     "image": "https://s.yimg.com/bo/0fd9fa17-b024-5fa3-839a-26d4d6080132_1790441129035.jpg",
     "timestamp": 1790440394.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "84522a932f",
+    "title_fa": "‏تکساس استاک اکسچینج جذب شرکت‌های بزرگ شد",
+    "title_en": "Westwood Holdings CEO Brian Casey on Y'all Street and an ETF tracking the AI...",
+    "summary": [
+      "‏تکساس استاک اکسچینج (TXSE) شرکت‌های Energy Transfer ، Sunoco و Dillard’s را به خود جذب کرد و اولین ETF را راه‌اندازی کرد.",
+      "‏این حرکت نشان‌دهنده رقابت با نیویورک و دیلاور و تقویت نقش دالاس به‌عنوان مرکز مالی است.",
+      "‏Brian Casey به مزایای موقعیت جغرافیایی و قوانین تجاری ساده‌تر تگزاس اشاره کرد."
+    ],
+    "body_fa": "‏در سال‌های اخیر دالاس به‌عنوان قطب خدمات مالی در تگزاس تبدیل شده و شرکت‌های بزرگی چون Goldman Sachs و JPMorgan Chase دفاتر بزرگ خود را افتتاح کرده‌اند. این روند با افتتاح Texas Stock Exchange (TXSE) در تابستان جاری ادامه یافت؛ این بورس با حمایت سرمایه‌گذاران بزرگ جهانی از جمله BlackRock ، Citadel و Charles Schwab راه‌اندازی شده است. بر اساس گفته‌های Brian Casey ، مدیرعامل Westwood Holdings Group ، شرکت‌های Energy Transfer ، Sunoco و خرده‌فروش Dillard’s تصمیم گرفته‌اند فهرست خود را از NYSE به TXSE منتقل کنند. Westwood همچنین اولین ETF خود به نام Westwood Salient Enhanced Power & Infrastructure ETF را بر روی این بورس عرضه کرده است. Casey معتقد است موقعیت جغرافیایی مرکزی دالاس، فرودگاه پرتقاضا و قوانین تجاری ساده‌تر نسبت به دیلاور، عوامل کلیدی جذب این شرکت‌ها هستند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بورس و اوراق",
+    "tag": "TXSE",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/26/westwood-holdings-ceo-on-yall-street-etf-tracking-ai-power-ecosystem.html",
+    "clean_url": "https://www.cnbc.com/2026/09/26/westwood-holdings-ceo-on-yall-street-etf-tracking-ai-power-ecosystem.html",
+    "image": "https://s.yimg.com/bo/d61d5683-dc0c-53db-a600-7cd5ffd87b16_1790440099702.jpg",
+    "timestamp": 1790439045.0,
     "sent_to_telegram": true
   },
   {
@@ -66,6 +110,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2d21e7dd38",
+    "title_fa": "‏اتحادیه سعودی موشک‌ها و پهپادهای حوثی را رهگیری کرد",
+    "title_en": "Saudi coalition says it intercepts Houthi missiles, drones",
+    "summary": [
+      "‏اتحادیه سعودی اعلام کرد موشک‌ها و پهپادهای حوثی را در دریای خلیج فارس رهگیری کرد.",
+      "‏این اقدام امنیت مسیرهای نفتی را تقویت کرده و فشار بر حوثی‌ها را افزایش می‌دهد.",
+      "‏حمله‌ها به کشتی‌های تجاری خطرات برای بازار نفت و هزینه‌های حمل‌ونقل را بالا برده‌اند."
+    ],
+    "body_fa": "‏اتحادیهٔ سعودی، شامل عربستان و متحدانش، موشک‌ها و پهپادهای پرتاب‌شده توسط حوثی‌های یمن را در مسیرهای اصلی حمل‌ونقل نفتی خلیج فارس رهگیری کرد. این رهگیری‌ها با استفاده از سامانه‌های دفاع هوایی پیشرفته انجام شد و مانع از رسیدن سلاح‌ها به کشتی‌های تجاری شد. حملات حوثی‌ها در ماه‌های اخیر فشار بر امنیت دریایی را افزایش داده و باعث نوسان قیمت نفت جهانی شده است. اقدام اخیر می‌تواند اطمینان شرکت‌های حمل‌ونقل را بازگرداند و هزینه‌های بیمه‌نامه‌های دریایی را کاهش دهد. در عین حال، این رویداد نشانگر تشدید تنش‌های ژئوپلیتیک در منطقه و نقش حمایت ایران از حوثی‌هاست.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "جنگ یمن",
+    "tag": "حمله",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/saudi-says-it-intercepted-2-drones-launched-by-houthis-towards-riyadh-2026-09-26/",
+    "clean_url": "https://www.reuters.com/world/middle-east/saudi-says-it-intercepted-2-drones-launched-by-houthis-towards-riyadh-2026-09-26",
+    "image": "https://ajo.prod.reuters.tv/api/v2/img/6ab68321e4b0f50f5c3a3a30?height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1790422620.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bc8eee64d0",
+    "title_fa": "‏مجارستان ممکن است مالیات ثروت ثروتمندان را افزایش دهد",
+    "title_en": "Hungary May Ask Ultra-Rich to Pay More Under Wealth Tax Plan",
+    "summary": [
+      "‏مجارستان قصد دارد مالیات ثروت برای افراد فوق‌العاده ثروتمند را افزایش دهد.",
+      "‏این اقدام می‌تواند جذب سرمایه خارجی را تحت تأثیر قرار داده و درآمدهای دولت را تقویت کند.",
+      "‏طرح هنوز در مرحله بررسی است و جزئیات نرخ جدید مشخص نیست."
+    ],
+    "body_fa": "‏دولت مجارستان در پی فشارهای مالی و نیاز به افزایش درآمدهای عمومی، برنامه‌ای برای افزایش مالیات ثروت افراد فوق‌العاده ثروتمند مطرح کرده است. این طرح می‌تواند بهبود بودجه دولت را فراهم کند، اما ممکن است سرمایه‌گذاران خارجی را نسبت به سرمایه‌گذاری در این کشور محتاط‌تر سازد. مقامات مالی کشور اعلام کردند که جزئیات دقیق نرخ جدید هنوز نهایی نشده و در آینده نزدیک به مجلس ارائه خواهد شد. پیش از این، مجارستان با نقدهای اتحادیه اروپا درباره سیاست‌های مالیاتی خود مواجه بوده و این تغییر ممکن است واکنش‌های بین‌المللی جدیدی را به دنبال داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "مالیات و مالیه",
+    "tag": "مالیات ثروت",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-26/hungary-may-ask-ultra-rich-to-pay-more-under-wealth-tax-plan",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-09-26/hungary-may-ask-ultra-rich-to-pay-more-under-wealth-tax-plan",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790419500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d1bcec65a9",
+    "title_fa": "‏دیپلمات‌های روسیه و آلمان سال‌ها در ملل دیدار کردند",
+    "title_en": "At UN, Russia and Germany's top diplomats hold first talks since 2022",
+    "summary": [
+      "‏دیپلمات ارشد روسیه و آلمان برای اولین بار از سال 2022 در سازمان ملل به گفتگو نشستند.",
+      "‏این ملاقات می‌تواند مسیر مذاکرات انرژی و تحریم‌ها را تحت تأثیر قرار دهد و تنش‌های اروپایی‑روسی را کاهش دهد.",
+      "‏همزمان، روسیه خواستار رفع تحریم‌های نفتی و آلمان به دنبال تضمین امنیت انرژی است."
+    ],
+    "body_fa": "‏در جلسه‌ای که در مقر سازمان ملل برگزار شد، دیپلمات‌های ارشد روسیه و آلمان پس از دو سال عدم تعامل، برای اولین بار از سال 2022 به گفتگو پرداختند. این دیدار در زمینه‌های انرژی، تحریم‌ها و امنیت منطقه‌ای برگزار شد و نشانگر تمایل آلمان به بازنگری در سیاست‌های تحریمی علیه مسکو است. روسیه نیز بر رفع تحریم‌های نفتی و گاز خود تأکید کرد و خواستار همکاری‌های اقتصادی گسترده‌تر شد. کارشناسان بر این باورند که این مذاکرات می‌تواند به کاهش تنش‌های اروپایی‑روسی و ایجاد فضای گفتگو برای مسائل انرژی کمک کند. اگرچه هنوز نتایج ملموسی اعلام نشده، اما این گام می‌تواند مسیر مذاکرات آینده را تحت تأثیر قرار دهد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "روابط روسیه-آلمان",
+    "tag": "مذاکرات",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/un-russia-germanys-top-diplomats-hold-first-talks-since-2022-2026-09-26/",
+    "clean_url": "https://www.reuters.com/world/europe/un-russia-germanys-top-diplomats-hold-first-talks-since-2022-2026-09-26",
+    "image": "https://www.reuters.com/resizer/v2/4HSAXHYSAVMU7EB4WS5DVS5EZY.jpg?auth=f274097de804aeb105a974fe7cd22339809af230a91a3a44a7cca80113fd3681&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1790417940.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "56ce2e5877",
     "title_fa": "‏چین در مجمع ملل، آمریکا را به تحریم ایران سرزنش کرد",
     "title_en": "China pushes back against US on Iran and Cuba in UN speech",
@@ -110,6 +220,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0b9cbc256b",
+    "title_fa": "‏جریان ورودی بیت‌کوین ETF ها به ۲.۴ میلیارد دلار رسید",
+    "title_en": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+    "summary": [
+      "‏ETF های اسپات بیت‌کوین در آمریکا هفته گذشته ۲.۴ میلیارد دلار ورودی خالص ثبت کردند",
+      "‏این بزرگ‌ترین جریان هفتگی از اکتبر ۲۰۲۵ است و باعث شد جریان سالانه مثبت شود",
+      "‏در همین زمان، ETF های اتریوم ۶۸۹.۹ میلیون دلار ورودی داشتند"
+    ],
+    "body_fa": "‏طبق تحلیل The Block ، ETF های اسپات بیت‌کوین در ایالات متحده در هفته منتهی به ۲۵ سپتامبر ۲.۴ میلیارد دلار ورودی خالص دریافت کردند که بزرگ‌ترین افزایش هفتگی از اکتبر ۲۰۲۵ به شمار می‌رود. این ورودی‌ها باعث شد جریان خالص سالانه این صندوق‌ها پس از کاهش حدود ۵.۸ میلیارد دلاری در میانه ژوئیه، دوباره به سمت مثبت برگردد. در همان دوره، ETF های اسپات اتریوم ۶۸۹.۹ میلیون دلار ورودی خالص ثبت کردند و پس از خروج ۱۴۰ میلیون دلاری هفته قبل، مسیر مثبت را ادامه دادند. علاوه بر این، صندوق‌های سولانا در جمعه یک ورودی روزانه رکوردی برابر ۸۶.۷ میلیون دلار ثبت کردند. بیشترین ورودی بیت‌کوین در روز دوشنبه بود که ۹۹۹ میلیون دلار جذب کرد، بزرگ‌ترین روزانه از اکتبر ۲۰۲۵. این روند نشان‌دهنده بازگشت اعتماد سرمایه‌گذاران به محصولات ETF های رمزارز است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "جریان نقدی بیت‌کوین",
+    "tag": "BitcoinETF",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+    "clean_url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
+    "timestamp": 1790410620.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "e7478aeee7",
     "title_fa": "‏TikTok با آلاباما توافق کرد؛ محدودیت نوجوانان اجرا می‌شود",
     "title_en": "TikTok reaches first state settlement over teen safety claims, agrees to user...",
@@ -151,6 +283,28 @@
     "clean_url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bfacc43729daed7fb15a2d284673bb17f22de40-1920x1080.jpg?auto=format&q=75",
     "timestamp": 1790402460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b92c146d0a",
+    "title_fa": "‏هکر Bitget حدود 83 میلیون دلار XRP را منتقل کرد",
+    "title_en": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+    "summary": [
+      "‏هکر Bitget حدود 83 میلیون دلار XRP سرقت‌شده را از سه کیف‌پول منتقل کرد.",
+      "‏چون Ripple نمی‌تواند XRP را مسدود کند، امکان بازیابی محدود است و بازار نگران است.",
+      "‏دو کیف‌پول دیگر تقریباً خالی شده و حدود 75 میلیون دلار XRP در حساب‌های غیرقابل فریز باقی مانده است."
+    ],
+    "body_fa": "‏هکر صرافی Bitget پس از نفوذ به ارزش 388 میلیون دلار، حدود 83 میلیون دلار XRP را از سه کیف‌پول اصلی برداشت کرد. در مجموع 103 میلیون XRP از Bitget سرقت شد و به پنج حساب تقسیم شد که دو حساب اولیه به‌سرعت خالی شدند. حدود 75 میلیون دلار XRP در حساب‌هایی باقی مانده که تحت قوانین دفتر کل XRP قابل فریز نیستند؛ بنابراین Ripple نمی‌تواند تراکنش‌ها را مسدود کند. صرافی‌ها می‌توانند حساب‌های دریافت‌کننده را محدود کنند، اما نمی‌توانند سکه‌ها را در کیف‌پول هکر مسدود کنند. شرکت‌های Circle و Tether حدود 320 هزار دلار توکن‌های استیبل‌کوین مرتبط را فریز کرده‌اند. Bitget اعلام کرد صندوق حفاظت‌اش خسارات را جبران می‌کند و برداشت‌ها از 28 سپتامبر تا 2 اکتبر به‌صورت مرحله‌ای از سر گرفته می‌شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "هک رمزارز",
+    "tag": "Bitget",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+    "clean_url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2334c8f6eda3e4f6be934696bc4538b3f1603be7-1336x746.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "timestamp": 1790402160.0,
     "sent_to_telegram": true
   },
   {
@@ -217,6 +371,28 @@
     "clean_url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
     "image": "https://s.yimg.com/bo/189f3264-dd0f-5627-af8f-cab59e021256_1790401173547.jpg",
     "timestamp": 1790398375.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9293f72c0a",
+    "title_fa": "‏زنجیره‌های سوپرمارکتی تخفیف‌های بزرگ برای مقابله با تورم ارائه دادند",
+    "title_en": "Inflation is kicking off a discount arms race between grocery stores",
+    "summary": [
+      "‏زنجیره‌های Aldi و Kroger و Costco تخفیف‌های میلیارد دلاری روی مواد غذایی عرضه کردند.",
+      "‏این اقدام‌ها در واکنش به فشارهای تورمی ناشی از هزینه‌های انرژی و حمل‌ونقل است.",
+      "‏Instacart نیز با تعهد «بدون اضافه‌قیمت» تحویل آنلاین، قیمت‌های فروشگاه را ثابت نگه داشته است."
+    ],
+    "body_fa": "‏تورم دوباره به‌سر می‌گیرد و هزینه‌های انرژی و حمل‌ونقل را که به‌دلیل منازعه ایران و سایر عوامل بالا برده، به‌سرانه خانوارها فشار می‌آورد. در واکنش، زنجیره تخفیفی Aldi اعلام کرد حدود 86 میلیون دلار تخفیف بر روی محصولات تازه تا ۳ نوامبر ارائه می‌دهد و یک‌سوم محصولاتش را نسبت به سال گذشته ارزان‌تر کرده است. Kroger نیز به‌دلیل اختلاف بر سر قیمت‌های بالا، برخی محصولات Boar’s Head و Red Bull را از فروشگاه‌های خود حذف کرد تا فشار بر تأمین‌کنندگان را افزایش دهد. Instacart گفت زنجیره‌های Bashas ، Fareway ، Grocery Outlet ، Raley’s و Super King Markets به تعهد «بدون اضافه‌قیمت» پیوسته‌اند و مشتریان آنلاین همان قیمت‌های فروشگاه را دریافت می‌کنند. Costco در گزارش مالی اخیر خود به‌روزرسانی‌های قیمتی مانند تخفیف گردو، قهوه و فلفل سیاه اشاره کرد و تأکید کرد که با تأمین‌کنندگان برای کنترل هزینه‌ها همکاری می‌کند. این روند تخفیف‌ها مشابه اقدام‌های Walmart در تابستان گذشته است که بیش از ۱۱ هزار تخفیف در سال جاری اعمال کرده تا مشتریان را در دوره نیمه دوم سال حفظ کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قیمت‌گذاری مواد غذایی",
+    "tag": "تخفیف",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/grocery-sellers-tout-savings-to-attract-cash-strapped-shoppers-2026-9",
+    "clean_url": "https://www.businessinsider.com/grocery-sellers-tout-savings-to-attract-cash-strapped-shoppers-2026-9",
+    "image": "https://i.insider.com/6ab6a952eb7225411267abc3?width=1200&format=jpeg",
+    "timestamp": 1790394900.0,
     "sent_to_telegram": true
   },
   {
@@ -6419,182 +6595,6 @@
     "clean_url": "https://www.msn.com/en-us/money/economy/oil-prices-push-global-bond-market-closer-to-the-edge/ar-AA2bmBsT",
     "image": "https://www.bing.com/th?id=ONUT.APOVr33idXfxuHm97qgeGA",
     "timestamp": 1788283459.977792,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b4b21163ec",
-    "title_fa": "‏سود اوراق قرضه جهانی بالا رفت؛ بازارها کاهش یافت",
-    "title_en": "Bond yields rise as oil prices fan inflation fears; stocks slip",
-    "summary": [
-      "‏بازده اوراق دولتی جهانی افزایش یافت؛ ۱۰‑ساله ژاپن به ۳٪ رسید",
-      "‏این افزایش نشان‌دهنده نگرانی از تورم و احتمال افزایش نرخ بهره توسط بانک‌های مرکزی است",
-      "‏قیمت نفت هم بالای ۲٪ شد و فشار بر سهام‌ها را افزاش داد"
-    ],
-    "body_fa": "‏بازده اوراق قرضه دولتی در سطح جهانی دوباره افزایش یافت؛ ۱۰‑ساله ژاپن برای اولین بار از سال ۱۹۹۶ به ۳٪ رسید و اوراق بریتانیا و ناحیه یورو نیز به بالاترین سطوح بیش از ده ساله نزدیک شدند. این حرکت ناشی از جهش بیش از ۲٪ در قیمت نفت است که پس از تجدید درگیری‌های ایالات متحده و ایران و ترس از اختلالات تأمین در خاورمیانه رخ داد. افزایش قیمت نفت باعث بالا رفتن انتظارات تورمی شد و داده‌های اخیر نشان داد که تورم ناحیه یورو دوباره بالای ۳٪ است. در پی این، معامله‌گران احتمال افزایش نرخ بهره در سپتامبر توسط فدرال رزرو و بانک مرکزی اروپا را افزایش دادند. بازار سهام نیز واکنش منفی نشان داد؛ شاخص‌های داو جونز، اس اند پی ۵۰۰ و نزدک هر کدام حدود نیم درصد کاهش یافتند. وزیرفرصت خزانه‌داری آمریکا نیز احتمال اعمال تحریم‌های بانکی علیه ایران را اعلام کرد که می‌تواند فشار اقتصادی بیشتری بر خاورمیانه ایجاد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار اوراق قرضه",
-    "tag": "نرخ بهره",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Reuters · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/articles/bond-selloff-pressures-stocks-oil-014547216.html",
-    "clean_url": "https://finance.yahoo.com/markets/articles/bond-selloff-pressures-stocks-oil-014547216.html",
-    "image": "https://media.zenfs.com/en/reuters.com/2de9db3e6fbfb394da64ad5ebf91243a.jpg",
-    "timestamp": 1788280380.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "02767ea4da",
-    "title_fa": "‏چین به تحریم‌های آمریکا علیه ایران پایبند نخواهد شد",
-    "title_en": "Why China will not comply with US sanctions on Iran",
-    "summary": [
-      "‏چین اعلام کرد به تحریم‌های جدید آمریکا علیه ایران عمل نخواهد کرد.",
-      "‏این نشان می‌دهد فشار واشنگتن بر ایران با چالش‌های جدی مواجه است و می‌تواند بازار نفت و مالی را تحت تأثیر قرار دهد.",
-      "‏چین با خرید ۹۰٪ نفت ایران و استفاده از شبکه‌های مخفی، اقتصاد ایرانی را حمایت می‌کند."
-    ],
-    "body_fa": "‏در اجلاس سالانه سازمان همکاری شانگهای در بیشکک، رهبران چین، روسیه و هند به همراه رئیس‌جمهور ایران حضور داشتند و بیانیه‌ای برای ایجاد بانک توسعه جدید صادر کردند. این بانک باید از سیستم‌های مالی کشورهایی که ابزارهای اقتصادی را برای برتری یک‌جانبه به کار می‌برند، مستقل باشد. یک هفته پیش ایالات متحده بسته جدیدی از تحریم‌ها علیه ایران اعمال کرد که در بیشکک با استقبال گرم مواجه شد. چین با خرید ۹۰٪ صادرات نفت ایران و استفاده از ناوگان‌های تاریک و پالایشگاه‌های کوچک، اقتصاد ایران را حفظ کرده و از تحریم‌های ثانویه آمریکا دور می‌زند. بانک‌ها و شرکت‌های چینی معاملات را به رنمینبی یا بارتر انجام می‌دهند که آن‌ها را از حوزه قضایی آمریکا مصون می‌سازد. این رویکرد نشان می‌دهد که تهدیدهای واشنگتن در قبال چین بی‌نتیجه است و فشار اقتصادی آمریکا بر ایران را تضعیف می‌کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های بین‌المللی",
-    "tag": "چین-ایران",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-04T053738Z_188766805_RC2T7KASRMG4_RTRMADP_3_OIL-ASIA-COLUMN-RUSSELL-1788263766.jpg?resize=1920%2C1440",
-    "timestamp": 1788269747.8320405,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "78251291f9",
-    "title_fa": "‏سکو در بیسکهک حملات و تحریم‌ها ایران را محکوم کرد",
-    "title_en": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
-    "summary": [
-      "‏رهبران سکو در بیسکهک، بیانیه‌ای صادر کردند که حملات آمریکا‑اسرائیل و تحریم‌های غربی علیه ایران را محکوم می‌کند.",
-      "‏این موضع‌گیری نشان‌دهنده اتحاد چین، روسیه، هند و پاکستان در حمایت از حاکمیت ایران و مخالفت با فشارهای یک‌جانبه است.",
-      "‏بیانیه همچنین به حق ایران در پیمان عدم گسترش سلاح‌های هسته‌ای (NPT) اشاره کرد."
-    ],
-    "body_fa": "‏رهبران سازمان همکاری شانگهای در بیسکهک، که دو روز به طول انجامید، بیانیه‌ای مشترک صادر کردند. در این بیانیه، حملات نظامی ایالات متحده و اسرائیل به خاک ایران و خساراتی که به اقتصاد و مردم این کشور وارد کرده‌اند، به‌صراحت محکوم شد. اعضای سکو همچنین تأکید کردند که این اقدامات نقض اصول حقوق بین‌الملل و منشور سازمان ملل است و خطر جدی برای صلح و امنیت جهانی ایجاد می‌کند. چین، روسیه، هند و پاکستان ضمن ابراز همدردی با ایران، حمایت خود را از حاکمیت و تمامیت ارضی این کشور اعلام کردند و خواستار حل مسالمت‌آمیز منازعات شدند. بیانیه همچنین به مخالفت سکو با هرگونه تحریم‌های یک‌جانبه که با قوانین سازمان ملل و WTO در تضاد باشد، اشاره کرد و هشدار داد که این تحریم‌ها می‌توانند اثر منفی بر اقتصاد جهانی داشته باشند. در کنار این موضع‌گیری، سکو حق ایران را به عنوان عضو پیمان عدم گسترش سلاح‌های هسته‌ای (NPT) برای استفاده صلح‌آمیز از انرژی هسته‌ای تأیید کرد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "سازمان‌های بین‌المللی",
-    "tag": "سکو",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Al Jazeera · via Yahoo News",
-    "url": "https://www.yahoo.com/news/world/articles/sco-slams-attacks-sanctions-iran-133233378.html",
-    "clean_url": "https://www.yahoo.com/news/world/articles/sco-slams-attacks-sanctions-iran-133233378.html",
-    "image": "https://media.zenfs.com/en/al_jazeera_289/263666636ed0d94ae54a49129fdf0330.jpg",
-    "timestamp": 1788268921.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "290e0d8002",
-    "title_fa": "‏هک‌های کریپتو در اوت 136 میلیون دلار هزینه کردند",
-    "title_en": "50 major hacks cost crypto investors $136M in August",
-    "summary": [
-      "‏در اوت 50 هک بزرگ کریپتو ثبت شد که 136 میلیون دلار خسارت زد",
-      "‏این تعداد نسبت به ژوئیه ۶۷٪ افزایش یافت و نگرانی‌ها درباره امنیت دارایی‌های دیجیتال را تقویت کرد",
-      "‏هکرها عمدتاً توکن‌های DeFi و کیف پول‌های غیرمتمرکز را هدف گرفتند"
-    ],
-    "body_fa": "‏در ماه اوت سال جاری، ۵۰ هک مهم در حوزهٔ رمزارزها ثبت شد که مجموع خسارت آن‌ها حدود ۱۳۶ میلیون دلار برآورد می‌شود. این رقم نسبت به ماه ژوئیه ۶۷ درصد رشد داشته و نشان‌دهندهٔ افزایش خطرات امنیتی در فضای دیجیتال است. اکثر حملات به توکن‌های مالی غیرمتمرکز (DeFi) و کیف‌پول‌های غیرمتمرکز متمرکز بودند. کارشناسان هشدار دادند که این روند می‌تواند اعتماد سرمایه‌گذاران را تحت فشار قرار داده و فشار بیشتری بر نهادهای نظارتی برای تقویت چارچوب‌های امنیتی ایجاد کند. شرکت‌های امنیتی نیز به‌سرعت در حال به‌روزرسانی ابزارهای دفاعی خود هستند تا از تکرار چنین خساراتی جلوگیری کنند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "هک‌های کریپتو",
-    "tag": "هک",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "TheStreet on MSN",
-    "url": "https://www.msn.com/en-us/news/other/50-major-hacks-cost-crypto-investors-136m-in-august/ar-AA2bmA4I",
-    "clean_url": "https://www.msn.com/en-us/news/other/50-major-hacks-cost-crypto-investors-136m-in-august/ar-AA2bmA4I",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1788259500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1c5ec2e0e1",
-    "title_fa": "‏تعرفه ۵۰٪ آمریکا بر کالاهای کانادا به جنگ تجاری نمی‌انجامد",
-    "title_en": "Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish",
-    "summary": [
-      "‏آمریکا ۵۰٪ تعرفه بر حدود ۲۰ میلیارد دلار کالاهای کانادایی اعمال کرد.",
-      "‏این فقط ۵٪ از کل تجارت دو کشور است و هنوز به جنگ تجاری تبدیل نشده.",
-      "‏اگر در ژانویه تعرفه‌ها به خودروها گسترش یابد، فشار بر بیش از ۱۰۰ میلیارد دلار تجارت ممکن است."
-    ],
-    "body_fa": "‏در ۲۲ اوت، ایالات متحده تحت بخش ۳۳۸ قانون تجاری تعرفه ۵۰٪ را بر حدود ۲۰ میلیارد دلار کالاهای کانادایی، معادل ۵٪ کل صادرات کانادا به آمریکا، اعمال کرد. واکنش کانادا در ۸ سپتامبر شامل تعرفه‌های متغیر بر تقریباً ۲۰ میلیارد دلار صادرات آمریکایی به کانادا، یعنی حدود ۶٪ خریدهای کانادا، شد. اگرچه این مقادیر نسبت به حجم سالانه ۹۰۰ میلیارد دلار مبادلات مرزی کوچک‌اند و ۹۵٪ تراکنش‌ها همچنان عادی ادامه دارد. نگرانی‌ها زمانی جدی می‌شود که در ژانویه تعرفه ۵۰٪ بر خودروها، کامیون‌ها و قطعات خودرویی اعمال شود که می‌تواند فشار بر بیش از ۱۰۰ میلیارد دلار تجارت دو کشور ایجاد کند. این تحولات با وجود توافق‌نامه USMCA که قبلاً برای کالاهای مطابق با آن معافیت‌های ویژه داشت، به دلیل عدم رعایت استثناها باعث نگرانی شرکت‌ها شده است. اقتصاددانان فدرال رزرو تخمین می‌زنند که این عدم انطباق می‌تواند هزینه‌های سالانه تولیدی بین ۳۹ تا ۷۱ میلیارد دلار ایجاد کند. بنابراین، اگرچه در حال حاضر وضعیت به یک جنگ تجاری تبدیل نشده، افزایش تعرفه‌ها می‌تواند ریسک‌های قابل توجهی برای زنجیره‌های تأمین شمال‌امریکایی به همراه داشته باشد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تجارت دو جانبه",
-    "tag": "تعرفه",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Fox News",
-    "url": "https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish",
-    "clean_url": "https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish",
-    "image": "https://www.bing.com/th?id=ONUT.iNT4f7jGkz-cDtaGo_L2Ew",
-    "timestamp": 1788255214.8384423,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c1688f2500",
-    "title_fa": "‏بازده اوراق قرضه دولتی به بالاترین سطح دو دهه رسید",
-    "title_en": "Government bonds under pressure: what's happening to bonds and why. The US and Japan are under special surveillance, but France and Germany are also under scrutiny.",
-    "summary": [
-      "‏بازده اوراق دولتی ۱۰ ساله آمریکا به ۴,۷۷٪ و آلمان به ۳,۳۵٪ رسید",
-      "‏این افزایش ناشی از رشد قیمت نفت، نگرانی‌های تورمی و فشار مالی بر کشورهای بزرگ است",
-      "‏شرکت‌های فناوری برای تأمین مالی هوش مصنوعی به انتشار اوراق بیشتری روی آورده‌اند"
-    ],
-    "body_fa": "‏بازده اوراق دولتی ۱۰ ساله در بازارهای جهانی به بالاترین سطوح دو دهه رسیده؛ در آمریکا به ۴,۷۷٪ و در آلمان به ۳,۳۵٪ ارتقا یافت. این حرکت پس از افزایش قیمت نفت بر بالای ۹۱ دلار بر اثر نگرانی‌های تورمی آغاز شد و انتظار می‌رود بانک‌های مرکزی در هفته‌های آینده برای مقابله با تورم نرخ بهره را افزایش دهند. علاوه بر این، نگرانی‌های سرمایه‌گذاران درباره پایداری مالی ایالات متحده، ژاپن، فرانسه و آلمان فشار بیشتری بر بازار اوراق وارد کرده است. شرکت‌های بزرگ فناوری که برای گسترش هوش مصنوعی به سرمایه‌گذاری عظیم نیاز دارند، نیز با انتشار اوراق جدید به این فشار افزوده‌اند. این تحولات می‌تواند بر هزینه‌های استقراض دولتی و جریان سرمایه در بازارهای جهانی تأثیر قابل‌توجهی داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "اوراق قرضه دولتی",
-    "tag": "بازده اوراق",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "FIRSTonline",
-    "url": "https://www.firstonline.info/en/Government-bonds-under-pressure:-what's-happening-to-bonds-and-why-the-US-and-Japan-are-under-special-surveillance--but-France-and-Germany-are-also-under-scrutiny./",
-    "clean_url": "https://www.firstonline.info/en/Government-bonds-under-pressure:-what's-happening-to-bonds-and-why-the-US-and-Japan-are-under-special-surveillance--but-France-and-Germany-are-also-under-scrutiny.",
-    "image": "https://www.firstonline.info/wp-content/uploads/2019/12/bond.jpg",
-    "timestamp": 1788247020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "04daf947ec",
-    "title_fa": "‏هش‌دکس توکن HYPE را به ETF کریپتو ناسداک افزود",
-    "title_en": "Hashdex adds Hyperliquid’s HYPE to Nasdaq crypto index ETF",
-    "summary": [
-      "‏هش‌دکس توکن HYPE را به ETF ایندکس کریپتو ناسداک افزود",
-      "‏این افزودن نشان‌دهنده گسترش سبد به نه دارایی و جذب پلتفرم بزرگ غیرمتمرکز است",
-      "‏HYPE سال جاری ۲۳۰٪ رشد کرده و قیمتش حدود ۸۳ دلار است"
-    ],
-    "body_fa": "‏هش‌دکس در خبر رسمی خود اعلام کرد که توکن HYPE متعلق به پلتفرم غیرمتمرکز Hyperliquid به‌موقع روز سه‌شنبه به صندوق ETF ایندکس کریپتو ناسداک (NCIQ) اضافه شد. این افزودن سبد صندوق را به نه دارایی گسترش داد؛ دارایی‌های دیگر شامل بیت‌کوین، اتریوم، سولانا، XRP ، استلار، کاردانو، چین‌لینک و بیت‌کوین کش هستند. برای ورود به ایندکس، HYPE باید معیارهای سرمایه بازار، نقدینگی، امکان نگهداری امن و استانداردهای نظارتی را برآورده می‌کرد. سامیر کرابِج، مدیر ارشد سرمایه‌گذاری هش‌دکس، گفت این گام نشان می‌دهد صندوق می‌تواند به‌سرعت با رشد اکوسیستم‌های نوظهور همگام شود و به سرمایه‌گذاران دسترسی سیستماتیک به آن‌ها بدهد. توکن HYPE در سال جاری حدود ۲۳۰٪ رشد کرده و قیمت آن به حدود ۸۳ دلار رسیده است. همزمان، Hyperliquid در مذاکراتی با Payward (شرکت مادر Kraken) برای ارائه فیوچرز دائمی تحت نظارت CFTC به‌صورت بیتی‌نومیل در ایالات متحده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ETF ایندکس",
-    "tag": "HYPE",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/hashdex-adds-hyperliquids-hype-to-nasdaq-crypto-index-etf/",
-    "clean_url": "https://cryptobriefing.com/hashdex-adds-hyperliquids-hype-to-nasdaq-crypto-index-etf",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01093655/Hashdex-adds-HYPE-800x419.jpg",
-    "timestamp": 1788244620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6c682e7f2b",
-    "title_fa": "‏چهار کشور این هفته قوانین جدید کریپتو را اجرا کردند",
-    "title_en": "4 Major Countries Start Their Crypto Regulations This Week",
-    "summary": [
-      "‏چهار کشور روسیه، ویتنام، پاکستان و سنگاپور این هفته قوانین جدید برای رمزارزها را اعلام کردند.",
-      "‏این مقررات می‌توانند بازارهای محلی را شکل دهند و دسترسی سرمایه‌گذاران به رمزارزها را محدود یا گسترش دهند.",
-      "‏در روسیه سرمایه‌گذاران حداکثر ۳۰۰٬۰۰۰ روبل در سال می‌توانند خرید کنند."
-    ],
-    "body_fa": "‏در اولین هفته سپتامبر، چهار دولت روسیه، ویتنام، پاکستان و سنگاپور اقدام به معرفی یا پیش‌نویس قوانین جدید رمزارزها کردند. روسیه با قانون فدرال ۲۸۲‑FZ ، رمزارزها را به عنوان دارایی قانونی شناخته و به کارگزاری‌ها اجازه تجارت را می‌دهد، اما خرید حداکثری سالانه برای افراد عادی ۳۰۰٬۰۰۰ روبل (حدود ۳٫۵ هزار دلار) و استفاده در فروشگاه‌ها ممنوع است. ویتنام با اعلام حکم ۲۸۴، هزینه جریمه ۲۰۰ میلیون دینار محلی برای فعالیت بدون مجوز را تعیین کرد و برای دریافت مجوز سرمایه اولیه نزدیک به ۳۹۰ میلیون دلار و حداکثر ۴۹٪ مالکیت خارجی لازم است؛ تنها پنج صرافی می‌توانند مجوز بگیرند. پاکستان مهلت شش ماهه‌ای که از مارس به شرکت‌های فعال داده شد، تا شنبه پایان می‌یابد و شرکت‌ها باید برای ادامه فعالیت مجوز دریافت کنند؛ بانک مرکزی در آوریل حساب‌های بانکی برای شرکت‌های مجاز را باز کرد. سنگاپور نیز مشاوره‌ای برای مجوز استیبل‌کوین با ذخایر کامل و امکان بازپرداخت به ارزش اسمی منتشر کرده و مهلت ارسال نظرات تا ۱۶ اکتبر است. این مجموعه قوانین می‌تواند مسیر رشد یا محدودیت رمزارزها را در این بازارهای مهم تعیین کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین و مقررات",
-    "tag": "قوانین",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/crypto/articles/4-major-countries-start-crypto-131307354.html",
-    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/4-major-countries-start-crypto-131307354.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/db287deb54931046b558272c5e681e8f29d21dcbf441bc66ece9614d73b8d93f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F3b946a318c0bfad41999ed25b51b2835.png",
-    "timestamp": 1788243180.0,
     "sent_to_telegram": true
   }
 ]
