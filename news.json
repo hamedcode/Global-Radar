@@ -1,5 +1,27 @@
 [
   {
+    "id": "17fcc222fe",
+    "title_fa": "‏نتانیه‌لو به ابوظبی رفت و شیخ محمد را ملاقات کرد",
+    "title_en": "Israel's Netanyahu visited Abu Dhabi on Sunday, Israeli official says",
+    "summary": [
+      "‏نتانیه‌لو روز یکشنبه به ابوظبی سفر کرد و با رئیس‌جمهور امارات دیدار کرد",
+      "‏دیدار نشانگر تقویت روابط اسرائیل‑امارات پس از توافق‌های عابرین ابراهیم است",
+      "‏مذاکرات شامل همکاری‌های اقتصادی و امنیتی در منطقه بود"
+    ],
+    "body_fa": "‏نخستین سفر رسمی نخست‌وزیر اسرائیل بنجامین نتانیه‌لو به امارات در تاریخ اخیر، روز یکشنبه در ابوظبی برگزار شد. او در این دیدار با شیخ محمد بن زاید آل نهیان، رئیس‌جمهور امارات، به بررسی مسیرهای گسترش همکاری‌های تجاری، انرژی و امنیتی پرداخت. این ملاقات پس از امضای توافق‌نامه‌های عابرین ابراهیم، نشان‌دهنده تمایل دو کشور به تعمیق روابط است و می‌تواند فرصت‌های سرمایه‌گذاری جدیدی برای شرکت‌های اسرائیلی و اماراتی ایجاد کند. تحلیل‌گران بر این باورند که این گام می‌تواند تعادل قدرت در خاورمیانه را تحت تأثیر قرار داده و نگرانی‌های ایران نسبت به هم‌پیمانی‌های منطقه‌ای را افزایش دهد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "روابط خاورمیانه",
+    "tag": "نتانیه‌لو",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israels-netanyahu-visited-abu-dhabi-sunday-israeli-official-says-2026-09-27/",
+    "clean_url": "https://www.reuters.com/world/middle-east/israels-netanyahu-visited-abu-dhabi-sunday-israeli-official-says-2026-09-27",
+    "image": "https://s.yimg.com/bo/cb281603-2504-5ed1-8c77-1ec77cd0252b_1790540234928.jpg",
+    "timestamp": 1790539241.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "76c11fb7f5",
     "title_fa": "‏بانک‌های خارجی به ادغام با UBS علاقه نشان دادند",
     "title_en": "Foreign banks have expressed UBS merger interest, Swiss newspaper reports",
@@ -88,6 +110,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "69ea99d9e9",
+    "title_fa": "‏کره‌جنوبی از اوکراین برای افشای اسیران شمالی عذرخواهی می‌طلبد",
+    "title_en": "South Korea demands apology from Ukraine over North Korean POW disclosure",
+    "summary": [
+      "‏کره‌جنوبی درخواست توضیح و عذرخواهی رسمی از اوکراین کرد پس از افشای انتقال اسیران جنگی شمالی کره به این کشور.",
+      "‏این مسأله می‌تواند تنش‌های دیپلماتیک میان سه کشور را تشدید کند و روابط نظامی‑امنیتی را تحت‌اثر قرار دهد.",
+      "‏اوکراین ادعا کرد اسیران به کره‌جنوبی منتقل شده‌اند، اما کره‌جنوبی این افشا را یک اقدام یک‌طرفه می‌داند."
+    ],
+    "body_fa": "‏دفتر ریاست‌جمهوری کره‌جنوبی روز دوشنبه از اوکراین خواست تا توضیح رسمی و عذرخواهی ارائه دهد؛ چرا که کیف‌اوکراین به‌طور یک‌جانبه انتقال اسیران جنگی شمالی کره به ساکنان کره‌جنوبی را فاش کرد. کره‌جنوبی این اقدام را نقض توافقات محرمانه می‌داند و نگرانی خود را از تأثیرات منفی بر روابط سه‌جانبه ابراز کرد. اوکراین در بیانیه‌ای اعلام کرد که اسیران به کره‌جنوبی تحویل داده شده‌اند، اما جزئیات بیشتری ارائه نکرد. این اختلاف می‌تواند به تنش‌های دیپلماتیک میان سه کشور منجر شود و بر همکاری‌های امنیتی منطقه‌ای اثر بگذارد. مقامات کره‌جنوبی تأکید کردند که انتظار دارند اوکراین به‌سرعت این مسأله را اصلاح کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "روابط دیپلماتیک",
+    "tag": "POW",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/south-korea-demands-apology-ukraine-over-north-korean-pow-disclosure-2026-09-27/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/south-korea-demands-apology-ukraine-over-north-korean-pow-disclosure-2026-09-27",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790514780.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "49d70fd46a",
     "title_fa": "‏جکسونویل جاگوارز با سامانه دفاعی پهپاد مسابقه می‌دهد",
     "title_en": "At NFL games this season, drone defense tech aims to bring down disruptions",
@@ -154,6 +198,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "918d4d18c4",
+    "title_fa": "‏قیمت Quant پس از قرارداد بانکی آمریکا سه برابر شد",
+    "title_en": "Quant Crypto Blasts 3x in a Week Following Huge US Bank Deal",
+    "summary": [
+      "‏Quant در هفت روز گذشته حدود ۱۷۸٪ رشد کرد و قیمتش به حدود ۱۷۸.۴۶ دلار رسید.",
+      "‏این جهش به دلیل انتخاب Quant برای زیرساخت پرداخت‌های زنجیره‌ای The Clearing House در ایالات متحده است.",
+      "‏این همکاری می‌تواند نقش کوین را در پردازش توکن‌های بانکی بزرگ تقویت کند."
+    ],
+    "body_fa": "‏قیمت کوین Quant در هفت روز اخیر حدود ۱۷۸٪ افزایش یافت و به حدود ۱۷۸.۴۶ دلار رسید. این رشد به‌دلیل انتخاب Quant برای ارائه فناوری زیرساختی در طرح On-Chain Money Initiative توسط The Clearing House ، شبکهٔ پرداخت‌های بزرگ آمریکایی، صورت گرفت. این زیرساخت به مؤسسات مالی امکان پاکسازی و تسویهٔ سپرده‌های توکنیزه‌شده را با ادغام در سیستم‌های موجود مانند RTP و CHIPS می‌دهد و انتظار می‌رود در نیمهٔ اول سال ۲۰۲۷ فعال شود. The Clearing House روزانه بیش از ۲ تریلیون دلار تراکنش‌های پرداختی را پردازش می‌کند که مقیاس این همکاری را نشان می‌دهد. پیش از این، Quant با بانک‌های بزرگ بریتانیا مانند Barclays و HSBC برای پروژهٔ سپرده‌های توکنیزهٔ پوند کار کرده بود. با این حال، افزایش سریع قیمت از حدود ۶۵ دلار به نزدیک ۲۰۰ دلار خطرات نوسان را نیز به همراه دارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پارتنرشیپ بانکی",
+    "tag": "Quant",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Crypto News",
+    "url": "https://cryptonews.com/news/quant-crypto-blasts-3x-in-a-week-following-huge-us-bank-deal/",
+    "clean_url": "https://cryptonews.com/news/quant-crypto-blasts-3x-in-a-week-following-huge-us-bank-deal",
+    "image": "https://cryptonews.com/wp-content/uploads/2026/09/1790526094-chatgpt-image-sep-27-2026-05_21_20-pm.jpg",
+    "timestamp": 1790500920.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "f9a1f3c2d2",
     "title_fa": "‏سرمایه‌گذاران بازارهای نوظهور از پرخطرترین اوراق دوری می‌کنند",
     "title_en": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar",
@@ -217,6 +283,28 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-09-27/barrick-mining-reaches-deal-with-mali-unions-averting-strikes",
     "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1790483640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "21249e7221",
+    "title_fa": "‏سرمایه‌گذاران نهادی بازار سهام را از خرده‌فروشان می‌گیرند",
+    "title_en": "Wall Street money takes back over from small investors as driving force of the stock market",
+    "summary": [
+      "‏سرمایه‌گذاران نهادی پس از دوره خرید طولانی، دوباره سهم بازار سهام را به دست گرفتند",
+      "‏این تغییر نشان‌دهنده تمایل ریسک‌پذیری مؤسسات در مواجهه با سطوح بالای بازده اوراق خزانه است",
+      "‏آنها در میان این نوسان، سهام هوش مصنوعی مانند Meta Platforms را خریداری کردند"
+    ],
+    "body_fa": "‏داده‌های Vanda Research نشان می‌دهد که سرمایه‌گذاران نهادی در هفته جاری نسبت به خرده‌فروشان فعال‌تر بودند و حجم معاملات اختیار‌نامه‌هایشان تقریباً سه برابر متوسط سپتامبر بود. این مؤسسات با وجود صعود بازده‌های 10‑year و 30‑year اوراق خزانه آمریکا به بالاترین سطح یک دهه، همچنان در سهام باقی مانده‌اند و این نشانه‌ای مثبت برای تمایل ریسک‌پذیری آن‌هاست. ویراژ پاتل، استراتژیست بازار جهانی Vanda ، اشاره کرد که سرمایه‌گذاران بزرگ در میان نوسانات، به‌ویژه در بخش هوش مصنوعی، به خرید سهام Meta Platforms پرداخته‌اند که پس از معرفی Muse Charm ، حدود 13 ٪ رشد کرده است. در مقابل، سهم خرده‌فروشان در حجم معاملات S&P 500 از اوج یک سال پیش به‌طور قابل‌توجهی کاهش یافته و اکنون حدود سه درصد از متوسط پنج‌ساله کمتر است. با این حال، شاخص S&P 500 در پایان هفته بیش از 1 ٪ افزایش یافت و برای ماه جاری به سمت مثبت حرکت کرد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری نهادی",
+    "tag": "سرمایه‌گذاری",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+    "clean_url": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
+    "timestamp": 1790483520.0,
     "sent_to_telegram": true
   },
   {
@@ -327,6 +415,28 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-09-27/swiss-voters-reject-bid-to-enshrine-stricter-neutrality",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1790478180.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cb94471e08",
+    "title_fa": "‏پنج نفر در اطراف RAF Fairford اتهام تروریسم دستگیر شدند",
+    "title_en": "Trump says men arrested at UK air base used by U.S. forces were looking to do 'big damage'",
+    "summary": [
+      "‏پنج مرد در نزدیکی پایگاه هوایی RAF Fairford در انگلستان به اتهام آماده‌سازی حمله تروریستی دستگیر شدند.",
+      "‏این دستگیری پس از دریافت هشدار درباره سه ون مشکوک که به سمت پایگاه می‌رفتند، صورت گرفت و نگرانی‌ها دربارهٔ نقشهٔ ایرانی یا روسی را برانگیخت.",
+      "‏ترامپ گفت متهمان قصد «آسیب بزرگ» به پایگاه داشتند و عملیات تحت نظارت آمریکا و بریتانیا بود."
+    ],
+    "body_fa": "‏پنج مرد در ساعات اولیهٔ یکشنبه در اطراف پایگاه هوایی RAF Fairford در انگلستان به اتهام آماده‌سازی حمله تروریستی و استفاده از مواد منفجره دستگیر شدند. پلیس پس از دریافت تماس دربارهٔ سه ون مشکوک که به سمت پایگاه می‌رفتند، عملیات دستگیری را با حضور نیروهای مسلح انجام داد. مقامات بریتانیایی اعلام کردند که یک حصار ۴۰۰ متری دور پایگاه برقرار شده و واحدهای خنثی‌سازی بمب در حال بررسی وسایل نقلیه هستند. تحقیقات اولیه نشان می‌دهد که احتمال انگیزهٔ مرتبط با ایران بالاتر است، هرچند امکان عملیات روسی یا طرحی اسلام‌گرایانه نیز بررسی می‌شود. ترامپ در بیانیه‌ای گفت متهمان قصد «آسیب بزرگ» به پایگاه داشتند و این دستگیری نشان‌دهندهٔ همکاری مؤثر بین نیروهای آمریکا و بریتانیا است. این حادثه نگرانی‌ها دربارهٔ امنیت پایگاه‌های نظامی که برای حملات به ایران استفاده می‌شوند را افزایش داده و ممکن است تنش‌های منطقه‌ای را تشدید کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "امنیت بین‌المللی",
+    "tag": "RAF Fairford",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/27/police-declare-major-incident-at-uk-air-base-used-by-us-forces.html",
+    "clean_url": "https://www.cnbc.com/2026/09/27/police-declare-major-incident-at-uk-air-base-used-by-us-forces.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108368480-1790500104599-gettyimages-2286922212-Getty.jpeg?v=1790500131&w=1920&h=1080",
+    "timestamp": 1790475960.0,
     "sent_to_telegram": true
   },
   {
@@ -6485,116 +6595,6 @@
     "clean_url": "https://www.msn.com/en-us/news/other/star-wars-zero-companys-studio-terminated-80-of-staff-before-launch/ar-AA2bBhX4",
     "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1788523841.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d50226acf5",
-    "title_fa": "‏قیمت ETF طلا با افزایش نرخ بهره رشد کرد",
-    "title_en": "Why Gold ETFs Could Keep Shining Despite Higher Rates",
-    "summary": [
-      "‏ETF طلا SPDR Gold Trust در ۲ سپتامبر ۲۰۲۶، ۱٫۵٪ رشد کرد",
-      "‏این افزایش در حالی رخ داد که نرخ بهره دولتی در جهان به اوج رسیده و هزینه استقراض افزایش یافته",
-      "‏سرمایه‌گذاران به دلیل نگرانی‌های مالی دولت‌ها و نوسان ارز، طلا را به عنوان ذخیره ارزش می‌پسندند"
-    ],
-    "body_fa": "‏فروش اوراق قرضه دولتی باعث شده هزینه استقراض برای دولت‌ها بالا برود و سبدهای مالی فشار ببیند. در همین دوره، بازده اوراق ۱۰‑ساله آلمان به بالاترین سطح از سال ۲۰۱۱ و بازده ۱۰‑ساله ایالات متحده به بالاترین مقدار از نوامبر ۲۰۲۳ رسیده است. با این حال، طلا به عنوان دارایی بدون بهره و بدون ریسک اعتباری، جذابیت خود را حفظ کرده و ETF طلا SPDR Gold Trust در روز ۲ سپتامبر ۲۰۲۶، ۱٫۵٪ و در طول ماه ۸٫۴٪ افزایش یافت. این رفتار نشان می‌دهد که سرمایه‌گذاران در مواجهه با نگرانی‌های مالی دولت‌ها و نوسان ارز، به طلا به عنوان ذخیره ارزش پناه می‌برند. بنابراین، حتی در محیطی با نرخ بهره بالا، طلا می‌تواند به عنوان پناهگاهی برای حفظ ارزش سرمایه عمل کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "طلا و ETF",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Zacks · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/commodities/articles/why-gold-etfs-could-keep-120000521.html",
-    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/why-gold-etfs-could-keep-120000521.html",
-    "image": "https://media.zenfs.com/en/zacks.com/566da5b5f1d48c0417c66649ec5e5092.jpg",
-    "timestamp": 1788522894.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e41a2979b4",
-    "title_fa": "‏حجم معاملات سنتی در رمزارزها به 778 میلیارد دلار رسید",
-    "title_en": "Stock and commodity trading on crypto platforms surges to $778B in August",
-    "summary": [
-      "‏در ماه اوت حجم معاملات سهام و کالا در پلتفرم‌های رمزارزی به 778 میلیارد دلار رسید",
-      "‏این حجم 23.48 ٪ از کل معاملات دائمی را تشکیل می‌دهد و نشان‌دهنده رشد سریع رمزارزها به‌عنوان بازار ابزارهای سنتی است",
-      "‏بایننس بیشترین سهم را با 433.4 میلیارد دلار داشته و 79 ٪ آن را به محصولات سهام اختصاص داده است"
-    ],
-    "body_fa": "‏بلومبرگ با استناد به داده‌های Fasanara Digital اعلام کرد که در اوت حجم معاملات دائمی سهام و کالا در صرافی‌های رمزارزی به 778 میلیارد دلار رسید. این مقدار 23.48 ٪ از کل معاملات دائمی در این پلتفرم‌ها را شامل می‌شود که در نوامبر 2025 تنها 0.5 ٪ بود. حجم معاملات دائمی مرتبط با سهام تنها در صرافی‌های متمرکز به 665.42 میلیارد دلار افزایش یافت که نسبت به ژانویه 11.58 میلیارد دلار، 56 برابر شد. سه نماد SanDisk ، SK Hynix و قرارداد SpaceX‑SPCX بیش از نیمی از این حجم را به خود اختصاص دادند. بایننس با 433.4 میلیارد دلار بیشترین سهم را داشته و 79 ٪ آن را به محصولات سهام اختصاص داده است، در حالی که بایت و پلتفرم‌های غیرمتمرکز نیز به‌سرعت گسترش می‌یابند. این رشد نشان می‌دهد که صرافی‌های رمزارزی به‌سرعت به‌عنوان مکان‌های معتبر برای معامله ابزارهای مالی سنتی تبدیل می‌شوند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "معاملات سنتی",
-    "tag": "حجم‌معاملات",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/crypto-platforms-stock-commodity-trading-778b-august/",
-    "clean_url": "https://cryptobriefing.com/crypto-platforms-stock-commodity-trading-778b-august",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/04132048/library-stock-and-commodity-trading-on-crypto-platforms-surges-t-800x450.png",
-    "timestamp": 1788517200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "523ae462a1",
-    "title_fa": "‏تجارت آمریکا به‌خاطر واردات هوش مصنوعی گسترش یافت",
-    "title_en": "The AI boom just blew a hole in Trump’s trade war",
-    "summary": [
-      "‏کسر تجاری آمریکا به ۸۸.۶ میلیارد دلار رسید، بزرگ‌ترین مقدار از مارس ۲۰۲۵.",
-      "‏این افزایش ناشی از واردات گسترده فناوری هوش مصنوعی و نیمه‌رساناهاست که احتمالاً منجر به اعمال تعرفه‌های جدید می‌شود.",
-      "‏واردات کالاهای سرمایه‌ای به رکورد ۱۴۰.۳ میلیارد دلار رسید و فشار بر تورم و نرخ بهره را افزایش داد."
-    ],
-    "body_fa": "‏آمریکا در ماه جولای با کسری تجاری ۸۸.۶ میلیارد دلاری، بزرگ‌ترین مقدار از مارس ۲۰۲۵ مواجه شد. این افزایش عمدتاً به دلیل ورود گسترده قطعات کامپیوتری، نیمه‌رساناها و سایر فناوری‌های مرتبط با هوش مصنوعی بود که تقاضای داخلی برای این تجهیزات به سرعت رشد کرده است. واردات کالاهای سرمایه‌ای به رکورد ۱۴۰.۳ میلیارد دلار رسید و صادرات نتوانست این حجم را جبران کند. دولت ترامپ، با توجه به این شکاف، به‌سرعت به قوانین مختلف از جمله بخش ۱۲۲ قانون تجارت ۱۹۷۴ و بخش ۳۰۱ برای اعمال تعرفه‌های ۱۰ تا ۱۲.۵ درصدی بر بیش از ۶۰ کشور روی آورد. این گام‌ها، که پس از رد صلاحیت دادگاه عالی برای استفاده از قانون اضطراری ۱۹۷۷ اتخاذ شد، نشان می‌دهد که تعرفه‌ها به‌عنوان ابزار دائمی سیاست اقتصادی آمریکا تثبیت شده‌اند. نتایج این سیاست شامل فشار بیشتر بر تورم، افزایش نرخ بهره اوراق‌دولت ۳۰‑ساله به بالاترین سطوح دو دهه و نگرانی‌های جدید برای شرکای تجاری مانند کانادا است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "سیاست تجاری",
-    "tag": "تجارت",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Asia Times",
-    "url": "https://asiatimes.com/2026/09/the-ai-boom-just-blew-a-hole-in-trumps-trade-war/",
-    "clean_url": "https://asiatimes.com/2026/09/the-ai-boom-just-blew-a-hole-in-trumps-trade-war",
-    "image": "https://www.bing.com/th?id=ONUT.-5jch1e4pSCRFm5LYSahXw",
-    "timestamp": 1788515711.9487789,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d8afb9a4a0",
-    "title_fa": "‏روویو پس از لغو Sonic Blitz استودیو کپنهاگ را بست",
-    "title_en": "Sonic Blitz Is Dead — And Now Rovio Is Closing the Studio Behind It",
-    "summary": [
-      "‏روویو استودیو کپنهاگ خود را پس از لغو بازی Sonic Blitz بسته",
-      "‏این تصمیم نشان‌دهندهٔ دشواری حفظ کاربران در بازی‌های موبایلی و هزینه‌های بالای جذب بازیکن است",
-      "‏حدود ۲۰ نفر در پروژه کار می‌کردند و برخی ممکن است به پروژه‌های دیگر منتقل شوند"
-    ],
-    "body_fa": "‏روویو امروز اعلام کرد که عملیات استودیو کپنهاگ خود را پس از لغو بازی Sonic Blitz متوقف می‌کند. این بازی که از مه 2025 به‌صورت نرم‌افزاری آزمایشی در برزیل و فیلیپین عرضه شد، بیش از 200,000 بار دانلود شد اما نرخ نگهداری بازیکنان در هفتهٔ اول رضایت‌بخش نبود. مدیرعامل روویو، الکس پلتیه‑نرمان، گفت حفظ تعامل طولانی‌مدت برای موفقیت بازی‌های کارت‌محور حیاتی است. استودیو حدود ۲۰ نفر را در پروژه به کار می‌گرفت و شرکت بسته به نیاز ممکن است برخی از این افراد را به پروژه‌های دیگر منتقل کند. این بسته شدن در کنار تعطیلی استودیو Lumi و کاهش ۳۶ نفره نیروی کار در اکتبر 2025 ، نشانگر فشارهای اقتصادی در صنعت بازی‌های موبایلی است.",
-    "category": "گیم",
-    "subcategory": "بسته شدن استودیو",
-    "tag": "Rovio",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Player.One",
-    "url": "https://www.player.one/sonic-blitz-dead-now-rovio-closing-studio-behind-it-164047",
-    "clean_url": "https://www.player.one/sonic-blitz-dead-now-rovio-closing-studio-behind-it-164047",
-    "image": "https://d.player.one/en/full/229557/sonic-blitz-key-art.jpg",
-    "timestamp": 1788514980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d688d14fed",
-    "title_fa": "‏بازار اوراق قرضه نرخ‌ها را بالا می‌برد؛ بانک‌ها واکنش می‌دهند",
-    "title_en": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
-    "summary": [
-      "‏بازارهای اوراق قرضه در سراسر جهان بازدهی‌ها را افزایش دادند.",
-      "‏این نشان می‌دهد که انتظار می‌رود بانک‌های مرکزی نرخ بهره را سریع‌تر بالا ببرند.",
-      "‏افزایش نرخ‌ها می‌تواند فشار بر بازارهای مالی و اقتصادهای نوظهور ایجاد کند."
-    ],
-    "body_fa": "‏بازدهی اوراق قرضه در ایالات متحده، اروپا و آسیا به سرعت در حال افزایش است. این افزایش نشانگر این است که سرمایه‌گذاران انتظار دارند بانک‌های مرکزی برای مهار تورم نرخ بهره را سریع‌تر و با شدت بیشتری بالا ببرند. در نتیجه، هزینه استقراض برای شرکت‌ها و دولت‌ها افزایش می‌یابد و فشار بر بازارهای سهام و ارزها ایجاد می‌شود. اگر بانک‌های مرکزی این انتظارات را تأیید کنند، ممکن است شاهد نوسانات شدیدتر در بازارهای مالی جهانی باشیم. این تحولات به‌ویژه برای اقتصادهای نوظهور که به سرمایه‌گذاری خارجی وابسته‌اند، ریسک‌های قابل توجهی به همراه دارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار اوراق قرضه",
-    "tag": "اوراق‌قرضه",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html",
-    "clean_url": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html",
-    "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04Biz-Global-Rates-01-vjgl/04Biz-Global-Rates-01-vjgl-facebookJumbo.jpg",
-    "timestamp": 1788512580.0,
     "sent_to_telegram": true
   }
 ]
