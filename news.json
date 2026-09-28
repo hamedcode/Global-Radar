@@ -1,5 +1,27 @@
 [
   {
+    "id": "a06945aa6d",
+    "title_fa": "‏چین و آمریکا توافق کردند تعرفه ۶۰ میلیارد دلاری را کاهش دهند",
+    "title_en": "China, US pledge tariff cuts on $60 billion of goods including agriculture,...",
+    "summary": [
+      "‏چین و آمریکا اعلام کردند که برای کالاهای با ارزش ۶۰ میلیارد دلار تعرفه‌ها را کاهش می‌دهند.",
+      "‏این اقدام می‌تواند دسترسی بازار آمریکا به چین را بهبود بخشد و فشار بر قیمت سویا و سایر کالاها را افزایش دهد.",
+      "‏اما سویا به دلیل حذف نشدن از فهرست، همچنان تحت تعرفه ۱۰٪ باقی می‌ماند."
+    ],
+    "body_fa": "‏در نشست دوم این سال بین رئیس‌جمهور شی جین‌پینگ و دونالد ترامپ، چین و ایالات متحده توافق کردند تا برای کالاهای با ارزش مجموعاً ۶۰ میلیارد دلار تعرفه‌ها را کاهش دهند. هر دو طرف در چارچوب هیئت تجاری دوجانبه ۳۰ میلیارد دلار از کالاهای غیرحساس را برای تسهیل تعرفه‌ها پیشنهاد کردند. چین قصد دارد تعرفه‌های خود بر روی محصولات کشاورزی آمریکا مانند ذرت، گندم و گوشت را کاهش دهد، اما سویا که بزرگ‌ترین صادرات کشاورزی آمریکا به چین است، در فهرست حذف نشده و تحت تعرفه ۱۰٪ باقی می‌ماند. ایالات متحده نیز برای کالاهای مصرفی چینی مانند اسباب‌بازی‌ها و لوازم خانگی کوچک، از جمله دستگاه‌های قهوه‌ساز و توستر، کاهش تعرفه‌ها را پیشنهاد کرده است. جزئیات دقیق میزان کاهش و زمان اجرای آن هنوز مشخص نشده است، اما این گام می‌تواند بهبود دسترسی بازارهای دو کشور را تسهیل کند و نوسانات قیمت کالاهای کلیدی را تحت تأثیر قرار دهد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تخفیف تعرفه",
+    "tag": "تعرفه",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/china-says-us-trade-truce-030641845.html",
+    "clean_url": "https://finance.yahoo.com/economy/policy/articles/china-says-us-trade-truce-030641845.html",
+    "image": "https://media.zenfs.com/en/reuters.com/833f5a9606cb10ba8a735e39fcef15fa.jpg",
+    "timestamp": 1790624056.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "3857a3d6cb",
     "title_fa": "‏شرکت‌های معدنی برای مقیاس جهانی به ادغام می‌پردازند",
     "title_en": "Focus: Miners bound to megadeal playbook in pursuit of global scale",
@@ -44,6 +66,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "19a3f38cda",
+    "title_fa": "‏چین‌لینک CCIP 2.0 را برای کنترل امنیتی بیشتر برنامه‌ها عرضه کرد",
+    "title_en": "Chainlink launches CCIP 2.0 to give big crypto apps more control over their...",
+    "summary": [
+      "‏چین‌لینک نسخه جدید CCIP 2.0 را معرفی کرد که امکان افزودن چک‌های امنیتی سفارشی به انتقالات بین زنجیره‌ای را می‌دهد.",
+      "‏این ارتقا پس از هک 292 میلیون دلاری Kelp DAO که به دلیل یک تأییدکننده در پل LayerZero بود، اهمیت امنیت را برجسته می‌کند.",
+      "‏کاربران بدون افزودن تأییدکننده‌های خود فقط به شبکه پیش‌فرض 16 اپراتور چین‌لینک متکی می‌شوند."
+    ],
+    "body_fa": "‏چین‌لینک روز دوشنبه نسخهٔ به‌روز شدهٔ پروتکل Cross‑Chain Interoperability Protocol (CCIP) 2.0 را رونمایی کرد. این به‌روزرسانی به برنامه‌های DeFi و سایر برنامه‌های بلاکچینی اجازه می‌دهد تا چک‌های امنیتی سفارشی خود را به انتقالات بین زنجیره‌ای اضافه کنند. پیش از این، شبکهٔ مدیریت ریسک چین‌لینک به‌صورت جداگانه عمل می‌کرد، اما در CCIP 2.0 کاربران بدون افزودن تأییدکننده‌های خود تنها به شبکهٔ پیش‌فرض 16 اپراتور متکی می‌شوند. این تغییر پس از هک 292 میلیون دلاری Kelp DAO در آوریل صورت گرفت که به دلیل استفاده از یک تأییدکننده در پل رقیب LayerZero رخ داد. Kelp پس از حمله توکن rsETH خود را به پل‌های چین‌لینک منتقل کرد. چین‌لینک همچنین امکان استفاده از تأییدکننده‌های خارجی مانند Infosys و Nethermind را برای تقویت امنیت فراهم کرده است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پروتکل‌های میان‌زنجیره‌ای",
+    "tag": "CCIP2.0",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
+    "clean_url": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
+    "image": "https://s.yimg.com/bo/432d96ad-a999-5aa5-8ce6-e284b7f6f8c5_1790599536849.jpg",
+    "timestamp": 1790597719.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "c1b83432a7",
     "title_fa": "‏سهام AngloGold Ashanti 7.3 ٪ سقوط کرد",
     "title_en": "AngloGold Ashanti Shares Fall 7.3% as Oil Prices and Treasury Yields Rise",
@@ -63,6 +107,28 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-shares-fall-7-120810631.html",
     "image": "https://media.zenfs.com/en/investorshub_458/bd30fa79189756b4c31779ca32b776fb.png.cf.jpg",
     "timestamp": 1790596126.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bb65d08ebb",
+    "title_fa": "‏Stelco عملیات فولاد را به‌دلیل تعرفه‌ها متوقف می‌کند",
+    "title_en": "Cliffs’ Stelco Set to Idle Some Steel Operations on Tariffs",
+    "summary": [
+      "‏Stelco متعلق به Cliffs برخی عملیات فولاد را به‌دلیل تعرفه‌ها متوقف می‌کند.",
+      "‏این توقف می‌تواند تأثیراتی بر عرضه فولاد و زنجیره تأمین داشته باشد.",
+      "‏جزئیات دقیق دربارهٔ مقیاس و مدت زمان توقف هنوز منتشر نشده است."
+    ],
+    "body_fa": "‏شرکت Stelco که زیرمجموعه Cliffs است، اعلام کرد برخی از عملیات تولید فولاد خود را به‌دلیل تعرفه‌های جدید متوقف خواهد کرد. این تصمیم در واکنش به سیاست‌های تجاری اخیر اتخاذ شده است. ایستادن این خطوط می‌تواند عرضه فولاد این شرکت را کاهش دهد و ممکن است بر قیمت‌های بازار تأثیر بگذارد. جزئیات دقیق دربارهٔ مقیاس توقف یا مدت زمان آن هنوز منتشر نشده است. این اقدام نشان‌دهنده حساسیت صنعت فولاد به تغییرات تعرفه‌ای است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تعرفه‌های تجاری",
+    "tag": "Stelco",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-28/cliffs-s-stelco-set-to-idle-some-steel-operations-on-tariff-woes",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-09-28/cliffs-s-stelco-set-to-idle-some-steel-operations-on-tariff-woes",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790595840.0,
     "sent_to_telegram": true
   },
   {
@@ -107,6 +173,28 @@
     "clean_url": "https://www.reuters.com/legal/litigation/red-bull-sues-india-regulator-energy-drink-descriptor-ban-cites-investment-2026-09-28",
     "image": "https://s.yimg.com/bo/e9a2e5ac-b1ad-50fe-90d5-feef4e48f760_1790596529381.jpg",
     "timestamp": 1790595631.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "edc2c184de",
+    "title_fa": "‏هوش مصنوعی هک را تسریع کرد؛ بیمارستان‌ها و بانک‌ها بی‌پاسخ",
+    "title_en": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "summary": [
+      "‏سازمان Vivian’s Door در آلاباما توسط حمله‌ای که هوش مصنوعی تقویت کرده بود، سیستم‌ها را سه روز خاموش کرد و ۳۰۰۰ دلار هزینه کرد.",
+      "‏این حادثه نشان می‌دهد هوش مصنوعی می‌تواند هک را برای سازمان‌های کوچک آسان کند و بیمارستان‌ها و بانک‌ها هنوز آمادگی لازم را ندارند.",
+      "‏در حالی که شرکت‌های بزرگ ابزارهای دفاعی هوش مصنوعی عرضه می‌کنند، کاربران عادی در برابر این تهدید نوظهور آسیب‌پذیرند."
+    ],
+    "body_fa": "‏در ماه مارس، Janice Malone از سازمان غیرانتفاعی Vivian’s Door در آلاباما تماس‌های متعددی دربارهٔ فعالیت‌های مشکوک دریافت کرد؛ ایمیل‌های تقلبی که به‌نظر می‌رسید از طرف سازمان ارسال شده‌اند. تیم فناوری اطلاعات ثالث‌نفره سازمان سیستم‌ها را برای سه روز قطع کرد و هزینه‌ای حدود ۳۰۰۰ دلار برای رفع آسیب‌پذیری پرداخت شد. Malone نمی‌داند آیا هکر انسان یا هوش مصنوعی در این حمله نقش داشته‌اند، اما می‌گوید «چه کسی می‌داند در آینده چه آسیب‌پذیری دیگری پیش خواهد آمد». در همین مدت، شرکت‌های بزرگ هوش مصنوعی مانند OpenAI و Anthropic ادعا می‌کنند که مدل‌هایشان می‌توانند هر سیستم‌عامل و مرورگری را آسیب‌پذیر کنند و به همین دلیل مشتریان بزرگ به‌سرعت ابزارهای دفاعی خریداری می‌کنند. این در حالی است که بیمارستان‌ها و بانک‌های محلی هنوز راهکارهای کافی برای مقابله با این تهدید نوظهور ندارند و ممکن است در آینده هدف حملات بزرگ‌تر شوند.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "هک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "clean_url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "timestamp": 1790595000.0,
     "sent_to_telegram": true
   },
   {
@@ -173,6 +261,50 @@
     "clean_url": "https://www.reuters.com/world/middle-east/lebanon-hopes-for-new-staff-level-agreement-with-imf-2026-09-28",
     "image": "https://s.yimg.com/bo/86810c7b-5846-5570-8b3b-c398c938b24b_1790259445472.jpg",
     "timestamp": 1790593171.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f5692bdafd",
+    "title_fa": "‏آمریکا معافیت محدود تحریم‌ها برای پروازهای زیارتی ایران‑نجداف اعطا می‌کند",
+    "title_en": "US to grant sanctions waiver for flights between Iran and Iraq's Najaf, source says",
+    "summary": [
+      "‏آمریکا تصمیم گرفت معافیت محدودی از تحریم‌های خود برای پروازهای زیارتی بین ایران و نجف اعطا کند",
+      "‏این گام می‌تواند سفرهای زائران شیعه را تسهیل کرده و تنش‌های تحریمی منطقه‌ای را کاهش دهد",
+      "‏معافیت موقت است و تنها برای پروازهای تجاری به شهر نجف اعمال می‌شود"
+    ],
+    "body_fa": "‏دولت دونالد ترامپ تصمیم گرفت معافیتی محدود از برنامه تحریم‌های علیه ایران اعطا کند تا پروازهای زیارتی شیعه بین ایران و شهر نجف عراق امکان‌پذیر شود. این معافیت فقط برای پروازهای تجاری به منظور حمل زائران است و به‌صورت موقت اعمال می‌شود. منبعی که به Reuters اطلاع داد گفت این اقدام بخشی از سیاست‌های انسانی و تسهیل سفرهای مذهبی است. اگرچه تحریم‌های کلی علیه ایران پابرجاست، این گام می‌تواند فشارهای اقتصادی بر زائران را کاهش داده و روابط منطقه‌ای را بهبود بخشد. کارشناسان معتقدند این اقدام به‌تنهایی تغییر اساسی در سیاست‌های تحریمی آمریکا نخواهد بود، اما می‌تواند زمینه‌ای برای مذاکرات آینده فراهم کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌ها و سفرهای زیارتی",
+    "tag": "تحریم",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-grant-sanctions-waiver-flights-between-iran-iraqs-najaf-source-says-2026-09-28/",
+    "clean_url": "https://www.reuters.com/world/middle-east/us-grant-sanctions-waiver-flights-between-iran-iraqs-najaf-source-says-2026-09-28",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790592300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "09671f905f",
+    "title_fa": "‏وزیر آمریکا 30 میلیارد دلار برای بهبود کنترل هوایی خواست",
+    "title_en": "Duffy, airlines urge US Congress to quickly approve $30 billion for aviation reforms",
+    "summary": [
+      "‏وزیر حمل‌ونقل ایالات متحده و شرکت‌های هواپیمایی از کنگره درخواست کردند تا 30 میلیارد دلار برای ارتقای برج‌ها، نرم‌افزار و دیجیتال‌سازی کنترل هوایی اختصاص یابد.",
+      "‏این سرمایه‌گذاری می‌تواند تا سال 2030 تراکم پروازها را بهبود بخشد و هزینه‌های تاخیر را کاهش دهد.",
+      "‏دست‌کم 10 شرکت هواپیمایی بزرگ از این طرح حمایت کردند."
+    ],
+    "body_fa": "‏سِیَن دافی، وزیر حمل‌ونقل آمریکا، به همراه چندین شرکت هواپیمایی بزرگ و گروه‌های مرتبط، روز دوشنبه از کنگره خواستند تا 30 میلیارد دلار برای به‌روزرسانی برج‌های کنترل هوایی، نرم‌افزارهای مدیریت پرواز و زیرساخت‌های دیجیتال اختصاص یابد. این مبلغ هدف دارد تا سامانه‌های ناوبری هوایی را مدرن‌سازی کند و ظرفیت پردازش ترافیک هوایی را افزایش دهد. برنامه‌ریزی شده است که این سرمایه‌گذاری تا سال 2030 به کاهش تاخیرهای پروازی و بهبود بهره‌وری در شبکه‌های هوایی منجر شود. شرکت‌های هواپیمایی بزرگ از این طرح حمایت کرده‌اند و انتظار دارند که هزینه‌های عملیاتی و زمان انتظار مسافران کاهش یابد. اگر کنگره این درخواست را بپذیرد، می‌تواند تحول قابل‌توجهی در زیرساخت‌های هوانوردی ایالات متحده ایجاد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "حمل و نقل هوایی",
+    "tag": "هواپیمایی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/duffy-airlines-urge-congress-quickly-approve-30-billion-aviation-reforms-2026-09-28/",
+    "clean_url": "https://www.reuters.com/business/media-telecom/duffy-airlines-urge-congress-quickly-approve-30-billion-aviation-reforms-2026-09-28",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790591700.0,
     "sent_to_telegram": true
   },
   {
@@ -569,6 +701,28 @@
     "clean_url": "https://www.ft.com/content/e1696e1f-a54e-4e2a-bbfd-2273f26704cd",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F725733e7-214f-4075-a2ea-1c725f025519.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
     "timestamp": 1790559660.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "45fe903755",
+    "title_fa": "‏فرماندار کالیفرنیا انتشار میم‌کوین توسط مقامات دولتی را ممنوع کرد",
+    "title_en": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
+    "summary": [
+      "‏فرماندار کالیفرنیا Gavin Newsom با امضای قانونی جدید، انتشار میم‌کوین توسط مقامات دولتی این ایالت را ممنوع کرد.",
+      "‏این اقدام با انتقاد تند از پروژه‌های کریپتویی Donald Trump و با هدف جلوگیری از تضاد منافع انجام شد.",
+      "‏بر اساس این قانون، پلتفرم‌ها نیز از فهرست‌کردن توکن‌هایی با نام یا تصویر مقامات دولتی منع شده‌اند."
+    ],
+    "body_fa": "‏فرماندار ایالت کالیفرنیا Gavin Newsom قانونی را امضا کرد که راه‌اندازی میم‌کوین‌ها را برای مقامات دولتی این ایالت به‌طور کامل ممنوع می‌کند. بر اساس لایحه AB 2409 ، علاوه بر ممنوعیت فعالیت مستقیم مقامات در انتشار توکن، شرکت‌ها و پلتفرم‌ها نیز از فهرست کردن یا استفاده از تصویر و چهره مقامات دولتی در ارزهای دیجیتال منع شده‌اند. فرماندار کالیفرنیا در بیانیه‌ای با اشاره مستقیم به دونالد ترامپ، این قانون را پاسخی به سوءاستفاده از جایگاه رسمی برای کسب سود شخصی توصیف کرد. طبق اظهارات Gavin Newsom ، میم‌کوین منتسب به Donald Trump پس از یک جهش کوتاه‌مدت سقوط کرد و زیانی بالغ بر 3 میلیارد دلار به سرمایه‌گذاران زد. فعالیت‌های کریپتویی رئیس‌جمهور آمریکا پیش از این نیز به مانعی جدی در تصویب لایحه جامع شفافیت دارایی‌های دیجیتال در کنگره تبدیل شده بود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قانون‌گذاری رمزارزها",
+    "tag": "میم‌کوین",
+    "urgency": 4,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/03/20250305_MemeCoin_News.jpg",
+    "timestamp": 1790559000.0,
     "sent_to_telegram": true
   },
   {
@@ -6441,160 +6595,6 @@
     "clean_url": "https://tradersunion.com/news/institutions/show/3275056-jpmorgan-enters-greece",
     "image": "https://tradersunion.com/uploads/images/tu-news/02026/09/3275056/jpmorgan-enters-greece.jpg",
     "timestamp": 1788949800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "228c87e9cc",
-    "title_fa": "‏ایران رمزارزها را برای مقابله با فشار آمریکا سست کرد",
-    "title_en": "Iran makes a major crypto move as U.S. pressure hits its economy",
-    "summary": [
-      "‏ایران تحت فشار آمریکا قوانین رمزارزها را شل کرد و امکان تبادل ارزهای خارجی را در بازار آزاد فراهم کرد",
-      "‏این تصمیم می‌تواند به‌دسترس‌پذیری بیشتر رمزارزها برای تجارت بین‌المللی و دور زدن تحریم‌ها کمک کند",
-      "‏برخی تحلیل‌گران پیش‌بینی می‌کنند این حرکت می‌تواند حجم معاملات رمزارز در ایران را دو برابر کند"
-    ],
-    "body_fa": "‏ایران پس از آغاز عملیات نظامی آمریکا و اسرائیل علیه این کشور، به‌سرعت قوانین مربوط به رمزارزها را شل کرد. تحت چارچوب جدید، معامله‌گران می‌توانند ارزهای خارجی را به‌صورت آزاد در بازار تبادل کنند و از رمزارزها برای انتقال ارزش استفاده نمایند. این تغییر سیاست در پی فشارهای اقتصادی و تحریم‌های بین‌المللی اتخاذ شده و هدف اصلی آن تسهیل تجارت بین‌المللی و دور زدن محدودیت‌های مالی است. کارشناسان بر این باورند که این گام می‌تواند حجم معاملات رمزارز در ایران را به‌طور قابل‌توجهی افزایش دهد و بازار داخلی را تحت تأثیر قرار دهد. در عین حال، نگرانی‌هایی دربارهٔ ریسک‌های مالی و نظارتی این تحول وجود دارد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین رمزارز",
-    "tag": "ایران",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "TheStreet",
-    "url": "https://www.thestreet.com/crypto/politics/iran-makes-a-major-crypto-move-as-u-s-pressure-hits-its-economy",
-    "clean_url": "https://www.thestreet.com/crypto/politics/iran-makes-a-major-crypto-move-as-u-s-pressure-hits-its-economy",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1788941640.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d892240504",
-    "title_fa": "‏رشد اقتصاد جهانی در نیمه دوم سال گرم می‌ماند",
-    "title_en": "In a global economic heatwave, beware financial wildfires",
-    "summary": [
-      "‏رشد اقتصاد جهانی در نیمه دوم سال با سرعت بالا ادامه دارد.",
-      "‏این وضعیت باعث نگرانی مدیران سرمایه‌گذاری برای یافتن راه‌حل‌های محافظتی می‌شود.",
-      "‏حتی دو جنگ و قیمت‌های انرژی بالا نتوانستند رونق را خنک کنند."
-    ],
-    "body_fa": "‏با وجود دو جنگ بزرگ و قیمت‌های انرژی سرسام‌آور، رشد اقتصادی جهان همچنان گرم است و پیش‌بینی می‌شود تا نیمه دوم سال ادامه یابد. این گرما باعث می‌شود بانک‌ها و مدیران سرمایه‌گذاری به دنبال راه‌حل‌های حفاظتی یا «آتش‌نشانی» برای جلوگیری از خطرات تورمی و نوسانات شدید بازار باشند. تحلیل‌گران هشدار می‌دهند که فشارهای هزینه‌ای و عدم اطمینان ژئوپلیتیک می‌تواند به ایجاد «آتش‌سوزی‌های مالی» منجر شود. در نتیجه، سیاست‌گذاران ممکن است برای خنک کردن اقتصاد، ابزارهای پولی یا مالی جدیدی به کار گیرند. این روند می‌تواند بر بازارهای سهام، اوراق قرضه و ارزهای دیجیتال تأثیر قابل‌توجهی داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "رشد اقتصادی جهانی",
-    "tag": "گرما",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/commentary/reuters-open-interest/global-economic-heatwave-beware-financial-wildfires-mike-dolan-2026-09-09/",
-    "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/global-economic-heatwave-beware-financial-wildfires-mike-dolan-2026-09-09",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1788933660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "dacfc1dd20",
-    "title_fa": "‏سنسکس هند ۸۱۳ امتیاز سقوط کرد؛ نفت بالای ۱۰۰ دلار",
-    "title_en": "Sensex today | Stock Market Highlights: Sensex crashes 813 pts, Nifty closes at 23,431 as crude crosses $100",
-    "summary": [
-      "‏سنسکس هند ۸۱۳ امتیاز یا ۱٫۰۸٪ سقوط کرد و نایفی به ۲۳٬۴۳۱ رسید",
-      "‏افزایش قیمت نفت به بالای ۱۰۰ دلار و تشدید تنش‌های خاورمیانه باعث نگرانی‌های تورمی و فشار بر روپیه شد",
-      "‏ارگان‌های نظامی ایران موشک به پایگاه آمریکایی در اردن شلیک کردند"
-    ],
-    "body_fa": "‏در پی تشدید جنگ شش ماهه در خاورمیانه، سپاه پاسداران ایران موشک‌های بالستیک به پایگاه نظامی آمریکا در اردن شلیک کرد و ده کشتی را هدف قرار داد. این تحولات باعث شد قیمت نفت برنت برای اولین بار پس از اواخر ژوئیه از ۱۰۰ دلار در هر بشکه عبور کند. در بازارهای مالی هند، شاخص سنسکس ۸۱۳٫۳۵ امتیاز یا ۱٫۰۸٪ سقوط کرد و به ۷۴٬۷۶۴٫۲۳ رسید؛ نایفی نیز ۲۳٬۴۳۱٫۵۰ شد. دوشنبه، روپیه به ۹۵٫۱۱ دلار سقوط کرد و بانک مرکزی احتمالاً با استفاده از سوآپ‌های ارزی برای جذب نقدینگی اقدام خواهد کرد. سیزده‌از شانزده بخش اصلی بازار سهام ضرر کردند و بخش فناوری اطلاعات نیز تحت فشار سرمایه‌گذاران منتظر داده‌های تورمی آمریکا قرار گرفت. این سقوط سه‌روزه بازارهای آسیایی نشان می‌دهد که تنش‌های ژئوپلیتیک می‌تواند به سرعت بر نرخ ارزها و شاخص‌های بورس تأثیر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام هند",
-    "tag": "سنسکس",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "The Hindu BusinessLine",
-    "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-september-2026/article71445394.ece",
-    "clean_url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-september-2026/article71445394.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/jacsh3/article71445396.ece/alternates/LANDSCAPE_1200/stock+market+4.jpg",
-    "timestamp": 1788927540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0cdcf5424c",
-    "title_fa": "‏صنعت کریپتو و بانک‌ها لابی‌گری را به ایالت‌های سناتورها می‌برند",
-    "title_en": "Crypto, banks take lobbying war to US senators' home states ahead of key vote",
-    "summary": [
-      "‏صنعت کریپتو و بانک‌ها برای حمایت از لایحه مهم، در ایالت‌های محل سکونت سناتورهای آمریکا لابی می‌کنند",
-      "‏این اقدام پیش از رأی‌گیری کلیدی بر قوانین رمزارزها، می‌تواند مسیر مقررات آینده را تعیین کند",
-      "‏لابی‌گری در تعطیلات تابستانی کنگره نشان‌دهنده شدت رقابت بین دو بخش است"
-    ],
-    "body_fa": "‏در تعطیلات تابستانی کنگره، نبرد بر سر لایحه‌ای کلیدی برای تنظیم رمزارزها به ایالت‌های محل سکونت سناتورهای آمریکا گسترش یافت. هم صنعت کریپتو و هم بخش بانکی تیم‌های لابی‌گری خود را به این ایالت‌ها فرستاده‌اند تا از رأی‌گیری نهایی حمایت کنند. لایحه مورد بحث می‌تواند نحوه تعامل بانک‌ها با رمزارزها و چارچوب نظارتی کلی را تغییر دهد. برای جلب حمایت، شرکت‌های کریپتو و بانک‌ها جلسات مستقیم، کمک‌های مالی به کمپین‌ها و حضور در رویدادهای محلی برگزار می‌کنند. این فشار سیاسی می‌تواند تصمیم نهایی کنگره را تحت تأثیر قرار داده و بازارهای جهانی رمزارزها را تحت فشار یا تقویت قرار دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین و مقررات",
-    "tag": "لابی‌گری",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters on MSN",
-    "url": "https://www.msn.com/en-us/politics/government/crypto-banks-take-lobbying-war-to-us-senators-home-states-ahead-of-key-vote/ar-AA2bRSp6",
-    "clean_url": "https://www.msn.com/en-us/politics/government/crypto-banks-take-lobbying-war-to-us-senators-home-states-ahead-of-key-vote/ar-AA2bRSp6",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1788925882.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "59a14214f7",
-    "title_fa": "‏هشدار آمریکا: جنگ تایوان بحران مالی پس از جنگ جهانی",
-    "title_en": "Taiwan war would devastate global economy, US warns",
-    "summary": [
-      "‏ایالات متحده اعلام کرد که جنگ در تایوان می‌تواند بزرگ‌ترین بحران مالی جهان پس از جنگ جهانی دوم باشد.",
-      "‏این هشدار به دلیل وابستگی جهانی به صنعت نیمه‌رساناهای تایوان و اثرات بر مسیرهای حمل‌ونقل و بازارهاست.",
-      "‏مقامات آمریکا بر لزوم تقویت توان دفاعی تایوان و برگزاری نشست چین-آمریکا در ۲۴ سپتامبر تأکید کردند."
-    ],
-    "body_fa": "‏یک مقام آمریکایی در یک نشست دفاعی در تایپه گفت جنگ در تایوان می‌تواند بزرگ‌ترین بحران مالی جهان پس از جنگ جهانی دوم باشد. او تخمین زد هزینه اقتصادی چنین درگیری‌ای بیش از ۱۰ تریلیون دلار، معادل حدود ۱۰ درصد تولید ناخالص جهانی، خواهد بود. این رقم، سه برابر هزینه جنگ عراق‑سوریه و دو برابر بحران مالی ۲۰۰۸ است و به دلیل وابستگی جهانی به چیپ‌های پیشرفته تایوان و اختلال در مسیرهای حمل‌ونقل به‌دست می‌آید. وی افزود حفظ صلح در تنگه تایوان برای اقتصاد جهانی حیاتی است و تأکید کرد که تقویت توان دفاعی جزیره ضروری است. همچنین، او بر اهمیت نشست پیش‌رو بین شی جین‌پینگ و دونالد ترامپ در ۲۴ سپتامبر برای جلوگیری از سوءتفاهم‌ها و محاسبه‌های نادرست تأکید کرد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تنش چین-آمریکا",
-    "tag": "جنگ‌تایوان",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Yahoo",
-    "url": "https://www.yahoo.com/news/us/articles/taiwan-war-devastate-global-economy-095555547.html",
-    "clean_url": "https://www.yahoo.com/news/us/articles/taiwan-war-devastate-global-economy-095555547.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/8b07cb011123898b20bb028036976cfe15245e5ddbf085fa05d5adc4e64d1d47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F5ed90281db39a135e7644cd1d15fffd6.jpg",
-    "timestamp": 1788922500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0561c2d80c",
-    "title_fa": "‏قیمت نفت به ۱۰۰ دلار در بشکه رسید",
-    "title_en": "Global oil prices hit $100 per barrel as Middle East conflict roils markets",
-    "summary": [
-      "‏قیمت نفت برنت به ۱۰۰ دلار در بشکه رسید، بالاترین سطح از ژوئیه",
-      "‏افزایش به دلیل تشدید درگیری‌های خاورمیانه و تهدید به قطع مسیرهای حمل‌ونقل در تنگه هرمز است",
-      "‏این صعود هزینه بنزین و دیزل را بالا برده و فشار بر تورم را تقویت می‌کند"
-    ],
-    "body_fa": "‏برنت، شاخص جهانی نفت، در اوایل روز چهارشنبه ۲.۳٪ افزایش یافت و به طور موقت به ۱۰۰ دلار در بشکه رسید، اولین بار از ژوئیهٔ گذشته. این جهش ناشی از تشدید درگیری‌های نظامی در خاورمیانه بود که شامل حملهٔ ایالات متحده به تانکرهای ایرانی و حملات حوثی‌ها به عربستان سعودی شد. نگرانی‌ها دربارهٔ اختلال مداوم در عبور کشتی‌های نفتی از تنگه هرمز، مسیر کلیدی صادرات نفت، باعث فشار خرید بر بازار شد. قیمت نفت خام آمریکا نیز ۱.۳٪ بالا رفت و به ۹۴ دلار در بشکه رسید. در مجموع، برنت و نفت آمریکا تا کنون بیش از ۶۰٪ در سال جاری افزایش یافته‌اند و هزینه سوخت‌های مصرفی را برای مصرف‌کنندگان جهانی بالا برده‌اند. این افزایش قیمت‌ها فشار بر بانک‌های مرکزی برای کنترل تورم ایجاد می‌کند و می‌تواند سیاست‌های پولی را تحت تأثیر قرار دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت جهانی",
-    "tag": "نفت",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "CNN",
-    "url": "https://www.cnn.com/2026/09/09/economy/oil-price-iran-war",
-    "clean_url": "https://www.cnn.com/2026/09/09/economy/oil-price-iran-war",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26069129536301.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1788916440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7542a4e5e5",
-    "title_fa": "‏چین کاهش واردات نفت، فشار قیمت جهانی را کم کرد",
-    "title_en": "Economic Watch: \"China Buffer\" stabilizes world economy amid tensions, crisis",
-    "summary": [
-      "‏چین در هشت ماه اول سال واردات نفت خام را ۱۴٫۶٪ کاهش داد و از فوریه تا مه تقریباً ۴۰٪ کاست.",
-      "‏این کاهش خرید، فشار بر قیمت‌های انرژی جهانی را در پی تنش‌های تنگه هرمز کم کرد.",
-      "‏چین با موجودی‌های بزرگ و رشد انرژی‌های تجدیدپذیر به عنوان «حافظ» اقتصاد جهانی عمل می‌کند."
-    ],
-    "body_fa": "‏چین در هشت ماه اول ۲۰۲۳ واردات نفت خام خود را ۳۲۰٫۹ میلیون تن، معادل ۱۴٫۶٪ کاهش نسبت به سال گذشته، گزارش کرد. این کاهش عمده، به ویژه از فوریه تا مه که واردات روزانه حدود ۴٫۶ میلیون بشکه کاهش یافت، به دلیل موجودی‌های بزرگ و کاهش فعالیت پالایشگاه‌ها انجام شد. با این اقدام، فشار بر قیمت‌های نفت جهانی در زمان تنش‌های شدید در تنگه هرمز به‌طور قابل‌توجهی کاهش یافت. چین همچنین با هدف دستیابی به ۶۰٪ سهم انرژی تجدیدپذیر تا سال ۲۰۲۵ و گسترش وسایل نقلیه الکتریکی، وابستگی خود به نفت را کاهش داده است. این نقش «حافظ» چین در بازار انرژی، مشابه اقدامات پیشین آن در بحران مالی ۲۰۰۸ و دوران کووید‑۱۹، به تثبیت تقاضای جهانی و جلوگیری از سقوط عمیق‌تر بازارها کمک می‌کند. تحلیل‌گران بر این باورند که چنین سیاست‌های تقاضای داخلی می‌تواند نقش مهمی در آرامش بازارهای انرژی و کاهش نوسانات قیمت داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نفت و انرژی",
-    "tag": "کاهش واردات نفت چین",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "Xinhua",
-    "url": "https://english.news.cn/20260909/461bc19b22a6492a8c8abc0c1f11c755/c.html",
-    "clean_url": "https://english.news.cn/20260909/461bc19b22a6492a8c8abc0c1f11c755/c.html",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1788895680.0,
     "sent_to_telegram": true
   }
 ]
