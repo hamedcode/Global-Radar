@@ -1,5 +1,27 @@
 [
   {
+    "id": "7012da823b",
+    "title_fa": "‏پلتفرم NEAR Intents تراکنش‌های هکر صرافی Bitget را مسدود کرد",
+    "title_en": "$50 million in Bitget hacker swaps puts NEAR Intents’ ‘permissionless’ claim to ...",
+    "summary": [
+      "‏پلتفرم تبادل NEAR Intents تلاش هکرهای صرافی Bitget برای انتقال بیش از 50 میلیون دلار را شناسایی و متوقف کرد.",
+      "‏این اقدام و مسدودسازی 503,000 دلار، ادعای بدون مجوز و ضدسانسور بودن این پروتکل را زیر سوال برده است.",
+      "‏در مقابل، پروتکل THORChain درخواست‌ها برای مسدود کردن آدرس‌های این هکر را رد کرده بود."
+    ],
+    "body_fa": "‏پلتفرم تبادل میان‌زنجیره‌ای NEAR Intents جلوی تلاش هکرهای صرافی Bitget برای جابه‌جایی بیش از 50 میلیون دلار دارایی سرقت‌شده را گرفت. هکرها که هفته گذشته 388 میلیون دلار از Bitget به سرقت برده بودند، قصد داشتند مبالغ سنگینی را از طریق این پلتفرم تبدیل کنند. سیستم امنیتی این پروتکل موفق شد حدود 503,000 دلار از این وجوه را مسدود کند، هرچند حدود 166,000 دلار پیش از اقدام از پروتکل عبور کرده بود. این مداخله باعث ایجاد بحث‌های جدی در جامعه کریپتو شده، زیرا این پروژه همواره خود را سیستمی بدون نیاز به مجوز و غیرقابل سانسور معرفی می‌کرد. این رویکرد کاملاً در تضاد با پلتفرم THORChain است که پیش‌تر در برابر مسدودسازی آدرس‌های مهاجم مقاومت کرده بود. طبق اعلام مدیران این پلتفرم، مبالغ مسدودشده تا پایان مراحل قانونی و قضایی در حالت تعلیق باقی خواهند ماند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "امنیت و دیفای",
+    "tag": "هک کریپتو",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+    "clean_url": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+    "image": "https://s.yimg.com/bo/ad2c36ce-c5a8-5f35-9438-9f56180a6263_1788847366796.jpg",
+    "timestamp": 1790663687.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a06945aa6d",
     "title_fa": "‏چین و آمریکا توافق کردند تعرفه ۶۰ میلیارد دلاری را کاهش دهند",
     "title_en": "China, US pledge tariff cuts on $60 billion of goods including agriculture,...",
@@ -6573,28 +6595,6 @@
     "clean_url": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136",
     "image": "https://s.yimg.com/bo/cb3697ec-50ce-557a-9a95-0e29a806baf5_1787916224464.jpg",
     "timestamp": 1788952805.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f492fd0664",
-    "title_fa": "‏JPMorgan به بازار بانکداری شرکتی یونان وارد شد",
-    "title_en": "JPMorgan enters Greece corporate banking market",
-    "summary": [
-      "‏JPMorgan Chase خدمات بانکداری شرکتی را در یونان راه‌اندازی کرد.",
-      "‏این گام نشانگر بهبود اقتصاد یونان و جذب سرمایه‌گذاران بین‌المللی است.",
-      "‏کنستانتینوس مکرایداکیس سرپرست عملیات جدید خواهد شد."
-    ],
-    "body_fa": "‏JPMorgan Chase به‌تازگی بخش بانکداری شرکتی خود را در یونان گسترش داد و خدماتی برای شرکت‌های بزرگ و متوسط ارائه می‌کند. این اقدام پس از بهبود چشمگیر اقتصاد یونان، کاهش بیکاری و بازگشت به رتبه‌های اعتباری سرمایه‌گذاری‌پذیر انجام شد. کنستانتینوس مکرایداکیس به‌عنوان سرپرست جهانی بانکداری شرکتی یونان منصوب شد و بر پوشش شرکت‌های بزرگ و میانه‌پیمانه نظارت خواهد کرد. استلیوس پاپادولوپولوس نیز به عنوان مسئول ارشد کشور برای یونان، قبرس و مالتا باقی می‌ماند. پیش از این JPMorgan تنها حضور سرمایه‌گذاری بانکی در یونان داشت و این گسترش به آن امکان می‌دهد تا علاوه بر مشاوره، تأمین مالی و مدیریت نقدینگی را نیز ارائه دهد. گسترش حضور این بانک آمریکایی نشانگر تغییر نگرش سرمایه‌گذاران جهانی به یونان است که پس از بحران بدهی، به‌تدریج به بازارهای اصلی بازگشته است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بانکداری شرکتی",
-    "tag": "JPMorgan",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "tradersunion",
-    "url": "https://tradersunion.com/news/institutions/show/3275056-jpmorgan-enters-greece/",
-    "clean_url": "https://tradersunion.com/news/institutions/show/3275056-jpmorgan-enters-greece",
-    "image": "https://tradersunion.com/uploads/images/tu-news/02026/09/3275056/jpmorgan-enters-greece.jpg",
-    "timestamp": 1788949800.0,
     "sent_to_telegram": true
   }
 ]
