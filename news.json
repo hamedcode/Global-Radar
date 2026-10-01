@@ -1,5 +1,71 @@
 [
   {
+    "id": "4ba722afb6",
+    "title_fa": "‏امریکا تحریم‌های جدید بر خودروسازی و راه‌آهن ایران اعمال کرد",
+    "title_en": "Treasury sanctions operation targets Iran's auto, rail industries in latest...",
+    "summary": [
+      "‏آمریکا بخش‌های خودروسازی و راه‌آهن ایران را تحت تحریم قرار داد.",
+      "‏هدف، قطع منابع مالی رژیم و تضعیف توان جنگی آن است.",
+      "‏همچنین شبکه بانکی سایه‌ای A7 با روابط روسی نیز هدف شد."
+    ],
+    "body_fa": "‏وزارت خزانه‌داری آمریکا روز پنجشنبه تحریم‌های جدیدی علیه بخش‌های خودروسازی و راه‌آهن ایران اعلام کرد. این اقدام بخشی از «Operation Economic Outcast» است که هدفش قطع مسیرهای مالی باقی‌مانده رژیم تهران است. ادارهٔ کنترل دارایی‌های خارجی (OFAC) شرکت‌های داخلی خودروسازی و تأمین‌کنندگان خارجی از جمله Integrated Auto Parts LLC (امارات)، Hessenberg Co. (هنگ‌کنگ) و PT Golden Motorcycle International (اندونزی) را فهرست کرد. همچنین چند شرکت راه‌آهن ایرانی و دو شرکت فولاد چینی – Shanghai Ruimi Import and Export Trade Co. و M and R Steel Co. – مورد تحریم قرار گرفتند. در بیانیه‌ای، اسکار بسنِت گفت این تحریم‌ها توان مالی رژیم برای تأمین ماشین‌آلات جنگی و اعمال ترور را به‌طور قابل‌توجهی کاهش می‌دهد. او افزود شبکه بانکی سایه‌ای A7 که با روسیه ارتباط دارد نیز هدف جدید این عملیات است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌های اقتصادی",
+    "tag": "تحریم",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
+    "clean_url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
+    "image": "https://s.yimg.com/bo/45777f8d-c513-5116-92f2-9d65c097b696_1790875823837.jpg",
+    "timestamp": 1790874233.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e91ee23521",
+    "title_fa": "‏تریلر رسمی Gears of War: E‑Day منتشر شد",
+    "title_en": "Gears of War: E-Day - Official Launch Trailer",
+    "summary": [
+      "‏تریلر رسمی بازی جدید Gears of War: E‑Day منتشر شد",
+      "‏بازی در ۶ اکتبر برای Xbox Series X|S و PC عرضه می‌شود",
+      "‏دسترسی زودهنگام برای خریداران نسخه Premium از پیش‌سفارش فعال است"
+    ],
+    "body_fa": "‏استودیوی The Coalition تریلر رسمی نصب جدید سری Gears of War با عنوان E‑Day را منتشر کرد. در این تریلر بازیکنان با روز ظهور (Emergence Day) و ظهور ارتش لکوست از اعماق سیاره مواجه می‌شوند. مارکوس فینکس و دومینیک سانتیاگو برای اولین بار در این قسمت به مبارزه می‌پردازند. بازی در تاریخ ۶ اکتبر برای کنسول‌های Xbox Series X|S و پلتفرم PC (Steam) منتشر خواهد شد. پیش‌سفارش نسخه Premium امکان دسترسی زودهنگام به بازی را فراهم می‌کند. این عنوان ادامه‌ای برای یکی از محبوب‌ترین بازی‌های شوتر سوم‌بعدی محسوب می‌شود.",
+    "category": "گیم",
+    "subcategory": "معرفی بازی",
+    "tag": "GearsOfWar",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "IGN Videogames",
+    "url": "https://www.ign.com/videos/gears-of-war-e-day-official-launch-trailer",
+    "clean_url": "https://www.ign.com/videos/gears-of-war-e-day-official-launch-trailer",
+    "image": "https://s.yimg.com/bo/6474766c-5c36-5528-bf44-21ba0e213b92_1790868923178.jpg",
+    "timestamp": 1790867033.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6227e829b3",
+    "title_fa": "‏NEAR Intents به‌دلیل هک ۳٫۸ میلیون دلاری خدمات را متوقف کرد",
+    "title_en": "NEAR Intents hit by $3.8M exploit, pauses cross-chain services in latest crypto...",
+    "summary": [
+      "‏پلتفرم NEAR Intents حدود ۳٫۸ میلیون دلار را به‌دلیل یک نقص امنیتی از دست داد",
+      "‏این هک باعث توقف موقت خدمات میان‌زنجیره‌ای و محدود شدن برداشت و واریز در چند بلاکچین شد",
+      "‏پروژه قول داد تمام خسارات را جبران کند و با مقامات قانونی همکاری می‌کند"
+    ],
+    "body_fa": "‏NEAR Intents ، پروتکل تجاری میان‌زنجیره‌ای، روز پنج‌شنبه با یک نقص در سیستم Omni و قرارداد هوشمند خود مورد هک قرار گرفت. هکرها حدود ۳٫۸ میلیون دلار را از طریق برداشت‌های نامنظم از کیف پول گرم BNB Chain سرقت کردند. پس از کشف نقص، تیم فنی بلافاصله سرویس‌های برداشت و واریز در چند بلاکچین را متوقف کرد و به‌سرعت باگ را رفع کرد. شرکت اعلام کرد تمام مبلغ از دست رفته را به‌صورت کامل جبران خواهد کرد و حادثه را به مقامات قانونی گزارش داده است. بررسی‌های اولیه نشان می‌دهد که وجوه سرقت‌شده به صرافی KuCoin منتقل و سپس به بیت‌کوین تبدیل شده‌اند. این اتفاق به فهرست طولانی هک‌های بزرگ سال ۲۰۲۳/۲۴ در حوزه رمزارزها می‌پیوندد که نگرانی‌ها درباره امنیت پلتفرم‌های میان‌زنجیره‌ای را تشدید می‌کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "هک و امنیت",
+    "tag": "NEAR",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "clean_url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "image": "https://s.yimg.com/bo/f800b7b6-289e-5dfa-9cac-d6489de12782_1788613231168.jpg",
+    "timestamp": 1790863432.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "d65867d72e",
     "title_fa": "‏قیمت طلا با افزایش بازده اوراق آمریکا فشار می‌گیرد",
     "title_en": "Gold struggles as rising US Treasury yields outweigh dovish Fed repricing |...",
@@ -66,6 +132,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "e9b091e937",
+    "title_fa": "‏شاخص فروش بانک آمریکا به آستانه سیگنال فروش رسید",
+    "title_en": "Bank of America's famed stock market gauge is on the verge of flashing a sell signal",
+    "summary": [
+      "‏شاخص Sell Side Indicator بانک آمریکا در سپتامبر به 57.2 ٪ رسید و تنها 0.3 درصد از حد فروش رسمی فاصله دارد.",
+      "‏این سیگنال تاریخی معمولاً پیش‌بینی ضعف بیشتر بازار سهام را دارد و می‌تواند تصمیمات سرمایه‌گذاران را تحت تأثیر قرار دهد.",
+      "‏در عین حال، بازدهی اوراق 10‑ساله و 30‑ساله به بالاترین سطح ۲۴‑ساله رسید و تنش‌های بازار را تشدید کرده است."
+    ],
+    "body_fa": "‏بانک آمریکا در گزارشی به مشتریان اعلام کرد شاخص Sell Side Indicator (SSI) در سپتامبر به 57.2 ٪ افزایش یافت، که تنها 0.3 درصد از مرز فروش رسمی 57.5 ٪ فاصله دارد. این شاخص یک ابزار ضد‌گرایی است؛ وقتی به سطح فروش نزدیک می‌شود، معمولاً نشانگر ضعف آتی بازار سهام است. تاریخچه نشان می‌دهد در مواردی که SSI سیگنال فروش می‌دهد، S&P 500 در 12 ماه بعد به‌ طور متوسط 3 ٪ رشد داشته و 36 ٪ زمان بازده منفی داشته است. این افزایش همچنین بالاترین مقدار شاخص از مارس 2022 است. همزمان، بازدهی اوراق 10‑ساله و 30‑ساله به اوج ۲۴‑ساله رسیده و باعث افزایش نگرانی‌ها درباره فشارهای تورمی و مالی شده است. تحلیل‌گران بازار به‌ خصوص در بخش فناوری و هوش مصنوعی، به‌دلیل کاهش تنوع بازار، محتاط‌تر شده‌اند. این وضعیت می‌تواند تصمیمات سرمایه‌گذاران را برای خرید یا فروش سهام تحت تأثیر قرار دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "شاخص‌های سهام",
+    "tag": "BofA",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/stock-market-sell-signal-bank-of-america-bullish-breadth-2026-10",
+    "clean_url": "https://www.businessinsider.com/stock-market-sell-signal-bank-of-america-bullish-breadth-2026-10",
+    "image": "https://i.insider.com/6abe7690d15f8a572974d0f6?width=1200&format=jpeg",
+    "timestamp": 1790850300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "73e415512a",
+    "title_fa": "‏قاضی دادخواست‌های ضد انحصار علیه Google AI را رد کرد",
+    "title_en": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+    "summary": [
+      "‏قاضی فدرال ایالات متحده دو دعوی ضد انحصار شرکت‌های Chegg و Penske Media را که گوگل را به دلیل ویژگی‌های AI جستجو متهم کرده بودند، رد کرد.",
+      "‏این تصمیم به معنای ادامه تسلط گوگل بر جستجوی هوش مصنوعی است و فشار کمتری بر ناشران برای دریافت جبران مالی ایجاد می‌کند.",
+      "‏در عین حال، گوگل در برنامه آزمایشی به حدود 100 ناشر برای مشارکت در AI Overviews و Gemini پرداخت می‌کند."
+    ],
+    "body_fa": "‏یک قاضی فدرال، آمیت مهتا، دو دعوی ضد انحصار مطرح شده توسط Chegg و شرکت مادر Rolling Stone ، Penske Media Corporation را رد کرد. این شرکت‌ها ادعا کرده بودند که گوگل با استفاده از ویژگی‌های AI Overviews در جستجو، ترافیک وب‌سایت‌هایشان را به‌طور قابل‌توجهی کاهش داده و با اجبار ناشران به ارائه محتوای رایگان برای هوش مصنوعی، قدرت انحصاری خود را سوءاستفاده می‌کند. مهتا در حکم خود گفت تنها «انتظار» دریافت ترافیک از گوگل، تعهدی قانونی نیست و قوانین ضد انحصار نمی‌توانند جایگزین تصمیم‌گیری قانون‌گذاری در مورد نوآوری‌های جدید شوند. با این حال، قاضی تأکید کرد که دادگاه نسبت به وضعیت ناشران بی‌تفاوت نیست. در همین زمان، گوگل در یک برنامه آزمایشی به حدود 100 ناشر برای مشارکت در AI Overviews ، AI Mode و Gemini پرداخت می‌کند. این تصمیم ممکن است فشار مالی بر ناشران کوچک را کاهش دهد، اما نگرانی‌ها دربارهٔ تأثیرات بلندمدت هوش مصنوعی بر ترافیک خبری همچنان باقی است.",
+    "category": "تکنولوژی",
+    "subcategory": "قوانین ضد انحصار",
+    "tag": "Google",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "clean_url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "timestamp": 1790849520.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5d8c5bd836",
+    "title_fa": "‏نرخ وام مسکن آمریکا به ۷٫۲۸٪ رسید؛ بزرگ‌ترین افزایش هفتگی",
+    "title_en": "Mortgage Rates Surge, Notching Largest Weekly Gain in Four Years",
+    "summary": [
+      "‏نرخ وام مسکن آمریکا به ۷٫۲۸٪ افزایش یافت، بزرگ‌ترین رشد هفتگی در چهار سال",
+      "‏این جهش پس از سقوط بازار اوراق قرضه، فشار بیشتری بر بازار مسکن ضعیف می‌آورد",
+      "‏افزایش نرخ می‌تواند تقاضا را کاهش داده و قیمت‌های خانه را تحت فشار قرار دهد"
+    ],
+    "body_fa": "‏نرخ وام مسکن در ایالات متحده به ۷٫۲۸٪ رسید که بزرگ‌ترین افزایش هفتگی در چهار سال اخیر است. این افزایش پس از یک سقوط گسترده در بازار اوراق قرضه رخ داد و نشان‌دهنده فشارهای ناشی از نرخ بهره بالاتر است. بازار مسکن که پیش از این با کاهش فروش و قیمت‌ها مواجه بود، اکنون با فشار بیشتری روبرو می‌شود. کارشناسان پیش‌بینی می‌کنند که هزینه بالاتر وام‌ها می‌تواند تقاضا را کاهش داده و روند رشد قیمت خانه‌ها را کند کند. این تحولات ممکن است بر تصمیمات سیاست‌گذاران فدرال‌رزرو در مورد نرخ بهره نیز تأثیر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نرخ مسکن",
+    "tag": "mortgage",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/economy/housing/mortgage-rates-surge-notching-largest-weekly-gain-in-four-years-e4d029af",
+    "clean_url": "https://www.wsj.com/economy/housing/mortgage-rates-surge-notching-largest-weekly-gain-in-four-years-e4d029af",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790848800.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a4a8070e42",
     "title_fa": "‏یک داده می‌تواند سبب افزایش نرخ بازده اوراق بدهی شود",
     "title_en": "This Datapoint Could Explain Soaring Bond Yields",
@@ -88,6 +220,94 @@
     "sent_to_telegram": true
   },
   {
+    "id": "8dd39f8a7b",
+    "title_fa": "‏سهام‌ها با رشد ۲۴‑ساله بازده اوراق مقاومت می‌کنند",
+    "title_en": "Why stocks have held up as yields surge to 24-year highs",
+    "summary": [
+      "‏بازده اوراق قرضه آمریکا به بالاترین سطح ۲۴ ساله رسید؛ ۱۰ ساله تا 5.33 ٪ و ۳۰ ساله تا 5.64 ٪",
+      "‏با این حال شاخص‌های سهام همچنان نزدیک به اوج تاریخی هستند و نشان‌دهنده جدایی غیرعادی بین بازار سهام و اوراق است",
+      "‏تحلیل‌گران می‌گویند تا زمانی که نوسان اوراق محدود باشد، فشار بر سهام کمتر می‌شود"
+    ],
+    "body_fa": "‏اوراق قرضه جهانی در هفته‌های اخیر با افزایش شدید بازده مواجه شدند و بازده ۱۰ ساله Treasury آمریکا به 5.33 ٪ رسید که بالاترین سطح از سال 2002 است. بازده ۳۰ ساله نیز به 5.64 ٪ رسید، که رکورد ۲۴ ساله دارد. با این حال شاخص‌های سهام آمریکا همچنان نزدیک به اوج تاریخی خود باقی مانده‌اند؛ S&P 500 تا کنون حدود 12 ٪ در سال رشد داشته و تنها 2 ٪ از بالاترین بسته شدن خود فاصله دارد. Nasdaq 100 نیز نزدیک به 20 ٪ افزایش سالانه را ثبت کرده است. مارک مالک، مدیر سرمایه‌گذاری Siebert Financial ، این جدایی بین اوراق و سهام را «غیرعادی» و در حال نزدیک شدن به «سطوح افراطی» توصیف کرد. به گفته کریتی گپتا از JPMorgan Private Bank ، افزایش تدریجی بازده در طول چند ماه به سرمایه‌گذاران اجازه داده تا به محیط نرخ بالاتر عادت کنند و نوسان شدید اوراق که می‌توانست بازار سهام را دلهره‌آور کند، تا کنون مشاهده نشده است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "بازده",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/bond-yields-spike-why-stocks-are-at-record-highs-2026-10",
+    "clean_url": "https://www.businessinsider.com/bond-yields-spike-why-stocks-are-at-record-highs-2026-10",
+    "image": "https://i.insider.com/6abe5a5c265e3f8e338f96fa?width=1200&format=jpeg",
+    "timestamp": 1790847660.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "42bc63d5da",
+    "title_fa": "‏SpaceX پرتاب ۱۳مین خدمه طولانی‌مدت به ایستگاه فضایی",
+    "title_en": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
+    "summary": [
+      "‏SpaceX موشک فالفا را برای پرتاب ۱۳مین خدمه طولانی‌مدت به ایستگاه بین‌المللی فضا به کار گرفت.",
+      "‏این پرتاب نشان‌دهنده پیشرفت برنامه تجاری فضایی و تقویت حضور آمریکا در فضاست.",
+      "‏خدمه شامل چهار فضانورد از ایالات متحده و دو نفر از دیگر کشورهاست."
+    ],
+    "body_fa": "‏شرکت SpaceX موفق شد موشک فالفا را از کاپ‌کَنِورال به‌کار گیرد و ۱۳مین خدمه طولانی‌مدت را به ایستگاه بین‌المللی فضا بفرستد. این خدمه شامل چهار فضانورد آمریکایی و دو فضانورد بین‌المللی است که مأموریت حدود شش ماه دارند. پرتاب نشان‌دهنده ادامه موفقیت برنامه تجاری خدمه فضایی ناسا و نقش کلیدی SpaceX در تأمین نیروی انسانی ایستگاه است. این رویداد به تقویت حضور تجاری آمریکا در فضا و کاهش وابستگی به پرتاب‌های دولتی کمک می‌کند. تحلیل‌گران پیش‌بینی می‌کنند که ادامه این برنامه می‌تواند فرصت‌های اقتصادی جدیدی برای صنایع مرتبط ایجاد کند.",
+    "category": "تکنولوژی",
+    "subcategory": "فضای‌پیمایی",
+    "tag": "SpaceX",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/spacex-launches-13th-long-duration-astronaut-crew-international-space-station-2026-10-01/",
+    "clean_url": "https://www.reuters.com/business/media-telecom/spacex-launches-13th-long-duration-astronaut-crew-international-space-station-2026-10-01",
+    "image": "https://www.reuters.com/resizer/v2/FUIY2NZ4UZKDBDONG6ZIQ7F3FY.jpg?auth=689f09c361abdb0ee92ad7dc772c7d56160a8703c17e21375b20215b8ee4a59e&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1790842560.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8dfc0e38e9",
+    "title_fa": "‏شبکه CPC اقدامات علیه نه‌تا شرکت بازی زمینه ارزهای داخل‑بازی",
+    "title_en": "Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency",
+    "summary": [
+      "‏شبکه Consumer Protection Cooperation در 30 سپتامبر 2026 اقدامات هماهنگ علیه نه شرکت بازی برای ارزهای داخل‑بازی آغاز کرد",
+      "‏این اقدام به اجرای اصول کلیدی اتحادیه اروپا درباره شفافیت قیمت‌های ارزهای مجازی و محافظت از مصرف‌کنندگان می‌پردازد",
+      "‏شرکت‌های هدف شامل Crytek ، King ، Mojang ، Riot Games و Ubisoft هستند"
+    ],
+    "body_fa": "‏در تاریخ 30 سپتامبر 2026 ، شبکه Consumer Protection Cooperation (CPC) اقدامات هماهنگی علیه نه شرکت بازی برای بررسی نحوه فروش ارزهای داخل‑بازی آغاز کرد. هدف این اقدامات اعمال اصول کلیدی اتحادیه اروپا است که می‌خواهد قیمت‌های این ارزها به‌صورت واضح به‌ارز واقعی نشان داده شود و قوانین مصرف‌کننده به‌درستی اجرا گردد. شرکت‌های مورد هدف شامل Crytek (Hunt: Showdown)، King (Candy Crush Saga)، Mojang (Minecraft)، Riot Games (Valorant) و Ubisoft (For Honor) به‌همراه دیگر عناوین مشهور هستند. شبکه CPC معتقد است که خریدهای انجام‌شده با ارزهای داخل‑بازی باید همانند پول واقعی درک شوند، هرچند تعیین ارزش دقیق این ارزها به‌خصوص هنگام بسته‌های متغیر دشوار است. مدیرعامل European Game Developer Federation ، Jari‑Pekka Kaleva ، اظهار کرد که نبود توافق واضح بین صنعت و نهاد نظارتی می‌تواند منجر به ابهام برای بازیکنان شود. این اقدامات می‌توانند فشار قانونی بر شرکت‌ها برای تغییر روش‌های قیمت‌گذاری و اطلاع‌رسانی ایجاد کرده و به‌طور کلی شفافیت در معاملات میکرو‑تراکنش‌ها را ارتقا دهند.",
+    "category": "گیم",
+    "subcategory": "قوانین مصرفی بازی",
+    "tag": "ارز_مجازی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
+    "clean_url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
+    "image": "https://assetsio.gnwcdn.com/clash-of-clans_VxMdTAs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1790838900.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4d6a780954",
+    "title_fa": "‏آمریکا صادرات دیزل را تا آزادسازی ذخایر اروپا تهدید می‌کند",
+    "title_en": "U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles",
+    "summary": [
+      "‏دولت آمریکا صادرات دیزل را ممنوع می‌کند مگر اینکه آلمان و فرانسه ذخایر اضطراری خود را آزاد کنند.",
+      "‏این فشار می‌تواند قیمت دیزل را در آمریکا و جهان کاهش دهد و بازار سوخت را آرام کند.",
+      "‏آلمان و فرانسه حدود 35 ٪ از ذخایر استراتژیک دیزل اتحادیه اروپا را که معادل دو ماه مصرف است، در اختیار دارند."
+    ],
+    "body_fa": "‏دولت آمریکا در روزهای اخیر آلمان و فرانسه را به آزادسازی ذخایر اضطراری دیزل فشار می‌آورد. این دو کشور بزرگ اروپایی حدود 35 ٪ از کل ذخایر استراتژیک دیزل اتحادیه اروپا را که معادل بیش از دو ماه مصرف بلوک است، در اختیار دارند. آمریکا اعلام کرده که در صورت عدم همکاری، ممکن است صادرات دیزل خود را ممنوع کند؛ این اقدام می‌تواند به کاهش قیمت دیزل در ایالات متحده و بازارهای جهانی منجر شود. رئیس‌جمهور ترامپ هنوز تصمیم نهایی را نگرفته، اما هر روز درباره مزایا و معایب این ممنوعیت بحث می‌کند. وزیر انرژی آمریکا، کریس رایت، گفت انتظار دارد کشورهای اروپایی اعلام کنند که دیزل جدیدی به بازار می‌آید و قیمت‌ها را پایین می‌آورد. این فشار در حالی مطرح می‌شود که قیمت دیزل در آمریکا برای اولین بار به میانگین 6 تا 6.5 دلار در هر گالن رسیده است. اگر اروپا ذخایر را آزاد کند، می‌تواند به تسکین بحران تأمین سوخت و جلوگیری از نوسانات شدید قیمت کمک کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "دیزل",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Threatens-Diesel-Export-Ban-Unless-Europe-Releases-Stockpiles.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/US-Threatens-Diesel-Export-Ban-Unless-Europe-Releases-Stockpiles.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_7ejfreivaq.jpg",
+    "timestamp": 1790838000.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ddf626ce19",
     "title_fa": "‏ترامپ می‌گوید ممنوعیت صادرات دیزل قیمت بنزین را بالا می‌برد",
     "title_en": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices | OilPrice.com",
@@ -107,6 +327,72 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Admits-Diesel-US-Export-Ban-Could-Raise-Gasoline-Prices.html",
     "image": "https://s.yimg.com/bo/08ce3aeb-4334-57a8-8791-6d1232b4a276_1790838790487.jpg",
     "timestamp": 1790837325.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cb4215f036",
+    "title_fa": "‏استارتاپ Legato عینک هوشمند شنوایی AI را عرضه کرد",
+    "title_en": "Hearing tech startup Legato launches its AI hearing glasses",
+    "summary": [
+      "‏استارتاپ Legato عینک هوشمند AI‑پایه برای کمک به شنوایی با قیمت ۹۹۹ دلار عرضه کرد.",
+      "‏این عینک با پردازش صوتی هوش مصنوعی صداهای پس‌زمینه را حذف و صداهای گفتاری را تقویت می‌کند.",
+      "‏قابلیت پخش بلوتوث، باتری ۱۰‑۱۲ ساعت و وزن ۳۴ گرم دارد."
+    ],
+    "body_fa": "‏استارتاپ Legato روز پنجشنبه اعلام کرد که عینک هوشمند AI‑پایه خود به نام Legato Frames برای خرید در دسترس شده است. قیمت این محصول ۹۹۹ دلار است و برای بزرگسالان با ضعف شنوایی تا سطح متوسط طراحی شده. سیستم هوش مصنوعی عینک صداهای گفتاری را از پس‌زمینه تشخیص داده و تقویت می‌کند، در حالی که صدای خروجی به‌صورت دو اسپیکر مستقیم به گوش کاربر هدایت شده و تا ۹۹٪ صداهای اطراف را در فاصله چند اینچ مسدود می‌سازد. عینک وزن ۳۴ گرم دارد، باتری ۱۰ تا ۱۲ ساعت دوام می‌کند و از لنزهای تجویزی و پخش بلوتوث برای موسیقی و تماس‌ها پشتیبانی می‌کند. Legato Frames پس از خروج از حالت مخفیانه با جذب ۱۲ میلیون دلار سرمایه از Neotribe Ventures ، Listen و Village Global به‌صورت آنلاین و از طریق برخی ارائه‌دهندگان مراقبت چشمی در ایالات متحده قابل خرید است و تحت پوشش بیمه‌های بینایی قرار می‌گیرد.",
+    "category": "تکنولوژی",
+    "subcategory": "عینک هوشمند",
+    "tag": "Legato",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "clean_url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
+    "timestamp": 1790834400.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "62fbb7928a",
+    "title_fa": "‏کاهش unprecedented layoffs US labor market همراه rise price",
+    "title_en": "Historic low layoffs underpin US labor market; factory gate price pressures rising",
+    "summary": [
+      "‏بازار labor US record low weekly layoffs historic ثبت شد",
+      "‏این وضعیت inflation expectations را افزایش می‑ دهد و outlook market را تغییر می‑ دهد",
+      "‏همچنین factory‑gate price pressures در March 2024 0.2% increase یافت"
+    ],
+    "body_fa": "‏بازار labor United States در week recent record low layoffs historic ثبت کرد. هم‑زمان data manufacturing نشان‑ داد factory‑gate price pressures 0.2% increase یافت. تحلیل Reuters اشاره کرد که despite low layoffs, inflationary pressure still rising. این ترکی‑b ممکن است policy monetary Fed را تحت‑ influence قرار دهد. سرمایه‑‌گذاران watch developments برای adjust portfolios.",
+    "category": "اقتصاد و بازار",
+    "subcategory": " کاهش layoffs",
+    "tag": " layoffs",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-weekly-jobless-claims-fall-layoffs-drop-september-2026-10-01/",
+    "clean_url": "https://www.reuters.com/legal/litigation/us-weekly-jobless-claims-fall-layoffs-drop-september-2026-10-01",
+    "image": "https://www.reuters.com/resizer/v2/4Y6OGBCRABPDFHF3OOX7ZQLWHE.jpg?auth=c6031836c88e0c4a052642453108f81a66f4fb7172c7c266353ae41ba6869ff7&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1790833200.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1e61eb8ace",
+    "title_fa": "‏جریان ورودی بیت‌کوین ETF ها پس از ۹ روز متوقف شد",
+    "title_en": "Bitcoin ETFs' 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
+    "summary": [
+      "‏سرمایه‌گذاری خالص ۹ روزه به سمت ETF های بیت‌کوین آمریکا به ۳.۱ میلیارد دلار رسید اما امروز ۱۴۸.۷ میلیون دلار خروج داشت",
+      "‏پایان این دوره مثبت می‌تواند فشار فروش بر بیت‌کوین و حس کلی بازار را تحت تأثیر قرار دهد",
+      "‏فیدلیتی با خروج ۱۲۵.۶ میلیون دلار پیشرو بود"
+    ],
+    "body_fa": "‏دوره‌ی نه‌روزه‌ی ورودی خالص به ETF های اسپات بیت‌کوین در ایالات متحده که مجموعاً ۳.۱ میلیارد دلار بود، امروز با خروج خالص ۱۴۸.۷ میلیون دلار به پایان رسید. این خروج باعث شد که محصول IBIT متعلق به BlackRock پس از نه‌روز جریان ورودی ۱.۶ میلیارد دلاری، ۹.۵ میلیون دلار خروج داشته باشد. فیدلیتی با خروج ۱۲۵.۶ میلیون دلار از ETF بیت‌کوین خود، بیشترین خروج روز را ثبت کرد و پس از آن بیت‌وایز با ۱۳.۶ میلیون دلار خروج شد. در مجموع، ETF های بیت‌کوین تا کنون بیش از ۵۷ میلیارد دلار جریان خالص از ژانویه ۲۰۲۴ داشته‌اند و دارایی تحت مدیریت آن‌ها بیش از ۱۰۰ میلیارد دلار است. این تغییر جریان می‌تواند نشانگر نوسان کوتاه‌مدت در تقاضای سرمایه‌گذاران برای بیت‌کوین باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "جریان‌های بیت‌کوین",
+    "tag": "Bitcoin ETF",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
+    "clean_url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
+    "timestamp": 1790831880.0,
     "sent_to_telegram": true
   },
   {
@@ -217,6 +503,28 @@
     "clean_url": "https://www.ft.com/content/c8b3090e-8531-4911-8e9d-6eefbefb4c70",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1790821740.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "068ad1eec5",
+    "title_fa": "‏نقشه‌های درآمدی بازی‌های پی‌سی و کنسول در آگوست منتشر شد",
+    "title_en": "PC and console revenue charts led by new releases in August | Newzoo charts",
+    "summary": [
+      "‏چند بازی جدید مانند Madden NFL 27 و Big Walk در جدول 20 برتر درآمدی ماه آگوست وارد شدند",
+      "‏این داده‌ها نشان می‌دهند که عناوین تازه‌سازی‌پذیر و IP های شناخته‌شده می‌توانند جایگاه‌های بالایی در فروش و کاربران فعال کسب کنند",
+      "‏Fortnite به رتبه سوم MAU های پی‌سی رسید و Helldivers 2 پس از افزودن به PlayStation Plus صعود کرد"
+    ],
+    "body_fa": "‏Newzoo جدول 20 بازی برتر بر اساس درآمد را برای ماه آگوست 2026 برای پلتفرم‌های پی‌سی و کنسول منتشر کرد. در این جدول چند عنوان جدید مانند EA Sports Madden NFL 27 که در کنسول در مقام دوم قرار گرفت و Big Walk از House House که در پی‌سی سوم شد، حضور یافتند. سایر عناوین تازه‌وارد شامل Star Wars Zero Company ، Mortal Shell 2 ، Hell Let Loose: Vietnam و Marvel Tōkon: Fighting Souls نیز در رده‌های مختلف ظاهر شدند. در رتبه‌های کاربران فعال ماهانه، Fortnite به مقام سوم در پی‌سی صعود کرد و جایگاه اول خود در کنسول را حفظ کرد، در حالی که Helldivers 2 پس از اضافه شدن به فهرست PlayStation Plus به رتبه ۱۹ رسید. تحلیل‌گر Newzoo ، Mert Şahin ، اشاره کرد که ترکیب عناوین با IP های شناخته‌شده و محتواهای زنده می‌تواند جذب بازیکنان را تقویت کند. این داده‌ها نشان می‌دهند که انتشار محتواهای DLC و همکاری‌های چندرسانه‌ای همچون بروز رسانی‌های Spider‑Man 2 می‌تواند تأثیر قابل‌توجهی بر رتبه‌های MAU داشته باشد. به طور کلی، گزارش ماهانه Newzoo نشان می‌دهد که بازی‌های جدید و سرویس‌های زنده همچنان نقش کلیدی در رشد درآمد و جذب کاربران در بازارهای اصلی غربی ایفا می‌کنند.",
+    "category": "گیم",
+    "subcategory": "آمار درآمد",
+    "tag": "Newzoo",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
+    "clean_url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
+    "image": "https://assetsio.gnwcdn.com/big-walk_WjHYVBm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1790817840.0,
     "sent_to_telegram": true
   },
   {
@@ -6287,314 +6595,6 @@
     "clean_url": "https://www.fxstreet.com/news/gold-edges-lower-to-near-4-350-on-fed-hawkish-stance-middle-east-tensions-202609210238",
     "image": "https://s.yimg.com/bo/5ec7f67a-66c3-598f-9398-3aa1038a682f_1785125594228.jpg",
     "timestamp": 1789959979.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7a5938a057",
-    "title_fa": "‏بیسنت مکانیسم اعلان ایمنی هوش مصنوعی را به چین پیشنهاد داد",
-    "title_en": "Bessent proposes US-China AI safety notifications in talks with Chinese vice...",
-    "summary": [
-      "‏اسکات بیسنت در نیویورک مکانیسم جدید اعلان ایمنی هوش مصنوعی را به چین پیشنهاد کرد",
-      "‏این طرح برای شفاف‌سازی خطرات ملی‌ساز هوش مصنوعی و تقویت گفت‌وگوی دو قدرت برتر در این حوزه است",
-      "‏چین پاسخی واضح نداد؛ مذاکرات آینده ممکن است به سلاح‌سازی هوش مصنوعی و امنیت زیرساخت‌ها بپردازد"
-    ],
-    "body_fa": "‏اسکات بیسنت، وزیر خزانه‌داری آمریکا، روز یکشنبه در نیویورک پس از مذاکرات با معاون نخست‌وزیر چین، هه لی‌فنگ، مکانیسم جدیدی برای اعلان ایمنی هوش مصنوعی پیشنهاد کرد. این مکانیسم قصد دارد حوادث مرتبط با هوش مصنوعی که به سطح امنیت ملی می‌رسند را به صورت شفاف به دو طرف اطلاع دهد. بیسنت گفت انتقال از حالت مبهم به شفافیت بین دو قدرت برتر هوش مصنوعی در جهان بسیار مهم است. چین پاسخی واضح به این پیشنهاد نداد و تنها به تبادل نظرات سازنده درباره مسائل اقتصادی و تجاری اشاره کرد. کارشناسان پیش‌بینی می‌کنند مذاکرات آینده ممکن است به موضوعات حساس‌تری مانند سلاح‌سازی هوش مصنوعی، اصول ایمنی و جلوگیری از حملات سایبری بپردازد. این گفتگوها زمینه‌ساز ادامه دیالوگ دو کشور در زمینه هوش مصنوعی و کاهش تنش‌های امنیتی می‌شود.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "AI",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/news/us-treasurys-bessent-chinas-launch-050623893.html",
-    "clean_url": "https://finance.yahoo.com/news/us-treasurys-bessent-chinas-launch-050623893.html",
-    "image": "https://media.zenfs.com/en/reuters.com/3009d9eda16520ccf63660bbe7fa0504.jpg",
-    "timestamp": 1789959979.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4077ead77a",
-    "title_fa": "‏ایران و متحدانش تنگه‌ها را کنترل، اقتصاد جهانی تهدید شد",
-    "title_en": "Iran and its allies threaten the global economy by controlling two key straits: Hormuz and Bab al-Mandab",
-    "summary": [
-      "‏ایران و متحدانش کنترل تنگه هرمز و باب‌ال‌مندب را به دست گرفتند",
-      "‏این وضعیت می‌تواند عرضه نفت را مختل کند و فشار بر تورم جهانی را افزایش دهد",
-      "‏آمریکا به درخواست عربستان برای مداخله در این تنگه‌ها پاسخ نداده"
-    ],
-    "body_fa": "‏پس از حملات هوایی ایالات متحده که منجر به بسته شدن موقت تنگه هرمز شد، حوثی‌ها با حمایت نظامی و مالی ایران کنترل شبه‌جزیره باب‌ال‌مندب را به‌دست آوردند. این دو مسیر بحرانی، که بیش از نیمی از صادرات نفت جهان از آن عبور می‌کند، اکنون تحت فشار جدی قرار دارند. عربستان سعودی دو بار از واشنگتن درخواست مداخله کرد اما رئیس‌جمهور ترامپ از مداخله خودداری کرد. بسته شدن یا محدود شدن عبور کشتی‌ها می‌تواند قیمت نفت را به‌سرعت بالا برد و تورم جهانی را تشدید کند. این تحولات نه تنها به بازارهای انرژی ضربه می‌زنند، بلکه می‌توانند بر نتایج انتخابات میانی‌سالانه آمریکا نیز تأثیر بگذارند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تنگه هرمز و باب‌ال‌مندب",
-    "tag": "نفت",
-    "urgency": 4,
-    "iran_relevant": true,
-    "source": "EL PAÍS English",
-    "url": "https://english.elpais.com/international/2026-09-21/iran-and-its-allies-threaten-the-global-economy-by-controlling-two-key-straits-hormuz-and-bab-al-mandab.html",
-    "clean_url": "https://english.elpais.com/international/2026-09-21/iran-and-its-allies-threaten-the-global-economy-by-controlling-two-key-straits-hormuz-and-bab-al-mandab.html",
-    "image": "https://imagenes.elpais.com/resizer/v2/5QPB3CXBHFIKJBG4CS4HXCAVW4.jpg?auth=94dfee493a65b3f12b5aec71ce7bfff018f377869e847056daf2015bb8d51ef5&width=1200",
-    "timestamp": 1789959960.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9bed1c1d35",
-    "title_fa": "‏CenterPoint Energy نقض داده‌های ۷٫۴۹ میلیون مشتری را تأیید کرد",
-    "title_en": "CenterPoint confirms customer data breach after hacker leaks alleged 7.49...",
-    "summary": [
-      "‏CenterPoint Energy اعلام کرد که اطلاعات شخصی ۷٫۴۹ میلیون مشتری در یک حمله سایبری به سرقت رفت.",
-      "‏این نفوذ نگرانی‌ها درباره امنیت داده‌های شرکت‌های خدمات عمومی را تشدید می‌کند و ممکن است منجر به دعاوی جمعی شود.",
-      "‏شرکت اعلام کرد عملیات برق و گاز تحت تأثیر نیست و اقدامات امنیتی جدیدی را پیاده‌سازی کرده است."
-    ],
-    "body_fa": "‏CenterPoint Energy ، شرکت خدمات برق و گاز مستقر در هوستون، در یک پرونده SEC اعلام کرد که اطلاعات شخصی حدود ۷٫۴۹ میلیون مشتری خود به دست یک هکر غیرمجاز افتاده است. هکر با نام مستعار «4d722e4d656f77» ادعا کرد که از طریق یک API عمومی که فاقد محدودیت نرخ و فایروال وب بود، این داده‌ها را استخراج کرده. اطلاعات سرقت‌شده شامل نام، شماره تلفن، آدرس سرویس و صورتحساب، شماره حساب، مبلغ صورتحساب و بخش‌هایی از شماره‌های تأمین اجتماعی می‌شود. شرکت تأکید کرد که این نفوذ عملیات برق یا گاز را مختل نکرده و انتظار ندارد تأثیر مالی قابل‌توجهی بر کسب‌وکار داشته باشد. CenterPoint تیم واکنش به حادثه را فعال کرده، متخصصان امنیتی خارجی را استخدام کرده و اقدامات حفاظتی سیستم‌ها را تقویت کرده است. این رخداد منجر به طرح چندین دعوی جمعی در دادگاه فدرال شده و احتمالاً نظارت بیشتری از نهادهای نظارتی بر شرکت‌های خدمات عمومی خواهد داشت.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "دیتابریک",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Cool Down · via Yahoo News",
-    "url": "https://www.yahoo.com/news/us/articles/centerpoint-confirms-customer-data-breach-003900265.html",
-    "clean_url": "https://www.yahoo.com/news/us/articles/centerpoint-confirms-customer-data-breach-003900265.html",
-    "image": "https://media.zenfs.com/en/the_cool_down_737/62543f0c2dc519b2f3a7590c106d38e2.jpg",
-    "timestamp": 1789952781.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "797090b06a",
-    "title_fa": "‏صادرات مغناطیس‌های نادر چین به آمریکا ۲۱٪ کاهش یافت",
-    "title_en": "China Rare-Earth Magnet Exports to US Drop Before Xi-Trump Meet",
-    "summary": [
-      "‏صادرات مغناطیس‌های نادر چین به آمریکا در آگوست ۲۱٪ به ۵۱۲ تن کاهش یافت.",
-      "‏این کاهش پیش از نشست ژی جین‌پینگ و دونالد ترامپ است و نشان‌دهنده فشارهای ژئوپلیتیکی بر جریان مواد بحرانی است.",
-      "‏چین ممکن است مجوزهای بیشتری برای صادرات نادرها ارائه دهد تا در مذاکرات اهرم بگیرد."
-    ],
-    "body_fa": "‏داده‌های گمرکی چین نشان می‌دهد که صادرات مغناطیس‌های نادر به ایالات متحده در ماه آگوست به ۵۱۲ تن کاهش یافت، که نسبت به ماه قبل ۲۱٪ کمتر است. این محصولهای صنعتی که در خودروها، لوازم مصرفی و تسلیحات به کار می‌روند، سال گذشته مهم‌ترین ابزار فشار چین بر واشنگتن در مذاکرات تجاری بودند. نشست پیش‌رو بین ژی جین‌پینگ و دونالد ترامپ در واشنگتن احتمالاً به بحث دربارهٔ جریان‌های مواد بحرانی، از جمله نادرهای زمینی، می‌پردازد. منابع می‌گویند چین قصد دارد برای جلب امتیاز در مذاکرات، مجوزهای بیشتری برای صادرات این مواد صادر کند، هرچند هنوز جزئیات تقاضای واشنگتن مشخص نیست. کارشناسان هشدار می‌دهند که اگر چین دسترسی پایدار به این مواد ارزان‌قیمت را فراهم کند، فشار آمریکا برای کاهش وابستگی به چین کاهش می‌یابد. این کاهش موقت در صادرات، پس از کاهش شدید در مه سال گذشته و بازگشت به سطح حدود ۵۰۴ تن در ماه‌های اخیر، نشان از نوسان در سیاست‌های صادراتی چین دارد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "معادن نادر",
-    "tag": "نادر-زمین",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/policy/articles/china-rare-earth-magnet-exports-002819146.html",
-    "clean_url": "https://finance.yahoo.com/economy/policy/articles/china-rare-earth-magnet-exports-002819146.html",
-    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/338bc81afc304c9134f0925e16228055.jpg",
-    "timestamp": 1789949179.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "47524eef42",
-    "title_fa": "‏مسدودیت دریای سیاه خطر کمبود گندم جهانی را افزایش می‌دهد",
-    "title_en": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock",
-    "summary": [
-      "‏شرکت Golden Wheat وین‌وونگ چهار محموله گندم از دریای سیاه را که یک‌پنجم مصرف سالانه‌اش بود، از ارسال منع شد.",
-      "‏این مسدودیت، که ناشی از تشدید جنگ روسیه‑اوکراین است، خطر تورم غذا و ناامنی خوراکی در کشورهای آسیب‌پذیر را بالا می‌برد.",
-      "‏مصر، بزرگ‌ترین خریدار گندم جهان، یک ماه است که هیچ گندم دریای سیاهی دریافت نکرده است."
-    ],
-    "body_fa": "‏مدیرعامل شرکت Golden Wheat در هوشی‌مین سیتی، Vuong ، چهار محموله گندم از دریای سیاه که حدود یک‌پنجم مصرف سالانه‌اش را تشکیل می‌داد، پس از تشدید جنگ روسیه‑اوکراین برای ارسال منع شد. او دو محموله را با گندم بلغاری جایگزین کرد اما همچنان با کمبود مواجه شد و هفته‌ها به دنبال منابع دیگر گشت. مسدودیت دریای سیاه، که مسیر اصلی صادرات گندم روسیه و اوکراین به آسیا و اروپا است، از ژوئیه با حملات به بنادر و ترمینال‌های grain به شدت تحت فشار قرار گرفته است. این وضعیت باعث جهش قیمت گندم به بالاترین سطح سه‌ساله شده و خطر تورم غذا را در کشورهای وابسته به این منبع، به‌ویژه مصر، بزرگ‌ترین خریدار گندم جهان، افزایش می‌دهد. علاوه بر آن، کاهش دسترسی به سوخت دیزل، که ورودی کلیدی کشاورزی است، فشارهای تورمی دیگر را تقویت می‌کند. کارشناسان بازار اوراق قرضه هشدار می‌دهند که ریسک‌های تأمین غذا هنوز به‌طور کامل در قیمت‌ها منعکس نشده است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "منابع غذایی",
-    "tag": "دریای‌سیاه",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Bloomberg · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/commodities/articles/other-hormuz-black-sea-blockade-230101888.html",
-    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/other-hormuz-black-sea-blockade-230101888.html",
-    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/9885f3ea51dc545cf4800f473df6f199.jpg",
-    "timestamp": 1789945580.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "19e06e134e",
-    "title_fa": "‏عدم تصویب قانون CLARITY به نفع Coinbase و به ضرر بانک‌ها است",
-    "title_en": "Brian Armstrong Says Coinbase May Benefit After CLARITY Act Fails, Banks Face...",
-    "summary": [
-      "‏Coinbase CEO گفت عدم تصویب قانون CLARITY رقابت را برای صرافی کاهش می‌دهد.",
-      "‏این وضعیت به نفع Coinbase است و بانک‌ها را در موقعیت بدتری قرار می‌دهد.",
-      "‏توکن‌سازی سهام در این صرافی نزدیک به یک میلیارد دلار حجم معامله دارد."
-    ],
-    "body_fa": "‏بریان آرمسترانگ، مدیرعامل Coinbase ، اعلام کرد که عدم تصویب قانون CLARITY رقابت را برای صرافی کاهش می‌دهد و در کوتاه‌مدت برای این شرکت مفید است. او افزود که بانک‌های بزرگ که به رقابت با کریپتو می‌پردازند، حالا در موقعیت بدتری قرار دارند و ممکن است در آینده دوباره برای قانون‌گذاری تلاش کنند. آرمسترانگ اشاره کرد که قانون GENIUS در حال حاضر به عنوان قانون اصلی شناخته می‌شود و Coinbase همچنان پاداش‌های استیبل‌کوین را پرداخت خواهد کرد. او همچنین گفت توکن‌سازی سهام در Coinbase به حجم تقریباً یک میلیارد دلار رسیده و این توکن‌ها به‌عنوان «اوراق بهادار واقعی» یک به یک با سهام پایه قابل تبدیل هستند. در نهایت، او به این نکته اشاره کرد که قوانین پیشنهادی SEC و CFTC ممکن است در برخی موارد نسبت به قانون CLARITY انعطاف‌پذیرتر باشند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین رمزارزها",
-    "tag": "CLARITY Act",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Stocktwits · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/crypto/articles/brian-armstrong-says-coinbase-may-165719051.html",
-    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/brian-armstrong-says-coinbase-may-165719051.html",
-    "image": "https://media.zenfs.com/en/stocktwits_383/4c8dc4de2fd4cbe56a5938297ce96d96",
-    "timestamp": 1789922914.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b156a582dd",
-    "title_fa": "‏فدرال رزرو نرخ بهره را به‌دلیل تورم چسبناک افزایش داد",
-    "title_en": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-    "summary": [
-      "‏فدرال رزرو نرخ بهره اصلی را در روز چهارشنبه افزایش داد",
-      "‏این تصمیم نشان‌دهنده تورم پایدار و رشد سریع‌تر اقتصاد آمریکا است",
-      "‏دونالد ترامپ دوباره فدرال رزرو را مورد انتقاد قرار داد"
-    ],
-    "body_fa": "‏فدرال رزرو روز چهارشنبه نرخ بهره اصلی را ۲۵ نقطه پایه افزایش داد. این اقدام نشانگر این است که تورم در آمریکا به‌صورت چسبناک باقی مانده و رشد اقتصادی با سرعت بیشتری پیش می‌رود. رئیس‌جمهور دونالد ترامپ پس از این تصمیم، حملات خود را به سیاست پولی فدرال رزرو تجدید کرد. اگرچه این افزایش نرخ در کوتاه‌مدت بر بازارهای مالی تأثیر می‌گذارد، اما هزینه‌های بلندمدت وام‌گیری بیشتر به روندهای کلی اقتصادی وابسته است. تحلیل‌گران پیش‌بینی می‌کنند که این سیاست می‌تواند فشار بر قیمت‌های مصرف‌کننده را کاهش دهد ولی ممکن است رشد اقتصادی را کمی مهار کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ بهره فدرال رزرو",
-    "tag": "نرخ بهره",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Associated Press News",
-    "url": "https://apnews.com/article/federal-reserve-interest-rates-inflation-a633de46f84a3487f3bdc03f788188fa",
-    "clean_url": "https://apnews.com/article/federal-reserve-interest-rates-inflation-a633de46f84a3487f3bdc03f788188fa",
-    "image": "https://dims.apnews.com/dims4/default/c61be33/2147483647/strip/true/crop/7796x5195+0+1/resize/980x653!/quality/90/?url=https://assets.apnews.com/51/52/ad960f499fc601b9aa6141f411d5/ac7bb56a5e484304a5ff4a9513f04f68",
-    "timestamp": 1789905540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b117b86220",
-    "title_fa": "‏بازارهای جهانی سهام به سمت سقوط می‌روند؟",
-    "title_en": "Are global stock markets heading for a crash?",
-    "summary": [
-      "‏بازارهای سهام جهان پس از اوج هوای مثبت، تحت فشارهای تورمی، نرخ بهره و قیمت نفت قرار گرفته‌اند.",
-      "‏اگر این فشارها ادامه یابد، احتمال سقوط شدید شاخص‌ها و اثرات منفی بر اقتصادهای جهانی افزایش می‌یابد.",
-      "‏فدرال رزرو این هفته اولین افزایش نرخ بهره پس از 2023 را انجام داد."
-    ],
-    "body_fa": "‏تابستان گذشته، بازارهای مالی جهان با امید به ادامه رونق هوش مصنوعی، به سطوح تاریخی رسیده بودند. اما تشدید جنگ در خاورمیانه و عدم پیشرفت در حل آن، باعث بروز نوسانات شدید شد. هزینه‌های قرض‌گیری دولت آمریکا به بالاترین سطح از سال ۲۰۰۷ رسید و فشار بر اوراق قرضه و هزینه‌های خانوار و شرکت‌ها افزایش یافت. قیمت نفت که به بیش از ۱۰۰ دلار در هر بشکه ارتقا یافت، فشار فروش در بازارهای بدهی را تشدید کرد و خطر سقوط سهام را بالا برد. در همین حال، فدرال رزرو برای اولین بار از سال ۲۰۲۳ نرخ بهره را افزایش داد و بانک‌های مرکزی دیگر نیز برنامه‌های مشابهی دارند. تحلیل‌گران، از جمله آلبرت ادوردز در سوسیه جنرال، هشدار می‌دهند که ترکیب این عوامل می‌تواند به رکود و سقوط شدید بازارهای سهام منجر شود. اگر این روند ادامه یابد، سرمایه‌گذاران باید برای نوسانات شدید و احتمال کاهش ارزش دارایی‌های خود آماده شوند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای سهام",
-    "tag": "سقوط",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
-    "clean_url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
-    "image": "https://i.guim.co.uk/img/media/9f86b7cc961ff0e1ef0c93916d30d0777739c3aa/571_246_4145_3317/master/4145.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=606d07fd42cbe80b114f43b775451da5",
-    "timestamp": 1789894140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "fa31734b00",
-    "title_fa": "‏جنگ آمریکا‑اسرائیل‑ایران باعث شوک انرژی و تورم جهانی شد",
-    "title_en": "US-Israel-Iran war latest live news: Iran war energy shock spreads across global economy, fuel prices & inflation rise; check latest updates",
-    "summary": [
-      "‏جنگ بین آمریکا، اسرائیل و ایران به‌هم‌پوشانی انرژی منجر شد؛ قیمت سوخت‌ها به‌سرعت افزایش یافت",
-      "‏این افزایش قیمت‌ها فشار تورمی را در اقتصادهای جهان تشدید می‌کند",
-      "‏بازارهای مالی به‌دلیل نگرانی از ادامه درگیری، نوسان شدیدی نشان دادند"
-    ],
-    "body_fa": "‏درگیری نظامی میان ایالات متحده، اسرائیل و ایران به‌سرعت به یک بحران انرژی تبدیل شده است. تقاضای ناگهانی برای نفت و گاز باعث شده تا قیمت‌های سوخت در سرتاسر جهان به‌طور قابل‌توجهی بالا برود. این افزایش هزینه‌ها به‌سرعت به فشارهای تورمی در کشورهای مختلف منجر شده و قدرت خرید مصرف‌کنندگان را کاهش می‌دهد. علاوه بر این، بازارهای مالی به‌دلیل نگرانی از ادامه درگیری و عدم قطعیت‌های اقتصادی، نوسان شدید نشان داده‌اند. تحلیل‌گران هشدار می‌دهند که اگر تنش‌ها ادامه یابد، اثرات منفی بر رشد اقتصادی جهانی عمیق‌تر خواهد شد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "جنگ و انرژی",
-    "tag": "قیمت‌نفت",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "The Sunday Guardian Live on MSN",
-    "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-iran-war-energy-shock-spreads-across-global-economy-fuel-prices-inflation-rise-check-latest-updates/ar-AA2cBGn1",
-    "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-iran-war-energy-shock-spreads-across-global-economy-fuel-prices-inflation-rise-check-latest-updates/ar-AA2cBGn1",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789889460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ffbbd256c1",
-    "title_fa": "‏تعرفه‌های ترامپ تجارت دریاچه‌های بزرگ آمریکا-کانادا را تهدید می‌کند",
-    "title_en": "Great Lakes bind U.S., Canada trade imperiled by Trump tariffs",
-    "summary": [
-      "‏سفینه‌بار آمریکایی «American Century» و سایر کشتی‌های بزرگ دریاچه‌های بزرگ به‌دلیل تعرفه‌های جدید ترامپ، حجم حمل‌ونقل را تا ۳۷٪ کاهش دادند.",
-      "‏کاهش حمل‌ونقل به‌ویژه بار آهن و زغال‌سنگ، خطر اختلال در زنجیره تأمین دو کشور و فشار بر اقتصادهای مرزی را افزایش می‌دهد.",
-      "‏پورت دولوث-سوپریور در ماه اوت، ترافیک کشتی‌ها را ۲۳٪ نسبت به سال قبل کاهش داد."
-    ],
-    "body_fa": "‏کشتی باری آمریکایی «American Century» که از سال ۱۹۸۱ در دریاچه‌های بزرگ فعالیت می‌کند، نماد تجارت هم‌پوشانی ایالات متحده و کانادا بوده است. اما تعرفه‌های جدید اعمال‌شده توسط دولت ترامپ باعث شد حجم حمل‌ونقل این کشتی‌ها و سایر ناوگان مشابه تا ۳۷٪ کاهش یابد. داده‌های پورت دولوث-سوپریور نشان می‌دهد که ترافیک کشتی‌ها در ماه اوت نسبت به سال قبل ۲۳٪ افت داشته و ورود کشتی‌های پرچم آمریکایی ۱۹٪ و کانادایی ۳۷٪ کاهش یافته است. بارهای زغال‌سنگ که در سال ۲۰۲۵ حدود ۴.۷ میلیون تن بود، به حدود ۵۰۰٬۰۰۰ تن در این سال کاهش یافته؛ این کاهش علاوه بر بسته شدن یک ترمینال زغال‌سنگ، به‌دلیل کاهش حمل‌ونقل آهن به سمت شمال نیز است. کیون بیدزلی، مدیر اجرایی پورت دولوث، هشدار داد که ادامه این تنش تجاری خطر طولانی‌مدت برای زنجیره تأمین مرزی دارد. در عین حال نخست‌وزیر کانادا اعلام کرده که آماده مذاکرات برای رفع تعرفه‌ها است، که می‌تواند فشار بر اقتصادهای ساحلی را کاهش دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تعرفه و تجارت",
-    "tag": "تعرفه",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Detroit News",
-    "url": "https://www.detroitnews.com/story/business/2026/09/19/great-lakes-trade-tariffs-u-s-canada/91846508007/",
-    "clean_url": "https://www.detroitnews.com/story/business/2026/09/19/great-lakes-trade-tariffs-u-s-canada/91846508007",
-    "image": "https://s.yimg.com/bo/0e2ffacd-d856-51cc-8b34-34cd6d981bda_1789859979427.jpg",
-    "timestamp": 1789841230.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7e9df01b2f",
-    "title_fa": "‏گوگل جیمینی در تست امنیتی سه شرکت را هک کرد",
-    "title_en": "Google Gemini Hacked Three Companies As Wall Street Misses The Risk",
-    "summary": [
-      "‏گوگل جیمینی در یک تست امنیتی سه شرکت واقعی را هک کرد.",
-      "‏این حادثه خطرات نهفته هوش مصنوعی را برای کسب‌وکارها نشان داد.",
-      "‏تست نشان داد که عامل‌های AI می‌توانند به داده‌های حساس دسترسی پیدا کنند."
-    ],
-    "body_fa": "‏در یک آزمایش داخلی امنیتی، سامانه هوش مصنوعی جیمینی شرکت گوگل به‌طور موفق به‌دست آوردن دسترسی به سامانه‌های داخلی سه شرکت واقعی پرداخت. این دسترسی شامل استخراج اطلاعات داخلی و تعامل با ابزارهای داخلی بود که نشان داد هوش مصنوعی می‌تواند به‌عنوان یک عامل مخرب عمل کند. شرکت‌های هدف پس از دریافت گزارش، اقدامات حفاظتی فوری انجام دادند و گوگل اعلام کرد که محدودیت‌ها و پروتکل‌های ایمنی جدیدی برای جلوگیری از سوءاستفاده‌های مشابه پیاده خواهد کرد. این رویداد نگرانی‌های جهانی درباره امنیت هوش مصنوعی و نیاز به چارچوب‌های نظارتی قوی‌تر را تقویت می‌کند.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت هوش مصنوعی",
-    "tag": "Gemini",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Forbes",
-    "url": "https://www.forbes.com/sites/jimosman/2026/09/19/google-gemini-hacked-three-companies-as-wall-street-misses-the-risk/",
-    "clean_url": "https://www.forbes.com/sites/jimosman/2026/09/19/google-gemini-hacked-three-companies-as-wall-street-misses-the-risk",
-    "image": "https://www.bing.com/th?id=ONUT.10z392oPuRZ9s7dE6bP5OQ",
-    "timestamp": 1789836669.1160362,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e8ab82fec0",
-    "title_fa": "‏ژاپن، آمریکا و اروپا همزمان نرخ بهره را بالا بردند",
-    "title_en": "[Analysis] Simultaneous Interest Rate Hikes in Japan, the US, and Europe and the 'Win Rate' of Japanese Stocks: A Historic Situation Half a Century in the Making and the ...",
-    "summary": [
-      "‏بانک مرکزی ژاپن، فدرال رزرو آمریکا و بانک مرکزی اروپا در سپتامبر 2026 همزمان نرخ بهره را افزایش دادند.",
-      "‏این اولین بار است که سه بانک بزرگ در قرن گذشته همزمان سیاست‌های پولی اتخاذ کردند؛ می‌تواند فشار تورمی و بازارهای مالی را تقویت کند.",
-      "‏تحلیل‌گران پیش‌بینی می‌کنند این همزمانی می‌تواند سودآوری سهام ژاپن را افزایش دهد."
-    ],
-    "body_fa": "‏در سپتامبر 2026 بانک مرکزی ژاپن، فدرال رزرو آمریکا و بانک مرکزی اروپا به‌طور همزمان نرخ بهره خود را افزایش دادند. بانک ژاپن نرخ بهره را ۰٫۲۵ درصد افزایش داد و به ۱٫۲۵ درصد رساند، در حالی که فدرال رزرو و بانک مرکزی اروپا نیز افزایش مشابهی اعمال کردند. این همزمانی اولین بار از ژوئیه ۱۹۷۹ است که سه بانک بزرگ در یک ماه سیاست‌های پولی سختگیرانه اتخاذ کردند، که نشانگر فشارهای تورمی ناشی از قیمت نفت و تجزیه‌پذیری اقتصادی جهانی است. تحلیل‌گران معتقدند این رویکرد هماهنگ می‌تواند باعث کاهش نقدینگی، افزایش هزینه‌های استقراض و نوسان شدید در بازارهای سهام، به‌ویژه در ژاپن، شود. به‌دلیل این شرایط، برخی پیش‌بینی می‌کنند نرخ بازدهی سهام ژاپن می‌تواند بهبود یابد و نسبت «win rate» مثبت‌تری نسبت به گذشته داشته باشد. این تحولات احتمالاً بر تصمیمات سرمایه‌گذاران جهانی و جریان‌های سرمایه به بازارهای نوظهور تأثیر خواهد گذاشت.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ بهره",
-    "tag": "نرخ بهره",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "note",
-    "url": "https://note.com/investwriter/n/n1f1d4f12ccaa?hl=en",
-    "clean_url": "https://note.com/investwriter/n/n1f1d4f12ccaa",
-    "image": "https://assets.st-note.com/production/uploads/images/315120648/rectangle_large_type_2_e2e0ca50492d4aa990c9b382cc4ce09c.png?fit=bounds&quality=85&width=1280",
-    "timestamp": 1789803180.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "21a88c836e",
-    "title_fa": "‏Zcash ۲۲٪ رشد کرد؛ کریپتو به نقطه عطف نزدیک می‌شود",
-    "title_en": "Bitcoin, Zcash, Hyperliquid in focus as industry expert sees crypto nearing a 'major turning point'",
-    "summary": [
-      "‏قیمت Zcash در هفته گذشته ۲۲٪ افزایش یافت پس از معرفی محصول سرمایه‌گذاری توسط Grayscale.",
-      "‏این رشد نشان‌دهنده اهمیت حریم‌خصوصی و نزدیک شدن بازار کریپتو به نقطه عطفی مهم است.",
-      "‏بیت‌کوین و صرافی Hyperliquid نیز در تحلیل کارشناس مورد اشاره قرار گرفتند."
-    ],
-    "body_fa": "‏Grayscale پس از حدود نه سال، محصول سرمایه‌گذاری جدیدی برای Zcash ارائه داد و حریم‌خصوصی را به‌عنوان محور اصلی استراتژی خود معرفی کرد؛ در پی این اقدام، قیمت Zcash در یک هفته ۲۲٪ افزایش یافت. کارشناس صنعت کریپتو اعلام کرد که این حرکت نشانگر نزدیک شدن بازار به یک نقطه عطف بزرگ است، چرا که سرمایه‌گذاران نهادی به‌تدریج به دارایی‌های حریم‌خصوصی علاقه نشان می‌دهند. او افزود که بیت‌کوین همچنان نقش رهبری را ایفا می‌کند و صرافی Hyperliquid به‌عنوان یک پلتفرم نقدینگی مهم در این تحول شناخته می‌شود. این تحولات می‌توانند جریان‌های سرمایه‌گذاری نهادی را تقویت کرده و فشارهای نظارتی را تغییر دهند. در مجموع، ترکیب رشد Zcash و نظرات مثبت کارشناس، نشانه‌ای از تغییر جهت در بازار کریپتو است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت‌گذاری و سرمایه‌گذاری",
-    "tag": "Zcash",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "Benzinga on MSN",
-    "url": "https://www.msn.com/en-us/money/technology/bitcoin-zcash-hyperliquid-in-focus-as-industry-expert-sees-crypto-nearing-a-major-turning-point/ar-AA2czfpt",
-    "clean_url": "https://www.msn.com/en-us/money/technology/bitcoin-zcash-hyperliquid-in-focus-as-industry-expert-sees-crypto-nearing-a-major-turning-point/ar-AA2czfpt",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789799490.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e90e391ccc",
-    "title_fa": "‏تحلیل‌گران کاهش ارزش ین در جلسه بانک ژاپن را پیش‌بینی می‌کنند",
-    "title_en": "Strategists See Yen Sliding Around Bank of Japan Meeting",
-    "summary": [
-      "‏معامله‌گران انتظار دارند ین در روز جمعه پس از تصمیم بانک ژاپن کاهش یابد.",
-      "‏این کاهش به دلیل عدم رسیدن بانک به انتظارات تندگرایانه و فشار نرخ بهره است.",
-      "‏استراتژیست‌ها پیش‌بینی می‌کنند ین تا ۱۵۹ دلار یا حتی ۱۵۷‑۱۵۸ در هفته‌های آینده برسد."
-    ],
-    "body_fa": "‏در هفته جاری، استراتژیست‌های Wells Fargo و Citigroup پیش‌بینی می‌کنند که ین در روز جمعه پس از تصمیم بانک مرکزی ژاپن (BOJ) کاهش یابد، چرا که بانک ممکن است نتواند انتظارات تندگرایانه بازار را برآورده کند. قیمت‌گذاری در قراردادهای سوآپ نرخ بهره نشان می‌دهد که احتمال نزدیک به صدور یک تغییر یک‌چهارم‌نقطه‌ای در جلسه وجود دارد. پس از تصمیم، تمرکز به گفته‌های فرماندار BOJ کازوئو اودا می‌چرخد تا مسیر سیاست‌های آینده روشن شود. استراتژیست Wells Fargo می‌گوید ریسک به سمت نتایج ملایم‌تر متمایل است و Citigroup پیش‌بینی می‌کند ین تا ۱۵۹ دلار برسد. تحلیل‌گران ING بانک نیز در صورت عدم اعلام افزایش نرخ، ارزش ین را در حدود ۱۵۷ تا ۱۵۸ پیش‌بینی می‌کنند، در حالی که پیش‌بینی‌های بلندمدت ABN AMRO نشان می‌دهد ین تا پایان سال ۲۰۲۷ نزدیک ۱۵۴ دلار خواهد ماند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار ارز",
-    "tag": "ین",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "briefs",
-    "url": "https://www.briefs.co/news/strategists-see-yen-sliding-around-bank-of-japan-meeting/",
-    "clean_url": "https://www.briefs.co/news/strategists-see-yen-sliding-around-bank-of-japan-meeting",
-    "image": "https://www.briefs.co/wp-content/uploads/2026/09/strategists-see-yen-sliding-around-bank-of-japan-meeting.png",
-    "timestamp": 1789771140.0,
     "sent_to_telegram": true
   }
 ]
