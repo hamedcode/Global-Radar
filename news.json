@@ -1,5 +1,93 @@
 [
   {
+    "id": "4b45a29eb9",
+    "title_fa": "‏ایران نفت به تاجیکستان تحویل می‌دهد؛ ریسک تحریم آمریکا",
+    "title_en": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk |...",
+    "summary": [
+      "‏تاجیکستان از اواخر آگوست نفت و محصولات پتروشیمی ایران را دریافت می‌کند.",
+      "‏این تحویل به‌دنبال فشارهای روسیه و خطر تحریم‌های ثانویه آمریکا برای ایران است.",
+      "‏تاجیکستان حداکثر 2.55 میلیون تن نفت سالانه درخواست کرده، اما حجم فعلی نامشخص است."
+    ],
+    "body_fa": "‏تاجیکستان اعلام کرد که از اواخر آگوست نفت و محصولات پتروشیمی ایران را دریافت می‌کند. این تحویل پس از مذاکرات دو کشور برای گسترش همکاری در بخش نفت و گاز صورت گرفته است، اما وزارت انرژی حجم دقیق بارها و شرایط تجاری را فاش نکرده است. آمریکا هشدار داده که هر گونه فعالیت در بخش نفت ایران می‌تواند تحت خطر تحریم‌های ثانویه قرار گیرد. تاجیکستان تا 2.55 میلیون تن نفت و محصولات پتروشیمی در سال از ایران درخواست کرده، هرچند این رقم تنها درخواست است و نه مقدار تحویل فعلی. این گام در پی کاهش وابستگی تاجیکستان به سوخت‌های روسیه است که بیش از 91 درصد واردات آن را تشکیل می‌داد. در صورت ادامه این مسیر، ممکن است ترکیب تأمین انرژی در آسیای میانه تغییر کند و فشارهای ژئوپولیتیکی جدیدی بر روابط روسیه‑ایران‑آمریکا ایجاد شود.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "ایران‑تاجیکستان",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+    "image": "https://s.yimg.com/bo/b10dbf19-d0f3-599b-9dbf-5a8e84bfd678_1790969001590.jpg",
+    "timestamp": 1790969225.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f841673ed6",
+    "title_fa": "‏بانک مرکزی آلمان رشد اقتصاد را به 1 ٪ پیش‌بینی کرد",
+    "title_en": "Germany may grow twice as fast this year as earlier thought, Bundesbank says",
+    "summary": [
+      "‏بانک مرکزی آلمان (Bundesbank) پیش‌بینی کرد اقتصاد این سال حدود 1 ٪ رشد کند",
+      "‏این رقم تقریباً دو برابر پیش‌بینی قبلی است و می‌تواند تاثیر مثبت بر بازارهای اروپایی داشته باشد",
+      "‏بانک فدرال آلمان این پیش‌بینی را در گزارشی منتشر کرد"
+    ],
+    "body_fa": "‏بانک مرکزی آلمان (Bundesbank) در آخرین گزارش خود اعلام کرد که رشد اقتصاد آلمان در سال جاری حدود 1 ٪ خواهد بود؛ این مقدار تقریباً دو برابر پیش‌بینی قبلی که حدود 0.5 ٪ بود، است. این ارتقاء پیش‌بینی به دلیل بهبود تقاضای داخلی، کاهش هزینه‌های انرژی و عملکرد بهتر بخش صادراتی صورت گرفته است. اگرچه رشد 1 ٪ هنوز پایین محسوب می‌شود، اما می‌تواند فشار بر سیاست‌گذاران برای حفظ نرخ بهره فعلی را کاهش دهد. تحلیل‌گران انتظار دارند این خبر به ارتقای روحیه سرمایه‌گذاران در بازارهای سهام اروپایی منجر شود. همچنین، پیش‌بینی جدید می‌تواند تأثیر مثبتی بر ارز یورو داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "رشد آلمان",
+    "tag": "آلمان",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/germany-may-grow-twice-fast-this-year-earlier-thought-bundesbank-says-2026-10-02/",
+    "clean_url": "https://www.reuters.com/world/europe/germany-may-grow-twice-fast-this-year-earlier-thought-bundesbank-says-2026-10-02",
+    "image": "https://s.yimg.com/bo/86321458-6707-5707-a769-64104d068803_1788694405650.jpg",
+    "timestamp": 1790969224.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b3a62d4d7c",
+    "title_fa": "‏حمله خنثی‌ساز به خلبان در پرواز FlyDubai کشف شد",
+    "title_en": "Exclusive | FlyDubai Attacker Had Been Banned From Flying by Oman for Radical...",
+    "summary": [
+      "‏خلبان دوم FlyDubai در پرواز 1073 خلبان را با چاقو زخمی کرد.",
+      "‏این حمله پس از ممنوعیت او توسط عمان برای رفتار رادیکال رخ داد و امنیت هوانوردی منطقه را به چالش کشید.",
+      "‏او پس از این حادثه توسط هواپیمایی امارات استخدام شد."
+    ],
+    "body_fa": "‏در پرواز 1073 شرکت FlyDubai ، خلبان دوم به‌صورت ناگهانی خلبان را با چاقو حمله کرد. بررسی‌های اولیه نشان داد که این فرد پیش از این توسط دولت عمان به دلیل رفتارهای رادیکال از پروازهای تجاری منع شده بود. علی‌رغم این ممنوعیت، هواپیمایی امارات او را به‌عنوان هم‌پایلوت استخدام کرده بود. این حادثه منجر به اضطراب گسترده در میان مسافران و مقامات هوانوردی منطقه شد. سازمان‌های نظارتی بین‌المللی در حال بررسی نقص‌های امنیتی و احتمال اعمال محدودیت‌های جدید بر پروازهای خاورمیانه هستند. این رویداد می‌تواند روابط هوایی میان امارات، عمان و سایر کشورهای منطقه را تحت فشار قرار دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات هوایی",
+    "tag": "FlyDubai",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/world/middle-east/flydubai-attacker-had-been-banned-from-flying-by-oman-for-radical-views-ab363b5d",
+    "clean_url": "https://www.wsj.com/world/middle-east/flydubai-attacker-had-been-banned-from-flying-by-oman-for-radical-views-ab363b5d",
+    "image": "https://s.yimg.com/bo/d19c1e0d-94d5-5519-b1b2-5e995fc02865_1790971762131.jpg",
+    "timestamp": 1790969224.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5945e71639",
+    "title_fa": "‏مارک کارنی این ماه به ترکیه می‌رود",
+    "title_en": "EXCLUSIVE: Carney plans to visit Turkey this month, sources say",
+    "summary": [
+      "‏مارک کارنی، وزیر مالی کانادا، این ماه برای ملاقات با رجب طیب اردوغ‌دار به ترکیه می‌رود.",
+      "‏این بازدید می‌تواند روابط تجاری و سرمایه‌گذاری دو کشور را تقویت کند.",
+      "‏دیدار در چارچوب بحث‌های انرژی و همکاری‌های بانکی برنامه‌ریزی شده است."
+    ],
+    "body_fa": "‏مارک کارنی، وزیر مالی کانادا، برنامه دارد تا در اوایل این ماه به ترکیه سفر کند و با رئیس‌جمهور رجب طیب اردوغ‌دار دیدار نماید. این ملاقات در پی مذاکرات اخیر درباره گسترش تجارت دو جانبه و جذب سرمایه‌گذاری کانادایی در پروژه‌های انرژی ترکیه برنامه‌ریزی شده است. کارنی قصد دارد فرصت‌های همکاری در حوزه‌های بانکی، زیرساخت‌های سبز و زنجیره‌های تأمین را بررسی کند. تحلیلگران بر این باورند که این بازدید می‌تواند روابط اقتصادی دو کشور را تقویت کرده و نقش ترکیه را در استراتژی‌های تجاری کانادا ارتقا دهد. در صورت موفقیت، امکان امضای توافق‌نامه‌های جدید تجاری در آینده نزدیک وجود دارد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "دیپلماسی اقتصادی",
+    "tag": "Carney",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/carney-plans-visit-turkey-this-month-sources-say-2026-10-02/",
+    "clean_url": "https://www.reuters.com/world/americas/carney-plans-visit-turkey-this-month-sources-say-2026-10-02",
+    "image": "https://s.yimg.com/bo/4da1229c-824d-5020-8115-dcb35e2e0560_1790959218477.jpg",
+    "timestamp": 1790958421.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "cf08195972",
     "title_fa": "‏نوییدیا رکورد جدیدی ثبت کرد؛ بازار سهام فناوری رونق گرفت",
     "title_en": "Nvidia breaks through to new record highs. Plus, more good news for Boeing",
@@ -19,6 +107,116 @@
     "clean_url": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html",
     "image": "https://s.yimg.com/bo/afcbc5e3-7e63-5ee2-bcda-85fbfee5ebcd_1790645973388.jpg",
     "timestamp": 1790954947.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "21671a3ea2",
+    "title_fa": "‏اپل کنترل داده‌های مک را برابر هوش مصنوعی تقویت می‌کند",
+    "title_en": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
+    "summary": [
+      "‏Apple announced it will tighten data controls on macOS to block AI agents.",
+      "‏This move aims to protect user privacy and prevent unauthorized data access by AI tools.",
+      "‏The change could affect developers and enterprise security policies."
+    ],
+    "body_fa": "‏اپل تصمیم گرفته تا کنترل‌های داده‌ای در سیستم‌عامل macOS را سخت‌تر کند تا مانع دسترسی عوامل هوش مصنوعی به اطلاعات کاربران شود. این اقدام در چارچوب سیاست‌های حریم‌خصوصی شرکت است و هدفش جلوگیری از جمع‌آوری غیرمجاز داده‌ها توسط نرم‌افزارهای هوش مصنوعی است. توسعه‌دهندگان ممکن است مجبور شوند برنامه‌های خود را برای سازگاری با محدودیت‌های جدید به‌روزرسانی کنند. همچنین شرکت‌های بزرگ می‌توانند از این تغییر برای تقویت امنیت اطلاعات سازمانی بهره ببرند. این اصلاحات می‌تواند تأثیر قابل‌توجهی بر تجربه کاربری و بازار نرم‌افزارهای macOS داشته باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "حریم‌خصوصی",
+    "tag": "Apple",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790948940.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c54be94c65",
+    "title_fa": "‏ادغام 110 میلیارد دلاری Paramount‑Warner Bros. به Skydance شد",
+    "title_en": "Paramount’s Warner Bros. megamerger will just be called Skydance",
+    "summary": [
+      "‏پارامونت و Warner Bros. پس از تکمیل ادغام 110 میلیارد دلاری، نام جدید Skydance خواهد شد.",
+      "‏این ادغام بزرگ بازار سرگرمی را ترکیب می‌کند و می‌تواند تأثیر قابل‌توجهی بر ارزش سهام و محتوا داشته باشد.",
+      "‏همچنین Ynon Kreiz به عنوان هم‑CEO منصوب شد و قاضی پرونده‌های ضد انحصار را تأیید کرد."
+    ],
+    "body_fa": "‏دیوید الیسون، مدیرعامل Skydance ، اعلام کرد که پس از اتمام ادغام 110 میلیارد دلاری Paramount با Warner Bros. Discovery ، شرکت تحت نام Skydance فعالیت خواهد کرد. این تصمیم برای حفظ برندهای قدرتمند Paramount و Warner Bros. و جلوگیری از غلبه هویت جدید اتخاذ شد. قاضی دادگاه نیز توافق‌نامه‌ای که Paramount با کالیفرنیا و ۱۱ ایالت دیگر برای حل پرونده ضد انحصار بسته بود، تأیید کرد و آخرین مانع قانونی را برطرف کرد. بر اساس این توافق، Paramount باید در پنج سال آینده حداقل ۳۰ فیلم سینمایی در سال‌های اول و دوم عرضه کند. پیش از اتمام معامله که برای ۶ اکتبر برنامه‌ریزی شده، Ynon Kreiz ، مدیرعامل پیشین Mattel ، به عنوان هم‑CEO شرکت جدید منصوب شد. این ترکیب می‌تواند ساختار بازار سرگرمی را به‌طور اساسی تغییر داده و فرصت‌های جدیدی برای تولید محتوا و توزیع جهانی فراهم کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ادغام بزرگ رسانه‌ها",
+    "tag": "Skydance",
+    "urgency": 9,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
+    "clean_url": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
+    "image": "https://s.yimg.com/bo/94da9c52-10fe-566e-bf27-81ad19810ae0_1790950166022.jpg",
+    "timestamp": 1790947624.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1e60e18c43",
+    "title_fa": "‏فدرال‌ها کالیفرنی را قاچاق سرورهای Nvidia به چین دستگیر کردند",
+    "title_en": "Feds arrested a California man accused of smuggling $300 million of servers with Nvidia AI chips into China.",
+    "summary": [
+      "‏دولت آمریکا گریک لوی را به اتهام قاچاق سرورهای مجهز به چیپ‌های AI Nvidia به چین، به ارزش ۳۰۰ میلیون دلار، دستگیر کرد.",
+      "‏این پرونده نشان‌دهندهٔ فشارهای فدرال بر صادرات کنترل‌شده فناوری‌های هوش مصنوعی و تأثیر آن بر روابط تجاری آمریکا و چین است.",
+      "‏سال گذشته نیز چهار نفر به اتهام مشابه دستگیر شدند."
+    ],
+    "body_fa": "‏وزارت دادگستری آمریکا گریک لوی، یک مرد کالیفرنی، را به اتهام توطئه، پول‌شویی و قاچاق سرورهای حاوی چیپ‌های AI Nvidia به چین متهم کرد. مقامات می‌گویند این سرورها به ارزش حدود ۳۰۰ میلیون دلار از طریق بازصادر از کشورهایی چون مالزی و سنگاپور به چین منتقل شده‌اند. این اقدام نقض قوانین صادرات کنترل‌شده است که هدفشان جلوگیری از انتقال فناوری‌های پیشرفته هوش مصنوعی به چین می‌باشد. این پرونده پس از دستگیری چهار نفر در سال گذشته به دلیل اتهامات مشابه، نشان‌دهندهٔ تشدید نظارت فدرال بر زنجیره تأمین چیپ‌های AI است. اگرچه هنوز تأثیر مستقیم بر قیمت سهام Nvidia مشخص نیست، اما این خبر می‌تواند فشارهای نظارتی بیشتری بر شرکت‌های فناوری و زنجیره تأمینشان ایجاد کند.",
+    "category": "تکنولوژی",
+    "subcategory": "صادرات کنترل‌شده",
+    "tag": "Nvidia",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1004320/feds-arrested-a-california-man-accused-of-smuggling-300-million-of-servers-with-nvidia-ai-chips-into-china",
+    "clean_url": "https://www.theverge.com/tech/1004320/feds-arrested-a-california-man-accused-of-smuggling-300-million-of-servers-with-nvidia-ai-chips-into-china",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+    "timestamp": 1790946600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bb92bafb35",
+    "title_fa": "‏جِی کلایتون ممکن است سرپرست هوش مصنوعی آمریکا شود",
+    "title_en": "Possible next crypto czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
+    "summary": [
+      "‏جِی کلایتون، رئیس پیشین SEC ، احتمالاً به عنوان سرپرست هوش مصنوعی ترامپ منصوب می‌شود.",
+      "‏این انتصاب می‌تواند سیاست نظارت بر فناوری‌های نوظهور، به‌ویژه رمزارزها، را تحت تأثیر قرار دهد.",
+      "‏او پیش از این با پرونده Ripple Labs ، پایه‌گذار رویکرد «قوانین از طریق اجرا» در رمزارزها شد."
+    ],
+    "body_fa": "‏جِی کلایتون، رئیس پیشین کمیسیون بورس و اوراق بهادار آمریکا (SEC) که تحت ریاست ترامپ اولین بار به تنظیم رمزارزها از طریق اجرا پرداخت، احتمالاً به عنوان سرپرست هوش مصنوعی (AI czar) دولت ترامپ منصوب می‌شود. در این نقش جدید تمرکز او بر نظارت بر صنعت هوش مصنوعی داخلی خواهد بود و به‌نظر می‌رسد موضوع رمزارزها از برنامه کاری حذف شده است. با این حال، سابقه کلایتون در پیگیری پرونده‌های بزرگ رمزارزی مانند Ripple Labs نشان می‌دهد که ممکن است رویکرد سختگیرانه‌تری نسبت به فناوری‌های نوظهور اتخاذ کند. این انتصاب می‌تواند مسیر تنظیمات آینده برای هوش مصنوعی و دارایی‌های دیجیتال را شکل دهد و نگرانی‌های بازارهای رمزارزی را برانگیزد. در عین حال، هنوز جزئیات دقیق وظایف سرپرست هوش مصنوعی مشخص نیست و نظراتی دربارهٔ تأثیرات احتمالی آن بر نوآوری و رقابت‌پذیری آمریکا مطرح شده است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "نظارت بر هوش مصنوعی",
+    "tag": "AI czar",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+    "clean_url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dee7ca3ec92ba77eecf6dabbabbc08eb9f261f9b-6345x4230.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.4118&fp-y=0.5138&w=1920&h=1080&q=75",
+    "timestamp": 1790935920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8717b10f7c",
+    "title_fa": "‏پلتفرم Drift ادعای بازپرداخت خسارت‌ها را آغاز کرد",
+    "title_en": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
+    "summary": [
+      "‏پلتفرم Drift (به نام Velocity) ادعای دریافت توکن‌های DFX برای جبران خسارت‌های کاربران پس از هک آوریل را باز کرد.",
+      "‏پرداخت اولیه تنها حدود 1 ٪ از ضررهاست و نشان‌دهنده روند کند بازگرداندن حدود 9.2 میلیون دلار مسدود شده است.",
+      "‏تا 147.5 میلیون دلار تعهد شرکا هنوز به استخر بازگرداندن اضافه نشده."
+    ],
+    "body_fa": "‏پلتفرم مبادله غیرمتمرکز Velocity که پیش‌تر با نام Drift شناخته می‌شد، امروز ادعای دریافت توکن‌های DFX برای کاربران آسیب‌دیده از هک آوریل را فعال کرد. هر توکن DFX معادل یک دلار USDT از دست رفته است و می‌تواند سوزانده شود تا به صورت USDT از استخر بازگرداندن دریافت شود یا در بازار ثانویه فروخته شود. در حال حاضر هر DFX فقط حدود 0.01 USDT (یک سنت) برمی‌گرداند که تقریباً 1 ٪ از کل خسارت‌هاست. تا به امروز 216,480 DFX برای حدود 2,250 USDT پرداخت شده و استخر کل 3.11 میلیون USDT دارد. تا 147.5 میلیون دلار تعهد از طرف Tether و شرکای استراتژیک هنوز به استخر اضافه نشده و 9.2 میلیون دلار دارایی مسدود شده منتظر حکم قضایی است. این روند نشان می‌دهد که بازگرداندن کامل دارایی‌های سرقت‌شده که حدود 295.4 میلیون دلار بوده، هنوز دور است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "بازیابی دارایی",
+    "tag": "DFX",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
+    "clean_url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240503_Hacks_News_2.jpg",
+    "timestamp": 1790935080.0,
     "sent_to_telegram": true
   },
   {
@@ -176,6 +374,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "6f78268d79",
+    "title_fa": "‏جیسون جونز و مارگارت استول Stone Kite را راه‌اندازی کردند",
+    "title_en": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite",
+    "summary": [
+      "‏جیسون جونز، بنیان‌گذار Bungie ، و مارگارت استول استودیوی ترانس‌مدیا Stone Kite را در لس‌آنجلس راه‌اندازی کردند.",
+      "‏استودیو با اولین IP خود «One Zero One» که به‌صورت کمیک چهار بخشی در سال 2027 منتشر می‌شود، به ترکیب بازی، کتاب و فیلم می‌پردازد.",
+      "‏Stone Kite با بیش از 250 خالق از صنایع مختلف از جمله Jay Roach و Christian Ward همکاری می‌کند."
+    ],
+    "body_fa": "‏جیسون جونز، هم‌بنیان‌گذار Bungie و خالق سری‌های Halo و Destiny ، به همراه مارگارت استول، کارگردان روایت Destiny 2 ، استودیوی ترانس‌مدیا جدیدی به نام Stone Kite را در لس‌آنجلس تأسیس کردند. این استودیو که خود را «استودیوی ساخت جهان» معرفی می‌کند، اولین مالکیت فکری خود را با نام One Zero One ارائه می‌دهد؛ داستانی دربارهٔ درگیری جهانی بین بشر و ارتش روباتیک هوش مصنوعی که به‌صورت مجموعه‌ای چهار بخشی کمیک در اوایل 2027 به‌صورت رایگان آنلاین منتشر خواهد شد. تیم مؤسسان شامل Stephen Wacker (سابق SVP رسانه)، Lewis Peterson (رئیس) و Matt Johnson (معاون فیلم و تلویزیون) است و Jeanine Schaefer به عنوان کارگردان خلاقیت روایت حضور دارد. Stone Kite با بیش از 250 خالق از حوزه‌های مختلف از جمله کارگردان Jay Roach ، نویسنده کمیک Christian Ward ، تصویرگر Kyle Lambert ، نویسنده Stephen Graham Jones و فیلم‌نامه‌نویس Akela Cooper همکاری می‌کند. استودیو هدفش شکستن مرزهای سنتی رسانه‌ای است تا از همان ابتدا خالقان جهانی را در خلق جهان‌های چندرسانه‌ای مشارکت دهد.",
+    "category": "گیم",
+    "subcategory": "استودیو بازی",
+    "tag": "StoneKite",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+    "clean_url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+    "image": "https://assetsio.gnwcdn.com/stone-kite-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1790924040.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "8abb52a4a7",
     "title_fa": "‏جنگ‌ها باعث افزایش شدید قیمت دیزل شد",
     "title_en": "Why Have Diesel Prices Soared, and What Can Be Done to Bring Them Down?",
@@ -195,6 +415,28 @@
     "clean_url": "https://www.wsj.com/finance/commodities-futures/why-are-diesel-prices-soaring-and-what-would-a-u-s-export-ban-do-e453fd47",
     "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1790922240.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e99ea8710b",
+    "title_fa": "‏عربستان سعودی جریان نفت را به ۸۰٪ ظرفیت ارتقا کرد",
+    "title_en": "Saudi Arabia Hikes Oil Flow on Key Pipeline to Over 80% Capacity",
+    "summary": [
+      "‏عربستان سعودی جریان نفت از یک خط لوله کلیدی را به بیش از ۸۰٪ ظرفیت افزایش داد.",
+      "‏این افزایش می‌تواند عرضه جهانی نفت را تقویت کند و فشار بر قیمت‌ها را کاهش دهد.",
+      "‏شرکت‌های پتروشیمی منطقه‌ای ممکن است از جریان بالاتر سود ببرند."
+    ],
+    "body_fa": "‏عربستان سعودی اعلام کرد که جریان نفت از یک خط لوله کلیدی به بیش از ۸۰٪ ظرفیت ارتقا یافت. این اقدام در پاسخ به نیازهای بازار جهانی و برای بهبود تعادل عرضه انجام شد. افزایش ظرفیت می‌تواند به تثبیت قیمت نفت در سطح فعلی کمک کند. همچنین ممکن است فشار بر صادرات نفت سایر کشورهای تولیدکننده را کاهش دهد. تحلیل‌گران پیش‌بینی می‌کنند که این تغییر می‌تواند حجم صادرات سعودی را چند درصد افزایش دهد، اگرچه جزئیات دقیق هنوز منتشر نشده است.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "نفت",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-02/saudi-arabia-hikes-oil-flow-on-key-pipeline-to-over-80-capacity",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-02/saudi-arabia-hikes-oil-flow-on-key-pipeline-to-over-80-capacity",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790915580.0,
     "sent_to_telegram": true
   },
   {
@@ -239,6 +481,28 @@
     "clean_url": "https://www.reuters.com/business/energy/russia-will-consider-partial-lifting-diesel-export-ban-case-overproduction-novak-2026-10-02",
     "image": "https://www.reuters.com/resizer/v2/GXCRMJGRKFPHHFGELY5X3RN47U.jpg?auth=ffc37143ceb5d7ea5ea6f0d4bafcc6ab83f0eca6beca95b6fbd5c1169dbd408e&height=1005&width=1920&quality=80&smart=true",
     "timestamp": 1790911860.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "afebe7b30d",
+    "title_fa": "‏هکرهای چینی با تقلید کارمند Anthropic به‌دست‌آوردند اطلاعات AI",
+    "title_en": "Chinese hackers impersonated an Anthropic exec to get information about AI",
+    "summary": [
+      "‏هکرهای مشکوک چینی با تقلید کارمند Anthropic و مقامات آمریکایی سعی کردند به ایمیل‌های متخصصان هوش مصنوعی دسترسی پیدا کنند.",
+      "‏این حمله می‌تواند به پکن بینش‌های مهمی درباره سیاست‌ها و کاربردهای نظامی AI آمریکا بدهد.",
+      "‏تا کنون هیچ نفوذ موفقی گزارش نشده، اما گروه هدف‌گیری مداوم دارد."
+    ],
+    "body_fa": "‏شرکت امنیت سایبری Proofpoint اعلام کرد که گروهی مشکوک به وابستگی به دولت چین، با تقلید یک کارمند Anthropic و مقامات پیشین آمریکا، سعی در دسترسی به حساب‌های ایمیل متخصصان هوش مصنوعی داشته‌اند. هدف این هکرها شامل کارشناسان کنترل صادرات AI و کاربردهای نظامی این فناوری در دانشگاه‌ها، اندیشکده‌ها و شرکت‌های حقوقی آمریکا بوده است. اگرچه تا به امروز نشانه‌ای از نفوذ موفق یافت نشده، اما این گروه به‌طور مداوم به هدف‌های مشابه حمله می‌کند. این اقدام نشان می‌دهد که چین به دنبال جمع‌آوری اطلاعات دقیق درباره نحوهٔ مدیریت و تنظیم هوش مصنوعی در ایالات متحده است، که می‌تواند بر رقابت فناوری بین دو کشور تأثیر بگذارد. در همین زمان، رئیس‌جمهور ترامپ درباره هوش مصنوعی با شی جین‌پینگ گفتگو کرد اما توافقی اساسی حاصل نشد.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "هک",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNN · via Yahoo News",
+    "url": "https://www.yahoo.com/news/us/articles/china-linked-hackers-impersonated-us-091814609.html",
+    "clean_url": "https://www.yahoo.com/news/us/articles/china-linked-hackers-impersonated-us-091814609.html",
+    "image": "https://media.zenfs.com/en/cnn_articles_875/7673f4d6b9127415ffda4ddd462f4601.jpg",
+    "timestamp": 1790911621.0,
     "sent_to_telegram": true
   },
   {
@@ -6331,270 +6595,6 @@
     "clean_url": "https://finance.yahoo.com/energy/articles/diesel-export-ban-could-lower-100000284.html",
     "image": "https://media.zenfs.com/en/forbes_contributor_845/00b9e8b70688b09dc9129a4b4766852a.jpg",
     "timestamp": 1790243284.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "98b05f576f",
-    "title_fa": "‏اکس‌بار پروژه Age of Empires را برکناری نیروها متوقف کرد",
-    "title_en": "Next game from Age of Empires studio scrapped amid Xbox layoffs",
-    "summary": [
-      "‏اکس‌بار تیم توسعه Age of Empires ، World's Edge ، را به‌طور چشمگیری کاهش داد و تولید بازی جدید را متوقف کرد.",
-      "‏این تصمیم به‌دلیل کاهش نیروها و اخراج‌های اخیر در شرکت رخ داد و نشان‌دهنده فشارهای مالی و استراتژیک مایکروسافت است.",
-      "‏پروژه‌ای که قرار بود ادامه‌ای بر سری استراتژیک محبوب باشد، اکنون به‌طور نامشخصی متوقف شد."
-    ],
-    "body_fa": "‏طبق گزارش‌های کارمندان پیشین، مایکروسافت در جریان اخراج‌های گسترده در بخش ایکس‌بار، تیم توسعه بازی‌های Age of Empires به نام World's Edge را به‌طور قابل‌توجهی کوچک کرد. به‌علاوه، تولید بازی جدیدی که قرار بود ادامه‌ای بر سری استراتژیک مشهور باشد، به‌سرعت متوقف شد. این اقدام پس از تصمیمات کاهش هزینه و بازنگری استراتژیک در پورتفولیوی بازی‌های شرکت انجام شد. لغو پروژه نشان می‌دهد که حتی عناوین شناخته‌شده نیز در برابر فشارهای مالی و تغییرات سازمانی آسیب‌پذیرند. بازیکنان و سرمایه‌گذاران ممکن است به‌دنبال جزئیات بیشتری درباره دلایل دقیق این تصمیم باشند.",
-    "category": "گیم",
-    "subcategory": "توسعه بازی",
-    "tag": "Age of Empires",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "Skoar! on MSN",
-    "url": "https://www.msn.com/en-in/gaming/gaming-platforms/next-game-from-age-of-empires-studio-scrapped-amid-xbox-layoffs/ar-AA2cUGCX",
-    "clean_url": "https://www.msn.com/en-in/gaming/gaming-platforms/next-game-from-age-of-empires-studio-scrapped-amid-xbox-layoffs/ar-AA2cUGCX",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790242959.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "10a9ada424",
-    "title_fa": "‏مایکروسافت پروژه جدید Age of Empires را لغو کرد",
-    "title_en": "Age of Empires studio's next game canceled as part of Xbox layoffs",
-    "summary": [
-      "‏Xbox در جریان اخراج‌های گسترده، تقریباً نیمی از تیم World's Edge را برکنار کرد و پروژه بعدی Age of Empires را لغو کرد",
-      "‏این تصمیم نشان‌دهنده تمرکز مایکروسافت بر عناوین بزرگ مثل Halo و Fallout و خطرات برای سری‌های استراتژیک است",
-      "‏برخی از کارکنان تنها هفت روز پس از ارتقا اخراج شدند"
-    ],
-    "body_fa": "‏مایکروسافت در جریان آخرین دور اخراج‌های خود، ۲۶۸ نفر از کارکنان Xbox را برکنار کرد و ساختار World’s Edge را بازسازی کرد. بر اساس اظهارات مدیر خلاق پیشین آدام ایزگرین، نزدیک به نیمی از تیم World’s Edge ، که مسئول سری Age of Empires بود، از کار برکنار شد. مهندس نرم‌افزاری اندرو مارتز نیز در پست‌لینکدین خود اعلام کرد که پروژه بعدی این استودیو، که احتمالاً یک بازی جدید یا اسپین‑آف Age of Empires بود، لغو شد. این لغو به همراه کاهش نیروی انسانی، آینده سری Age of Empires را در خطر می‌اندازد. مایکروسافت به جای توسعه عناوین جدید، تمرکز خود را بر عناوین بزرگ و پرطرفدار مانند Halo و Fallout می‌گذارد. این رویکرد نشان می‌دهد که استودیوهای کوچکتر و پروژه‌های نوآورانه در برابر فشارهای مالی کمتر حمایت می‌شوند.",
-    "category": "گیم",
-    "subcategory": "استودیوهای بازی",
-    "tag": "Age of Empires",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Polygon",
-    "url": "https://www.polygon.com/age-of-empires-canceled-studio-layoffs-activision/",
-    "clean_url": "https://www.polygon.com/age-of-empires-canceled-studio-layoffs-activision",
-    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22948029/Age_of_Empires_4.jpg?w=1600&h=900&fit=crop",
-    "timestamp": 1790240220.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "08d5b7c61f",
-    "title_fa": "‏بازده 30 ساله آمریکا به بالاترین سطح منذ 2004 رسید",
-    "title_en": "Global bond rout rolls on, pushing US 30-year yield to highest since 2004",
-    "summary": [
-      "‏بازده اوراق 30 ساله آمریکا به 4.5 ٪ رسید، بالاترین سطح در بیش از 20 سال",
-      "‏هزینه استقراض دولت و شرکت‌ها افزایش یافت و فشار بر بازارهای سهام جهانی شد",
-      "‏فروش گسترده اوراق دولتی در اروپا و آسیا نیز ادامه دارد"
-    ],
-    "body_fa": "‏بازده اوراق قرضه 30 ساله ایالات متحده در روز پنج‌شنبه به 4.5 ٪ رسید که بالاترین سطح آن از سال 2004 است. این افزایش بخشی از روند فروش گسترده اوراق دولتی در سرتاسر جهان است که سرمایه‌گذاران به دنبال بازده بالاتر برای جبران انتظارات تورمی و سیاست‌های پولی سختگیرانه‌تر هستند. در همین زمان، بازده 10 ساله آمریکا نیز به نزدیک 4 ٪ ارتقا یافت و اوراق دولتی اروپایی و آسیایی نیز شاهد افزایش مشابهی بودند. هزینه‌های استقراض برای دولت فدرال و شرکت‌های بزرگ به طور قابل توجهی بالا رفت و فشار بر بازارهای سهام و ارزهای نوظهور افزایش یافت. تحلیل‌گران هشدار دادند که ادامه این روند می‌تواند منجر به کاهش سرمایه‌گذاری‌های خطرپذیر و فشار بیشتر بر رشد اقتصادی شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار اوراق قرضه",
-    "tag": "30-year yield",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters on MSN",
-    "url": "https://www.msn.com/en-us/money/economy/global-bond-rout-rolls-on-pushing-us-30-year-yield-to-highest-since-2004/ar-AA2cTTxz",
-    "clean_url": "https://www.msn.com/en-us/money/economy/global-bond-rout-rolls-on-pushing-us-30-year-yield-to-highest-since-2004/ar-AA2cTTxz",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790233734.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "fda03919c6",
-    "title_fa": "‏بودجه فرانسه در خطر؛ هزینه بدهی‌ها به سرعت می‌رسد",
-    "title_en": "France faces a fresh budget battle that threatens to topple another government as debt costs spiral",
-    "summary": [
-      "‏دولت فرانسه با بحران بودجه جدیدی مواجه شد که خطر سقوط دولت را دارد",
-      "‏هزینه‌های بدهی در حال افزایش است و فشار بر اوراق دولتی را بالا می‌برد",
-      "‏استراتژیست‌ها هشدار دادند زمان برای اوراق دولتی فرانسه به سرعت در حال کاهش است"
-    ],
-    "body_fa": "‏دولت فرانسه درگیر یک نبرد بودجه‌ای تازه شده که با افزایش چشمگیر کسری مالی همراه است. هزینه‌های بدهی دولتی به سرعت در حال افزایش است و فشار بر اوراق دولتی را به شدت بالا برده. این وضعیت باعث نگرانی استراتژیست‌ها شده که زمان برای جذب سرمایه از طریق اوراق دولتی به سرعت در حال کاهش است. اگر این روند ادامه یابد، احتمال سقوط دولت و ایجاد ناپایداری سیاسی در پاریس افزایش می‌یابد. این تحولات می‌تواند تأثیر قابل‌توجهی بر بازارهای اروپایی و نرخ‌های بهره داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بودجه و مالیه",
-    "tag": "بدهی",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.msn.com/en-us/money/markets/france-faces-a-fresh-budget-battle-that-threatens-to-topple-another-government-as-debt-costs-spiral/ar-AA2cS5eu",
-    "clean_url": "https://www.msn.com/en-us/money/markets/france-faces-a-fresh-budget-battle-that-threatens-to-topple-another-government-as-debt-costs-spiral/ar-AA2cS5eu",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790226002.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f0aa8f0035",
-    "title_fa": "‏ترامپ سفر شی جین‌پینگ را می‌پذیرد؛ تمدید توافق تجاری چین-آمریکا",
-    "title_en": "US says China trade truce extended as Trump welcomes Xi",
-    "summary": [
-      "‏ترامپ رئیس‌جمهور آمریکا، شی جین‌پینگ را در واشنگتن پذیرایی کرد و اعلام شد توافق تجاری ۱۱ ماهه تمدید شد.",
-      "‏تمدید این توافق می‌تواند فشارهای تجاری بین دو اقتصاد بزرگ را کاهش داده و بازارهای جهانی را آرام کند.",
-      "‏توافق تا ۱۰ ژانویه ۲۰۲۷ ادامه خواهد داشت، در حالی که اختلافات بر سر فناوری، تایوان و ایران باقیست."
-    ],
-    "body_fa": "‏در روز سه‌شنبه، رئیس‌جمهور آمریکا دونالد ترامپ، شی جین‌پینگ را در ایستگاه هوایی جوینت بیس اندروز به‌صورت رسمی خوشامد گفت. وزرای خزانه‌داری اعلام کردند که توافق تجاری ۱۱ ماهه بین دو کشور تا ۱۰ ژانویه ۲۰۲۷ تمدید شد. این تمدید می‌تواند فشارهای ناشی از جنگ تعرفه‌ای سال ۲۰۲۵ را کاهش داده و نوسانات بازارهای مالی را آرام کند. با این حال، اختلافات اساسی بر سر صادرات کنترل‌شده مواد کمیاب، تراشه‌های کامپیوتری، روابط چین با ایران و موضع آمریکا نسبت به تایوان همچنان پابرجاست. بازدید سه روزه شی جین‌پینگ فرصتی برای بررسی این مسائل فراهم می‌کند، اما پیش‌بینی می‌شود که مذاکرات به توافق جامع نرسد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تجارت چین-آمریکا",
-    "tag": "تجارت",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Reuters · via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/trump-plans-grand-spectacle-potentially-100123522.html",
-    "clean_url": "https://www.yahoo.com/news/articles/trump-plans-grand-spectacle-potentially-100123522.html",
-    "image": "https://media.zenfs.com/en/reuters.com/f678608b2b9a8d489640a7ee495d6bf7.jpg",
-    "timestamp": 1790213199.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "46f393537c",
-    "title_fa": "‏بدهی جهانی به بیش از ۳۶۵ تریلیون دلار رسید",
-    "title_en": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
-    "summary": [
-      "‏بدهی کل جهان در نیمه اول سال ۲۰۲۴ به ۳۶۵ تریلیون دلار افزایش یافت.",
-      "‏هزینه‌های سرویس بدهی و افزایش نرخ بهره خطر مالی برای دولت‌ها را بالا برده است.",
-      "‏اقتصادهای پیشرفته بیش از ۳.۳ تریلیون دلار بهره پرداخت کردند، بیش از مخارج جهانی هوش مصنوعی یا انرژی پاک."
-    ],
-    "body_fa": "‏مطالعه‌ای توسط مؤسسه مالی بین‌المللی منتشر شد که نشان می‌دهد بدهی جهانی در شش ماه اول سال ۱۰ تریلیون دلار افزایشی داشته و به بیش از ۳۶۵ تریلیون دلار رسیده است. این افزایش به دلیل هزینه‌های بالای سرویس بدهی و افزایش نرخ بهره در اوراق دولتی بزرگ‌ترین اقتصادهای جهان است که به بالاترین سطح در بیش از یک دهه رسیده‌اند. اقتصادهای پیشرفته سال گذشته بیش از ۳.۳ تریلیون دلار بهره بر اوراق دولتی بین‌المللی پرداخت کردند؛ این رقم از مخارج جهانی هوش مصنوعی (۲.۶ تریلیون) و انرژی پاک (۲.۳ تریلیون) پیشی گرفته است. کارشناسان هشدار دادند این روند می‌تواند یک چرخهٔ مخرب بین انتخابات، سیاست‌های کوتاه‌مدت و آسیب‌پذیری بلندمدت ایجاد کند. سازمان همکاری و توسعه اقتصادی نیز تأکید کرد که برای حفظ پایداری بدهی باید هزینه‌های دولتی محدود و کارایی بخش عمومی بهبود یابد. صندوق بین‌المللی پول نیز دولت‌ها را به اولویت دادن به تثبیت مالی و کاهش بدهی‌ها فراخوانده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بدهی جهانی",
-    "tag": "بدهی",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
-    "clean_url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108358661-1788468213476-gettyimages-2293388112-mms27078_t0uoiw5l.jpeg?v=1788468259&w=1920&h=1080",
-    "timestamp": 1790210820.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "52e888fe7b",
-    "title_fa": "‏OECD پیش‌بینی رشد اقتصاد آمریکا را به ۲٫۲٪ ارتقا داد",
-    "title_en": "OECD raises US growth forecast to 2.2% as global economy weathers energy shock",
-    "summary": [
-      "‏OECD پیش‌بینی رشد سال ۲۰۲۶ ایالات متحده را به ۲٫۲٪ افزایش داد.",
-      "‏این ارتقا نشان می‌دهد سرمایه‌گذاری هوش مصنوعی می‌تواند اثرات شوک انرژی خاورمیانه را کاهش دهد.",
-      "‏سازمان OECD پیش‌بینی رشد جهانی را به ۲٫۹٪ ارتقا داد."
-    ],
-    "body_fa": "‏سازمان همکاری و توسعه اقتصادی (OECD) پیش‌بینی رشد اقتصادی ایالات متحده برای سال ۲۰۲۶ را از ۲٫۰٪ به ۲٫۲٪ ارتقا داد. این افزایش ۰٫۲ درصدی همزمان با ارتقای پیش‌بینی رشد جهانی به ۲٫۹٪ اعلام شد. OECD این اصلاحات را به سرمایه‌گذاری‌های گسترده در هوش مصنوعی نسبت داد که می‌تواند اثرات منفی شوک انرژی خاورمیانه را کاهش دهد. بر اساس این تحلیل، تقاضای انرژی در خاورمیانه به دلیل تحولات ژئوپلیتیکی کاهش یافته و هوش مصنوعی به عنوان محرک بهره‌وری در بخش‌های مختلف اقتصاد عمل می‌کند. این پیش‌بینی جدید می‌تواند انتظارات بازارهای مالی را نسبت به سیاست‌های پولی فدرال رزرو تحت تأثیر قرار دهد. در عین حال، رشد اقتصادی قوی‌تر آمریکا می‌تواند به بهبود شرایط تجاری جهانی کمک کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "پیش‌بینی رشد اقتصادی",
-    "tag": "OECD",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "bne IntelliNews on MSN",
-    "url": "https://www.msn.com/en-us/money/economy/oecd-raises-us-growth-forecast-to-2-2-as-global-economy-weathers-energy-shock/ar-AA2cRztq",
-    "clean_url": "https://www.msn.com/en-us/money/economy/oecd-raises-us-growth-forecast-to-2-2-as-global-economy-weathers-energy-shock/ar-AA2cRztq",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790204782.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "05b0dbe1d5",
-    "title_fa": "‏قیمت دیزل به رکورد رسید و جمهوری‌خواهان را نگران کرد",
-    "title_en": "Skyrocketing diesel prices rattle Republicans as midterms approach",
-    "summary": [
-      "‏دیزل آمریکا به 6.52 دلار در گالن رسید، 73 ٪ افزایش از قبل از جنگ با ایران.",
-      "‏این جهش هزینه حمل‌ونقل و کشاورزی را بالا برده و به موضوعی کلیدی در کمپین‌های میانی‌دوره تبدیل شده.",
-      "‏برخی جمهوری‌خواهان پیشنهاد ممنوعیت صادرات دیزل را دادند؛ ترامپ حمایت کرد ولی وزیرفن انرژی این را رد کرد."
-    ],
-    "body_fa": "‏قیمت دیزل در ایالات متحده به 6.52 دلار در گالن رسیده که نسبت به قبل از جنگ با ایران 73 درصد افزایش دارد. این افزایش به دلیل تشدید درگیری‌ها در خاورمیانه و فشار بر عرضه جهانی سوخت رخ داده است. آمریکا روزانه 4.1 میلیون بشکه دیزل مصرف می‌کند که 1.5 میلیون بشکه آن به‌صورت صادراتی به دیگر کشورها می‌رود. نمایندگان جمهوری‌خواه در ایالت‌های کلیدی مانند آیوا و میشیگان خواستار پایان صادرات دیزل برای تأمین تقاضای داخلی شده‌اند و دونالد ترامپ نیز از این ایده حمایت کرده است. با این حال، وزیر انرژی آمریکا اعلام کرد که ممنوعیت کلی صادرات در برنامه نیست. این بحران سوخت به کشاورزان، رانندگان کامیون و مصرف‌کنندگان عمومی فشار می‌آورد و به‌عنوان یکی از موضوعات داغ پیش‌انتخابات میدانی می‌شود.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت دیزل",
-    "tag": "دیزل",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "WFTV 9 Orlando",
-    "url": "https://www.wftv.com/news/business/skyrocketing-diesel/GEUV53S5TI7FNNYKZNVPCPM2ZA/",
-    "clean_url": "https://www.wftv.com/news/business/skyrocketing-diesel/GEUV53S5TI7FNNYKZNVPCPM2ZA",
-    "image": "https://s.yimg.com/bo/92fd33a0-d838-5b17-9b4c-fd074e60276b_1790206765116.jpg",
-    "timestamp": 1790202658.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a85ce142e7",
-    "title_fa": "‏ممنوعیت صادرات دیزل آمریکا قیمت بنزین را بالا می‌برد",
-    "title_en": "Why a U.S. Diesel Export Ban Would Hurt the People It’s Meant to Help",
-    "summary": [
-      "‏ترامپ پیشنهاد ممنوعیت صادرات دیزل آمریکا را داد.",
-      "‏این اقدام می‌تواند به‌سرعت قیمت بنزین داخلی و عرضه در مکزیک و اروپا را بالا ببرد.",
-      "‏وزارت انرژی هشدار داد که کاهش صادرات منجر به کاهش تولید سوخت‌های دیگر می‌شود."
-    ],
-    "body_fa": "‏در نشست‌های عمومی سازمان ملل، ترامپ به‌صورت علنی خواستار ممنوعیت صادرات دیزل ایالات متحده شد و تصمیم سریع را وعده داد. در عین حال، یک مقام سفیدخانه به خبرنگاران گفت که در حال حاضر این ایده زیر بررسی نیست، که تضادی واضح در سیاست داخلی نشان می‌دهد. وزیر انرژی، کریس رایت، هشدار داد که قطع صادرات دیزل بلافاصله باعث افزایش قیمت بنزین داخلی می‌شود چون تولید سوخت‌های دیگر نیز کاهش می‌یابد. مکزیک حدود ۲۸۸٫۵ هزار بشکه در روز دیزل آمریکایی وارد می‌کند که بیش از ۴۰٪ تأمین ملی آن را تشکیل می‌دهد و اروپا نیز روزانه حدود ۵۰۰ هزار بشکه را جذب می‌کند. اگر ممنوعیت اجرا شود، اولین بازگشت به سیاست محدودسازی صادرات انرژی آمریکا از سال ۲۰۱۵ خواهد بود و می‌تواند نوسانات قیمت جهانی سوخت را تشدید کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "صادرات دیزل",
-    "tag": "دیزل",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "discoveryalert.com",
-    "url": "https://discoveryalert.com/analysis/us-diesel-export-ban-september-2026/",
-    "clean_url": "https://discoveryalert.com/analysis/us-diesel-export-ban-september-2026",
-    "image": "https://media.discoveryalert.com/us-diesel-export-ban-pipeline-valve-analysis.jpg",
-    "timestamp": 1790196309.7708,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9f5219c5d2",
-    "title_fa": "‏آمریکا و هند درباره تحریم‌های تجاری ایران گفتگو کردند",
-    "title_en": "Rubio, Jaishankar discuss sanctions on countries trading with Iran",
-    "summary": [
-      "‏وزیر امور خارجه آمریکا مارکو روبی و وزیر خارجه هند س. جایشانکار درباره تحریم‌های تجاری با ایران و روسیه گفت‌وگو کردند",
-      "‏این گفتگو می‌تواند فشار بین‌المللی بر کشورهایی که با ایران و روسیه تجارت می‌کنند را افزایش دهد",
-      "‏همچنین موضوعات امنیت انرژی و تحولات خاورمیانه نیز بررسی شد"
-    ],
-    "body_fa": "‏وزارت امور خارجه آمریکا اعلام کرد که مارکو روبی و س. جایشانکار، وزیر امور خارجه هند، در جلسه‌ای درباره تحریم‌های احتمالی به کشورهایی که با ایران و روسیه تجارت می‌کنند، گفتگو کردند. این مذاکرات در چارچوب نگرانی‌های واشنگتن نسبت به تأمین مالی روسیه و حمایت اقتصادی از ایران برگزار شد. دو وزیر همچنین به تحولات اخیر خاورمیانه و چالش‌های امنیت انرژی اشاره کردند. اگر تصمیم به اعمال تحریم‌های جدید گرفته شود، می‌تواند فشار اقتصادی بر کشورهای همسایه و شرکای تجاری ایران را افزایش دهد. چنین گامی احتمالاً به تقویت موضع غرب در مقابله با نفوذ روسیه و ایران منجر خواهد شد. هنوز تصمیم نهایی اتخاذ نشده و این موضوع در مذاکرات دیپلماتیک آینده بررسی خواهد شد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های اقتصادی",
-    "tag": "تحریم",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202609238208",
-    "clean_url": "https://www.iranintl.com/en/202609238208",
-    "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-    "timestamp": 1790196200.260447,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "eac72b42a5",
-    "title_fa": "‏FBI به‌صورت فعال به‌دنبال هک‌سازان ShinyHunters است",
-    "title_en": "FBI ‘Aggressively’ Investigating Alleged Hack Compromising All Employee’s Person...",
-    "summary": [
-      "‏FBI اعلام کرد که در حال بررسی هک ادعایی است که اطلاعات تمام کارمندانش را به خطر انداخته",
-      "‏این حادثه می‌تواند امنیت پرسنل فدرال را تهدید کند و نگرانی‌های امنیت سایبری را افزایش دهد",
-      "‏گروه ShinyHunters ادعا کرد سایت استخدامی FBI را به‌دست گرفته و داده‌ها را سرقت کرده است"
-    ],
-    "body_fa": "‏آژانس فدرال تحقیقات (FBI) اعلام کرد که به‌صورت فعال به بررسی یک هک ادعایی می‌پردازد که گفته می‌شود داده‌های تمام کارمندان و متقاضیانش را در بر داشته است. گروه هکری ShinyHunters ادعا کرد که پورتال شغلی FBI را به‌دست گرفته و اطلاعات شخصی افراد را سرقت کرده؛ اما هنوز جزئیات دقیق داده‌های سرقت‌شده مشخص نشده است. نقطه نفوذ هنوز تعیین نشده و ممکن است هدف یک سرویس شخص ثالث یا زیرساخت داخلی باشد. سایت استخدامی FBI از روز دوشنبه به‌طور کامل از کار افتاده و پیام «THIS SITE HAS BEEN SEIZED BY SHINYHUNTERS» نمایش می‌دهد. این حمله پس از انتشار هشدار FBI نسبت به ShinyHunters به‌عنوان یک گروه جرایم سایبری بزرگ صورت گرفته و گروه هکری خواستار حذف یا اصلاح این هشدار شده است. تا کنون داده‌های سرقت‌شده عمومی نشده‌اند، اما این رخداد می‌تواند خطرات امنیتی جدی برای پرسنل فدرال ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "هک",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Forbes · via Yahoo News",
-    "url": "https://www.yahoo.com/news/us/articles/fbi-aggressively-investigating-alleged-hack-200503394.html",
-    "clean_url": "https://www.yahoo.com/news/us/articles/fbi-aggressively-investigating-alleged-hack-200503394.html",
-    "image": "https://media.zenfs.com/en/forbes_staff_375/978a7d710c5c694475708cd3f934265c.jpg",
-    "timestamp": 1790193902.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a8cd6d941d",
-    "title_fa": "‏جنگ خاورمیانه رشد جهانی را محدود می‌کند",
-    "title_en": "Middle East war threatens global growth, fuels inflation and debt pressures: IMF",
-    "summary": [
-      "‏صندوق بین‌المللی پول اعلام کرد جنگ خاورمیانه رشد جهانی را محدود، تورم را تشدید و فشارهای بدهی را افزون می‌کند.",
-      "‏این تحولات به‌ویژه برای کشورهای واردکننده انرژی و با درآمد پایین که تحت فشار مالی شدید هستند، پیامدهای جدی دارد.",
-      "‏صندوق پیش‌بینی می‌کند بدهی عمومی جهانی تا سال ۲۰۲۸ به سطوح مشابه جنگ جهانی دوم برسد."
-    ],
-    "body_fa": "‏صندوق بین‌المللی پول در گزارش سالانه ۲۰۲۶ خود اعلام کرد که جنگی که از اواخر فوریه در خاورمیانه آغاز شد، مسیر رشد اقتصادی جهانی را به‌طور قابل‌توجهی تغییر داده است. این درگیری باعث بسته شدن تنگه هرمز شد که بزرگ‌ترین کاهش تأمین انرژی جهانی را به‌وجود آورد و زنجیره‌های تأمین کالاهای اساسی را مختل کرد. به‌دلیل این شوک‌های عرضه، تورم در سرتاسر جهان افزایش یافته و فشارهای مالی بر دولت‌ها، به‌ویژه در کشورهای با درآمد کم و وابسته به واردات انرژی، شدت یافته است. صندوق هشدار داد که بدهی عمومی جهانی ممکن است پیش از ۲۰۲۸ به سطوحی برسد که آخرین بار در دوران جنگ جهانی دوم مشاهده شده بود. این وضعیت باعث شده تا سیاست‌گذاران برای محافظت از خانوارها و کسب‌وکارها در برابر قیمت‌های بالا و شرایط مالی سخت، اقدامات حمایتی بیشتری اتخاذ کنند. اثرات طولانی‌مدت این بحران بر زیرساخت‌های صادرات انرژی خاورمیانه می‌تواند تأمین انرژی را برای سال‌های آینده محدود کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "رشد جهانی",
-    "tag": "جنگ-خاورمیانه",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "Profit by Pakistan Today",
-    "url": "https://profit.pakistantoday.com.pk/2026/09/24/middle-east-war-threatens-global-growth-fuels-inflation-and-debt-pressures-imf",
-    "clean_url": "https://profit.pakistantoday.com.pk/2026/09/24/middle-east-war-threatens-global-growth-fuels-inflation-and-debt-pressures-imf",
-    "image": "https://profit.pakistantoday.com.pk/uploads/economy-1790224357171-jffyz2.png",
-    "timestamp": 1790182800.0,
     "sent_to_telegram": true
   }
 ]
