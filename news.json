@@ -1,5 +1,71 @@
 [
   {
+    "id": "cf08195972",
+    "title_fa": "‏نوییدیا رکورد جدیدی ثبت کرد؛ بازار سهام فناوری رونق گرفت",
+    "title_en": "Nvidia breaks through to new record highs. Plus, more good news for Boeing",
+    "summary": [
+      "‏Nvidia سهام خود را بیش از ۲.۵٪ افزایش داد و برای اولین بار از سطح ۲۳۶.۵۴ دلار عبور کرد.",
+      "‏این حرکت باعث رسیدن Nasdaq به بالاترین رکورد روزانه شد و نشانگر ادامهٔ رونق فناوری در بازار است.",
+      "‏همچنین سهام Boeing پس از توافق اتحادیهٔ مهندسان ۳.۳۵٪ رشد کرد."
+    ],
+    "body_fa": "‏جمعهٔ گذشته بازار سهام آمریکا به‌دلیل کاهش قیمت نفت و گزارش شغلی ضعیف سپتامبر، به‌سرعت بالا رفت. Nasdaq بیش از ۱.۵٪ افزایش یافت و برای اولین بار سطح رکورد جدیدی را ثبت کرد. در میان سهام‌های فناوری، سهم Nvidia بیش از ۲.۵٪ رشد کرد و پس از چند بار نزدیک شدن به سقف ۲۳۶.۵۴ دلار، برای اولین بار آن سطح را شکسته و به بالاترین قیمت خود از میانهٔ ماه می‌رسید. Morgan Stanley پس از ملاقات با مدیران Nvidia ، این شرکت را به‌عنوان برترین انتخاب در بخش نیمه‌رساناها معرفی کرد و اشاره کرد که برنامهٔ خرید سهام ۱۵۰ میلیارد دلاری می‌تواند فشار خرید را تقویت کند. در بخش هوافضا، شرکت Boeing پس از موافقت اتحادیهٔ مهندسان با قرارداد چهار ساله‌اش، سهام خود را ۳.۳۵٪ افزایش داد، اگرچه نگرانی‌ها دربارهٔ واکنش FAA به یک نقص نرم‌افزاری پروازی باقی مانده است. این تحرک‌ها نشان می‌دهد که حتی در شرایطی که برخی شاخص‌ها مانند Dow کمتر رشد می‌کنند، سرمایه‌گذاران به‌خصوص در حوزه فناوری و هوافضا به‌دنبال فرصت‌های خرید هستند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سهام فناوری",
+    "tag": "Nvidia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html",
+    "clean_url": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html",
+    "image": "https://s.yimg.com/bo/afcbc5e3-7e63-5ee2-bcda-85fbfee5ebcd_1790645973388.jpg",
+    "timestamp": 1790954947.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bd8d5dec63",
+    "title_fa": "‏Mynt Ant‑پشتیبان در IPO فیلیپین ۷ میلیارد دلاری ارزیابی شد",
+    "title_en": "Ant-Backed Fintech Mynt Valued at Around $7 Billion in Philippine IPO",
+    "summary": [
+      "‏فین‌تک Mynt که توسط Ant پشتیبانی می‌شود، در بازار بورس فیلیپین به ارزش حدود ۷ میلیارد دلار عرضه شد.",
+      "‏این عرضه یکی از بزرگ‌ترین فهرست‌های تاریخ بورس فیلیپین است و می‌تواند سرمایه‌گذاری در منطقه جنوب‑شرق آسیا را جذب کند.",
+      "‏Mynt صاحب سرویس پرداخت موبایلی GCash است که بیش از ۴۶ میلیون کاربر دارد."
+    ],
+    "body_fa": "‏شرکت فین‌تک Mynt که توسط Ant Group پشتیبانی می‌شود، در بورس فیلیپین به ارزش حدود ۷ میلیارد دلار عرضه شد. این عرضه که شامل بیش از ۲۲ درصد از سهام شرکت است، یکی از بزرگ‌ترین فهرست‌های تاریخ بورس فیلیپین محسوب می‌شود. Mynt صاحب سرویس پرداخت موبایلی GCash است که بیش از ۴۶ میلیون کاربر فعال دارد و نقش کلیدی در اقتصاد دیجیتال این کشور ایفا می‌کند. انتظار می‌رود این IPO جذب سرمایه‌های بین‌المللی را به بازار فیلیپین تسهیل کند و رشد بخش فین‌تک منطقه را تقویت نماید. تحلیل‌گران پیش‌بینی می‌کنند که موفقیت این عرضه می‌تواند مسیر دیگر شرکت‌های فناوری آسیایی برای ورود به بازارهای سرمایه را هموار سازد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سرمایه",
+    "tag": "Mynt",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/pro/private-equity/ant-backed-fintech-mynt-valued-at-around-7-billion-in-philippine-ipo-0224c31b",
+    "clean_url": "https://www.wsj.com/pro/private-equity/ant-backed-fintech-mynt-valued-at-around-7-billion-in-philippine-ipo-0224c31b",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790929860.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1b377d2c4d",
+    "title_fa": "‏سرکوب تقلب در Obamacare هزینه بیمه‌گذاران آمریکا را بالا می‌برد",
+    "title_en": "Vance's fraud crackdown may raise costs for US health insurers, enrollees",
+    "summary": [
+      "‏سرکوب تقلب در برنامه Obamacare توسط ونس می‌تواند تعداد بیمه‌گذاران سالم و کم‌هزینه را کاهش دهد.",
+      "‏کاهش این گروه‌ها ممکن است فشار بر بازار بیمه‌گری را افزاش دهد و قیمت‌ها را برای مصرف‌کنندگان و شرکت‌ها بالا ببرد.",
+      "‏این اقدام در حالی انجام می‌شود که بازار بیمه‌گری به‌تدریج در حال کوچک شدن است."
+    ],
+    "body_fa": "‏آقای وینس، معاون وزیر بهداشت، اعلام کرد که دولت آمریکا برنامه‌ای برای سرکوب تقلب در بیمه‌نامه‌های Obamacare اجرا می‌کند. این اقدام هدف دارد تا افراد و شرکت‌های بیمه‌ای را که به‌دلیل ارائه اطلاعات نادرست یا تقلبی سود می‌برند، شناسایی و مجازات کند. تحلیل‌گران هشدار می‌دهند که حذف بیمه‌گذاران سالم و کم‌هزینه می‌تواند تعداد افراد با پوشش مناسب را کاهش دهد. کاهش این گروه‌ها فشار بر بازار را افزایش می‌دهد و ممکن است باعث افزایش حق بیمه برای مصرف‌کنندگان و شرکت‌های بیمه‌گر شود. به‌علاوه، این سیاست در زمانی اجرا می‌شود که بازار بیمه‌گری در آمریکا به‌تدریج در حال کوچک شدن است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بیمه سلامت",
+    "tag": "Obamacare",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/vances-fraud-crackdown-may-raise-costs-us-health-insurers-enrollees-2026-10-02/",
+    "clean_url": "https://www.reuters.com/legal/litigation/vances-fraud-crackdown-may-raise-costs-us-health-insurers-enrollees-2026-10-02",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790929500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "21735d27f6",
     "title_fa": "‏بیت‌کوین به 86,000 دلار پیش از گزارش شغلی آمریکا رسید",
     "title_en": "Bitcoin edges higher ahead of U.S. jobs report as global bond yields surge",
@@ -44,6 +110,116 @@
     "sent_to_telegram": true
   },
   {
+    "id": "be0471c09d",
+    "title_fa": "‏آرژانتین اولین نمایشگاه خودرو چینی را میزبانی کرد",
+    "title_en": "Chinese auto show debuts in Argentina as their sales surge",
+    "summary": [
+      "‏آرژانتین اولین نمایشگاه خودرو چینی را در بوینس آیرس برگزار کرد.",
+      "‏این رویداد نشان‌دهنده تغییر سیاست‌های تجاری میلی تحت سمت‌گیری به بازار آزاد و رقابتی است.",
+      "‏فروش خودروهای چینی در آرژانتین به سرعت در حال رشد است."
+    ],
+    "body_fa": "‏بوینس آیرس روز جمعه اولین نمایشگاه خودرو چینی در تاریخ خود را میزبانی کرد. این نمایشگاه نشان می‌دهد که شرکت‌های خودروساز چینی به دنبال گسترش حضور خود در بازارهای آمریکای لاتین هستند. در همین زمان، دولت خوزه میلی سیاست‌های محافظه‌کارانه‌اش را کنار گذاشته و به سمت باز کردن بازار خودرو به رقابت‌های بین‌المللی حرکت کرده است. این تغییر به‌ویژه پس از کاهش تعرفه‌ها و تسهیل واردات اتفاق افتاده که فروش خودروهای چینی را به سرعت افزایش داده است. تحلیل‌گران بر این باورند که حضور چین می‌تواند رقابت را در بازار آرژانتین تشدید کند و فشار بر تولیدکنندگان داخلی را بالا ببرد. اگر این روند ادامه یابد، ممکن است شاهد افزایش سرمایه‌گذاری‌های چینی در بخش خودروسازی این کشور باشیم.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "بازار خودرو",
+    "tag": "چین",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/chinese-auto-show-debuts-argentina-their-sales-surge-2026-10-02/",
+    "clean_url": "https://www.reuters.com/business/autos-transportation/chinese-auto-show-debuts-argentina-their-sales-surge-2026-10-02",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790928120.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "be12cec5b2",
+    "title_fa": "‏ترامپ می‌گوید اروپا ذخایر دیزل را فوراً آزاد می‌کند",
+    "title_en": "Trump: Europe agrees to release diesel reserves ‘immediately’ as fuel prices hover near record highs",
+    "summary": [
+      "‏ترامپ اعلام کرد اروپا موافقت کرده تا ذخایر دیزل خود را «فوری» آزاد کند.",
+      "‏این اقدام می‌تواند فشار بر قیمت‌های سوخت را کاهش داده و به فشارهای سیاسی داخل ایالات متحده برای کنترل تورم کمک کند.",
+      "‏قیمت دیزل در آمریکا به نزدیک رکورد تاریخی رسیده است."
+    ],
+    "body_fa": "‏در بیانیه‌ای، دونالد ترامپ گفت اروپا تصمیم گرفته است تا بخشی از ذخایر دیزل خود را «فوری» آزاد کند. او این خبر را در حالی مطرح کرد که قیمت دیزل در ایالات متحده به نزدیک سطوح رکوردی رسیده و فشارهای سیاسی برای کنترل تورم بر حزب جمهوری‌خواه افزایشی یافته است. آزادسازی این ذخایر می‌تواند به کاهش کوتاه‌مدت قیمت سوخت کمک کند و بازارهای انرژی را تحت تأثیر قرار دهد. اروپا در گذشته ذخایر استراتژیک دیزل داشته و این اقدام نشان‌دهنده همکاری بین‌المللی برای مقابله با نوسانات قیمتی است. تحلیل‌گران انتظار دارند این اقدام تأثیر محدودی بر قیمت جهانی داشته باشد، اما می‌تواند به کاهش فشارهای داخلی بر دولت ترامپ منجر شود.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت سوخت",
+    "tag": "دیزل",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/trump-europe-diesel-fuel-prices-774a360d1646d9ce8aba764fdd9959d2",
+    "clean_url": "https://apnews.com/article/trump-europe-diesel-fuel-prices-774a360d1646d9ce8aba764fdd9959d2",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790925660.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "95797e0461",
+    "title_fa": "‏قیمت گاز اروپا اوج می‌گیرد؛ زغال‌سنگ دوباره فعال می‌شود",
+    "title_en": "Europe's Soaring Gas Bill Is Sending Utilities Back to Coal",
+    "summary": [
+      "‏قیمت گاز اروپا به بالاترین سطح سه ساله رسید؛ بیش از €80/مگاوات ساعت شد",
+      "‏به‌دلیل هزینهٔ سنگین گاز، نیروگاه‌های زغال‌سنگ، به‌ویژه در آلمان، دوباره راه‌اندازی شدند",
+      "‏تحلیل‌گران پیش‌بینی می‌کنند این روند تا مارس 2028 ادامه یابد"
+    ],
+    "body_fa": "‏قیمت گاز در اروپا این ماه به بیش از €80 برای هر مگاوات ساعت رسید که بالاترین سطح در سه سال گذشته است. این افزایش شدید هزینه، باعث شد که تولید برق از زغال‌سنگ برای اولین بار پس از سال‌ها دوباره از نظر اقتصادی ارزان‌تر از گاز باشد. به‌ویژه در آلمان، دولت‌ها و شرکت‌های برق به سرعت نیروگاه‌های زغال‌سنگ را فعال کردند تا از فشار قیمت گاز رهایی یابند. کارشناسان انرژی هشدار می‌دهند که این بازگشت به سوخت‌های کربن‌سخت می‌تواند تا سال 2028 ادامه داشته باشد، چرا که انتظارات بازار نشان می‌دهد عرضه گاز محدود باقی خواهد ماند. این تحولات نه تنها بر اهداف کاهش انتشار کربن اروپا ضربه می‌زند، بلکه تقاضای جهانی برای زغال‌سنگ را نیز افزایش می‌دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت گاز",
+    "tag": "گاز_اروپا",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Europes-Soaring-Gas-Bill-Is-Sending-Utilities-Back-to-Coal.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/Europes-Soaring-Gas-Bill-Is-Sending-Utilities-Back-to-Coal.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_mqytdlve2u.jpg",
+    "timestamp": 1790924460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8abb52a4a7",
+    "title_fa": "‏جنگ‌ها باعث افزایش شدید قیمت دیزل شد",
+    "title_en": "Why Have Diesel Prices Soared, and What Can Be Done to Bring Them Down?",
+    "summary": [
+      "‏جنگ‌های خاورمیانه و اوکراین حملات دریایی را مسدود کرده و یک‌سوم صادرات جهانی دیزل را قطع کردند.",
+      "‏این کمبود عرضه باعث جهش قیمت دیزل در بازارهای جهانی شد و فشار بر هزینه‌های حمل‌ونقل را افزایش داد.",
+      "‏تحلیل‌گران پیشنهاد می‌کنند افزایش تولید داخلی و استفاده از سوخت‌های جایگزین می‌تواند فشار قیمت را کاهش دهد."
+    ],
+    "body_fa": "‏جنگ‌های جاری در خاورمیانه و اوکراین مسیرهای حمل‌ونقل دریایی را که تقریباً یک‌سوم صادرات دیزل جهان را تامین می‌کردند، مسدود کرده‌اند. به‌دلیل این قطع‌وتوصیل، عرضه دیزل در بازارهای بین‌المللی به‌طور قابل‌توجهی کاهش یافت. کمبود عرضه باعث افزایش سریع قیمت دیزل شد و هزینه‌های حمل‌ونقل و تولید را در سرتاسر جهان بالا برد. کارشناسان بر این باورند که برای کاهش فشار قیمتی، باید تولید داخلی دیزل را گسترش داد و به‌سرعت به سوخت‌های جایگزین مانند گاز طبیعی مایع یا انرژی‌های تجدیدپذیر روی آورد. همچنین، بازگشت مسیرهای حمل‌ونقل امن و رفع تحریم‌های مرتبط می‌تواند به‌سرعت عرضه را به سطح قبلی برگرداند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت دیزل",
+    "tag": "دیزل",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/finance/commodities-futures/why-are-diesel-prices-soaring-and-what-would-a-u-s-export-ban-do-e453fd47",
+    "clean_url": "https://www.wsj.com/finance/commodities-futures/why-are-diesel-prices-soaring-and-what-would-a-u-s-export-ban-do-e453fd47",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790922240.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "24031fcd76",
+    "title_fa": "‏گزارش متوسط شغلی سپتامبر فدرال‌رزرو را به تورم متمرکز می‌کند",
+    "title_en": "Nick Timiraos | For the Fed, a Middling Jobs Report Will Keep Focus on Inflation Data",
+    "summary": [
+      "‏گزارش شغلی سپتامبر با رشد متوسط منتشر شد.",
+      "‏این رقم باعث شد فدرال‌رزرو تمرکز خود را بر داده‌های تورمی حفظ کند.",
+      "‏به‌نظر می‌رسد فشار برای تغییر نرخ بهره کاهش یابد."
+    ],
+    "body_fa": "‏گزارش شغلی ماه سپتامبر نشان داد که افزایش اشتغال به‌صورت متوسط بوده و نرخ بیکاری تغییر چشمگیری نکرد. این نتایج مانعی برای تغییر سیاست‌های نرخ بهره فدرال‌رزرو ایجاد نمی‌کند و تمرکز بانک مرکزی بر داده‌های تورمی باقی می‌ماند. نیک تیمیراس، تحلیلگر ارشد فدرال‌رزرو، گفت این گزارش مانعی برای حفظ نرخ بهره ثابت نیست. به‌دلیل عدم وجود شواهد قوی برای بهبود یا تشدید تورم، احتمال تغییر سریع در سیاست‌های پولی کاهش می‌یابد. بازارهای مالی نیز به‌نظر می‌رسد واکنش آرامی نشان دهند، زیرا فشار برای رفع نرخ بهره کمتر می‌شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش اشتغال",
+    "tag": "فدرال‌رزرو",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026/card/nick-timiraos-for-the-fed-a-middling-jobs-report-will-keep-focus-on-inflation-data-pBKOkkwlaDjiVeI6Txs8",
+    "clean_url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026/card/nick-timiraos-for-the-fed-a-middling-jobs-report-will-keep-focus-on-inflation-data-pBKOkkwlaDjiVeI6Txs8",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790913600.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "90c477eee6",
     "title_fa": "‏روسیه مازاد تولید، ممنوعیت دیزل را جزئی رفع می‌کند",
     "title_en": "Russia will consider partial lifting of diesel export ban in case of overproduction, Novak says",
@@ -63,6 +239,28 @@
     "clean_url": "https://www.reuters.com/business/energy/russia-will-consider-partial-lifting-diesel-export-ban-case-overproduction-novak-2026-10-02",
     "image": "https://www.reuters.com/resizer/v2/GXCRMJGRKFPHHFGELY5X3RN47U.jpg?auth=ffc37143ceb5d7ea5ea6f0d4bafcc6ab83f0eca6beca95b6fbd5c1169dbd408e&height=1005&width=1920&quality=80&smart=true",
     "timestamp": 1790911860.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9736173618",
+    "title_fa": "‏شرکت Anthropic هشدار داد نگرش‌های دولتی روابط تجاری را تهدید می‌کند",
+    "title_en": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
+    "summary": [
+      "‏شرکت هوش مصنوعی Anthropic در پروسپکتوس IPO خود اعلام کرد که نگرش‌های دولتی می‌تواند روابط تجاری‌اش را تحت‌تأثیر قرار دهد",
+      "‏این هشدار نشان می‌دهد ریسک‌های نظارتی می‌تواند جذب مشتریان تجاری و شرکای Anthropic را محدود کند",
+      "‏اگر دولت‌ها محدودیت‌های سخت‌تری اعمال کنند، ممکن است ارزش IPO و رشد شرکت تحت فشار قرار گیرد"
+    ],
+    "body_fa": "‏شرکت Anthropic ، یکی از پیشروهای هوش مصنوعی در زمینه مدل‌های زبانی بزرگ، در اسناد پیش‌فروش IPO خود نکته‌ای مهم را برجسته کرد. بر اساس این اسناد، نگرش‌های دولت‌ها نسبت به فناوری‌های این شرکت می‌تواند به‌طور مستقیم بر روابط تجاری و همکاری‌هایش با مشتریان و شرکای تجاری تأثیر بگذارد. به‌ویژه، اگر مقررات سخت‌گیرانه‌ای برای استفاده از مدل‌های زبانی یا محدودیت‌های صادراتی اعمال شود، ممکن است برخی از مشتریان بزرگ شرکت از همکاری خودداری کنند. این ریسک نظارتی به‌عنوان یکی از عوامل کلیدی در ارزیابی ارزش IPO توسط سرمایه‌گذاران ذکر شده است. Anthropic هشدار داد که چنین محدودیت‌هایی می‌تواند رشد سریع آن را کند کرده و توان جذب سرمایه‌های جدید را کاهش دهد. در نتیجه، تحولات سیاسی و قانونی در حوزه هوش مصنوعی می‌تواند نقش مهمی در مسیر رشد و ارزش‌گذاری این شرکت داشته باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows-2026-10-02/",
+    "clean_url": "https://www.reuters.com/business/media-telecom/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows-2026-10-02",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1790910420.0,
     "sent_to_telegram": true
   },
   {
@@ -107,6 +305,72 @@
     "clean_url": "https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108254052-1768890973736-gettyimages-2253332247-AFP_89BK4ZQ.jpeg?v=1768890986&w=1920&h=1080",
     "timestamp": 1790907780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bc208b606c",
+    "title_fa": "‏Krafton توسعه Black Budget را پس از تست بسته متوقف کرد",
+    "title_en": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test",
+    "summary": [
+      "‏Krafton توسعه بازی Black Budget را پس از تست بسته در Steam متوقف کرد",
+      "‏این تصمیم نشان می‌دهد که پروژه نتوانست تجربه‌ای پایدار برای بازیکنان فراهم کند",
+      "‏Black Budget دومین اسپین‑آف PUBG بود که این سال لغو شد"
+    ],
+    "body_fa": "‏Krafton اعلام کرد توسعهٔ اسپین‑آف PUBG به نام Black Budget را پس از گذشت نه ماه از تست بسته در Steam متوقف می‌کند. این بازی شلیک‌گیری استخراجی با حلقهٔ زمانی بود که هدفش بقا و خروج تیمی بود نه نبرد آخرین بازمانده. شرکت پس از بررسی وضعیت توسعه و جهت‌گیری آیندهٔ پروژه، نتیجه گرفت که نمی‌تواند تجربه‌ای طولانی‌مدت برای بازیکنان ارائه دهد. Black Budget دومین پروژهٔ جانبی PUBG بود که این سال لغو شد؛ در مارس نیز Blindspot پس از دو ماه در دسترسی زودهنگام بسته شد. با این حال، Krafton در Gamescom یک اسپین‑آف جدید به نام PUBG: Ded.Net معرفی کرد. شرکت در گزارش مالی سه‌ماهه دوم خود، رشد 94.9% درآمد به ₩1.29 تریلیون (889.1 میلیون دلار) را اعلام کرد که به گسترش فرانچایز PUBG و موفقیت Subnautica 2 نسبت داده شد.",
+    "category": "گیم",
+    "subcategory": "لغو پروژه",
+    "tag": "Black Budget",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+    "clean_url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+    "image": "https://assetsio.gnwcdn.com/black-budget.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1790902980.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "aa3f68bb88",
+    "title_fa": "‏ممنوعیت صادرات دیزل آمریکا، بزرگ‌ترین ضربه به آمریکای لاتین",
+    "title_en": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman",
+    "summary": [
+      "‏گلدمن ساکس هشدار داد ممنوعیت صادرات دیزل از آمریکا، می‌تواند تا ۱٪ رشد تولید ناخالص داخلی کشورهای لاتین را کاهش دهد.",
+      "‏چون این کشورها تا ۵۰٪ مصرف دیزل خود را از آمریکا تأمین می‌کنند، توقف صادرات می‌تواند قیمت جهانی دیزل را بالا برد.",
+      "‏در عین حال، اروپا و چین نیز با محدودیت‌های مشابه در معرض فشارهای قیمتی قرار دارند."
+    ],
+    "body_fa": "‏گلدمن ساکس در گزارشی اعلام کرد که ممنوعیت احتمالی صادرات دیزل از ایالات متحده، بیشترین تأثیر را بر کشورهای آمریکای لاتین خواهد داشت. این کشورها، از جمله مکزیک، اکوادور، شیلی و پرو، تا ۵۰٪ مصرف دیزل خود را از واردات آمریکایی تأمین می‌کنند و در صورت قطع این جریان، رشد تولید ناخالص داخلی منطقه می‌تواند حدود ۱٪ کاهش یابد. اگرچه بازار جهانی دیزل می‌تواند به سرعت تأمین‌کنندگان دیگر را جایگزین کند، اما قیمت‌ها به‌طور قابل‌توجهی افزایش خواهد یافت. در همین زمان، روسیه ممنوعیت خود بر صادرات دیزل را تمدید کرده و چین نیز تمام صادرات سوخت خود را برای این ماه متوقف کرده است. رئیس‌جمهور ترامپ گفت مذاکرات روزانه درباره این موضوع دارد و حتی تهدید کرده است که در صورت عدم آزادسازی ذخایر دیزل در فرانسه و آلمان، صادرات به این کشورها را قطع کند. این تحولات می‌تواند فشارهای قیمتی را در سرتاسر جهان تشدید کند و تأثیرات اقتصادی گسترده‌ای به‌ویژه برای مصرف‌کنندگان دیزل در آمریکای لاتین به‌بار آورد.",
+    "category": "انرژی و کالا",
+    "subcategory": "صادرات دیزل",
+    "tag": "دیزل",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Export-Ban-Would-Hit-Latin-America-Hardest-Goldman.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Export-Ban-Would-Hit-Latin-America-Hardest-Goldman.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-02_sibdsxeerh.jpg",
+    "timestamp": 1790902800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c5dcdc6325",
+    "title_fa": "‏بانک مرکزی اروپا سه مدل توکن‌سازی نقدینگی را اعلام کرد",
+    "title_en": "ECB outlines three models for putting central bank money onchain",
+    "summary": [
+      "‏بانک مرکزی اروپا (ECB) سه روش برای قرار دادن پول مرکزی روی بلاکچین مطرح کرد.",
+      "‏این مدل‌ها می‌توانند سرعت تسویه‌حساب‌ها را افزایش داده و ساختار دو لایه‌ای پول را حفظ کنند.",
+      "‏یکی از گزینه‌ها توکن‌سازی مستقیم ذخایر با پشتوانه کامل است."
+    ],
+    "body_fa": "‏در کنفرانس Future of Money بانک انگلستان، عضو هیئت اجرایی ECB ، ایزابل شنابل، چارچوبی برای توکن‌سازی پول مرکزی ارائه داد. او سه سناریو را شرح داد: انتشار مستقیم ذخایر بر بستر برنامه‌پذیر، حفظ سامانه تسویه‌حساب لحظه‌ای فعلی با لایه‌ای برای اتصال به پلتفرم‌های DLT ، و توکن‌سازی کامل ذخایر با صدور توکن‌های تسویه‌پذیر پشتیبانی‌شده. در همهٔ این گزینه‌ها، ساختار دو لایه‌ای فعلی – پول مرکزی در هسته تسویه و بانک‌های تجاری به‌عنوان واسطه – حفظ می‌شود. این طرح‌ها می‌توانند پول مرکزی را در کنار دارایی‌های توکن‌شده مانند اوراق بهادار، سپرده‌ها و استیبل‌کوین‌ها قرار دهند. نظرسنجی‌های مؤسسات مالی بریتانیا نشان می‌دهد بیش از ۷۰٪ تصمیم‌گیرندگان انتظار دارند توکن‌سازی خدمات مالی را تحول بخشد و سرعت پرداخت‌ها و مدیریت تسویه را بهبود دهد. این گام‌های اولیه ECB می‌تواند مسیر پذیرش گسترده‌تر فناوری‌های دفتر کل توزیع‌شده در نظام مالی اروپا را هموار کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "پول دیجیتال بانک مرکزی",
+    "tag": "ECB",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ecb.png",
+    "timestamp": 1790895000.0,
     "sent_to_telegram": true
   },
   {
@@ -239,6 +503,28 @@
     "clean_url": "https://www.reuters.com/business/energy/conocophillips-signs-20-year-lng-deal-with-venture-global-2026-10-01",
     "image": "https://s.yimg.com/bo/1d312d66-ccd5-52ea-8bc9-211cd7256a1e_1790888714938.jpg",
     "timestamp": 1790888451.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "afb175e6dd",
+    "title_fa": "‏پوتین به فرماندهان نظامی خود دستور لغو قوانین جنگ داد",
+    "title_en": "Putin has told military leaders to abandon rules of war, Zelenskyy says",
+    "summary": [
+      "‏پوتین به فرماندهان نظامی خود گفته است که قوانین جنگ را نادیده بگیرند، به گفته ولنسکی.",
+      "‏این اظهارات می‌تواند تشدید خشونت در جنگ اوکراین و واکنش‌های بین‌المللی را به دنبال داشته باشد.",
+      "‏اوکراین این ادعا را به عنوان نشانه‌ای از نیت‌های تجاوزی روسیه مطرح کرد."
+    ],
+    "body_fa": "‏ولنسکی روز دوشنبه اعلام کرد که رئیس‌جمهور روسیه، ولادیمیر پوتین، به فرماندهان نظامی خود دستور داده است تا قوانین جنگ را نادیده بگیرند. این ادعا بر پایه گفت‌وگوهای مخفیانه و اطلاعاتی است که ولنسکی آن را به رسانه‌ها منتقل کرده است. اگر صحت داشته باشد، نشان‌دهندهٔ تغییر استراتژیک در سیاست نظامی روسیه و احتمال ارتقای خشونت در جبهه‌های اوکراین است. چنین بیانیه‌ای می‌تواند واکنش‌های بین‌المللی، از جمله تحریم‌های جدید و فشارهای دیپلماتیک، را برانگیزد. اوکراین این موضوع را به عنوان مدرکی برای نشان دادن نیت‌های تجاوزی پوتین به کار می‌گیرد. در عین حال، نهادهای بین‌المللی هنوز به بررسی صحت این ادعا پرداخته‌اند و هنوز تصمیمی قطعی در خصوص اقدامات قانونی اتخاذ نشده است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "روابط روسیه اوکراین",
+    "tag": "قوانین_جنگ",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bf79c76-020b-4f8d-8d7c-f00f9df54f4a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+    "timestamp": 1790888400.0,
     "sent_to_telegram": true
   },
   {
@@ -6309,292 +6595,6 @@
     "clean_url": "https://profit.pakistantoday.com.pk/2026/09/24/middle-east-war-threatens-global-growth-fuels-inflation-and-debt-pressures-imf",
     "image": "https://profit.pakistantoday.com.pk/uploads/economy-1790224357171-jffyz2.png",
     "timestamp": 1790182800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4ad0af7f96",
-    "title_fa": "‏تایم شافر اقتصاد ناپایدار صنعت بازی را زیر سوال برد",
-    "title_en": "Double Fine Founder Tim Schafer Questions Economics of the Game Industry Amid Mass Layoffs and Studio Closures",
-    "summary": [
-      "‏تایم شافر، بنیان‌گذار Double Fine ، گفت دیگر اقتصاد ساخت بازی را نمی‌فهمد پس از اخراج‌های گسترده Xbox.",
-      "‏این بیانیه نشان می‌دهد حتی عناوین پرفروش مثل Battlefield 6 نمی‌توانند از ریسک از دست دادن شغل جلوگیری کنند.",
-      "‏شافر به ادامه خلاقیت در هر دو بخش AAA و ایندی اشاره کرد و امید به بهبود چرخه بازار دارد."
-    ],
-    "body_fa": "‏تایم شافر، بنیان‌گذار Double Fine ، در مصاحبه‌ای با BBC گفت دیگر اقتصاد ساخت بازی را نمی‌فهمد. او این اظهارات را پس از اعلام اخراج‌های گسترده مایکروسافت در Xbox و بسته شدن چند استودیو مطرح کرد. شافر اشاره کرد حتی پروژه‌های موفقی مثل Battlefield 6 که با فروش بالا و نقدهای مثبت عرضه شد، پس از انتشار با اخراج نیروها مواجه شد. وی بیان کرد نوسان شغلی در هر دو بخش AAA و ایندی به‌دلیل چرخه‌های نامشخص بازار و احتمال طمع برخی نهادها ادامه دارد. با این حال شافر به خلاقیت و انرژی بالای توسعه‌دهندگان در صنعت بازی اشاره کرد و امیدوار است این دوره سختی به زودی بهبود یابد.",
-    "category": "گیم",
-    "subcategory": "اقتصاد بازی",
-    "tag": "سازندگان",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/double-fine-founder-tim-schafer-questions-economics-of-the-game-industry-amid-mass-layoffs-and-studio-closures",
-    "clean_url": "https://www.ign.com/articles/double-fine-founder-tim-schafer-questions-economics-of-the-game-industry-amid-mass-layoffs-and-studio-closures",
-    "image": "https://assets-prd.ignimgs.com/2026/09/23/double-fine-tim-schafer-game-industry-economics-layoffs-1790201916197.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "timestamp": 1790177040.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5fb5312e52",
-    "title_fa": "‏مایکل بار، فدرال رزرو: نیاز به افزایش نرخ بهره",
-    "title_en": "Fed's Barr says more rate hikes are needed to bring down inflation",
-    "summary": [
-      "‏میکائیل بار، عضو فدرال رزرو، گفت افزایش نرخ بهره بیشتر لازم است",
-      "‏این اظهارات نشان می‌دهد که سیاست پولی سختگیرانه ادامه خواهد یافت و می‌تواند بازارها و هزینه وام‌ها را تحت فشار قرار دهد",
-      "‏بار به شوک‌های عرضه از جمله تعرفه‌ها، جنگ اوکراین و تقاضای هوش مصنوعی اشاره کرد"
-    ],
-    "body_fa": "‏میکائیل بار، یکی از اعضای فدرال رزرو، در سخنرانی خود در شیکاگو گفت که برای کاهش تورم سرسخت، افزایش‌های بیشتری در نرخ بهره ضروری است. او افزود که تورم هنوز بالاتر از هدف ۲٪ است و ریسک‌های رسیدن به این هدف افزایش یافته‌اند، در حالی که ریسک‌های بازار کار کاهش یافته‌اند. بار به عوامل مختلفی از جمله تعرفه‌ها، درگیری‌های خاورمیانه، ادامه جنگ روسیه با اوکراین و تقاضای شدید برای سرمایه‌گذاری در هوش مصنوعی به عنوان عوامل فشار قیمتی اشاره کرد. او حمایت خود از افزایش نرخ بهره اخیر فدرال رزرو را تأیید کرد و گفت بانک مرکزی در موقعیتی نامناسب قرار داشته است. این اظهارات همزمان با هشدارهای دیگر مقامات فدرال رزرو دربارهٔ ماندگاری شوک‌های عرضه منتشر شد و نشان می‌دهد که سیاست پولی احتمالاً به سمت سفت‌کردن بیشتر حرکت خواهد کرد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "نرخ بهره",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/policy/article/feds-barr-says-more-rate-hikes-are-needed-to-bring-down-inflation-140716258.html",
-    "clean_url": "https://finance.yahoo.com/economy/policy/article/feds-barr-says-more-rate-hikes-are-needed-to-bring-down-inflation-140716258.html",
-    "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/a73a300d-c94d-498e-a014-6355c5827b33",
-    "timestamp": 1790171936.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "45a72b2ea7",
-    "title_fa": "‏یورو/دلار زیر ۱٫۱۴۰۰ افتاد؛ اختلاف نرخ ۱۵۰ نقطه پایه",
-    "title_en": "EURUSD Tests 1.1400 on Fed Hike Bets — 150bp Rate Gap Targets 1.1300 Downside",
-    "summary": [
-      "‏یورو/دلار به 1.1401 رسید و زیر 1.1400 رفت.",
-      "‏این حرکت پس از جهش PMI ترکیبی آمریکا به 58.4 و پیش‌بینی افزایش دومین نرخ فدرال رزرو در اکتبر رخ داد.",
-      "‏اختلاف 150 نقطه پایه بین سقف نرخ فدرال (4%) و نرخ سپرده ECB (2.5%) فشار بر یورو را تشدید می‌کند."
-    ],
-    "body_fa": "‏یورو/دلار در ساعت ۱۵:۰۰ GMT به 1.1401 کاهش یافت و به سطح زیر 1.1400 نزدیک شد، که آخرین بار در اواخر ژوئیه دیده شده بود. این افت پس از انتشار شاخص PMI ترکیبی ایالات متحده به 58.4 ، بالاترین سطح در پنج سال، رخ داد و بازارها را به پیش‌بینی افزایش دومین نرخ فدرال رزرو در اکتبر سوق داد. اختلاف نرخ بهره بین سقف فدرال (۴٪) و نرخ سپرده بانک مرکزی اروپا (۲.۵٪) به ۱۵۰ نقطه پایه گسترش یافت و به عنوان عامل اصلی فشار بر یورو شناخته شد. در عین حال، بازده اوراق ۱۰ ساله آمریکا به 5.058 ٪ و بازده دو ساله به 4.874 ٪ رسید، که نشان از قدرت دلار دارد. اقتصاد منطقه یورو با رشد حدود ۰.۹٪ در سال جاری و ریسک‌های سیاسی در آلمان و مالی در فرانسه مواجه است، که ترکیب این عوامل باعث تضعیف بیشتر یورو نسبت به دلار شد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار ارز",
-    "tag": "EURUSD",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "tradingnews.com",
-    "url": "https://www.tradingnews.com/news/eurusd-11401-tests-11400-on-fed-hike-bets-150bp-rate-gap-targets",
-    "clean_url": "https://www.tradingnews.com/news/eurusd-11401-tests-11400-on-fed-hike-bets-150bp-rate-gap-targets",
-    "image": "https://www.tradingnews.com/Warehouse/content/pics/pic_88_d_42baf6b2-d65d-4b4b-a98b-f6cab8a6c198.png?1=1",
-    "timestamp": 1790165340.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4b44abaf80",
-    "title_fa": "‏قیمت طلا به‌دلیل افزایش نرخ فدرال‌رزرو ۱.۶٪ افت کرد",
-    "title_en": "Gold falls as Fed rate hike bets lift US Dollar to two-month high | FXStreet",
-    "summary": [
-      "‏قیمت طلا حدود ۴,۲۸۵ دلار شد و ۱.۶٪ کاهش یافت؛ دلار به بالاترین سطح دو ماهه رسید.",
-      "‏کاهش طلا به انتظارات افزایش نرخ بهره فدرال‌رزرو و داده‌های مثبت PMI مرتبط است.",
-      "‏شاخص دلار DXY به ۱۰۱ نزدیک شد و اوراق دو ساله نزدیک ۴.۷۹٪ شد."
-    ],
-    "body_fa": "‏طلا در روز چهارشنبه به حدود ۴,۲۸۵ دلار کاهش یافت، که نسبت به آغاز روز ۱.۶٪ افت داشت. این کاهش ناشی از تقویت دلار آمریکا بود که پس از انتشار داده‌های PMI مثبت و انتظارات از افزایش دیگر نرخ بهره توسط فدرال‌رزرو، به بالاترین سطح دو ماهه خود رسید. شاخص دلار (DXY) به حدود ۱۰۱.۰۰ رسید و اوراق قرضه دو ساله نزدیک ۴.۷۹٪ شد. فدرال‌رزرو هفته گذشته نرخ بهره پایه را ۲۵ پایه‌نقطه افزایش داد و پیش‌بینی می‌کند یک بار دیگر این سال نرخ را بالا ببرد. رئیس فدرال‌رزرو ریچموند، توماس بارکین، شرایط اقتصادی را در حال تقویت توصیف کرد و هشدار داد تورم بالا می‌تواند فشارهای آینده را تشدید کند. در عین حال، قیمت نفت WTI نزدیک ۹۰ دلار باقی مانده و مذاکرات بین آمریکا و ایران دربارهٔ راه‌بان هرمز هنوز به نتیجه نرسیده است.",
-    "category": "انرژی و کالا",
-    "subcategory": "طلا",
-    "tag": "قیمت طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
-    "clean_url": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
-    "image": "https://s.yimg.com/bo/3b0ce240-5197-5b6f-b76f-c58be346c847_1788932725292.png.cf.jpg",
-    "timestamp": 1790162751.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f48298c9b4",
-    "title_fa": "‏بازده‌های خزانه‌داری ۱۹ ساله شد؛ شاخص‌های اصلی آمریکا کاهش یافتند",
-    "title_en": "Stock Market Today: Nasdaq, S&P 500 Drop as Treasury Yields Soar to Highest...",
-    "summary": [
-      "‏شاخص‌های Nasdaq ، Dow و S&P 500 در روز چهارشنبه به ترتیب ۰٫۸٪، ۰٫۵٪ و ۰٫۳٪ سقوط کردند.",
-      "‏دلیل این افت، صعود بازده اوراق ۱۰‑ساله به ۵٫۰۷٪، بالاترین سطح منذ ۲۰۰۷، پس از داده‌های تولیدی گرم‌تر از انتظار بود.",
-      "‏نفت و بیت‌کوین نیز تحت فشار قرار گرفتند؛ قیمت نفت به ۹۱٫۳۵ دلار و بیت‌کوین به حدود ۸۴٬۶۰۰ دلار رسید."
-    ],
-    "body_fa": "‏روز چهارشنبه شاخص‌های اصلی بازار سهام آمریکا کاهش یافتند؛ Nasdaq ۰٫۸٪، Dow ۰٫۵٪ و S&P 500 ۰٫۳٪ سقوط کردند. این افت ناشی از صعود سریع بازده اوراق قرضه ۱۰‑ساله به ۵٫۰۷٪ بود، که بالاترین سطح خود را از سال ۲۰۰۷ ثبت کرد. بازده‌های بالاتر پس از انتشار داده‌های تولیدی و خدماتی فوری (PMI) که از پیش‌بینی‌ها گرم‌تر بودند، رخ داد. افزایش نرخ بهره به‌سرعت بر سهام فناوری و نیمه‌نقلیه فشار آورد و ETF های مرتبط با حافظه و نیمه‌نقلیه به ترتیب ۲٪ و ۱٫۵٪ کاهش یافتند. در کنار این، قیمت نفت به ۹۱٫۳۵ دلار در هر بشکه و بیت‌کوین به حدود ۸۴٬۶۰۰ دلار سقوط کرد. این تحولات نشان می‌دهد که بازار به حساسیت بالای نرخ بهره و داده‌های اقتصادی واکنش نشان می‌دهد و نوساناتی در هفته آینده پیش‌بینی می‌شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام آمریکا",
-    "tag": "بازده‌اوراق",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Investopedia · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-little-104021073.html",
-    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-little-104021073.html",
-    "image": "https://media.zenfs.com/en/investopedia_245/5073f1cac806850c7c9cc9bd05912d2a.jpg",
-    "timestamp": 1790161135.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "849e11a2c5",
-    "title_fa": "‏آمریکا در جنگ تجاری با چین به‌طور جدی عقب مانده است",
-    "title_en": "View: The US is badly losing its trade war with China",
-    "summary": [
-      "‏دیدار آتی شی جین‌پینگ، اولین سفر دولتی چین به آمریکا از ۲۰۱۵، نشان می‌دهد ایالات متحده در جنگ تجاری با چین عقب‌مانده است",
-      "‏این وضعیت به دلیل کاهش صادرات آمریکا، افزایش تعرفه‌ها و انتقال زنجیره‌های تأمین به آسیا، فشار بر رشد اقتصادی آمریکا را افزون می‌کند",
-      "‏بازدید شی می‌تواند فرصتی برای مذاکرات تجاری جدید و تعدیل سیاست‌های تعرفه‌ای باشد"
-    ],
-    "body_fa": "‏شی جین‌پینگ به‌زودی برای اولین بار از سال ۲۰۱۵ به ایالات متحده می‌آید؛ این سفر دولتی نشانگر تغییر در روابط تجاری دو کشور است. در سال‌های اخیر، ایالات متحده با اعمال تعرفه‌های سنگین بر واردات چینی، سعی در کاهش کسری تجاری خود داشت، اما نتایج نشان می‌دهد صادرات آمریکا به چین کاهش یافته و بخش‌های تولیدی داخلی تحت فشار قرار گرفته‌اند. علاوه بر این، بسیاری از شرکت‌های چندملیتی زنجیره‌های تأمین خود را به کشورهای آسیایی دیگر منتقل کرده‌اند تا از تعرفه‌ها دوری کنند. این تحولات باعث شده است که آمریکا در مقایسه با چین، موقعیت ضعیف‌تری در جنگ تجاری داشته باشد و رشد اقتصادی داخلی تحت فشار قرار گیرد. بازدید شی می‌تواند فرصتی برای بازنگری در سیاست‌های تعرفه‌ای و آغاز مذاکرات تجاری جدید فراهم کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "جنگ تجاری چین‑آمریکا",
-    "tag": "تجارت",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Economic Times on MSN",
-    "url": "https://www.msn.com/en-in/money/general/view-the-us-is-badly-losing-its-trade-war-with-china/ar-AA2cOJ4u?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-in/money/general/view-the-us-is-badly-losing-its-trade-war-with-china/ar-AA2cOJ4u",
-    "image": "https://www.bing.com/th?id=ONUT.DKmxPcSFO9njPNaXpnF8fg",
-    "timestamp": 1790158676.2930586,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "acd6aca87a",
-    "title_fa": "‏پیشرفت نامتقارن تعهدات تجاری آمریکا‑چین نشانگر تنش محدود است",
-    "title_en": "Soybeans, planes and rare earths: What they say about fragile U.S.-China trade...",
-    "summary": [
-      "‏چین تقریباً نیمی از تعهد سالانه ۲۵ میلیون تن سویا را خرید و سفارش ۲۰۰ هواپیمای بوئینگ را ادامه می‌دهد.",
-      "‏پیشرفت نامتقارن در سه تعهد نشان می‌دهد توافق فقط برای حفظ جریان تجارت و جلوگیری از تشدید مجدد است.",
-      "‏تحویل مواد کمیاب پس از لغو موقت کنترل‌های صادراتی یک‌ساله دوباره آغاز شد."
-    ],
-    "body_fa": "‏چین تا کنون تقریباً نیمی از تعهد سالانه ۲۵ میلیون تن سویا به آمریکا را خرید و سفارش ۲۰۰ هواپیمای بوئینگ را ادامه می‌دهد. تحویل مواد کمیاب، به‌ویژه آهن‌رباهای نادر، پس از لغو موقت کنترل‌های صادراتی یک‌ساله دوباره آغاز شده است. اما سرعت اجرای این سه تعهد به‌صورت نامتقارن است و برخی موارد به‌دقت قابل تأیید نیستند. تحلیل‌گران می‌گویند توافق تجاری فقط به‌عنوان یک سازوکار حداقلی برای حفظ جریان تجارت و جلوگیری از تشدید تنش‌ها عمل می‌کند و هیچ تمایلی به واگذاری قدرت استراتژیک ندارند. این وضعیت نشان‌دهنده دوره‌ای از دتن‌منت است که هر دو طرف به نقاط ضعف یکدیگر آگاه هستند اما هنوز به هم‌پیمانی واقعی نرسیده‌اند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تجارت چین-آمریکا",
-    "tag": "سویا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
-    "clean_url": "https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
-    "image": "https://s.yimg.com/bo/5d6def6a-7c6a-5f13-ac6a-8c5a0621407c_1790152111505.jpg",
-    "timestamp": 1790151420.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c9222d8658",
-    "title_fa": "‏OECD می‌گوید هوش مصنوعی رشد اقتصاد جهانی را پنهان می‌کند",
-    "title_en": "OECD: AI boom masks global economy slowdown as Middle East energy worries persists",
-    "summary": [
-      "‏OECD گزارش داد هزینه‌های شرکت‌ها در هوش مصنوعی بخشی از اثرات منفی شوک انرژی خاورمیانه بر اقتصاد جهانی را جبران کرده است.",
-      "‏این نشان می‌دهد رشد هوش مصنوعی می‌تواند کاهش رشد اقتصادی را مخفی کند و تصمیم‌گیرندگان باید این خطر را در برنامه‌ریزی‌های خود در نظر بگیرند.",
-      "‏به‌علاوه، نگرانی‌های مداوم درباره تأمین انرژی خاورمیانه همچنان می‌تواند فشارهای تورمی و نوسانات بازار را تقویت کند."
-    ],
-    "body_fa": "‏سازمان همکاری و توسعه اقتصادی (OECD) در گزارشی جدید اعلام کرد که هزینه‌های شرکت‌ها در حوزه هوش مصنوعی به‌عنوان یک عامل تقویت‌کننده بر رشد اقتصادی جهانی عمل کرده است. این هزینه‌ها به‌طور قابل‌توجهی برخی از اثرات منفی شوک انرژی خاورمیانه، که می‌توانست رشد جهانی را کاهش دهد، جبران کنند. با این حال، سازمان هشدار داد که نگرانی‌های انرژی در خاورمیانه همچنان پابرجاست و می‌تواند فشارهای تورمی و نوسانات بازار را ادامه دهد. تحلیل‌گران می‌گویند این مسأله نشان می‌دهد که رشد سریع هوش مصنوعی می‌تواند کاهش واقعی رشد اقتصادی را مخفی سازد و ارزیابی‌های سنتی را دچار اشتباه کند. بنابراین، سیاست‌گذاران و سرمایه‌گذاران باید به تأثیرات مخفی این فناوری بر شاخص‌های کلان اقتصادی توجه ویژه‌ای داشته باشند. در نهایت، OECD توصیه می‌کند که ترکیبی از سیاست‌های انرژی پایدار و نظارت دقیق بر سرمایه‌گذاری‌های AI برای حفظ تعادل اقتصادی جهانی ضروری است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "اقتصاد جهانی",
-    "tag": "هوش مصنوعی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Cryptopolitan on MSN",
-    "url": "https://www.msn.com/en-us/news/other/oecd-ai-boom-masks-global-economy-slowdown-as-middle-east-energy-worries-persists/ar-AA2cPGK3",
-    "clean_url": "https://www.msn.com/en-us/news/other/oecd-ai-boom-masks-global-economy-slowdown-as-middle-east-energy-worries-persists/ar-AA2cPGK3",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790144150.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8fc2a15286",
-    "title_fa": "‏OECD پیش‌بینی رشد جهانی 2026 را به ۲٫۹٪ ارتقا داد",
-    "title_en": "OECD lifts 2026 global economic growth forecast to 2.9% despite Iran war disruption",
-    "summary": [
-      "‏OECD پیش‌بینی رشد اقتصادی جهانی برای سال 2026 را به ۲٫۹٪ ارتقا داد",
-      "‏این نشان می‌دهد اقتصاد جهان شوک انرژی ناشی از جنگ ایران را بهتر از انتظار جذب کرده است",
-      "‏اما سازمان هشدار داد که ریسک‌های پایدار همچنان وجود دارد"
-    ],
-    "body_fa": "‏سازمان اقتصادی همکاری و توسعه (OECD) پیش‌بینی رشد اقتصادی جهانی برای سال 2026 را از پیش‌فرض قبلی به ۲٫۹ درصد ارتقا داد. این افزایش نشان می‌دهد که اقتصادهای جهان توانسته‌اند شوک انرژی ناشی از جنگ ایران را بهتر از آنچه پیش‌بینی می‌شد جذب کنند. با این حال، OECD هشدار داد که ریسک‌های پایدار مانند نوسانات قیمت انرژی و فشارهای ژئوپلیتیک می‌توانند رشد را تحت‌تأثیر قرار دهند. این پیش‌بینی برای سیاست‌گذاران و بازارهای مالی اهمیت دارد، زیرا انتظارات رشد را تنظیم می‌کند و می‌تواند بر تصمیمات سرمایه‌گذاری و نرخ بهره تأثیر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "رشد اقتصادی جهانی",
-    "tag": "OECD",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Euronews on MSN",
-    "url": "https://www.msn.com/en-ph/money/economy/oecd-lifts-2026-global-economic-growth-forecast-to-2-9-despite-iran-war-disruption/ar-AA2cPhGc",
-    "clean_url": "https://www.msn.com/en-ph/money/economy/oecd-lifts-2026-global-economic-growth-forecast-to-2-9-despite-iran-war-disruption/ar-AA2cPhGc",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790144115.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "31aa2a2809",
-    "title_fa": "‏OECD پیش‌بینی رشد جهانی را به ۲٫۹٪ ارتقا داد",
-    "title_en": "OECD lifts forecasts for global growth",
-    "summary": [
-      "‏OECD پیش‌بینی رشد اقتصاد جهانی را به ۲٫۹٪ برای سال جاری ارتقا داد.",
-      "‏این افزایش نشان‌دهنده بهبود نسبت به پیش‌بینی قبلی است و می‌تواند بازارها و سیاست‌های پولی را تحت تأثیر قرار دهد.",
-      "‏برای سال آینده پیش‌بینی را به ۳٪ کاهش داد و ریسک‌های ژئوپلیتیک و انرژی را برجسته کرد."
-    ],
-    "body_fa": "‏سازمان همکاری و توسعه اقتصادی (OECD) پیش‌بینی رشد اقتصاد جهانی را برای سال جاری به ۲٫۹٪ ارتقا داد. این رقم برای منطقه یورو ۱٪ و برای آلمان ۱٫۱٪ پیش‌بینی شد که هر دو نسبت به برآوردهای قبلی افزایش یافت. با این حال، برای سال آینده پیش‌بینی رشد جهانی به ۳٪ و برای منطقه یورو به ۱٪ کاهش یافت. OECD تأکید کرد که ادامهٔ درگیری‌های خاورمیانه، تعرفه‌ها و محدودیت‌های صادراتی، و ریسک‌های آب و هوایی مانند ال‌نیونو می‌توانند چشم‌انداز را تحت فشار قرار دهند. همچنین عدم تحقق سرمایه‌گذاری‌های هوش مصنوعی می‌تواند رشد را کندتر کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "پیش‌بینی رشد جهانی",
-    "tag": "OECD",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/articles/oecd-lifts-forecasts-global-growth-093447657.html",
-    "clean_url": "https://finance.yahoo.com/economy/articles/oecd-lifts-forecasts-global-growth-093447657.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/ee4dc7eca39538037519d4f367fafabdbbcfb849ddcd3f6fcd5746997fa1dd8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0d7275ddf60cb2311746ecc299e825b0.jpg",
-    "timestamp": 1790130840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "037d5bfdfe",
-    "title_fa": "‏Undead Labs از Xbox جدا شد و مستقل شد",
-    "title_en": "Undead Labs leaves Xbox: State of Decay studio goes independent again amid layoffs",
-    "summary": [
-      "‏Undead Labs امروز از Xbox Game Studios جدا شد و دوباره به‌صورت استودیوی مستقل شد.",
-      "‏جدایی همراه با اخراج‌های گسترده بود و توسعه State of Decay 3 که هدف انتشار 2027 دارد، تحت تأثیر قرار گرفت.",
-      "‏بازی جدید برای Xbox ، PC و PS5 در مرحله آلفا است و بتای بسته‌شده تا پایان 2026 برنامه‌ریزی شده."
-    ],
-    "body_fa": "‏استودیوی Undead Labs که سازنده سری State of Decay است، امروز از Xbox Game Studios جدا شد و به‌صورت مستقل و احتمالاً مالکیت کارمندان ادامه می‌دهد. جدایی همزمان با اعلام یک دور جدید از برش‌های شغلی در مایکروسافت انجام شد و تعداد دقیق اخراج‌ها اعلام نشده است. توسعه State of Decay 3 که در حال حاضر در فاز آلفا است، برای سال 2027 برنامه‌ریزی شده بود اما این برش‌های نیروی کار ممکن است زمان‌بندی را به تعویق بیندازد. نسخه جدید بازی برای Xbox ، PC و PlayStation 5 هدف‌گذاری شده و بتای بسته‌شده تا پایان 2026 انتظار می‌رود. این تغییر نشان‌دهندهٔ فشارهای مالی و استراتژیک در بخش بازی‌های مایکروسافت است که می‌تواند بر برنامه‌های دیگر استودیوهای زیرمجموعه نیز تأثیر بگذارد.",
-    "category": "گیم",
-    "subcategory": "استودیوهای بازی",
-    "tag": "Undead Labs",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Softonic",
-    "url": "https://en.softonic.com/articles/undead-labs-leaves-xbox-state-of-decay-studio-goes-independent-again-amid-layoffs",
-    "clean_url": "https://en.softonic.com/articles/undead-labs-leaves-xbox-state-of-decay-studio-goes-independent-again-amid-layoffs",
-    "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/09/undead-labs-leaves-xbox-state-of-decay-studio-goes-independe-20260923.jpg",
-    "timestamp": 1790130000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "35a1c37a34",
-    "title_fa": "‏Undead Labs به استودیوی کارمند‑محور تبدیل شد، تعدادی اخراج شدند",
-    "title_en": "Undead Labs confirms it is now an \"employee-owned studio\", a \"significant number\" of employees face layoffs",
-    "summary": [
-      "‏Undead Labs اعلام کرد استودیوی مستقل کارمند‑محور شده و پس از جدایی از Xbox ، تعداد زیادی کارمند را اخراج کرد.",
-      "‏این تغییر نشان‌دهنده بازسازی بزرگ مایکروسافت در استودیوهای خود و ممکن است بر توسعه State of Decay 3 که برای 2027 برنامه‌ریزی شده است، تأثیر بگذارد.",
-      "‏بتای بسته برای State of Decay 3 تا پایان سال جاری برنامه‌ریزی شده است."
-    ],
-    "body_fa": "‏Undead Labs اعلام کرد پس از جدایی از Xbox به عنوان یک استودیوی کارمند‑محور مستقل فعالیت می‌کند. در این فرآیند، 268 نفر در بین استودیوهای مختلف مایکروسافت از جمله Undead Labs اخراج شدند. این اخراج‌ها شامل تعداد قابل‌توجهی از توسعه‌دهندگان کلیدی سری State of Decay است که به‌همراه تجربه‌هایشان در پروژه باقی می‌مانند. توسعه State of Decay 3 همچنان ادامه دارد و برای سال 2027 و انتشار بر روی Xbox ، Game Pass ، PC و PlayStation برنامه‌ریزی شده است. یک بتای بسته قبل از پایان سال جاری نیز در برنامه است. این تغییر بخشی از بازسازی گسترده مایکروسافت است که شامل انتقال استودیو Rare به Activision و ترکیب Playground Games و Turn 10 در یک استودیو می‌شود.",
-    "category": "گیم",
-    "subcategory": "استقلال استودیو",
-    "tag": "Undead Labs",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
-    "clean_url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
-    "image": "https://assetsio.gnwcdn.com/state-of-decay-3-headline-steam.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1790125020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "57ccb37db0",
-    "title_fa": "‏فیتچ رتبهٔ بدهی سریلانکا را به B- ارتقا داد",
-    "title_en": "Sri Lanka back in 'B' league",
-    "summary": [
-      "‏فیتچ رتبهٔ بدهی طولانی‌مدت سریلانکا را از CCC+ به B- ارتقا داد.",
-      "‏این ارتقا نشان‌دهندهٔ کاهش خطر پیش‌فرض و بهبود اعتبار برای جذب سرمایه‌گذاران است.",
-      "‏با این حال، بدهی بالا و ذخایر ارزی کمتر از سه ماه همچنان چالش‌برانگیز است."
-    ],
-    "body_fa": "‏آژانس رتبه‌بندی فیتچ دیروز رتبهٔ بدهی طولانی‌مدت سریلانکا را از CCC+ به B- ارتقا داد و چشم‌انداز ثابتی را اعلام کرد. این تغییر نشان می‌دهد که خطر پیش‌فرض فوری برای این کشور کاهش یافته و اعتبار آن در میان سرمایه‌گذاران بین‌المللی تقویت شده است. فیتچ به بهبودهای قابل‌توجه در حساب‌های مالی و خارجی، بازسازی نسبی ذخایر ارزی و افزایش درآمدهای دولتی اشاره کرد. با این حال، سریلانکا هنوز به‌دور از سطح سرمایه‌گذاری است و بدهی و هزینه‌های بهره‌اش بالاتر از کشورهای هم‌رتبه است. ذخایر ارزی کشور کمتر از سه ماه پرداخت‌های خارجی را پوشش می‌دهد و پرداخت‌های بدهی پس از سال 2028 به شدت افزایش خواهد یافت. بنابراین، ارتقا به B- گامی مهم اما نه پایان مسیر است و کشور باید ثبات اقتصادی را در مواجهه با فشارهای مالی حفظ کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "رتبه‌بندی اعتباری",
-    "tag": "B-",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Daily Mirror",
-    "url": "https://www.dailymirror.lk/business-main/Sri-Lanka-back-in-B-league/245-350938",
-    "clean_url": "https://www.dailymirror.lk/business-main/Sri-Lanka-back-in-B-league/245-350938",
-    "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_f358b66401.jpg",
-    "timestamp": 1790115420.0,
     "sent_to_telegram": true
   }
 ]
