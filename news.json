@@ -1,5 +1,27 @@
 [
   {
+    "id": "8f3833db3c",
+    "title_fa": "‏بانک مرکزی ایران حمایت از ریال 2 میلیارد دلار می‌فروشد",
+    "title_en": "Iranian rial at new low, as cenbank sells dollars to support currency",
+    "summary": [
+      "‏ریال ایران به پایین‌ترین سطح تاریخی رسید؛ بانک مرکزی اعلام کرد تا 2 میلیارد دلار می‌فروشد",
+      "‏هدف جلوگیری از سقوط بیشتر ارز و تثبیت بازار است",
+      "‏این اقدام می‌تواند فشار بر ذخایر ارزی و تورم را افزایش دهد"
+    ],
+    "body_fa": "‏ریال ایران در روز شنبه به رکورد جدیدی از ضعف رسید و به حدود ۵۲٬۰۰۰ ریال مقابل دلار سقوط کرد. بانک مرکزی اعلام کرد تا ۲ میلیارد دلار ارز خارجی می‌فروشد تا فشار بر ریال را کاهش دهد. این مداخله پس از چندین روز کاهش مداوم نرخ ارز و نگرانی‌های بازار دربارهٔ کمبود ذخایر ارزی انجام شد. کارشناسان هشدار دادند که فروش این حجم ارز می‌تواند ذخایر ارزی کشور را تحت فشار بیشتری قرار دهد. در عین حال، انتظار می‌رود این اقدام به کوتاه‌مدت از نوسان شدید ریال جلوگیری کند. اما اثرات بلندمدت بر تورم و سیاست‌های پولی هنوز نامشخص است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نرخ ارز",
+    "tag": "ریال",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iranian-rial-new-low-cenbank-sells-dollars-support-currency-2026-10-03/",
+    "clean_url": "https://www.reuters.com/world/middle-east/iranian-rial-new-low-cenbank-sells-dollars-support-currency-2026-10-03",
+    "image": "https://s.yimg.com/bo/cf33e3f2-603d-532d-9606-82d3aa4474c7_1791057676221.jpg",
+    "timestamp": 1791056543.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1f3471166d",
     "title_fa": "‏وال استریت برای نتایج متفاوت انتخابات برزیل آماده شد",
     "title_en": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil...",
@@ -41,6 +63,72 @@
     "clean_url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
     "image": "https://s.yimg.com/bo/c2643339-ac6f-5d93-a61f-1bcead35f286_1791034698258.jpg",
     "timestamp": 1791034718.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9633676837",
+    "title_fa": "‏قاضی فدرال استفاده از Flock را نظارت انبوه غیرقانونی اعلام کرد",
+    "title_en": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "summary": [
+      "‏قاضی فدرال سارا هیل حکم داد که استفاده یک معاون شریفتولسا از پایگاه داده Flock برای جستجوی پلاک خودرو بدون حکم خلاف متمم چهارم قانون اساسی است.",
+      "‏این تصمیم می‌تواند استفاده از دوربین‌های شناسایی پلاک توسط پلیس در سراسر آمریکا را تحت فشار قانونی قرار دهد و بحث حریم‌خصوصی را تشدید کند.",
+      "‏سناتور برنی سندرز لایحه Block Flock Act را برای ممنوعیت استفاده فدرال از خواننده‌های خودکار پلاک معرفی کرد."
+    ],
+    "body_fa": "‏قاضی فدرال سارا هیل این هفته تصمیم گرفت که یک معاون شریفتولسا در تلسا، اوکلاهما، بدون حکم جستجوی پایگاه داده Flock را برای یافتن پلاک خودرو یک زن انجام داده و این اقدام نقض متمم چهارم قانون اساسی است. او گفت که جستجو «بدون دلیل واضح» و صرفاً به دلیل داشتن پلاک کالیفرنیا انجام شده و تمام شواهد به‌دست آمده پس از این جستجو باید به عنوان میوه درخت سمی حذف شوند. هیل همچنین به خطرات نظارت انبوه بدون هدف اشاره کرد و گفت که ردیابی مکان افراد حتی در مکان‌های عمومی زمانی مشکل‌ساز می‌شود که پلیس بتواند به‌صورت نامحدود مکان‌های افراد را ثبت و هر زمان که خواست استفاده کند. این حکم باعث شد ایالت‌های فلوریدا و تگزاس استفاده از فناوری Flock را متوقف کنند و سناتور برنی سندرز لایحه Block Flock Act را برای ممنوعیت استفاده فدرال از خواننده‌های خودکار پلاک معرفی کرد. مدیرعامل Flock ، Garretty Langley ، عذرخواهی کرده و برای یافتن تعادلی بین امنیت و حریم‌خصوصی پیشنهاد «توافق» داد و شرکت نیز برنامه‌ریزی برای خرید اختیاری سهام کارکنان به منظور کاهش نیروی کار دارد.",
+    "category": "تکنولوژی",
+    "subcategory": "حریم خصوصی",
+    "tag": "Flock",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "clean_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+    "timestamp": 1791030780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e94b64686b",
+    "title_fa": "‏سرمایه سهامداران Afreximbank به ۹ میلیارد دلار رسید",
+    "title_en": "Afreximbank shareholders' equity hits $9bn",
+    "summary": [
+      "‏سرمایه سهامداران بانک صادرات-واردات آفریقا (Afreximbank) به نزدیک ۹ میلیارد دلار افزایش یافت.",
+      "‏این افزایش نشان‌دهنده تزریق سرمایه مستمر توسط کشورهای آفریقایی و توانمندی بانک در حمایت از اقتصادهای بحران‌زده مانند غناست.",
+      "‏سرمایه‌گذاری جدید می‌تواند توان مالی بانک را برای گسترش تجارت بین‌المللی در قاره تقویت کند."
+    ],
+    "body_fa": "‏سرمایه سهامداران بانک صادرات-واردات آفریقا (Afreximbank) به نزدیک ۹ میلیارد دلار رسیده است. این رقم پس از چندین دوره تزریق سرمایه توسط کشورهای عضو آفریقایی به دست آمده است. بانک از این منابع برای حمایت از غنا در دوران بحران اقتصادی اخیر استفاده کرده و تسهیلات تجاری ارائه داده است. افزایش سرمایه توان بانک را برای تأمین مالی تجارت داخلی و پروژه‌های توسعه‌ای در قاره تقویت می‌کند. تحلیل‌گران این رشد را نشانه‌ای مثبت برای یکپارچه‌سازی مالی آفریقا می‌دانند، هرچند تأثیر آن بر بازارهای جهانی محدود است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانک‌های توسعه",
+    "tag": "Afreximbank",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Tribune Online",
+    "url": "https://www.msn.com/en-xl/money/economy/afreximbank-shareholders-equity-hits-9bn-elombi/ar-AA2dtKrt",
+    "clean_url": "https://www.msn.com/en-xl/money/economy/afreximbank-shareholders-equity-hits-9bn-elombi/ar-AA2dtKrt",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791028914.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "251c9c263f",
+    "title_fa": "‏ایران نفوذ خود در تنگه هرمز را از دست می‌دهد",
+    "title_en": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
+    "summary": [
+      "‏جریان نفت خلیج فارس به سطح پیش‌جنگ نزدیک شد اما 40 ٪ از آن از تنگه هرمز عبور نکرد.",
+      "‏این نشان می‌دهد قدرت ایران برای تهدید مسیر کاهش یافته و ممکن است فشار بر قیمت‌های دیزل را کم کند.",
+      "‏شرکت‌های حمل‌ونقل با استفاده از خطوط لوله و مسیرهای جایگزین ریسک عبور از هرمز را کاهش دادند."
+    ],
+    "body_fa": "‏بر اساس داده‌های Kpler ، در ماه سپتامبر حدود 16.5 میلیون بشکه نفت روزانه از منطقه خلیج فارس صادر شد که تقریباً برابر با میانگین پیش‌جنگ است. اما تنها 40 درصد این نفت از تنگه هرمز عبور کرد؛ بقیه از طریق خطوط لوله و مسیرهای دیگر در عربستان و امارات منتقل شد. این تغییر مسیر نشان می‌دهد که توان ایران برای ایجاد خطر در تنگه، به‌ویژه با حضور نیروی نظامی آمریکا، به‌تدریج کاهش یافته است. کارشناسان معتقدند این کاهش نفوذ می‌تواند فشار بر قیمت‌های دیزل، که در اروپا و آمریکا در سطوح رکوردی هستند، را کاهش دهد. با این حال، برخی شرکت‌های حمل‌ونقل هنوز برای عبور از هرمز ریسک می‌پذیرند و از روش‌های انتقال نفت به‌صورت تعویض تانکر در خلیج عمان استفاده می‌کنند.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفوذ ژئوپلیتیک نفت",
+    "tag": "هوردز",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_pof87iuacd.jpg",
+    "timestamp": 1791028800.0,
     "sent_to_telegram": true
   },
   {
@@ -132,6 +220,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1bc5d639a2",
+    "title_fa": "‏اوکراین قصد دارد پالایشگاه‌های روسیه را هدف بگیرد",
+    "title_en": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes",
+    "summary": [
+      "‏اوکراین اعلام کرد قصد دارد در واکنش به «دکترین جدید» مسلحانه مسکو، به پالایشگاه‌های روسیه حمله کند.",
+      "‏این اقدام می‌تواند فشار بر اقتصاد روسیه و بازارهای انرژی را افزایش دهد.",
+      "‏زلنسکی گفت اسناد نشان می‌دهد مسکو هدف‌گیری گسترده‌تری از اهداف غیرنظامی را برنامه‌ریزی کرده است."
+    ],
+    "body_fa": "‏اوکراین اعلام کرد که در پاسخ به «دکترین جدید» مسلحانه مسکو، قصد دارد به پالایشگاه‌های نفتی روسیه حملات هوایی انجام دهد. زلنسکی در مصاحبه‌ای با Reuters گفت اسناد اطلاعاتی نشان می‌دهد ولادیمیر پوتین پیش از زمستان، هدف‌گیری گسترده‌تری از اهداف غیرنظامی را دستور داده است. این تهدید می‌تواند به کاهش تولید نفت روسیه و افزایش نوسانات قیمت جهانی انرژی منجر شود. در عین حال، این اقدام می‌تواند تنش‌های نظامی میان دو کشور را تشدید کند و واکنش‌های بین‌المللی جدیدی را برانگیزد. تحلیل‌گران هشدار دادند که هرگونه حمله به زیرساخت‌های انرژی می‌تواند تأثیرات اقتصادی گسترده‌ای داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات هوایی روسیه",
+    "tag": "روسیه-اوکراین",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/ukraine-will-hit-russian-refineries-response-moscows-new-doctrine-airstrikes-2026-10-03/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/ukraine-will-hit-russian-refineries-response-moscows-new-doctrine-airstrikes-2026-10-03",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791018180.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "2ed34a42f6",
     "title_fa": "‏ترامپ می‌گوید 90 دلار یک‌بار به 20 میلیون سالمند می‌رسد",
     "title_en": "Trump says US to send one-time $90 payment to 20 million seniors enrolled in Medicare",
@@ -198,6 +308,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "76ef5ca5ba",
+    "title_fa": "‏Eni و Repsol قصد فروش بخشی از بزرگ‌ترین میدانی گاز ونتوریا را دارند",
+    "title_en": "Eni, Repsol Consider Selling Part of Top Venezuela Gas Field",
+    "summary": [
+      "‏شرکت‌های ایتالیایی Eni و اسپانیایی Repsol در حال بررسی فروش بخشی از میدانی گاز بزرگ ونتوریا هستند.",
+      "‏این اقدام می‌تواند تأثیر قابل‌توجهی بر عرضه گاز منطقه و سرمایه‌گذاری‌های انرژی داشته باشد.",
+      "‏فروش احتمالی ممکن است به جذب سرمایه‌گذاران جدید و تغییر ساختار مالکیت منجر شود."
+    ],
+    "body_fa": "‏میدان گاز ونتوریا که بزرگ‌ترین میدانی گاز در ونزوئلا محسوب می‌شود، هم‌اکنون تحت مالکیت مشترک Eni و Repsol قرار دارد. این دو شرکت اعلام کرده‌اند که در صدد فروش بخشی از سهم خود در این میدانی هستند تا سرمایه‌گذاری‌های جدید جذب کنند و ریسک‌های مالی را کاهش دهند. فروش این سهم می‌تواند به ورود سرمایه‌گذاران بین‌المللی به بازار انرژی ونزوئلا منجر شود و عرضه گاز را تحت تأثیر قرار دهد. همچنین، این تصمیم می‌تواند نشانگر تغییر استراتژی سرمایه‌گذاری در بخش انرژی جنوب‌امریکا باشد. در صورت تکمیل معامله، ساختار مالکیت میدانی تغییر خواهد کرد و ممکن است قیمت گاز در بازارهای جهانی تحت فشار قرار گیرد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "Venezuela",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-03/eni-repsol-consider-selling-part-of-top-venezuela-gas-field",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-03/eni-repsol-consider-selling-part-of-top-venezuela-gas-field",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791008100.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "552015ac7d",
     "title_fa": "‏کارمند امنیت OpenAI استعفا داد و ایمنی سطح هسته‌ای خواست",
     "title_en": "OpenAI Safety Employee Quits, Calls for Nuclear-Level Safeguards",
@@ -220,6 +352,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "a3345a67f9",
+    "title_fa": "‏پرتغال استفاده آمریکا از لاژس در جنگ ایران را می‌سنجند",
+    "title_en": "Portugal prosecutors probe legality of US use of Lajes base in Iran war",
+    "summary": [
+      "‏دادستانان پرتغال قانونی بودن استفاده ایالات متحده از پایگاه هوایی لاژس در جنگ ایران را بررسی می‌کنند.",
+      "‏این بررسی می‌تواند روابط دو کشور و توانایی آمریکا برای استفاده بدون موافقت پرتغال در درگیری‌ها را تحت تأثیر قرار دهد.",
+      "‏توافق‌نامه قدیمی اجازه استفاده در زمان صلح بدون اجازه قبلی می‌دهد، اما در زمان جنگ نیاز به تأیید دارد."
+    ],
+    "body_fa": "‏دادستانان پرتغال به بررسی قانونی بودن حضور نظامی ایالات متحده در پایگاه هوایی لاژس پرداخته‌اند. این پایگاه در جزایر آزور، یکی از مهم‌ترین نقاط استراتژیک برای عملیات هوایی آمریکا است. بر اساس توافق‌نامه‌ای قدیمی، آمریکا می‌تواند در زمان صلح بدون کسب موافقت پیشین از لاژس استفاده کند، اما در زمان جنگ باید از پرتغال اجازه بگیرد. با شروع جنگ ایران، استفاده آمریکا از این پایگاه مورد سؤال قرار گرفته و مقامات پرتغالی تصمیم گرفته‌اند مشروعیت آن را ارزیابی کنند. نتایج این بررسی می‌تواند تأثیر قابل‌توجهی بر روابط دو کشور و توانایی آمریکا برای استقرار نیروها در مناطق دیگر داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "پایگاه نظامی",
+    "tag": "پرتغال",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/portugal-prosecutors-probe-legality-us-use-lajes-base-iran-war-2026-10-03/",
+    "clean_url": "https://www.reuters.com/world/portugal-prosecutors-probe-legality-us-use-lajes-base-iran-war-2026-10-03",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791007800.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "7bca8c4e98",
     "title_fa": "‏ده‌ها هزار نفر در اسپانیا علیه بحران مسکن راهپیمایی کردند",
     "title_en": "Tens of thousands protest across Spain over housing crisis",
@@ -239,6 +393,28 @@
     "clean_url": "https://www.reuters.com/world/tens-thousands-protest-across-spain-over-housing-crisis-2026-10-03",
     "image": "https://www.reuters.com/resizer/v2/AUK2CRJN6NNWRFGE36QRCAXGJU.jpg?auth=39fd06eb1e3b0add4b528102d324f1c8a8602db622a9a9af71b8becfa8c43bc5&height=1005&width=1920&quality=80&smart=true",
     "timestamp": 1791007680.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "24795c2448",
+    "title_fa": "‏ریسک لاری الیسون در بدهی‌های پرماک و اوراکل افشا شد",
+    "title_en": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
+    "summary": [
+      "‏لاری الیسون، بنیان‌گذار Oracle ، در معرض ریسک مالی قرار گرفته است پس از افزایش بدهی‌های Paramount و Oracle.",
+      "‏این موضوع می‌تواند تأثیر قابل‌توجهی بر ارزش سهام این شرکت‌ها و بازارهای مرتبط داشته باشد.",
+      "‏جزئیات دقیق بدهی‌ها هنوز منتشر نشده است."
+    ],
+    "body_fa": "‏بلومبرگ گزارش داد که لاری الیسون، بنیان‌گذار Oracle ، در معرض ریسک مالی قرار گرفته است. این ریسک ناشی از افزایش سریع بدهی‌های دو شرکت Paramount و Oracle است که به‌نظر می‌رسد توان پرداخت آن‌ها را تحت فشار قرار داده است. تحلیل‌گران هشدار دادند که این وضعیت می‌تواند فشار بر قیمت سهام هر دو شرکت وارد کند و نوسان در بازارهای مرتبط را تشدید کند. جزئیات دقیق میزان بدهی‌ها و برنامه‌های بازپرداخت هنوز منتشر نشده است. در صورت ادامه این روند، ممکن است سرمایه‌گذاران به دنبال راه‌حل‌های حفاظتی باشند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بدهی و ریسک مالی",
+    "tag": "الیسون",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791007200.0,
     "sent_to_telegram": true
   },
   {
@@ -6419,182 +6595,6 @@
     "clean_url": "https://www.reuters.com/world/asia-pacific/what-has-turned-afghan-taliban-pakistan-partners-foes-2026-09-25",
     "image": "https://s.yimg.com/bo/337ca2f6-357c-5c72-997a-8eb121d0056e_1790334150307.jpg",
     "timestamp": 1790333159.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "84c3a8b9e3",
-    "title_fa": "‏Solidigm از SK Hynix برنامه IPO 150 میلیارد دلاری دارد",
-    "title_en": "SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say",
-    "summary": [
-      "‏Solidigm ، زیرمجموعهٔ آمریکایی SK Hynix ، قصد IPO در سال آینده را دارد و ارزش تا 150 میلیارد دلار می‌تواند برسد",
-      "‏این عرضه اولیه می‌تواند بازار حافظه‌های نیمه‌رسانا را تحت تأثیر قرار داده و ارزش‌گذاری شرکت‌های فناوری را بازنگری کند",
-      "‏زمان دقیق عرضه هنوز مشخص نیست و تصمیم در مرحله بررسی است"
-    ],
-    "body_fa": "‏شرکت نیمه‌رسانای SK Hynix در حال بررسی امکان عرضه اولیه عمومی (IPO) برای واحد آمریکایی خود به نام Solidigm است. منابع خبر می‌گویند این IPO می‌تواند ارزش این واحد را تا 150 میلیارد دلار برآورد کند و ممکن است تا سال آینده انجام شود. چنین ارزیابی بزرگی نشان‌دهنده اعتماد سرمایه‌گذاران به بازار حافظه‌های نیمه‌رسانا و توانایی رشد Solidigm است. اگر این طرح اجرایی شود، می‌تواند سرمایه‌گذاری‌های جدیدی به این بخش تزریق کرده و رقابت در بازار حافظه‌های NAND و DRAM را تشدید کند. با این حال، زمان دقیق عرضه و شرایط نهایی هنوز به‌طور رسمی اعلام نشده است.",
-    "category": "تکنولوژی",
-    "subcategory": "عرضه اولیه سهام",
-    "tag": "IPO",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25/",
-    "clean_url": "https://www.reuters.com/world/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790329620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0a93641680",
-    "title_fa": "‏استودیوهای Xbox به دلیل اخراج‌های گسترده با عدم‌اطمینان مواجه شدند",
-    "title_en": "Iconic Xbox and PC franchises face uncertainty following massive studio layoffs",
-    "summary": [
-      "‏Xbox Game Studios چندین تیم توسعه برجسته را با اخراج‌های گسترده کاهش داد",
-      "‏این اقدام آیندهٔ عناوین شناخته‌شدهٔ Xbox و PC را در معرض عدم‌اطمینان قرار می‌دهد",
-      "‏کاهش نیروی کار استقلال عملیاتی این استودیوها را نیز محدود کرده است"
-    ],
-    "body_fa": "‏Xbox Game Studios در ماه‌های اخیر یک موج بزرگ اخراج را اجرا کرد که چندین تیم توسعهٔ برجسته را تحت تأثیر قرار داد. از جمله استودیوهای Bethesda ، Obsidian و Ninja Theory که بر روی عناوین معروفی چون The Elder Scrolls ، Fallout و Hellblade کار می‌کردند، کارکنان خود را به‌طور قابل‌توجهی کاهش دادند. این کاهش نیروی کار نه تنها توان تولید محتوا را محدود می‌کند، بلکه استقلال عملیاتی این استودیوها را نیز تحت فشار قرار می‌دهد. به‌دنبال این تحولات، زمان‌بندی انتشار بازی‌های آیندهٔ این عناوین در معرض تاخیر قرار گرفته و نگرانی‌های سرمایه‌گذاران و بازیکنان دربارهٔ کیفیت نهایی محصولات افزایش یافته است. تحلیل‌گران پیش‌بینی می‌کنند که مایکروسافت ممکن است برای بهینه‌سازی هزینه‌ها، برخی پروژه‌ها را به استودیوهای دیگر منتقل کند.",
-    "category": "گیم",
-    "subcategory": "استخدام و اخراج",
-    "tag": "Xbox",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "LevelUp on MSN",
-    "url": "https://www.msn.com/en-us/news/other/iconic-xbox-and-pc-franchises-face-uncertainty-following-massive-studio-layoffs/ar-AA2cXWVE",
-    "clean_url": "https://www.msn.com/en-us/news/other/iconic-xbox-and-pc-franchises-face-uncertainty-following-massive-studio-layoffs/ar-AA2cXWVE",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790328312.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7f3011aea8",
-    "title_fa": "‏استودیوی Build A Rocket Boy پس شکست بازی بسته شد",
-    "title_en": "Ex-GTA developer's studio faces closure after debut game flopped",
-    "summary": [
-      "‏استودیوی Build A Rocket Boy پس از شکست بازی debut خود به ورشکستگی رفت.",
-      "‏این اتفاق نشان می‌دهد حتی توسعه‌دهندگان شناخته‌شده می‌توانند پس از پروژه‌ای ناموفق، به ورشکستگی برسند.",
-      "‏لسلی بنزیس پیش از این به‌عنوان مدیر خلاقیت GTA شناخته می‌شد."
-    ],
-    "body_fa": "‏استودیوی Build A Rocket Boy که توسط لسلی بنزیس، یکی از طراحان اصلی سری Grand Theft Auto ، تأسیس شد، پس از عرضه بازی debut خود که با استقبال ناموفق مواجه شد، به ورشکستگی کشیده شد. شرکت به‌سرعت وارد فرآیند اداره (administration) شد و احتمالاً به تعطیلی کامل خواهد رسید. این شکست نشانگر ریسک بالای صنعت بازی‌سازی است، حتی برای افرادی که پیشینه‌ای موفق دارند. بازیکنان و سرمایه‌گذاران انتظار داشتند که پروژه جدید بنزیس بتواند نوآوری‌های مشابه GTA ارائه دهد، اما فروش ضعیف و نقدهای منفی باعث سقوط آن شد. ورود به اداره معمولاً به معنای فروش دارایی‌ها و پرداخت بدهی‌هاست و آینده تیم توسعه به‌طور نامشخص باقی می‌ماند.",
-    "category": "گیم",
-    "subcategory": "بسته شدن استودیو",
-    "tag": "بسته_شدن",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "BBC on MSN",
-    "url": "https://www.msn.com/en-us/news/other/ex-gta-developers-studio-faces-closure-after-debut-game-flopped/ar-AA2cYjH2",
-    "clean_url": "https://www.msn.com/en-us/news/other/ex-gta-developers-studio-faces-closure-after-debut-game-flopped/ar-AA2cYjH2",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790327840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cce1273263",
-    "title_fa": "‏Circle و Tether کیف پول هکر Bitget را مسدود کردند",
-    "title_en": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-    "summary": [
-      "‏Circle و Tether کیف پولی که حدود ۳۱۸٬۰۰۰ دلار USDT و USDC در پی هک ۳۵۱٫۶ میلیون دلاری Bitget داشت، مسدود کردند.",
-      "‏این اقدام واکنش سریع‌تر نسبت به هک‌های قبلی است و بخشی از دارایی‌های سرقت‌شده را به‌صورت ثابت نگه می‌دارد.",
-      "‏اما بیش از ۶۳٬۰۰۰ ETH هنوز در آدرس‌های دیگر باقی مانده که نمی‌توان آن‌ها را فریز کرد."
-    ],
-    "body_fa": "‏در پی هک ۳۵۱٫۶ میلیون دلاری صرافی Bitget ، شرکت‌های صادرکننده استیبل‌کوین Circle و Tether آدرس کیف پولی به نام «Bitget Exploiter 8» را در ساعت ۰۵:۰۰ UTC جمعه فهرست سیاه کردند. این کیف پول حدود ۱۷۰٫۴۷ اتر، ۲۱۸٬۰۲۳ USDT و ۹۹٬۹۹۰ USDC در خود داشت که معادل حدود ۳۱۸٬۰۰۰ دلار است که اکنون به‌صورت ثابت مسدود شده‌اند. سایر آدرس‌های هکر هنوز بیش از ۶۳٬۰۰۰ اتر را در اختیار دارند که هیچ صادرکننده‌ای نمی‌تواند آن را فریز کند. اقدام Circle نسبت به هک درآوری‌فوریه که در آن ۲۳۲ میلیون دلار USDC به‌سرعت منتقل شد، واکنش سریع‌تری نشان می‌دهد. Bitget اعلام کرد صندوق حفاظت از کاربران خود که بیش از ۴۶۴ میلیون دلار دارد، خسارت را جبران خواهد کرد. این رویداد نشان می‌دهد که حتی با محدودیت‌های فنی، صادرکنندگان استیبل‌کوین می‌توانند بخشی از دارایی‌های سرقت‌شده را مسدود کنند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "هک و امنیت",
-    "tag": "Bitget",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-    "clean_url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa4127f0e7d39e461c0b46e5ad103a58c4d7cf7f-1920x1080.png?auto=format&q=75",
-    "timestamp": 1790322060.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d1aa532feb",
-    "title_fa": "‏تتر توقیف 89 میلیون دلاری، خطر کمی در EQIBank دارد",
-    "title_en": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-    "summary": [
-      "‏تتر اعلام کرد که در معرض کمتر از 0.034 ٪ از دارایی‌های خود در EQIBank است، معادل حداکثر 64 میلیون دلار.",
-      "‏این نشان می‌دهد ریسک‌های متقابل در شبکه بانکی استیبل‌کوین‌ها وجود دارد اما تهدیدی برای پشتوانه USDT یا تثبیت دلار نیست.",
-      "‏توقیف 89 میلیون دلار توسط مقامات آمریکا 80 ٪ دارایی‌های EQIBank را شامل شد."
-    ],
-    "body_fa": "‏تتر امروز اعلام کرد که در EQIBank ، که یک بانک دارای مجوز دومینیکا است، کمتر از 0.034 درصد از کل دارایی‌های گروه خود را دارد؛ این مقدار بر اساس گزارش 187.75 میلیارد دلاری تتر، حداکثر حدود 64 میلیون دلار می‌شود. این بانک به تازگی بخشی از 89 میلیون دلار خود را که حدود 80 درصد دارایی‌هایش بود، توسط مقامات آمریکا مصادره کرد. اگرچه این رویداد نشان‌دهنده ریسک‌های متقابل در شبکه بانکی استیبل‌کوین‌هاست، تتر تأکید کرد که این مسأله تهدیدی برای ذخایر USDT یا تثبیت ارزش دلاری آن ایجاد نمی‌کند. تتر همچنین افزود که هیچ اطلاعی از رفتار Capstone که توسط دادگاه به اتهام فریب بانک‌ها متهم شده، نداشته است. این رویداد ممکن است نظارت بر بانک‌های واسطه‌ای را برای صادرکنندگان استیبل‌کوین تقویت کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ریسک بانکی",
-    "tag": "Tether",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-    "clean_url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3137cc47810b9ff5837f91552adf6f55d77eaa56-1259x708.jpg?auto=format&q=75",
-    "timestamp": 1790321520.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ee448fa493",
-    "title_fa": "‏وزارت صنعت ایتالیا بازدهی پالایشگاه‌ها را برای کاهش قیمت سوخت می‌طلبد",
-    "title_en": "Italy Pushes Refineries to Raise Fuel Output Amid Price Surge",
-    "summary": [
-      "‏وزارت صنعت و امنیت انرژی ایتالیا با مدیران پالایشگاه‌ها جلسه‌ای در 8 اکتبر برگزار می‌کند تا تولید بنزین و دیزل را افزایش دهد.",
-      "‏هدف این اقدام کاهش قیمت‌های رکوردشکن سوخت در ایتالیا و اروپاست که به‌تازگی به نزدیک 2.14 یورو در هر لیتر رسیده.",
-      "‏دولت تا کنون حدود 3 میلیارد یورو برای کاهش مالیات و عوارض سوخت هزینه کرده است."
-    ],
-    "body_fa": "‏وزارت صنعت و امنیت انرژی ایتالیا در تاریخ 8 اکتبر با حضور مدیران بزرگ شرکت‌های پالایشی مانند Sonatrach ، Socar-IP ، Eni و دیگران جلسه‌ای برگزار خواهد کرد. هدف این دیدار افزایش تولید بنزین و دیزل داخلی است تا فشار قیمت‌های رکوردشکن سوخت که به 2.14 یورو در هر لیتر رسیده است، کاهش یابد. دولت ایتالیا تا کنون حدود 3 میلیارد یورو برای کاهش مالیات و عوارض سوخت صرف کرده و به دنبال راهکارهای دیگر برای تسکین بازار است. محدودیت‌های ظرفیت پالایش در خاورمیانه به‌دلیل حملات ایرانی و محدودیت‌های روسیه نیز به بحران سوخت در اروپا افزوده‌اند. این فشار قیمتی باعث افزایش فروش خودروهای الکتریکی و هیبریدی در اروپا شده است. اقدامات ایتالیا می‌تواند به تثبیت قیمت‌ها و کاهش وابستگی به واردات سوخت کمک کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "سوخت و پالایش",
-    "tag": "پالایش",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Italy-Pushes-Refineries-to-Raise-Fuel-Output-Amid-Price-Surge.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Italy-Pushes-Refineries-to-Raise-Fuel-Output-Amid-Price-Surge.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_xypwogrzf0.jpg",
-    "timestamp": 1790320500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e4c3513a5a",
-    "title_fa": "‏اختلاف بازده اوراق فرانسه به بالاترین سطح از ۲۰۱۲ رسید",
-    "title_en": "Five French market hot spots on investors' radars amid debt jitters",
-    "summary": [
-      "‏اختلاف بازده اوراق دولتی فرانسه (OAT) نسبت به آلمان به بیش از ۱۱۰ پایه‌نقطه رسید، بالاترین سطح از بحران ۲۰۱۲.",
-      "‏این افزایش نشان‌دهنده نگرانی سرمایه‌گذاران از بدهی بالا و ریسک سیاسی پیش از انتخابات ریاست‌جمهوری ۲۰۲۷ است.",
-      "‏تحلیل‌گران پیش‌بینی می‌کنند سپردن‌های OAT ممکن است ادامه یابد و احتمال کاهش رتبه‌سنجی نیز وجود دارد."
-    ],
-    "body_fa": "‏بازده اوراق ۱۰‑ساله فرانسه نسبت به آلمان، که نشانگر ریسک بدهی این کشور است، به بیش از ۱۱۰ پایه‌نقطه افزایش یافت؛ این سطح بالاترین مقدار از زمان بحران ارزی ۲۰۱۲ است. کارشناسان Barclays پیش‌بینی کرده بودند که این اختلاف کمتر از ۱۰۰ پایه‌نقطه بماند و افزایش ناگهانی آن را «دست‌خوش» توصیف کردند. سرمایه‌گذاران به‌ویژه از طریق قراردادهای آتی OAT برای شرط‌بندی علیه فرانسه موقعیت می‌گیرند و برخی به‌نظر می‌رسد انتظار فشارهای بیشتر را دارند. انتخابات ریاست‌جمهوری ۲۰۲۷، به‌ویژه احتمال دو دور بین ماری‌ل پن و ژن‑لوک ملنچون، می‌تواند نوسانات بازار را تشدید کند. علاوه بر این، سازمان‌های رتبه‌بندی مانند Scope اخیراً فرانسه را کاهش دادند و موودیز ممکن است در اکتبر نیز اقدام مشابهی انجام دهد. در نهایت، بانک مرکزی اروپا ابزارهایی برای مهار این نوسان دارد، اما تا به حال نیازی به مداخله مستقیم برای فرانسه دیده نشده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "اوراق قرضه فرانسه",
-    "tag": "اختلاف بازده",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/world-indices/articles/five-french-market-hot-spots-071504145.html",
-    "clean_url": "https://finance.yahoo.com/markets/world-indices/articles/five-french-market-hot-spots-071504145.html",
-    "image": "https://media.zenfs.com/en/reuters.com/534bfc5ff03ae304ed46b1af116e1938.jpg",
-    "timestamp": 1790319963.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "498c67c1e8",
-    "title_fa": "‏پلتفرم Magic Eden تأییدات قدیمی، 5.7 میلیون دلار NFT را به‌خطرانداخت",
-    "title_en": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
-    "summary": [
-      "‏Magic Eden اعلام کرد تأییدات قدیمی EVM باعث معرض خطر NFT هایی به ارزش بیش از 5.7 میلیون دلار شد.",
-      "‏این آسیب‌پذیری منجر به سرقت چندین توکن شد و عملیات White‑Hat بیش از 23 000 NFT را نجات داد.",
-      "‏660 WETH نیز در خطر بود اما هنوز بازیابی نشده است."
-    ],
-    "body_fa": "‏Magic Eden اعلام کرد که تأییدات قدیمی در بازار EVM این پلتفرم، NFT هایی به ارزش بیش از 5.7 میلیون دلار را در معرض یک نقص در پردازشگر پرداخت Limit Break V2 قرار داد. پس از بهره‌برداری، 10 Meebits ، 50 Otherdeeds ، 10 World of Women و 235 Desperate ApeWives سرقت شدند. تیم White‑Hat توانست 23 155 NFT به ارزش مشابه را نجات دهد، اما 660 WETH به دلیل عدم امکان متوقف کردن V2 باقی ماند. کاربران باید تأییدات پردازشگر V2 را در زنجیره‌های Ethereum ، Polygon و Base لغو کنند تا بتوانند توکن‌های نجات‌یافته را بازیابی کنند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "امنیت NFT",
-    "tag": "MagicEden",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-    "clean_url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/01/20230110_MagicEden_Generic3.jpg",
-    "timestamp": 1790319600.0,
     "sent_to_telegram": true
   }
 ]
