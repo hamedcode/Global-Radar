@@ -1,5 +1,49 @@
 [
   {
+    "id": "8dcfbee9d4",
+    "title_fa": "‏سرمایه‌گذاری میلیاردی Alaska LNG به‌دلیل صرفه‌جویی حمل‌ونقل توجیه شد",
+    "title_en": "Alaska LNG shipping savings justifies billions in investment, developer says",
+    "summary": [
+      "‏توسعه‌دهنده پروژه Alaska LNG گفت دسترسی به گازهای گرفتار و مسیرهای کوتاه‌تر حمل‌ونقل، صرفه‌جویی قابل‌توجهی ایجاد می‌کند.",
+      "‏این صرفه‌جویی هزینه‌های حمل‌ونقل را کاهش داده و سرمایه‌گذاری‌های میلیاردی در پروژه را توجیه می‌کند.",
+      "‏پروژه می‌تواند تا سال 2030 حدود 20 میلیون تن LNG به بازارهای آسیایی صادر کند."
+    ],
+    "body_fa": "‏توسعه‌دهنده پروژه Alaska LNG اعلام کرد که دسترسی به گازهای گرفتار در شمال ایالات متحده و مسیرهای کوتاه‌تر حمل‌ونقل، منجر به صرفه‌جویی قابل‌توجهی در هزینه‌های حمل‌ونقل می‌شود. این صرفه‌جویی باعث شده تا سرمایه‌گذاری‌های میلیاردی در این پروژه اقتصادی توجیه شود. برآوردها نشان می‌دهد که پروژه می‌تواند تا سال 2030 حدود 20 میلیون تن LNG به بازارهای آسیایی صادر کند. علاوه بر این، زمان حمل‌ونقل کوتاه‌تر باعث کاهش زمان تحویل و افزایش رقابت‌پذیری LNG آمریکایی در بازار جهانی می‌شود.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "Alaska LNG",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/alaska-lng-shipping-savings-justifies-billions-investment-developer-says-2026-10-04/",
+    "clean_url": "https://www.reuters.com/legal/litigation/alaska-lng-shipping-savings-justifies-billions-investment-developer-says-2026-10-04",
+    "image": "https://s.yimg.com/bo/59ad8732-89ff-5d7c-be70-2aa568d72de1_1790782641741.jpg",
+    "timestamp": 1791143506.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b6d469e1db",
+    "title_fa": "‏Schneider Electric خرید PTC 20 میلیارد دلاری را تکمیل می‌کند",
+    "title_en": "France's Schneider Electric nears $20 billion deal to buy US software group PTC,...",
+    "summary": [
+      "‏شرکت فرانسوی Schneider Electric در آستانه اتمام خرید گروه نرم‌افزاری آمریکایی PTC به ارزش حدود 20 میلیارد دلار است.",
+      "‏این ادغام می‌تواند موقعیت Schneider را در بازار اینترنت اشیا و نرم‌افزارهای صنعتی تقویت کند و رقابت را در این حوزه تشدید نماید.",
+      "‏معامله هنوز تحت بررسی مقامات نظارتی است و تکمیل نهایی آن می‌تواند تأثیرات گسترده‌ای بر زنجیره تأمین جهانی داشته باشد."
+    ],
+    "body_fa": "‏شرکت فرانسوی Schneider Electric اعلام کرد که به توافق اولیه برای خرید گروه نرم‌افزاری آمریکایی PTC رسیده و ارزش معامله حدود 20 میلیارد دلار تخمین زده می‌شود. این خرید به هدف تقویت پلتفرم‌های اینترنت اشیا و نرم‌افزارهای صنعتی Schneider می‌پردازد و می‌تواند ترکیبی از توانمندی‌های سخت‌افزاری و دیجیتال را فراهم کند. معامله هنوز نیاز به تصویب نهادهای نظارتی در ایالات متحده و اروپا دارد و ممکن است با ملاحظات ضد انحصار مواجه شود. در صورت تکمیل، این ادغام بزرگ‌ترین خرید تاریخی Schneider Electric خواهد بود و می‌تواند رقابت در بازارهای اتوماسیون و دیجیتال را تغییر دهد. تحلیل‌گران پیش‌بینی می‌کنند که ترکیب این دو شرکت می‌تواند فرصت‌های جدیدی برای مشتریان صنعتی و تولیدکنندگان فراهم کند.",
+    "category": "تکنولوژی",
+    "subcategory": "ادغام و تملک",
+    "tag": "Schneider-PTC",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/frances-schneider-electric-nears-20-billion-deal-buy-us-software-group-ptc-ft-2026-10-04/",
+    "clean_url": "https://www.reuters.com/business/frances-schneider-electric-nears-20-billion-deal-buy-us-software-group-ptc-ft-2026-10-04",
+    "image": "https://s.yimg.com/bo/324c345f-4a7c-58cc-85f2-87a9c812cb93_1788966767649.jpg",
+    "timestamp": 1791143146.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "238341c854",
     "title_fa": "‏حملات ایران بر کشتی‌ها عبور نفت هرمز را مختل کرد",
     "title_en": "Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping...",
@@ -19,6 +63,28 @@
     "clean_url": "https://www.wsj.com/world/middle-east/oil-was-pouring-through-the-strait-of-hormuz-again-then-attacks-on-shipping-resurged-fe9f0dd9",
     "image": "https://s.yimg.com/bo/f1a39c17-5d81-541b-82a7-3d01de4b2de7_1791134839115.jpg",
     "timestamp": 1791133674.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "15fdf0cda4",
+    "title_fa": "‏آکزونوبل واحد رنگ‌های شرق آسیا را به‌یک میلیارد دلار می‌فروشد",
+    "title_en": "AkzoNobel to sell unit to Nippon Paint for over $1 billion, FT reports",
+    "summary": [
+      "‏آکزونوبل واحد رنگ‌های تزئینی شرق آسیا را به نپون پینت به‌قیمت بیش از یک میلیارد دلار می‌فروشد",
+      "‏این معامله می‌تواند ترکیب بازار رنگ‌های منطقه را تغییر داده و ارزش کل شرکت را تقویت کند",
+      "‏خرید توسط نپون پینت حضور این شرکت را در بازارهای آسیایی گسترش می‌دهد"
+    ],
+    "body_fa": "‏آکزونوبل در آستانه امضای قراردادی برای فروش واحد رنگ‌های تزئینی شرق آسیا به نپون پینت است. مبلغ معامله بیش از یک میلیارد دلار تخمین زده می‌شود و بر اساس گزارش Financial Times از منابع آگاه به دست آمده است. این فروش به آکزونوبل امکان می‌دهد تمرکز خود را بر بازارهای اصلی و محصولات پر سود تقویت کند. نپون پینت با این خرید حضور خود را در بازارهای آسیایی گسترش داده و توان رقابتی خود را افزایش می‌دهد. پیشنهاد تحت تأیید نهادهای نظارتی قرار دارد و انتظار می‌رود تا پایان سال جاری تکمیل شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ادغام و تملک",
+    "tag": "AkzoNobel",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/akzonobel-could-sell-unit-nippon-paint-over-1-billion-ft-reports-2026-10-04/",
+    "clean_url": "https://www.reuters.com/world/asia-pacific/akzonobel-could-sell-unit-nippon-paint-over-1-billion-ft-reports-2026-10-04",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791115800.0,
     "sent_to_telegram": true
   },
   {
@@ -220,6 +286,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "90e3eaf162",
+    "title_fa": "‏ETF های XRP ۷٪ زیر آب شدند؛ تنها صندوق کریپتو زیرآب",
+    "title_en": "XRP ETFs Put In $1.79 Billion but Hold $1.66 Billion. Why Are They the Only Major Crypto ETFs Underwater?",
+    "summary": [
+      "‏سرمایه‌گذاران ۱٫۷۹ میلیارد دلار به ETF های اسپات XRP وارد کردند اما ارزش دارایی‌ها به ۱٫۶۶ میلیارد دلار رسید.",
+      "‏این کاهش ۷٪ نشان می‌دهد تنها ETF های XRP نسبت به سرمایه‌گذاری اولیه ضرر دارند، در حالی که ETF های بیت‌کوین، اتریوم و سولانا سود می‌بینند.",
+      "‏برای رسیدن به نقطه سر به سر، قیمت XRP باید حدود ۸٪ به ۱٫۶۲ دلار افزایش یابد."
+    ],
+    "body_fa": "‏بر اساس داده‌های SoSoValue ، سرمایه‌گذاران تا تاریخ ۴ اکتبر ۲۰۲۶ حدود ۱٫۷۹ میلیارد دلار به هفت صندوق ETF اسپات XRP در ایالات متحده وارد کرده‌اند. اما ارزش خالص دارایی‌های این صندوق‌ها تنها ۱٫۶۶ میلیارد دلار است که به معنای کاهش حدود ۷ درصد نسبت به سرمایه‌گذاری اولیه می‌باشد. این افت به دلیل خریدهای عمده در زمانی است که قیمت XRP بالای ۲ دلار بود، در حالی که در اکتبر ۲۰۲۶ قیمت این رمزارز به ۱٫۵۰ دلار کاهش یافته است. برای جبران این اختلاف، قیمت XRP باید حدود ۸ درصد به ۱٫۶۲ دلار برسد، مشروط بر این که ترکیب دارایی‌های صندوق‌ها ثابت بماند. در مقابل، ETF های بیت‌کوین، اتریوم و سولانا که از ژانویه ۲۰۲۴ فعال شدند، به دلیل خرید در سطوح قیمتی پایین‌تر، هم‌اکنون ارزش دارایی‌هایشان بیش از سرمایه‌گذاری اولیه است. این تفاوت زمانی نشان می‌دهد که زمان ورود به بازار نقش مهمی در عملکرد ETF های کریپتو دارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ETFهای کریپتو",
+    "tag": "XRP",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "24/7 Wall St.",
+    "url": "https://247wallst.com/investing/cryptocurrency/2026/10/04/xrp-etfs-put-in-1-79-billion-but-hold-1-66-billion-why-are-they-the-only-major-crypto-etfs-underwater/",
+    "clean_url": "https://247wallst.com/investing/cryptocurrency/2026/10/04/xrp-etfs-put-in-1-79-billion-but-hold-1-66-billion-why-are-they-the-only-major-crypto-etfs-underwater",
+    "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-2290566115-huge-licensed-scaled.jpg",
+    "timestamp": 1791089820.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "aa3765abd7",
     "title_fa": "‏عملیات رباتیک اوکراین در دونباس، ضربه‌ای به اهداف پوتین",
     "title_en": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machin...",
@@ -283,6 +371,28 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-10-04/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz",
     "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791083340.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8989dcdbcb",
+    "title_fa": "‏دادگاه عالی آمریکا به رد شکایت‌های اقلیمی توسط نفت‌پیمایان می‌پردازد",
+    "title_en": "US Supreme Court to kick off term with bid by Big Oil to toss climate suits",
+    "summary": [
+      "‏دادگاه عالی آمریکا در اولین جلسهٔ دورهٔ جدید، پرونده‌ای را بررسی می‌کند که در آن ExxonMobil و Suncor سعی در رد دعواهای اقلیمی دارند.",
+      "‏این تصمیم می‌تواند پیشرفت دعاوی اقلیمی علیه شرکت‌های نفتی را متوقف کند و اثرات مهمی بر سیاست‌های زیست‌محیطی و سرمایه‌گذاری‌های انرژی داشته باشد.",
+      "‏دعاوی توسط مقامات ایالتی در چندین ایالت مطرح شده‌اند."
+    ],
+    "body_fa": "‏دادگاه عالی ایالات متحده روز دوشنبه دورهٔ نه ماههٔ جدید خود را با رسیدگی به یک پروندهٔ مهم آغاز کرد. در این پرونده، شرکت‌های نفتی ExxonMobil و Suncor Energy درخواست کردند تا دعوای اقلیمی مطرح شده توسط مقامات ایالتی در چندین ایالت را رد کنند. این دعواها به دنبال ادعای عدم مسئولیت شرکت‌ها در انتشار گازهای گلخانه‌ای و خسارات ناشی از تغییرات آب و هوایی طرح شده‌اند. اگر دادگاه تصمیم به رد این شکایت‌ها بگیرد، مسیر دعاوی مشابه علیه شرکت‌های نفتی دیگر ممکن است دشوارتر شود. این موضوع می‌تواند تأثیر قابل‌توجهی بر سیاست‌های زیست‌محیطی، تنظیمات قانونی و سرمایه‌گذاری در بخش انرژی داشته باشد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قضایای اقلیمی",
+    "tag": "نفت",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-supreme-court-kick-off-term-with-bid-by-big-oil-toss-climate-suits-2026-10-04/",
+    "clean_url": "https://www.reuters.com/legal/government/us-supreme-court-kick-off-term-with-bid-by-big-oil-toss-climate-suits-2026-10-04",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791083100.0,
     "sent_to_telegram": true
   },
   {
@@ -371,6 +481,28 @@
     "clean_url": "https://www.reuters.com/world/middle-east/iran-says-strait-hormuz-will-not-reopen-until-conditions-are-met-2026-10-04",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791075540.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b48b797da1",
+    "title_fa": "‏آندریس کولبرگ پس از پیروزی، رهبری ائتلاف پرو‑اوکراین را می‌گیرد",
+    "title_en": "Latvian PM on track to lead pro-Ukraine coalition after election win",
+    "summary": [
+      "‏آندریس کولبرگ و فهرست متحد، بزرگ‌ترین پیروزی پارلمانی لتونی را به دست آوردند",
+      "‏این نتایج امکان تشکیل ائتلافی با موضع‌گیری قوی حمایت از اوکراین را فراهم می‌کند",
+      "‏کولبرگ می‌تواند نقش کلیدی در سیاست‌های امنیتی و انرژی اروپا ایفا کند"
+    ],
+    "body_fa": "‏در انتخابات اخیر لتونی، نخست‌وزیر فعلی آندریس کولبرگ به رهبری فهرست متحد (United List) بزرگ‌ترین پیروزی پارلمانی را کسب کرد. این پیروزی به او امکان می‌دهد تا ائتلافی با احزاب حامی اوکراین تشکیل دهد و سیاست خارجی لتونی را به سمت حمایت قوی‌تر از کی‌یو‌وی (Kiev) سوق دهد. ترکیب ائتلاف جدید می‌تواند در تصمیم‌گیری‌های مرتبط با امنیت منطقه‌ای و تأمین انرژی اروپا تأثیرگذار باشد. دولت جدید احتمالاً به تقویت همکاری‌های نظامی و اقتصادی با اتحادیه اروپا و ناتو ادامه خواهد داد. این تحولات می‌تواند فشارهای دیپلماتیک بر روسیه را افزایش دهد و نقش لتونی را در حمایت از اوکراین تقویت کند. در مجموع، نتایج این انتخابات می‌تواند مسیر سیاست‌های اروپایی در قبال بحران اوکراین را شکل دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "انتخابات لتونی",
+    "tag": "Latvia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/latvian-pm-track-lead-pro-ukraine-coalition-after-election-win-2026-10-04/",
+    "clean_url": "https://www.reuters.com/world/europe/latvian-pm-track-lead-pro-ukraine-coalition-after-election-win-2026-10-04",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791074340.0,
     "sent_to_telegram": true
   },
   {
@@ -6465,138 +6597,6 @@
     "clean_url": "https://www.reuters.com/video/watch/idRW561226092026RP1",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1790416200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9a0965d0d9",
-    "title_fa": "‏نوسان اوراق قرضه باعث رشد سهام فناوری شد",
-    "title_en": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields",
-    "summary": [
-      "‏بازارهای سهام فناوری مثل Meta و Microsoft در هفته گذشته ۲٪ رشد کردند",
-      "‏این افزایش در حالی رخ داد که بازده اوراق خزانه‌داری به بالاترین سطوح چنددهه‌ای رسید و انتظار افزایش نرخ بهره فدرال رزرو بالا رفت",
-      "‏قیمت نفت به ۱۰۸ دلار در هر بشکه رسید و به نوسان بازار کمک کرد"
-    ],
-    "body_fa": "‏هفتهٔ گذشته بازارهای سهام با نوسان شدیدی مواجه شد؛ بازده اوراق دولتی ۱۰‑ساله به بالای ۵.۲٪ و ۳۰‑ساله به ۵.۵٪ رسید که بالاترین سطوح از سال‌های ۲۰۰۷ و ۲۰۰۴ بود. این فشار نرخ‌ها باعث شد سرمایه‌گذاران به سمت سهام فناوری گرایش پیدا کنند؛ شاخص Nasdaq ۲٪ و S&P 500 یک درصد افزایش یافتند، در حالی که Dow Jones تنها ۰.۳٪ رشد کرد. انتظار برای افزایش نرخ بهره فدرال رزرو به ۶۶٪ در ماه اکتبر افزایش یافت. در همین حین، Meta در کنفرانس Meta Connect برنامهٔ هوش مصنوعی شخصی «Muse» را معرفی کرد و قصد دارد این سرویس را در اپلیکیشن‌ها و سخت‌افزارهای خود ادغام و از طریق اشتراک‌های پولی درآمدزایی کند. Microsoft نیز با اعلام پیشرفت‌های جدید در سرویس‌های ابری و هوش مصنوعی، سهم خود را در رشد این بخش تقویت کرد. قیمت نفت که به ۱۰۸ دلار در هر بشکه رسید، تحت تأثیر درخواست ایران برای بازگشت به توافق‌نامهٔ صلح موقت و بازگشایی مجدد تنگه هرمز قرار داشت.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "نوسان اوراق",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html",
-    "clean_url": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108363129-17894885332026-09-15t160318z_508452316_rc2pjnat84vu_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
-    "timestamp": 1790414220.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0b9cbc256b",
-    "title_fa": "‏جریان ورودی بیت‌کوین ETF ها به ۲.۴ میلیارد دلار رسید",
-    "title_en": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
-    "summary": [
-      "‏ETF های اسپات بیت‌کوین در آمریکا هفته گذشته ۲.۴ میلیارد دلار ورودی خالص ثبت کردند",
-      "‏این بزرگ‌ترین جریان هفتگی از اکتبر ۲۰۲۵ است و باعث شد جریان سالانه مثبت شود",
-      "‏در همین زمان، ETF های اتریوم ۶۸۹.۹ میلیون دلار ورودی داشتند"
-    ],
-    "body_fa": "‏طبق تحلیل The Block ، ETF های اسپات بیت‌کوین در ایالات متحده در هفته منتهی به ۲۵ سپتامبر ۲.۴ میلیارد دلار ورودی خالص دریافت کردند که بزرگ‌ترین افزایش هفتگی از اکتبر ۲۰۲۵ به شمار می‌رود. این ورودی‌ها باعث شد جریان خالص سالانه این صندوق‌ها پس از کاهش حدود ۵.۸ میلیارد دلاری در میانه ژوئیه، دوباره به سمت مثبت برگردد. در همان دوره، ETF های اسپات اتریوم ۶۸۹.۹ میلیون دلار ورودی خالص ثبت کردند و پس از خروج ۱۴۰ میلیون دلاری هفته قبل، مسیر مثبت را ادامه دادند. علاوه بر این، صندوق‌های سولانا در جمعه یک ورودی روزانه رکوردی برابر ۸۶.۷ میلیون دلار ثبت کردند. بیشترین ورودی بیت‌کوین در روز دوشنبه بود که ۹۹۹ میلیون دلار جذب کرد، بزرگ‌ترین روزانه از اکتبر ۲۰۲۵. این روند نشان‌دهنده بازگشت اعتماد سرمایه‌گذاران به محصولات ETF های رمزارز است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "جریان نقدی بیت‌کوین",
-    "tag": "BitcoinETF",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
-    "clean_url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
-    "timestamp": 1790410620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e7478aeee7",
-    "title_fa": "‏TikTok با آلاباما توافق کرد؛ محدودیت نوجوانان اجرا می‌شود",
-    "title_en": "TikTok reaches first state settlement over teen safety claims, agrees to user...",
-    "summary": [
-      "‏TikTok و ByteDance با ایالت آلاباما به توافق رسیده‌اند و حد زمان استفاده برای نوجوانان را دو ساعت روزانه می‌کنند.",
-      "‏این توافق شامل پرداخت حداقل ۱۰۰میلیون دلار به ایالت است و می‌تواند تا ۳۰۰میلیون دلار با پیوستن سایر ایالت‌ها افزایش یابد.",
-      "‏تغییرات شامل محدودیت دو ساعته روزانه، توقف پس از ۱۵ دقیقه و بررسی دقیق‌تر سن کاربران است."
-    ],
-    "body_fa": "‏ایالت آلاباما روز جمعه اعلام کرد که به توافقی با TikTok و شرکت مادر چینی‌اش ByteDance دست یافته است. بر اساس این توافق، پلتفرم باید برای کاربران زیر ۱۸ سال در این ایالت محدودیت دو ساعت استفاده در روز، توقف خودکار پس از ۱۵ دقیقه و سیستم‌های دقیق‌تری برای تأیید سن اعمال کند. TikTok حداقل ۱۰۰میلیون دلار به آلاباما پرداخت خواهد کرد و در صورت امضای ۴۰ ایالت دیگر به این توافق، مبلغ می‌تواند تا ۳۰۰میلیون دلار برسد. این اولین توافق مشابه در میان ایالات متحده است و می‌تواند الگوی جدیدی برای تنظیمات ایمنی نوجوانان در شبکه‌های اجتماعی باشد. دادگاه برنامه‌ریزی شده برای شروع محاکمه در مونتگومری به دلیل این توافق لغو شد.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین نوجوانان",
-    "tag": "TikTok",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/tiktok-reaches-first-state-settlement-over-teen-safety-claims.html",
-    "clean_url": "https://www.cnbc.com/2026/09/26/tiktok-reaches-first-state-settlement-over-teen-safety-claims.html",
-    "image": "https://s.yimg.com/bo/7bad115d-c695-5662-a49e-e762a82f6707_1790412569237.jpg",
-    "timestamp": 1790409175.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ec87e3b416",
-    "title_fa": "‏بایننس ۱۰۰ میلیون دلار سرمایه‌گذاری کرد؛ USDC تقویت شد",
-    "title_en": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-    "summary": [
-      "‏بایننس ۱۰۰ میلیون دلار سهام در Circle خرید و همکاری خود با USDC را گسترش داد.",
-      "‏این سرمایه‌گذاری به USDC امکان دسترسی بیشتر در بازارهای نوظهور می‌دهد و رقابت با Tether را تشدید می‌کند.",
-      "‏USDC در بایننس از ۱۴۰ به ۳۲۹ بازار افزایش یافت و حجم ماهانه‌اش به بیش از ۸۰ میلیارد دلار رسید."
-    ],
-    "body_fa": "‏بایننس با خرید ۱۰۰ میلیون دلار سهام در Circle ، همکاری خود با استیبل‌کوین USDC را به‌صورت پنج‌ساله گسترش داد. این گسترش به بایننس امکان می‌دهد تا USDC را در بازارهای نوظهور که تا به‌حال تسلط Tether بوده، بیشتر توزیع کند. پس از آغاز همکاری در دسامبر ۲۰۲۴، تعداد بازارهای USDC‑quoted در بایننس از ۱۴۰ به ۳۲۹ افزایش یافت. حجم معاملاتی ماهانه USDC در بایننس نیز از ۲۰‑۴۰ میلیارد دلار به‌ طور مستمر بالای ۸۰ میلیارد دلار رسیده است. با این حال، Tether همچنان به‌دلیل نقدینگی محلی عمیق و عادات کاربری، برتری خود را حفظ کرده و تغییر سهم بازار به‌سرعت اتفاق نمی‌افتد. تحلیل‌گران معتقدند این سرمایه‌گذاری می‌تواند موقعیت USDC را در رقابت با USDT تقویت کند، اما تسلط Tether به‌سرعت از بین نمی‌رود.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "استیبل‌کوین",
-    "tag": "USDC",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-    "clean_url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bfacc43729daed7fb15a2d284673bb17f22de40-1920x1080.jpg?auto=format&q=75",
-    "timestamp": 1790402460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b92c146d0a",
-    "title_fa": "‏هکر Bitget حدود 83 میلیون دلار XRP را منتقل کرد",
-    "title_en": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
-    "summary": [
-      "‏هکر Bitget حدود 83 میلیون دلار XRP سرقت‌شده را از سه کیف‌پول منتقل کرد.",
-      "‏چون Ripple نمی‌تواند XRP را مسدود کند، امکان بازیابی محدود است و بازار نگران است.",
-      "‏دو کیف‌پول دیگر تقریباً خالی شده و حدود 75 میلیون دلار XRP در حساب‌های غیرقابل فریز باقی مانده است."
-    ],
-    "body_fa": "‏هکر صرافی Bitget پس از نفوذ به ارزش 388 میلیون دلار، حدود 83 میلیون دلار XRP را از سه کیف‌پول اصلی برداشت کرد. در مجموع 103 میلیون XRP از Bitget سرقت شد و به پنج حساب تقسیم شد که دو حساب اولیه به‌سرعت خالی شدند. حدود 75 میلیون دلار XRP در حساب‌هایی باقی مانده که تحت قوانین دفتر کل XRP قابل فریز نیستند؛ بنابراین Ripple نمی‌تواند تراکنش‌ها را مسدود کند. صرافی‌ها می‌توانند حساب‌های دریافت‌کننده را محدود کنند، اما نمی‌توانند سکه‌ها را در کیف‌پول هکر مسدود کنند. شرکت‌های Circle و Tether حدود 320 هزار دلار توکن‌های استیبل‌کوین مرتبط را فریز کرده‌اند. Bitget اعلام کرد صندوق حفاظت‌اش خسارات را جبران می‌کند و برداشت‌ها از 28 سپتامبر تا 2 اکتبر به‌صورت مرحله‌ای از سر گرفته می‌شود.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "هک رمزارز",
-    "tag": "Bitget",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
-    "clean_url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2334c8f6eda3e4f6be934696bc4538b3f1603be7-1336x746.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "timestamp": 1790402160.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "567dca2310",
-    "title_fa": "‏مدل‌های هوش مصنوعی چینی سهم بازار جهانی را تصاحب کردند",
-    "title_en": "Chinese AI models surge in global popularity — and Washington is worried",
-    "summary": [
-      "‏استفاده جهانی از مدل‌های هوش مصنوعی شرکت‌های چینی مانند DeepSeek و Alibaba در سال جاری جهش چشمگیری داشته است.",
-      "‏سهم این مدل‌ها در پلتفرم‌هایی مانند OpenRouter و Vercel به بیش از 55% رسیده و موجب نگرانی واشنگتن شده است.",
-      "‏نهادهای قانون‌گذار آمریکا در حال بررسی ریسک‌های امنیتی نفوذ فناوری چینی در کشورهای غربی و در حال توسعه هستند."
-    ],
-    "body_fa": "‏داده‌های جدید پلتفرم‌های بزرگ توسعه‌دهندگان نشان می‌دهد که محبوبیت و استفاده تجاری از مدل‌های هوش مصنوعی ساخت چین رشد چشمگیری را تجربه کرده است. طبق آمار ارائه‌شده از پلتفرم OpenRouter ، سهم مدل‌های شرکت‌هایی مانند DeepSeek و Alibaba از کل توکن‌های مصرفی از حدود 6% در ماه فوریه به بیش از 57% در اواسط سپتامبر رسیده است. این روند مشابه در پلتفرم Vercel نیز ثبت شده که حاکی از روی آوردن گسترده برنامه‌نویسان در آمریکا، اروپا و کشورهای در حال توسعه به این مدل‌ها است. این موضوع به نگرانی جدی در واشنگتن تبدیل شده و دو کمیته مجلس نمایندگان آمریکا تحقیقاتی را درباره پیامدهای این نفوذ آغاز کرده‌اند. مقامات آمریکایی نگران هستند که استفاده گسترده از این ابزارها، کشورها را وارد حوزه نفوذ فناورانه و ژئوپلیتیک چین کند و کارایی کنترل‌های صادراتی تراشه‌های Nvidia را کاهش دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی و رقابت جهانی",
-    "tag": "هوش مصنوعی",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
-    "clean_url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
-    "image": "https://s.yimg.com/bo/e1763238-a2ec-5bc9-8e9c-dac7442b8c14_1790401094713.jpg",
-    "timestamp": 1790399785.0,
     "sent_to_telegram": true
   }
 ]
