@@ -1,5 +1,49 @@
 [
   {
+    "id": "238341c854",
+    "title_fa": "‏حملات ایران بر کشتی‌ها عبور نفت هرمز را مختل کرد",
+    "title_en": "Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping...",
+    "summary": [
+      "‏ایران به‌تازگی به‌صورت هدفمند به کشتی‌های عبوری در تنگه هرمز حمله کرد",
+      "‏این حملات مسیر اصلی حمل نفت، حدود ۲۲ میلیون بشکه روزانه، را به خطر انداخت",
+      "‏دولت آمریکا هشدار داد که خطرات برای ناوگان تجاری افزایش یافته"
+    ],
+    "body_fa": "‏یک مقام آمریکایی اعلام کرد که هدف‌گیری ایران از کشتی‌های عبوری در تنگه هرمز به‌طور قابل‌توجهی بهبود یافته است. این حملات باعث شد که ناوگان حامل نفت، که روزانه حدود ۲۲ میلیون بشکه را عبور می‌دهد، با خطر جدی مواجه شود. شرکت‌های حمل‌ونقل دریایی به‌سرعت مسیرهای جایگزین را بررسی می‌کنند و برخی از آن‌ها تا اطلاع از وضعیت امنیتی، عبور را به تعویق می‌اندازند. قیمت نفت در بازارهای جهانی به‌سرعت بالا رفت و نوسان‌های شدیدی را تجربه کرد. دولت آمریکا نیز هشدار داد که تهدیدات برای کشتی‌های تجاری در این مسیر در حال افزایش است و خواستار تقویت حضور نظامی برای حفاظت از عبورها شد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و حمل‌ونقل",
+    "tag": "استرات هرمز",
+    "urgency": 8,
+    "iran_relevant": true,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/world/middle-east/oil-was-pouring-through-the-strait-of-hormuz-again-then-attacks-on-shipping-resurged-fe9f0dd9",
+    "clean_url": "https://www.wsj.com/world/middle-east/oil-was-pouring-through-the-strait-of-hormuz-again-then-attacks-on-shipping-resurged-fe9f0dd9",
+    "image": "https://s.yimg.com/bo/f1a39c17-5d81-541b-82a7-3d01de4b2de7_1791134839115.jpg",
+    "timestamp": 1791133674.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e182088445",
+    "title_fa": "‏Oura عرضه IPO را به‌دلیل عدم اطمینان به تعویق انداخت",
+    "title_en": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI...",
+    "summary": [
+      "‏Oura ، سازنده حلقه هوشمند، عرضه IPO خود را به‌دلیل «عدم اطمینان در بازار IPO» به‌صورت ناگهانی لغو کرد.",
+      "‏این تصمیم نشان می‌دهد که حتی با تقاضای قوی برای گجت‌های هوش مصنوعی، عدم اطمینان بازار می‌تواند رشد این بخش را مهار کند.",
+      "‏Meta و Apple نیز محصولات جدیدی مانند عینک هوشمند Ray‑Ban و ساعت Apple Watch Series 12 را رونمایی کردند."
+    ],
+    "body_fa": "‏دو سال پیش، دانشجوی کارشناسی ارشد Bella Nowroozi در یک قرار ملاقات، چراغ چشمک‌زن عینک هوشمند Meta Ray‑Ban همسرش را دید و از ضبط صدا و تصویر او هشدار داد. این تجربه نشان داد که گجت‌های پوشیدنی هوش مصنوعی می‌توانند حریم خصوصی افراد را به خطر بیاندازند و واکنش‌های انتقادی را برانگیخته‌اند. شرکت‌های بزرگ فناوری همچون Apple ، Google و Meta در حال رقابت برای عرضه عینک‌ها، حلقه‌ها و دستبندهای هوشمند با قابلیت‌های هوش مصنوعی هستند. Meta اخیراً Charm Muse را معرفی کرد که به سرعت به برنامه‌های رایگان برترین فروشگاه iOS رسید و OpenAI نیز دستیار شخصی Dots را رونمایی کرد. در همین حین، Apple در رویداد سپتامبر جدیدترین ساعت‌های Watch Series 12 را با قابلیت گوش دادن به مکالمات معرفی کرد. اما این هفته، Oura که سازنده حلقه هوشمند محبوب است، به‌دلیل «عدم اطمینان در بازار IPO» عرضه اولیه سهام خود را به‌صورت ناگهانی به تعویق انداخت؛ تحلیل‌گرانی این تصمیم را «عجیب» می‌نامند و احتمال می‌دهند عوامل دیگری پشت آن باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "پوشیدنی‌های هوش مصنوعی",
+    "tag": "پوشیدنی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+    "clean_url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+    "image": "https://s.yimg.com/bo/bf65813e-10ee-5ea3-8b7d-efd57ee786c9_1791125374591.jpg",
+    "timestamp": 1791114714.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "799ae847ea",
     "title_fa": "‏روسیه حملات نظامی به اوکراین را تشدید می‌کند",
     "title_en": "Russia to intensify strikes on Ukraine after Zelenskiy interview",
@@ -19,6 +63,28 @@
     "clean_url": "https://www.reuters.com/world/europe/russia-intensify-strikes-ukraine-after-zelenskiy-interview-2026-10-04",
     "image": "https://s.yimg.com/bo/889c10f0-a099-538e-8631-7b26aa9cb5c3_1791113250432.jpg",
     "timestamp": 1791111514.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "edca81b26d",
+    "title_fa": "‏جیسون جونز و مارگارت استول Stone Kite را راه‌اندازی کردند",
+    "title_en": "Halo and Destiny Co-Creator Announces New Studio",
+    "summary": [
+      "‏جیسون جونز، هم‌سازنده Halo و Destiny ، و مارگارت استول استودیوی جدید Stone Kite را در 1 اکتبر راه‌اندازی کردند",
+      "‏هدف استودیو ساخت یک جهان چندرسانه‌ای با روایت «fractal» است که می‌تواند در بازی، فیلم و کتاب ادامه یابد",
+      "‏تیم شامل افراد باتجربه از Marvel ، Disney و Riot نیز می‌شود"
+    ],
+    "body_fa": "‏جیسون جونز، هم‌سازندهٔ Halo و Destiny ، به همراه مارگارت استول، کارگردان روایت Destiny 2 ، استودیوی جدیدی به نام Stone Kite تأسیس کردند. این استودیو رسماً در اول اکتبر 2026 افتتاح شد و استول به عنوان مدیرعامل و جونز به عنوان هم‌بنیان‌گذار فعالیت می‌کند. هدف Stone Kite ، ایجاد یک جهان مشترک در چندین رسانه است تا داستان‌ها به‌صورت «fractal storytelling» در بازی، فیلم، کتاب و سایر قالب‌ها همزمان پیشرفت کنند. تیم خلاق این شرکت شامل افراد سابق از شرکت‌های Marvel ، DC ، Disney ، Pixar ، Bungie ، Activision Blizzard و Riot است. اعلام این پروژه همزمان با تصمیم Bungie برای ادامه پشتیبانی از Destiny 2 و بازگرداندن محتواهای قدیمی صورت گرفت، که نشانگر ادامه حضور این دو سازنده در اکوسیستم بازی‌هاست.",
+    "category": "گیم",
+    "subcategory": "استودیو بازی",
+    "tag": "Stone Kite",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Game Rant",
+    "url": "https://gamerant.com/bungie-cofounder-jason-jones-destiny-halo-stone-kite-studio/",
+    "clean_url": "https://gamerant.com/bungie-cofounder-jason-jones-destiny-halo-stone-kite-studio",
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/destiny-2-gunslinger-hunter.jpg?w=1600&h=900&fit=crop",
+    "timestamp": 1791102600.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +220,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "aa3765abd7",
+    "title_fa": "‏عملیات رباتیک اوکراین در دونباس، ضربه‌ای به اهداف پوتین",
+    "title_en": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machin...",
+    "summary": [
+      "‏اوکراین در دونباس با حمله رباتیک ناگهانی 176 کیلومتر مربع زمین را پس گرفت",
+      "‏این موفقیت استراتژیک توانایی روسیه برای گسترش در شرق را به‌سختی کاهش می‌دهد",
+      "‏عملیات Vivaldi بیش از 2,000 نفر روسی را کشته و 250 زندانی شد"
+    ],
+    "body_fa": "‏در ماه مه 2024 ، ارتش سوم اوکراین با استفاده از پهپادهای بمباران و ربات‌های کنترل از راه دور در اطراف شهر لیمان حمله‌ای رباتیک راه‌اندازی کرد. این عملیات که تحت عنوان \"Operation Vivaldi\" شناخته می‌شود، تا پایان سپتامبر 176 کیلومتر مربع از خاک روسی را بازپس گرفت و مساحت کل بازپس‌گیری را به 176 کیلومتر مربع رساند. بریگادیر‑ژنرال Andrii Biletskyi اعلام کرد که در این مرحله بیش از 2,000 نیروی روسی کشته و 250 نفر آنها اسیر شده‌اند. تحلیل‌گر Patrick Bolder این حمله را \"یک ناکامی خونین بزرگ برای پوتین\" توصیف کرد و به توانایی اوکراین در مخفی نگه داشتن جزئیات عملیات و استفاده از جنگ اطلاعاتی اشاره کرد. ربات‌های زمینی بدون خطر برای نیروهای اوکراینی به پشت خطوط دشمن نفوذ کردند و توانستند کنترل هوایی منطقه لیمان را به دست بگیرند. کریم‌لین، سفیر روسیه در لندن، برای اظهار نظر در دسترس نبود، اما این شکست نشان می‌دهد که هدف روسیه برای تسلط کامل بر دونباس در حال دور شدن است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "عملیات نظامی",
+    "tag": "رباتیک",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+    "clean_url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+    "image": "https://s.yimg.com/bo/38624c66-833e-563a-8380-33645fc8959c_1791091644372.jpg",
+    "timestamp": 1791089514.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "3cceed2106",
     "title_fa": "‏هک‌های متعدد OpenAI خطرات حقوقی آلتمن را افزایش داد",
     "title_en": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
@@ -195,6 +283,50 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-10-04/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz",
     "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791083340.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3ae0529c82",
+    "title_fa": "‏روندهای انتخابات برزیل در روز اول رای‌گیری آغاز شد",
+    "title_en": "Brazilians head to polls in high-stakes, polarized election",
+    "summary": [
+      "‏برزیل‌ها روز یکشنبه برای دور اول انتخابات با اختلاف کم به صندوق‌های رأی‌گیری رفتند",
+      "‏نتیجه این رقابت می‌تواند سیاست داخلی و روابط تجاری برزیل، به‌ویژه با آمریکا، را شکل دهد",
+      "‏کمپین انتخاباتی با رسوایی‌های فساد و نگرانی‌های اقتصادی همراه بود"
+    ],
+    "body_fa": "‏در روز یکشنبه، برزیل‌ها برای دور اول انتخابات عمومی به صندوق‌های رأی‌گیری رفتند. این انتخابات با اختلاف اندک بین دو جناح اصلی برگزار شد و نشان‌دهندهٔ جامعه‌ای عمیقاً تقسیم‌شده بود. کمپین انتخاباتی تحت تأثیر رسوایی‌های فساد، اضطراب اقتصادی و اتهامات مداخلهٔ ایالات متحده قرار داشت. نتایج دور اول می‌تواند مسیر سیاست‌های اقتصادی و تجاری برزیل را، به‌ویژه در زمینهٔ صادرات کالاهای اولیه و روابط با آمریکا، تعیین کند. تحلیل‌گران انتظار دارند که هرگونه تغییر در رهبری برزیل تأثیر قابل‌توجهی بر بازارهای جهانی داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "انتخابات برزیل",
+    "tag": "برزیل",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazilians-head-polls-high-stakes-polarized-election-2026-10-04/",
+    "clean_url": "https://www.reuters.com/world/americas/brazilians-head-polls-high-stakes-polarized-election-2026-10-04",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791083100.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "87c2db3391",
+    "title_fa": "‏نیروهای دولتی پایتخت تیگرای را از دست شورشیان گرفتند",
+    "title_en": "Government forces seize capital of Ethiopia's Tigray region from rebels",
+    "summary": [
+      "‏نیروهای دولت اتیوپی و شبه‌نظامیان پایتخت تیگرای را بازپس گرفتند",
+      "‏این پیروزی بزرگ برای دولت، حریفان منطقه‌ای را تضعیف کرده و می‌تواند وضعیت امنیتی و انسانی در شرق افریقا را تغییر دهد",
+      "‏شهر آسمله پس از ماه‌ها نبرد تحت کنترل دولت قرار گرفت"
+    ],
+    "body_fa": "‏در روز یکشنبه، نیروهای دولتی اتیوپی به همراه militi‌های متحد، کنترل شهر آسمله، پایتخت منطقه تیگرای، را پس از چند هفته نبرد به دست گرفتند. این خبر توسط سه منبع به Reuters اطلاع داده شد و نشان‌دهنده عقب‌نشینی شدید ائتلاف مخالفان حاکم بر تیگرای است. بازپس‌گیری آسمله به دولت اجازه می‌دهد تا مسیر ارتقاء امنیت در شرق کشور را باز کند و فشار بر گروه‌های مسلح را افزایش دهد. کارشناسان هشدار می‌دهند که این تحولات می‌تواند موج جدیدی از جابه‌جایی‌های جمعیتی و بحران‌های انسانی را به دنبال داشته باشد. همچنین، این تغییر تعادل قدرت ممکن است روابط اتیوپی با همسایگان مانند سوئد و عربستان را تحت تأثیر قرار دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "جنگ داخلی اتیوپی",
+    "tag": "تیگرای",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/government-forces-seize-capital-ethiopias-tigray-region-rebels-2026-10-04/",
+    "clean_url": "https://www.reuters.com/world/africa/government-forces-seize-capital-ethiopias-tigray-region-rebels-2026-10-04",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791076680.0,
     "sent_to_telegram": true
   },
   {
@@ -6465,137 +6597,6 @@
     "clean_url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
     "image": "https://s.yimg.com/bo/e1763238-a2ec-5bc9-8e9c-dac7442b8c14_1790401094713.jpg",
     "timestamp": 1790399785.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "53912dc85a",
-    "title_fa": "‏کشتی تحریمی ایران در خلیج عدن توسط نیروی پونتند آزاد شد",
-    "title_en": "US-sanctioned Iranian shadow-fleet tanker freed after Somali pirate hijacking",
-    "summary": [
-      "‏کشتی نفتی تحت تحریم آمریکا به نام Sibu 1 که توسط دزدان دریایی سوماتی به تصرف درآمده بود، آزاد شد.",
-      "‏این آزادسازی نشان‌دهنده تشدید عملیات ضد دزدی در یکی از شلوغ‌ترین مسیرهای دریایی جهان و فشار بر شبکه‌های سایه‌ای نفت ایران است.",
-      "‏کشتی تحت پرچم اریتره و قبلاً به نام Seamull شناخته می‌شد و توسط وزارت خزانه‌داری آمریکا تحریم شده بود."
-    ],
-    "body_fa": "‏نیروی پلیس دریایی نیمه‌خودمختار پونتند در سومالی، کشتی نفتی Sibu 1 را که توسط دزدان دریایی در خلیج عدن به تصرف درآمده بود، آزاد کرد. این کشتی که پیش از آن تحت نام Seamull شناخته می‌شد، به دلیل حمل محصولات نفتی ایران تحت تحریم ایالات متحده قرار داشت. وزارت خزانه‌داری آمریکا در دسامبر 2025 این کشتی و دو کشتی دیگر را به‌عنوان دارایی مسدود اعلام کرد و شرکت مدیریت کشتی Qatrat Alnada را به‌خاطر فعالیت در بخش نفت ایران تحریم کرد. دزدان در 20 اوت حدود 136 مایل دریایی شرق المکلا، یمن، به کشتی حمله کردند و آن را برای چند ماه در اختیار خود نگه داشتند. آزادسازی این کشتی نشان می‌دهد که عملیات ضد دزدی دریایی در مسیرهای پر ترافیک همچنان فعال است و فشار بین‌المللی بر شبکه‌های «سایه‌ای» حمل نفت ایران را تقویت می‌کند. این رویداد می‌تواند نشانگر افزایش خطرات امنیتی برای ناوگان‌های تجاری در خلیج عدن باشد و به‌خصوص برای کشتی‌های تحت تحریم ریسک‌های بیشتری ایجاد کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "دزدی دریایی و تحریم",
-    "tag": "دزدی‌دریایی",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Business Insider Africa",
-    "url": "https://africa.businessinsider.com/local/markets/us-sanctioned-iranian-shadow-fleet-tanker-freed-after-somali-pirate-hijacking/w4jfml3",
-    "clean_url": "https://africa.businessinsider.com/local/markets/us-sanctioned-iranian-shadow-fleet-tanker-freed-after-somali-pirate-hijacking/w4jfml3",
-    "image": "https://ocdn.eu/pulscms-transforms/1/_40ktkuTURBXy85MGU3Nzc3Yy1jMzc0LTRjMzktYjczNS0xYWNiNDQ4OWY1NzMuanBlZ5KVAwDMW80VF80L4JMFzQSwzQJ2",
-    "timestamp": 1790398380.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "262fbd7df0",
-    "title_fa": "‏شی جین‌پینگ: چین و آمریکا تله توکییدیدس را می‌گذارند",
-    "title_en": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap",
-    "summary": [
-      "‏شی جین‌پینگ در دیدار با ترامپ گفت می‌توانند تله توکییدیدس را غلبه کنند",
-      "‏این پیام نشان می‌دهد دو قدرت بزرگ به دنبال رقابت بدون درگیری نظامی هستند",
-      "‏او خواستار بهبود ارتباطات بحران‌پذیری نظامی بین دو کشور شد"
-    ],
-    "body_fa": "‏شی جین‌پینگ در اولین سفر دولتی‌اش به ایالات متحده پس از یازده سال، در ملاقات با دونالد ترامپ اظهار کرد که چین و آمریکا می‌توانند تله توکییدیدس را پشت سر بگذارند. او تأکید کرد رقابت بین دو قدرت باید سالم باشد و به جنگ منجر نشود. شی افزود که باید ارتباطات بحران‌پذیری نظامی بهبود یابد تا خطر اشتباهات محاسبه‌نشده کاهش یابد. این بیانیه نشانگر تمایل دو کشور به حفظ صلح در حالی است که همچنان در زمینه‌های اقتصادی و فناوری به یکدیگر نزدیک می‌شوند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "روابط چین-آمریکا",
-    "tag": "ThucydidesTrap",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
-    "clean_url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
-    "image": "https://s.yimg.com/bo/189f3264-dd0f-5627-af8f-cab59e021256_1790401173547.jpg",
-    "timestamp": 1790398375.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9293f72c0a",
-    "title_fa": "‏زنجیره‌های سوپرمارکتی تخفیف‌های بزرگ برای مقابله با تورم ارائه دادند",
-    "title_en": "Inflation is kicking off a discount arms race between grocery stores",
-    "summary": [
-      "‏زنجیره‌های Aldi و Kroger و Costco تخفیف‌های میلیارد دلاری روی مواد غذایی عرضه کردند.",
-      "‏این اقدام‌ها در واکنش به فشارهای تورمی ناشی از هزینه‌های انرژی و حمل‌ونقل است.",
-      "‏Instacart نیز با تعهد «بدون اضافه‌قیمت» تحویل آنلاین، قیمت‌های فروشگاه را ثابت نگه داشته است."
-    ],
-    "body_fa": "‏تورم دوباره به‌سر می‌گیرد و هزینه‌های انرژی و حمل‌ونقل را که به‌دلیل منازعه ایران و سایر عوامل بالا برده، به‌سرانه خانوارها فشار می‌آورد. در واکنش، زنجیره تخفیفی Aldi اعلام کرد حدود 86 میلیون دلار تخفیف بر روی محصولات تازه تا ۳ نوامبر ارائه می‌دهد و یک‌سوم محصولاتش را نسبت به سال گذشته ارزان‌تر کرده است. Kroger نیز به‌دلیل اختلاف بر سر قیمت‌های بالا، برخی محصولات Boar’s Head و Red Bull را از فروشگاه‌های خود حذف کرد تا فشار بر تأمین‌کنندگان را افزایش دهد. Instacart گفت زنجیره‌های Bashas ، Fareway ، Grocery Outlet ، Raley’s و Super King Markets به تعهد «بدون اضافه‌قیمت» پیوسته‌اند و مشتریان آنلاین همان قیمت‌های فروشگاه را دریافت می‌کنند. Costco در گزارش مالی اخیر خود به‌روزرسانی‌های قیمتی مانند تخفیف گردو، قهوه و فلفل سیاه اشاره کرد و تأکید کرد که با تأمین‌کنندگان برای کنترل هزینه‌ها همکاری می‌کند. این روند تخفیف‌ها مشابه اقدام‌های Walmart در تابستان گذشته است که بیش از ۱۱ هزار تخفیف در سال جاری اعمال کرده تا مشتریان را در دوره نیمه دوم سال حفظ کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قیمت‌گذاری مواد غذایی",
-    "tag": "تخفیف",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/grocery-sellers-tout-savings-to-attract-cash-strapped-shoppers-2026-9",
-    "clean_url": "https://www.businessinsider.com/grocery-sellers-tout-savings-to-attract-cash-strapped-shoppers-2026-9",
-    "image": "https://i.insider.com/6ab6a952eb7225411267abc3?width=1200&format=jpeg",
-    "timestamp": 1790394900.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "af5a93f302",
-    "title_fa": "‏ایالات متحده و چین تعرفه‌ها را کم کردند",
-    "title_en": "U.S., China Agree to Trim Tariffs, Start AI Dialogue",
-    "summary": [
-      "‏ایالات متحده و چین توافق کردند تعرفه‌های کالاهای کم‌حساس را کاهش دهند.",
-      "‏این گام می‌تواند تنش‌های تجاری را کاهش داده و بازارهای جهانی را تقویت کند.",
-      "‏همزمان گفت‌وگوی دو جانبه درباره هوش مصنوعی نیز آغاز شد."
-    ],
-    "body_fa": "‏پس از اجلاس رئیس‌جمهور ترامپ با شی جین‌پینگ، ایالات متحده و چین به توافق رسیدند تا تعرفه‌های مربوط به صادرات کم‌حساس را کاهش دهند. این تصمیم بخشی از تلاش برای کاهش تنش‌های تجاری بین دو اقتصاد بزرگ است و می‌تواند به بهبود جریان‌های تجاری و رشد اقتصادی جهانی کمک کند. علاوه بر این، دو کشور موافقت کردند تا گفت‌وگوی دو‑جانبه درباره هوش مصنوعی را آغاز کنند، گامی که نشان‌دهنده تمایل به همکاری در فناوری‌های پیشرفته است. کارشناسان پیش‌بینی می‌کنند این توافق ممکن است به بازگشت سرمایه‌گذاران به بازارهای سهام و کالاها منجر شود و فشارهای تجاری را کاهش دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌ها و تعرفه‌ها",
-    "tag": "تعرفه",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758",
-    "clean_url": "https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790392380.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "88d950e85d",
-    "title_fa": "‏ترامپ پیشنهاد ایران برای بازگشایی تنگه هرمز را رد کرد",
-    "title_en": "Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz",
-    "summary": [
-      "‏ترامپ اعلام کرد که پیشنهاد ایران برای آتش‌بس و بازگشایی تنگه هرمز را نمی‌پذیرد.",
-      "‏این رد، فشار بر مذاکرات برای رفع تنش‌های خلیج فارس و تأمین مسیرهای نفتی را افزایش می‌دهد.",
-      "‏ایران گفته بود بازگشایی تنگه می‌تواند به‌سرعت حمل و نقل نفت را بهبود بخشد."
-    ],
-    "body_fa": "‏دیپلمات‌های ایرانی پیشنهاد آتش‌بس و بازگشایی تنگه هرمز را به ایالات متحده ارائه دادند. در واکنش، دونالد ترامپ، که هنوز در سیاست داخلی آمریکا نفوذ دارد، این پیشنهاد را به‌طور قطعی رد کرد. او اعلام کرد که هیچ‌گونه تسهیل در بازگشایی مسیر بحرانی نفتی بدون پیش‌شرط‌های امنیتی و سیاسی قابل قبول نیست. تنگه هرمز که حدود ۲۰ درصد صادرات نفت جهان از آن عبور می‌کند، نقش کلیدی در بازارهای انرژی جهانی دارد. رد این پیشنهاد می‌تواند مذاکرات بین‌المللی برای کاهش تنش‌های خلیج فارس را پیچیده‌تر کند و نگرانی‌ها درباره تأمین نفت را افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند که اگر مذاکرات به این شکل ادامه یابد، نوسان قیمت نفت ممکن است ادامه یابد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "منطقه خلیج فارس",
-    "tag": "تنگه هرمز",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faafeab17-4fcc-4f7a-a393-825c43eb772c.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1790391660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2967b77b5b",
-    "title_fa": "‏بانک مرکزی سوئیس وضعیت تورم را مطلوب ارزیابی کرد",
-    "title_en": "SNB Is in Comfortable Situation on Inflation, Schlegel Tells SRF",
-    "summary": [
-      "‏رئیس SNB در مصاحبه‌ای وضعیت تورم سوئیس را آرام و مطلوب توصیف کرد.",
-      "‏این ارزیابی نشان‌دهنده نبود فشار فوری برای تغییر تهاجمی نرخ بهره است."
-    ],
-    "body_fa": "‏رئیس بانک مرکزی سوئیس، Martin Schlegel ، اعلام کرد که کشورش در زمینه مهار تورم در وضعیتی مطلوب و راحت قرار دارد. او در مصاحبه با رسانه SRF تاکید کرد که سیاست‌های پولی اجراشده توانسته‌اند ثبات قیمت‌ها را حفظ کنند. نرخ تورم در سوئیس در ماه‌های گذشته زیر هدف ۲ درصدی باقی مانده و فشارهای تورمی تا حد زیادی فروکش کرده‌اند. سخنان رئیس SNB نشان می‌دهد که سیاست‌گذاران سوئیسی نیازی فوری به تغییرات شدید در نرخ‌های بهره احساس نمی‌کنند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی سوئیس",
-    "tag": "بانک مرکزی سوئیس",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-26/snb-is-in-comfortable-situation-on-inflation-schlegel-tells-srf",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-09-26/snb-is-in-comfortable-situation-on-inflation-schlegel-tells-srf",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790391600.0,
     "sent_to_telegram": true
   }
 ]
