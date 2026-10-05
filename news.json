@@ -1,5 +1,49 @@
 [
   {
+    "id": "c86cc875ca",
+    "title_fa": "‏نیروهای تحت حمایت عربستان برای آزادسازی باب‌المندب به عملیات می‌پردازند",
+    "title_en": "Saudi-Backed Forces Launch Fight to Free Bab al-Mandeb From Houthis",
+    "summary": [
+      "‏نیروهای حامی عربستان عملیات نظامی برای بازپس‌گیری بندر موخا و آزادسازی باب‌المندب را آغاز کردند.",
+      "‏این اقدام می‌تواند مسیرهای کشتی‌رانی در دریای سرخ و تجارت جهانی را تحت تأثیر قرار دهد.",
+      "‏هدف اصلی، جلوگیری از گسترش نفوذ حوثی‌ها و حمایت از منافع سعودی در منطقه است."
+    ],
+    "body_fa": "‏نیروهای تحت حمایت عربستان در یک عملیات نظامی بزرگ به هدف بازپس‌گیری بندر موخا و آزادسازی تنگه باب‌المندب که توسط حوثی‌های وابسته به ایران در اختیار گرفته شده بود، اقدام کردند. باب‌المندب یکی از مهم‌ترین مسیرهای عبور کشتی‌های تجاری در دریای سرخ است و کنترل آن می‌تواند جریان کالاها و نفت بین خلیج فارس و اقیانوس هند را تحت تأثیر قرار دهد. این حمله بخشی از تلاش‌های عربستان برای محدود کردن نفوذ حوثی‌ها و تقویت حضور خود در منطقه به شمار می‌آید. اگر موفق شود، می‌تواند فشار بر قیمت نفت و هزینه‌های حمل‌ونقل بین‌المللی را کاهش دهد. در عین حال، این اقدام احتمالاً تنش‌های ژئوپلیتیک بین عربستان و ایران را تشدید خواهد کرد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "عملیات نظامی خلیج",
+    "tag": "باب‌المندب",
+    "urgency": 8,
+    "iran_relevant": true,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/world/middle-east/saudi-backed-forces-launch-fight-to-free-bab-al-mandeb-from-houthis-f94b91fd",
+    "clean_url": "https://www.wsj.com/world/middle-east/saudi-backed-forces-launch-fight-to-free-bab-al-mandeb-from-houthis-f94b91fd",
+    "image": "https://s.yimg.com/bo/0c196610-9c56-54e2-a3cc-680cd8962d00_1791230003303.jpg",
+    "timestamp": 1791227713.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f0990b48e8",
+    "title_fa": "‏Freeport LNG پس از تعمیر گاز را به عادی برگرداند",
+    "title_en": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown | OilPrice.com",
+    "summary": [
+      "‏Freeport LNG پس از تعطیلی تعمیراتی، ورودی گاز روز دوشنبه به 1.9 میلیارد فوت مکعب در روز رسید.",
+      "‏این افزایش تقاضای داخلی، فشار بر بازار گاز آمریکا را بالا برد و صادرات LNG را تقویت می‌کند.",
+      "‏پیش از تعطیلی، سه‌دستگاه کامل می‌توانست 2.4 میلیارد فوت مکعب در روز مصرف کند."
+    ],
+    "body_fa": "‏Freeport LNG روز دوشنبه ورودی گاز طبیعی خود را پس از تعطیلی تعمیراتی به حدود 1.9 میلیارد فوت مکعب در روز (bcfd) برگرداند. این مقدار نزدیک به سطح ورودی پیش از تعطیلی است و نسبت به متوسط 1.2 bcfd ثبت‌شده در آخر هفته قبلی، حدود 700 میلیون فوت مکعب بیشتر است. تعطیلی یکی از سه‌دستگاه مایع‌ساز (Train 2) برای تعمیر کمپرسور در جمعه گذشته باعث کاهش موقت تقاضای گاز آمریکا شد. با بازگشت به کار، تقاضای داخلی برای گاز از شبکه لوله‌ای افزایش یافته و فشار بر بازار گاز داخلی و صادرات LNG تقویت می‌شود. ظرفیت کامل سه‌دستگاه این کارخانه حدود 2.4 bcfd و بیش از 17 میلیون تن LNG در سال است، بنابراین هر اختلالی می‌تواند به‌طور قابل‌توجهی تقاضای گاز آمریکا را تحت‌اثر قرار دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "صنعت LNG",
+    "tag": "Freeport LNG",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Freeport-LNG-Ramps-Up-Gas-Intake-After-Train-2-Shutdown.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Freeport-LNG-Ramps-Up-Gas-Intake-After-Train-2-Shutdown.html",
+    "image": "https://s.yimg.com/bo/dd496333-46a1-535b-9c41-f0631902fc27_1783825650736.png.cf.jpg",
+    "timestamp": 1791224113.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "f4e736f1f1",
     "title_fa": "‏CFTC آمریکا قوانین جدید برای معاملات لوریج‌دار رمزارزها پیشنهاد کرد",
     "title_en": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap...",
@@ -66,6 +110,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1b7deb2c08",
+    "title_fa": "‏دنگوت پتروشیمی IPO ۱.۶ میلیارد دلاری به سرمایه‌گذاران کنیایی باز شد",
+    "title_en": "Africa’s largest refinery's $1.6 billion IPO opens to Kenyan investors as Dangote expands East Africa push",
+    "summary": [
+      "‏دنگوت پتروشیمی IPO ۱.۶ میلیارد دلاری را برای سرمایه‌گذاران کنیایی باز کرد",
+      "‏این عرضه می‌تواند ظرفیت پالایشگاه را دو برابر کرده و بزرگ‌ترین عرضه عمومی آفریقا شود",
+      "‏در ساعت اول بیش از ۷ میلیون دلار سرمایه‌گذاری شد"
+    ],
+    "body_fa": "‏کمیسیون بازار سرمایه کنیا تأیید کرد که سرمایه‌گذاران کنیایی می‌توانند در IPO پتروشیمی دنگوت به ارزش ۱.۶ میلیارد دلار شرکت کنند. این عرضه توسط Renaissance Capital (کنیا) و شرکت نیجریه‌ای آن تسهیل می‌شود و هدف دو برابر کردن ظرفیت پالایشگاه به ۱.۴ میلیون بشکه در روز است. در مجموع ۴.۱ میلیارد سهم عادی به قیمت N525 هر سهم عرضه شده و حداقل خرید ۱۰ سهم (N5,250) می‌باشد. در ساعت اول بیش از ۷ میلیون دلار (حدود N10 میلیارد) توسط هزاران سرمایه‌گذار متعهد شد و مهلت پذیرش تا ۱۳ اکتبر ادامه دارد. دنگوت همچنین برنامه دارد یک پالایشگاه ۷۰۰,۰۰۰ بشکه‌ای در لامو، کنیا بسازد و ۳۰٪ سهام آن را بین کنیا و رواندا تقسیم کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "عرضه عمومی",
+    "tag": "دنگوت",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Business Insider Africa",
+    "url": "https://africa.businessinsider.com/local/markets/africas-largest-refinerys-dollar16-billion-ipo-opens-to-kenyan-investors-as-dangote/bcxxvc4",
+    "clean_url": "https://africa.businessinsider.com/local/markets/africas-largest-refinerys-dollar16-billion-ipo-opens-to-kenyan-investors-as-dangote/bcxxvc4",
+    "image": "https://ocdn.eu/pulscms-transforms/1/KJAktkpTURBXy9mMTRjNjc0YzEwMjU2OTFjYmIzN2Y4NTVjMTM4ZTg2NS5qcGeSlQMACc0DDM0Bt5MFzQSwzQJ2",
+    "timestamp": 1791206460.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "801d043d83",
     "title_fa": "‏هکرها به زنجیره سوپرمارکت اوکراینی ATB حمله کردند",
     "title_en": "Hackers attack major Ukrainian supermarket chain: 7.9m customers' data at risk",
@@ -85,6 +151,50 @@
     "clean_url": "https://www.yahoo.com/news/world/articles/russia-strikes-kharkiv-least-three-122800038.html",
     "image": "https://media.zenfs.com/en/ukrayinska_pravda_articles_451/e84e1288037d08593990e5a4bf0ff4f5.jpg",
     "timestamp": 1791204583.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b6f42457df",
+    "title_fa": "‏قیمت‌گذاری ۲۳۱ میلیون دلاری Quickmart برای فروش ۵۰٪ سهام آغاز شد",
+    "title_en": "Kenya’s second-largest supermarket opens $116 million share sale as World Bank arm lines up $15 million investment",
+    "summary": [
+      "‏Quickmart ، دومین سوپرمارکت بزرگ کنیا، فروش ۵۰٪ سهام به ارزش ۱۱۶ میلیون دلار را آغاز کرد",
+      "‏این معامله ارزش کل شرکت را حدود ۲۳۱ میلیون دلار می‌گذارد و جذب سرمایه‌گذاری ۱۵ میلیون دلاری IFC را به همراه دارد",
+      "‏دوره اشتراک‌گذاری تا ۳۰ اکتبر ادامه دارد و معاملات در ۱۲ نوامبر آغاز می‌شود"
+    ],
+    "body_fa": "‏Quickmart ، دومین زنجیره سوپرمارکت کنیا، پس از دریافت تأییدهای نظارتی، فروش ۲ میلیارد سهم معادل ۵۰٪ از سهام خود را به ارزش حدود ۱۱۶ میلیون دلار آغاز کرد. این عرضه ارزش کل شرکت را تقریباً ۲۳۱ میلیون دلار می‌سنجد و مبلغ حاصل به فروشنده فعلی، شرکت Sokoni Retail Kenya Limited ، خواهد رفت؛ Quickmart هیچ سهم جدیدی صادر نمی‌کند. بانک بین‌المللی توسعه (IFC) به‌صورت مشروط تا ۱۵ میلیون دلار از این سهام را خریداری می‌کند که حدود ۱۳٪ از سهام عرضه‌شده و ۶٫۵٪ از کل سرمایه Quickmart می‌شود. معامله تحت نظارت Kenya’s Capital Markets Authority و Nairobi Securities Exchange است و برای اجرایی شدن باید حداقل ۷۵٪ از سهام عرضه‌شده (۱٫۵ میلیارد سهم) توسط سرمایه‌گذاران خریداری شود. دوره اشتراک‌گذاری تا ۳۰ اکتبر ادامه دارد و معاملات در ۱۲ نوامبر آغاز می‌شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری",
+    "tag": "سرمایه‌گذاری",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Business Insider Africa",
+    "url": "https://africa.businessinsider.com/local/markets/kenyas-second-largest-supermarket-opens-dollar116-million-share-sale-as-world-bank/t9371tw",
+    "clean_url": "https://africa.businessinsider.com/local/markets/kenyas-second-largest-supermarket-opens-dollar116-million-share-sale-as-world-bank/t9371tw",
+    "image": "https://ocdn.eu/pulscms-transforms/1/UNLktkpTURBXy82YWZhYzM5ZWJiZjNlNjUwMGQ0MTQyODhiNjZhYTQzYi5wbmeSlQMkAM0Dw80CHpMFzQSwzQJ2",
+    "timestamp": 1791203460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "566f617c96",
+    "title_fa": "‏تاییدیه ترامپ به رکورد پایین رسید؛ هیسپانیک‌ها به جمهوری‌خواهان بی‌اعتماد",
+    "title_en": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds",
+    "summary": [
+      "‏نظرسنجی Reuters/Ipsos نشان داد که تاییدیه ترامپ به پایین‌ترین سطح تاریخ رسیده.",
+      "‏این کاهش همراه با کاهش حمایت هیسپانیک‌ها از جمهوری‌خواهان است که می‌تواند انتخابات آینده را تحت تأثیر قرار دهد.",
+      "‏نظرسنجی همچنین نظرات جوانان، سالمندان و مستقل‌ها را بررسی کرد."
+    ],
+    "body_fa": "‏یک نظرسنجی مشترک Reuters و Ipsos نشان داد که میزان تأیید ترامپ به پایین‌ترین سطح تاریخی خود رسیده است. در همین نظرسنجی، رای‌دهندگان هیسپانیک نسبت به جمهوری‌خواهان دید منفی‌تری نشان دادند و حمایتشان کاهش یافته است. این نتایج نشان می‌دهد که حزب جمهوری‌خواه در میان یکی از گروه‌های کلیدی انتخاباتی خود دچار ضعف شده است. نظرسنجی همچنین نظرات گروه‌های سنی مختلف و رأی‌دهندگان مستقل را بررسی کرد و نشان داد که حمایت کلی از ترامپ در تمام گروه‌ها کاهش یافته. این تغییرات می‌تواند در انتخابات ریاست‌جمهوری ۲۰۲۴ تأثیرگذار باشد و استراتژی‌های حزبی را تحت فشار قرار دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "نظرسنجی سیاسی",
+    "tag": "ترامپ",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-approval-record-low-hispanic-voters-sour-on-republicans-reutersipsos-poll-2026-10-05/",
+    "clean_url": "https://www.reuters.com/world/us/trump-approval-record-low-hispanic-voters-sour-on-republicans-reutersipsos-poll-2026-10-05",
+    "image": "https://www.reuters.com/resizer/v2/S4IXHYXY7NJTTM67CADUGW3CII.jpg?auth=722ff1d79b9cfc9f11d2d5c08685c531e5987235c3a4896670bf927bf3b703b7&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791202620.0,
     "sent_to_telegram": true
   },
   {
@@ -132,6 +242,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0dd6e9e15f",
+    "title_fa": "‏مک‌دونالد با دعوی جمعی برای قیمت‌گذاری هوش مصنوعی مواجه شد",
+    "title_en": "McDonald's hit with class action alleging AI-powered menu price-fixing",
+    "summary": [
+      "‏یک دعوی جمعی علیه مک‌دونالد ادعا می‌کند که از هوش مصنوعی برای تنظیم قیمت منو استفاده کرده",
+      "‏اگر ثابت شود، می‌تواند به جریمه‌های بزرگ و تغییرات در سیاست‌های قیمت‌گذاری شرکت‌های زنجیره‌ای منجر شود",
+      "‏این پرونده نشان‌دهنده نگرانی‌های قانونی در استفاده از الگوریتم‌های هوش مصنوعی برای تعیین قیمت‌هاست"
+    ],
+    "body_fa": "‏یک گروه از مصرف‌کنندگان در ایالات متحده دعوی جمعی علیه زنجیره رستوران‌های مک‌دونالد مطرح کرده و ادعا می‌کند این شرکت از الگوریتم‌های هوش مصنوعی برای تنظیم قیمت منوها استفاده کرده تا قیمت‌ها را در سطوحی ثابت نگه دارد. شکایت می‌گوید این روش باعث کاهش رقابت و افزایش هزینه برای مشتریان شده است. اگر دادگاه این ادعاها را تأیید کند، مک‌دونالد ممکن است با جریمه‌های سنگین و الزام به تغییر شیوه‌های قیمت‌گذاری مواجه شود. این پرونده می‌تواند پیش‌زمینه‌ای برای بررسی‌های قانونی گسترده‌تر درباره استفاده از هوش مصنوعی در تصمیم‌گیری‌های تجاری باشد. نمایندگان مک‌دونالد تاکنون این اتهامات را رد کرده و گفتند که قیمت‌گذاری بر پایه عوامل بازار و هزینه‌های عملیاتی است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قیمت‌گذاری هوش مصنوعی",
+    "tag": "قیمت‌گذاری",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/",
+    "clean_url": "https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05",
+    "image": "https://www.reuters.com/resizer/v2/VOW2SOL2YJMDZLHDMSGO62SNMI.jpg?auth=ee294b1701cd44fc2d686172e6c46c5925a30cd4cac64ffd0db23151b74e7aae&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791200580.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9c16408241",
     "title_fa": "‏کمیسیون بورس آمریکا اولین صندوق‌های اهرمی سه‌برابری بیت‌کوین را تایید کرد",
     "title_en": "SEC approves first 3x bitcoin and ether ETFs in the U.S.",
@@ -151,6 +283,28 @@
     "clean_url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
     "image": "https://s.yimg.com/bo/53fc9c21-bc7d-55a7-9881-7f79d6f6e276_1790518889266.jpg",
     "timestamp": 1791200376.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c41beaa860",
+    "title_fa": "‏آمین ناصر: پر کردن موجودی‌های نفتی تا دو سال زمان می‌برد",
+    "title_en": "Replenishing crude and fuel stocks could take two years, Saudi Aramco CEO says",
+    "summary": [
+      "‏آمین ناصر، مدیرعامل Aramco ، گفت پر کردن موجودی‌های جهانی نفت و سوخت تا دو سال زمان می‌برد.",
+      "‏این تأخیر پس از بسته شدن تنگه هرمز توسط ایران و از دست رفتن حدود 3 میلیارد بشکه نفت، فشار بر بازار را تشدید می‌کند.",
+      "‏Aramco می‌تواند تا 12 میلیون بشکه در روز تولید کند و مسیرهای جدیدی برای صادرات بررسی می‌کند."
+    ],
+    "body_fa": "‏آمین ناصر، مدیرعامل Aramco ، در نشست Energy Intelligence Forum در لندن اعلام کرد که پر کردن موجودی‌های جهانی نفت و سوخت ممکن است تا 2 سال زمان ببرد. از زمان آغاز جنگ ایران‑اسرائیل در اواخر فوریه، ایران تنگه هرمز را تقریباً بسته کرد و تقریباً 3 میلیارد بشکه نفت از دست رفته است. تا کنون 1 میلیارد بشکه از ذخایر اضطراری جهان آزاد شده، اما برای جبران کمبود باید روزانه 2 میلیون بشکه بیشتر در 18 ماه تأمین شود. تقاضای روزانه جهانی نفت کمی بیش از 100 میلیون بشکه است و ظرفیت تولید پایدار حداکثر Aramco 12 میلیون بشکه در روز می‌باشد. نصف ذخایر باقی‌مانده در خطوط لوله یا برای حفظ حداقل حجم مخازن ضروری است و به‌طور عملی در دسترس نیست. شرکت همچنین مسیرهای جایگزین از طریق خط لوله شرق‑غرب به بنادر دریای سرخ و ذخایر خارجی را بررسی می‌کند تا اختلالات کوتاه‌مدت را کاهش دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "Aramco",
+    "urgency": 8,
+    "iran_relevant": true,
+    "source": "Reuters · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/energy/articles/replenishing-crude-fuel-stocks-could-105010522.html",
+    "clean_url": "https://finance.yahoo.com/energy/articles/replenishing-crude-fuel-stocks-could-105010522.html",
+    "image": "https://media.zenfs.com/en/reuters.com/b2afe69d19f384d0f8572429e60c6a8b.jpg",
+    "timestamp": 1791198910.0,
     "sent_to_telegram": true
   },
   {
@@ -217,6 +371,28 @@
     "clean_url": "https://www.wsj.com/health/healthcare/texas-ag-paxton-launches-investigation-into-unitedhealth-group-bc6ce142",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791195840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d849019ba6",
+    "title_fa": "‏شرکت L'Oreal برای بدهی‌های حقوقی آمریکا مشاوران بازسازی جذب کرد",
+    "title_en": "As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats",
+    "summary": [
+      "‏شرکت L'Oreal مشاوران بازسازی برای بررسی گزینه‌های مواجهه با بدهی‌های حقوقی آمریکا استخدام کرد.",
+      "‏این اقدام پس از گزارش Wall Street Journal درباره مسئولیت‌های شرکت در استفاده از تالک و مواد شیمیایی دیگر است.",
+      "‏ممکن است فشار بر سهام L'Oreal و هزینه‌های قانونی شرکت را افزایش دهد."
+    ],
+    "body_fa": "‏شرکت آرایشی L'Oreal مشاوران بازسازی را برای بررسی گزینه‌های مواجهه با بدهی‌های حقوقی در ایالات متحده به کار گرفت. این تصمیم پس از انتشار گزارشی در Wall Street Journal صورت گرفت که به مسئولیت‌های شرکت در استفاده از تالک و سایر ترکیبات شیمیایی در برخی محصولات آرایشی اشاره داشت. مقامات شرکت می‌خواهند راهکارهایی برای کاهش ریسک‌های مالی و حقوقی ناشی از این دعاوی پیدا کنند. استفاده از تالک در لوازم آرایشی قبلاً منجر به شکایات و دعواهای حقوقی در چند کشور شده است. اگر نتایج این بررسی منجر به تنظیم مجدد ساختار یا تخصیص منابع مالی شود، می‌تواند بر سودآوری و قیمت سهام L'Oreal تأثیر بگذارد. بازارهای مالی به این خبر با دقت نگاه می‌کنند، زیرا هر گونه هزینه قانونی بزرگ می‌تواند بر عملکرد شرکت‌های مصرفی تأثیرگذار باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قانونی شرکت‌ها",
+    "tag": "L'Oreal",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/iran-war-drives-up-gasoline-prices-us-trump-blames-ukraine-democrats-2026-10-05/",
+    "clean_url": "https://www.reuters.com/business/energy/iran-war-drives-up-gasoline-prices-us-trump-blames-ukraine-democrats-2026-10-05",
+    "image": "https://www.reuters.com/resizer/v2/GC46N2UOVRM6DFUFVTE6JXPRM4.jpg?auth=e989a7bfbf2521b68bf4f1cb01841ca7aea40328ea0990deeee9819a0300615a&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791194280.0,
     "sent_to_telegram": true
   },
   {
@@ -374,6 +550,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "01ac49748c",
+    "title_fa": "‏بخش خدمات آمریکا در سپتامبر سرد شد و فشارهای قیمتی افزایش یافت",
+    "title_en": "US services sector cools in September, price pressures building",
+    "summary": [
+      "‏در سپتامبر، رشد بخش خدمات ایالات متحده کاهش یافت و نشانه‌های تورم جدید ظاهر شد.",
+      "‏کاهش سرعت رشد خدمات می‌تواند بر سیاست‌های پولی فدرال‌رزرو و بازارهای مالی تأثیر بگذارد.",
+      "‏قیمت‌ها در این دوره فشار بیشتری نشان دادند که ممکن است به افزایش هزینه‌های زندگی منجر شود."
+    ],
+    "body_fa": "‏داده‌های اخیر نشان می‌دهد که در ماه سپتامبر، رشد بخش خدمات در ایالات متحده نسبت به ماه‌های قبل کاهش یافته است. این کاهش همراه با نشانه‌های واضح از افزایش فشارهای قیمتی در بخش‌های مختلف اقتصادی بوده است. تحلیل‌گران بر این باورند که این ترکیب می‌تواند فشار بر فدرال‌رزرو برای تنظیم نرخ بهره ایجاد کند و بازارهای مالی را تحت تأثیر قرار دهد. همچنین، افزایش هزینه‌های خدمات می‌تواند به رشد هزینه‌های زندگی برای مصرف‌کنندگان منجر شود. در مجموع، این تحولات نشانگر یک دورهٔ اقتصادی با ریسک‌های تورمی و چالش‌های سیاست‌گذاری پولی است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بخش خدمات",
+    "tag": "تورم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-services-sector-activity-slows-september-price-pressures-mount-2026-10-05/",
+    "clean_url": "https://www.reuters.com/business/us-services-sector-activity-slows-september-price-pressures-mount-2026-10-05",
+    "image": "https://www.reuters.com/resizer/v2/RHB2FGRMTVNQHBQ4USA5ICT2VU.jpg?auth=24f0bd633f387b5658d7bca8edb2dd9845a1baaf59c3064e652fb6c6d7832483&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791183840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3a1cd74573",
+    "title_fa": "‏بازارهای برزیل به دلیل پیش‌بینی پیروزی فلویو بولسونارو جهش یافت",
+    "title_en": "Brazil’s markets surge as investors bet on Flávio Bolsonaro election win",
+    "summary": [
+      "‏بازارهای برزیل پس از افزایش شرط‌بندی سرمایه‌گذاران بر پیروزی فلویو بولسونارو به‌سرعت بالا رفت.",
+      "‏این انتظار می‌تواند سیاست‌های اقتصادی دولت را تحت تأثیر قرار داده و جذابیت سهام را افزایش دهد.",
+      "‏تحلیل‌گران پیش‌بینی می‌کنند شاخص Bovespa در روزهای آینده می‌تواند بیش از 3 ٪ رشد کند."
+    ],
+    "body_fa": "‏پس از اعلام نتایج نظرسنجی‌های اخیر که نشان می‌دهد فلویو بولسونارو، فرزند رئیس‌جمهور فعلی، شانس بالایی برای پیروزی در انتخابات دارد، بازارهای مالی برزیل به‌سرعت رشد کردند. شاخص اصلی بورس، Bovespa ، در یک روز بیش از 2 درصد افزایش یافت و حجم معاملات به‌طور قابل‌توجهی بالا رفت. سرمایه‌گذاران بر این باورند که پیروزی فلویو می‌تواند سیاست‌های اقتصادی محافظه‌کارانه‌تری را ادامه دهد و به‌ویژه در زمینه‌های مالیاتی و سرمایه‌گذاری خارجی حمایت کند. این انتظارات باعث شد که اوراق دولتی برزیل نیز با کاهش نرخ بهره مواجه شوند. تحلیل‌گران هشدار می‌دهند که اگر نتایج واقعی متفاوت باشد، نوسانات شدیدتری در بازارهای برزیل ممکن است رخ دهد. به‌هرحال، این تحرک نشان می‌دهد که رویدادهای سیاسی می‌توانند به‌سرعت بر احساسات سرمایه‌گذاران و قیمت‌گذاری دارایی‌ها تأثیر بگذارند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازارهای مالی",
+    "tag": "برزیل",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0a35cf9-da51-4979-bec5-a81647a42aa5.png?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+    "timestamp": 1791181020.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1810fa1af3",
     "title_fa": "‏قیمت نفت کاهش یافت؛ جریان‌های هارموز به سطح پیش‌جنگ رسید",
     "title_en": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels | OilPrice.com",
@@ -440,6 +660,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "5fe6d4d892",
+    "title_fa": "‏بازار Nasdaq برای اولین بار به بالاترین بسته شدن رسید",
+    "title_en": "Nasdaq notches record high close as investors focus on earnings",
+    "summary": [
+      "‏بازار Nasdaq در روز دوشنبه با بسته شدن در بالاترین سطح تاریخ، رکورد جدیدی ثبت کرد.",
+      "‏این صعود نشان‌دهندهٔ تمرکز سرمایه‌گذاران بر گزارش‌های سود شرکت‌های فناوری و نیمه‌رسانا است.",
+      "‏سایر شاخص‌های اصلی نیز به‌دنبال این حرکت، افزایش مشابهی نشان دادند."
+    ],
+    "body_fa": "‏بازار Nasdaq در پایان معاملات روز دوشنبه به بالاترین سطح بسته شدن تاریخ دست یافت. این صعود پس از انتشار داده‌های مثبت در بخش فناوری و نیمه‌رسانا رخ داد. سرمایه‌گذاران به‌ویژه به گزارش‌های سود شرکت‌های بزرگ در این حوزه‌ها توجه داشتند. تحلیل‌گران انتظار دارند که این روند مثبت تا پایان فصل مالی ادامه یابد. در عین حال، سایر شاخص‌های اصلی مانند S&P 500 و Dow Jones نیز رشد مشابهی نشان دادند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "شاخص‌های بورس",
+    "tag": "Nasdaq",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/wall-st-futures-dip-tech-stocks-take-breather-2026-10-05/",
+    "clean_url": "https://www.reuters.com/world/europe/wall-st-futures-dip-tech-stocks-take-breather-2026-10-05",
+    "image": "https://www.reuters.com/resizer/v2/4JDIHXCRVRKB7K3SOYRYKICUJM.jpg?auth=0005003fedb0335938073ec7a7dff2dde70acc17b1e37e69c1aeae41280936a6&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791172020.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "c2f2f0fab2",
     "title_fa": "‏نروژ عینک‌های هوشمند AI را در مکان‌های عمومی ممنوع می‌کند",
     "title_en": "Privacy concerns put smart glasses under scrutiny as Norway seeks temporary ban",
@@ -503,6 +745,28 @@
     "clean_url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-gains-near-6100-as-fed-rate-hike-odds-decline-202610050314",
     "image": "https://s.yimg.com/bo/c0040712-e835-5ff8-87c1-94cce225081a_1790328081660.png.cf.jpg",
     "timestamp": 1791171573.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "53e577585d",
+    "title_fa": "‏دستگیری‌های ترامپ مهاجران LGBT را به سرزمین‌های خصمانه می‌کشاند",
+    "title_en": "Trump's deportation push forces dozens of LGBT migrants onto hostile terrain",
+    "summary": [
+      "‏دستگیری‌های اخیر دولت ترامپ باعث شد ده‌ها مهاجر LGBT به مناطق خطرناک و بی‌پناه هدایت شوند",
+      "‏این اقدام واکنش‌های بین‌المللی را برانگیخته و نگرانی‌ها درباره حقوق بشر و سیاست‌های مهاجرتی آمریکا را تشدید می‌کند",
+      "‏سازمان‌های حقوق بشر خواستار توقف فوری این سیاست‌ها شده‌اند"
+    ],
+    "body_fa": "‏دولت آمریکا تحت رهبری دونالد ترامپ تصمیم جدیدی برای بازگرداندن مهاجران LGBT اتخاذ کرده است. بر اساس این سیاست، چندین نفر از این افراد که در ایالات متحده ساکن بودند، به مناطق مرزی خطرناک و بدون حمایت انسانی منتقل شده‌اند. این انتقال‌ها به سرزمین‌های بیابانی و جنگ‌زده در مرزهای جنوبی کشور انجام شده که شرایط زندگی در آن‌ها بسیار دشوار است. سازمان‌های حقوق بشر بین‌المللی و گروه‌های مدافع LGBT این اقدام را نقض جدی حقوق بشر و تبعیض‌پذیری توصیف کرده و خواستار توقف فوری آن شده‌اند. واکنش‌های بین‌المللی شامل انتقادات شدید از سوی دولت‌های اروپایی و سازمان ملل است که این سیاست را به خطر انداختن جان افراد آسیب‌پذیر می‌دانند. این رویداد می‌تواند فشارهای دیپلماتیک بر ایالات متحده را افزایش دهد و بحث‌های داخلی درباره سیاست‌های مهاجرتی و حقوق بشر را تشدید کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حقوق بشر",
+    "tag": "مهاجرت",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trumps-deportation-push-forces-dozens-lgbt-migrants-onto-hostile-terrain-2026-10-05/",
+    "clean_url": "https://www.reuters.com/legal/government/trumps-deportation-push-forces-dozens-lgbt-migrants-onto-hostile-terrain-2026-10-05",
+    "image": "https://www.reuters.com/resizer/v2/SUFBHUUIWRMJXPVZFQBPT6TZTI.jpg?auth=6326601cb0b8b1ac9fee758a265def96dbbdf478e9eef7e90b2fd88499242360&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791169560.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,270 +6597,6 @@
     "clean_url": "https://www.ft.com/content/22c4fa19-1751-44e9-928d-5203a6af8900",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F829b06a3-8321-4d6f-a2ac-7cd7e261869d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
     "timestamp": 1790566260.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "829f9cbedd",
-    "title_fa": "‏سیل تایلند ۳۲۰ملین دلار خسارت وارد کرد",
-    "title_en": "Thousands huddle in Bangkok shelters as Thai flood damages seen at $320 mln",
-    "summary": [
-      "‏هزاران نفر در پناهگاه‌های بانکوک جمع شدند؛ سیل در تایلند خسارت ۳۲۰ملین دلار ایجاد کرد",
-      "‏این خسارت اقتصادی و انسانی منطقه را تحت فشار قرار می‌دهد و نیاز به کمک‌های بین‌المللی دارد",
-      "‏بخش‌های وسیعی از زیرساخت‌ها و مزارع همچنان زیر آب هستند"
-    ],
-    "body_fa": "‏باران‌های شدید در شمال و مرکز تایلند باعث سیل گسترده‌ای شد که بیش از هزار نفر را به پناهگاه‌های اضطراری در بانکوک منتقل کرد. ارزیابی‌های اولیه خسارت اقتصادی را حدود ۳۲۰ملین دلار برآورد کرده‌اند؛ این رقم شامل خسارت به زیرساخت‌های حمل‌ونقل، مسکن و مزارع است. دولت تایلند تیم‌های جابجایی و امداد را فعال کرده و درخواست کمک‌های بین‌المللی برای تأمین غذا، آب و مسکن کرده است. بازسازی مناطق آسیب‌دیده ممکن است ماه‌ها طول بکشد و بر رشد اقتصادی سالانه کشور تأثیر منفی بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیل و خسارات",
-    "tag": "سیل",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/thousands-huddle-bangkok-shelters-thai-flood-damages-seen-320-mln-2026-09-28/",
-    "clean_url": "https://www.reuters.com/business/environment/thousands-huddle-bangkok-shelters-thai-flood-damages-seen-320-mln-2026-09-28",
-    "image": "https://www.reuters.com/resizer/v2/AR63T4FIHZJCHFCMABDLXCRCVA.jpg?auth=8fa677f7b1c24d36c95a5009afdcf2e207bfcb5637efe14b1b5bdea6d3cffe0f&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1790563800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "92b472d795",
-    "title_fa": "‏Nvidia ابزار ایمنی عرضه کرد؛ هک HuggingFace را متوقف کرد",
-    "title_en": "Nvidia releases AI safety software it says could have stopped Hugging Face hack",
-    "summary": [
-      "‏Nvidia ابزار ایمنی هوش مصنوعی جدیدی منتشر کرد که می‌توانست از هک Hugging Face جلوگیری کند.",
-      "‏این نرم‌افزار می‌تواند ریسک‌های امنیتی مدل‌های زبانی را کاهش دهد و برای شرکت‌های AI مهم باشد.",
-      "‏Nvidia ادعا می‌کند که اگر این ابزار پیش از حمله موجود بود، می‌توانست آسیب را متوقف کند."
-    ],
-    "body_fa": "‏شرکت Nvidia دیروز ابزار ایمنی هوش مصنوعی جدیدی را معرفی کرد. این ابزار برای شناسایی و مسدود کردن رفتارهای مخرب در مدل‌های زبانی طراحی شده است. شرکت می‌گوید اگر این نرم‌افزار پیش از حمله‌ای که به پلتفرم Hugging Face انجام شد، فعال می‌بود، می‌توانست آن هک را متوقف کند. هک اخیر باعث دسترسی غیرمجاز به کدهای منبع و داده‌های حساس شد. Nvidia امیدوار است این راه‌حل بتواند ریسک‌های امنیتی در توسعه مدل‌های بزرگ AI را کاهش دهد. این اقدام می‌تواند فشار بیشتری بر سایر شرکت‌های فناوری برای بهبود امنیت هوش مصنوعی ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "نرم‌افزار ایمنی",
-    "tag": "Nvidia",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28/",
-    "clean_url": "https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28",
-    "image": "https://www.reuters.com/resizer/v2/U3OAOM7UWVL3JBGVLS2RC4VKYY.jpg?auth=8cc4c8879bc6bbd88c6b57edd796c2c19462ab440328d635248ab0beb2f7b26c&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1790560860.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "acca3ed1fe",
-    "title_fa": "‏سودهای Shein در اولین گزارش عمومی دو‑سوم کاهش یافت",
-    "title_en": "Shein’s profits fall by two-thirds in first earnings report as a public company",
-    "summary": [
-      "‏Shein در اولین گزارش مالی‌اش به‌عنوان شرکت عمومی، سود خالص را دو‑سوم کاهش داد.",
-      "‏این کاهش نشان‌دهنده فشارهای هزینه‌ای و چالش‌های رشد برای غول مد سریع‌التحول چین است.",
-      "‏کاهش سود می‌تواند قیمت سهام Shein را تحت فشار قرار دهد."
-    ],
-    "body_fa": "‏Shein پس از تبدیل شدن به یک شرکت عمومی، اولین گزارش مالی خود را منتشر کرد که در آن سود خالص به حدود 66 ٪ نسبت به دوره مشابه سال گذشته کاهش یافت. در عین حال، درآمد شرکت رشد کمی داشت و به‌نظر می‌رسد هزینه‌های لجستیک و موجودی انبار فشارهای زیادی بر حاشیه سود وارد کرده‌اند. این نتایج نشان می‌دهد که پس از دوره رشد سریع، غول مد سریع‌التحول چین با چالش‌های هزینه‌ای و رقابتی مواجه شده است. تحلیل‌گران پیش‌بینی می‌کنند که این کاهش سود می‌تواند واکنش منفی سرمایه‌گذاران و فشار بر قیمت سهام Shein ایجاد کند. همچنین، این وضعیت ممکن است نگرانی‌های بیشتری دربارهٔ توانایی شرکت در حفظ سرعت رشد در بازارهای بین‌المللی ایجاد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سهم‌های عمومی",
-    "tag": "Shein",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e1696e1f-a54e-4e2a-bbfd-2273f26704cd?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/e1696e1f-a54e-4e2a-bbfd-2273f26704cd",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F725733e7-214f-4075-a2ea-1c725f025519.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1790559660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "45fe903755",
-    "title_fa": "‏فرماندار کالیفرنیا انتشار میم‌کوین توسط مقامات دولتی را ممنوع کرد",
-    "title_en": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
-    "summary": [
-      "‏فرماندار کالیفرنیا Gavin Newsom با امضای قانونی جدید، انتشار میم‌کوین توسط مقامات دولتی این ایالت را ممنوع کرد.",
-      "‏این اقدام با انتقاد تند از پروژه‌های کریپتویی Donald Trump و با هدف جلوگیری از تضاد منافع انجام شد.",
-      "‏بر اساس این قانون، پلتفرم‌ها نیز از فهرست‌کردن توکن‌هایی با نام یا تصویر مقامات دولتی منع شده‌اند."
-    ],
-    "body_fa": "‏فرماندار ایالت کالیفرنیا Gavin Newsom قانونی را امضا کرد که راه‌اندازی میم‌کوین‌ها را برای مقامات دولتی این ایالت به‌طور کامل ممنوع می‌کند. بر اساس لایحه AB 2409 ، علاوه بر ممنوعیت فعالیت مستقیم مقامات در انتشار توکن، شرکت‌ها و پلتفرم‌ها نیز از فهرست کردن یا استفاده از تصویر و چهره مقامات دولتی در ارزهای دیجیتال منع شده‌اند. فرماندار کالیفرنیا در بیانیه‌ای با اشاره مستقیم به دونالد ترامپ، این قانون را پاسخی به سوءاستفاده از جایگاه رسمی برای کسب سود شخصی توصیف کرد. طبق اظهارات Gavin Newsom ، میم‌کوین منتسب به Donald Trump پس از یک جهش کوتاه‌مدت سقوط کرد و زیانی بالغ بر 3 میلیارد دلار به سرمایه‌گذاران زد. فعالیت‌های کریپتویی رئیس‌جمهور آمریکا پیش از این نیز به مانعی جدی در تصویب لایحه جامع شفافیت دارایی‌های دیجیتال در کنگره تبدیل شده بود.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قانون‌گذاری رمزارزها",
-    "tag": "میم‌کوین",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
-    "clean_url": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/03/20250305_MemeCoin_News.jpg",
-    "timestamp": 1790559000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "45c6c9b2c8",
-    "title_fa": "‏Bitget پس از هک ۳۸۸ میلیون دلاری، برداشت‌ها را بازگرداند",
-    "title_en": "Bitget starts phased withdrawal resumption following $388 million exploit",
-    "summary": [
-      "‏Bitget پس از هک ۳۸۸ میلیون دلاری، برداشت‌های BTC را به‌صورت مرحله‌ای از سرگیری کرد.",
-      "‏این نشان می‌دهد صرافی توانست آسیب را مهار کند و خسارات را از طریق صندوق حفاظت کاربران جبران کند.",
-      "‏برداشت‌های ETH و USDT در تاریخ‌های بعدی به‌تدریج فعال می‌شوند."
-    ],
-    "body_fa": "‏صرافی Bitget اعلام کرد که پس از هک ۲۴ سپتامبر که حدود ۳۸۸ میلیون دلار دارایی را از کیف‌پول‌های گرم و گرم نیمه‌گرم آن به سرقت برد، برداشت‌های BTC را به‌صورت مرحله‌ای از سرگیری کرده است. این هک ناشی از سوءاستفاده از یک محصول امنیتی شخص ثالث بود که به مهاجم امکان دسترسی به اعتبارنامه‌های داخلی سطح بالا داد. Bitget تأکید کرد کلیدهای خصوصی و کیف‌پول‌های سرد تحت تأثیر قرار نگرفته‌اند و موجودی کاربران محفوظ است. خسارات به‌طور کامل توسط صندوق حفاظت کاربران جبران می‌شود و صرافی قول داده است که گزارش امنیتی رسمی را این هفته منتشر کند. برداشت‌های ETH ، BSC ، Arbitrum ، Base و Optimism از ۲۹ سپتامبر و USDT از ۳۰ سپتامبر باز می‌شوند، در حالی که سایر دارایی‌ها و برداشت‌های فیات تا ۲ اکتبر فعال می‌شوند. Bitget همچنین با همکاری Mandiant و SlowMist برای بررسی عمیق حادثه و بهبود کنترل‌های داخلی اقدام کرده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "هک و امنیت",
-    "tag": "Bitget",
-    "urgency": 9,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
-    "clean_url": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230911_Bitget_News.jpg",
-    "timestamp": 1790559000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b74992fe9c",
-    "title_fa": "‏RedotPay با تکمیل حسابرسی، برنامه IPO آمریکا را ادامه می‌دهد",
-    "title_en": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
-    "summary": [
-      "‏RedotPay حسابرسی مالی خود را تکمیل کرد تا برای IPO آمریکا آماده شود.",
-      "‏این گام نشان می‌دهد شرکت قصد دارد با ارزش بیش از 5 میلیارد دلار در بازار سهام عمومی حضور یابد.",
-      "‏شرکت همچنین بررسی‌های AML/CTF را توسط یکی از شرکت‌های بزرگ چهارگانه انجام داد."
-    ],
-    "body_fa": "‏شرکت RedotPay اعلام کرد که حسابرسی مالی خود را به اتمام رسانده تا برای عرضه عمومی در ایالات متحده آماده شود. این حسابرسی برای ارائه صورت‌های مالی تأییدشده در دفترچه عرضه ضروری است و نشان‌دهنده تعهد شرکت به شفافیت مالی است. RedotPay همچنین بررسی‌های ضد پولشویی و تأمین مالی تروریسم را توسط یکی از شرکت‌های بزرگ چهارگانه انجام داده است. شرکت هدف دارد با ارزش بیش از 5 میلیارد دلار در بازار سهام عمومی فهرست شود و تا جولای 8.5 میلیون کاربر دارد. این گام‌ها پس از گزارش‌های قبلی که می‌گفتند عرضه ممکن است تا 2027 به تعویق بیفتد، نشان از پیشرفت برنامه‌های عمومی‌سازی شرکت دارد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "عرضه عمومی",
-    "tag": "RedotPay",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
-    "clean_url": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b809e903b20dd26de1240800f8539bcb475389ca-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-    "timestamp": 1790556600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e044f8a4e7",
-    "title_fa": "‏قیمت نفت به‌دلیل ترس از جنگ ۳٪ جهش کرد",
-    "title_en": "Oil Prices Jump 3% on Rekindled War Fears",
-    "summary": [
-      "‏نفت برنت به 107.24 دلار و WTI به 94.10 دلار رسید؛ قیمت‌ها ۳٪ افزایش یافت.",
-      "‏افزایش به‌دلیل رد پیشنهاد صلح ایران توسط ترامپ و احتمال ادامه جنگ.",
-      "‏گزارش‌ها حاکی از احتمال ممنوعیت موقت دیزل و فشار بر عرضه نفت است."
-    ],
-    "body_fa": "‏قیمت نفت خام روز دوشنبه پس از رد پیشنهاد صلح ایران توسط رئیس‌جمهور ترامپ در مجمع عمومی سازمان ملل جهش کرد. در زمان نوشتن مقاله، نفت برنت 107.24 دلار و نفت West Texas Intermediate 94.10 دلار معامله می‌شد؛ این افزایش حدود ۳٪ بود. افزایش قیمت‌ها علاوه بر نگرانی‌های نظامی، تحت تأثیر خبر احتمالی ممنوعیت موقت دیزل توسط دولت فدرال آمریکا قرار گرفت که باعث کاهش تقاضای پالایشگاه‌ها و افزایش موجودی خام می‌شود. اگرچه گزارشی مبنی بر بهبود جریان نفت از خلیج فارس منتشر شد، اما ترس از ادامه جنگ بین ایالات متحده و ایران بر قیمت‌ها غلبه کرد. روزنامه Wall Street Journal اشاره کرد که ترامپ پس از انتخابات میانی نوامبر ممکن است حملات هوایی علیه ایران را از سر بگیرد، که می‌تواند تجارت نفت را برای مدت طولانی مختل کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "نفت",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Moves-Higher-on-Rekindled-War-Fears.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Moves-Higher-on-Rekindled-War-Fears.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-28_f3oghuaryn.jpg",
-    "timestamp": 1790548620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b80b5fd078",
-    "title_fa": "‏نوییدیا برنامه خرید سهام ۱۵۰ میلیارد دلاری را راه‌اندازی کرد",
-    "title_en": "Nvidia launches record $150bn share buyback",
-    "summary": [
-      "‏نوییدیا برنامه خرید سهام ۱۵۰ میلیارد دلاری را اعلام کرد",
-      "‏این اقدام بزرگ می‌تواند فشار خرید بر سهام شرکت را افزایش دهد و ارزش بازار را تقویت کند",
-      "‏خرید بازگشت در تاریخ شرکت بزرگ‌ترین مقدار تا به امروز است"
-    ],
-    "body_fa": "‏نوییدیا امروز برنامه خرید سهام خود را به مبلغ ۱۵۰ میلیارد دلار اعلام کرد که بزرگ‌ترین خرید بازگشت در تاریخ این شرکت است. این برنامه در قالب خریدهای دوره‌ای تا پایان سال مالی اجرا خواهد شد و هدف آن تقویت ارزش سهام و بازگرداندن نقدینگی به سرمایه‌گذاران است. با توجه به سود خالص سال گذشته که بیش از ۲۶ میلیارد دلار بود، این اقدام نشان‌دهنده توان مالی قوی شرکت است. تحلیل‌گران پیش‌بینی می‌کنند که این خبر می‌تواند فشار خرید بر سهام NVIDIA را افزایش داده و قیمت آن را در کوتاه‌مدت ارتقا دهد. همچنین، این خرید بازگشت می‌تواند فشار بر رقبای اصلی در حوزه پردازشگرهای گرافیکی را افزایش دهد. در مجموع، این برنامه نشانگر اعتماد مدیریت به آینده رشد شرکت و بازار هوش مصنوعی است.",
-    "category": "تکنولوژی",
-    "subcategory": "بازار سرمایه",
-    "tag": "Nvidia",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/88e87863-4cf6-4c4e-8858-f0099db350d4?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/88e87863-4cf6-4c4e-8858-f0099db350d4",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff2e826fe-4bdf-4ceb-b213-129347b8a32d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1790544180.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "17fcc222fe",
-    "title_fa": "‏نتانیه‌لو به ابوظبی رفت و شیخ محمد را ملاقات کرد",
-    "title_en": "Israel's Netanyahu visited Abu Dhabi on Sunday, Israeli official says",
-    "summary": [
-      "‏نتانیه‌لو روز یکشنبه به ابوظبی سفر کرد و با رئیس‌جمهور امارات دیدار کرد",
-      "‏دیدار نشانگر تقویت روابط اسرائیل‑امارات پس از توافق‌های عابرین ابراهیم است",
-      "‏مذاکرات شامل همکاری‌های اقتصادی و امنیتی در منطقه بود"
-    ],
-    "body_fa": "‏نخستین سفر رسمی نخست‌وزیر اسرائیل بنجامین نتانیه‌لو به امارات در تاریخ اخیر، روز یکشنبه در ابوظبی برگزار شد. او در این دیدار با شیخ محمد بن زاید آل نهیان، رئیس‌جمهور امارات، به بررسی مسیرهای گسترش همکاری‌های تجاری، انرژی و امنیتی پرداخت. این ملاقات پس از امضای توافق‌نامه‌های عابرین ابراهیم، نشان‌دهنده تمایل دو کشور به تعمیق روابط است و می‌تواند فرصت‌های سرمایه‌گذاری جدیدی برای شرکت‌های اسرائیلی و اماراتی ایجاد کند. تحلیل‌گران بر این باورند که این گام می‌تواند تعادل قدرت در خاورمیانه را تحت تأثیر قرار داده و نگرانی‌های ایران نسبت به هم‌پیمانی‌های منطقه‌ای را افزایش دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "روابط خاورمیانه",
-    "tag": "نتانیه‌لو",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/israels-netanyahu-visited-abu-dhabi-sunday-israeli-official-says-2026-09-27/",
-    "clean_url": "https://www.reuters.com/world/middle-east/israels-netanyahu-visited-abu-dhabi-sunday-israeli-official-says-2026-09-27",
-    "image": "https://s.yimg.com/bo/cb281603-2504-5ed1-8c77-1ec77cd0252b_1790540234928.jpg",
-    "timestamp": 1790539241.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e13e1297f8",
-    "title_fa": "‏اقدامات ترامپ باعث افزایش نرخ بهره و تورم شد",
-    "title_en": "The Moves That Backfired on Trump and Drove Interest Rates and Inflation Higher",
-    "summary": [
-      "‏سیاست‌های اقتصادی ترامپ منجر به فشار بر نرخ بهره و افزایش تورم شد",
-      "‏این تحولات به وعده‌های کاهش کسری بودجه و تثبیت اقتصاد آسیب زد",
-      "‏تحلیل‌گران می‌گویند این روند می‌تواند اثرات طولانی‌مدت بر سیاست‌های پولی داشته باشد"
-    ],
-    "body_fa": "‏در سال‌های نخست ریاست‌جمهوری دونالد ترامپ، برنامه‌های مالی شامل کاهش مالیات، افزایش هزینه‌های دفاعی و سهل‌انگاری در مقررات مالی اجرا شد. این سیاست‌ها باعث گسترش سریع کسری بودجه و افزایش فشار بر بازارهای اوراق قرضه شد. در واکنش، فدرال‌رزرو مجبور به افزایش نرخ بهره شد تا تورم را مهار کند. نتیجه این اقدامات، رشد قابل‌توجه نرخ بهره و بالا رفتن سطح قیمت‌ها در ایالات متحده بود. به‌همین دلیل وعده‌های ترامپ برای «ثابت‌سازی اقتصاد» و «کاهش کسری» به‌نظر می‌رسد که به‌طور جدی زیر سؤال رفته است. تحلیل‌گران هشدار می‌دهند که این روند می‌تواند برای سیاست‌گذاران پولی آینده چالش‌های جدیدی ایجاد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست‌های مالی",
-    "tag": "تورم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/economy/trump-economy-inflation-jobs-724e4da8",
-    "clean_url": "https://www.wsj.com/economy/trump-economy-inflation-jobs-724e4da8",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790532000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "76c11fb7f5",
-    "title_fa": "‏بانک‌های خارجی به ادغام با UBS علاقه نشان دادند",
-    "title_en": "Foreign banks have expressed UBS merger interest, Swiss newspaper reports",
-    "summary": [
-      "‏چند بانک بزرگ خارجی علاقه خود را به ادغام یا ترکیب با UBS اعلام کردند",
-      "‏این خبر می‌تواند ساختار بانکداری جهانی و بازارهای مالی را تحت تأثیر قرار دهد",
-      "‏روزنامه سوئیسی گزارش داد که مذاکرات اولیه در حال بررسی است"
-    ],
-    "body_fa": "‏پس از ادغام UBS با Credit Suisse ، چندین بانک بزرگ خارجی تمایل خود را برای ترکیب یا ادغام با این بانک سوئیسی ابراز کردند. این بانک‌ها شامل نام‌های شناخته‌شده‌ای هستند که به دنبال تقویت حضور خود در بازارهای اروپایی و جهانی می‌باشند. اگر این مذاکرات به توافق برسد، می‌تواند رقابت در بخش بانکداری سرمایه‌گذاری را به‌طور چشمگیری تغییر دهد و فشارهای نظارتی بیشتری را به همراه داشته باشد. تحلیل‌گران پیش‌بینی می‌کنند که خبر ادغام می‌تواند نوسان سهام UBS و بانک‌های مطرح دیگر را افزایش دهد و به‌خصوص در بازارهای ارز و اوراق قرضه تأثیرگذار باشد. در حال حاضر هنوز جزئیات دقیق یا توافق نهایی اعلام نشده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ادغام بانک‌ها",
-    "tag": "UBS",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/foreign-banks-have-expressed-ubs-merger-interest-swiss-newspaper-reports-2026-09-27/",
-    "clean_url": "https://www.reuters.com/legal/transactional/foreign-banks-have-expressed-ubs-merger-interest-swiss-newspaper-reports-2026-09-27",
-    "image": "https://s.yimg.com/bo/ada61a33-3cd9-5bab-adf0-add63223474d_1790529624053.jpg",
-    "timestamp": 1790528635.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "61dc222d0c",
-    "title_fa": "‏فدرال‌رزرو منافع شهر اصلی را پیش از وال‌استریت قرار داد",
-    "title_en": "For once, the Fed has put Main Street before Wall Street",
-    "summary": [
-      "‏فدرال‌رزرو تصمیمی گرفت که منافع شهر اصلی (مصرف‌کنندگان و کسب‌وکارهای کوچک) را پیش از وال‌استریت (بازارهای مالی) قرار دهد.",
-      "‏این تغییر نشانگر تمرکز جدید بر حمایت از اقتصاد واقعی و ممکن است فشارهای مالی را کاهش دهد.",
-      "‏جزئیات دقیق سیاست هنوز به‌طور کامل منتشر نشده."
-    ],
-    "body_fa": "‏فدرال‌رزرو در آخرین اقدام خود، به‌جای تمرکز بر ثبات بازارهای مالی، منافع شهر اصلی را در اولویت قرار داد. این تغییر رویکرد می‌تواند شامل تسهیل‌های نقدینگی، کاهش نرخ بهره یا برنامه‌های حمایتی برای خانوارها و شرکت‌های کوچک باشد. هدف اصلی این سیاست، تقویت رشد اقتصادی واقعی و کاهش فشارهای بانکی است، هرچند جزئیات دقیق هنوز به‌طور کامل اعلام نشده است. این گام احتمالاً تأثیراتی بر بازارهای سهام و شرایط اعتباری خواهد داشت و نشان‌دهنده تمایل بانک مرکزی به حمایت مستقیم از بخش واقعی اقتصاد است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "Fed",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
-    "clean_url": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1f330239-b2d9-4ce8-9ba7-aa4399b87bc4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1790528400.0,
     "sent_to_telegram": true
   }
 ]
