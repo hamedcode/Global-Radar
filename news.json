@@ -1,5 +1,27 @@
 [
   {
+    "id": "176f52d6f6",
+    "title_fa": "‏بازار IPO پس از عرضه ۷۵ میلیارد SpaceX رکود کرد",
+    "title_en": "IPO Market Stalls Four Months After SpaceX's $75 Billion Debut | OilPrice.com",
+    "summary": [
+      "‏SpaceX با عرضه ۷۵ میلیارد دلاری در ژوئن، انتظارات IPO را بالا برد؛ اما چهار ماه پس از آن، سرعت عرضه‌ها به‌طور قابل‌توجهی کاهش یافت.",
+      "‏این رکود باعث تعویق لیستینگ‌های Oura ، SB Energy ، EG Group و Holtec شد و نگرانی‌ها درباره ارزش‌گذاری‌های بالای هوش مصنوعی را تشدید کرد.",
+      "‏سهام SpaceX پس از رشد ۱۹٪ در روز اول، امروز حدود ۱۵۸٫۹ دلار معامله می‌شود."
+    ],
+    "body_fa": "‏پس از عرضهٔ تاریخی SpaceX به ارزش ۷۵ میلیارد دلار در ژوئن، بازار IPO به‌سرعت از شتاب خود کاست. شرکت‌های Oura ، SB Energy ، EG Group و Holtec یکی‌پس‌یکی لیستینگ‌های خود را به دلیل شرایط نامساعد بازار به تعویق انداختند. تحلیل‌گران رنسانس کپیتال معتقدند که انتظارات قیمت‌گذاری بیش از حد بالا برای این عرضه‌ها، با تقاضای سرد سرمایه‌گذاران هم‌راستا نیست. نگرانی‌ها پیرامون ارزش‌گذاری‌های سنگین در بخش هوش مصنوعی و «پاپ اند دراپ» پس از عرضه‌های پرتقاضا، فشار بیشتری بر بازار ایجاد کرده است. سهام SpaceX که در روز اول ۱۹٪ رشد کرد، امروز حدود ۱۵۸٫۹ دلار معامله می‌شود و نشانگر نزول تدریجی پس از اوج اولیه است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سرمایه",
+    "tag": "IPO",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Finance/investing-and-trading-reports/IPO-Market-Stalls-Four-Months-After-SpaceXs-75-Billion-Debut.html",
+    "clean_url": "https://oilprice.com/Finance/investing-and-trading-reports/IPO-Market-Stalls-Four-Months-After-SpaceXs-75-Billion-Debut.html",
+    "image": "https://s.yimg.com/bo/16d4a4da-92d7-5785-9c7a-2dacf378fe49_1791307872134.jpg",
+    "timestamp": 1791305679.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "350a5ccf3f",
     "title_fa": "‏بانک مرکزی آفریقای جنوبی خطر تورم دوم‌دوره‌ای را افزایش داد",
     "title_en": "South Africa central bank says second-round inflation risks rise",
@@ -19,6 +41,138 @@
     "clean_url": "https://www.reuters.com/world/africa/south-africa-central-bank-says-second-round-inflation-risks-rise-2026-10-06",
     "image": "https://s.yimg.com/bo/313c199e-def5-5b49-9459-8baa137c70d3_1791301880622.jpg",
     "timestamp": 1791300716.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4346cc7a30",
+    "title_fa": "‏Goldman Sachs در نقض داده‌های EY درگیر شد",
+    "title_en": "Goldman Sachs Ensnared in EY Data Breach Earlier This Year",
+    "summary": [
+      "‏Goldman Sachs در نقض امنیتی داده‌های EY که اوایل سال رخ داد، به‌عنوان یکی از مشتریان تحت تأثیر قرار گرفت.",
+      "‏این حادثه می‌تواند نگرانی‌های امنیتی و ریسک‌های قانونی برای بانک و مشاوران مالی را افزایش دهد.",
+      "‏EY هنوز جزئیات کامل نقض را منتشر نکرده است."
+    ],
+    "body_fa": "‏در اوایل سال جاری شرکت مشاوره‌ای EY دچار نقض داده‌های بزرگ شد که اطلاعات مشتریان آن را در معرض خطر قرار داد. یکی از مشتریان تحت تأثیر این رخداد، بانک سرمایه‌گذاری Goldman Sachs بود. جزئیات دقیق درباره نوع داده‌های سرقت‌شده هنوز منتشر نشده و EY در حال بررسی کامل حادثه است. این نقض می‌تواند به افزایش نگرانی‌های امنیتی و ریسک‌های قانونی برای Goldman Sachs و سایر مشتریان منجر شود. نظارت‌گران مالی احتمالاً به بررسی اثرات این حادثه بر روی تعهدات نظارتی و گزارش‌های مالی خواهند پرداخت.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "نقض داده",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/goldman-sachs-ensnared-in-ey-data-breach-earlier-this-year",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-06/goldman-sachs-ensnared-in-ey-data-breach-earlier-this-year",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791295500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "751a451062",
+    "title_fa": "‏سوءاستفاده‌گران با هوش مصنوعی متن باز تصاویر غیرقانونی می‌سازند",
+    "title_en": "Child Predators Turn to Open-Source AI to Make Unlimited Illegal Images",
+    "summary": [
+      "‏متجاوزان کودک از مدل‌های هوش مصنوعی متن باز برای تولید تصاویر غیرقانونی استفاده می‌کنند.",
+      "‏این روند باعث نگرانی‌های جدی در حوزه امنیت سایبری و درخواست محدودیت‌های قانونی می‌شود.",
+      "‏پلتفرم‌های متن باز مانند Stable Diffusion به‌سرعت در دسترس متجاوزان قرار گرفته‌اند."
+    ],
+    "body_fa": "‏Bloomberg گزارش داد که گروه‌های متجاوز از مدل‌های هوش مصنوعی متن باز برای ساخت تصاویر جنسی کودک استفاده می‌کنند. این مدل‌ها، از جمله Stable Diffusion و سایر ابزارهای تولید تصویر، می‌توانند به‌صورت خودکار صحنه‌های توهین‌آمیز را بدون نیاز به عکس‌های واقعی تولید کنند. مقامات قانون‌گذاری و نهادهای مبارزه با جرم‌های اینترنتی هشدار دادند که این فناوری امکان تولید نامحدود محتوای غیرقانونی را فراهم می‌کند. شرکت‌های توسعه‌دهنده این مدل‌ها تحت فشار برای افزودن محدودیت‌های محتوا و فیلترهای پیش‌فرض قرار گرفته‌اند. برخی کشورها در حال بررسی قوانین جدید برای محدود کردن توزیع و استفاده از مدل‌های متن باز هستند. این مسأله چالش‌های جدی برای تشخیص و حذف محتوای CSAM در پلتفرم‌های آنلاین ایجاد می‌کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "AI",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/features/2026-open-source-ai-models-fuel-csam/",
+    "clean_url": "https://www.bloomberg.com/features/2026-open-source-ai-models-fuel-csam",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791295200.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f16cb953f2",
+    "title_fa": "‏استارتاپ سیلیکون‌ولی جدید Underdog دستیار هوش مصنوعی خصوصی را معرفی کرد",
+    "title_en": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+    "summary": [
+      "‏سیگِل ون، بنیان‌گذار Underdog ، نسخه بتای دعوت‌پذیر یک دستیار هوش مصنوعی کاملاً خصوصی را راه‌اندازی کرد",
+      "‏این مدل به‌صورت کامل روی دستگاه کار می‌کند و داده‌های کاربر را در مک، ویندوز و به‌زودی لینوکس، آیفون و اندروید نگه می‌دارد",
+      "‏Underdog با موتور Husky و مدل ۲۷ میلیارد پارامتری، عملکردی مشابه Claude Opus 4.6 ارائه می‌دهد"
+    ],
+    "body_fa": "‏سیگِل ون، برنامه‌نویس خودآموخته و عضو برنامه Thiel Fellow ، روز دوشنبه نسخه بتای دعوت‌پذیر Underdog را منتشر کرد. Underdog یک دستیار هوش مصنوعی است که به‌صورت کامل روی دستگاه کاربر اجرا می‌شود و داده‌ها را در مک، ویندوز و به‌زودی در لینوکس، آیفون و اندروید نگه می‌دارد. برای اجرای مدل، ون موتور Husky را ساخته که با انتقال کمتر داده بین پردازنده اصلی و گرافیک، سرعت بالایی دارد. این دستیار از مدل ۲۷ میلیارد پارامتری Qwen3.8-27B استفاده می‌کند که در برخی بنچمارک‌ها با Claude Opus 4.6 رقابت می‌کند. Underdog به‌صورت رایگان و بدون تبلیغات عرضه می‌شود و ویژگی‌های امنیتی مانند رمزنگاری کلیدهای حساب‌های کاربری را نیز دارد.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Underdog",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+    "clean_url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+    "timestamp": 1791294480.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8b30099e02",
+    "title_fa": "‏استارتاپ AI Lambda IPO 2027 تا 4 میلیارد دلار جذب می‌کند",
+    "title_en": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "summary": [
+      "‏Lambda ، ارائه‌دهندهٔ خدمات ابری AI ، تا 4 میلیارد دلار در دور سرمایه‌گذاری پیش از IPO جمع‌آوری می‌کند.",
+      "‏این جذب سرمایه با ارزیابی 14.5 میلیارد دلار و قرارداد 35 میلیارد دلاری با Anthropic ، نشان از تقاضای شدید برای توان محاسباتی GPU دارد.",
+      "‏سرمایه‌گذاری توسط Coatue و Blackstone رهبری می‌شود و می‌تواند قیمت‌گذاری IPO 2027 را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏شرکت ابری Lambda قصد دارد حداکثر 4 میلیارد دلار در دور سرمایه‌گذاری جدید جمع‌آوری کند؛ این مبلغ بر پایهٔ ارزیابی پیش‌پولی 14.5 میلیارد دلار است و احتمالاً آخرین دور خصوصی پیش از IPO برنامه‌ریزی‌شده برای سال 2027 خواهد بود. دور سرمایه‌گذاری توسط Coatue Management و Blackstone رهبری می‌شود. حجم سفارشات Lambda از 15 میلیارد دلار در ژوئن به 50 میلیارد دلار در سپتامبر افزایش یافته است که عمدتاً به دلیل تعهد 35 میلیارد دلاری Anthropic است. ساخت مراکز داده عمدتاً با بدهی تأمین می‌شود؛ شرکت همین‌طور هفتهٔ گذشته یک میلیارد دلار بدهی جدید جذب کرده است. این جذب سرمایه نه تنها برای تعیین قیمت IPO مهم است، بلکه قبل از ورود به بازارهای عمومی به Lambda سرمایهٔ کافی می‌دهد. در صورت IPO ، Lambda به جمع neocloud های پشتیبانی‌شده توسط Nvidia مانند CoreWeave و Nebius خواهد پیوست.",
+    "category": "تکنولوژی",
+    "subcategory": "سرمایه‌گذاری",
+    "tag": "Lambda",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "clean_url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+    "timestamp": 1791291600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1398cc93d2",
+    "title_fa": "‏سِگا هوش مصنوعی را تجاری می‌گیرد؛ خلاقیت را نمی‌سپارد",
+    "title_en": "SEGA Exec Says AI Already in Use at Studio but Not for Creative Tasks",
+    "summary": [
+      "‏سِگا اعلام کرد که هوش مصنوعی را برای بهبود کارهای تجاری و ایده‌پردازی به کار می‌برد.",
+      "‏اما شرکت می‌گوید خلاقیت بازی‌ها به AI واگذار نمی‌شود و فرآیندهای خلاقی به صورت انسانی باقی می‌مانند.",
+      "‏این رویکرد در مقایسه با استودیوهایی مثل Pearl Abyss که از دارایی‌های AI استفاده می‌کنند، متفاوت است."
+    ],
+    "body_fa": "‏سِگا در مصاحبه‌ای با Nikkei درباره تأثیر هوش مصنوعی بر تولید بازی‌ها گفت که این فناوری را در بخش‌های تجاری و ایده‌پردازی به کار گرفته است تا کارایی انتشار و تصمیم‌گیری‌های کسب‌وکار را ارتقا دهد. اما به وضوح تأکید کرد که در فرآیندهای خلاقانه بازی‌سازی، هوش مصنوعی نقش ندارد و خلاقیت به عهده تیم‌های توسعه می‌ماند. سِگا این سیاست را «محدود» می‌نامد و می‌گوید شاید در آینده برای تولید دارایی‌های موقت یا جایگزین‌های بصری از AI استفاده کند، اما در حال حاضر تمرکز بر حفظ کیفیت خلاقی است. این رویکرد در حالی مطرح می‌شود که استودیوهای دیگری مانند Pearl Abyss ، Panache Games و Sandbox Interactive پیش‌تر از دارایی‌های تولید شده توسط AI در بازی‌های خود استفاده کرده‌اند. استفاده هوش مصنوعی در بخش‌های غیرخلاقی می‌تواند هزینه‌ها را کاهش دهد و زمان توسعه را کوتاه‌تر کند، اما نگرانی‌ها درباره تأثیر بر شغل‌های انسانی و کیفیت نهایی بازی همچنان پابرجاست.",
+    "category": "گیم",
+    "subcategory": "هوش مصنوعی در بازی",
+    "tag": "AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechPowerUp",
+    "url": "https://www.techpowerup.com/353438/sega-exec-says-ai-already-in-use-at-studio-but-not-for-creative-tasks",
+    "clean_url": "https://www.techpowerup.com/353438/sega-exec-says-ai-already-in-use-at-studio-but-not-for-creative-tasks",
+    "image": "https://www.techpowerup.com/img/1MASSuUkrBqgVvkB.jpg",
+    "timestamp": 1791291300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1919c6de32",
+    "title_fa": "‏بحران هزینه زندگی بر انتظارات تورمی و فقر اثر دارد",
+    "title_en": "Cost-of-living crises have lasting impact on inflation expectations, poverty,...",
+    "summary": [
+      "‏قیمت‌های غذا و انرژی به‌سرعت افزایش یافتند و شواهد نشان می‌دهد این جهش‌ها مکرر می‌شوند.",
+      "‏این وضعیت انتظارات تورمی را بالا می‌برد و فقر را در کشورهای در حال توسعه تشدید می‌کند.",
+      "‏صندوق بین‌المللی پول این روند را هشدار داده و خواستار سیاست‌های حمایتی می‌شود."
+    ],
+    "body_fa": "‏صندوق بین‌المللی پول اعلام کرد که نوسانات شدید قیمت غذا و انرژی احتمالاً به‌صورت مکرر رخ خواهد داد. این جهش‌های قیمت، انتظارات عمومی نسبت به تورم را در بلندمدت افزایش می‌دهد. در نتیجه، فشارهای تورمی بر خانوارهای کم‌درآمد بیشتر می‌شود و سطح فقر در بسیاری از کشورهای در حال توسعه تشدید می‌گردد. سازمان بر این باور است که سیاست‌های حمایتی و اقدامات برای تثبیت قیمت‌ها برای جلوگیری از اثرات طولانی‌مدت ضروری است. این هشدار می‌تواند بر تصمیمات بانک‌های مرکزی و برنامه‌های مالی دولتی در سراسر جهان تأثیر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تورم و فقر",
+    "tag": "قیمت‌غذا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/cost-of-living-crises-have-lasting-impact-inflation-expectations-poverty-imf-2026-10-06/",
+    "clean_url": "https://www.reuters.com/world/asia-pacific/cost-of-living-crises-have-lasting-impact-inflation-expectations-poverty-imf-2026-10-06",
+    "image": "https://s.yimg.com/bo/3d52b7e5-e945-59fc-aa4b-1fc9334812d4_1791293253645.jpg",
+    "timestamp": 1791291276.0,
     "sent_to_telegram": true
   },
   {
@@ -44,6 +198,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "d014dc170c",
+    "title_fa": "‏CRX Trade پلتفرم ترکیب رمزارز و بورس را راه‌اندازی کرد",
+    "title_en": "CRX Trade launches Swiss prime brokerage bridging crypto exchanges and Wall Street, as tokenized stock trading surges",
+    "summary": [
+      "‏CRX Trade یک پلتفرم جدید برای کارگزاری مؤسسه‌ای راه‌اندازی کرد که امکان معامله همزمان در صرافی‌های رمزارز و بازارهای سنتی آمریکا را فراهم می‌کند.",
+      "‏این سرویس با یک حساب و یک منبع وثیقه، دسترسی به ده صرافی و بورس را برای سرمایه‌گذاران حرفه‌ای ساده می‌کند و شکاف بین دارایی‌های دیجیتال و سنتی را می‌پوشاند.",
+      "‏پلتفرم از فناوری CoinRoutes بهره می‌برد و امکان استفاده از بیت‌کوین، استیبل‌کوین یا طلا توکنیزه به عنوان وثیقه را می‌دهد."
+    ],
+    "body_fa": "‏شرکت سوئیسی CRX Trade امروز پلتفرمی را برای کارگزاری مؤسسه‌ای عرضه کرد که به صندوق‌های پوشش ریسک و شرکت‌های معاملاتی امکان می‌دهد با یک حساب واحد در صرافی‌های پیشرو رمزارز مانند Binance ، Bybit و Hyperliquid و همچنین در بازارهای سنتی آمریکا نظیر Nasdaq ، CME و Nasdaq معامله کنند. این سرویس با استفاده از فناوری CoinRoutes ، الگوریتم‌های پیشرفته معاملاتی و یک منبع وثیقه مشترک را فراهم می‌کند؛ به‌طوری‌که بیت‌کوین، استیبل‌کوین یا طلا توکنیزه می‌تواند به عنوان وثیقه برای تمام معاملات به کار رود. این قابلیت باعث می‌شود سرمایه‌گذاران نیازی به نگهداری وجوه جداگانه در پلتفرم‌های مختلف نداشته باشند و بتوانند موقعیت‌های خود را به‌صورت یکپارچه گزارش کنند. CRX Trade این کار را از زوگ، در «دره رمزارز» سوئیس انجام می‌دهد و به‌نظر می‌رسد مرز بین دارایی‌های دیجیتال و اوراق سنتی را سریع‌تر از زیرساخت‌های موجود می‌پوشاند. این گام می‌تواند پذیرش مؤسسات مالی در بازارهای توکنیزه را تسریع کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "بروکرهای دیجیتال",
+    "tag": "CRX Trade",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/sponsored/2026-10-06-crx-trade-launches-swiss-prime-brokerage-bridging-crypto-exchanges-and-wall-street-as-tokenized-stock-trading-surges-417847",
+    "clean_url": "https://www.theblock.co/sponsored/2026-10-06-crx-trade-launches-swiss-prime-brokerage-bridging-crypto-exchanges-and-wall-street-as-tokenized-stock-trading-surges-417847",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-06-at-2.53.28 PM.png",
+    "timestamp": 1791285780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4fa76f509f",
+    "title_fa": "‏وام‌های بحرانی آمریکا به بالاترین سطح پس از همه‌گیری رسید",
+    "title_en": "Deeply Distressed US Loans Rise to Highest Level Since Pandemic, JPMorgan Says",
+    "summary": [
+      "‏وام‌های بسیار مشکل‌دار در ایالات متحده به بالاترین سطح از زمان همه‌گیری کرونا رسید.",
+      "‏جپ‌مورگان این افزایش را هشدار داد و نشان می‌دهد فشارهای اعتباری در اقتصاد آمریکا در حال تشدید است.",
+      "‏این روند می‌تواند ریسک‌های سیستیک را برای بانک‌ها و سرمایه‌گذاران افزایش دهد."
+    ],
+    "body_fa": "‏جپ‌مورگان اعلام کرد که میزان وام‌های بسیار مشکل‌دار در ایالات متحده به بالاترین سطح از زمان شروع همه‌گیری کرونا رسیده است. این وام‌ها شامل بدهی‌های تجاری و مصرفی هستند که به دلیل فشارهای اقتصادی و نرخ بهره بالا، خطر نکول بیشتری دارند. رشد این شاخص نشان می‌دهد که فشارهای اعتباری در اقتصاد آمریکا در حال تشدید است و می‌تواند به کاهش توان خرید و سرمایه‌گذاری منجر شود. بانک‌ها و مؤسسات مالی ممکن است برای پوشش خسارات احتمالی، ذخایر سرمایه‌ای بیشتری کنار بگذارند. این وضعیت می‌تواند نوسانات بازارهای سهام و اوراق قرضه را تقویت کند و نگرانی‌های سرمایه‌گذاران جهانی را افزایش دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "وام‌های مشکل‌دار",
+    "tag": "وام‌های‌دشوار",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/deeply-distressed-us-loans-rise-to-highest-level-since-pandemic",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-06/deeply-distressed-us-loans-rise-to-highest-level-since-pandemic",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791285000.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "106cca133a",
     "title_fa": "‏ذخیره‌گاه جهانی نفت تقریباً تمام شده است",
     "title_en": "The world has nearly burned through its oil stockpile buffer, executives say",
@@ -63,6 +261,28 @@
     "clean_url": "https://www.reuters.com/business/energy/world-has-nearly-burned-through-its-oil-stockpile-buffer-executives-say-2026-10-06",
     "image": "https://www.reuters.com/resizer/v2/CFFYJFHUXVLDBBQ5JM2V7H6KIM.jpg?auth=63dfd3d4a3ce49c5c5500193d9d5d5baaa917e5e2b44edd2d1703a4055ba0f8e&height=1005&width=1920&quality=80&smart=true",
     "timestamp": 1791282360.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2c9538bb14",
+    "title_fa": "‏DeepSeek و Moonshot قبل IPO میلیاردها دلار جذب سرمایه کردند",
+    "title_en": "Chinese AI funding surges as us rivals pursue trillion-dollar valuations",
+    "summary": [
+      "‏شرکت‌های چینی DeepSeek و Moonshot هر کدام قبل از عرضه عمومی سهام، میلیاردها دلار سرمایه جذب کردند.",
+      "‏این جذب سرمایه نشان‌دهنده تشدید رقابت هوش مصنوعی بین چین و آمریکا و می‌تواند تأثیر قابل‌توجهی بر بازارهای فناوری داشته باشد.",
+      "‏DeepSeek هدف دارد تا تا اوایل 2027 در بورس چین لیست شود؛ Moonshot نیز IPO هانگ‌کنگ در همان سال برنامه دارد."
+    ],
+    "body_fa": "‏شرکت‌های چینی DeepSeek و Moonshot در پی رقابت شدید هوش مصنوعی با آمریکا، به‌سرعت سرمایه‌های چند میلیارد دلاری جذب کرده‌اند. DeepSeek در آستانه دور مالی حداقل 12 میلیارد دلار است که ممکن است تا 15 میلیارد دلار برسد و توسط Tencent و CATL پشتیبانی می‌شود. این شرکت قصد دارد تا اوایل سال 2027 در بورس چین لیست شود. Moonshot پس از تکمیل دور خصوصی آخرین خود، با ارزش‌گذاری 50 میلیارد دلاری، هدف IPO در هانگ‌کنگ در سه‌ماهه اول 2027 را دارد. شرکت انتظار دارد درآمدهای تکراری سالانه خود را تا دسامبر به 2 میلیارد دلار برساند که دو برابر سطح فعلی است. این جذب سرمایه‌های عظیم نشان می‌دهد که سرمایه‌گذاران جهانی به سرعت به سمت توسعه مدل‌های هوش مصنوعی پیشرفته می‌روند و می‌تواند فشار رقابتی بر OpenAI و سایر شرکت‌های آمریکایی را افزایش دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
+    "tag": "هوش‌مصنوعی",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+    "image": "https://s.yimg.com/bo/abc11de6-4feb-5e49-aa69-a8ce8d185ee1_1791280099023.jpg",
+    "timestamp": 1791280478.0,
     "sent_to_telegram": true
   },
   {
@@ -129,6 +349,28 @@
     "clean_url": "https://www.ign.com/articles/state-of-decay-3-revealed-early-anxiety-xbox",
     "image": "https://assets-prd.ignimgs.com/2024/06/04/stateofdecay-1595521281669-1662408473018-1717509269199.jpg?width=1280&format=jpg&auto=webp&quality=80",
     "timestamp": 1791274260.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a63f796eac",
+    "title_fa": "‏وینکلِووس برای ETF زکش با کارمزد 0.25% درخواست داد",
+    "title_en": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
+    "summary": [
+      "‏گروه وینکلِووس یک ETF زکش با کارمزد سالانه 0.25% و نماد WINK در Nasdaq ثبت کرد.",
+      "‏این صندوق می‌تواند رقابت جدیدی برای ETF زکش Grayscale ایجاد کند و تا 100 میلیون دلار سرمایه‌گذاری جذب کند.",
+      "‏Gemini به عنوان نگهدارنده رسمی زکش انتخاب شد."
+    ],
+    "body_fa": "‏وینکلِووس آسِت سرویسز پرونده پیش‌ثبت S‑1 را برای یک ETF زکش (ZEC) در بورس Nasdaq ارائه داد. صندوق پیشنهادی مستقیماً ZEC را نگهداری می‌کند، Gemini Trust Company به عنوان نگهدارنده انتخاب شده و کارمزد سالانه 0.25% دریافت می‌کند. نماد معاملاتی این ETF «WINK» خواهد بود و وینکلِووس کپیتال فاند اعلام کرد تا 100 میلیون دلار سهام به‌صورت غیرمتعهد خریداری می‌کند. این طرح سومین تلاش برای راه‌اندازی ETF زکش در ایالات متحده پس از Grayscale و Bitwise است و می‌تواند فشار رقابتی بر ZCSH ایجاد کند. همچنین وینکلِووس با Cypherpunk Technologies برای حمایت از توسعه پروتکل زکش و نظرسنجی دارندگان سکه همکاری کرده است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ETF زکش",
+    "tag": "Zcash",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
+    "clean_url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/03/winklevoss-twins-news.png",
+    "timestamp": 1791274140.0,
     "sent_to_telegram": true
   },
   {
@@ -217,6 +459,28 @@
     "clean_url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/2617f5fb4a186cef3a6ec88dad9df90c0cee0029-1920x1080.jpg?auto=format&q=75",
     "timestamp": 1791266520.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b8870e9d66",
+    "title_fa": "‏کپیتان‌ها ماهانه ۱۰۰٬۰۰۰ دلار برای عبور تنگه هرمز دریافت کردند",
+    "title_en": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
+    "summary": [
+      "‏کپیتان‌های کشتی‌ها برای عبور از تنگه هرمز ماهانه ۱۰۰٬۰۰۰ دلار دریافت کردند",
+      "‏این هزینهٔ خطر بالا می‌تواند هزینه حمل‌ونقل نفت و کالاها را افزایش دهد",
+      "‏به‌دلیل تنش‌های منطقه‌ای و تهدیدات امنیتی این مبلغ پرداخت می‌شود"
+    ],
+    "body_fa": "‏به گزارش Financial Times ، کپیتان‌های کشتی‌های عبوری از تنگه هرمز ماهانه ۱۰۰٬۰۰۰ دلار دریافت می‌کنند. این مبلغ به‌عنوان حق‌الزحمهٔ خطر برای عبور از یکی از مهم‌ترین مسیرهای نفتی جهان پرداخت می‌شود. افزایش هزینهٔ عبور می‌تواند نرخ حمل‌ونقل نفت و کالاهای دیگر را بالا برده و فشار بر قیمت‌های جهانی را تقویت کند. این پرداخت‌ها نشانگر تشدید تنش‌های ژئوپلیتیک در منطقه و نگرانی‌های امنیتی پیرامون تنگه هرمز است. اگر این روند ادامه یابد، ممکن است شرکت‌های حمل‌ونقل مسیرهای جایگزین یا هزینه‌های بالاتر را به مشتریان منتقل کنند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "هزینه عبور",
+    "tag": "هزینه‌کپیتان",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4c7c2b48-a025-48b9-9c64-9f6bbb8442cc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+    "timestamp": 1791266400.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,270 +6597,6 @@
     "clean_url": "https://www.reuters.com/legal/transactional/miners-bound-megadeal-playbook-pursuit-global-scale-2026-09-28",
     "image": "https://s.yimg.com/bo/07845b81-16f1-5965-9ab6-628c568e51af_1790616623472.jpg",
     "timestamp": 1790615268.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "dc3fda7145",
-    "title_fa": "‏کاست برنامه 1.3 میلیارد برای 100 هزار شغل را اعلام کرد",
-    "title_en": "Chile's Kast unveils $1.3 billion plan to create 100,000 jobs",
-    "summary": [
-      "‏رئیس‌جمهور شیلی، خوزه آنتونیو کست، طرح 1.3 میلیارد دلاری برای ایجاد 100 هزار شغل را معرفی کرد.",
-      "‏طرح هدف دارد تا اشتغال‌زایی را تقویت کند و بهبود رشد اقتصادی پس از بحران‌های اخیر را تسریع نماید.",
-      "‏طرح شامل سرمایه‌گذاری در زیرساخت‌ها و حمایت از صنایع کلیدی است."
-    ],
-    "body_fa": "‏رئیس‌جمهور خوزه آنتونیو کست روز دوشنبه برنامه‌ای به ارزش 1.3 میلیارد دلار برای ایجاد 100,000 شغل در شیلی را رونمایی کرد. این طرح بر سرمایه‌گذاری در زیرساخت‌ها، انرژی‌های تجدیدپذیر و بخش‌های گردشگری متمرکز است و از ترکیبی از منابع عمومی و جذب سرمایه‌گذاری خصوصی تأمین مالی می‌شود. دولت انتظار دارد که این برنامه در دو سال آینده حدود 0.5 درصد به تولید ناخالص داخلی اضافه کند. اولویت‌ها به مناطق با نرخ بیکاری بالا اختصاص دارد تا توزیع عادلانه‌تری از فرصت‌های شغلی ایجاد شود. منتقدان نگران پایداری مالی این طرح هستند و خواستار شفافیت بیشتر در نحوه اجرا می‌باشند. این اقدام بخشی از برنامه کلی کست برای احیای رشد اقتصادی پس از رکود اخیر است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست اقتصادی",
-    "tag": "اشتغال",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/chiles-kast-unveils-13-billion-plan-create-100000-jobs-2026-09-28/",
-    "clean_url": "https://www.reuters.com/world/americas/chiles-kast-unveils-13-billion-plan-create-100000-jobs-2026-09-28",
-    "image": "https://s.yimg.com/bo/c29b6f79-e829-57c1-84c5-9e99fb569073_1790616869864.jpg",
-    "timestamp": 1790615208.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "19a3f38cda",
-    "title_fa": "‏چین‌لینک CCIP 2.0 را برای کنترل امنیتی بیشتر برنامه‌ها عرضه کرد",
-    "title_en": "Chainlink launches CCIP 2.0 to give big crypto apps more control over their...",
-    "summary": [
-      "‏چین‌لینک نسخه جدید CCIP 2.0 را معرفی کرد که امکان افزودن چک‌های امنیتی سفارشی به انتقالات بین زنجیره‌ای را می‌دهد.",
-      "‏این ارتقا پس از هک 292 میلیون دلاری Kelp DAO که به دلیل یک تأییدکننده در پل LayerZero بود، اهمیت امنیت را برجسته می‌کند.",
-      "‏کاربران بدون افزودن تأییدکننده‌های خود فقط به شبکه پیش‌فرض 16 اپراتور چین‌لینک متکی می‌شوند."
-    ],
-    "body_fa": "‏چین‌لینک روز دوشنبه نسخهٔ به‌روز شدهٔ پروتکل Cross‑Chain Interoperability Protocol (CCIP) 2.0 را رونمایی کرد. این به‌روزرسانی به برنامه‌های DeFi و سایر برنامه‌های بلاکچینی اجازه می‌دهد تا چک‌های امنیتی سفارشی خود را به انتقالات بین زنجیره‌ای اضافه کنند. پیش از این، شبکهٔ مدیریت ریسک چین‌لینک به‌صورت جداگانه عمل می‌کرد، اما در CCIP 2.0 کاربران بدون افزودن تأییدکننده‌های خود تنها به شبکهٔ پیش‌فرض 16 اپراتور متکی می‌شوند. این تغییر پس از هک 292 میلیون دلاری Kelp DAO در آوریل صورت گرفت که به دلیل استفاده از یک تأییدکننده در پل رقیب LayerZero رخ داد. Kelp پس از حمله توکن rsETH خود را به پل‌های چین‌لینک منتقل کرد. چین‌لینک همچنین امکان استفاده از تأییدکننده‌های خارجی مانند Infosys و Nethermind را برای تقویت امنیت فراهم کرده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پروتکل‌های میان‌زنجیره‌ای",
-    "tag": "CCIP2.0",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
-    "clean_url": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
-    "image": "https://s.yimg.com/bo/432d96ad-a999-5aa5-8ce6-e284b7f6f8c5_1790599536849.jpg",
-    "timestamp": 1790597719.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c1b83432a7",
-    "title_fa": "‏سهام AngloGold Ashanti 7.3 ٪ سقوط کرد",
-    "title_en": "AngloGold Ashanti Shares Fall 7.3% as Oil Prices and Treasury Yields Rise",
-    "summary": [
-      "‏سهام AngloGold Ashanti در پیش‌بازار 7.3 ٪ به 91.81 دلار افتاد.",
-      "‏افزایش قیمت نفت و سیر بالاتر اوراق خزانه‌داری آمریکا هزینه‌های استخراج را بالا برد و جذابیت طلا را کاهش داد.",
-      "‏همچنین BMO Capital این سهام را از Outperform به Market Perform کاهش رتبه داد."
-    ],
-    "body_fa": "‏AngloGold Ashanti در پیش‌بازار 7.3 ٪ کاهش یافت و قیمت سهام به 91.81 دلار رسید. این افت همزمان با افزایش قیمت نفت برنت بالای 108 دلار در هر بشکه و سیر صعودی اوراق 10‑ساله آمریکا به بالای 5.2 ٪ رخ داد. افزایش هزینه‌های انرژی می‌تواند هزینه استخراج طلا را بالا ببرد و نرخ بهره بالاتر جذابیت طلا نسبت به سهام طلا را کاهش دهد. علاوه بر این، BMO Capital سهام AngloGold Ashanti را از “Outperform” به “Market Perform” کاهش داد، اگرچه هدف قیمتی جدید اعلام نشد. نتایج سه ماهه اخیر شرکت نیز کمتر از انتظارات بازار برای سود هر سهم و درآمد بود. شاخص‌های اصلی آمریکا نیز در همان روز کاهش یافتند؛ S&P 500 ، Dow Jones و Nasdaq به ترتیب 0.5 ٪، 0.6 ٪ و 0.9 ٪ سقوط کردند. این ترکیب عوامل باعث فشار فروش بر سهام‌های معدن طلا شد.",
-    "category": "انرژی و کالا",
-    "subcategory": "سهام طلا",
-    "tag": "AngloGold",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "InvestorsHub · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-shares-fall-7-120810631.html",
-    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-shares-fall-7-120810631.html",
-    "image": "https://media.zenfs.com/en/investorshub_458/bd30fa79189756b4c31779ca32b776fb.png.cf.jpg",
-    "timestamp": 1790596126.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bb65d08ebb",
-    "title_fa": "‏Stelco عملیات فولاد را به‌دلیل تعرفه‌ها متوقف می‌کند",
-    "title_en": "Cliffs’ Stelco Set to Idle Some Steel Operations on Tariffs",
-    "summary": [
-      "‏Stelco متعلق به Cliffs برخی عملیات فولاد را به‌دلیل تعرفه‌ها متوقف می‌کند.",
-      "‏این توقف می‌تواند تأثیراتی بر عرضه فولاد و زنجیره تأمین داشته باشد.",
-      "‏جزئیات دقیق دربارهٔ مقیاس و مدت زمان توقف هنوز منتشر نشده است."
-    ],
-    "body_fa": "‏شرکت Stelco که زیرمجموعه Cliffs است، اعلام کرد برخی از عملیات تولید فولاد خود را به‌دلیل تعرفه‌های جدید متوقف خواهد کرد. این تصمیم در واکنش به سیاست‌های تجاری اخیر اتخاذ شده است. ایستادن این خطوط می‌تواند عرضه فولاد این شرکت را کاهش دهد و ممکن است بر قیمت‌های بازار تأثیر بگذارد. جزئیات دقیق دربارهٔ مقیاس توقف یا مدت زمان آن هنوز منتشر نشده است. این اقدام نشان‌دهنده حساسیت صنعت فولاد به تغییرات تعرفه‌ای است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تعرفه‌های تجاری",
-    "tag": "Stelco",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/cliffs-s-stelco-set-to-idle-some-steel-operations-on-tariff-woes",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-09-28/cliffs-s-stelco-set-to-idle-some-steel-operations-on-tariff-woes",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790595840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0fd55f4aae",
-    "title_fa": "‏قیمت طلا به پایین‌ترین سطح هفت هفته‌ای رسید",
-    "title_en": "Gold Sinks To 7-Week Low As Treasury Yields, Fed Hike Bets Rise — Hansen Warns B...",
-    "summary": [
-      "‏قیمت طلا به حدود ۴٬۱۵۶ دلار در هر اونس کاهش یافت، پایین‌ترین سطح از ۵ اوت",
-      "‏کاهش به دلیل افزایش بازده اوراق خزانه‌داری آمریکا و انتظارات از افزایش نرخ بهره فدرال رزرو بود",
-      "‏تحلیل‌گران هشدار دادند فشارهای اعتباری می‌تواند فشار فروش بیشتری بر طلا وارد کند"
-    ],
-    "body_fa": "‏قیمت لحظه‌ای طلا به حدود ۴٬۱۵۶ دلار در هر اونس سقوط کرد که پایین‌ترین سطح آن از ۵ اوت بود. این افت ۳ درصدی ناشی از افزایش بازده اوراق قرضه دولتی آمریکا بود که ۱۰ ساله به بالای ۵٫۲٪ و ۳۰ ساله به بیش از ۵٫۳٪ رسید. رشد بازده‌ها باعث شد سرمایه‌گذاران به دارایی‌های سودآور مانند اوراق خزانه‌داری روی آورند و تقاضای پناهگاهی برای طلا کاهش یابد. علاوه بر این، پیش‌بینی ۷۰٫۳٪ احتمال افزایش نرخ بهره فدرال رزرو در ماه اکتبر، فشار بیشتری بر طلا وارد کرد. تحلیل‌گران همچنان می‌گویند که اگر فشارهای اعتباری تشدید شود، طلا می‌تواند به عنوان منبع نقدینگی به فروش برسد و فشار فروش کوتاه‌مدت را تشدید کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Stocktwits · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/commodities/articles/gold-sinks-7-week-low-114144964.html",
-    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/gold-sinks-7-week-low-114144964.html",
-    "image": "https://media.zenfs.com/en/stocktwits_383/5954b5617b2e37a302daee7a424a8e40",
-    "timestamp": 1790595689.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "55d3e6eb08",
-    "title_fa": "‏رد بل علیه هند برای واژه «نوشیدنی انرژی» دادخواهی کرد",
-    "title_en": "Red Bull sues India regulator for 'energy drink' descriptor ban, cites...",
-    "summary": [
-      "‏شرکت رد بل علیه سازمان نظارتی هند برای ممنوعیت استفاده از واژه «نوشیدنی انرژی» به دادگاه رفته است.",
-      "‏این اقدام می‌تواند بر برندینگ و فروش نوشیدنی‌های انرژی‌زا در بازار بزرگ هند تأثیر بگذارد.",
-      "‏شرکت ادعا می‌کند ممنوعیت بدون دلیل علمی و به‌نقض قوانین تجارت است."
-    ],
-    "body_fa": "‏رد بل، بزرگ‌ترین تولیدکننده نوشیدنی‌های انرژی‌زا، پرونده‌ای را علیه سازمان نظارتی هند (FSSAI) برای ممنوعیت استفاده از واژه «نوشیدنی انرژی» به دادگاه تجاری ارائه داد. شرکت می‌گوید این تصمیم بدون بررسی علمی و به‌نقض قوانین تجارت آزاد اتخاذ شده و به برندینگ و سهم بازار آن آسیب می‌زند. رد بل درخواست دارد تا ممنوعیت لغو شود و بتواند به‌صورت معمول از این توصیف در بسته‌بندی و تبلیغات استفاده کند. اگر دادگاه به نفع رد بل حکم کند، می‌تواند پیش‌نمونه‌ای برای سایر شرکت‌های نوشیدنی در هند باشد و مقررات برچسب‌گذاری را بازنگری کند. این دعوی نشان می‌دهد که فشارهای قانونی بر برندهای بین‌المللی در بازارهای نوظهور در حال افزایش است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قوانین تجاری",
-    "tag": "رد بل",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/red-bull-sues-india-regulator-energy-drink-descriptor-ban-cites-investment-2026-09-28/",
-    "clean_url": "https://www.reuters.com/legal/litigation/red-bull-sues-india-regulator-energy-drink-descriptor-ban-cites-investment-2026-09-28",
-    "image": "https://s.yimg.com/bo/e9a2e5ac-b1ad-50fe-90d5-feef4e48f760_1790596529381.jpg",
-    "timestamp": 1790595631.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "edc2c184de",
-    "title_fa": "‏هوش مصنوعی هک را تسریع کرد؛ بیمارستان‌ها و بانک‌ها بی‌پاسخ",
-    "title_en": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "summary": [
-      "‏سازمان Vivian’s Door در آلاباما توسط حمله‌ای که هوش مصنوعی تقویت کرده بود، سیستم‌ها را سه روز خاموش کرد و ۳۰۰۰ دلار هزینه کرد.",
-      "‏این حادثه نشان می‌دهد هوش مصنوعی می‌تواند هک را برای سازمان‌های کوچک آسان کند و بیمارستان‌ها و بانک‌ها هنوز آمادگی لازم را ندارند.",
-      "‏در حالی که شرکت‌های بزرگ ابزارهای دفاعی هوش مصنوعی عرضه می‌کنند، کاربران عادی در برابر این تهدید نوظهور آسیب‌پذیرند."
-    ],
-    "body_fa": "‏در ماه مارس، Janice Malone از سازمان غیرانتفاعی Vivian’s Door در آلاباما تماس‌های متعددی دربارهٔ فعالیت‌های مشکوک دریافت کرد؛ ایمیل‌های تقلبی که به‌نظر می‌رسید از طرف سازمان ارسال شده‌اند. تیم فناوری اطلاعات ثالث‌نفره سازمان سیستم‌ها را برای سه روز قطع کرد و هزینه‌ای حدود ۳۰۰۰ دلار برای رفع آسیب‌پذیری پرداخت شد. Malone نمی‌داند آیا هکر انسان یا هوش مصنوعی در این حمله نقش داشته‌اند، اما می‌گوید «چه کسی می‌داند در آینده چه آسیب‌پذیری دیگری پیش خواهد آمد». در همین مدت، شرکت‌های بزرگ هوش مصنوعی مانند OpenAI و Anthropic ادعا می‌کنند که مدل‌هایشان می‌توانند هر سیستم‌عامل و مرورگری را آسیب‌پذیر کنند و به همین دلیل مشتریان بزرگ به‌سرعت ابزارهای دفاعی خریداری می‌کنند. این در حالی است که بیمارستان‌ها و بانک‌های محلی هنوز راهکارهای کافی برای مقابله با این تهدید نوظهور ندارند و ممکن است در آینده هدف حملات بزرگ‌تر شوند.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "هک",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "clean_url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-    "timestamp": 1790595000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8da78ba78c",
-    "title_fa": "‏سهم‌های مسکن بریتانیا پس از طرح «خانهٔ اول» جهش یافت",
-    "title_en": "Homebuilders just surged on a new UK government scheme. Analysts name the stocks...",
-    "summary": [
-      "‏سهام شرکت‌های ساخت‌وساز بریتانیا مانند Taylor Wimpey ، Vistry Group و Persimmon در صبح دوشنبه بیش از ۱۰ تا ۲۰ درصد افزایش یافت.",
-      "‏این رشد ناشی از برنامه جدید دولت «Your First Home» است که با سپرده ۲.۵٪ و وام‌های ۲۰٪، خریداران اولین خانه را هدف می‌گیرد.",
-      "‏سهم‌های دیگر مانند Barratt Redrow و Bellway نیز حدود ۱۲ درصد افزایش یافتند."
-    ],
-    "body_fa": "‏دولت کارگری بریتانیا برنامه‌ای به نام «Your First Home» را اعلام کرد که هدفش کاهش موانع خرید اولین مسکن برای خریداران تازه‌کار است. این طرح شامل سپرده اولیه ۲.۵٪ و وام‌های سهام‌دار دولتی ۲۰٪ بدون بهره برای خریداران جدید است که با محدودیت‌های درآمد خانوار و قیمت ملک محلی همراه است. برای مشارکت در برنامه، سازندگان مسکن باید هزینه‌ای برای ثبت‌نام بپردازند. پس از اعلام این طرح، سهام شرکت‌های بزرگ ساخت‌وساز مانند Taylor Wimpey ، Vistry Group ، Persimmon ، Bellway و Barratt Redrow در صبح دوشنبه به‌طور قابل‌توجهی افزایش یافت؛ برخی بیش از ۲۰٪ و دیگران بین ۱۰ تا ۱۲٪ رشد کردند. تحلیل‌گران معتقدند این اقدام می‌تواند تقاضا را در بخش مسکن نو ساخته تقویت کند و فشارهای حاشیه‌ای ناشی از هزینه‌های ساخت بالا را تا حدی کاهش دهد. با این حال، جزئیات نهایی برنامه هنوز منتشر نشده و اثر واقعی آن بر عرضه مسکن و قیمت‌ها در ماه‌های آینده مشخص خواهد شد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار مسکن",
-    "tag": "مسکن",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/housebuilders-uk-labour-stocks.html",
-    "clean_url": "https://www.cnbc.com/2026/09/28/housebuilders-uk-labour-stocks.html",
-    "image": "https://s.yimg.com/bo/4b4952df-eb76-51df-a812-ab2ccbfaae53_1790596696006.jpg",
-    "timestamp": 1790594731.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bdde0ebb35",
-    "title_fa": "‏قیمت طلا 3 ٪ سقوط کرد؛ نگرانی‌های تورمی و نرخ بهره",
-    "title_en": "Gold slides 3% as Fed rate hike bets, rising Treasury yields weigh | FXStreet",
-    "summary": [
-      "‏طلا (XAU/USD) حدود 3 ٪ کاهش یافت و به 4156 دلار رسید، پایین‌ترین سطح از 5 اوت.",
-      "‏کاهش به دلیل انتظارات افزایش نرخ بهره فدرال‌رزرو و رشد بازده اوراق خزانه‌داری همراه با نوسان قیمت نفت بود.",
-      "‏تنش‌های ایالات متحده و ایران در تنگه هرمز نیز به فشار بر طلا افزود."
-    ],
-    "body_fa": "‏طلا (XAU/USD) در ابتدای هفته تحت فشار فروش شدید قرار گرفت و نزدیک 3 ٪ کاهش یافت، به حدود 4156 دلار رسید که پایین‌ترین سطح از 5 اوت است. این سقوط ناشی از انتظارات افزایش نرخ بهره فدرال‌رزرو پس از اعلام 25 پایه‌ای در جلسه سپتامبر و نگرانی‌های تورمی ناشی از قیمت‌های نوسان‌دار نفت است. بازده اوراق 10 ساله خزانه‌داری آمریکا به 5.23 ٪ رسید، بالاترین سطح از سال 2007 ، که هزینه فرصت نگهداری طلا بدون سود را افزایش می‌دهد. تنش‌های اخیر بین ایالات متحده و ایران در تنگه هرمز، که منجر به اختلال در تأمین نفت شد، فشار افزایشی بر بازارهای کالایی ایجاد کرده است. معامله‌گران همچنین به داده‌های اقتصادی داخلی آمریکا مانند شاخص PCE ، PMI و گزارش اشتغال در روزهای آینده توجه می‌کنند تا سرنخ‌های بیشتری درباره سیاست پولی فدرال‌رزرو پیدا کنند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/gold-slides-nearly-3-as-fed-hike-bets-rising-treasury-yields-weigh-202609281103",
-    "clean_url": "https://www.fxstreet.com/news/gold-slides-nearly-3-as-fed-hike-bets-rising-treasury-yields-weigh-202609281103",
-    "image": "https://s.yimg.com/bo/43718c20-86dd-5b0b-b7a6-b639d9af611c_1782465983677.jpg",
-    "timestamp": 1790593409.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "db21c514b3",
-    "title_fa": "‏لبنان به توافق سطح کارمندی جدید با IMF امید دارد",
-    "title_en": "Lebanon hopes for new staff-level agreement with IMF",
-    "summary": [
-      "‏لبنان در انتظار توافق سطح کارمندی جدید با صندوق بین‌المللی پول است.",
-      "‏این توافق می‌تواند به بازسازی اقتصاد بحرانی و دسترسی به کمک‌های مالی کمک کند.",
-      "‏مذاکرات پس از تعلیق دوره قبلی ادامه دارد."
-    ],
-    "body_fa": "‏لبنان که سال‌ها با بحران ارزی، تورم دو رقمی و بدهی‌های سنگین مواجه است، امیدوار است تا به توافق سطح کارمندی (SLA) جدیدی با صندوق بین‌المللی پول (IMF) برسد. این توافق می‌تواند پیش‌شرط‌های دسترسی به برنامه‌های مالی بین‌المللی را فعال کند و فشارهای مالی بر دولت را کاهش دهد. مذاکرات پس از دوره‌ای که در سال گذشته به تعلیق منجر شد، دوباره آغاز شده و انتظار می‌رود در ماه‌های آینده نهایی شود. اگر توافق حاصل شود، لبنان می‌تواند به تدریج بهبود نقدینگی و ثبات ارزی را تجربه کند، هرچند اجرای اصلاحات ساختاری همچنان الزامی است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "اقتصاد لبنان",
-    "tag": "IMF",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/lebanon-hopes-for-new-staff-level-agreement-with-imf-2026-09-28/",
-    "clean_url": "https://www.reuters.com/world/middle-east/lebanon-hopes-for-new-staff-level-agreement-with-imf-2026-09-28",
-    "image": "https://s.yimg.com/bo/86810c7b-5846-5570-8b3b-c398c938b24b_1790259445472.jpg",
-    "timestamp": 1790593171.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f5692bdafd",
-    "title_fa": "‏آمریکا معافیت محدود تحریم‌ها برای پروازهای زیارتی ایران‑نجداف اعطا می‌کند",
-    "title_en": "US to grant sanctions waiver for flights between Iran and Iraq's Najaf, source says",
-    "summary": [
-      "‏آمریکا تصمیم گرفت معافیت محدودی از تحریم‌های خود برای پروازهای زیارتی بین ایران و نجف اعطا کند",
-      "‏این گام می‌تواند سفرهای زائران شیعه را تسهیل کرده و تنش‌های تحریمی منطقه‌ای را کاهش دهد",
-      "‏معافیت موقت است و تنها برای پروازهای تجاری به شهر نجف اعمال می‌شود"
-    ],
-    "body_fa": "‏دولت دونالد ترامپ تصمیم گرفت معافیتی محدود از برنامه تحریم‌های علیه ایران اعطا کند تا پروازهای زیارتی شیعه بین ایران و شهر نجف عراق امکان‌پذیر شود. این معافیت فقط برای پروازهای تجاری به منظور حمل زائران است و به‌صورت موقت اعمال می‌شود. منبعی که به Reuters اطلاع داد گفت این اقدام بخشی از سیاست‌های انسانی و تسهیل سفرهای مذهبی است. اگرچه تحریم‌های کلی علیه ایران پابرجاست، این گام می‌تواند فشارهای اقتصادی بر زائران را کاهش داده و روابط منطقه‌ای را بهبود بخشد. کارشناسان معتقدند این اقدام به‌تنهایی تغییر اساسی در سیاست‌های تحریمی آمریکا نخواهد بود، اما می‌تواند زمینه‌ای برای مذاکرات آینده فراهم کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌ها و سفرهای زیارتی",
-    "tag": "تحریم",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/us-grant-sanctions-waiver-flights-between-iran-iraqs-najaf-source-says-2026-09-28/",
-    "clean_url": "https://www.reuters.com/world/middle-east/us-grant-sanctions-waiver-flights-between-iran-iraqs-najaf-source-says-2026-09-28",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790592300.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "09671f905f",
-    "title_fa": "‏وزیر آمریکا 30 میلیارد دلار برای بهبود کنترل هوایی خواست",
-    "title_en": "Duffy, airlines urge US Congress to quickly approve $30 billion for aviation reforms",
-    "summary": [
-      "‏وزیر حمل‌ونقل ایالات متحده و شرکت‌های هواپیمایی از کنگره درخواست کردند تا 30 میلیارد دلار برای ارتقای برج‌ها، نرم‌افزار و دیجیتال‌سازی کنترل هوایی اختصاص یابد.",
-      "‏این سرمایه‌گذاری می‌تواند تا سال 2030 تراکم پروازها را بهبود بخشد و هزینه‌های تاخیر را کاهش دهد.",
-      "‏دست‌کم 10 شرکت هواپیمایی بزرگ از این طرح حمایت کردند."
-    ],
-    "body_fa": "‏سِیَن دافی، وزیر حمل‌ونقل آمریکا، به همراه چندین شرکت هواپیمایی بزرگ و گروه‌های مرتبط، روز دوشنبه از کنگره خواستند تا 30 میلیارد دلار برای به‌روزرسانی برج‌های کنترل هوایی، نرم‌افزارهای مدیریت پرواز و زیرساخت‌های دیجیتال اختصاص یابد. این مبلغ هدف دارد تا سامانه‌های ناوبری هوایی را مدرن‌سازی کند و ظرفیت پردازش ترافیک هوایی را افزایش دهد. برنامه‌ریزی شده است که این سرمایه‌گذاری تا سال 2030 به کاهش تاخیرهای پروازی و بهبود بهره‌وری در شبکه‌های هوایی منجر شود. شرکت‌های هواپیمایی بزرگ از این طرح حمایت کرده‌اند و انتظار دارند که هزینه‌های عملیاتی و زمان انتظار مسافران کاهش یابد. اگر کنگره این درخواست را بپذیرد، می‌تواند تحول قابل‌توجهی در زیرساخت‌های هوانوردی ایالات متحده ایجاد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "حمل و نقل هوایی",
-    "tag": "هواپیمایی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/duffy-airlines-urge-congress-quickly-approve-30-billion-aviation-reforms-2026-09-28/",
-    "clean_url": "https://www.reuters.com/business/media-telecom/duffy-airlines-urge-congress-quickly-approve-30-billion-aviation-reforms-2026-09-28",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790591700.0,
     "sent_to_telegram": true
   }
 ]
