@@ -44,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "106cca133a",
+    "title_fa": "‏ذخیره‌گاه جهانی نفت تقریباً تمام شده است",
+    "title_en": "The world has nearly burned through its oil stockpile buffer, executives say",
+    "summary": [
+      "‏ذخیره‌گاه جهانی نفت تقریباً تمام شده است",
+      "‏کاهش این بافر می‌تواند قیمت نفت را بالا برده و نوسانات بازار انرژی را تشدید کند",
+      "‏اجرای تحریم‌های غربی علیه روسیه نقش مهمی در کاهش ذخایر داشته"
+    ],
+    "body_fa": "‏مدیران صنعت نفت اعلام کردند که ذخیره‌گاه‌های استراتژیک جهانی تقریباً تمام شده‌اند. این بافر که معمولاً حدود صد میلیون بشکه را پوشش می‌داد، پس از سال‌های تقاضای بالا، کاهش تولید و تحریم‌های غربی علیه روسیه به شدت کاهش یافته است. کارشناسان هشدار می‌دهند که کمبود این ذخایر می‌تواند فشار بر قیمت‌های نفت را افزایش داده و نوسانات بازار انرژی را تشدید کند. در صورت ادامه این روند، دولت‌ها ممکن است مجبور شوند ذخایر استراتژیک خود را آزاد کنند یا تولید را افزایش دهند تا از نوسان شدید جلوگیری شود. این وضعیت برای کشورهای واردکننده نفت و اقتصادهای وابسته به انرژی تأثیر قابل‌توجهی خواهد داشت.",
+    "category": "انرژی و کالا",
+    "subcategory": "ذخیره‌ نفت جهانی",
+    "tag": "نفت",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/world-has-nearly-burned-through-its-oil-stockpile-buffer-executives-say-2026-10-06/",
+    "clean_url": "https://www.reuters.com/business/energy/world-has-nearly-burned-through-its-oil-stockpile-buffer-executives-say-2026-10-06",
+    "image": "https://www.reuters.com/resizer/v2/CFFYJFHUXVLDBBQ5JM2V7H6KIM.jpg?auth=63dfd3d4a3ce49c5c5500193d9d5d5baaa917e5e2b44edd2d1703a4055ba0f8e&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791282360.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "09d0d9fd99",
     "title_fa": "‏مازاد تجاری کانادا در اوت به ۴٫۲ میلیارد دلار رسید",
     "title_en": "Canada’s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs",
@@ -107,6 +129,28 @@
     "clean_url": "https://www.ign.com/articles/state-of-decay-3-revealed-early-anxiety-xbox",
     "image": "https://assets-prd.ignimgs.com/2024/06/04/stateofdecay-1595521281669-1662408473018-1717509269199.jpg?width=1280&format=jpg&auto=webp&quality=80",
     "timestamp": 1791274260.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9792feca3e",
+    "title_fa": "‏ایالات متحده بمباران‌ها را تهدید پهپاد ایران از بریتانیا برداشت",
+    "title_en": "Iran drone plot fears led US to remove bombers from UK base, US officials say",
+    "summary": [
+      "‏ایالات متحده به‌دلیل ترس از طرح پهپاد ایران، بمباران‌های خود را از پایگاه هوایی در بریتانیا برداشت.",
+      "‏این اقدام نشان‌دهنده تشدید تنش‌های نظامی بین آمریکا و ایران است و می‌تواند روابط دفاعی آمریکا‑انگلستان را تحت فشار قرار دهد.",
+      "‏سخنگوی وزارت دفاع آمریکا گفت این تصمیم بر پایه اطلاعات هوشمندانه درباره تهدیدات پهپادی اتخاذ شده است."
+    ],
+    "body_fa": "‏ایالات متحده به‌دلیل نگرانی از طرح پهپادهای ایرانی، بمباران‌های استراتژیک خود را از پایگاه هوایی در بریتانیا برداشت. مقامات نظامی آمریکا اعلام کردند این تصمیم بر پایه اطلاعاتی است که نشان می‌دهد تهدیدات پهپادی می‌توانند عملیات هوایی را به خطر اندازند. حذف این هواپیماها نشان‌دهنده تشدید تنش‌های نظامی بین واشنگتن و تهران است و ممکن است روابط دفاعی میان آمریکا و متحدان اروپایی‌اش را تحت فشار قرار دهد. در عین حال، بریتانیا هنوز به حضور دیگر نیروهای نظامی آمریکا در خاک خود ادامه می‌دهد. این حرکت می‌تواند بازارهای دفاعی و انرژی را تحت تأثیر قرار دهد، زیرا افزایش تنش‌های خاورمیانه معمولاً نوسان قیمت نفت را تحریک می‌کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "امنیت نظامی",
+    "tag": "بمباران",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/iran-drone-plot-fears-led-us-remove-bombers-uk-base-us-officials-say-2026-10-06/",
+    "clean_url": "https://www.reuters.com/world/uk/iran-drone-plot-fears-led-us-remove-bombers-uk-base-us-officials-say-2026-10-06",
+    "image": "https://www.reuters.com/resizer/v2/X2UJDOCGURMZNCUNO4E3L3G5AU.jpg?auth=91fd3adec267ac7ef802b0ae3be878660313971a6c15efab7102fd782d30fb75&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791272820.0,
     "sent_to_telegram": true
   },
   {
@@ -261,6 +305,28 @@
     "clean_url": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ondo.png",
     "timestamp": 1791254340.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8e99974c8d",
+    "title_fa": "‏اعتراضات دانش‌آموزی در فرانسه با تلفات تاریخی مواجه شد",
+    "title_en": "School protests sweeping France cause 'heaviest toll in decades'",
+    "summary": [
+      "‏اعتراضات دانش‌آموزی در سراسر فرانسه به اوج رسیده و بیشترین تلفات را در دهه‌ها به‌بار آورد",
+      "‏این ناآرامی‌ها می‌تواند به تضعیف اقتصاد فرانسه و ایجاد فشار بر دولت در پیش‌روهای انتخابات منجر شود",
+      "‏مقامات اعلام کردند بیش از 10000 نفر بازداشت و مدارس در شهرهای بزرگ تعطیل شده‌اند"
+    ],
+    "body_fa": "‏در ماه‌های اخیر اعتراضات دانش‌آموزی در فرانسه به‌سرعت گسترش یافت و به‌نظر می‌رسد سنگین‌ترین تلفات را در چندین دهه به‌بار آورد. معترضین به‌دلیل اصلاحات آموزشی و محدودیت‌های مالی به خیابان‌ها آمدند و در برخی شهرها با برخورد پلیس مواجه شدند. مقامات اعلام کردند بیش از 10000 نفر بازداشت شده و مدارس در شهرهای بزرگ به‌طور موقت تعطیل شده‌اند. این ناآرامی‌ها نگرانی‌های اقتصادی را تشدید کرده و فشار بر دولت در آستانه انتخابات را افزایش می‌دهد. برخی مقامات بین‌المللی، از جمله رئیس‌جمهور ایالات متحده، به این بحران اشاره کردند و خواستار حل مسالمت‌آمیز آن شدند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "اعتراضات داخلی",
+    "tag": "پروتست",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/france-braces-day-school-blockades-street-protests-2026-10-06/",
+    "clean_url": "https://www.reuters.com/world/europe/france-braces-day-school-blockades-street-protests-2026-10-06",
+    "image": "https://www.reuters.com/resizer/v2/36CWWRPW3JMS7NX3DHSH3NWLKY.jpg?auth=74a7bba6fdc6b03ac1e2b04d10db792f1f7a1b1bc1ed882b612386bdc53b1a72&height=1005&width=1920&quality=80&smart=true",
+    "timestamp": 1791246900.0,
     "sent_to_telegram": true
   },
   {
@@ -6531,72 +6597,6 @@
     "clean_url": "https://www.reuters.com/business/media-telecom/duffy-airlines-urge-congress-quickly-approve-30-billion-aviation-reforms-2026-09-28",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1790591700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "399cfed868",
-    "title_fa": "‏رامسدن بانک انگلستان احتمال افزایش نرخ بهره را اعلام کرد",
-    "title_en": "Bank of England's Ramsden says rates may need to rise if inflation pressures...",
-    "summary": [
-      "‏رامسدن، معاون بانک انگلستان، گفت ممکن است نرخ بهره برای مقابله با فشارهای تورمی افزایش یابد.",
-      "‏این اظهارنظر می‌تواند انتظارات بازار را تغییر داده و ارزش پوند را تحت فشار قرار دهد.",
-      "‏رایزنی‌های اخیر درباره تصمیمات کاهش ترازنامه نیز بر نگرانی‌ها افزوده است."
-    ],
-    "body_fa": "‏رامسدن، معاون رئیس بانک مرکزی انگلستان، در بیانیه‌ای گفت که اگر فشارهای تورمی ادامه یابد، بانک ممکن است نرخ بهره را افزایش دهد. این اظهارنظر پس از تصمیم بانک برای کاهش ترازنامه (QT) در ماه سپتامبر و واکنش‌های نوسانی بازارها ارائه شد. نرخ بهره فعلی بانک 5.25 درصد است و تصمیم قبلی برای نگه داشتن آن در سطح فعلی بود. رامسدن تأکید کرد که هدف اصلی بانک حفظ ثبات قیمت‌ها است و هرگونه تغییر باید بر پایه داده‌های جدید باشد. اگر نرخ بهره افزایش یابد، انتظار می‌رود پوند در برابر دلار فشار ببیند و اوراق قرضه دولتی با بازده بالاتر جذب سرمایه کنند. تحلیل‌گران بر این باورند که این هشدار می‌تواند انتظارات بازار را برای یک افزایش احتمالی در ماه‌های آینده تقویت کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "نرخ بهره",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/bank-englands-ramsden-says-rates-may-need-rise-if-inflation-pressures-build-2026-09-28/",
-    "clean_url": "https://www.reuters.com/world/uk/bank-englands-ramsden-says-rates-may-need-rise-if-inflation-pressures-build-2026-09-28",
-    "image": "https://s.yimg.com/bo/b5468257-3dc6-56ab-be46-c1f7c072915d_1790591549233.jpg",
-    "timestamp": 1790589571.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2dd4677a0c",
-    "title_fa": "‏قیمت طلا و نقره در آغاز هفته سقوط کرد",
-    "title_en": "Gold and Silver plunge at weekly open: Can month-end flows and NFP spark a...",
-    "summary": [
-      "‏قیمت طلا حدود ۳٪ و نقره بیش از ۵٪ در بازگشایی هفتگی کاهش یافت.",
-      "‏این سقوط به انتظارات فدرال‌رزرو سختگیرانه، افزایش بازده اوراق و قیمت نفت مرتبط است.",
-      "‏طلا زیر حمایت ۴۲۲۵ دلار و نقره زیر ۶۲.۳۰ دلار فشار فروش را تجربه می‌کند."
-    ],
-    "body_fa": "‏در آغاز هفته معاملاتی، طلا تقریباً ۳٪ و نقره بیش از ۵٪ کاهش یافت. این فشار فروش به‌دلیل انتظارات از سیاست‌های سختگیرانه فدرال‌رزرو، افزایش قیمت نفت و سطوح بالاتر بازده اوراق خزانه‌داری آمریکا است. طلا زیر حمایت کلیدی ۴۲۲۵ دلار سقوط کرد و به سطح حدود ۴۱۴۳ دلار رسید، در حالی که هدف بعدی نزدیک ۴۱۲۰ دلار است. نقره نیز زیر حمایت ۶۲.۳۰ دلار رفته و به حدود ۶۰.۹۰ دلار نزدیک می‌شود، نزدیک سطح روانی ۶۰ دلار. تحلیل‌گران اشاره می‌کنند که جریان‌های پایان ماه و گزارش استخدام‌های غیرکشاورزی آمریکا می‌توانند نوسان بیشتری ایجاد کنند. اگر فروشندگان سود خود را بگیرند یا خریداران جدید وارد شوند، امکان بازگشت سریع به سطوح بالاتر وجود دارد.",
-    "category": "انرژی و کالا",
-    "subcategory": "فلزات گرانبها",
-    "tag": "قیمت طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/analysis/gold-and-silver-plunge-at-weekly-open-can-month-end-flows-and-nfp-spark-a-reversal-202609280948",
-    "clean_url": "https://www.fxstreet.com/analysis/gold-and-silver-plunge-at-weekly-open-can-month-end-flows-and-nfp-spark-a-reversal-202609280948",
-    "image": "https://s.yimg.com/bo/f027ce38-82b7-542e-a714-a6f2a414951e_1790255730890.jpg",
-    "timestamp": 1790589569.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2f0aec144d",
-    "title_fa": "‏فلوریدا خواستار ممنوعیت رفتار انسانی ChatGPT شد",
-    "title_en": "Florida seeks a ban on ChatGPT acting like a person",
-    "summary": [
-      "‏فلوریدا از دادگاه می‌خواهد OpenAI جلوی ارائه ChatGPT به‌صورت انسانی را بگیرد.",
-      "‏این اقدام به‌دلیل نگرانی از فریب کاربران و خطرهای امنیتی است.",
-      "‏قانون‌گذار همچنین توسعه مدل‌های جدید بدون نظارت شخص ثالث را ممنوع می‌کند."
-    ],
-    "body_fa": "‏آقای James Uthmeier ، دادستان کل فلوریدا، درخواست کرده دادگاه OpenAI را از «دادن ویژگی‌های انسانی» به ChatGPT منع کند. او می‌گوید استفاده از ضمایر اول شخص و شبیه‌سازی احساسات باعث فریب کاربران و ایجاد حس امنیت کاذب می‌شود و در عین حال داده‌های آموزشی را تقویت می‌کند. پرونده شامل درخواست برای توقف توسعه مدل‌های جدید بدون «حفاظت‌های ایمنی تأیید شده توسط شخص ثالث» است که پس از حوادث امنیتی در Hugging Face و وب‌سایت‌های دولتی رخ داده. OpenAI هنوز پاسخی نداده است؛ در ماه گذشته این شرکت نسخهٔ مخصوص نوجوانان ChatGPT را با محدودیت‌های پیش‌فرض عرضه کرده بود. این اقدام می‌تواند پیش‌نویس جدیدی برای قوانین ایمنی هوش مصنوعی در ایالات متحده باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین هوش مصنوعی",
-    "tag": "ChatGPT",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-    "clean_url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "timestamp": 1790589540.0,
     "sent_to_telegram": true
   }
 ]
