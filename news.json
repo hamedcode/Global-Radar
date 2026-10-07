@@ -1,5 +1,49 @@
 [
   {
+    "id": "19d963d775",
+    "title_fa": "‏تیک‌تاک در آزمایشی به نوجوانان ویژگی ایمنی ساختگی داد",
+    "title_en": "TikTok gave teens, children placebo safety feature in experiment, New York...",
+    "summary": [
+      "‏تیک‌تاک آزمایشی بر روی هزاران نوجوان و کودک انجام داد که در آن ویژگی ایمنی واقعی فعال نشد",
+      "‏این آزمایش نشان می‌دهد که پلتفرم ممکن است به‌جای محافظت، به کاربران فیک‌سِف‌تی ارائه دهد و می‌تواند فشار نظارتی را افزایش دهد",
+      "‏آزمایش توسط مقامات نیویورک بررسی شد و نگرانی‌ها درباره شفافیت و مسئولیت‌پذیری شرکت را برانگیخت"
+    ],
+    "body_fa": "‏تیک‌تاک در ماه‌های اخیر آزمایشی بر روی حدود چند هزار نوجوان و کودک در ایالات متحده انجام داد. در این آزمایش، کاربران که سعی می‌کردند ویژگی ایمنی مخصوص کودکان را فعال کنند، در واقع به‌صورت placebo به این قابلیت دسترسی پیدا کردند و هیچ‌گونه محدودیتی اعمال نشد. شرکت اعلام کرد هدف این آزمایش ارزیابی واکنش کاربران به گزینه‌های امنیتی بود، اما عدم فعال‌سازی واقعی ویژگی باعث انتقادات شدیدی شد. سازمان‌های نظارتی نیویورک این موضوع را بررسی کرده و احتمال اعمال جریمه یا الزام به شفاف‌سازی بیشتر را مطرح کرده‌اند. اگرچه این آزمایش به‌صورت محدود انجام شد، اما می‌تواند فشار عمومی برای تقویت سیاست‌های حفاظت از کودکان در شبکه‌های اجتماعی را افزایش دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت دیجیتال",
+    "tag": "TikTok",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07/",
+    "clean_url": "https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07",
+    "image": "https://s.yimg.com/bo/de4d108b-9aad-536c-b73c-c96acefc4db4_1791410675770.jpg",
+    "timestamp": 1791409870.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a26fa9f35d",
+    "title_fa": "‏درآمد Applied Digital چهار برابر شد اما ضررش گسترش یافت",
+    "title_en": "Applied Digital's revenue soars, loss widens on growing AI investments",
+    "summary": [
+      "‏درآمد سه ماهه اول Applied Digital بیش از چهار برابر شد.",
+      "‏در عین حال، به دلیل سرمایه‌گذاری‌های گسترده در هوش مصنوعی، زیان خالص شرکت افزایش یافت.",
+      "‏این نتایج نشان‌دهنده فشار مالی ناشی از هزینه‌های تحقیق و توسعه در حوزه AI است."
+    ],
+    "body_fa": "‏Applied Digital در گزارش مالی سه ماهه اول سال، درآمد خود را به بیش از چهار برابر دوره مشابه سال گذشته ارتقا داد. اما هزینه‌های سنگین مرتبط با سرمایه‌گذاری در فناوری هوش مصنوعی باعث شد تا زیان خالص شرکت نسبت به سال گذشته گسترش یابد. مدیرعامل شرکت اعلام کرد که این هزینه‌ها بخشی از استراتژی بلندمدت برای توسعه محصولات AI هستند و انتظار می‌رود در سال‌های آینده به سودآوری منجر شوند. تحلیل‌گران بازار فناوری این رشد درآمدی را مثبت می‌دانند، اما هشدار دادند که افزایش زیان می‌تواند فشار بر نقدینگی شرکت ایجاد کند. در مجموع، این نتایج نشانگر تعادل بین فرصت‌های رشد و هزینه‌های سرمایه‌گذاری در فناوری‌های نوین است.",
+    "category": "تکنولوژی",
+    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
+    "tag": "Applied Digital",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/applied-digitals-revenue-soars-loss-widens-growing-ai-investments-2026-10-07/",
+    "clean_url": "https://www.reuters.com/technology/applied-digitals-revenue-soars-loss-widens-growing-ai-investments-2026-10-07",
+    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
+    "timestamp": 1791408190.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "648b921952",
     "title_fa": "‏دولت کانادا می‌تواند مالک موقت کارخانه Stelco شود",
     "title_en": "Investor Outlook: Government ownership could keep Stelco operating",
@@ -19,6 +63,28 @@
     "clean_url": "https://www.bnnbloomberg.ca/investing/investor-outlook/2026/10/07/investor-outlook-government-ownership-could-keep-stelco-operating",
     "image": "https://www.bing.com/th?id=ONUT.RyB8a-C2W-Jp8qdomwGnLA",
     "timestamp": 1791402219.0124512,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1237decdb1",
+    "title_fa": "‏طلا زیر ۴٬۱۰۰ دلار؛ فدرال‌رزرو افزایش نرخ را پیش‌بینی کرد",
+    "title_en": "Gold slides below $4,100 as FOMC Minutes signal further Fed hikes | FXStreet",
+    "summary": [
+      "‏قیمت طلا به زیر ۴٬۱۰۰ دلار رسید و در زمان نوشتن ۴٬۱۱۵ دلار بود.",
+      "‏این سقوط پس از انتشار صورتجلسه فدرال‌رزرو بود که همه اعضا افزایش نرخ در سپتامبر را حمایت کردند و احتمال افزایش دیگر نرخ‌ها را پیش‌بینی کردند.",
+      "‏قیمت نفت هم کاهش یافت و دلار قوی ماند، که فشار بر طلا را محدود کرد."
+    ],
+    "body_fa": "‏قیمت طلا (XAU/USD) روز چهارشنبه به زیر ۴٬۱۰۰ دلار افت کرد و در زمان نوشتن ۴٬۱۱۵ دلار، نسبت به اوج دو ماهه‌اش که ۴٬۰۶۶ دلار بود، ۱٫۱۶٪ کاهش یافت. این حرکت پس از انتشار صورتجلسهٔ آخرین نشست فدرال‌اوپن مارکت کمیتی (FOMC) رخ داد که نشان داد تمام اعضا افزایش نرخ بهره در سپتامبر را تأیید کرده‌اند. دقیقاً، صورتجلسه بیان کرد که بسیاری از شرکت‌کنندگان این افزایش را به‌عنوان بیمه‌ای در برابر تورم مداوم می‌دانند و برخی دیگر آن را برای جلوگیری از گسترش تورم به سطوح دیگر می‌پذیرند. اعضای فدرال‌رزرو انتظار دارند تا پایان سال یک افزایش نرخ دیگر «مناسب» باشد، اگرچه بازارهای پولی احتمال این افزایش را تنها ۱۹٪ می‌دانند. در همان زمان، بازده اوراق ۱۰‑سالهٔ آمریکا یک پایهٔ پایه‌ای به ۵٫۲۷٪ کاهش یافت و شاخص دلار (DXY) به ۱۰۲٫۲۴ رسید. قیمت نفت خام (WTI) نیز ۱٫۶۶٪ کاهش یافت و به حدود ۸۸٫۴۵ دلار رسید که فشار نزولی بر طلا را محدود کرد. تحلیل‌گران پیش‌بینی می‌کنند که ادامهٔ خریدهای بانک مرکزی چین از طلا و داده‌های اقتصادی آمریکا در روزهای آینده می‌تواند نوسانات این فلز گرانبها را تحت تأثیر قرار دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
+    "clean_url": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
+    "image": "https://s.yimg.com/bo/e0a4ca18-835b-5240-8187-ba1e00964eca_1789703418337.png.cf.jpg",
+    "timestamp": 1791400627.0,
     "sent_to_telegram": true
   },
   {
@@ -242,6 +308,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "8760f394f3",
+    "title_fa": "‏تجارت‌گران Fast Money به صورت‌جلسه جدید فدرال‌رزرو واکنش نشان دادند",
+    "title_en": "'Fast Money' traders react to latest Fed minutes",
+    "summary": [
+      "‏تجارت‌گران Fast Money واکنش خود را به آخرین صورت‌جلسه فدرال‌رزرو اعلام کردند",
+      "‏این نظرات می‌تواند جهت‌گیری بازارهای مالی و نرخ‌های بهره را تحت تأثیر قرار دهد",
+      "‏برنامه‌نویسان و سرمایه‌گذاران به دنبال نکات کلیدی در این جلسه هستند"
+    ],
+    "body_fa": "‏در برنامهٔ CNBC ، استیو لیزمن به همراه تیم تجارت‌گران Fast Money به بررسی جزئیات صورت‌جلسهٔ اخیر فدرال‌رزرو پرداخت. آن‌ها به تحلیل لحن بیانیه، تغییرات احتمالی در مسیر سیاست‌های پولی و پیامدهای آن برای بازارهای سهام و اوراق قرضه پرداختند. برخی از شرکت‌کنندگان بر این باور بودند که فدرال‌رزرو ممکن است در ماه‌های آینده نرخ بهره را ثابت نگه دارد، در حالی که دیگران نشانه‌های احتمالی افزایش را شناسایی کردند. این واکنش‌ها می‌تواند به سرمایه‌گذاران کمک کند تا استراتژی‌های خود را برای دورهٔ پیش رو تنظیم کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "Fed",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/video/2026/10/07/fast-money-traders-react-to-latest-fed-minutes.html",
+    "clean_url": "https://www.cnbc.com/video/2026/10/07/fast-money-traders-react-to-latest-fed-minutes.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108374470-17914085181791408515-48854804939-1080pnbcnews.jpg?v=1791408517&w=1920&h=1080",
+    "timestamp": 1791384300.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "c2275689a6",
     "title_fa": "‏بانک قزاقستان با تتر استیبل‌کوین و توکن‌سازی را بررسی می‌کند",
     "title_en": "Kazakhstan’s central bank explores stablecoin and tokenization projects with Tet...",
@@ -286,6 +374,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "3af4d9bbd1",
+    "title_fa": "‏شرکت معدنی Trinity Metals برای عرضه اولیه در بورس نیویورک آماده می‌شود",
+    "title_en": "Tungsten prices have soared eightfold. Now Rwanda’s Trinity Metals wants a New York IPO as demand for the defence and aerospace metal grows",
+    "summary": [
+      "‏شرکت معدنی Trinity Metals در پی جهش هشت برابری قیمت تنگستن، در تدارک عرضه اولیه سهام در بورس نیویورک است.",
+      "‏این فلز نقشی حیاتی در صنایع دفاعی دارد و محدودیت‌های صادراتی چین توجه دولت‌های غربی را به منابع جایگزین جلب کرده است.",
+      "‏این شرکت قصد دارد با سرمایه‌گذاری تا 80 میلیون دلار، تولید معدن Nyakabingo در رواندا را ظرف پنج سال سه برابر کند."
+    ],
+    "body_fa": "‏شرکت معدنی Trinity Metals فعال در رواندا، پس از جهش بیش از هشت برابری بهای تنگستن در دو سال گذشته، مذاکرات مقدماتی را برای عرضه اولیه سهام خود در بورس نیویورک آغاز کرده است. این فلز استراتژیک در صنایع دفاعی، هوافضا و ساخت تجهیزات صنعتی کاربرد گسترده‌ای دارد و با اعمال محدودیت‌های صادراتی از سوی چین، زنجیره تأمین جهانی آن با چالش جدی مواجه شده است. کشورهای غربی در تلاش هستند تا وابستگی خود را به چین در حوزه مواد معدنی حیاتی کاهش دهند و دولت آمریکا نیز از طریق نهاد DFC در حال ارزیابی سرمایه‌گذاری 50 میلیون دلاری در این مجموعه است. طبق توضیحات Peter Geleta مدیرعامل این شرکت، تمرکز اصلی روی احداث تأسیسات جدید فرآوری در معدن Nyakabingo با سرمایه‌گذاری 60 تا 80 میلیون دلار خواهد بود. پیش‌بینی می‌شود با اجرای طرح‌های مکانیزاسیون، ظرفیت استخراج این معدن ظرف سه تا پنج سال آینده تا سه برابر افزایش یابد.",
+    "category": "انرژی و کالا",
+    "subcategory": "فلزات استراتژیک",
+    "tag": "تنگستن",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Business Insider Africa",
+    "url": "https://africa.businessinsider.com/local/markets/tungsten-prices-have-soared-eightfold-now-rwandas-trinity-metals-wants-a-new-york-ipo/4sv1k4p",
+    "clean_url": "https://africa.businessinsider.com/local/markets/tungsten-prices-have-soared-eightfold-now-rwandas-trinity-metals-wants-a-new-york-ipo/4sv1k4p",
+    "image": "https://ocdn.eu/pulscms-transforms/1/yZgktkpTURBXy83MmNhNTg4MDZmOTU0OTMxZmFhMzRiZWZlMjRjMjhiOS5qcGeSlQMAFc0Cps0BfZMFzQSwzQJ2",
+    "timestamp": 1791383520.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f7292bebef",
+    "title_fa": "‏Solidigm SK Hynix برای IPO آمریکا بانک‌ها را انتخاب می‌کند",
+    "title_en": "SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year",
+    "summary": [
+      "‏شرکت Solidigm وابسته به SK Hynix تصمیم گرفته سال آینده در ایالات متحده عرضه عمومی انجام دهد.",
+      "‏انتخاب بانک‌های سرمایه‌گذاری برای IPO می‌تواند تأثیر قابل‌توجهی بر بازار نیمه‌رساناها داشته باشد.",
+      "‏این گام نشان‌دهنده تقویت حضور شرکت‌های کره‌ای در بازارهای مالی آمریکا است."
+    ],
+    "body_fa": "‏Solidigm ، شرکت فرعی SK Hynix ، برنامه دارد تا در سال آینده در بورس ایالات متحده عرضه عمومی اولیه (IPO) انجام دهد. به گزارش منابع، این شرکت در حال انتخاب بانک‌های سرمایه‌گذاری برای مدیریت فرآیند IPO است. انتخاب مؤسسات مالی مناسب می‌تواند به جذب سرمایه‌گذاران جهانی و ارتقای ارزش بازار نیمه‌رساناها کمک کند. این اقدام نشان‌دهنده تمایل شرکت‌های کره‌ای به گسترش حضور در بازارهای مالی آمریکا است. اگر IPO موفق باشد، می‌تواند تأثیر مثبتی بر قیمت سهام SK Hynix و رقابت در صنعت حافظه داشته باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "سرمایه‌گذاری فناوری",
+    "tag": "Solidigm",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/sk-hynix-s-solidigm-is-said-to-pick-banks-for-us-ipo-next-year",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/sk-hynix-s-solidigm-is-said-to-pick-banks-for-us-ipo-next-year",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791383340.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d068aeb245",
+    "title_fa": "‏دست آورد Nous Research 90 میلیون دلار؛ ارزش 1.5 میلیارد",
+    "title_en": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "summary": [
+      "‏استارتاپ Nous Research 90 میلیون دلار سرمایه‌گذاری سری B جذب کرد و ارزشش به 1.5 میلیارد دلار رسید.",
+      "‏این سرمایه برای گسترش Hermes Agent به شرکت‌ها و ارائه هوش مصنوعی سفارشی با حفظ حریم‌خصوصی به کار می‌رود.",
+      "‏شرکت تا سپتامبر 2026 درآمد سالیانه 36 میلیون دلار داشته و هدفش عبور از 100 میلیون دلار تا پایان سال است."
+    ],
+    "body_fa": "‏استارتاپ Nous Research که در حال توسعه Hermes Agent متن‌باز است، در دور سری B مبلغ 90 میلیون دلار جذب کرد و ارزشش به 1.5 میلیارد دلار رسید. این سرمایه‌گذاری توسط Robot Ventures رهبری شد و از Nvidia ، Union Square Ventures ، Menlo Ventures ، Samsung و 1789 Capital نیز پشتیبانی شد. Hermes Agent تا کنون بیش از 24 میلیون بار کلون شده و حدود 2.5 ٪ از مصرف توکن‌های هوش مصنوعی جهانی را تشکیل می‌دهد. شرکت قصد دارد با «Hermes for Businesses» هوش مصنوعی سفارشی‌سازی شده برای جریان‌های کاری چندمرحله‌ای به شرکت‌ها ارائه دهد، در حالی که داده‌ها را خصوصی و ایمن نگه می‌دارد. برآوردها نشان می‌دهد که درآمد سالیانه شرکت در میانه سپتامبر 2026 حدود 36 میلیون دلار بوده و پیش‌بینی می‌شود تا پایان سال 2026 از 100 میلیون دلار عبور کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Hermes",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "clean_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+    "timestamp": 1791380880.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "0b20eeb129",
     "title_fa": "‏Europol هشدار می‌دهد کیف‌پول‌های رمزارزی به امنیت پساکوانتومی منتقل شوند",
     "title_en": "Europol urges phased shift to post-quantum security to protect exposed crypto...",
@@ -305,6 +459,72 @@
     "clean_url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
     "image": "https://s.yimg.com/bo/dbe16d1c-a8ba-560d-9116-4ab63ede409c_1790244256255.jpg",
     "timestamp": 1791380032.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bd67e0a003",
+    "title_fa": "‏دستیار AI Tab با ارزش‌گذاری 300 میلیون دلار رونمایی شد",
+    "title_en": "Another personal AI assistant has launched — Meet Tab, which emerged from stealt...",
+    "summary": [
+      "‏دستیار شخصی Tab با ارزش‌گذاری 300 میلیون دلار از حالت مخفی خارج شد",
+      "‏کاربران می‌توانند با ارسال پیام در iMessage یا WhatsApp کارهای روزمره مثل رزرو و خرید را به آن واگذار کنند",
+      "‏سرمایه‌گذاران شامل SV Angel ، Valar Ventures و American Spirit هستند"
+    ],
+    "body_fa": "‏Tab ، دستیار هوش مصنوعی جدیدی است که این روزها از حالت مخفی خارج شد و با ارزش‌گذاری 300 میلیون دلار معرفی شد. تیم مؤسس شامل Brennan Erbz ، Stafford Schlitt و Ammar Amdani است که محصول را طوری طراحی کرده‌اند که کاربران تنها با ارسال پیام در iMessage یا WhatsApp می‌توانند درخواست‌های مختلفی از خرید مواد غذایی تا رزرو هتل را بدهند. Tab یک شماره تلفن، کامپیوتر و کیف‌پول اختصاصی دارد و تمام عملیات را بدون نیاز به دخالت کاربر انجام می‌دهد. شرکت تأکید دارد که داده‌های کاربر برای آموزش مدل‌های هوش مصنوعی استفاده نمی‌شود و کارت‌های اعتباری در یک vault امن نگهداری می‌شوند. سرمایه‌گذاران این دور شامل SV Angel ، Valar Ventures و American Spirit هستند و تیم انتظار دارد به‌زودی محصول جدیدی را نیز عرضه کند.",
+    "category": "تکنولوژی",
+    "subcategory": "دستیار هوش مصنوعی",
+    "tag": "Tab",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+    "clean_url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation",
+    "image": "https://s.yimg.com/bo/c52bfc65-2f1d-52e8-a952-c26845012ddb_1791381808804.png.cf.jpg",
+    "timestamp": 1791379030.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5a0d391199",
+    "title_fa": "‏SEC به فعالان فشار اقلیمی بر Exxon هشدار داد",
+    "title_en": "SEC Warns Activist Investors After Climate Push at Exxon",
+    "summary": [
+      "‏SEC به سرمایه‌گذاران فعال هشدار داد که پس از فشارهای اقلیمی بر Exxon ، ممکن است با اقدامات قانونی مواجه شوند.",
+      "‏این هشدار نشان می‌دهد نظارت بر فعالیت‌های زیست‌محیطی سرمایه‌گذاران افزایش می‌یابد و می‌تواند استراتژی‌های فعالان را تحت تأثیر قرار دهد.",
+      "‏در صورت تخلف، SEC می‌تواند جریمه‌های سنگین اعمال کند."
+    ],
+    "body_fa": "‏کمیسیون بورس و اوراق بهادار ایالات متحده (SEC) به سرمایه‌گذاران فعال هشدار داد که پس از فشارهای اقلیمی اخیر بر شرکت ExxonMobil ، ممکن است با اقدامات اجرایی مواجه شوند. این هشدار به این دلیل صادر شد که برخی فعالان از ادعاهای نادرست یا گمراه‌کننده دربارهٔ تأثیرات زیست‌محیطی برای فشار بر شرکت استفاده می‌کنند. SEC تأکید کرد هرگونه بیانیهٔ نادرست می‌تواند تحت قوانین افشاگری و تقلبی قرار گیرد. این پیام می‌تواند استراتژی‌های سرمایه‌گذاری فعالانه را تغییر داده و شرکت‌ها را بهبود شفافیت در گزارش‌های اقلیمی وادار کند. اگر فعالان به این نکات توجه نکنند، ممکن است با جریمه‌های مالی و محدودیت‌های قانونی مواجه شوند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری فعال",
+    "tag": "SEC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/sec-warns-activist-investors-after-climate-push-at-exxon-mobil",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/sec-warns-activist-investors-after-climate-push-at-exxon-mobil",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791378480.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "927f7537ab",
+    "title_fa": "‏خطای کارمند UPS باعث انتقال قطعات F‑35 به چین شد",
+    "title_en": "UPS Worker Missed Email, Letting China Get F-35 Parts",
+    "summary": [
+      "‏کارمند UPS ایمیلی را از دست داد و قطعات مهم هواپیمای F‑35 به چین رسید",
+      "‏این اتفاق می‌تواند به نقض قوانین صادرات نظامی آمریکا منجر شود",
+      "‏موضوع نگرانی‌های امنیتی و فشار بر روابط تجاری ایالات متحده و چین را افزایش می‌دهد"
+    ],
+    "body_fa": "‏بلومبرگ گزارش داد که یک کارمند شرکت UPS به دلیل از دست دادن یک ایمیل، اجازه داد قطعات حساس هواپیمای جنگی F‑35 به چین منتقل شود. این خطا می‌تواند نشانگر ضعف در نظارت بر صادرات نظامی باشد و قوانین کنترل فناوری پیشرفته آمریکا را به چالش بکشد. مقامات آمریکایی احتمالاً به بررسی این حادثه می‌پردازند تا از تکرار آن جلوگیری کنند. اگر صحت این گزارش تأیید شود، می‌تواند تنش‌های تجاری و امنیتی بین واشنگتن و پکن را تشدید کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "صادرات نظامی",
+    "tag": "F-35",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791377640.0,
     "sent_to_telegram": true
   },
   {
@@ -352,6 +572,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "4610cf6829",
+    "title_fa": "‏حوثی‌ها در دو فرودگاه سعودی سه نفر را کشته‌اند",
+    "title_en": "Houthis Kill Three in Attacks on Two Airports in Saudi Arabia",
+    "summary": [
+      "‏حوثی‌ها در دو فرودگاه سعودی حمله کردند و 3 نفر را کشته‌اند.",
+      "‏این حادثه می‌تواند تنش‌های منطقه‌ای را تشدید کرده و بر امنیت حمل و نقل هوایی و بازار نفت تأثیر بگذارد.",
+      "‏حمله به دو فرودگاه مختلف سعودی گزارش شد."
+    ],
+    "body_fa": "‏حوثی‌ها در یک عملیات مسلحانه به دو فرودگاه در عربستان سعودی حمله کردند و در این حملات 3 نفر کشته شدند. این حمله نشان‌دهنده توان عملیاتی گروه در برابر اهداف استراتژیک است و می‌تواند روابط بین‌المللی منطقه را تحت فشار قرار دهد. از آنجا که حوثی‌ها با ایران هم‌پیمان شناخته می‌شوند، این رویداد می‌تواند به تنش‌های موجود بین ایران و عربستان افزوده و نگرانی‌های بین‌المللی درباره امنیت انرژی خاورمیانه را تشدید کند. کارشناسان پیش‌بینی می‌کنند که این حادثه ممکن است بر قیمت نفت و مسیرهای حمل و نقل هوایی تأثیر بگذارد. دولت سعودی احتمالاً اقدامات امنیتی بیشتری در فرودگاه‌ها و سایر زیرساخت‌های حساس به اجرا خواهد گذاشت. این رویداد نشان می‌دهد که خطرات امنیتی در منطقه همچنان بالا است و نیاز به نظارت دقیق بین‌المللی دارد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات هوایی",
+    "tag": "حوثی",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/houthis-kill-three-in-attacks-on-two-airports-in-saudi-arabia",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/houthis-kill-three-in-attacks-on-two-airports-in-saudi-arabia",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791376380.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "eda8159100",
     "title_fa": "‏قیمت بنزین در آفریقای جنوبی به 30 راند نزدیک شد",
     "title_en": "BANENG NAAPE | Why South Africans cannot afford the R30 a litre fuel shock",
@@ -371,6 +613,50 @@
     "clean_url": "https://www.sowetan.co.za/opinion/columnists/2026-10-07-baneng-naape-why-south-africans-cannot-afford-the-r30-a-litre-fuel-shock",
     "image": "https://www.bing.com/th?id=ONUT.i0DFD2cEMAVfn9_-j5JuEA",
     "timestamp": 1791374983.8214784,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "af8d7ced31",
+    "title_fa": "‏فدرال رزرو با وجوه خزانه‌داری، ین را حمایت کرد",
+    "title_en": "Fed Used Treasury Funds to Support Yen in Joint Intervention",
+    "summary": [
+      "‏فدرال رزرو برای اولین بار از وجوه خزانه‌داری آمریکا جهت حمایت از ین در مداخله مشترک استفاده کرد.",
+      "‏این اقدام می‌تواند نوسانات ارز را کاهش داده و بازارهای جهانی را تحت تأثیر قرار دهد.",
+      "‏این مداخله نشان‌دهنده هماهنگی نزدیک بین فدرال رزرو و بانک ژاپن است."
+    ],
+    "body_fa": "‏فدرال رزرو به‌طور غیرمنتظره‌ای اعلام کرد که در مداخله مشترک برای حمایت از ین، از وجوه خزانه‌داری آمریکا استفاده کرده است. این اقدام نشان می‌دهد که بانک مرکزی آمریکا مایل به همکاری نزدیک با بانک ژاپن برای تثبیت نرخ ارز است. استفاده از منابع خزانه‌داری، که معمولاً برای عملیات مالی داخلی به کار می‌رود، نشان‌دهنده شدت نگرانی‌ها دربارهٔ سقوط ین است. تحلیل‌گران پیش‌بینی می‌کنند این مداخله می‌تواند فشار بر دلار را کاهش داده و نوسانات بازارهای ارزی را محدود کند. همچنین ممکن است تأثیراتی بر قیمت طلا و سایر کالاهای ارزی داشته باشد، چرا که دلار پایهٔ بسیاری از معاملات کالاست. در صورت ادامهٔ این سیاست، ممکن است سیاست‌گذاران دیگر نیز برای جلوگیری از نوسانات شدید، ابزارهای مشابهی به کار گیرند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار ارز",
+    "tag": "ین",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/fed-used-treasury-funds-to-support-yen-in-joint-intervention",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/fed-used-treasury-funds-to-support-yen-in-joint-intervention",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791374580.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b4d5c063a9",
+    "title_fa": "‏نظرسنجی فدرال نیویورک نشان داد نگرانی مالی آمریکایی‌ها افزایش یافت",
+    "title_en": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
+    "summary": [
+      "‏نظرسنجی ماهانه فدرال نیویورک نشان داد که آمریکایی‌ها نسبت به وضعیت مالی خود و تورم آینده نگرانی بیشتری دارند",
+      "‏این نگرانی می‌تواند منجر به کاهش هزینه‌های مصرفی و فشار بر سیاست‌های پولی شود",
+      "‏قیمت بنزین در اوت نزدیک به ۴٪ افزایش یافت و به ۴٫۳۷ دلار در گالن رسید"
+    ],
+    "body_fa": "‏بررسی ماهانهٔ نظرسنجی انتظارات مصرف‌کنندگان فدرال نیویورک نشان داد که نگرانی‌های مالی آمریکایی‌ها در حال تشدید است. مصرف‌کنندگان انتظار دارند که نرخ تورم یک سال آینده بالاتر از امروز باشد و بیش از پیش وضعیت مالی خود را بدتر از سال گذشته می‌دانند. همزمان، قیمت بنزین در ماه اوت نزدیک به ۴٪ افزایش یافت و به ۴٫۳۷ دلار در گالن رسید که فشار بر هزینه‌های زندگی را افزون می‌کند. تحلیل‌گران هشدار می‌دهند این انتظارات می‌تواند منجر به تصمیمات سخت مالی برای خانوارها و کاهش مخارج غیرضروری شود. در عین حال، رشد انتظارات درآمد و هزینه‌های مصرفی نیز بالا رفته که نشان از تمایل مصرف‌کنندگان به ادامهٔ هزینه‌کرد دارد، اما پایداری این روند مشکوک است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "انتظارات تورمی",
+    "tag": "تورم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
+    "clean_url": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108362037-1789154887112-gettyimages-2294761951-jr_15582_qgkfm4fo.jpeg?v=1791401850&w=1920&h=1080",
+    "timestamp": 1791372240.0,
     "sent_to_telegram": true
   },
   {
@@ -459,6 +745,28 @@
     "clean_url": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
     "image": "https://s.yimg.com/bo/80ea7d81-b79f-533b-b727-237ab17ad514_1787857320371.jpg",
     "timestamp": 1791360006.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "04029993e7",
+    "title_fa": "‏استودیوهای بازی‌سازی Paramount و WB Games ادغام شدند",
+    "title_en": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
+    "summary": [
+      "‏بخش‌های بازی‌سازی شرکت‌های Paramount و WB Games پس از معامله‌ای 111 میلیارد دلاری با یکدیگر ادغام شدند.",
+      "‏این نهاد جدید تحت مدیریت Skydance قصد دارد ساخت بازی‌ها بر پایه فرنچایزهای بزرگ مانند DC Comics را متحول کند.",
+      "‏مدیریت این بخش بازی و سرگرمی‌های تعاملی جدید به Tony Driscoll واگذار شده است."
+    ],
+    "body_fa": "‏شرکت‌های Paramount Games Studio و WB Games پس از تکمیل قرارداد عظیم 111 میلیارد دلاری، بخش‌های بازی‌سازی خود را در قالب یک واحد مشترک تحت چتر Skydance ادغام کردند. طبق یادداشت داخلی منتشرشده، رهبری این بخش تعاملی جدید را Tony Driscoll ، مدیر کنونی استودیوی بازی Paramount بر عهده خواهد داشت. این ساختار تازه وظیفه دارد نظارت بر پروژه‌های ویدیویی بر پایه فرنچایزهای شناخته‌شده هر دو غول سرگرمی از جمله دنیای DC Comics را یکپارچه کند. پیش از این ادغام، استودیوی Paramount بیشتر بر پایه اعطای مجوز به شرکت‌های خارجی فعالیت می‌کرد، اما ساختار جدید امکان تولید مستقیم، همکاری در توسعه و انتشار مستقل عناوین بزرگ را فراهم می‌کند. مدیران Skydance اعلام کرده‌اند که بخش گیمینگ در کنار تلویزیون و سینما، ستون اصلی رشد این گروه رسانه‌ای در آینده خواهد بود.",
+    "category": "گیم",
+    "subcategory": "ادغام و خرید",
+    "tag": "WB Games",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+    "clean_url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+    "image": "https://assetsio.gnwcdn.com/paramount-wb.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1791356400.0,
     "sent_to_telegram": true
   },
   {
@@ -6289,314 +6597,6 @@
     "clean_url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action",
     "image": "https://s.yimg.com/bo/aa5a0b91-9aa0-5307-9dac-52f7c3b7372c_1790702539656.jpg",
     "timestamp": 1790700838.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d3c9a8c67a",
-    "title_fa": "‏Dangote گروه نفتی نیجریه بزرگ‌ترین IPO آفریقا را راه‌اندازی کرد",
-    "title_en": "Dangote Targets 10 Million Investors in Africa’s Biggest IPO | OilPrice.com",
-    "summary": [
-      "‏شرکت Dangote در نیجریه IPO ۱٫۶ میلیارد دلاری با ارزش ۴۷ میلیارد دلاری برای پالایشگاه بزرگ‌ترین آفریقا راه‌اندازی کرد.",
-      "‏هدف این عرضه جذب ۱۰ میلیون سرمایه‌گذار خرد است که می‌تواند حساب‌های سرمایه‌گذاری در نیجریه را چهار برابر کند.",
-      "‏در صورت موفقیت، Dangote بیش از ۸۰٪ سهام را حفظ می‌کند و ثروت او می‌تواند تا ۶۴٪ به ۵۸٫۶ میلیارد دلار برسد."
-    ],
-    "body_fa": "‏پالایشگاه Dangote در نیجریه یک IPO با هدف جمع‌آوری ۱٫۶ میلیارد دلار و ارزش‌گذاری ۴۷ میلیارد دلاری برای بزرگ‌ترین پالایشگاه آفریقا اعلام کرد. این عرضه قصد دارد ۱۰ میلیون سرمایه‌گذار خرد را جذب کند و حداقل اشتراک تنها ۱۰ سهم است. این اقدام می‌تواند تعداد حساب‌های فعال سرمایه‌گذاری در نیجریه را چهار برابر کند؛ در حال حاضر حدود ۲٫۷ میلیون سرمایه‌گذار فعال وجود دارد. درآمدهای حاصل برای برنامه گسترش ۱۴ میلیارد دلاری استفاده می‌شود تا ظرفیت پردازش نفت خام از ۷۰۰٬۰۰۰ بشکه در روز به ۱٫۴ میلیون بشکه تا سال ۲۰۲۹ دو برابر شود. دوره اشتراک تا ۱۳ اکتبر ادامه دارد و پلتفرم‌های دیجیتال مانند Bamboo به دلیل ترافیک ده‌برابر معمولی دچار قطعی شدند. پس از IPO ، Dangote بیش از ۸۰٪ سهام را در اختیار خواهد داشت و برآورد بلومبرگ نشان می‌دهد ثروت او می‌تواند ۶۴٪ افزایش یابد و به ۵۸٫۶ میلیارد دلار برسد.",
-    "category": "انرژی و کالا",
-    "subcategory": "بازار سرمایه",
-    "tag": "IPO",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Targets-10-Million-Investors-in-Africas-Biggest-IPO.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Targets-10-Million-Investors-in-Africas-Biggest-IPO.html",
-    "image": "https://s.yimg.com/bo/2eedfc22-b961-5b95-b57c-dd0b4634ca92_1790696894816.jpg",
-    "timestamp": 1790695795.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "50f4af820e",
-    "title_fa": "‏گزارش درآمد Micron می‌تواند نشانگر دوام رونق حافظه AI باشد",
-    "title_en": "Micron earnings this week could test whether the memory boom has more room to...",
-    "summary": [
-      "‏Micron چهارم‌فصل مالی خود را با پیش‌بینی سود 31.61 دلار بر سهم و درآمد 51.07 میلیارد دلار منتشر می‌کند.",
-      "‏این گزارش برای ارزیابی دوام حاشیه‌های بالای حافظه در دوره هوش مصنوعی اهمیت دارد.",
-      "‏توافقات استراتژیک جدید با خودروسازان می‌تواند بیش از نیمی از درآمد را تضمین کند."
-    ],
-    "body_fa": "‏Micron Technology روز چهارشنبه نتایج مالی چهارم‌فصل مالی خود را منتشر می‌کند. تحلیل‌گران LSEG پیش‌بینی می‌کنند که سود خالص هر سهم 31.61 دلار و درآمد 51.07 میلیارد دلار باشد. شرکت حاشیه ناخالص تنظیم‌شده‌ای حدود 86 ٪ برای این دوره پیش‌بینی کرده که رکورد تاریخی است. این حاشیه‌های بالا در حالی است که تقاضای زیرساخت‌های هوش مصنوعی باعث افزایش قیمت حافظه و کمبود عرضه شده است. مدیریت Micron به توافقات طولانی‌مدت با مشتریان کلیدی مانند General Motors و Ford اشاره کرد که می‌تواند بیش از نیمی از فروش را پوشش دهد. اگر این حاشیه‌ها پس از افزودن ظرفیت‌های جدید حفظ شوند، می‌تواند نشانگر تغییر ساختاری در چرخه حافظه باشد. سرمایه‌گذاران به چشم‌انداز مالی تا سال مالی 2027 و سیاست‌های قیمت‌گذاری شرکت توجه ویژه‌ای خواهند داشت.",
-    "category": "تکنولوژی",
-    "subcategory": "حافظه‌سازی AI",
-    "tag": "Micron",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/micron-earnings-this-week-could-test-whether-the-memory-boom-has-more-room-to-run.html",
-    "clean_url": "https://www.cnbc.com/2026/09/29/micron-earnings-this-week-could-test-whether-the-memory-boom-has-more-room-to-run.html",
-    "image": "https://s.yimg.com/bo/4188e9ae-b7d8-55f0-89bd-1c20e9e69762_1790580677228.jpg",
-    "timestamp": 1790694415.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2b78f2ea41",
-    "title_fa": "‏بازده اوراق بلندمدت به بالاترین سطح ۲۴ ساله رسید",
-    "title_en": "Bond Yields Keep Rising Despite Drop in Oil Price, Dovish Fed Speech",
-    "summary": [
-      "‏بازده اوراق قرضه بلندمدت به بالاترین ۲۴ ساله رسید.",
-      "‏این افزایش می‌تواند فشار بر بازارهای مالی و هزینه وام‌گیری را افزایش دهد.",
-      "‏قیمت نفت هم کاهش یافت و رئیس فدرال نیویورک گفت نیازی به تسریع در افزایش نرخ بهره نیست."
-    ],
-    "body_fa": "‏بازده اوراق قرضه دولتی بلندمدت به بالاترین سطح خود در ۲۴ سال گذشته رسید و نشان از فشارهای قوی در بازارهای مالی دارد. در همین زمان، قیمت نفت به دلیل نگرانی‌های تقاضا کاهش یافت. رئیس بانک فدرال نیویورک در سخنرانی خود تأکید کرد که نیازی به تسریع در افزایش نرخ بهره نیست و سیاست پولی می‌تواند آرام‌تر پیش برود. این ترکیب از افزایش بازده و کاهش قیمت نفت می‌تواند هزینه‌های وام‌گیری را برای شرکت‌ها و مصرف‌کنندگان بالا ببرد و نوسانات بیشتری در بازارهای سهام ایجاد کند. تحلیل‌گران به دنبال بررسی تأثیر این تحولات بر سیاست‌های پولی آینده فدرال رزرو هستند.",
-    "category": "انرژی و کالا",
-    "subcategory": "اوراق قرضه",
-    "tag": "بازده",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/finance/investing/bond-yields-keep-rising-despite-drop-in-oil-price-dovish-fed-speech-49aeab91",
-    "clean_url": "https://www.wsj.com/finance/investing/bond-yields-keep-rising-despite-drop-in-oil-price-dovish-fed-speech-49aeab91",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790690700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cfc4d28183",
-    "title_fa": "‏Accelevation IPO را با قیمت ۱۸ دلار عرضه می‌کند",
-    "title_en": "Accelevation Is Said to Be Poised to Price IPO at $18 Per Share",
-    "summary": [
-      "‏Accelevation قصد دارد IPO خود را با قیمت ۱۸ دلار برای هر سهم تنظیم کند",
-      "‏این قیمت می‌تواند جذب سرمایه‌گذاران و تأثیر محدود بر بازارهای عمومی داشته باشد",
-      "‏جزئیات دیگر: هنوز اطلاعاتی درباره حجم عرضه یا ارزش کل شرکت منتشر نشده است"
-    ],
-    "body_fa": "‏شرکت Accelevation برنامه دارد عرضه اولیه سهام (IPO) خود را با قیمت ۱۸ دلار برای هر سهم تنظیم کند. این قیمت پیشنهادی می‌تواند سرمایه‌گذاران جدیدی را جذب کند، اما به‌نظر می‌رسد تأثیر محدودی بر شاخص‌های کلی بازار خواهد داشت. هنوز جزئیات دقیق درباره تعداد سهام عرضه‌شده یا ارزش کل شرکت اعلام نشده است. اگرچه این خبر برای سرمایه‌گذاران علاقمند به IPO های نوظهور مهم است، اما به‌نظر نمی‌رسد تحولات گسترده‌ای در بازارهای جهانی ایجاد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "عرضه اولیه سهام",
-    "tag": "IPO",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790690400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ea9eb508b3",
-    "title_fa": "‏دولت آمریکا بررسی ممنوعیت صادرات دیزل را آغاز کرد",
-    "title_en": "The Hidden Tradeoffs of a U.S. Diesel Export Ban | OilPrice.com",
-    "summary": [
-      "‏دولت آمریکا بررسی ممنوعیت صادرات دیزل را آغاز کرد؛ صادرات روزانه حدود 1.5 میلیون بشکه.",
-      "‏هدف کاهش قیمت داخلی دیزل برای کشاورزان است، اما ممکن است قیمت‌های جهانی بالا رود و هزینه‌های وارداتی آمریکا را افزایش دهد.",
-      "‏صادرات اصلی به مکزیک، شیلی و برزیل است؛ حذف این مقادیر می‌تواند فشار بر بازارهای جهانی ایجاد کند."
-    ],
-    "body_fa": "‏دولت ترامپ و برخی قانونگذاران ایالتی در حال بررسی ممنوعیت صادرات دیزل آمریکا هستند. آمریکا حدود 1.5 میلیون بشکه دیزل روزانه صادر می‌کند که بزرگ‌ترین صادرکننده جهان است. هدف این اقدام کاهش قیمت دیزل در داخل کشور، به‌ویژه برای کشاورزان و شرکت‌های حمل‌ونقل است. اما حذف این مقادیر از بازار جهانی می‌تواند قیمت دیزل در خارج را افزایش دهد و هزینه‌های وارداتی کالاهای غذایی و دیگر محصولات را برای مصرف‌کنندگان آمریکایی بالا ببرد. صادرات اصلی به مکزیک (۲۲۰ هزار بشکه/روز) و سپس به شیلی و برزیل است؛ بنابراین تغییر جریان صادرات می‌تواند اثرات زنجیره‌ای در قیمت‌های جهانی داشته باشد. این سیاست هنوز در مرحله بررسی است و تصمیم نهایی هنوز گرفته نشده است.",
-    "category": "انرژی و کالا",
-    "subcategory": "صادرات دیزل",
-    "tag": "ممنوعیت دیزل",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Hidden-Tradeoffs-of-a-US-Diesel-Export-Ban.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/The-Hidden-Tradeoffs-of-a-US-Diesel-Export-Ban.html",
-    "image": "https://s.yimg.com/bo/dad90697-49b2-53c5-a442-f34256a5058d_1790691430600.jpg",
-    "timestamp": 1790690039.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f592a2c525",
-    "title_fa": "‏گلدمن ساکس نوسان شدید فلزات را پیش‌بینی کرد",
-    "title_en": "Get ready for tariffs to set off another roller coaster ride in metal markets, Goldman says",
-    "summary": [
-      "‏گلدمن ساکس پیش‌بینی کرد نوسان شدید در بازارهای فلزات اساسی به‌دلیل تعرفه‌ها",
-      "‏این نوسان می‌تواند قیمت مس، نقره، پلاتین و پالادیوم را به‌صورت ناگهانی تغییر دهد",
-      "‏کاهش موجودی‌های خارج آمریکا ممکن است فشار بر صنایع تولیدی ایجاد کند"
-    ],
-    "body_fa": "‏دین استرویوِن، معاون رئیس پژوهش‌های جهانی کالاهای گلدمن ساکس، گفت که تعرفه‌های جدید می‌تواند نوسان شدید در فلزات بحرانی همچون نقره، مس، پلاتین و پالادیوم ایجاد کند. او تأکید کرد ساخت معادن و ذوب‌خانه‌ها زمان بیشتری می‌برد تا اثر تعرفه‌ها را نشان دهد، اما این سیاست می‌تواند موجودی‌های فلزی را به داخل ایالات متحده کشاند. این حرکت باعث کاهش نقدینگی در بازارهای خارج از آمریکا شده و خطر نوسان شدید قیمت‌ها را در صورت خرید ناگهانی افزایش می‌دهد. در سال‌های 2025 و 2026 ، نقره در لندن به بالاترین سطح 45 ساله رسید و انتظار می‌رود مس به‌دلیل نیازهای زیرساخت هوش مصنوعی فشار قیمتی بیشتری ببیند. اگر تقاضای سرمایه‌گذاران بازگردد، این نوسان می‌تواند هزینه‌های تولیدکنندگان را بالا برد و زنجیره تأمین جهانی را تحت فشار قرار دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "بازار فلزات",
-    "tag": "نوسان فلزات",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/tariffs-metals-silver-copper-goldman-sachs-gold-ai-infrastructure-2026-9",
-    "clean_url": "https://www.businessinsider.com/tariffs-metals-silver-copper-goldman-sachs-gold-ai-infrastructure-2026-9",
-    "image": "https://i.insider.com/6ab567fdeb7225411267a3f9?width=1200&format=jpeg",
-    "timestamp": 1790688900.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d51475369c",
-    "title_fa": "‏پروژه LNG Canada فاز۲ ظرفیت صادرات را دو برابر می‌کند",
-    "title_en": "LNG Canada to Double Export Capacity After Shell Approves Phase 2 | OilPrice.com",
-    "summary": [
-      "‏شرکت Shell تصمیم نهایی سرمایه‌گذاری برای فاز۲ پروژه LNG Canada را اعلام کرد و ظرفیت صادرات را از 14mtpa به 28mtpa افزایش می‌دهد.",
-      "‏این گسترش به بازارهای آسیایی می‌رسد و در تقاضای جهانی LNG که تا 2050 حدود 65 ٪ رشد خواهد کرد، نقش مهمی ایفا می‌کند.",
-      "‏فاز۲ در اوایل دههٔ 2030 به بهره‌برداری می‌رسد و سهم 40 ٪ Shell در پروژه تضمین می‌شود."
-    ],
-    "body_fa": "‏شرکت Shell تصمیم نهایی سرمایه‌گذاری برای فاز۲ پروژه LNG Canada در کیتیمات، بریتیش کلمبیا را اعلام کرد. این فاز دو واحد پردازش LNG جدید اضافه می‌کند و ظرفیت کل را از 14mtpa به 28mtpa می‌رساند. Shell که 40 ٪ سهام دارد، حدود 6mtpa LNG اضافی دریافت خواهد کرد. پروژه با ساختار equity lifting ادامه می‌یابد و هر شریک سهم خود را از تولید و تأمین گاز بر عهده دارد. عملیات تجاری فاز۲ انتظار می‌رود در اوایل دههٔ 2030 آغاز شود و به بازارهای آسیایی که تقاضای LNG تا 2050 65 ٪ افزایش خواهد یافت، عرضه شود.",
-    "category": "انرژی و کالا",
-    "subcategory": "صنعت گاز مایع",
-    "tag": "LNG",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Canada-to-Double-Export-Capacity-After-Shell-Approves-Phase-2.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Canada-to-Double-Export-Capacity-After-Shell-Approves-Phase-2.html",
-    "image": "https://s.yimg.com/bo/c204392e-ad90-576d-ad53-21eac18b25d5_1790689293428.jpg",
-    "timestamp": 1790687215.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0e3fceaad8",
-    "title_fa": "‏بازده اوراق بالا رفت؛ سهام آسیا کاهش، امید IPO Anthropic",
-    "title_en": "Bond yields extend run higher; stocks ease but Anthropic IPO optimism boosts tech",
-    "summary": [
-      "‏بازده اوراق قرضه در آسیا افزایش یافت و قیمت نفت هم بالا رفت.",
-      "‏این ترکیب باعث کاهش شاخص‌های سهام شد، اما انتظارات مثبت از عرضه اولیه Anthropic به فناوری‌سازان امید داد.",
-      "‏سرمایه‌گذاران به افزایش نرخ بهره در استرالیا نیز توجه دارند."
-    ],
-    "body_fa": "‏در روز سه‌شنبه، بازده اوراق قرضه دولتی در آسیا به سطح بالاتری رسید و قیمت نفت نیز افزایشی ثبت کرد. این ترکیب نامطلوب باعث شد تا شاخص‌های اصلی سهام در منطقه کاهش یابد. با این حال، انتظارات مثبت از عرضه اولیه شرکت هوش مصنوعی Anthropic ، به ویژه در بخش فناوری، روحیه سرمایه‌گذاران را تقویت کرد. سرمایه‌گذاران به احتمال افزایش نرخ بهره توسط بانک مرکزی استرالیا نیز دقت می‌کنند. تحلیل‌گران پیش‌بینی می‌کنند که ادامهٔ فشارهای تورمی و سیاست‌های پولی می‌تواند نوسانات بازارهای آسیایی را افزایش دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای مالی",
-    "tag": "بازده اوراق",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-29/",
-    "clean_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-29",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790685540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b5d940b017",
-    "title_fa": "‏Brightline وام ۲۵۸ میلیون دلاری در ورشکستگی گرفت",
-    "title_en": "Brightline Secures $258 Million Bankruptcy Loan Despite Creditor Objection",
-    "summary": [
-      "‏شرکت ریلی Brightline پس از اعتراض بستانکاران، وام ۲۵۸ میلیون دلاری برای ادامه عملیات در چارچوب ورشکستگی تأمین کرد.",
-      "‏قاضی ورشکستگی تصمیم گرفت انتخاب وام‌دهندگان مناسب است و برنامه اصلاحی شرکت را پذیرفت، که برای سرمایه‌گذاران و طلبکاران مهم است.",
-      "‏این وام به Brightline امکان ادامه خدمات ریلی و اجرای برنامه بازسازی مالی را می‌دهد."
-    ],
-    "body_fa": "‏شرکت ریلی مسافربری Brightline برای ادامه فعالیت‌هایش در چارچوب پرونده ورشکستگی، وام ۲۵۸ میلیون دلاری دریافت کرد. این وام پس از اعتراض یک صندوق طلبکار به انتخاب وام‌دهندگان ارائه شد، اما قاضی ورشکستگی اعلام کرد که تصمیم شرکت در انتخاب مؤسسات مالی بر پایه قضاوت تجاری صحیح بوده است. برای رفع نگرانی‌های طلبکاران، Brightline برنامه بازسازی خود را اصلاح کرد و این اصلاحات مورد تأیید دادگاه قرار گرفت. دریافت این سرمایه‌گذاری به شرکت اجازه می‌دهد تا خدمات ریلی خود را حفظ کرده و به برنامه‌های بازسازی مالی ادامه دهد. این تصمیم برای سرمایه‌گذاران و طلبکاران مهم است، زیرا نشان می‌دهد شرکت می‌تواند به تعهدات مالی خود عمل کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قرض ورشکستگی",
-    "tag": "قرض",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/pro/bankruptcy/brightline-secures-258-million-bankruptcy-loan-despite-creditor-objection-8fffbc1a",
-    "clean_url": "https://www.wsj.com/pro/bankruptcy/brightline-secures-258-million-bankruptcy-loan-despite-creditor-objection-8fffbc1a",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790685360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f4cc83adde",
-    "title_fa": "‏انتشار شاخص تورم اصلی فدرال رزرو روز چهارشنبه",
-    "title_en": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-    "summary": [
-      "‏داده‌های شاخص قیمت مخارج مصرفی (PCE) فدرال رزرو روز چهارشنبه منتشر می‌شود",
-      "‏پیش‌بینی‌ها نشان می‌دهد تورم همچنان بالا بوده و احتمال ادامه افزایش نرخ بهره را تقویت می‌کند",
-      "‏در سطح سالانه انتظار می‌رود رشد 3.7% و 3.3% برای کل و هسته‌ای باشد"
-    ],
-    "body_fa": "‏فدرال رزرو روز چهارشنبه شاخص قیمت مخارج مصرفی (PCE) را منتشر می‌کند؛ این شاخص اصلی تصمیم‌گیری‌های نرخ بهره است. تحلیل‌گران انتظار دارند که رشد ماهانه 0.3% برای کل و هسته‌ای ثبت شود و به‌طور سالانه تورم 3.7% و 3.3% باقی بماند، که همچنان بالاتر از هدف 2% فدرال است. این داده‌ها نشان می‌دهد فشارهای قیمتی ادامه دارد و فدرال رزرو نمی‌تواند به سادگی نرخ بهره را ثابت نگه دارد. اعضای FOMC پیش از این یک افزایش 0.25 درصدی در سپتامبر تصویب کرده‌اند و احتمال دارد تا پایان سال یا حتی در سال 2026 یک بار دیگر نرخ‌ها را بالا ببرند. نظرات مقامات فدرال، از جمله کیون وارش و مایکل بار، بر این است که شرایط مالی هنوز محدودکننده نیست اما تورم هدف‌گذاری‌شده هنوز دور است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "تورم و نرخ بهره",
-    "tag": "PCE",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-    "clean_url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108367758-1790283344057-gettyimages-2296974915-bb2_1452_fivzadwt.jpeg?v=1790283488&w=1920&h=1080",
-    "timestamp": 1790683620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a3f2c9e714",
-    "title_fa": "‏Apple Pay با همکاری Axis Bank در هند راه‌اندازی شد",
-    "title_en": "Apple Pay set to launch in India with Axis Bank today, sources say",
-    "summary": [
-      "‏Apple Pay روز سه‌شنبه با Axis Bank در هند آغاز می‌شود و کارت‌های Visa و Mastercard را پشتیبانی می‌کند.",
-      "‏ورود این سرویس به بزرگ‌ترین بازار جهان می‌تواند رقابت با UPI را تغییر دهد و بانک‌ها را به مذاکره وادار کند.",
-      "‏Apple برای هر تراکنش حدود 20 پایه‌نقطه هزینه می‌گیرد که کمتر از حاشیه معمول در بازار پرداخت است."
-    ],
-    "body_fa": "‏Apple Pay روز سه‌شنبه با همکاری Axis Bank به‌صورت محدود در هند راه‌اندازی می‌شود. سرویس فقط کارت‌های Visa و Mastercard صادر شده توسط Axis Bank را پشتیبانی می‌کند و هنوز شبکه RuPay یا سایر بانک‌های بزرگ مانند HDFC ، ICICI و SBI Card را شامل نمی‌شود. پذیرش پرداخت‌ها به فروشگاه‌ها و دستگاه‌های مجهز به Apple Pay محدود است. اپل برای هر تراکنش حدود 20 پایه‌نقطه (۰.۲٪) هزینه دریافت می‌کند که نسبت به حاشیه ۴۰‑۵۰ پایه‌نقطه در بازار پرداخت، قابل‌توجه است. ورود این سرویس به بزرگ‌ترین بازار جهان، هرچند به‌صورت نیش‌دار، می‌تواند به‌ویژه برای کاربران iPhone که تمایل به کارت‌های پریمیوم دارند، جذاب باشد. اگرچه UPI همچنان بخش عمده‌ای از پرداخت‌های دیجیتال هند را در اختیار دارد، حضور Apple Pay ممکن است فشار بر بانک‌ها برای بهبود شرایط تجاری ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "پرداخت‌های دیجیتال",
-    "tag": "Apple Pay",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-    "clean_url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
-    "timestamp": 1790682300.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6d28584406",
-    "title_fa": "‏فروش 2.5 میلیارد دلاری مورگان استنلی توسط شیکاگو تأیید شد",
-    "title_en": "Morgan Stanley’s $2.5 Billion Parking Sale Wins Chicago Approval",
-    "summary": [
-      "‏مورگان استنلی فروش پارکینگ به ارزش 2.5 میلیارد دلار را دریافت کرد",
-      "‏این معامله نشان‌دهنده استراتژی بازپرداخت سرمایه و می‌تواند نقدینگی بانک را تقویت کند",
-      "‏تأیید شیکاگو ممکن است پیش‌زمینه‌ای برای معاملات مشابه در دیگر شهرها باشد"
-    ],
-    "body_fa": "‏مورگان استنلی فروش پارکینگ به ارزش 2.5 میلیارد دلار را به دست آورد. این تراکنش توسط مقامات شهر شیکاگو تأیید شد. فروش پارکینگ بخشی از برنامه بانک برای بهینه‌سازی دارایی‌ها و آزادسازی نقدینگی است. دریافت این مبلغ می‌تواند به تقویت وضعیت مالی و پشتیبانی از برنامه‌های سرمایه‌گذاری آینده کمک کند. همچنین این تأیید می‌تواند به سایر مؤسسات مالی نشان دهد که فروش دارایی‌های غیرهسته‌ای در شهرهای بزرگ قابل اجراست.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "معاملات مالی",
-    "tag": "Morgan Stanley",
-    "urgency": 4,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-s-2-5-billion-parking-sale-wins-chicago-approval",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-s-2-5-billion-parking-sale-wins-chicago-approval",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790681760.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ade50acabf",
-    "title_fa": "‏قانون خودروهای چینی مانع فروش مرسدس بنز در آمریکا نمی‌شود",
-    "title_en": "Senate Republican says Chinese vehicle bill will not ban Mercedes-Benz",
-    "summary": [
-      "‏لایحه‌ای در سنا می‌خواهد فروش خودروهای چینی با مالکیت بیش از ۱۵٪ را ممنوع کند، اما مرسدس بنز را حذف نخواهد کرد.",
-      "‏این تصمیم به دلیل نزدیک به ۲۰٪ مالکیت غیرفعال چینی در مرسدس بنز و فشارهای تجاری آمریکا مهم است.",
-      "‏بحث‌هایی برای حفظ فروش ولوو و آستون مارتین که بخشی از آن‌ها متعلق به Geely است، ادامه دارد."
-    ],
-    "body_fa": "‏یک لایحه در کمیته تجارت سنا که هدفش ممنوعیت فروش خودروهای چینی با بیش از ۱۵٪ مالکیت چینی است، در حال بررسی است. حامی این لایحه، سناتور جمهوری‌خواه Bernie Moreno ، اعلام کرد که مرسدس بنز، که حدود ۲۰٪ مالکیت غیرفعال چینی دارد، از ممنوعیت مستثنی خواهد شد. او افزود که مذاکراتی برای اطمینان از ادامه فروش ولوو، که تحت مالکیت Geely است، نیز در جریان است. سناتور دمکرات Elissa Slotkin حمایت گسترده‌ای از لایحه دارد و تنها سناتور Rand Paul مخالف است. اگر لایحه به سرعت تصویب شود، می‌تواند فشارهای تجاری آمریکا بر چین را در بخش خودروسازی تشدید کند و مسیر ورود خودروهای چینی به بازار آمریکا را محدود سازد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "قوانین تجاری خودرو",
-    "tag": "مرسدس بنز",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/sen-moreno-chinese-vehicle-bill-will-not-ban-mercedes-benz-in-us.html",
-    "clean_url": "https://www.cnbc.com/2026/09/29/sen-moreno-chinese-vehicle-bill-will-not-ban-mercedes-benz-in-us.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108369587-1790701131404-gettyimages-2288381580-moreno_113_080526.jpeg?v=1790701396&w=1920&h=1080",
-    "timestamp": 1790681100.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c2ee792202",
-    "title_fa": "‏آنتروپیک با ارزش‌گذاری دو تریلیون دلاری IPO می‌کند",
-    "title_en": "What smart people are saying about Anthropic's leaked IPO prospectus numbers",
-    "summary": [
-      "‏آنتروپیک در سند IPO خود سال گذشته 4.6 میلیارد دلار درآمد و 42 میلیارد دلار ضرر خالص گزارش کرد",
-      "‏این اعداد می‌تواند ارزش شرکت را تا دو تریلیون دلار برساند و بازار IPO هوش مصنوعی را تحت‌تاثیر قرار دهد",
-      "‏شرکت 7.33 میلیارد دلار برای محاسبه و زیرساخت در 2025 هزینه کرد و 518 میلیارد دلار تعهدات آینده دارد"
-    ],
-    "body_fa": "‏یک سند IPO نشت‌کرده نشان می‌دهد که آنتروپیک در سال گذشته 4.6 میلیارد دلار درآمد کسب کرده اما 42 میلیارد دلار ضرر خالص داشته است. شرکت در سال 2025 حدود 7.33 میلیارد دلار برای محاسبه و زیرساخت هزینه کرده و تعهدات آینده‌ای معادل 518 میلیارد دلار دارد. بر اساس این ارقام، ارزش‌گذاری پیشنهادی می‌تواند به حدود دو تریلیون دلار برسد. این رقم عظیم می‌تواند مسیر IPO های دیگر شرکت‌های هوش مصنوعی، به‌ویژه OpenAI ، را تحت‌تاثیر قرار دهد. تحلیل‌گران هشدار می‌دهند که رشد سریع درآمد هنوز به سودآوری پایدار تبدیل نشده و سرمایه‌گذاران باید ریسک‌های بزرگ هزینه‌ای و امنیتی را در نظر بگیرند. اگر IPO موفق شود، سرمایه‌گذاری‌ها ممکن است از سایر فناوری‌ها به سمت آنتروپیک جابه‌جا شود.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/what-smart-people-say-about-anthropics-leaked-ipo-prospectus-2026-9",
-    "clean_url": "https://www.businessinsider.com/what-smart-people-say-about-anthropics-leaked-ipo-prospectus-2026-9",
-    "image": "https://i.insider.com/6abbd015eb7225411267bcbd?width=1200&format=jpeg",
-    "timestamp": 1790680680.0,
     "sent_to_telegram": true
   }
 ]
