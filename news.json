@@ -44,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "5be3f50940",
+    "title_fa": "‏اعتراض Elon Musk به نفوذ میلیاردر هندی در تاخیر ورود Starlink",
+    "title_en": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+    "summary": [
+      "‏انتقاد تند Elon Musk از نفوذ Mukesh Ambani در پی تاخیر مجوز سرویس Starlink در هند خبرساز شد.",
+      "‏ورود اینترنت ماهواره‌ای به بازار پرجمعیت هند به دلیل بررسی‌های رگولاتوری همچنان معطل مانده است.",
+      "‏وزارت ارتباطات هند ادعای تبعیض به نفع شرکت‌های محلی را رد کرد."
+    ],
+    "body_fa": "‏تلاش‌های شرکت SpaceX برای راه‌اندازی اینترنت ماهواره‌ای Starlink در هند با چالش‌های رگولاتوری جدی و تنش لفظی روبه‌رو شده است. مدیرعامل این شرکت، Elon Musk ، در پلتفرم X برخی میلیاردرهای با نفوذ و به‌ویژه Mukesh Ambani رئیس Reliance Industries را به انحصارطلبی و جلوگیری از صدور مجوز متهم کرد. در مقابل، وزارت ارتباطات هند اعلام کرد مقررات این کشور کاملاً عادلانه و غیرتبعیض‌آمیز است و همه متقاضیان باید ارزیابی‌های امنیتی را پیش از دریافت فرکانس تکمیل کنند. شرکت Starlink بیش از 5 سال است که برای ورود تجاری به بازار بزرگ هند تلاش می‌کند، اما هنوز موفق به نهایی‌سازی مجوزهای خود نشده است.",
+    "category": "تکنولوژی",
+    "subcategory": "اینترنت ماهواره‌ای",
+    "tag": "Starlink",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+    "clean_url": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+    "timestamp": 1791447060.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "626eb38949",
     "title_fa": "‏Xbox بخش جدید فیلم و تلویزیون «XP» را راه‌اندازی کرد",
     "title_en": "Xbox is launching a new film and TV division",
@@ -6575,28 +6597,6 @@
     "clean_url": "https://www.axios.com/2026/09/30/stratolaunch-boeing-777-talona-hypersonics-california",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1790738100.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ed9694107e",
-    "title_fa": "‏نفت‌پیمایان به دیوان عالی آمریکا برای دعواهای اقلیمی رفتند",
-    "title_en": "Facing climate lawsuits, Big Oil again turns to US Supreme Court",
-    "summary": [
-      "‏شرکت‌های نفتی بزرگ برای جلوگیری از مسئولیت‌های اقلیمی پرونده‌ای به دیوان عالی آمریکا ارائه دادند.",
-      "‏این پرونده می‌تواند سرنوشت ده‌ها دعوی اقلیمی و هزینه‌های میلیاردی را تعیین کند.",
-      "‏دعوی‌ها شامل شرکت‌های ExxonMobil ، Chevron و دیگران است."
-    ],
-    "body_fa": "‏شرکت‌های نفتی بزرگ مانند ExxonMobil و Chevron برای مقابله با دعواهای اقلیمی به دیوان عالی ایالات متحده مراجعه کرده‌اند. این شرکت‌ها درخواست بررسی پرونده‌ای را ارائه دادند که می‌تواند مسئولیت‌های مالی ناشی از تغییرات آب و هوایی را محدود کند. دادگاه‌های پایین‌دست در چند ایالت حکم‌های مهمی صادر کرده‌اند که هزینه‌های میلیاردی برای این شرکت‌ها پیش‌بینی می‌کند. اگر دیوان عالی این پرونده را بپذیرد، ممکن است مسیر بسیاری از دعواهای مشابه در سراسر کشور تغییر کند. این تصمیم می‌تواند تأثیر قابل‌توجهی بر استراتژی‌های حقوقی و مالی شرکت‌های نفتی داشته باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قضایای اقلیمی",
-    "tag": "نفت",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/facing-climate-lawsuits-big-oil-again-turns-us-supreme-court-2026-09-30/",
-    "clean_url": "https://www.reuters.com/legal/government/facing-climate-lawsuits-big-oil-again-turns-us-supreme-court-2026-09-30",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790737500.0,
     "sent_to_telegram": true
   }
 ]
