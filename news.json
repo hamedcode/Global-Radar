@@ -1,5 +1,49 @@
 [
   {
+    "id": "bd463e26e3",
+    "title_fa": "‏ترامپ خواستار تعویض رئیس‌جمهور اوکراین شد",
+    "title_en": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S....",
+    "summary": [
+      "‏ترامپ گفت زمان تعویض رئیس‌جمهور اوکراین رسیده و زلنسکی را مقصر افزایش قیمت دیزل در آمریکا دانست.",
+      "‏این اظهارات می‌تواند تنش‌های سیاسی بین آمریکا، اوکراین و روسیه را تشدید کرده و نگرانی‌های انرژی را افزاش دهد.",
+      "‏او پیش از سفر به تنسی، توافق خرید دیزل از روسیه را برای کاهش قیمت‌ها پیش از انتخابات میانه‌دوره‌ای اعلام کرد."
+    ],
+    "body_fa": "‏دونالد ترامپ روز شنبه اعلام کرد که اوکراین به رهبری جدیدی نیاز دارد و زلنسکی را به‌خاطر عدم پایان جنگ با روسیه و افزایش قیمت دیزل در ایالات متحده سرزنش کرد. او افزود که زلنسکی می‌توانست معاملات متعددی انجام دهد اما هرگز این کار را نکرده است. این اظهارات در حالی مطرح شد که ترامپ روز قبل توافقی برای خرید دیزل از روسیه به منظور کاهش قیمت سوخت پیش از انتخابات میانه‌دوره‌ای امضا کرده بود. مقامات اوکراینی و اروپایی واکنش منفی به این توافق نشان دادند و گفتند این کار به تامین مالی جنگ روسیه کمک می‌کند. ترامپ همچنین گفت اگر در سال ۲۰۲۲ رئیس‌جمهور بود، جنگ اوکراین‑روسیه هرگز آغاز نمی‌شد و اوکراین باید رهبری جدیدی پیدا کند. این بیانیه می‌تواند روابط دیپلماتیک و اقتصادی بین آمریکا، اوکراین و روسیه را تحت تأثیر قرار دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "سیاست خارجی",
+    "tag": "ترامپ",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+    "clean_url": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+    "image": "https://s.yimg.com/bo/88eff16e-72c4-5db8-8401-7cfd19c98d70_1791660862129.jpg",
+    "timestamp": 1791661393.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6cf45b6f27",
+    "title_fa": "‏DistroKid به‌دلیل دعوی UMG آهنگ‌های هنرمندان را حذف کرد",
+    "title_en": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "summary": [
+      "‏DistroKid بدون اطلاع، چندین آهنگ مستقل را به‌واسطه دعوی UMG حذف کرد.",
+      "‏این اقدام باعث نارضایتی هنرمندان شد و نشان‌دهنده فشارهای قانونی بر پلتفرم‌های توزیع موسیقی است.",
+      "‏برخی آهنگ‌های بدون محتوای AI نیز به‌خطا حذف شدند."
+    ],
+    "body_fa": "‏UMG در سپتامبر دعوایی علیه DistroKid به‌دلیل ادعای ایجاد یک «خط لوله AI‑slop» مطرح کرد و این شرکت به‌صورت ساکت شروع به حذف برخی آثار توزیع‌شده از طریق پلتفرم خود کرد. هنرمندان متعدد در شبکه‌های اجتماعی اعتراض کردند که آهنگ‌هایشان بدون هیچ‌گونه اخطاری حذف شده و دسترسی به پشتیبانی شرکت بسیار دشوار بوده است. برای مثال، موزیسین McGwire اعلام کرد شش آهنگش، از جمله یک کاور با مجوز Stevie Wonder ، به‌صورت ناگهانی حذف شد. رپر Insane Ian و King Chase نیز گزارش دادند که آثار اصلی خود را بدون توضیحی از دست داده‌اند. Amanda Ferri ، معاون خدمات هنرمند DistroKid ، گفت تعداد حذف‌ها بسیار کم بوده و شرکت با رد ادعاهای UMG سعی در کاهش اختلال برای هنرمندان دارد. این ماجرا نشان می‌دهد که فشارهای حقوقی می‌تواند توزیع دیجیتال موسیقی مستقل را تحت‌تأثیر قرار دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "قوانین کپی‌رایت موسیقی",
+    "tag": "DistroKid",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "clean_url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "image": "https://s.yimg.com/bo/42300743-577a-5698-b73a-822cf7736dfa_1791659062990.jpg",
+    "timestamp": 1791657794.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ae86f8b5b2",
     "title_fa": "‏انفجار بزرگ در فرودگاه بین‌المللی ریاض مسافران را تخلیه کرد",
     "title_en": "Loud blast at Riyadh airport as travellers evacuated and airlines cancel flights",
@@ -19,6 +63,50 @@
     "clean_url": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10",
     "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
     "timestamp": 1791642849.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7675c0b3fe",
+    "title_fa": "‏ده‌ها هزار نفر در لندن راهپیمایی حمایت از فلسطین کردند",
+    "title_en": "Tens of thousands take to London's streets in pro-Palestinian march",
+    "summary": [
+      "‏ده‌ها هزار نفر در لندن به مناسبت یک‌سالگی آتش‌بس میان‌المللی در غزه، راهپیمایی حمایت از فلسطین کردند.",
+      "‏این تظاهرات نشان‌دهنده فشار عمومی بر دولت‌های غربی برای پیشبرد مذاکرات صلح و پایان محاصره است.",
+      "‏پلیس برای حفظ نظم، هزاران مأمور را به خیابان‌ها اعزام کرد."
+    ],
+    "body_fa": "‏در روز شنبه، ده‌ها هزار نفر در مرکز لندن به راهپیمایی حمایت از فلسطین پرداختند. این تجمع به مناسبت یک‌سالگی آتش‌بس میان‌المللی بود که ایالات متحده میان‌المللی میان طرفین در غزه تنظیم کرده بود. اگرچه توافق اولیه برای بازسازی و کاهش درگیری‌ها بود، پیشرفت‌های ملموسی در این زمینه حاصل نشده است. تظاهرکنندگان با پرچم‌ها و شعارهای ضد‑اسرائیل، فشار بر دولت‌های غربی برای تجدید مذاکرات صلح و پایان محاصره غزه را افزایش دادند. پلیس برای حفظ امنیت، هزاران مأمور را در اطراف مسیر راهپیمایی مستقر کرد و برخی از تظاهرات‌کنندگان را بازداشت کرد. این رویداد نشان می‌دهد که حمایت عمومی از فلسطین در شهرهای اروپایی همچنان قوی است و می‌تواند بر سیاست‌های خارجی کشورهای هم‌پیمان تأثیر بگذارد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "تظاهرات بین‌المللی",
+    "tag": "پالستین",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/video/watch/idRW911410102026RP1/",
+    "clean_url": "https://www.reuters.com/video/watch/idRW911410102026RP1",
+    "image": "https://ajo.prod.reuters.tv/api/v2/img/6aca8886e4b0bd3536cbb281?height=1200&width=1200&quality=80&smart=true",
+    "timestamp": 1791633000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "82298846c0",
+    "title_fa": "‏هالیوود با فیلم‌های جدید به زاکربرگ، ماسک و آلتمن می‌پردازد",
+    "title_en": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+    "summary": [
+      "‏هفته‌آخر فیلم‌های متعددی درباره زاکربرگ، ماسک و آلتمن در سینماها عرضه می‌شود.",
+      "‏این آثار در زمان افزایش نگرانی عمومی نسبت به هوش مصنوعی، می‌توانند نگرش‌ها را تقویت یا تغییر دهند.",
+      "‏سونی پیکچرز پیش‌بینی می‌کند «The Social Reckoning» حدود 7 میلیون دلار فروش داخلی داشته باشد."
+    ],
+    "body_fa": "‏هفته‌آخر هالیوود با انتشار چند فیلم درباره بزرگ‌ترین چهره‌های فناوری و هوش مصنوعی، به نگرانی‌های عمومی پاسخ می‌دهد. سونی پیکچرز «The Social Reckoning» را که به افشاگری Frances Haugen در سال 2021 می‌پردازد، عرضه کرده و پیش‌بینی می‌کند حدود 7 میلیون دلار فروش داخلی داشته باشد. مستند چهار ساعته الون ماسک به کارگردانی Alex Gibney نیز به صورت محدود در سینماها نمایش می‌شود؛ اگرچه ماسک در X فیلم را «بدون یکپارچگی» توصیف کرده است. فیلم «Artificial» از Neon به سناریوی Sam Altman ، مدیرعامل OpenAI که در سال 2023 به‌طور موقت عزل شد، می‌پردازد. نتفلیکس نیز در سری «Instadocs» به حادثه Hugging Face می‌پردازد که در آن عوامل OpenAI به‌صورت خودکار به زیرساخت‌های شرکت نفوذ کردند. این مجموعه فیلم‌ها در زمانی منتشر می‌شوند که 73% آمریکایی‌ها خطر هوش مصنوعی برای بقا را می‌پذیرند و 54% فکر می‌کنند مراکز داده به محیط زیست آسیب می‌رسانند، بنابراین می‌توانند تأثیر قابل‌توجهی بر افکار عمومی داشته باشند.",
+    "category": "تکنولوژی",
+    "subcategory": "فیلم‌های فناوری",
+    "tag": "فیلم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
+    "clean_url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
+    "image": "https://s.yimg.com/bo/e01962b3-7bf2-5e4e-9241-8328da698c17_1791634773753.jpg",
+    "timestamp": 1791632593.0,
     "sent_to_telegram": true
   },
   {
@@ -66,6 +154,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0610ea0cdc",
+    "title_fa": "‏بهداشت جهانی علت مرگ کارگر طاعون در سیبری نامشخص است",
+    "title_en": "WHO unsure what caused pneumonia that killed plague-lab worker in Russia",
+    "summary": [
+      "‏یک کارگر در آزمایشگاه طاعون در سیبری روسیه به دلیل پنومونی جان خود را از دست داد",
+      "‏سازمان بهداشت جهانی (WHO) هنوز علت دقیق مرگ را نمی‌داند و نگرانی‌ها درباره ایمنی آزمایشگاه‌های زیست‌خطر را افزایش می‌دهد",
+      "‏این حادثه می‌تواند خطر انتشار بیماری‌های عفونی را به دنبال داشته باشد"
+    ],
+    "body_fa": "‏سازمان بهداشت جهانی (WHO) اعلام کرد که مرگ یک کارگر در یک مرکز تحقیقاتی طاعون در سیبری، روسیه، ناشی از پنومونی بوده است، اما علت دقیق این بیماری هنوز شناسایی نشده است. مقامات بهداشتی روسیه تأیید کردند که کارگر در آزمایشگاه با دسترسی به عوامل پاتوژنیک کار می‌کرد و به WHO اطلاع داده‌اند که هیچ نشانه‌ای از انتشار بیماری در جامعه وجود ندارد. این عدم وضوح در منبع عفونت نگرانی‌های بین‌المللی درباره ایمنی آزمایشگاه‌های زیست‌خطر را برانگیخته و خواستار بررسی‌های دقیق‌تر می‌شود. WHO تأکید کرد که برای جلوگیری از هرگونه شیوع احتمالی، نظارت مستمر و تبادل اطلاعات با روسیه ضروری است. این رویداد می‌تواند تأثیرات گسترده‌ای بر سیاست‌های زیست‌امنیتی و همکاری‌های بین‌المللی داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "بهداشت عمومی",
+    "tag": "پلاگ",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-russia-confirms-death-research-lab-no-plague-case-registered-2026-10-10/",
+    "clean_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-russia-confirms-death-research-lab-no-plague-case-registered-2026-10-10",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791624180.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "89eaf7c344",
     "title_fa": "‏بازار سهام رکورد رسید؛ نوسان AI و طرح 40 میلیاردی SpaceX",
     "title_en": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
@@ -110,6 +220,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "3e09605932",
+    "title_fa": "‏JPMorgan فرصت نسل‌ساز در اوراق قرضه کیفیت بالا را داد",
+    "title_en": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+    "summary": [
+      "‏JPMorgan Asset Management به سرمایه‌گذاران گفت اوراق قرضه با کیفیت بالا فرصت «یک‌بار در یک نسل» با بازده 6.5 ٪ ارائه می‌دهد.",
+      "‏این توصیه برای کسانی که در معرض سهام هوش مصنوعی هستند مهم است چون تنوع درآمدی و ریسک کمتر فراهم می‌کند.",
+      "‏مدیر پرتفوی JPMorgan Core Plus Bond Fund ETF که 16 میلیارد دلار دارایی دارد، به‌تازگی در اوراق BBB و مدت‌زمان سرمایه‌گذاری افزایش داد."
+    ],
+    "body_fa": "‏JPMorgan Asset Management در مصاحبه‌ای با CNBC اعلام کرد که اوراق قرضه با کیفیت بالا فرصتی «یک‌بار در یک نسل» برای سرمایه‌گذاران فراهم می‌کند. پرتفوی منیجر Priya Misra گفت می‌توان با شرکت‌های با بالاترین کیفیت اعتباری بازده حدود 6.5 ٪ کسب کرد بدون اینکه به ریسک‌های پایین‌تری از اعتبار برسیم. او افزود این استراتژی برای کسانی که در معرض سهام هوش مصنوعی هستند مناسب است، زیرا اوراق قرضه تنوعی از بازده‌های غیرمرتبط با تکنولوژی ارائه می‌دهد. Misra همچنین اشاره کرد که صندوق JPMorgan Core Plus Bond Fund ETF که حدود 16 میلیارد دلار دارایی دارد، سهم عمده‌ای از دارایی‌هایش را در اوراق BBB و بالاتر نگه داشته و اخیراً در معرض اوراق دو برابر B و یک‌بار B و مدت‌زمان بیشتری سرمایه‌گذاری کرده است. به اعتقاد او و همکارانش در BondBloxx ، نرخ‌های پایه بالا و پایدار به همراه fundamentals قوی شرکت‌ها، باعث می‌شود این بخش از بازار به‌نظر برسد که فرصت‌های جذابی برای کسب درآمد ثابت دارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "اوراق قرضه",
+    "tag": "اوراق_قرضه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+    "clean_url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108103716-1739901805641-JP3_8684.jpg?v=1740074904&w=1920&h=1080",
+    "timestamp": 1791619200.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "46bb20cdb5",
     "title_fa": "‏هند با قرنطینه دلهی، هزاران دستگیر و اعتراض خنثی شد",
     "title_en": "India detains thousands, locks down Delhi to foil election chief protest",
@@ -129,6 +261,28 @@
     "clean_url": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791618720.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "21b572236d",
+    "title_fa": "‏ترامپ پیوستن به حملات سعودی علیه هوثی‌ها را بررسی می‌کند",
+    "title_en": "Trump weighs joining the fight against Houthis after Saudi capital's airport is struck again",
+    "summary": [
+      "‏فرودگاه بین‌المللی ریاض پس از حمله موشکی دوباره هدف شد و چندین نفر زخمی شد.",
+      "‏ترامپ گفت در حال ارزیابی پیوستن ایالات متحده به حملات سعودی علیه هوثی‌هاست، که می‌تواند تنش‌های خاورمیانه و بازار نفت را تشدید کند.",
+      "‏حملات هوثی به زیرساخت‌های هوایی سعودی فشار بین‌المللی بر بازار انرژی را افزایش می‌دهد."
+    ],
+    "body_fa": "‏فرودگاه بین‌المللی ریاض در روز شنبه پس از حمله موشکی به ترمینال‌های داخلی ۳ و ۴ مورد هدف قرار گرفت و چندین نفر زخمی شد. این حمله در پی حملات مکرر هوثی‌ها به زیرساخت‌های هوایی و نفتی عربستان است که پس از آغاز عملیات نظامی جدید سعودی علیه هوثی‌ها رخ داده است. رئیس‌جمهور ایالات متحده دونالد ترامپ اعلام کرد که در حال بررسی این است که آیا آمریکا به حملات هوایی سعودی علیه گروه هوثی‑پشتیبان تهران بپیوندد. او افزود تصمیم‌گیری سریع خواهد شد و این موضوع می‌تواند نقش مهمی در تشدید تنش‌های خاورمیانه و نوسان قیمت نفت داشته باشد. مقامات سعودی عملیات فرودگاه را تا نیمه‌شب متوقف کرده و پروازها را به سایر فرودگاه‌ها منحرف کرده‌اند، در حالی که کشورهای مختلف به شهروندان خود هشدار داده‌اند از این فرودگاه دوری کنند. این تحولات فشار بین‌المللی بر بازار انرژی را افزوده و نگرانی‌ها درباره امنیت مسیرهای حمل‌ونقل دریایی در دریای سرخ را تشدید می‌کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "امنیت خاورمیانه",
+    "tag": "حمله_هوثی",
+    "urgency": 8,
+    "iran_relevant": true,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials.html",
+    "clean_url": "https://www.cnbc.com/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108386022-1791643371283-gettyimages-2295446276-AFP_C8RQ663.jpeg?v=1791643430&w=1920&h=1080",
+    "timestamp": 1791618300.0,
     "sent_to_telegram": true
   },
   {
@@ -261,6 +415,72 @@
     "clean_url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
     "image": "https://s.yimg.com/bo/baf4ca59-717d-502e-95b5-03c1de46d8bf_1791610152456.jpg",
     "timestamp": 1791609751.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8793287cf0",
+    "title_fa": "‏لای تایوان خواستار اتحاد دموکراسی‌ها پس از مذاکرات ترامپ‑شی شد",
+    "title_en": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
+    "summary": [
+      "‏رئیس‌جمهور تایوان لاي چینگ‑ته پس از گفت‌وگوهای ترامپ و شی جین‌پینگ، از دموکراسی‌ها خواست تا متحد شوند.",
+      "‏این فراخوان می‌تواند نقش تایوان در تقویت همبستگی غربی در برابر فشار چین را تقویت کند.",
+      "‏او هشدار داد که تقسیم‌پذیری می‌تواند منجر به تشدید تنش‌های منطقه‌ای شود."
+    ],
+    "body_fa": "‏در پی نشست‌های اخیر بین رئیس‌جمهور ایالات متحده دونالد ترامپ و رئیس‌جمهور چین شی جین‌پینگ، لاي چینگ‑ته، رئیس‌جمهور تایوان، از تمام کشورهای دموکراتیک درخواست کرد تا در مواجهه با چین به‌صورت یکپارچه عمل کنند. لاي بر این باور است که اتحاد دموکراسی‌ها می‌تواند فشارهای ژئوپلیتیک چین را کاهش داده و امنیت منطقه‌ای را تقویت کند. او همچنین به خطرات ناشی از تفرقه و عدم هماهنگی بین دموکراسی‌ها اشاره کرد و تأکید کرد که تنها همبستگی می‌تواند مانع از گسترش نفوذ چین در آسیا شود.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "روابط بین‌الملل",
+    "tag": "لای",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791605760.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "24800ca574",
+    "title_fa": "‏Nvidia مذاکرات خرید استارتاپ Reflection AI را آغاز کرد",
+    "title_en": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+    "summary": [
+      "‏Nvidia در حال مذاکره برای خرید شرکت آمریکایی Reflection AI ، متخصص مدل‌های باز هوش مصنوعی است.",
+      "‏این اقدام می‌تواند موقعیت Nvidia را در بازار هوش مصنوعی تقویت کرده و رقابت با OpenAI را تشدید کند.",
+      "‏خرید احتمالی می‌تواند دسترسی Nvidia به فناوری‌های مدل باز را گسترش دهد."
+    ],
+    "body_fa": "‏شرکت Nvidia اعلام کرد که در حال بررسی خرید استارتاپ آمریکایی Reflection AI است. Reflection AI به توسعه مدل‌های هوش مصنوعی باز و ابزارهای مرتبط می‌پردازد. اگر این معامله تکمیل شود، Nvidia می‌تواند فناوری‌های متن باز را به پلتفرم‌های سخت‌افزاری خود اضافه کند و در رقابت با شرکت‌های بزرگ مانند OpenAI و Anthropic پیشتاز شود. این خرید همچنین می‌تواند نقش Nvidia را در اکوسیستم هوش مصنوعی گسترده‌تر کند و فرصت‌های جدیدی برای مشتریانش فراهم آورد. معامله هنوز در مرحله مذاکرات است و زمان نهایی آن نامشخص است.",
+    "category": "تکنولوژی",
+    "subcategory": "ادغام و تملک",
+    "tag": "Nvidia",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791605640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8801782fd4",
+    "title_fa": "‏نوییدیا 6 تریلیون دلاری، دسترس به GPU ها گسترش یافت",
+    "title_en": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+    "summary": [
+      "‏نوییدیا بازار سرمایه را به نزدیک 6 تریلیون دلار رساند و پیش‌بینی 108 میلیارد دلار درآمد برای سه‌ماهه اکتبر کرد.",
+      "‏شرکت‌ها می‌توانند GPU های نویدیا را از ابرهای بزرگ آمازون، مایکروسافت و گوگل یا از neocloud هایی مثل CoreWeave تهیه کنند.",
+      "‏در سال گذشته تعداد ارائه‌دهندگان GPU نویدیا به 323 رسید، که نشان از تنوع و تقاضای رو به رشد دارد."
+    ],
+    "body_fa": "‏نوییدیا با نزدیک شدن به ارزش بازار 6 تریلیون دلاری، پیش‌بینی کرده است که درآمد سه‌ماهه اکتبر به 108 میلیارد دلار برسد؛ یعنی رشد 89 درصدی نسبت به سال گذشته. این تقاضای شدید برای پردازنده‌های گرافیکی هوش مصنوعی باعث شده تا مشتریان بتوانند از طریق ابرهای بزرگ مانند Amazon ، Microsoft و Google به GPU ها دسترسی پیدا کنند. علاوه بر این، شرکت‌های نوظهور به نام neocloud ها مثل CoreWeave نیز خدمات مشابهی ارائه می‌دهند. تعداد ارائه‌دهندگان GPU نویدیا از 209 به 323 در کمتر از یک سال افزایشی چشمگیر داشته است. این تنوع گزینه‌ها به شرکت‌ها کمک می‌کند تا بسته به نیاز و سرعت موردنظر، بهترین راه‌حل را انتخاب کنند.",
+    "category": "تکنولوژی",
+    "subcategory": "پردازنده‌های گرافیکی",
+    "tag": "Nvidia",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+    "clean_url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108363240-1789497350287-gettyimages-2294936606-DREAMFORCE_2026.jpeg?v=1791240406&w=1920&h=1080",
+    "timestamp": 1791604800.0,
     "sent_to_telegram": true
   },
   {
@@ -6377,226 +6597,6 @@
     "clean_url": "https://www.fxstreet.com/news/gold-defies-us-dollar-surge-as-us-yield-slide-revives-bullion-demand-202610012103",
     "image": "https://s.yimg.com/bo/5ec7f67a-66c3-598f-9398-3aa1038a682f_1785125594228.jpg",
     "timestamp": 1790888628.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4b10a4c202",
-    "title_fa": "‏درگیری‌های پهپادی روسیه در کیف: مدرسه و پل سوخت",
-    "title_en": "Russian drone strikes Kyiv school, pupils escape unhurt",
-    "summary": [
-      "‏پهپادهای روسیه صبح‌گاه مدرسه‌ای در کیف را هدف گرفت و در همان روز پل جنوبی دنیپرو را مورد حمله قرار دادند.",
-      "‏هیچ‌کسی صدمه ندید؛ دانش‌آموزان در پناهگاه بودند؛ حمله به پل حمله‌ای جدی به زیرساخت‌های حیاتی شهر است.",
-      "‏وزیری زلنسکی به مدرسه سوخته رفت و وضعیت را بررسی کرد."
-    ],
-    "body_fa": "‏صبح‌گاه روز یکم اکتبر، پهپادهای روسیه به یک مدرسه در مرکز کیف برخورد کردند و آتش‌سوزی شد، اما تمام دانش‌آموزان در پناهگاه بودند و هیچ‌کس صدمه ندید. در همان روز، دو پهپاد دیگر پل جنوبی دنیپرو را هدف گرفتند و بخشی از سطح جاده و سازه‌های حفاظتی مترو را تخریب کردند. حمله به این پل که یکی از مسیرهای کلیدی عبور عمومی و مترو بود، باعث قطع خدمات حمل‌ونقل عمومی و خاموشی برق در خطوط مترو شد. رئیس‌جمهور ولادیمیر زلنسکی به محل مدرسه سوخته رفت، با کارکنان مدرسه ملاقات کرد و تأکید کرد که روس‌ها «هیچ‌کس را نمی‌سپارند». این حملات نشان‌دهنده تشدید استفاده روسیه از پهپادهای جت‌دار است که برای دفاع هوایی کیف دشوارتر است و به‌نظر می‌رسد بخشی از کمپین سردی برای هدف قرار دادن شبکه برق کشور باشد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حملات هوایی",
-    "tag": "پهپاد",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters · via Yahoo News",
-    "url": "https://www.yahoo.com/news/articles/russian-drones-strike-kyiv-school-121509531.html",
-    "clean_url": "https://www.yahoo.com/news/articles/russian-drones-strike-kyiv-school-121509531.html",
-    "image": "https://media.zenfs.com/en/reuters.com/7fca5e2775a4a77cd8432332cca97d33.jpg",
-    "timestamp": 1790888451.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "876e190d65",
-    "title_fa": "‏شرکت ConocoPhillips قرارداد 20 ساله LNG با Venture Global را امضا کرد",
-    "title_en": "ConocoPhillips signs 20-year LNG deal with Venture Global",
-    "summary": [
-      "‏شرکت ConocoPhillips و Venture Global قرارداد 20 ساله تأمین گاز مایع (LNG) را امضا کردند.",
-      "‏این توافق عرضه LNG در آمریکا را تقویت و نیازهای انرژی ConocoPhillips را برای دو دهه آینده تأمین می‌کند.",
-      "‏جزئیات حجم و قیمت قرارداد هنوز منتشر نشده اما مدت زمان طولانی نشانگر تعهد استراتژیک است."
-    ],
-    "body_fa": "‏شرکت ConocoPhillips و Venture Global امروز قرارداد 20 ساله تأمین گاز مایع (LNG) را به امضا رساندند. این توافق به Venture Global اجازه می‌دهد تا LNG تولیدی از پروژه‌های خود، مانند Plaquemines یا Calcasieu Pass ، را به ConocoPhillips عرضه کند. برای ConocoPhillips این قرارداد منبع پایدار و بلندمدت انرژی را فراهم می‌آورد و به تنوع بخشی به ترکیب سوخت‌های خود کمک می‌کند. معامله نشانگر ادامه رشد صادرات LNG ایالات متحده و تقویت نقش این کشور در بازار جهانی انرژی است. اگرچه جزئیات دقیق حجم و قیمت هنوز فاش نشده، مدت زمان دو دهه‌ای نشان از تعهد استراتژیک هر دو طرف دارد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قرارداد گاز مایع",
-    "tag": "LNG",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/conocophillips-signs-20-year-lng-deal-with-venture-global-2026-10-01/",
-    "clean_url": "https://www.reuters.com/business/energy/conocophillips-signs-20-year-lng-deal-with-venture-global-2026-10-01",
-    "image": "https://s.yimg.com/bo/1d312d66-ccd5-52ea-8bc9-211cd7256a1e_1790888714938.jpg",
-    "timestamp": 1790888451.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "afb175e6dd",
-    "title_fa": "‏پوتین به فرماندهان نظامی خود دستور لغو قوانین جنگ داد",
-    "title_en": "Putin has told military leaders to abandon rules of war, Zelenskyy says",
-    "summary": [
-      "‏پوتین به فرماندهان نظامی خود گفته است که قوانین جنگ را نادیده بگیرند، به گفته ولنسکی.",
-      "‏این اظهارات می‌تواند تشدید خشونت در جنگ اوکراین و واکنش‌های بین‌المللی را به دنبال داشته باشد.",
-      "‏اوکراین این ادعا را به عنوان نشانه‌ای از نیت‌های تجاوزی روسیه مطرح کرد."
-    ],
-    "body_fa": "‏ولنسکی روز دوشنبه اعلام کرد که رئیس‌جمهور روسیه، ولادیمیر پوتین، به فرماندهان نظامی خود دستور داده است تا قوانین جنگ را نادیده بگیرند. این ادعا بر پایه گفت‌وگوهای مخفیانه و اطلاعاتی است که ولنسکی آن را به رسانه‌ها منتقل کرده است. اگر صحت داشته باشد، نشان‌دهندهٔ تغییر استراتژیک در سیاست نظامی روسیه و احتمال ارتقای خشونت در جبهه‌های اوکراین است. چنین بیانیه‌ای می‌تواند واکنش‌های بین‌المللی، از جمله تحریم‌های جدید و فشارهای دیپلماتیک، را برانگیزد. اوکراین این موضوع را به عنوان مدرکی برای نشان دادن نیت‌های تجاوزی پوتین به کار می‌گیرد. در عین حال، نهادهای بین‌المللی هنوز به بررسی صحت این ادعا پرداخته‌اند و هنوز تصمیمی قطعی در خصوص اقدامات قانونی اتخاذ نشده است.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "روابط روسیه اوکراین",
-    "tag": "قوانین_جنگ",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bf79c76-020b-4f8d-8d7c-f00f9df54f4a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1790888400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d89014b3ef",
-    "title_fa": "‏کارکنان سفیدپوش بوئینگ قرارداد جدید را تصویب کردند",
-    "title_en": "Boeing white-collar workers approve latest contract offer, averting strike fears",
-    "summary": [
-      "‏اتحادیه بزرگ سفیدپوش بوئینگ اعلام کرد اعضا پیشنهاد اصلاح‌شده قرارداد را پذیرفتند",
-      "‏این توافق از بروز اعتصاب جلوگیری کرد و اطمینان به ادامه تولید هواپیماها را فراهم ساخت",
-      "‏قرارداد شامل افزایش دستمزد 2.5 ٪ و بهبود مزایای بازنشستگی است"
-    ],
-    "body_fa": "‏اتحادیه بزرگ سفیدپوش بوئینگ، که بیش از 22000 کارمند را نمایندگی می‌کند، روز پنج‌شنبه اعلام کرد اعضای آن پیشنهاد اصلاح‌شده قرارداد کاری را با اکثریت قاطع پذیرفتند. این قرارداد جدید شامل افزایش دستمزد 2.5 درصد، بهبود مزایای بازنشستگی و تعهد به حفظ شغل در طول دوره قرارداد است. پذیرش این پیشنهاد به‌سرعت از بروز اعتصاب جلوگیری کرد که می‌توانست تولید هواپیماهای تجاری و نظامی بوئینگ را مختل کند. تحلیل‌گران بازار انتظار داشتند که هرگونه توقف در خطوط تولید می‌تواند فشار بیشتری بر سهام بوئینگ وارد کند و نوساناتی در بازارهای مرتبط ایجاد نماید. با این توافق، بوئینگ می‌تواند برنامه‌های تولید خود را بدون وقفه ادامه دهد و اطمینان سرمایه‌گذاران را نسبت به عملکرد مالی شرکت حفظ کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "کارگری",
-    "tag": "Boeing",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/world-at-work/boeing-white-collar-workers-approve-latest-contract-offer-averting-strike-fears-2026-10-01/",
-    "clean_url": "https://www.reuters.com/business/world-at-work/boeing-white-collar-workers-approve-latest-contract-offer-averting-strike-fears-2026-10-01",
-    "image": "https://s.yimg.com/bo/4ea648cf-bd6f-52aa-bcc9-1ed3f23cee9b_1789761494829.jpg",
-    "timestamp": 1790884851.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1ec936a7ac",
-    "title_fa": "‏فدرال رزرو شرط برای افزایش نرخ اکتبر را لغو کرد",
-    "title_en": "Fed officials wash away market bets on October rate increase",
-    "summary": [
-      "‏دو تن از سیاست‌گذاران ارشد فدرال رزرو این هفته اعلام کردند که احتمال افزایش نرخ بهره در اکتبر از بین رفته است.",
-      "‏این خبر باعث شد بازارهای مالی به‌سرعت شرط‌های قبلی را حذف کنند و نرخ‌های بهره و ارزها تحت فشار قرار گیرند.",
-      "‏پیش‌بینی‌های قبلی که نرخ بهره را تا ۲۵ بپایز پایه می‌دیدند، اکنون منسوخ شد."
-    ],
-    "body_fa": "‏دو نفر از اعضای ارشد فدرال رزرو این هفته در مصاحبه‌های خود گفتند که احتمال افزایش نرخ بهره در جلسه اکتبر بسیار کم است. این اظهارات باعث شد سرمایه‌گذاران به‌سرعت شرط‌های قبلی خود برای یک افزایش ۲۵ بپایز در اکتبر را حذف کنند. در نتیجه، بازده اوراق قرضه دولتی آمریکا کاهش یافت و دلار نسبت به سایر ارزها کمی تضعیف شد. بازارهای سهام نیز پس از این خبر نوسان مثبت نشان دادند. تحلیل‌گران بر این باورند که این سیگنال می‌تواند مسیر سیاست پولی فدرال رزرو را تا پایان سال به سمت ثبات بیشتر هدایت کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "فدرال رزرو",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/fed-may-take-time-make-next-interest-rate-move-jefferson-says-2026-10-01/",
-    "clean_url": "https://www.reuters.com/business/fed-may-take-time-make-next-interest-rate-move-jefferson-says-2026-10-01",
-    "image": "https://s.yimg.com/bo/9e5454c5-d4b6-5992-adc6-b2c08557c1e6_1789609333352.jpg",
-    "timestamp": 1790877651.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b237c9aeac",
-    "title_fa": "‏فروش اوراق قرضه با بازگشت تانکر‌های نفتی هرمز ادامه یافت",
-    "title_en": "The Bond Rout Is Deepening Even as Oil Tankers Return to the Strait of Hormuz",
-    "summary": [
-      "‏اوراق قرضه جهانی به شدت فروخته شدند، در حالی که تانکر‌های نفتی به تنگه هرمز بازگشتند.",
-      "‏فشارهای قیمتی نفت که به دلیل زنجیره تأمین تحت فشار است، باعث فشار بر بازارهای ثابت‌درآمد شد.",
-      "‏این روند می‌تواند بازدهی اوراق را برای سرمایه‌گذاران کاهش دهد."
-    ],
-    "body_fa": "‏بازار اوراق قرضه جهانی در روزهای اخیر با فروش گسترده‌ای مواجه شده است. این فشار فروش همزمان با بازگشت تانکر‌های نفتی به تنگه هرمز رخ داده است. اگرچه عبور کشتی‌ها نشانه‌ای از کاهش تنش‌های حمل‌ونقل نفت است، اما زنجیره تأمین تبدیل نفت به سوخت همچنان تحت فشار باقی مانده است. قیمت‌های بالای نفت باعث افزایش انتظارات تورمی و فشار بر نرخ بهره می‌شود. این عوامل ترکیبی باعث شده‌اند تا سرمایه‌گذاران به سرعت از اوراق قرضه دور شوند و بازدهی‌ها افزایش یابد. ادامه این روند می‌تواند تأثیر قابل‌توجهی بر سبدهای سرمایه‌گذاری و هزینه‌های تأمین مالی داشته باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "اوراق قرضه",
-    "tag": "اوراق",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/finance/commodities-futures/the-bond-rout-is-deepening-even-as-oil-tankers-return-to-the-strait-of-hormuz-30d8189d",
-    "clean_url": "https://www.wsj.com/finance/commodities-futures/the-bond-rout-is-deepening-even-as-oil-tankers-return-to-the-strait-of-hormuz-30d8189d",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790877600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4ba722afb6",
-    "title_fa": "‏امریکا تحریم‌های جدید بر خودروسازی و راه‌آهن ایران اعمال کرد",
-    "title_en": "Treasury sanctions operation targets Iran's auto, rail industries in latest...",
-    "summary": [
-      "‏آمریکا بخش‌های خودروسازی و راه‌آهن ایران را تحت تحریم قرار داد.",
-      "‏هدف، قطع منابع مالی رژیم و تضعیف توان جنگی آن است.",
-      "‏همچنین شبکه بانکی سایه‌ای A7 با روابط روسی نیز هدف شد."
-    ],
-    "body_fa": "‏وزارت خزانه‌داری آمریکا روز پنجشنبه تحریم‌های جدیدی علیه بخش‌های خودروسازی و راه‌آهن ایران اعلام کرد. این اقدام بخشی از «Operation Economic Outcast» است که هدفش قطع مسیرهای مالی باقی‌مانده رژیم تهران است. ادارهٔ کنترل دارایی‌های خارجی (OFAC) شرکت‌های داخلی خودروسازی و تأمین‌کنندگان خارجی از جمله Integrated Auto Parts LLC (امارات)، Hessenberg Co. (هنگ‌کنگ) و PT Golden Motorcycle International (اندونزی) را فهرست کرد. همچنین چند شرکت راه‌آهن ایرانی و دو شرکت فولاد چینی – Shanghai Ruimi Import and Export Trade Co. و M and R Steel Co. – مورد تحریم قرار گرفتند. در بیانیه‌ای، اسکار بسنِت گفت این تحریم‌ها توان مالی رژیم برای تأمین ماشین‌آلات جنگی و اعمال ترور را به‌طور قابل‌توجهی کاهش می‌دهد. او افزود شبکه بانکی سایه‌ای A7 که با روسیه ارتباط دارد نیز هدف جدید این عملیات است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های اقتصادی",
-    "tag": "تحریم",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
-    "clean_url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
-    "image": "https://s.yimg.com/bo/45777f8d-c513-5116-92f2-9d65c097b696_1790875823837.jpg",
-    "timestamp": 1790874233.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ad37723434",
-    "title_fa": "‏اوکراین موشک FP-7 را برای اولین بار به کار برد",
-    "title_en": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time,...",
-    "summary": [
-      "‏اوکراین برای اولین بار موشک FP-7 را در عملیات نظامی به کار برد",
-      "‏این اقدام نشان‌دهنده ارتقای توان نظامی اوکراین و تهدید جدید برای نیروهای روسیه است",
-      "‏موشک FP-7 می‌تواند هدف‌های دوردست تا 300 کیلومتر را با دقت بالا هدف‌گیری کند"
-    ],
-    "body_fa": "‏اوکراین روز دوشنبه موشک تاکتیکی FP-7 را برای اولین بار در جنگ با روسیه به کار برد. این موشک که توسط شرکت Ukroboronprom توسعه یافته، توانایی پرتاب به هدف‌های ثابت و متحرک تا فاصله حدود 300 کیلومتری را دارد. فرماندهی نظامی اوکراین اعلام کرد که هدف اصلی این حمله، پایگاه‌های پشتیبانی روسی در نواحی جدایی‌طلبی بوده است. استفاده از FP-7 نشان می‌دهد که اوکراین توانسته است به سلاح‌های بالستیک پیشرفته دست یابد و به رده‌ای از توان نظامی نزدیک شود که پیش از این برای آن دسترس‌پذیر نبود. مسلماً این حرکت واکنش‌های شدید روسیه را به دنبال خواهد داشت و می‌تواند به تشدید درگیری‌های مرزی منجر شود. تحلیل‌گران بر این باورند که معرفی چنین سلاحی می‌تواند فشار بین‌المللی بر مسألهٔ حمایت‌های نظامی به اوکراین را افزایش دهد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "جنگ اوکراین",
-    "tag": "FP-7",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/ukraine-deploys-fp-7-tactical-ballistic-missile-combat-first-time-zelenskiy-says-2026-10-01/",
-    "clean_url": "https://www.reuters.com/business/aerospace-defense/ukraine-deploys-fp-7-tactical-ballistic-missile-combat-first-time-zelenskiy-says-2026-10-01",
-    "image": "https://s.yimg.com/bo/456b6eb8-2262-58db-8f9c-d0c0c246cd68_1790876778011.jpg",
-    "timestamp": 1790874051.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e91ee23521",
-    "title_fa": "‏تریلر رسمی Gears of War: E‑Day منتشر شد",
-    "title_en": "Gears of War: E-Day - Official Launch Trailer",
-    "summary": [
-      "‏تریلر رسمی بازی جدید Gears of War: E‑Day منتشر شد",
-      "‏بازی در ۶ اکتبر برای Xbox Series X|S و PC عرضه می‌شود",
-      "‏دسترسی زودهنگام برای خریداران نسخه Premium از پیش‌سفارش فعال است"
-    ],
-    "body_fa": "‏استودیوی The Coalition تریلر رسمی نصب جدید سری Gears of War با عنوان E‑Day را منتشر کرد. در این تریلر بازیکنان با روز ظهور (Emergence Day) و ظهور ارتش لکوست از اعماق سیاره مواجه می‌شوند. مارکوس فینکس و دومینیک سانتیاگو برای اولین بار در این قسمت به مبارزه می‌پردازند. بازی در تاریخ ۶ اکتبر برای کنسول‌های Xbox Series X|S و پلتفرم PC (Steam) منتشر خواهد شد. پیش‌سفارش نسخه Premium امکان دسترسی زودهنگام به بازی را فراهم می‌کند. این عنوان ادامه‌ای برای یکی از محبوب‌ترین بازی‌های شوتر سوم‌بعدی محسوب می‌شود.",
-    "category": "گیم",
-    "subcategory": "معرفی بازی",
-    "tag": "GearsOfWar",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN Videogames",
-    "url": "https://www.ign.com/videos/gears-of-war-e-day-official-launch-trailer",
-    "clean_url": "https://www.ign.com/videos/gears-of-war-e-day-official-launch-trailer",
-    "image": "https://s.yimg.com/bo/6474766c-5c36-5528-bf44-21ba0e213b92_1790868923178.jpg",
-    "timestamp": 1790867033.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "81d90484f4",
-    "title_fa": "‏بلاژرد فروش طلا در WoW Forever را ممنوع کرد",
-    "title_en": "Blizzard Cracks Down on Gold Selling in World of Warcraft Forever — and Streamer...",
-    "summary": [
-      "‏Blizzard سیاست جدیدی برای ممنوع کردن تجارت طلا در WoW Forever اعلام کرد.",
-      "‏حساب‌های متخلف طلا از دست می‌دهند، تعلیق یا بسته می‌شوند و اقتصاد بازی تثبیت می‌شود.",
-      "‏استریمر Ziqo پس از دریافت طلا تنها 9 نقره باقی ماند و در Stonetalon Mountains گم شد."
-    ],
-    "body_fa": "‏مدیر جامعه بلاژرد، Kaivax ، در انجمن‌های World of Warcraft اعلام کرد که سیاست ضد تجارت واقعی پول (RMT) به‌صورت قطعی اجرا می‌شود. در پنجره معامله هشدار جدیدی ظاهر می‌شود که دریافت مقادیر بزرگ طلا از افراد ناشناس را هشدار می‌دهد. هر حسابی که در تولید، فروش، خرید یا دریافت طلا به‌صورت غیرقانونی مشارکت داشته باشد، ممکن است طلا از دست بدهد، تعلیق یا حتی بسته شدن دائمی حساب را تجربه کند. این اقدام پس از مشکلات طولانی‌مدت اقتصاد Classic و استفاده از سیستم GDKP برای فروش طلا صورت گرفته است. در بتای Forever ، استریمر Ziqo پس از دریافت طلا توسط بلاژرد تنها 9 نقره باقی ماند و در ناحیه Stonetalon Mountains بدون توان بازگشت به Stormwind ماند. هدف نهایی این سیاست تثبیت اقتصاد بازی و ایجاد تجربه‌ای عادلانه برای همه بازیکنان است.",
-    "category": "گیم",
-    "subcategory": "قوانین تجارت داخل بازی",
-    "tag": "فروش طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN Videogames",
-    "url": "https://www.ign.com/articles/blizzard-cracks-down-on-gold-selling-in-world-of-warcraft-forever-and-streamers-are-in-the-firing-line",
-    "clean_url": "https://www.ign.com/articles/blizzard-cracks-down-on-gold-selling-in-world-of-warcraft-forever-and-streamers-are-in-the-firing-line",
-    "image": "https://s.yimg.com/bo/70303591-95f5-59fc-a517-099d61f859ea_1789498639512.jpg",
-    "timestamp": 1790866853.0,
     "sent_to_telegram": true
   }
 ]
