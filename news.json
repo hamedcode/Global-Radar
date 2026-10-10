@@ -1,5 +1,27 @@
 [
   {
+    "id": "ae86f8b5b2",
+    "title_fa": "‏انفجار بزرگ در فرودگاه بین‌المللی ریاض مسافران را تخلیه کرد",
+    "title_en": "Loud blast at Riyadh airport as travellers evacuated and airlines cancel flights",
+    "summary": [
+      "‏انفجار شدیدی در فرودگاه بین‌المللی ریاض رخ داد و 12 آمبولانس به محل آمدند",
+      "‏حادثه منجر به تخلیه مسافران، لغو پروازها و نگرانی‌های امنیتی در منطقه شد",
+      "‏مقامات هنوز دلیل انفجار را اعلام نکرده‌اند"
+    ],
+    "body_fa": "‏امروز صبح انفجار شدیدی در فرودگاه بین‌المللی ریاض رخ داد که باعث حضور بیش از 12 آمبولانس در محل شد. مسافران به سرعت تخلیه و از ترمینال‌ها خارج شدند و چندین شرکت هواپیمایی پروازهای خود را لغو کردند. مقامات ریاض اعلام کردند که تحقیقات برای شناسایی منبع انفجار آغاز شده است و امنیت فرودگاه تا اطلاع ثانوی محدود شده است. این حادثه نگرانی‌های امنیتی را در خاورمیانه تشدید کرده و احتمالاً بر جریان مسافران و تجارت هوایی منطقه تأثیر خواهد گذاشت.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حوادث امنیتی",
+    "tag": "انفجار ریاض",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/",
+    "clean_url": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10",
+    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
+    "timestamp": 1791642849.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "dabc3eaf7e",
     "title_fa": "‏دولت Donald Trump تحریم‌های دیزل روسیه را موقتاً لغو کرد",
     "title_en": "Why Russian Sanctions Relief Would Do Little For U.S. Fuel Prices",
@@ -22,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "46bb20cdb5",
+    "title_fa": "‏هند با قرنطینه دلهی، هزاران دستگیر و اعتراض خنثی شد",
+    "title_en": "India detains thousands, locks down Delhi to foil election chief protest",
+    "summary": [
+      "‏هند در روز شنبه، مرکز دلهی را قرنطینه کرد و هزاران نفر را دستگیر کرد تا از اعتراض جوانان جلوگیری کند.",
+      "‏این اقدام برای مهار اعتراض رئیس‌جمهور به نتایج انتخابات است و نشان‌دهنده تشدید سرکوب سیاسی در هند است.",
+      "‏متروها بسته، اینترنت موبایل قطع و بازارها بسته شدند."
+    ],
+    "body_fa": "‏در روز شنبه، مقامات هندی مرکز دلهی را به طور کامل قرنطینه کردند. هزاران نفر از جمله جوانان فعال سیاسی توسط پلیس و نیروهای شبه‌نظامی دستگیر شدند. متروهای شهر بسته شد، دسترسی به اینترنت موبایل قطع گردید و بازارها به طور موقت تعطیل شدند. این اقدامات به منظور جلوگیری از تظاهراتی بود که رئیس‌جمهور برای اعتراض به نتایج انتخابات برنامه‌ریزی کرده بود. سرکوب گسترده نشان می‌دهد فشارهای سیاسی در هند در آستانه انتخابات افزایش یافته است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "سرکوب داخلی",
+    "tag": "قفل‌دلهی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10/",
+    "clean_url": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791618720.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "91ab23f1e6",
     "title_fa": "‏هریکن ایزایاس ورود به فلوریدا به طوفان پس‌قطبی تبدیل شد",
     "title_en": "Isaias weakens to Category 1 hurricane after Florida landfall, NHC says",
@@ -41,6 +85,28 @@
     "clean_url": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
     "image": "https://s.yimg.com/bo/ebf838aa-aecc-5e36-bf27-39e3fad72159_1791615810424.jpg",
     "timestamp": 1791613351.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0adeef6cde",
+    "title_fa": "‏اریتره درخواست مداخله سازمان ملل در تنش با اتیوپی",
+    "title_en": "Eritrea asks UN to intervene in standoff with Ethiopia",
+    "summary": [
+      "‏نیروهای دولتی اتیوپی به همراه شبه‌نظامیان به شهر ادیگرات نزدیک مرز اریتره وارد شدند",
+      "‏اریتره از سازمان ملل خواست تا در این کشمکش مداخله کند، که می‌تواند ثبات منطقه‌ای را به خطر بیندازد",
+      "‏این درگیری پس از عقب‌نشینی نیروهای اریتره از مرز رخ داد"
+    ],
+    "body_fa": "‏نیروهای دولتی اتیوپی و شبه‌نظامیان هم‌پیمانشان روز شنبه به شهر ادیگرات در نزدیکی مرز اریتره وارد شدند. این حرکت پس از آن بود که نیروهای اریتره از این مرز عقب‌نشینی کردند. اریتره به سازمان ملل درخواست مداخله کرد و از نقض حاکمیت خود توسط اتیوپی شکایت کرد. نهادهای بین‌المللی ممکن است نظارت یا نیروهای صلح‌بانی را برای جلوگیری از تشدید درگیری بررسی کنند. این کشمکش می‌تواند ثبات کل منطقه هورن آف آفریقا را به خطر اندازد و بر مسیرهای تجاری و کمک‌های بشردوستانه تأثیر بگذارد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "تنش مرزی",
+    "tag": "اریتره-اتیوپی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/ethiopian-forces-regain-control-border-city-after-reported-eritrean-incursion-2026-10-10/",
+    "clean_url": "https://www.reuters.com/world/africa/ethiopian-forces-regain-control-border-city-after-reported-eritrean-incursion-2026-10-10",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791611460.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +220,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "8500715d51",
+    "title_fa": "‏ترکیه شبکه‌های اجتماعی را برای زیر 15 سال ممنوع کرد",
+    "title_en": "Turkey Bans Social Media Accounts for Children Under 15",
+    "summary": [
+      "‏دولت ترکیه ساخت حساب کاربری در شبکه‌های اجتماعی را برای نوجوانان زیر 15 سال ممنوع کرد.",
+      "‏این قانون در راستای محافظت از سلامت روان و ایمنی دیجیتال کودکان در فضای آنلاین اعمال می‌شود.",
+      "‏پلتفرم‌های اینترنتی موظف به پیاده‌سازی سیستم‌های دقیق برای سنجش سن کاربران خواهند بود."
+    ],
+    "body_fa": "‏دولت ترکیه قوانین جدیدی را تصویب کرده است که طبق آن عضویت افراد زیر 15 سال در شبکه‌های اجتماعی ممنوع می‌شود. این اقدام با هدف مهار خطرات فضای مجازی و حفاظت از سلامت روانی نوجوانان صورت گرفته است. بر پایه این مصوبه، پلتفرم‌های بزرگ دیجیتال ملزم خواهند شد تا سازوکارهای سخت‌گیرانه‌ای برای راستی‌آزمایی سن کاربران در ترکیه پیاده کنند. این تصمیم نشان‌دهنده موج جدید رگولاتوری علیه شرکت‌های بزرگ فناوری و الگوبرداری از اقدامات مشابه در کشورهایی چون استرالیا است. با این حال، کارشناسان بر این باورند که الزام پلتفرم‌ها به نظارت بر سن کاربران با چالش‌های فنی و حریم خصوصی جدی روبه‌رو خواهد شد.",
+    "category": "تکنولوژی",
+    "subcategory": "قوانین فضای مجازی",
+    "tag": "شبکه‌های اجتماعی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-10/turkey-bans-social-media-accounts-for-children-under-15",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-10/turkey-bans-social-media-accounts-for-children-under-15",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791595500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e2e5bdadaf",
+    "title_fa": "‏ترامپ میامی مذاکرات آمریکا‑اوکراین‑اروپا و توافق دیزل را اعلام کرد",
+    "title_en": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal...",
+    "summary": [
+      "‏مذاکرات شش ساعته بین آمریکا، اوکراین و کشورهای اروپایی در میامی برگزار شد",
+      "‏در همین جلسه ترامپ توافق جدیدی برای تأمین دیزل به اوکراین اعلام کرد",
+      "‏این اقدام می‌تواند تأثیراتی بر بازار انرژی و حمایت نظامی اوکراین داشته باشد"
+    ],
+    "body_fa": "‏در میامی، نمایندگان آمریکا، اوکراین و اتحادیه اروپا شش ساعت به مذاکرات پیرامون کمک‌های نظامی، تحریم‌ها و مسائل انرژی اختصاص دادند. در پایان نشست، رئیس‌جمهور ترامپ اعلام کرد که یک قرارداد تأمین دیزل به مقدار چند میلیون بشکه برای اوکراین امضا شده است. این توافق می‌تواند به بهبود توان عملیاتی نیروهای اوکراین کمک کند و فشار جدیدی بر بازارهای نفت و دیزل وارد نماید. مذاکرات همچنان ادامه دارد و جزئیات دیگر حمایت‌های مالی و نظامی هنوز نهایی نشده است. حضور مقامات کلیدی از وزارت خارجه آمریکا، وزارت دفاع اوکراین و نمایندگان اروپایی نشان‌دهنده تعهد مشترک به ادامه فشار بر روسیه است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "مذاکرات انرژی",
+    "tag": "دیزل",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/us-ukraine-european-negotiators-meet-miami-trump-announces-diesel-deal-with-2026-10-10/",
+    "clean_url": "https://www.reuters.com/world/europe/us-ukraine-european-negotiators-meet-miami-trump-announces-diesel-deal-with-2026-10-10",
+    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
+    "timestamp": 1791588849.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0d059e22ac",
+    "title_fa": "‏سهام آمریکا رکورد شد؛ نرخ بهره بلندمدت بالا مانع خوشحالی",
+    "title_en": "[Weekly Economic News] US stocks hit record highs, but why can't we rest easy? A 10-minute recap of this week's global economy! (October 5th",
+    "summary": [
+      "‏سهام ایالات متحده در هفته 5 تا 9 اکتبر به سطوح رکوردی رسید؛ Nasdaq ، S&P 500 و Dow افزایشی 0.6‑1.2 ٪ داشتند.",
+      "‏اما بازده اوراق 10‑ساله در حدود 5.2‑5.3 ٪ باقی ماند و نگرانی‌ها درباره نرخ بهره و رشد هوش مصنوعی را تشدید می‌کند.",
+      "‏در عین حال شاخص Russell 2000 کاهش یافت و چشم‌انداز اقتصادی همچنان نامشخص است."
+    ],
+    "body_fa": "‏در هفته 5 تا 9 اکتبر، بازار سهام آمریکا به رکوردهای تاریخی دست یافت؛ Nasdaq Composite در 5 اکتبر به بالاترین سطح خود رسید و تا پایان هفته S&P 500 حدود 1.2 ٪ و Dow Jones حدود 0.9 ٪ رشد کردند. این افزایش با انتظارات قوی سرمایه‌گذاران از شرکت‌های هوش مصنوعی همراه بود، هرچند گزارش‌های درآمدی شرکت‌ها هنوز در راه است. در مقابل، نرخ بهره بلندمدت آمریکا در محدوده 5.2‑5.3 ٪ ثابت ماند و بازده اوراق 10‑ساله به 5.3 ٪ نزدیک شد، که معمولاً فشار بر سهام رشددهنده ایجاد می‌کند. شاخص کوچک‑قیمت‌گذاری Russell 2000 به‌جای رشد، کاهش یافت، نشان‌دهنده نابرابری عملکرد بین بخش‌هاست. بنابراین، اگرچه شاخص‌های اصلی به‌نظر می‌رسد بازار را تقویت می‌کنند، اما سطح بالای بهره و عدم اطمینان درباره رشد اقتصادی و هوش مصنوعی، چشم‌انداز را نامطمئن نگه داشته است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "سهام",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "note",
+    "url": "https://note.com/investor_maakun/n/n779c4db182a5?hl=en",
+    "clean_url": "https://note.com/investor_maakun/n/n779c4db182a5",
+    "image": "https://assets.st-note.com/production/uploads/images/322783207/rectangle_large_type_2_ab358b823b8e5b16d7f33f7b74110d9e.png?fit=bounds&quality=85&width=1280",
+    "timestamp": 1791585660.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a6570d7ca5",
     "title_fa": "‏پیمانکار Super Micro به جرم قاچاق سرورهای هوش مصنوعی اعتراف کرد",
     "title_en": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia...",
@@ -173,6 +305,28 @@
     "clean_url": "https://www.reuters.com/legal/government/super-micro-contractor-pleads-guilty-scheme-divert-ai-servers-with-nvidia-chips-2026-10-09",
     "image": "https://s.yimg.com/bo/983cb4ec-3481-5e0a-a62a-7fdf52d21ee5_1791309201990.jpg",
     "timestamp": 1791584549.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "57466e6480",
+    "title_fa": "‏CFTC قراردادهای پیش‌بینی را به‌عنوان سوآپ تعریف کرد",
+    "title_en": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight...",
+    "summary": [
+      "‏کمیسیون معاملات آتی آمریکا (CFTC) قراردهای پیش‌بینی را به‌عنوان سوآپ در چارچوب نظارت خود قرار داد.",
+      "‏این تصمیم می‌تواند حوزه نظارتی پیش‌بینی‌مارکت‌ها را از قوانین ایالتی جدا کند و بر پلتفرم‌های مثل Kalshi و Polymarket تأثیر بگذارد.",
+      "‏قانون موقت 30‑روزه برای دریافت نظرات عمومی نیز منتشر شد."
+    ],
+    "body_fa": "‏کمیسیون معاملات آتی ایالات متحده (CFTC) یک قانون موقت صادر کرد و پیشنهادی دیگر ارائه داد تا قراردادهای پیش‌بینی که در پلتفرم‌هایی چون Kalshi و Polymarket معامله می‌شوند، به‌عنوان سوآپ شناخته شوند. این تعریف جدید به CFTC اجازه می‌دهد این معاملات را تحت نظارت فدرال خود قرار دهد و از حوزه نظارت مقامات ایالتی و قوانین شرط‌بندی جدا کند. در همین حال، CFTC سعی دارد با این گام قانونی موقعیت خود را در یک دعوی حقوقی در برابر چندین ایالت تقویت کند؛ برخی از این ایالت‌ها و مقامات پیشین فدرال نظرات مخالف خود را به دیوان عالی آمریکا ارسال کرده‌اند. قانون موقت به‌سرعت اجرایی می‌شود اما برای 30 روز فرصت دریافت نظرات عمومی دارد. اگر این تغییرات نهایی شود، پلتفرم‌های پیش‌بینی‌مارکت ممکن است تحت مقررات سخت‌گیرانه‌تری از سوی CFTC قرار گیرند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "CFTC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+    "clean_url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+    "image": "https://s.yimg.com/bo/3a9bc13a-1671-56c6-8da5-3a66d5a0b6a0_1791581724704.jpg",
+    "timestamp": 1791581649.0,
     "sent_to_telegram": true
   },
   {
@@ -6443,160 +6597,6 @@
     "clean_url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
     "image": "https://s.yimg.com/bo/904f19c3-7d7a-5550-ad82-788f5f745d4a_1789487492727.jpg",
     "timestamp": 1790852452.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "841cc24eae",
-    "title_fa": "‏Wall Street هشدار داد 10-Year Treasury Yield به ۸٪ می‌رسد",
-    "title_en": "Wall Street Institutions Warn: Federal Reserve Commits \"Original Sin,\" 10-Year U.S. Treasury Yield Could Head Toward 8%",
-    "summary": [
-      "‏اقتصاددان TS Lombard هشدار داد فدرال‌رزرو ممکن است با سیاست‌های خود ییلد 10‑ساله اوراق قرضه آمریکا را به ۸٪ برساند",
-      "‏این افزایش می‌تواند فشار شدید بر بازارهای جهانی، هزینه‌های وام‌گیری و نرخ ارزها ایجاد کند",
-      "‏هشدار در پی نوسان شدید بازارهای اوراق قرضه بین‌المللی است"
-    ],
-    "body_fa": "‏در پی تشدید ناآرامی‌های بازار اوراق قرضه جهانی، اقتصاددان ارشد TS Lombard ، استیون بلیتز، اعلام کرد فدرال‌رزرو با سیاست‌های فعلی خود خطر تکرار «گناه اصلی» گذشته را دارد. او پیش‌بینی می‌کند که ییلد 10-Year U.S. Treasury Yield می‌تواند به سطح ۸٪ نزدیک شود، که پیش از این در دهه‌های گذشته ندیده شده است. چنین جهشی نه تنها هزینه‌های استقراض برای دولت و شرکت‌ها را به شدت افزایش می‌دهد، بلکه فشار بر بازارهای سهام، نرخ‌های وام مسکن و ارزهای نوظهور را تشدید می‌کند. بلیتز هشدار داد این روند می‌تواند منجر به خروج سرمایه‌های بزرگ از اوراق قرضه و افزایش نوسانات در بازارهای مالی شود. در نتیجه، سرمایه‌گذاران و سیاست‌گذاران باید به دقت نظارت کنند و اقدامات پیشگیرانه برای کاهش اثرات منفی اتخاذ نمایند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار اوراق قرضه",
-    "tag": "ییلد 10‑ساله",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "Futubull News",
-    "url": "https://news.futunn.com/en/post/1000484511/wall-street-institutions-warn-federal-reserve-commits-original-sin-10",
-    "clean_url": "https://news.futunn.com/en/post/1000484511/wall-street-institutions-warn-federal-reserve-commits-original-sin-10",
-    "image": "https://newsfile.futunn.com/news-thumbnail/20240614/public/17183474153121547967365-news-thumbnail/20240614/public/17183474153128067321141.jpeg.jpeg",
-    "timestamp": 1790851020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e9b091e937",
-    "title_fa": "‏شاخص فروش بانک آمریکا به آستانه سیگنال فروش رسید",
-    "title_en": "Bank of America's famed stock market gauge is on the verge of flashing a sell signal",
-    "summary": [
-      "‏شاخص Sell Side Indicator بانک آمریکا در سپتامبر به 57.2 ٪ رسید و تنها 0.3 درصد از حد فروش رسمی فاصله دارد.",
-      "‏این سیگنال تاریخی معمولاً پیش‌بینی ضعف بیشتر بازار سهام را دارد و می‌تواند تصمیمات سرمایه‌گذاران را تحت تأثیر قرار دهد.",
-      "‏در عین حال، بازدهی اوراق 10‑ساله و 30‑ساله به بالاترین سطح ۲۴‑ساله رسید و تنش‌های بازار را تشدید کرده است."
-    ],
-    "body_fa": "‏بانک آمریکا در گزارشی به مشتریان اعلام کرد شاخص Sell Side Indicator (SSI) در سپتامبر به 57.2 ٪ افزایش یافت، که تنها 0.3 درصد از مرز فروش رسمی 57.5 ٪ فاصله دارد. این شاخص یک ابزار ضد‌گرایی است؛ وقتی به سطح فروش نزدیک می‌شود، معمولاً نشانگر ضعف آتی بازار سهام است. تاریخچه نشان می‌دهد در مواردی که SSI سیگنال فروش می‌دهد، S&P 500 در 12 ماه بعد به‌ طور متوسط 3 ٪ رشد داشته و 36 ٪ زمان بازده منفی داشته است. این افزایش همچنین بالاترین مقدار شاخص از مارس 2022 است. همزمان، بازدهی اوراق 10‑ساله و 30‑ساله به اوج ۲۴‑ساله رسیده و باعث افزایش نگرانی‌ها درباره فشارهای تورمی و مالی شده است. تحلیل‌گران بازار به‌ خصوص در بخش فناوری و هوش مصنوعی، به‌دلیل کاهش تنوع بازار، محتاط‌تر شده‌اند. این وضعیت می‌تواند تصمیمات سرمایه‌گذاران را برای خرید یا فروش سهام تحت تأثیر قرار دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "شاخص‌های سهام",
-    "tag": "BofA",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/stock-market-sell-signal-bank-of-america-bullish-breadth-2026-10",
-    "clean_url": "https://www.businessinsider.com/stock-market-sell-signal-bank-of-america-bullish-breadth-2026-10",
-    "image": "https://i.insider.com/6abe7690d15f8a572974d0f6?width=1200&format=jpeg",
-    "timestamp": 1790850300.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "73e415512a",
-    "title_fa": "‏قاضی دادخواست‌های ضد انحصار علیه Google AI را رد کرد",
-    "title_en": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-    "summary": [
-      "‏قاضی فدرال ایالات متحده دو دعوی ضد انحصار شرکت‌های Chegg و Penske Media را که گوگل را به دلیل ویژگی‌های AI جستجو متهم کرده بودند، رد کرد.",
-      "‏این تصمیم به معنای ادامه تسلط گوگل بر جستجوی هوش مصنوعی است و فشار کمتری بر ناشران برای دریافت جبران مالی ایجاد می‌کند.",
-      "‏در عین حال، گوگل در برنامه آزمایشی به حدود 100 ناشر برای مشارکت در AI Overviews و Gemini پرداخت می‌کند."
-    ],
-    "body_fa": "‏یک قاضی فدرال، آمیت مهتا، دو دعوی ضد انحصار مطرح شده توسط Chegg و شرکت مادر Rolling Stone ، Penske Media Corporation را رد کرد. این شرکت‌ها ادعا کرده بودند که گوگل با استفاده از ویژگی‌های AI Overviews در جستجو، ترافیک وب‌سایت‌هایشان را به‌طور قابل‌توجهی کاهش داده و با اجبار ناشران به ارائه محتوای رایگان برای هوش مصنوعی، قدرت انحصاری خود را سوءاستفاده می‌کند. مهتا در حکم خود گفت تنها «انتظار» دریافت ترافیک از گوگل، تعهدی قانونی نیست و قوانین ضد انحصار نمی‌توانند جایگزین تصمیم‌گیری قانون‌گذاری در مورد نوآوری‌های جدید شوند. با این حال، قاضی تأکید کرد که دادگاه نسبت به وضعیت ناشران بی‌تفاوت نیست. در همین زمان، گوگل در یک برنامه آزمایشی به حدود 100 ناشر برای مشارکت در AI Overviews ، AI Mode و Gemini پرداخت می‌کند. این تصمیم ممکن است فشار مالی بر ناشران کوچک را کاهش دهد، اما نگرانی‌ها دربارهٔ تأثیرات بلندمدت هوش مصنوعی بر ترافیک خبری همچنان باقی است.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین ضد انحصار",
-    "tag": "Google",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "clean_url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "timestamp": 1790849520.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5d8c5bd836",
-    "title_fa": "‏نرخ وام مسکن آمریکا به ۷٫۲۸٪ رسید؛ بزرگ‌ترین افزایش هفتگی",
-    "title_en": "Mortgage Rates Surge, Notching Largest Weekly Gain in Four Years",
-    "summary": [
-      "‏نرخ وام مسکن آمریکا به ۷٫۲۸٪ افزایش یافت، بزرگ‌ترین رشد هفتگی در چهار سال",
-      "‏این جهش پس از سقوط بازار اوراق قرضه، فشار بیشتری بر بازار مسکن ضعیف می‌آورد",
-      "‏افزایش نرخ می‌تواند تقاضا را کاهش داده و قیمت‌های خانه را تحت فشار قرار دهد"
-    ],
-    "body_fa": "‏نرخ وام مسکن در ایالات متحده به ۷٫۲۸٪ رسید که بزرگ‌ترین افزایش هفتگی در چهار سال اخیر است. این افزایش پس از یک سقوط گسترده در بازار اوراق قرضه رخ داد و نشان‌دهنده فشارهای ناشی از نرخ بهره بالاتر است. بازار مسکن که پیش از این با کاهش فروش و قیمت‌ها مواجه بود، اکنون با فشار بیشتری روبرو می‌شود. کارشناسان پیش‌بینی می‌کنند که هزینه بالاتر وام‌ها می‌تواند تقاضا را کاهش داده و روند رشد قیمت خانه‌ها را کند کند. این تحولات ممکن است بر تصمیمات سیاست‌گذاران فدرال‌رزرو در مورد نرخ بهره نیز تأثیر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ مسکن",
-    "tag": "mortgage",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/economy/housing/mortgage-rates-surge-notching-largest-weekly-gain-in-four-years-e4d029af",
-    "clean_url": "https://www.wsj.com/economy/housing/mortgage-rates-surge-notching-largest-weekly-gain-in-four-years-e4d029af",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790848800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a4a8070e42",
-    "title_fa": "‏یک داده می‌تواند سبب افزایش نرخ بازده اوراق بدهی شود",
-    "title_en": "This Datapoint Could Explain Soaring Bond Yields",
-    "summary": [
-      "‏یک داده جدید باعث توضیح رشد سریع بازده اوراق قرضه شد",
-      "‏این موضوع برای بازارهای مالی و سیاست‌های پولی اهمیت دارد",
-      "‏در همین حال، اثرات اقتصادی مهاجرت و ممنوعیت صادرات دیزل روسیه نیز بررسی شد"
-    ],
-    "body_fa": "‏بازده اوراق قرضه در روزهای اخیر به سرعت افزایش یافته و نگرانی‌های سرمایه‌گذاران را برانگیخته است. تحلیل‌گران WSJ یک داده کلیدی را شناسایی کردند که می‌تواند دلیل این جهش را روشن کند. این داده مرتبط با انتظارات تورمی و فشارهای مالی دولت‌هاست که باعث بالا رفتن نرخ بهره می‌شود. در کنار این موضوع، اثرات اقتصادی مهاجرت بر بازار کار و مصرف نیز مورد بررسی قرار گرفته است. همچنین ممنوعیت صادرات دیزل توسط Russia و بحث‌های سیاسی در Michigan به عنوان عوامل جانبی مطرح شده‌اند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای مالی",
-    "tag": "بازده اوراق",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/finance/investing/this-datapoint-could-explain-soaring-bond-yields-d8ec5be0",
-    "clean_url": "https://www.wsj.com/finance/investing/this-datapoint-could-explain-soaring-bond-yields-d8ec5be0",
-    "image": "https://s.yimg.com/bo/e215c364-f233-59bb-a582-117098c7b7dc_1789379301131.jpg",
-    "timestamp": 1790848125.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8dd39f8a7b",
-    "title_fa": "‏سهام‌ها با رشد ۲۴‑ساله بازده اوراق مقاومت می‌کنند",
-    "title_en": "Why stocks have held up as yields surge to 24-year highs",
-    "summary": [
-      "‏بازده اوراق قرضه آمریکا به بالاترین سطح ۲۴ ساله رسید؛ ۱۰ ساله تا 5.33 ٪ و ۳۰ ساله تا 5.64 ٪",
-      "‏با این حال شاخص‌های سهام همچنان نزدیک به اوج تاریخی هستند و نشان‌دهنده جدایی غیرعادی بین بازار سهام و اوراق است",
-      "‏تحلیل‌گران می‌گویند تا زمانی که نوسان اوراق محدود باشد، فشار بر سهام کمتر می‌شود"
-    ],
-    "body_fa": "‏اوراق قرضه جهانی در هفته‌های اخیر با افزایش شدید بازده مواجه شدند و بازده ۱۰ ساله Treasury آمریکا به 5.33 ٪ رسید که بالاترین سطح از سال 2002 است. بازده ۳۰ ساله نیز به 5.64 ٪ رسید، که رکورد ۲۴ ساله دارد. با این حال شاخص‌های سهام آمریکا همچنان نزدیک به اوج تاریخی خود باقی مانده‌اند؛ S&P 500 تا کنون حدود 12 ٪ در سال رشد داشته و تنها 2 ٪ از بالاترین بسته شدن خود فاصله دارد. Nasdaq 100 نیز نزدیک به 20 ٪ افزایش سالانه را ثبت کرده است. مارک مالک، مدیر سرمایه‌گذاری Siebert Financial ، این جدایی بین اوراق و سهام را «غیرعادی» و در حال نزدیک شدن به «سطوح افراطی» توصیف کرد. به گفته کریتی گپتا از JPMorgan Private Bank ، افزایش تدریجی بازده در طول چند ماه به سرمایه‌گذاران اجازه داده تا به محیط نرخ بالاتر عادت کنند و نوسان شدید اوراق که می‌توانست بازار سهام را دلهره‌آور کند، تا کنون مشاهده نشده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "بازده",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/bond-yields-spike-why-stocks-are-at-record-highs-2026-10",
-    "clean_url": "https://www.businessinsider.com/bond-yields-spike-why-stocks-are-at-record-highs-2026-10",
-    "image": "https://i.insider.com/6abe5a5c265e3f8e338f96fa?width=1200&format=jpeg",
-    "timestamp": 1790847660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ed2ac59201",
-    "title_fa": "‏بازده‌های خزانه‌داری آمریکا به بالاترین سطح ۲۴ ساله رسید",
-    "title_en": "US Treasury Yields hit 24-year highs amid energy-driven inflation concerns |...",
-    "summary": [
-      "‏بازده ۱۰ ساله خزانه‌داری آمریکا به 5.33 ٪ و ۳۰ ساله به 5.67 ٪ رسید، بالاترین سطح در ۲۴ سال.",
-      "‏این افزایش ناشی از نگرانی‌های تورم انرژی‌محور و تنش‌های آمریکا‑ایران است که فشار بر بازارهای جهانی را افزایش می‌دهد.",
-      "‏قیمت نفت برنت ۴۲٪ از پایین‌ترین سطح ژوئن رشد کرد و باعث فروش گسترده اوراق قرضه شد."
-    ],
-    "body_fa": "‏بازده‌های اوراق قرضه دولتی آمریکا در روزهای اخیر به بالاترین سطح ۲۴ ساله رسیدند؛ ۱۰ ساله به 5.33 ٪ و ۳۰ ساله به 5.67 ٪. این صعود به دلیل نگرانی‌های مداوم از تورم ناشی از انرژی و تنش‌های تازه‌نشده بین آمریکا و ایران است که قیمت نفت را در سطوح بالا نگه داشته است. برنت از پایین‌ترین سطح ژوئن ۴۲٪ افزایش یافت و فشار فروش گسترده‌ای بر بازارهای اوراق قرضه ایجاد کرد. اگرچه داده‌های اخیر PCE نشان‌دهنده کاهش کمی تورم بود و احتمال افزایش نرخ بهره در اکتبر به 39 ٪ کاهش یافت، اما بازارها همچنان به نوسانات انرژی حساس هستند. توجه سرمایه‌گذاران به گزارش اشتغال غیرکشوری آمریکا در جمعه می‌چرخد که می‌تواند جهت‌گیری نرخ بهره را تعیین کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "بازار اوراق قرضه",
-    "tag": "بازده",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-amid-energy-driven-inflation-concerns-202610010841",
-    "clean_url": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-amid-energy-driven-inflation-concerns-202610010841",
-    "image": "https://s.yimg.com/bo/bcb1d880-6f73-5345-85b3-d5a80ace80d9_1790489054182.png.cf.jpg",
-    "timestamp": 1790845248.0,
     "sent_to_telegram": true
   }
 ]
