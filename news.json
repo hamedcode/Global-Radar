@@ -44,6 +44,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "3c879390cd",
+    "title_fa": "‏شرکت Cloudflare استارتاپ Deno را برای تقویت پلتفرم ابری خود خرید",
+    "title_en": "Cloudflare acquires Deno to improve its Workers programming model",
+    "summary": [
+      "‏شرکت Cloudflare از تصاحب استارتاپ Deno ، سازنده محیط اجرای جاوااسکریپت، خبر داد.",
+      "‏این معامله با هدف بهبود و استانداردسازی مدل برنامه‌نویسی ابری Cloudflare Workers انجام شده است.",
+      "‏جزئیات مالی توافق اعلام نشده، اما Deno پیش‌تر 26 میلیون دلار سرمایه جذب کرده بود."
+    ],
+    "body_fa": "‏شرکت Cloudflare رسماً اعلام کرد که استارتاپ Deno را برای ارتقای پلتفرم ابری Workers خریداری کرده است. این استارتاپ توسط Ryan Dahl ، خالق Node.js ، و Bert Belder راه‌اندازی شده بود و پیش‌تر موفق به جذب 26 میلیون دلار سرمایه با رهبری Sequoia شده بود. ابزار Cloudflare Workers به برنامه‌نویسان امکان می‌دهد نرم‌افزارهای خود را مستقیماً روی شبکه توزیع‌شده این شرکت اجرا کنند. مدیران این شرکت اعلام کردند که بر خلاف استراتژی قفل کردن مشتریان در پلتفرم‌های ابری، به توسعه متن‌باز و آزادی عمل توسعه‌دهندگان متعهد هستند. با پیوستن تیم Deno ، هدف اصلی تبدیل مدل برنامه‌نویسی Workers به استاندارد اصلی توسعه سرورها خواهد بود.",
+    "category": "تکنولوژی",
+    "subcategory": "رایانش ابری و نرم‌افزار",
+    "tag": "Cloudflare",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "clean_url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
+    "timestamp": 1791624360.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "89eaf7c344",
+    "title_fa": "‏بازار سهام رکورد رسید؛ نوسان AI و طرح 40 میلیاردی SpaceX",
+    "title_en": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+    "summary": [
+      "‏سهام آمریکا اوایل هفته به رکورد رسید؛ پس از نوسان شدید AI ، S&P 500 هفته را با 1.2 ٪ رشد به پایان برد.",
+      "‏این نوسان ناشی از طرح 40 میلیارد دلاری SpaceX برای خرید چیپ‌های Nvidia و گسترش کسب‌وکار AI بود که بازار فناوری را تحت فشار قرار داد.",
+      "‏علاوه بر این، SpaceX پرتفوی طیفی ملی خرید و هدفش تقویت سرویس Starlink در مقابل اپراتورهای مخابراتی است."
+    ],
+    "body_fa": "‏سهام ایالات متحده اوایل هفته به سطوح تاریخی رسید؛ شاخص S&P 500 در روز سه‌شنبه بالاتر از 7800 بسته شد و در پایان هفته 1.2 ٪ رشد کرد. با این حال، معاملات مرتبط با هوش مصنوعی نوسان شدیدی نشان داد و سهام فناوری در روز پنج‌شنبه به شدت سقوط کردند. در همین بازه، SpaceX اعلام کرد قصد دارد 40 میلیارد دلار بدهی جدید برای خرید چیپ‌های Nvidia و گسترش خدمات محاسباتی AI جذب کند. این اقدام می‌تواند SpaceX را به بزرگ‌ترین مشتری Nvidia تبدیل کند و برای هر دو طرف سودآور باشد. علاوه بر این، شرکت به‌تازگی پرتفوی طیفی سراسری خریداری کرد تا سرویس Starlink را به‌صورت ترکیبی ماهواره‑زمینی تقویت کند. به‌دلیل این تحولات، Goldman Sachs هدف قیمت سهام SpaceX را به 230 دلار ارتقا داد و سرمایه‌گذاران به‌دنبال فرصت‌های با ارزش در میان نوسانات بازار هستند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "SpaceX",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+    "clean_url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108369491-17906967662026-09-29t153734z_497028916_rc21tnamiqla_rtrmadp_0_usa-stocks.jpeg?v=1790696808&w=1920&h=1080",
+    "timestamp": 1791620700.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bfbe627ebc",
+    "title_fa": "‏خروج ۱.۲۵ میلیارد دلار سرمایه از صندوق‌های رمزارزی آمریکا",
+    "title_en": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+    "summary": [
+      "‏صندوق‌های اسپات اتریوم و سولانا با خروج سنگین سرمایه در هفته گذشته روبه‌رو شدند.",
+      "‏ثبت خروج ۵۴۲.۱ میلیون دلاری اتریوم و پایان روند ۱۴ هفته‌ای جذب سرمایه سولانا نشان‌دهنده احتیاط بازار است.",
+      "‏صندوق‌های اسپات بیت‌کوین نیز با خروج ۶۸۱.۱ میلیون دلار به دوره سه‌هفته‌ای ورود سرمایه خاتمه دادند."
+    ],
+    "body_fa": "‏صندوق‌های اسپات اتریوم در بازار آمریکا هفته گذشته با خروج خالص ۵۴۲.۱ میلیون دلار سرمایه مواجه شدند که بدترین عملکرد هفتگی آن‌ها از ماه ژانویه تاکنون به شمار می‌رود. صندوق‌های اسپات سولانا نیز با ثبت خروج ۲۴.۸ میلیون دلار، به رکورد ۱۴ هفته ورود مداوم سرمایه پایان دادند. در همین حال، صندوق‌های اسپات بیت‌کوین هم با خروج ۶۸۱.۱ میلیون دلار به روند مثبت سه هفته گذشته خود خاتمه دادند تا مجموع خروج سرمایه از این سه دسته به حدود ۱.۲۵ میلیارد دلار برسد. بیش از ۸۸ درصد از خروج سرمایه اتریوم به صندوق ETHA متعلق به BlackRock اختصاص داشت که تحت تاثیر تغییرات ساختاری سهام خود با بازخرید سنگین روبه‌رو شد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "صندوق‌های ETF کریپتو",
+    "tag": "ETF",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+    "clean_url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Ethereum-and-Solana-ETF-Divergence1_clean.png",
+    "timestamp": 1791619740.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "46bb20cdb5",
     "title_fa": "‏هند با قرنطینه دلهی، هزاران دستگیر و اعتراض خنثی شد",
     "title_en": "India detains thousands, locks down Delhi to foil election chief protest",
@@ -63,6 +129,50 @@
     "clean_url": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791618720.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c53a3566bb",
+    "title_fa": "‏Vance گفت مایکروسافت ۶۰۰۰ اخراج‌شده را با خارجی‌ها جایگزین کرد",
+    "title_en": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+    "summary": [
+      "‏JD Vance ادعا کرد مایکروسافت پس از اخراج ۶۰۰۰ کارمند، آن‌ها را با دارندگان ویزای H‑1B جایگزین کرده است.",
+      "‏این ادعا در پی تعلیق برنامه PERM برای هشت شرکت فناوری توسط دولت ترامپ مطرح شد و نشانگر وابستگی شدید این شرکت‌ها به نیروی کار خارجی است.",
+      "‏داده‌های USCIS نشان می‌دهد ۲/۳ ویزای H‑1B مایکروسافت برای کارمندان داخلی بوده و آمازون که بیشترین ویزا را دارد، در فهرست تعلیق نیست."
+    ],
+    "body_fa": "‏روز پنج‌شنبه، معاون رئیس‌جمهور JD Vance اعلام کرد مایکروسافت پس از اخراج حدود ۶۰۰۰ کارمند در سال ۲۰۲۵، جایگزین آن‌ها را با کارگران خارجی دارای ویزای H‑1B کرده است. این ادعا همزمان با اعلام دولت ترامپ تعلیق برنامه PERM وزارت کار برای هشت شرکت فناوری بود که از این طریق برای کارت سبز به کارمندان خارجی اجازه می‌داد. داده‌های مرکز داده‌های کارفرمایان H‑1B اداره شهروندی و مهاجرت آمریکا نشان می‌دهد مایکروسافت در سال مالی ۲۰۲۵ حدود ۶۲۵۸ ویزای H‑1B تأیید کرده، اما دو سوم این ویزاها برای افراد قبلاً در شرکت بوده‌اند. آمازون و متا، که به ترتیب ۱۹٬۱۷۸ و ۶٬۲۹۴ ویزای H‑1B دریافت کرده‌اند، در فهرست تعلیق قرار نگرفتند. این موضوع نشان می‌دهد برخی شرکت‌های بزرگ فناوری همچنان به شدت به نیروی کار خارجی وابسته‌اند و سیاست جدید ممکن است به استخدام داخلی فشار بیشتری وارد کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "استخدام خارجی",
+    "tag": "H-1B",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+    "clean_url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108377276-1791474538741-gettyimages-2298594243-AFP_D2MT94L.jpeg?v=1791589641&w=1920&h=1080",
+    "timestamp": 1791616920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "182acae58f",
+    "title_fa": "‏پوتین پیشنهاد پایان جنگ ایران را به ترامپ منتقل کرد",
+    "title_en": "Putin relayed Iran war proposal to Trump, Kremlin says",
+    "summary": [
+      "‏پوتین پیام پایان جنگ ایران را از طریق مسعود پزشکیان به ترامپ رساند.",
+      "‏این تماس نشان‌دهنده نقش روسیه در دیپلماسی انرژی و احتمال تغییر در تحریم‌هاست.",
+      "‏ترامپ اعلام کرد روسیه بیش از 4,000,000 تن دیزل به بازار جهانی خواهد عرضه کرد."
+    ],
+    "body_fa": "‏رئیس‌جمهور روسیه ولادیمیر پوتین پیام دیدگاه ایران برای پایان احتمالی جنگ را به دونالد ترامپ منتقل کرد و این انتقال طبق گفته سخنگوی کرملین دیمیتری پسکوف با توافق مسعود پزشکیان، رئیس‌جمهور ایران، صورت گرفت. پوتین پس از ملاقات با پزشکیان در حاشیه یک اجلاس در ترکمنستان، با ترامپ تماس تلفنی برقرار کرد. در همان روز، ترامپ اعلام کرد روسیه بیش از 4,000,000 تن دیزل را به بازار جهانی عرضه خواهد کرد؛ 300,000 تن به‌سرعت، 500,000 تن در نوامبر و 1,000,000 تن پس از آن، سپس 3,000,000 تن دیگر بر پایه ظرفیت پالایشگاه‌های روسیه. وزارت خزانه‌داری ایالات متحده موقتاً مجوز عمومی برای رفع تحریم‌های دیزل روسیه تا آوریل 2027 صادر کرد. در همین زمان، ایران حملات خود به تانکرهای عبوری از تنگه هرمز را افزایش داده و هدف خود را مسدود کردن مسیرهای «غیرقانونی» اعلام کرده است. این تحولات نشانگر پیچیدگی روابط ژئوپلیتیک و انرژی بین روسیه، ایران و ایالات متحده در شرایط بحرانی است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "دیپلماسی انرژی",
+    "tag": "دیزل",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+    "clean_url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108372989-1791255404749-gettyimages-2229471059-2230320553.jpeg?v=1791572488&w=1920&h=1080",
+    "timestamp": 1791614460.0,
     "sent_to_telegram": true
   },
   {
@@ -107,6 +217,28 @@
     "clean_url": "https://www.reuters.com/world/africa/ethiopian-forces-regain-control-border-city-after-reported-eritrean-incursion-2026-10-10",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791611460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b755253f68",
+    "title_fa": "‏حمله مرگبار روسیه به اوکراین یک روز پس از تصمیم Trump",
+    "title_en": "Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow",
+    "summary": [
+      "‏حمله هوایی روسیه به شهر زاپروژیا در اوکراین دست‌کم 20 کشته از جمله سه کودک بر جای گذاشت.",
+      "‏این حمله تنها یک روز پس از اعلام توافق Trump برای رفع تحریم‌های گازوئیل روسیه رخ داد.",
+      "‏همزمانی این تهاجم با تخفیف‌های تحریمی واشنگتن، تنش‌های سیاسی پیرامون جنگ را تشدید کرده است."
+    ],
+    "body_fa": "‏حمله موشکی نیروهای روسیه به شهر زاپروژیا در اوکراین دست‌کم 20 کشته بر جای گذاشت که در میان قربانیان نام سه کودک نیز به چشم می‌خورد. این تهاجم مرگبار درست یک روز پس از آن رخ داد که Trump ، رئیس‌جمهور آمریکا، از توافقی برای لغو تحریم‌های صادرات گازوئیل روسیه خبر داده بود. همزمانی این امتیاز بزرگ تجاری به مسکو با تشدید حملات علیه مناطق غیرنظامی، انتقادهای گسترده‌ای را نسبت به رویکرد جدید کاخ سفید به همراه داشته است. منتقدان بر این باورند که کاهش فشارهای اقتصادی بر مسکو بدون اخذ امتیازهای امنیتی مشخص، ماشین جنگی روسیه را جسورتر می‌کند. این رویداد نشان‌دهنده چالش‌های عمیق دیپلماتیک در مسیر برقراری هرگونه آتش‌بس پایدار در جنگ اوکراین است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "جنگ اوکراین",
+    "tag": "اوکراین",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/russian-attack-ukraines-zaporizhzhia-kills-seven-governor-says-2026-10-10/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/russian-attack-ukraines-zaporizhzhia-kills-seven-governor-says-2026-10-10",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791610740.0,
     "sent_to_telegram": true
   },
   {
@@ -261,6 +393,28 @@
     "clean_url": "https://www.reuters.com/world/europe/us-ukraine-european-negotiators-meet-miami-trump-announces-diesel-deal-with-2026-10-10",
     "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
     "timestamp": 1791588849.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5f727cba53",
+    "title_fa": "‏تراکنش‌های Robinhood Chain ۴۲٪ کاهش یافت",
+    "title_en": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+    "summary": [
+      "‏تعداد تراکنش‌های روزانه در Robinhood Chain از 10.8 میلیون به 6.2 میلیون سقوط کرد",
+      "‏این کاهش 42 ٪ باعث کاهش درآمد کارمزد شبکه و نگرانی برای فعالیت‌های تجاری می‌شود",
+      "‏با این حال، بیش از 1 میلیارد دلار در برنامه‌ها باقی مانده و Robinhood تا پایان سال کارمزدهای سوآپ را پوشش می‌دهد"
+    ],
+    "body_fa": "‏شبکه Robinhood Chain در اوایل اکتبر با کاهش شدید تراکنش‌ها مواجه شد؛ تعداد تراکنش‌های روزانه به 6.2 میلیون رسید که نسبت به اواسط سپتامبر 42 ٪ کمتر است. آدرس‌های فعال روزانه نیز 31 ٪ کاهش یافت و حجم معاملات اسپات به 7.45 میلیارد دلار کاهش پیدا کرد. با وجود این افت، بیش از یک میلیارد دلار در برنامه‌های شبکه باقی مانده و حجم معاملات فیوچرز دائمی 26 ٪ رشد کرده است. Robinhood تا 31 دسامبر کارمزدهای شبکه برای سوآپ‌های بالای 0.50 دلار را می‌پردازد تا فعالیت‌ها را احیا کند. کاهش تراکنش‌ها می‌تواند درآمد کارمزدهای شبکه که حدود 90 ٪ را شرکت دریافت می‌کند، تحت فشار قرار دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "فعالیت زنجیره",
+    "tag": "RobinhoodChain",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/420b7f8ce090d7bdf4a04ea5fa1495a09ff9ce29-6889x4593.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1791585780.0,
     "sent_to_telegram": true
   },
   {
@@ -6443,160 +6597,6 @@
     "clean_url": "https://www.ign.com/articles/blizzard-cracks-down-on-gold-selling-in-world-of-warcraft-forever-and-streamers-are-in-the-firing-line",
     "image": "https://s.yimg.com/bo/70303591-95f5-59fc-a517-099d61f859ea_1789498639512.jpg",
     "timestamp": 1790866853.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6227e829b3",
-    "title_fa": "‏NEAR Intents به‌دلیل هک ۳٫۸ میلیون دلاری خدمات را متوقف کرد",
-    "title_en": "NEAR Intents hit by $3.8M exploit, pauses cross-chain services in latest crypto...",
-    "summary": [
-      "‏پلتفرم NEAR Intents حدود ۳٫۸ میلیون دلار را به‌دلیل یک نقص امنیتی از دست داد",
-      "‏این هک باعث توقف موقت خدمات میان‌زنجیره‌ای و محدود شدن برداشت و واریز در چند بلاکچین شد",
-      "‏پروژه قول داد تمام خسارات را جبران کند و با مقامات قانونی همکاری می‌کند"
-    ],
-    "body_fa": "‏NEAR Intents ، پروتکل تجاری میان‌زنجیره‌ای، روز پنج‌شنبه با یک نقص در سیستم Omni و قرارداد هوشمند خود مورد هک قرار گرفت. هکرها حدود ۳٫۸ میلیون دلار را از طریق برداشت‌های نامنظم از کیف پول گرم BNB Chain سرقت کردند. پس از کشف نقص، تیم فنی بلافاصله سرویس‌های برداشت و واریز در چند بلاکچین را متوقف کرد و به‌سرعت باگ را رفع کرد. شرکت اعلام کرد تمام مبلغ از دست رفته را به‌صورت کامل جبران خواهد کرد و حادثه را به مقامات قانونی گزارش داده است. بررسی‌های اولیه نشان می‌دهد که وجوه سرقت‌شده به صرافی KuCoin منتقل و سپس به بیت‌کوین تبدیل شده‌اند. این اتفاق به فهرست طولانی هک‌های بزرگ سال ۲۰۲۳/۲۴ در حوزه رمزارزها می‌پیوندد که نگرانی‌ها درباره امنیت پلتفرم‌های میان‌زنجیره‌ای را تشدید می‌کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "هک و امنیت",
-    "tag": "NEAR",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-    "clean_url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-    "image": "https://s.yimg.com/bo/f800b7b6-289e-5dfa-9cac-d6489de12782_1788613231168.jpg",
-    "timestamp": 1790863432.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8cfef86c18",
-    "title_fa": "‏درخواست Hyperliquid و Circle برای تغییر قوانین MiCA در اروپا",
-    "title_en": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
-    "summary": [
-      "‏مرکز سیاست‌گذاری Hyperliquid و Circle به کمیسیون اروپا پیشنهاد دادند که قراردادهای دائمی رمزارز تحت MiFID II و نه MiCA تنظیم شوند.",
-      "‏همچنین Circle خواستار حذف الزام 30‑60 ٪ ذخیره بانکی برای ذخایر استیبل‌کوین‌ها در MiCA شد.",
-      "‏مشاوره MiCA تا 30 سپتامبر ادامه دارد و Deutsche Börse و Chamber of Progress نیز پاسخ دادند."
-    ],
-    "body_fa": "‏مرکز سیاست‌گذاری Hyperliquid (HPC) در پاسخ به بازنگری MiCA اتحادیه اروپا، خواستار این شد که قراردادهای دائمی (perpetual futures) رمزارز به عنوان مشتقات تحت چارچوب MiFID II سال ۲۰۱۴ تنظیم شوند، نه تحت مقررات جدید MiCA. HPC معتقد است این چارچوب می‌تواند محصولات on‑chain را بدون نیاز به بازنگری کلی قوانین پذیرش کند. در همان زمان، صادرکننده USDC ، شرکت Circle ، در همان مشاوره خواستار حذف الزام ۳۰ تا ۶۰ درصد ذخیره بانکی برای ذخایر استیبل‌کوین‌ها شد و تأکید کرد که تنها سه استیبل‌کوین از ۲۵ بزرگ جهان تحت MiCA هستند. Circle این نکته را به عنوان نقص در پوشش توکن‌های بزرگ جهانی توسط MiCA مطرح کرد. دوره مشاوره MiCA که از ۲۰ مه آغاز شد، تا ۳۰ سپتامبر ادامه یافت و شرکت‌های دیگری مانند Deutsche Börse و Chamber of Progress نیز نظرات خود را ارائه دادند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین رمزارز",
-    "tag": "MiCA",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-    "clean_url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790881325706.png",
-    "timestamp": 1790856000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "aeed2a1751",
-    "title_fa": "‏مایکروسافت فروش Ninja Theory را لغو کرد؛ استودیو بسته می‌شود",
-    "title_en": "Hellblade studio Ninja Theory faces closure after a failed sale",
-    "summary": [
-      "‏فروش دو معامله برای استودیو Ninja Theory به Microsoft لغو شد و شرکت در حال بررسی بسته شدن است.",
-      "‏این خبر نشان می‌دهد استودیوهای موفق مثل Hellblade ممکن است پس از عدم یافتن خریدار به اتمام برسند و کار بازی‌سازی را تحت فشار قرار دهند.",
-      "‏Microsoft هنوز برنامه نهایی برای استودیو را اعلام نکرده است."
-    ],
-    "body_fa": "‏مایکروسافت اعلام کرد که دو معامله جداگانه برای فروش استودیو توسعه‌دهنده بازی Hellblade به نام Ninja Theory به دلیل عدم توافق منقضی شده‌اند. پس از این شکست، شرکت به کارکنان خود مشاوره درباره احتمال بسته شدن استودیو ارائه داده است. Ninja Theory که به خاطر عناوینی چون Hellblade: Senua’s Path شناخته می‌شود، پیش از این به دنبال خریدار جدید برای ادامه فعالیت‌های خود بود. عدم یافتن خریدار نشان می‌دهد حتی استودیوهای موفق در صنعت بازی‌سازی می‌توانند با چالش‌های مالی مواجه شوند. بسته شدن این استودیو می‌تواند منجر به از دست رفتن شغل‌های متخصص در زمینه‌های طراحی، برنامه‌نویسی و صداگذاری شود و فشار بیشتری بر بازار کار بازی‌سازی وارد کند. مایکروسافت هنوز برنامه نهایی خود برای آینده Ninja Theory را به‌صورت رسمی اعلام نکرده است.",
-    "category": "گیم",
-    "subcategory": "بسته شدن استودیو",
-    "tag": "Ninja Theory",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Clownfish TV on MSN",
-    "url": "https://www.msn.com/en-us/news/other/hellblade-studio-ninja-theory-faces-closure-after-a-failed-sale/ar-AA2dmM4L",
-    "clean_url": "https://www.msn.com/en-us/news/other/hellblade-studio-ninja-theory-faces-closure-after-a-failed-sale/ar-AA2dmM4L",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790854822.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d65867d72e",
-    "title_fa": "‏قیمت طلا با افزایش بازده اوراق آمریکا فشار می‌گیرد",
-    "title_en": "Gold struggles as rising US Treasury yields outweigh dovish Fed repricing |...",
-    "summary": [
-      "‏قیمت طلا در روز پنجشنبه به حدود 4,167 دلار رسید و تنها 0.26 ٪ افزایش یافت",
-      "‏بالا رفتن نرخ بهره 10‑ساله آمریکا و تقویت دلار، فشار بر طلا ایجاد کرد",
-      "‏بازارها انتظار کاهش احتمال افزایش نرخ توسط فدرال رزرو را دارند"
-    ],
-    "body_fa": "‏قیمت طلا (XAU/USD) در روز پنجشنبه حدود 4,167 دلار معامله شد و پس از افزایش جزئی 0.26 ٪، نتوانست روند صعودی خود را ادامه دهد. تقویت شاخص دلار (DXY) به نزدیک 101.85 و صعود بازده اوراق 10‑ساله آمریکا به 5.34 ٪، بالاترین سطح از سال 2002 ، هزینه فرصت نگهداری دارایی‌های بدون بهره مانند طلا را افزایش داد. این تحولات در حالی رخ داد که داده‌های اخیر نشان داد تورم مصرف‌کننده (PCE) کمتر از انتظار بوده و رشد تولید ناخالص داخلی در سه ماهه دوم به 2.2 ٪ رسید، که باعث شد احتمال افزایش نرخ بهره توسط فدرال رزرو در جلسه اکتبر به حدود 37 ٪ کاهش یابد. اگرچه این بازنگری دوفیسی حمایت جزئی از طلا می‌کند، اما رشد اقتصادی قوی و ریسک‌های تورمی بالا، فشارهای افزایشی بر سیاست‌های پولی را حفظ می‌کند. علاوه بر این، عدم پیشرفت مذاکرات آمریکا‑ایران برای بازگشایی تنگه هرمز، قیمت نفت را بالا نگه داشته و ریسک تورمی را تقویت می‌کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
-    "clean_url": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
-    "image": "https://s.yimg.com/bo/bce1de3c-943b-5211-abf1-ea19583faad8_1790320154845.jpg",
-    "timestamp": 1790853882.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "dd3ae203d1",
-    "title_fa": "‏دولت‌سازی در رومانی فشار بر رتبه اعتباری را افزایش داد",
-    "title_en": "Romania's political stalemate intensifies rating pressure before S&P review",
-    "summary": [
-      "‏رومانی نتوانست تا چهارشنبه دولت جدیدی تشکیل دهد و به مسدودیت سیاسی پنج ماهه ادامه داد.",
-      "‏این رکود سیاسی فشار بر رتبه اعتباری سرمایه‌گذاری‌پذیر رومانی را قبل از بازنگری S&P تشدید می‌کند.",
-      "‏افزایش بدهی عمومی و نگرانی‌های پایداری مالی، ریسک‌های بازار اوراق قرضه را بالا می‌برد."
-    ],
-    "body_fa": "‏رومانی پس از پنج ماه مسدودیت سیاسی نتوانست تا چهارشنبه دولت جدیدی تشکیل دهد. این عدم توانایی در شکل‌گیری حکومت، فشار بر رتبه اعتباری سرمایه‌گذاری‌پذیر کشور را پیش از بازنگری S&P افزایش می‌دهد. در عین حال، بدهی عمومی رومانی به سرعت در حال افزایش است و نزدیک به حد تحمل مالی می‌شود. تحلیل‌گران هشدار می‌دهند که اگر این وضعیت ادامه یابد، ممکن است S&P رتبه را کاهش دهد که به هزینه‌های بالاتر استقراض منجر می‌شود. این تحولات می‌تواند بازار اوراق قرضه اروپایی و سرمایه‌گذاران خارجی را تحت تأثیر قرار دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "رتبه اعتباری",
-    "tag": "Romania",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/romanias-political-stalemate-intensifies-rating-pressure-before-sp-review-2026-10-01/",
-    "clean_url": "https://www.reuters.com/business/romanias-political-stalemate-intensifies-rating-pressure-before-sp-review-2026-10-01",
-    "image": "https://www.reuters.com/resizer/v2/YTGOBYMBPFIPPITCW4KK57RQWQ.jpg?auth=e17023f21e7adfd2006006a7aeca02556b97265d2f3b8964073eaaaffc65560e&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1790853840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bfe106b6e8",
-    "title_fa": "‏TotalEnergies تصمیم به سرمایه‌گذاری 10 میلیارد دلاری در آرژانتین گرفت",
-    "title_en": "TotalEnergies to invest $10 billion in Argentina, CEO Pouyanne says",
-    "summary": [
-      "‏شرکت TotalEnergies اعلام کرد 10 میلیارد دلار در آرژانتین سرمایه‌گذاری می‌کند",
-      "‏این سرمایه‌گذاری می‌تواند تولید انرژی و ایجاد شغل‌های جدید را تقویت کند",
-      "‏پروژه‌ها شامل نفت، گاز و انرژی‌های تجدیدپذیر خواهند بود"
-    ],
-    "body_fa": "‏شرکت فرانسوی TotalEnergies برنامه دارد تا 10 میلیارد دلار در آرژانتین سرمایه‌گذاری کند. مدیرعامل این شرکت، Pouyanne ، گفت این مبلغ در چند سال آینده به پروژه‌های اکتشاف و استخراج نفت و گاز و همچنین توسعه انرژی‌های تجدیدپذیر اختصاص خواهد یافت. این سرمایه‌گذاری انتظار می‌رود تولید انرژی کشور را افزایش داده و به ایجاد هزاران شغل جدید منجر شود. همچنین همکاری‌های نزدیک با دولت آرژانتین برای بهبود زیرساخت‌های انرژی و تأمین امنیت انرژی منطقه‌ای پیش‌بینی شده است.",
-    "category": "انرژی و کالا",
-    "subcategory": "سرمایه‌گذاری در انرژی",
-    "tag": "TotalEnergies",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/totalenergies-invest-10-billion-argentina-ceo-pouyanne-says-2026-10-01/",
-    "clean_url": "https://www.reuters.com/business/energy/totalenergies-invest-10-billion-argentina-ceo-pouyanne-says-2026-10-01",
-    "image": "https://s.yimg.com/bo/f7328da8-7882-5589-a340-74147e7b7fce_1790854514213.jpg",
-    "timestamp": 1790853525.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f6a96fa1ad",
-    "title_fa": "‏هک‌های کریپتو در سوم 2026 به 1.26 میلیارد دلار رسید",
-    "title_en": "Bitcoin bulls just had a monster quarter. So did crypto hackers: Crypto Daily",
-    "summary": [
-      "‏در سه‌ماهه سوم 2026 ، هک‌های کریپتو 247 مورد با مجموع خسارت 1.26 میلیارد دلار ثبت کردند.",
-      "‏این خسارات، هرچند نسبت به سرمایه‌گذاری‌های ETF کم است، به‌خاطر آسیب به اعتبار و پذیرش مؤسسه‌ای مهم است.",
-      "‏سپتامبر با 99 حادثه، بزرگ‌ترین ماه سال بود و بیمه‌نامه‌های کریپتو نیز به 130.2 میلیون دلار کاهش یافت."
-    ],
-    "body_fa": "‏در سه‌ماهه سوم 2026 ، صنعت کریپتو 247 حادثه امنیتی را تجربه کرد که مجموع خسارت آن‌ها 1.26 میلیارد دلار شد و تا کنون سال جاری 2.68 میلیارد دلار ضرر ثبت شده است. سپتامبر با 99 حادثه و 768.5 میلیون دلار سرقت، پرآشوب‌ترین ماه سال بود. این حوادث، هرچند نسبت به جریان سرمایه‌گذاری‌های ETF کوچک‌اند، به‌خاطر تضعیف اعتبار زیرساخت‌های دیجیتال، پذیرش مؤسسه‌ای را تحت فشار قرار می‌دهند. بیمه‌نامه‌های کریپتو نیز به 130.2 میلیون دلار کاهش یافته و نسبت به خطرات موجود ناکافی است. علاوه بر این، هوش مصنوعی به‌سرعت ابزارهای جدیدی برای کشف آسیب‌پذیری‌های قراردادهای هوشمند فراهم می‌کند که می‌تواند تعداد حوادث را افزایش دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "امنیت و هک",
-    "tag": "هک",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
-    "clean_url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
-    "image": "https://s.yimg.com/bo/904f19c3-7d7a-5550-ad82-788f5f745d4a_1789487492727.jpg",
-    "timestamp": 1790852452.0,
     "sent_to_telegram": true
   }
 ]
