@@ -1,5 +1,27 @@
 [
   {
+    "id": "505fd94775",
+    "title_fa": "‏ETF بانک‌های اروپایی به‌دلیل ریسک فرانسه ۹٪ افت کرد",
+    "title_en": "EUFN's bank bargains are a bet on French politics",
+    "summary": [
+      "‏ETF iShares MSCI Europe Financials (EUFN) در ماه گذشته حدود ۹٪ سقوط کرد.",
+      "‏سقوط به دلیل گسترش ریسک مالی و سیاسی فرانسه و نگرانی از گسترش بدهی‌های دولتی است.",
+      "‏تحلیل‌گران می‌گویند اگر انتخابات ۲۰۲۷ و سیاست‌های لِ پَن ادامه یابد، فشار بر اوراق قرضه فرانسه افزایش می‌یابد."
+    ],
+    "body_fa": "‏iShares MSCI Europe Financials ETF (EUFN) در ماه گذشته حدود ۹٪ کاهش یافت و به حدود ۳۸ دلار رسید. این افت ناشی از نگرانی‌های سرمایه‌گذاران نسبت به ریسک مالی و سیاسی فرانسه است که پس از کاهش رتبه‌های اعتباری و ابهام در بودجه ۲۰۲۷ کشور، گسترش یافت. اختلاف بازدهی اوراق دولتی فرانسه و آلمان به ۱۴۰ نقطه پایه رسیده و برای اولین بار از سال ۲۰۱۱ بیشترین فاصله را نشان می‌دهد. بانک‌های اروپایی که بخش عمده‌ای از دارایی‌های خود را در اوراق دولتی دارند، با هزینه‌های بالاتر بیمه اعتباری مواجه شده‌اند. برخی تحلیل‌گران همچون JPMorgan این بازده‌های بالای ۴٪ را فرصتی برای خرید می‌دانند، اما خطرات ناشی از رکود فرانسه یا تغییر سیاست‌های ECB می‌تواند زیان‌ها را تشدید کند. در عین حال، Goldman Sachs هشدار می‌دهد که مسیر مالی ایتالیا می‌تواند فشارهای بدهی اروپایی را تا سال ۲۰۲۸ تشدید کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانک‌های اروپایی",
+    "tag": "فرانسه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "ainvest",
+    "url": "https://www.ainvest.com/news/eufn-bank-bargains-bet-french-politics-2610/",
+    "clean_url": "https://www.ainvest.com/news/eufn-bank-bargains-bet-french-politics-2610",
+    "image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1791747896322.jpg.png",
+    "timestamp": 1791748260.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "c81a7d4958",
     "title_fa": "‏ترامپ به اعمال تعرفه‌های سنگین ادامه می‌دهد",
     "title_en": "Trump sticks with tariffs even as U.S. voters turn against them before the midterms",
@@ -393,6 +415,28 @@
     "clean_url": "https://www.reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791701580.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9781aa4a2e",
+    "title_fa": "‏هوش مصنوعی نقشه رقابت آمریکا و چین را بازنویسی می‌کند",
+    "title_en": "AI Is Redrawing the Map of the US-China Rivalry",
+    "summary": [
+      "‏هوش مصنوعی به‌عنوان عامل جدیدی بر رقابت استراتژیک آمریکا و چین تأثیر می‌گذارد.",
+      "‏این تغییر می‌تواند سیاست‌های اقتصادی و امنیتی دو کشور را بازنگری کند.",
+      "‏تحلیلگران پیش‌بینی می‌کنند سرمایه‌گذاری در فناوری‌های هوش مصنوعی به‌سرعت افزایش خواهد یافت."
+    ],
+    "body_fa": "‏هوش مصنوعی به‌عنوان نیروی محرکه‌ای جدید در رقابت ژئوپلیتیک بین ایالات متحده و چین مطرح شده است. متخصصان بر این باورند که پیشرفت‌های سریع در یادگیری عمیق، رباتیک و پردازش داده‌های بزرگ می‌تواند تعادل قدرت نظامی و اقتصادی را تغییر دهد. چین در حال سرمایه‌گذاری کلان در زیرساخت‌های هوش مصنوعی و ایجاد چارچوب‌های قانونی حمایتی است، در حالی که واشنگتن سعی دارد محدودیت‌های صادراتی و استانداردهای امنیتی سخت‌تری اعمال کند. این تحولات می‌تواند به رقابت بر سر برتری در فناوری‌های نیمه‌رسانا، پردازش کوانتومی و سامانه‌های خودران منجر شود و بازارهای جهانی را تحت تأثیر قرار دهد. در نتیجه، شرکت‌های فناوری بین‌المللی باید استراتژی‌های خود را برای مواجهه با این تغییرات بازنگری کنند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "رقابت آمریکا چین",
+    "tag": "هوش مصنوعی",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/opinion/features/2026-10-11/ai-is-redrawing-the-map-of-the-us-china-rivalry",
+    "clean_url": "https://www.bloomberg.com/opinion/features/2026-10-11/ai-is-redrawing-the-map-of-the-us-china-rivalry",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791694800.0,
     "sent_to_telegram": true
   },
   {
@@ -6553,50 +6597,6 @@
     "clean_url": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
     "image": "https://s.yimg.com/bo/94da9c52-10fe-566e-bf27-81ad19810ae0_1790950166022.jpg",
     "timestamp": 1790947624.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1e60e18c43",
-    "title_fa": "‏فدرال‌ها کالیفرنی را قاچاق سرورهای Nvidia به چین دستگیر کردند",
-    "title_en": "Feds arrested a California man accused of smuggling $300 million of servers with Nvidia AI chips into China.",
-    "summary": [
-      "‏دولت آمریکا گریک لوی را به اتهام قاچاق سرورهای مجهز به چیپ‌های AI Nvidia به چین، به ارزش ۳۰۰ میلیون دلار، دستگیر کرد.",
-      "‏این پرونده نشان‌دهندهٔ فشارهای فدرال بر صادرات کنترل‌شده فناوری‌های هوش مصنوعی و تأثیر آن بر روابط تجاری آمریکا و چین است.",
-      "‏سال گذشته نیز چهار نفر به اتهام مشابه دستگیر شدند."
-    ],
-    "body_fa": "‏وزارت دادگستری آمریکا گریک لوی، یک مرد کالیفرنی، را به اتهام توطئه، پول‌شویی و قاچاق سرورهای حاوی چیپ‌های AI Nvidia به چین متهم کرد. مقامات می‌گویند این سرورها به ارزش حدود ۳۰۰ میلیون دلار از طریق بازصادر از کشورهایی چون مالزی و سنگاپور به چین منتقل شده‌اند. این اقدام نقض قوانین صادرات کنترل‌شده است که هدفشان جلوگیری از انتقال فناوری‌های پیشرفته هوش مصنوعی به چین می‌باشد. این پرونده پس از دستگیری چهار نفر در سال گذشته به دلیل اتهامات مشابه، نشان‌دهندهٔ تشدید نظارت فدرال بر زنجیره تأمین چیپ‌های AI است. اگرچه هنوز تأثیر مستقیم بر قیمت سهام Nvidia مشخص نیست، اما این خبر می‌تواند فشارهای نظارتی بیشتری بر شرکت‌های فناوری و زنجیره تأمینشان ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "صادرات کنترل‌شده",
-    "tag": "Nvidia",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1004320/feds-arrested-a-california-man-accused-of-smuggling-300-million-of-servers-with-nvidia-ai-chips-into-china",
-    "clean_url": "https://www.theverge.com/tech/1004320/feds-arrested-a-california-man-accused-of-smuggling-300-million-of-servers-with-nvidia-ai-chips-into-china",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-    "timestamp": 1790946600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bb92bafb35",
-    "title_fa": "‏جِی کلایتون ممکن است سرپرست هوش مصنوعی آمریکا شود",
-    "title_en": "Possible next crypto czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
-    "summary": [
-      "‏جِی کلایتون، رئیس پیشین SEC ، احتمالاً به عنوان سرپرست هوش مصنوعی ترامپ منصوب می‌شود.",
-      "‏این انتصاب می‌تواند سیاست نظارت بر فناوری‌های نوظهور، به‌ویژه رمزارزها، را تحت تأثیر قرار دهد.",
-      "‏او پیش از این با پرونده Ripple Labs ، پایه‌گذار رویکرد «قوانین از طریق اجرا» در رمزارزها شد."
-    ],
-    "body_fa": "‏جِی کلایتون، رئیس پیشین کمیسیون بورس و اوراق بهادار آمریکا (SEC) که تحت ریاست ترامپ اولین بار به تنظیم رمزارزها از طریق اجرا پرداخت، احتمالاً به عنوان سرپرست هوش مصنوعی (AI czar) دولت ترامپ منصوب می‌شود. در این نقش جدید تمرکز او بر نظارت بر صنعت هوش مصنوعی داخلی خواهد بود و به‌نظر می‌رسد موضوع رمزارزها از برنامه کاری حذف شده است. با این حال، سابقه کلایتون در پیگیری پرونده‌های بزرگ رمزارزی مانند Ripple Labs نشان می‌دهد که ممکن است رویکرد سختگیرانه‌تری نسبت به فناوری‌های نوظهور اتخاذ کند. این انتصاب می‌تواند مسیر تنظیمات آینده برای هوش مصنوعی و دارایی‌های دیجیتال را شکل دهد و نگرانی‌های بازارهای رمزارزی را برانگیزد. در عین حال، هنوز جزئیات دقیق وظایف سرپرست هوش مصنوعی مشخص نیست و نظراتی دربارهٔ تأثیرات احتمالی آن بر نوآوری و رقابت‌پذیری آمریکا مطرح شده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "نظارت بر هوش مصنوعی",
-    "tag": "AI czar",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-    "clean_url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dee7ca3ec92ba77eecf6dabbabbc08eb9f261f9b-6345x4230.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.4118&fp-y=0.5138&w=1920&h=1080&q=75",
-    "timestamp": 1790935920.0,
     "sent_to_telegram": true
   }
 ]
