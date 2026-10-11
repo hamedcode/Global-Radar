@@ -1,5 +1,49 @@
 [
   {
+    "id": "c81a7d4958",
+    "title_fa": "‏ترامپ به اعمال تعرفه‌های سنگین ادامه می‌دهد",
+    "title_en": "Trump sticks with tariffs even as U.S. voters turn against them before the midterms",
+    "summary": [
+      "‏ترامپ با وجود مخالفت 64 ٪ از رای‌دهندگان، به اعمال تعرفه‌های بالا برای 60 اقتصاد ادامه می‌دهد.",
+      "‏این تصمیم می‌تواند قبل از انتخابات میانی تأثیر اقتصادی و سیاسی مهمی در آمریکا داشته باشد.",
+      "‏تعرفه‌ها بین 10 ٪ تا 12.5 ٪ بر کالاهای وارداتی از اتحادیه اروپا، هند، ژاپن، کانادا و مکزیک اعمال می‌شوند."
+    ],
+    "body_fa": "‏رئیس‌جمهور دونالد ترامپ با وجود افزایش قیمت‌ها و انتقادات کارشناسان تجاری، بر ادامه تعرفه‌های سنگین تأکید می‌کند. نظرسنجی اخیر نشان می‌دهد 64 ٪ از بزرگسالان آمریکایی سیاست‌های تجاری او را بیش از حد می‌دانند، که نسبت به ژانویه افزایش یافته است. ترامپ از بخش 301 قانون تجارت 1974 برای اعمال تعرفه‌های 10 ٪ تا 12.5 ٪ بر واردات از 60 کشور، از جمله اتحادیه اروپا، هند، ژاپن، کانادا و مکزیک، استفاده می‌کند. این تعرفه‌ها پس از رد قانون 1977 توسط دادگاه عالی، جایگزین ابزارهای قبلی شده‌اند. اقتصاددانان معتقدند این سیاست‌ها به نفع مصرف‌کنندگان و شرکت‌های آمریکایی نیست و می‌تواند رشد اقتصادی را تحت فشار قرار دهد. با نزدیک شدن به انتخابات میانی، این تصمیم تجاری می‌تواند نقش مهمی در تصمیم‌گیری رأی‌دهندگان ایفا کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "سیاست تجاری",
+    "tag": "تعرفه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "NBC New York",
+    "url": "https://www.nbcnewyork.com/news/national-international/trump-tariffs-us-voters-turn-against-midterms/6558171/",
+    "clean_url": "https://www.nbcnewyork.com/news/national-international/trump-tariffs-us-voters-turn-against-midterms/6558171",
+    "image": "https://media.nbcnewyork.com/2026/10/GettyImages-2298310466-e1791739210638.jpg?quality=85&strip=all&resize=1200%2C675",
+    "timestamp": 1791743431.7994535,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "13b07d4fd3",
+    "title_fa": "‏ایران واکنش آمریکا به پیشنهاد بازگشایی هرمز را ناکافی دانست",
+    "title_en": "Iran says US response to its proposal to reopen Hormuz was 'insufficient",
+    "summary": [
+      "‏ایران اعلام کرد پاسخ آمریکا به پیشنهاد بازگشایی تنگه هرمز کافی نیست.",
+      "‏این موضوع می‌تواند بر ترافیک نفتی و امنیت منطقه تأثیر بگذارد.",
+      "‏مقام امنیتی ایران خواست ایالات متحده مسائل باقی‌مانده را روشن کند."
+    ],
+    "body_fa": "‏سران امنیتی ایران گفت پاسخ ایالات متحده به پیشنهاد بازگشایی تنگه هرمز «نا کافی» بوده و باید موارد مبهم را شفاف‌سازی کند. این پیشنهاد ایران برای بازگشایی مسیر دریایی است که بخش عمده‌ای از صادرات نفتی جهان از آن عبور می‌کند. اگر تنگه به‌طور کامل باز شود، می‌تواند فشار بر قیمت نفت را کاهش دهد و جریان تجاری را تسهیل کند. اما عدم وضوح در مذاکرات می‌تواند نگرانی‌های سرمایه‌گذاران و شرکت‌های حمل‌ونقل را افزایش دهد. رصدکنندگان بر این باورند که هر گونه تنش جدید در هرمز می‌تواند نوسانات قابل‌توجهی در بازارهای انرژی جهانی ایجاد کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "بازگشایی هرمز",
+    "tag": "Hormuz",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iran-says-us-response-its-proposal-reopen-hormuz-was-insufficient-2026-10-11/",
+    "clean_url": "https://www.reuters.com/world/middle-east/iran-says-us-response-its-proposal-reopen-hormuz-was-insufficient-2026-10-11",
+    "image": "https://s.yimg.com/bo/316db056-6bac-5e6d-abbc-8b63b2f1caf3_1791303795815.jpg",
+    "timestamp": 1791739758.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "c4abe2f96f",
     "title_fa": "‏Anthropic دسترسی اینترنت را برای ارزیابی هوش مصنوعی قطع کرد",
     "title_en": "Anthropic Shut Down Live Internet for All AI Agent Evaluations After Models Exploited Government Systems and Submitted a False Homicide Tip",
@@ -6553,50 +6597,6 @@
     "clean_url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/dee7ca3ec92ba77eecf6dabbabbc08eb9f261f9b-6345x4230.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.4118&fp-y=0.5138&w=1920&h=1080&q=75",
     "timestamp": 1790935920.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8717b10f7c",
-    "title_fa": "‏پلتفرم Drift ادعای بازپرداخت خسارت‌ها را آغاز کرد",
-    "title_en": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
-    "summary": [
-      "‏پلتفرم Drift (به نام Velocity) ادعای دریافت توکن‌های DFX برای جبران خسارت‌های کاربران پس از هک آوریل را باز کرد.",
-      "‏پرداخت اولیه تنها حدود 1 ٪ از ضررهاست و نشان‌دهنده روند کند بازگرداندن حدود 9.2 میلیون دلار مسدود شده است.",
-      "‏تا 147.5 میلیون دلار تعهد شرکا هنوز به استخر بازگرداندن اضافه نشده."
-    ],
-    "body_fa": "‏پلتفرم مبادله غیرمتمرکز Velocity که پیش‌تر با نام Drift شناخته می‌شد، امروز ادعای دریافت توکن‌های DFX برای کاربران آسیب‌دیده از هک آوریل را فعال کرد. هر توکن DFX معادل یک دلار USDT از دست رفته است و می‌تواند سوزانده شود تا به صورت USDT از استخر بازگرداندن دریافت شود یا در بازار ثانویه فروخته شود. در حال حاضر هر DFX فقط حدود 0.01 USDT (یک سنت) برمی‌گرداند که تقریباً 1 ٪ از کل خسارت‌هاست. تا به امروز 216,480 DFX برای حدود 2,250 USDT پرداخت شده و استخر کل 3.11 میلیون USDT دارد. تا 147.5 میلیون دلار تعهد از طرف Tether و شرکای استراتژیک هنوز به استخر اضافه نشده و 9.2 میلیون دلار دارایی مسدود شده منتظر حکم قضایی است. این روند نشان می‌دهد که بازگرداندن کامل دارایی‌های سرقت‌شده که حدود 295.4 میلیون دلار بوده، هنوز دور است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "بازیابی دارایی",
-    "tag": "DFX",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
-    "clean_url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240503_Hacks_News_2.jpg",
-    "timestamp": 1790935080.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bd8d5dec63",
-    "title_fa": "‏Mynt Ant‑پشتیبان در IPO فیلیپین ۷ میلیارد دلاری ارزیابی شد",
-    "title_en": "Ant-Backed Fintech Mynt Valued at Around $7 Billion in Philippine IPO",
-    "summary": [
-      "‏فین‌تک Mynt که توسط Ant پشتیبانی می‌شود، در بازار بورس فیلیپین به ارزش حدود ۷ میلیارد دلار عرضه شد.",
-      "‏این عرضه یکی از بزرگ‌ترین فهرست‌های تاریخ بورس فیلیپین است و می‌تواند سرمایه‌گذاری در منطقه جنوب‑شرق آسیا را جذب کند.",
-      "‏Mynt صاحب سرویس پرداخت موبایلی GCash است که بیش از ۴۶ میلیون کاربر دارد."
-    ],
-    "body_fa": "‏شرکت فین‌تک Mynt که توسط Ant Group پشتیبانی می‌شود، در بورس فیلیپین به ارزش حدود ۷ میلیارد دلار عرضه شد. این عرضه که شامل بیش از ۲۲ درصد از سهام شرکت است، یکی از بزرگ‌ترین فهرست‌های تاریخ بورس فیلیپین محسوب می‌شود. Mynt صاحب سرویس پرداخت موبایلی GCash است که بیش از ۴۶ میلیون کاربر فعال دارد و نقش کلیدی در اقتصاد دیجیتال این کشور ایفا می‌کند. انتظار می‌رود این IPO جذب سرمایه‌های بین‌المللی را به بازار فیلیپین تسهیل کند و رشد بخش فین‌تک منطقه را تقویت نماید. تحلیل‌گران پیش‌بینی می‌کنند که موفقیت این عرضه می‌تواند مسیر دیگر شرکت‌های فناوری آسیایی برای ورود به بازارهای سرمایه را هموار سازد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سرمایه",
-    "tag": "Mynt",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/pro/private-equity/ant-backed-fintech-mynt-valued-at-around-7-billion-in-philippine-ipo-0224c31b",
-    "clean_url": "https://www.wsj.com/pro/private-equity/ant-backed-fintech-mynt-valued-at-around-7-billion-in-philippine-ipo-0224c31b",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790929860.0,
     "sent_to_telegram": true
   }
 ]
