@@ -154,6 +154,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "bf8c75ceb5",
+    "title_fa": "‏نیویورک تایمز و اکونومیست به ائتلاف ناشران هوش مصنوعی پیوستند",
+    "title_en": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
+    "summary": [
+      "‏نیویورک تایمز، اکونومیست و بیش از ۴۰ ناشر دیگر در ائتلافی برای جلوگیری از استفاده رایگان محتوا توسط شرکت‌های هوش مصنوعی شرکت کردند.",
+      "‏این اقدام هدف دارد تا از استخراج و آموزش مدل‌های هوش مصنوعی بدون پرداخت حق‌الکپی جلوگیری کند.",
+      "‏همراه با حمایت اتحادیه‌ ناشران اروپا، این ائتلاف فشار بین‌المللی بر شرکت‌های AI را تقویت می‌کند."
+    ],
+    "body_fa": "‏در روز دوشنبه، نیویورک تایمز (NYT.N) و مجله اکونومیست به ائتلافی که بیش از چهل ناشر در آن حضور دارند، پیوستند. این ائتلاف با هدف جلوگیری از استفاده رایگان محتواهای تحت حق‌الکپی توسط شرکت‌های هوش مصنوعی شکل گرفته است. اعضای ائتلاف می‌خواهند قوانین واضحی برای پرداخت حق‌الکپی به ناشران هنگام استفاده از مقالات و داده‌هایشان در آموزش مدل‌های زبانی ایجاد کنند. این حرکت پس از انتقادات گسترده صنعت رسانه نسبت به استخراج داده‌هایشان بدون جبران مالی صورت می‌گیرد. اعضای ائتلاف امیدوارند فشار عمومی و قانونی بتواند شرکت‌های بزرگ فناوری را وادار به مذاکرات منصفانه کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "کپی‌رایت",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/nyt-economist-among-publishers-joining-coalition-curb-unpaid-ai-use-2026-10-12/",
+    "clean_url": "https://www.reuters.com/legal/litigation/nyt-economist-among-publishers-joining-coalition-curb-unpaid-ai-use-2026-10-12",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791821160.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c518733bf6",
+    "title_fa": "‏مصر عملیات استخراج طلا در صحرای شرقی را اجرا کرد",
+    "title_en": "Africa’s most powerful military launches crackdown on illegal prospecting of Eastern desert gold in a North African nation",
+    "summary": [
+      "‏نیروهای نظامی و پلیس مصر فاز سوم مبارزه با استخراج غیرقانونی طلا در صحرای شرقی را آغاز کردند.",
+      "‏این اقدام برای حفظ حاکمیت ملی و جلوگیری از خروج منابع طبیعی مهم مانند طلا انجام می‌شود.",
+      "‏در پی گزارش‌های حملات هوایی نزدیک مرز جنوب، سوداگران غیرقانونی کشته یا زخمی شدند."
+    ],
+    "body_fa": "‏نیروهای نظامی و پلیس مصر فاز سوم عملیات خود را برای مهار استخراج غیرقانونی طلا در صحرای شرقی آغاز کردند. پیش از شروع، بروشورهای هشداردهنده در مناطق هدف پخش شد تا ساکنان از خطرات احتمالی آگاه شوند. این اقدام بخشی از تلاش گسترده‌تر دولت برای تأکید بر حاکمیت کامل بر سرزمین و حفاظت از منابع طبیعی کشور است. گزارش‌ها حاکی از وقوع حملات هوایی نزدیک مرز جنوب است که منجر به کشته یا زخمی شدن معدن‌کاران غیرقانونی شد و سودان درخواست تحقیق رسمی کرده است. مقامات مصر تأکید کردند روابط صلح‌آمیز با سودان پابرجاست و مردم را به استفاده از منابع خبری رسمی و دوری از شایعات فراخوانده‌اند.",
+    "category": "انرژی و کالا",
+    "subcategory": "استخراج طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Business Insider Africa",
+    "url": "https://africa.businessinsider.com/local/markets/africas-most-powerful-military-launches-crackdown-on-illegal-prospecting-of-desert/w122t0b",
+    "clean_url": "https://africa.businessinsider.com/local/markets/africas-most-powerful-military-launches-crackdown-on-illegal-prospecting-of-desert/w122t0b",
+    "image": "https://ocdn.eu/pulscms-transforms/1/ljbktkpTURBXy9jNWFjZDkwOGVmM2M0ZWEwZDQyNmFiN2EyYjFhNGUxMS5qcGeSlQMAAM0EAM0CQJMFzQSwzQJ2",
+    "timestamp": 1791816060.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "991fc5b4b7",
     "title_fa": "‏آلبرتسونز برای معامله ناکام کروگر 9 میلیارد دلار می‌خواهد",
     "title_en": "Albertsons Seeks More Than $9 Billion for Busted Kroger Deal",
@@ -264,6 +308,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "c463cfbd4e",
+    "title_fa": "‏بامبل در مذاکرات خرید خصوصی با ارزش یک میلیارد",
+    "title_en": "Healthcare could be AI buildout's biggest winner, says market expert",
+    "summary": [
+      "‏بامبل، برنامهٔ دوستیابی، در مذاکرات پیشرفته برای خرید خصوصی با ارزش یک میلیارد دلار است.",
+      "‏این معامله می‌تواند ساختار مالکیت شرکت را تغییر دهد و تأثیراتی بر بازار فناوری داشته باشد.",
+      "‏منبع Reuters این خبر را تأیید کرد."
+    ],
+    "body_fa": "‏شرکت دوستیابی Bumble که در بورس نیویورک فهرست شده بود، در حال مذاکره برای خرید خصوصی است. بر اساس منابعی که به Reuters اطلاع دادند، ارزش پیشنهادی برای این معامله حدود 1 میلیارد دلار است. این قیمت نسبت به ارزش بازار قبلی شرکت که چندین میلیارد دلار بود، کاهش قابل توجهی نشان می‌دهد. اگر معامله تکمیل شود، سهامداران فعلی Bumble می‌توانند سهام خود را به‌صورت نقدی بفروشند و شرکت به‌صورت خصوصی تحت مالکیت جدیدی ادامه خواهد داد. چنین تغییر ساختاری می‌تواند روند ارزیابی شرکت‌های فناوری مشابه را تحت تأثیر قرار دهد و سرمایه‌گذاران را به بازنگری در استراتژی‌های سرمایه‌گذاری سوق دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "ادغام و خرید",
+    "tag": "Bumble",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/video/watch/idRW959612102026RP1/",
+    "clean_url": "https://www.reuters.com/video/watch/idRW959612102026RP1",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791811620.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "962ff80736",
     "title_fa": "‏عرضه عمومی اولیه Dangote بازارهای سرمایه آفریقا را عمیق‌تر می‌کند",
     "title_en": "Dangote IPO fever could deepen Africa's capital markets, Citi says",
@@ -283,6 +349,50 @@
     "clean_url": "https://www.reuters.com/world/africa/dangote-ipo-fever-could-deepen-africas-capital-markets-citi-says-2026-10-12",
     "image": "https://s.yimg.com/bo/18d17868-bfc0-5aa1-9d91-8322250ec184_1791812597361.jpg",
     "timestamp": 1791811135.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "210d081732",
+    "title_fa": "‏سهم بازار گوشی‌های هوشمند Apple افزایش یافت",
+    "title_en": "Apple gains smartphone share as stock nears record high",
+    "summary": [
+      "‏افزایش سهم شرکت Apple در بازار گوشی‌های هوشمند ارزش سهام این غول فناوری را به نزدیکی سقف تاریخی رساند.",
+      "‏بانک JPMorgan هدف قیمتی سهام این شرکت را به دلیل چشم‌انداز مثبت افزایش داده است.",
+      "‏توسعه محصولات خانه هوشمند با ادغام هوش مصنوعی Siri از دلایل این رشد به شمار می‌رود."
+    ],
+    "body_fa": "‏سهام شرکت Apple هم‌زمان با رشد سهم این شرکت در بازار جهانی گوشی‌های هوشمند، به نزدیکی رکورد تاریخی خود رسیده است. کارشناسان بانک JPMorgan با اشاره به عملکرد قوی این شرکت، قیمت هدف سهام آن را افزایش دادند. این روند صعودی تحت تاثیر استقبال از محصولات جدید و تقویت موقعیت رقابتی شرکت شکل گرفته است. شرکت Apple علاوه بر بازار موبایل، در حال گسترش حضور خود در حوزه دستگاه‌های خانه هوشمند با استفاده از توانایی‌های هوش مصنوعی دستیار صوتی Siri است. تحلیل‌گران بازار انتظار دارند این نوآوری‌ها جریان‌های درآمدی تازه‌ای برای این غول فناوری ایجاد کند.",
+    "category": "تکنولوژی",
+    "subcategory": "بازار گوشی‌های هوشمند",
+    "tag": "Apple",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/video/2026/10/12/apple-gains-smartphone-share-as-stock-nears-record-high.html",
+    "clean_url": "https://www.cnbc.com/video/2026/10/12/apple-gains-smartphone-share-as-stock-nears-record-high.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108399816-17918356441791835642-48958745361-1080pnbcnews.jpg?v=1791835643&w=1920&h=1080",
+    "timestamp": 1791810540.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f5a73b4cae",
+    "title_fa": "‏بازده ۱۰‑ساله آمریکا به بالاترین دهه رسید؛ فرصت بازگشت A‑Share",
+    "title_en": "Global Liquidity Inflection Point Confirmed: U.S. Treasury Yields Surge, A-Share Short-Term Rebound Window Emerges",
+    "summary": [
+      "‏بازده اوراق ۱۰‑ساله آمریکا به 5.24‑5.31 ٪ رسید، بالاترین سطح در بیش از دو دهه",
+      "‏این افزایش نشانگر نقطه عطف نقدینگی جهانی است و فشار بر دارایی‌های پرخطر را تقویت می‌کند",
+      "‏تحلیل‌گران پیش‌بینی می‌کنند بازده‌های بالاتر می‌تواند پنجره کوتاه‌مدت برای بازگشت سهام A‑Share چین ایجاد کند"
+    ],
+    "body_fa": "‏داده‌های اخیر نشان می‌دهد که جریان‌های نقدینگی جهانی در اواخر 2025 به اوج رسیده و از آن پس به کاهش ادامه داده‌اند، در حالی که کل نقدینگی حدود 196.6 تریلیون دلار باقی مانده است. در همین دوره، بازده اوراق ۱۰‑ساله خزانه‌داری آمریکا به بازه 5.24 ٪ تا 5.31 ٪ صعود کرده که بالاترین سطح در بیش از دو دهه است و فشار بر دارایی‌های پرخطر را افزایشت می‌دهد. تحلیل‌گران این نقطه عطف را نتیجهٔ یک چرخه بازپرداخت با سررسید متوسط پنج تا شش سال می‌دانند که باعث انتقال سرمایه از بخش مالی به بخش واقعی می‌شود. این انتقال منجر به «تنگ‌نقش» نقدینگی در بازارهای مالی می‌شود و پیش‌بینی می‌شود که حدود نه ماه پس از اوج نقدینگی، رشد واقعی اقتصاد تسریع یابد و تصحیحی در بازار سهام رخ دهد. به‌ویژه در چین، این فشار می‌تواند یک پنجره کوتاه‌مدت برای بازگشت سهام A‑Share ایجاد کند، چرا که سرمایه‌گذاران به دنبال فرصت‌های ارزش‌گذاری مجدد هستند. در مجموع، افزایش بازده‌های بلندمدت بیشتر ناشی از رشد سریع تولید ناخالص داخلی اسمی است تا اضطراب بدهی، که نشانگر یک دورهٔ تورم‌پذیری و سیاست‌های پولی سختگیرانه‌تر می‌باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نقدینگی جهانی",
+    "tag": "نقدینگی",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "finance.biggo",
+    "url": "https://finance.biggo.com/news/71e78e5c-0aee-45f5-8e0f-81c141a940f2",
+    "clean_url": "https://finance.biggo.com/news/71e78e5c-0aee-45f5-8e0f-81c141a940f2",
+    "image": "https://img.biggo.com/y1f2sofec4skL2NkYwxjDbqUGhzBWQ4Yc9JelhwljK0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMTAvNzFlNzhlNWMtMGFlZS00NWY1LThlMGYtODFjMTQxYTk0MGYyXzE3OTE4MDg2ODBfZGVmYXVsdC53ZWJw.jpg",
+    "timestamp": 1791808440.0,
     "sent_to_telegram": true
   },
   {
@@ -330,6 +440,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "ce84253c06",
+    "title_fa": "‏داده‌های تورم آمریکا طلا را از محدوده ۴۱۰۰‑۴۲۰۰ دلار می‌برد",
+    "title_en": "Will US inflation data push Gold out of its $4,100-$4,200 range? | FXStreet",
+    "summary": [
+      "‏قیمت طلا در حدود ۴۱۶۳ دلار در برابر دلار آمریکا تثبیت شد و بین ۴۱۰۰ تا ۴۲۰۰ دلار نوسان می‌کند.",
+      "‏داده‌های CPI ماه سپتامبر که این هفته منتشر می‌شود می‌تواند جهت‌گیری طلا را به سمت بالا یا پایین تغییر دهد.",
+      "‏اگر CPI بالاتر از پیش‌بینی باشد، احتمال افزایش نرخ بهره فدرال رزرو و تقویت دلار، فشار بر طلا می‌آید."
+    ],
+    "body_fa": "‏قیمت طلا (XAU/USD) امروز حدود ۴۱۶۳ دلار معامله می‌شود و پس از صعود قبلی، در محدوده ۴۱۰۰ تا ۴۲۰۰ دلار تثبیت شده است. تجار‌گران به دلیل انتظار برای داده‌های تورم ایالات متحده که در روز چهارشنبه منتشر می‌شود، از باز کردن موقعیت‌های بزرگ خودداری می‌کنند. گزارش CPI ماه سپتامبر پیش‌بینی می‌شود که ماهانه ۰.۶٪ و سالانه ۳.۷٪ افزایش یابد که می‌تواند سرنخ‌های جدیدی برای تصمیم‌گیری فدرال رزرو فراهم کند. اگر ارقام بالاتر از پیش‌بینی باشد، احتمال افزایش نرخ بهره در جلسه ۲۷‑۲۸ اکتبر فدرال رزرو افزایش می‌یابد و دلار و بازده اوراق قرضه ارتقاء می‌یابند، که فشار نزولی بر طلا ایجاد می‌کند. در مقابل، ارقام نرم‌تر می‌تواند باعث شکست سطح ۴۲۰۰ دلار و ادامه روند صعودی طلا شود. عوامل ژئوپلیتیکی همچون حملات حوثی به فرودگاه‌های عربستان و خطرات حمل و نقل در تنگه هرمز نیز به نوسان قیمت طلا دامن می‌زنند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/gold-fails-to-sustain-a-break-above-4-200-us-cpi-in-focus-202610121129",
+    "clean_url": "https://www.fxstreet.com/news/gold-fails-to-sustain-a-break-above-4-200-us-cpi-in-focus-202610121129",
+    "image": "https://s.yimg.com/bo/b58ac74c-3026-5aae-9637-3cb5c52d9b06_1787729554763.jpg",
+    "timestamp": 1791805626.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "4d40ee2289",
     "title_fa": "‏FSB درباره خطر نقص قوانین فرامرزی استیبل‌کوین‌ها هشدار داد",
     "title_en": "FSB warns cross-border stablecoin rules remain untested in a severe market...",
@@ -371,6 +503,28 @@
     "clean_url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108398414-1791813673485-gettyimages-2291503914-logos.jpeg?v=1791813701&w=1920&h=1080",
     "timestamp": 1791803640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1ea23555f4",
+    "title_fa": "‏شرکت Meta می‌گوید مدل Muse به مرز هوش مصنوعی رسیده",
+    "title_en": "Meta Says New Muse Model Reaches AI Frontier After Aggressive Push",
+    "summary": [
+      "‏Meta اعلام کرد مدل جدید هوش مصنوعی «Muse» به سطح پیشرفته‌ای دست یافته.",
+      "‏این پیشرفت می‌تواند موقعیت Meta را در رقابت با دیگر شرکت‌های AI تقویت کند.",
+      "‏مدل جدید با هدف بهبود تولید محتوا و تعاملات کاربری معرفی شد."
+    ],
+    "body_fa": "‏Meta امروز اعلام کرد مدل جدید هوش مصنوعی خود به نام Muse به مرزهای پیشرفته فناوری رسیده است. این دستاورد پس از دوره‌ای پرشتاب از سرمایه‌گذاری و تحقیق در زمینه AI به‌دست آمده. شرکت می‌گوید Muse توانایی تولید محتوا با کیفیت بالا و تعامل طبیعی‌تر با کاربران را دارد. این پیشرفت می‌تواند رقابت Meta با رقبای بزرگ مانند Google و OpenAI را تشدید کند. در صورت موفقیت، Muse می‌تواند نقش مهمی در استراتژی‌های تجاری و تبلیغاتی Meta ایفا کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Muse",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/meta-says-new-muse-model-reaches-ai-frontier-after-14-month-push",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-12/meta-says-new-muse-model-reaches-ai-frontier-after-14-month-push",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791803280.0,
     "sent_to_telegram": true
   },
   {
@@ -6443,160 +6597,6 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-10-04/britain-s-reliance-on-us-cloud-giants-alarms-its-politicians",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791072000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "58b7e8303f",
-    "title_fa": "‏کره‌جنوبی پس از نفوذهای مالی، بررسی‌های امنیتی را دستور داد",
-    "title_en": "Korea Orders Security Checks After Finance-Sector Data Breaches",
-    "summary": [
-      "‏کره‌جنوبی پس از رخ دادن نفوذهای داده در بخش مالی، دستور انجام بررسی‌های امنیتی را داد.",
-      "‏این اقدام برای جلوگیری از سرقت اطلاعات بیشتر و بازگرداندن اعتماد مشتریان مهم است.",
-      "‏بانک‌های بزرگ کره‌جنوبی ممکن است تحت نظارت شدیدتر قرار گیرند."
-    ],
-    "body_fa": "‏در هفته اخیر، چندین نفوذ داده در مؤسسات مالی کره‌جنوبی گزارش شد که اطلاعات مشتریان را در معرض خطر قرار داد. در واکنش به این حوادث، مقامات نظارتی کشور دستور انجام بررسی‌های جامع امنیتی در تمام بانک‌ها و شرکت‌های مالی را صادر کردند. هدف این بررسی‌ها شناسایی نقاط ضعف فنی و عملیاتی و جلوگیری از حملات مشابه در آینده است. انتظار می‌رود این اقدام باعث تقویت چارچوب‌های امنیتی و افزایش نظارت بر رعایت استانداردهای حفاظت از داده‌ها شود. در صورت کشف نقص‌های جدی، ممکن است قوانین سخت‌گیرانه‌تری برای حفاظت از اطلاعات شخصی تصویب شود.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "دیتابریک",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-04/korea-orders-security-checks-after-finance-sector-data-breaches",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-04/korea-orders-security-checks-after-finance-sector-data-breaches",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791067380.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2b598458f8",
-    "title_fa": "‏کره شمالی تست موشک استراتژیک میان‌برد را انجام داد",
-    "title_en": "North Korea says it conducted intermediate-range strategic missile drill",
-    "summary": [
-      "‏کره شمالی یک موشک میان‌برد استراتژیک را در تمرین نظامی شلیک کرد",
-      "‏این اقدام زیر نظارت کیم جونگ‑اون باعث نگرانی بین‌المللی و تقویت تنش‌های منطقه‌ای شد",
-      "‏موشک توسط رسانه‌های دولتی به عنوان تمرین استراتژیک اعلام شد"
-    ],
-    "body_fa": "‏کره شمالی اعلام کرد که در یک تمرین استراتژیک میان‌برد، موشکی را شلیک کرد. این پرتاب تحت نظارت مستقیم کیم جونگ‑اون انجام شد و توسط رسانه‌های دولتی گزارش شد. موشک میان‌برد می‌تواند به هدف‌های دوردست در منطقه برسد و نقض تحریم‌های سازمان ملل محسوب می‌شود. این اقدام نگرانی‌های بین‌المللی را درباره گسترش توان نظامی پی‌پک‌پک شمالی تشدید کرد. ایالات متحده و متحدانش احتمالاً واکنش‌های دیپلماتیک یا اقتصادی بیشتری را در پیش دارند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "موضع نظامی",
-    "tag": "موشک",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill-2026-10-03/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill-2026-10-03",
-    "image": "https://s.yimg.com/bo/44297a73-f49d-5049-a0b7-20051fb4f19d_1791071962916.jpg",
-    "timestamp": 1791065850.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "993869e742",
-    "title_fa": "‏نیروهای یمن به حملات هوایی علیه حوثی‌ها در سنا پرداخت",
-    "title_en": "Yemen's armed forces say it is conducting strikes against Houthis in Sanaa",
-    "summary": [
-      "‏نیروهای مسلح یمن اعلام کردند صبح یکشنبه به حملات هوایی علیه حوثی‌های هم‌پیمان ایران در سنا پرداخته‌اند.",
-      "‏این اقدام می‌تواند تنش‌های داخلی را تشدید کند و نگرانی‌های بین‌المللی درباره گسترش نفوذ ایران را افزایش دهد.",
-      "‏سنا، پایتخت، پیش از این هدف حملات هوایی متعدد بوده است."
-    ],
-    "body_fa": "‏نیروهای مسلح یمن صبح یکشنبه اعلام کردند که به عملیات هوایی علیه مواضع حوثی‌ها در سنا پرداخته‌اند. حوثی‌ها که با ایران هم‌پیمان هستند، کنترل گسترده‌ای از شمال تا پایتخت دارند و در طول سال‌های اخیر به‌طور مداوم با دولت یمن درگیر هستند. این حملات هوایی شامل استفاده از هواپیماهای جنگی و پهپادهای نظارتی بوده و هدف آن تخریب زیرساخت‌های نظامی حوثی‌هاست. دولت یمن این اقدام را به‌عنوان پاسخی به تهدیدات امنیتی حوثی‌ها و حمایت‌های نظامی ایران توصیف کرده است. تحلیل‌گران هشدار می‌دهند که تشدید درگیری‌ها می‌تواند فشار بر جمعیت غیرنظامی را افزایش داده و خطر گسترش درگیری به مناطق دیگر را به‌وجود آورد. جامعه بین‌المللی نیز نگرانی خود را نسبت به احتمال تشدید تنش‌های منطقه‌ای و تأثیر آن بر مسیر صلح در یمن ابراز کرده است.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حملات هوایی",
-    "tag": "حوثی",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/yemens-armed-forces-say-it-is-conducting-strikes-against-houthis-sanaa-2026-10-03/",
-    "clean_url": "https://www.reuters.com/world/middle-east/yemens-armed-forces-say-it-is-conducting-strikes-against-houthis-sanaa-2026-10-03",
-    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
-    "timestamp": 1791065850.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a4af02e91a",
-    "title_fa": "‏تقاضای کم و نگرانی ارزیابی، IPO های وال استریت خنک شد",
-    "title_en": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
-    "summary": [
-      "‏IPO های وال استریت به دلیل تقاضای کم و نگرانی از ارزیابی‌ها کاهش یافتند",
-      "‏این کاهش می‌تواند فشار بر بازار سهام و جذب سرمایه جدید ایجاد کند",
-      "‏ارزش کل عرضه‌های اولیه نسبت به ماه‌های پیش کاهش چشمگیری داشت"
-    ],
-    "body_fa": "‏در ماه‌های اخیر بازار سهام آمریکا با شور فراوانی برای عرضه اولیه سهام (IPO) مواجه بود، اما اکنون تقاضا به‌طور قابل‌توجهی سرد شده است. شرکت‌ها به دلیل نگرانی‌های ارزیابی و قیمت‌گذاری پایین‌تر، تمایل به عرضه سهام خود را به تعویق می‌اندازند. این وضعیت باعث کاهش تعداد معاملات IPO و ارزش کل آن‌ها نسبت به دوره‌های پیشین شده است. بانک‌های سرمایه‌گذاری که به این معاملات وابسته‌اند، با فشارهای جدیدی در جذب سرمایه‌گذاران مواجه می‌شوند و ممکن است استراتژی‌های خود را بازنگری کنند. در مجموع، خنک شدن شور IPO می‌تواند بر روانی بازار و جریان سرمایه‌گذاری در اقتصاد آمریکا اثر منفی داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سرمایه",
-    "tag": "IPO",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa951a123-a475-45c7-a7e4-505547aa536b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1791061260.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "11abc8b89c",
-    "title_fa": "‏اتحادیه اروپا با وتوی تحریم‌ها خود را صدمه می‌زند",
-    "title_en": "EU countries shoot themselves in the foot when they veto sanctions",
-    "summary": [
-      "‏کشورهای عضو اتحادیه اروپا یک پیشنهاد تحریمی را به دلیل وتو رد کردند.",
-      "‏این اقدام کارآیی تحریم‌ها را کاهش داده و توان مقابله با هدف مورد نظر را تضعیف می‌کند.",
-      "‏برخی اعضا به دلایل منافع ملی یا فشارهای داخلی این وتو را اعمال کردند."
-    ],
-    "body_fa": "‏در ماه اخیر، چند کشور عضو اتحادیه اروپا با استفاده از حق وتو، تصویب یک بسته تحریمی مهم را مسدود کردند. این تحریم‌ها قرار بود علیه (کشور یا هدف خاص) اعمال شود تا فشار اقتصادی بر آن افزایش یابد. unanimity در تصمیم‌گیری‌های خارجی اتحادیه الزامی است و هر وتو می‌تواند کل فرآیند را به تعویق بیندازد. با این اقدام، همبستگی داخلی اتحادیه تحت فشار قرار گرفته و توان مذاکره آن در صحنه بین‌المللی کاهش می‌یابد. تحلیل‌گران هشدار می‌دهند که تضعیف کارآیی تحریم‌ها می‌تواند اثرات منفی بر بازارهای انرژی و ارزهای مرتبط داشته باشد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های اتحادیه",
-    "tag": "تحریم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/9e9f0cbd-ef77-4e19-8f6e-97063e9fe9fc?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/9e9f0cbd-ef77-4e19-8f6e-97063e9fe9fc",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F16954ca1-e524-4e89-af43-196a63cdb78b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1791061200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8f3833db3c",
-    "title_fa": "‏بانک مرکزی ایران حمایت از ریال 2 میلیارد دلار می‌فروشد",
-    "title_en": "Iranian rial at new low, as cenbank sells dollars to support currency",
-    "summary": [
-      "‏ریال ایران به پایین‌ترین سطح تاریخی رسید؛ بانک مرکزی اعلام کرد تا 2 میلیارد دلار می‌فروشد",
-      "‏هدف جلوگیری از سقوط بیشتر ارز و تثبیت بازار است",
-      "‏این اقدام می‌تواند فشار بر ذخایر ارزی و تورم را افزایش دهد"
-    ],
-    "body_fa": "‏ریال ایران در روز شنبه به رکورد جدیدی از ضعف رسید و به حدود ۵۲٬۰۰۰ ریال مقابل دلار سقوط کرد. بانک مرکزی اعلام کرد تا ۲ میلیارد دلار ارز خارجی می‌فروشد تا فشار بر ریال را کاهش دهد. این مداخله پس از چندین روز کاهش مداوم نرخ ارز و نگرانی‌های بازار دربارهٔ کمبود ذخایر ارزی انجام شد. کارشناسان هشدار دادند که فروش این حجم ارز می‌تواند ذخایر ارزی کشور را تحت فشار بیشتری قرار دهد. در عین حال، انتظار می‌رود این اقدام به کوتاه‌مدت از نوسان شدید ریال جلوگیری کند. اما اثرات بلندمدت بر تورم و سیاست‌های پولی هنوز نامشخص است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ ارز",
-    "tag": "ریال",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iranian-rial-new-low-cenbank-sells-dollars-support-currency-2026-10-03/",
-    "clean_url": "https://www.reuters.com/world/middle-east/iranian-rial-new-low-cenbank-sells-dollars-support-currency-2026-10-03",
-    "image": "https://s.yimg.com/bo/cf33e3f2-603d-532d-9606-82d3aa4474c7_1791057676221.jpg",
-    "timestamp": 1791056543.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a51264af09",
-    "title_fa": "‏جنتاهای ساحل یک کانال تلویزیونی با حمایت روسیه راه‌اندازی کردند",
-    "title_en": "Sahel juntas launch TV channel with Russian backing",
-    "summary": [
-      "‏جنتاهای ساحل یک شبکه تلویزیونی جدید با پشتیبانی مالی و فنی روسیه راه‌اندازی کردند.",
-      "‏این گام نشان‌دهنده گسترش نفوذ رسانه‌ای روسیه در آفریقا و تقویت روایت‌های نظامی است.",
-      "‏می‌تواند روابط بین‌المللی منطقه را تحت تأثیر قرار دهد و رقابت‌های قدرت را تشدید کند."
-    ],
-    "body_fa": "‏جنتاهای حاکم بر کشورهای ساحل، پس از مذاکرات با مقامات روسیه، یک کانال تلویزیونی جدید راه‌اندازی کردند. این شبکه با سرمایه‌گذاری و تجهیزات فنی روسیه پشتیبانی می‌شود و هدفش انتشار پیام‌های نظامی و سیاسی جنتاهاست. حضور روسیه در این پروژه نشان از تمایل او به گسترش نفوذ رسانه‌ای در آفریقا دارد. تحلیل‌گران پیش‌بینی می‌کنند این رسانه می‌تواند روایت‌های مخالف را سرکوب کند و به تقویت موقعیت جنتاها در مذاکرات داخلی و بین‌المللی کمک کند. در عین حال، این اقدام می‌تواند تنش‌های ژئوپلیتیک در منطقه را افزایش دهد و واکنش‌های کشورهای غربی را برانگیزد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "رسانه و دیپلماسی",
-    "tag": "تلویزیون",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/259b49a1-8eda-4e8d-84c7-45323988b07b?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/259b49a1-8eda-4e8d-84c7-45323988b07b",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd19c256-837a-4f6e-bdb8-f2b052ad3dc4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1791055440.0,
     "sent_to_telegram": true
   }
 ]
