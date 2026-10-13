@@ -1,5 +1,93 @@
 [
   {
+    "id": "7c6fbbe4b8",
+    "title_fa": "‏قیمت طلا به زیر ۴۱۵۰ دلار سقوط کرد",
+    "title_en": "Gold slides on US yields surge ahead of CPI | FXStreet",
+    "summary": [
+      "‏قیمت طلا به ۴۱۵۷ دلار رسید و ۰٫۳۷٪ کاهش یافت",
+      "‏کاهش به دلیل افزایش بازده اوراق خزانه‌داری آمریکا پیش از انتشار CPI",
+      "‏همزمان نفت WTI به بالای ۹۴ دلار ارتقا یافت"
+    ],
+    "body_fa": "‏قیمت طلا (XAU/USD) در روز سه‌شنبه به ۴۱۵۷ دلار رسید و نسبت به روز قبل ۰٫۳۷ درصد کاهش یافت. این افت به دلیل صعود بازده اوراق قرضه ۱۰ ساله آمریکا به ۵٫۲۲۳ درصد بود که فشار بر دلار ایجاد کرد. داده‌های اخیر بازار کار نشان داد که متوسط تغییرات استخدام ADP کمی کاهش یافت و فروش خانه‌های موجود در سپتامبر ۱٫۵ درصد رشد کرد. با این حال، سرمایه‌گذاران به انتشار شاخص قیمت مصرف‌کننده (CPI) در روز چهارشنبه و اظهارات فدرال رزرو برای پیش‌بینی احتمال افزایش نرخ بهره توجه دارند. قیمت نفت خام WTI نیز به دلیل تنش‌های خلیج فارس به بالای ۹۴ دلار رسید. این تحولات نشان می‌دهد که نوسانات طلا به شدت به سیاست‌های پولی آمریکا و تحولات ژئوپلیتیک وابسته است.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/gold-slides-on-us-yields-surge-ahead-of-cpi-202610131742",
+    "clean_url": "https://www.fxstreet.com/news/gold-slides-on-us-yields-surge-ahead-of-cpi-202610131742",
+    "image": "https://s.yimg.com/bo/f027ce38-82b7-542e-a714-a6f2a414951e_1790255730890.jpg",
+    "timestamp": 1791914295.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "52202a246a",
+    "title_fa": "‏دنگوت نیجریه ۴.۷ میلیارد دلار سود کرد؛ IPO بزرگ آفریقا",
+    "title_en": "Dangote Swings to $4.7 Billion Profit Ahead of Africa’s Biggest IPO | OilPrice.c...",
+    "summary": [
+      "‏پالایشگاه دنگوت نیجریه در نه ماه اول ۲۰۲۶ سود خالص ۴.۷۳ میلیارد دلار ثبت کرد.",
+      "‏این سود باعث شد شرکت برای جذب ۱.۶ میلیارد دلار در بزرگ‌ترین IPO آفریقا ارزش‌گذاری ۴۷ میلیارد دلاری شود.",
+      "‏پالایشگاه با تولید ۷۰۰,۰۰۰ بشکه در روز، صادرات سوخت را افزایش و وابستگی غرب آفریقا به واردات را کاهش می‌دهد."
+    ],
+    "body_fa": "‏پالایشگاه دنگوت در نیجریه در نه ماه اول سال ۲۰۲۶ سود خالص ۴.۷۳ میلیارد دلاری به دست آورد، پس از ثبت ضرر ۱۱۷ میلیون دلاری در دوره مشابه سال قبل. درآمد شرکت به ۲۲.۴۸ میلیارد دلار رسید و EBITDA به ۵.۵۲ میلیارد دلار جهش یافت، که ناشی از افزایش ظرفیت پردازش و حاشیه‌های بالای پالایش در پی اختلالات در خاورمیانه بود. به همین دلیل، دنگوت تصمیم گرفت ۱.۶ میلیارد دلار از طریق عرضه اولیه سهام (IPO) جمع‌آوری کند که ارزش‌گذاری کل پالایشگاه را حدود ۴۷ میلیارد دلار می‌گذارد. دوره اشتراک‌گذاری سهام که تا ۱۳ اکتبر برنامه‌ریزی شده بود، به دلیل تقاضای شدید سرمایه‌گذاران تا ۲۷ اکتبر تمدید شد. شرکت قصد دارد ظرفیت پالایش را تا سال ۲۰۲۹ به ۱.۴ میلیون بشکه در روز دو برابر کند و نقش مهمی در کاهش وابستگی غرب آفریقا به واردات سوخت ایفا کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "پالایشگاه نفت",
+    "tag": "Dangote",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Swings-to-47-Billion-Profit-Ahead-of-Africas-Biggest-IPO.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Swings-to-47-Billion-Profit-Ahead-of-Africas-Biggest-IPO.html",
+    "image": "https://s.yimg.com/bo/b1337585-099e-54a5-b110-4d400a6ecd56_1791909937073.jpg",
+    "timestamp": 1791910701.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dc2b80271a",
+    "title_fa": "‏قیمت طلا بدون سیاست نرم نیاز به فشار مالی دارد",
+    "title_en": "Gold doesn't need a dovish Fed. It needs fiscal repression | FXStreet",
+    "summary": [
+      "‏قیمت طلا پس از سقوط به حدود 4,100‑4,200 دلار تثبیت شد.",
+      "‏تحلیل‌گران می‌گویند کاهش نرخ بهره کافی نیست؛ برای رشد طلا باید بازده بلندمدت و دلار کاهش یابد.",
+      "‏این فشارها به بدهی 40 تریلیون دلاری آمریکا مرتبط است."
+    ],
+    "body_fa": "‏قیمت طلا از اوایل اکتبر بین 4,100 تا 4,200 دلار تثبیت شد پس از اصلاح شدیدی که آن را به نزدیک‌ترین سطح به اوت رساند. از اوج تاریخی نزدیک 5,600 دلار در ژانویه، طلا حدود یک‌چهارم ارزش خود را از دست داده و افزایش بازده اوراق خزانه‌داری آمریکا و دلار قوی، فشار بر آن وارد کرده است. کاهش خطر افزایش نرخ بهره توسط فدرال‌رزرو به تنهایی برای احیای طلا کافی نیست، زیرا بازده بلندمدت که تحت تأثیر انتظارات تورمی و بدهی عمومی است، همچنان بالاست. بازده 10‑ساله اوراق خزانه‌داری به بیش از 5.20 ٪ رسیده و بازده واقعی نیز به شدت افزایش یافته است. بدهی فدرال‌دولت آمریکا که بیش از 40 تریلیون دلار است و پیش‌بینی می‌شود تا 2036 به 120 ٪ تولید داخلی برسد، فشارهای مالی بیشتری ایجاد می‌کند. بنابراین، تحلیل‌گران معتقدند کاهش پایدار بازده‌های بلندمدت و دلار، نه فقط سیاست‌های نرم فدرال‌رزرو، محرک اصلی برای یک روند صعودی پایدار طلا خواهد بود.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/analysis/gold-doesnt-need-a-dovish-fed-it-needs-fiscal-repression-202610131700",
+    "clean_url": "https://www.fxstreet.com/analysis/gold-doesnt-need-a-dovish-fed-it-needs-fiscal-repression-202610131700",
+    "image": "https://s.yimg.com/bo/227f572e-c46b-5e4e-b824-e152ceef4012_1791912800489.png.cf.jpg",
+    "timestamp": 1791910695.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b71c6bd628",
+    "title_fa": "‏صرافی MNX معاملات فیوچرز پیش‌IPO هوش مصنوعی را راه‌اندازی کرد",
+    "title_en": "MegaETH-powered MNX goes live with pre-IPO futures for OpenAI, Anthropic and...",
+    "summary": [
+      "‏صرافی جدید MNX معاملات فیوچرز پیش‌IPO برای شرکت‌های هوش مصنوعی OpenAI ، Anthropic ، DeepSeek و Moonshot را آغاز کرد.",
+      "‏این قراردادها تا پایان 2027 اعتبار دارند، بدون هزینه‌های تأمین مالی مکرر و امکان اهرم تا سه برابر را می‌دهند.",
+      "‏پلتفرم بر روی بلاکچین MegaETH ساخته شده و 6.4 میلیون دلار سرمایه جذب کرده است."
+    ],
+    "body_fa": "‏صرافی نوپا MNX که توسط مدیران پیشین Manifold راه‌اندازی شده، معاملات فیوچرز پیش‌IPO برای شرکت‌های خصوصی هوش مصنوعی از جمله OpenAI ، Anthropic ، DeepSeek و Moonshot را ارائه داد. این قراردادها تا پایان سال 2027 منقضی می‌شوند و برخلاف فیوچرزهای دائمی هزینه تأمین مالی دوره‌ای ندارند. سرمایه‌گذاران می‌توانند با اهرم حداکثر سه برابر سرمایه خود معامله کنند، اما این سرویس در حال حاضر برای مشتریان آمریکایی در دسترس نیست. پلتفرم بر بستر بلاکچین MegaETH ساخته شده و در ژوئن 2024 ، 6.4 میلیون دلار سرمایه از Village Global جذب کرد. این گام نشان‌دهنده تلاش برای توسعه زیرساخت‌های مالی پیرامون بازارهای AI است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "فیوچرز پیش‌IPO",
+    "tag": "MNX",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+    "clean_url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+    "image": "https://s.yimg.com/bo/699a4cbb-b8e5-5ebc-8af4-be9ce62d03a2_1791907651127.jpg",
+    "timestamp": 1791907098.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "467c22894f",
     "title_fa": "‏استارتاپ هوش مصنوعی Character.ai اعلام ورشکستگی کرد",
     "title_en": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs...",
@@ -19,6 +107,28 @@
     "clean_url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
     "image": "https://s.yimg.com/bo/80329405-a3f1-549b-a925-f8dbc3de7d39_1791905599003.jpg",
     "timestamp": 1791904071.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ee47aec649",
+    "title_fa": "‏بازار اوراق قرضه آمریکا پس از سقوط شدید چه می‌شود",
+    "title_en": "What happens after a US Treasury market crash | FXStreet",
+    "summary": [
+      "‏بازده اوراق 10 ساله آمریکا به 5.34 ٪ رسید و به بالاترین سطح چند دهه‌ای رسید.",
+      "‏این فشار بر بازارهای جهانی باعث افزایش هزینه‌های استقراض و ممکن است به بازگشت سرمایه‌گذاران به اوراق و تغییر مسیر طلا منجر شود.",
+      "‏پنج شرکت بزرگ هوش مصنوعی در 2026 حدود 220 میلیارد دلار بدهی جدید منتشر کردند."
+    ],
+    "body_fa": "‏بازار اوراق قرضه جهانی تحت فشار شدید است؛ بازده اوراق 10 ساله آمریکا به حدود 5.34 ٪ رسیده که بالاترین سطح از سال 2002 است. این افزایش بازده ناشی از ریسک مداوم تورم، بدهی‌های عظیم دولتی و شرکتی و گسترش پرمیوم‌های مدت است. شرکت‌های بزرگ هوش مصنوعی مانند Alphabet ، Amazon ، Meta ، Microsoft و Oracle در سال 2026 حدود 220 میلیارد دلار بدهی جدید منتشر کرده‌اند که فشار بر بازار را دوچندان می‌کند. افزایش بازده هزینه‌های استقراض را برای دولت‌ها، شرکت‌ها و مصرف‌کنندگان بالا می‌برد و شرایط مالی را سفت‌تر می‌کند. با این حال، فروپاشی شدید اوراق می‌تواند تمرکز سرمایه‌گذاران را از تورم به رشد و ثبات مالی معطوف کند و حتی موجب رونق موقت در خود اوراق و تغییر مسیر طلا شود. تحلیل‌گران بر این باورند که بازار نه تنها نرخ‌های آینده فدرال رزرو را بازنگری می‌کند، بلکه کل چارچوب نرخ بهره را به‌صورت ساختاری بالاتر می‌برد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار اوراق قرضه",
+    "tag": "اوراق‌قرضه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/analysis/what-happens-after-a-us-treasury-market-crash-202610131528",
+    "clean_url": "https://www.fxstreet.com/analysis/what-happens-after-a-us-treasury-market-crash-202610131528",
+    "image": "https://s.yimg.com/bo/e0a4ca18-835b-5240-8187-ba1e00964eca_1789703418337.png.cf.jpg",
+    "timestamp": 1791903495.0,
     "sent_to_telegram": true
   },
   {
@@ -63,6 +173,94 @@
     "clean_url": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
     "image": "https://s.yimg.com/bo/be57bf05-d845-5794-9bb8-575566a49d7d_1791897876829.jpg",
     "timestamp": 1791896871.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7fe3befb92",
+    "title_fa": "‏آمریکا دو آمریکایی را به کمک IT کره‌شمالی دستگیر کرد",
+    "title_en": "DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas",
+    "summary": [
+      "‏دو آمریکایی به اتهام کمک به کارگران IT کره‌شمالی برای سرقت هویت و استخدام تقلبی در شرکت‌های آمریکایی دستگیر شدند",
+      "‏این دستگیری نشان می‌دهد فشار آمریکا بر عملیات سایبری کره‌شمالی و تهدیدهای امنیتی مرتبط",
+      "‏نیروی قضایی ۱۸۷ دستگاه الکترونیکی را مصادره کرد"
+    ],
+    "body_fa": "‏وزارت دادگستری ایالات متحده دو شهروند آمریکایی را به اتهام کمک به کارگران IT کره‌شمالی برای سرقت هویت و به‌دست آوردن شغل‌های تقلبی در شرکت‌های آمریکایی دستگیر کرد. این افراد به‌منظور پشتیبانی از یک مزرعه لپ‌تاپ در تگزاس که توسط کارگران شمالی‌کره‌ای اداره می‌شد، اسناد هویتی افراد را به‌دست می‌آوردند. در عملیات، ۱۸۷ دستگاه الکترونیکی شامل لپ‌تاپ‌ها و سخت‌افزارهای مرتبط مصادره شد. این اقدام بخشی از تلاش گسترده آمریکا برای مهار تهدیدات سایبری ناشی از کره‌شمالی است و می‌تواند منجر به اعمال تحریم‌های بیشتر علیه این کشور شود.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "North Korea",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/doj-arrests-two-seizes-187-devices-north-korean-laptop-farm-crackdown-texas-2026-10-13/",
+    "clean_url": "https://www.reuters.com/legal/government/doj-arrests-two-seizes-187-devices-north-korean-laptop-farm-crackdown-texas-2026-10-13",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791892920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f89debb5b2",
+    "title_fa": "‏فدرال هرمز اولین سهام توکنی‌شده‌اش را برای 2027 برنامه‌ریزی کرد",
+    "title_en": "Federated Hermes (FHI) plans first tokenized fund shares for 2027 as Wall Street...",
+    "summary": [
+      "‏فدرال هرمز قصد دارد در اوایل 2027 کلاس‌های سهام توکنی‌شده اولین صندوق‌هایش را عرضه کند.",
+      "‏این اقدام با همکاری Prometheum به‌صورت مستقیم از طریق حساب‌های کارگزاری‌های سنتی انجام می‌شود و می‌تواند سرعت تسویه و شفافیت را افزایش دهد.",
+      "‏احتمالاً اولین توکن‌ها متعلق به صندوق‌های پولی خواهند بود."
+    ],
+    "body_fa": "‏فدرال هرمز، مدیر سرمایه‌گذاری با دارایی‌های 911 میلیارد دلاری، برنامه دارد تا اوایل سال 2027 کلاس‌های سهام توکنی‌شده اولین صندوق‌های خود را عرضه کند. این بار شرکت به‌جای استفاده از طرف‌ثالث‌ها، خود اقدام به توکن‌سازی می‌کند و برای این منظور با Prometheum ، ارائه‌دهنده زیرساخت‌های دیجیتال اوراق بهادار، همکاری کرده است. Prometheum خدمات کارگزاری، نگهداری و تسویه‌حساب‌های نظارتی را فراهم می‌کند تا این محصولات از طریق کارگزاری‌های سنتی به مشاوران مالی و مشتریانشان برسد. بر اساس گفته کیوین بار، مدیر دیجیتال‌دارایی‌ها، احتمالاً توکن‌سازی ابتدا بر روی صندوق‌های پولی متمرکز خواهد شد. این گام در چارچوب روند رو به رشد توکن‌سازی توسط شرکت‌های بزرگ وال‌استریت مانند BlackRock و JPMorgan است که انتظار می‌رود بازار اوراق توکنی‌شده تا سال 2030 به 5.5 تریلیون دلار برسد. این توسعه می‌تواند زمان تسویه، ثبت سوابق و انتقال دارایی‌ها را به‌طور قابل‌توجهی تسریع کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "توکن‌سازی دارایی",
+    "tag": "توکن‌سازی صندوق",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+    "clean_url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+    "image": "https://s.yimg.com/bo/d095d892-231d-50d5-8c6e-d070ad9fa0ce_1791893804361.jpg",
+    "timestamp": 1791892698.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4b43b9a7fd",
+    "title_fa": "‏زاکربرگ: متا شرط 200 میلیارد دلاری هوش مصنوعی مطمئن نبود",
+    "title_en": "Zuckerberg Admits Meta Lacked AI Certainty on $200 Billion Bet",
+    "summary": [
+      "‏زاکربرگ اعلام کرد متا در سرمایه‌گذاری 200 میلیارد دلاری هوش مصنوعی، اطمینان کافی نداشت.",
+      "‏این اعتراف نشان می‌دهد ریسک‌های بزرگ در پروژه‌های AI شرکت‌های فناوری می‌تواند بر ارزش‌گذاری و استراتژی‌های آینده تأثیر بگذارد.",
+      "‏متا پیش از این برنامه‌ریزی کرده بود تا AI را در محصولات و تبلیغات خود ادغام کند."
+    ],
+    "body_fa": "‏مارک زاکربرگ در مصاحبه‌ای گفت که شرکت متا در شرط 200 میلیارد دلاری برای هوش مصنوعی، اطمینان کافی نداشته است. این اظهارات نشان می‌دهد ریسک‌های مالی بزرگی در پروژه‌های AI وجود دارد که می‌تواند بر ارزش‌گذاری شرکت و تصمیمات سرمایه‌گذاران تأثیر بگذارد. متا پیش از این برنامه‌ریزی کرده بود تا هوش مصنوعی را در محصولات و پلتفرم‌های تبلیغاتی خود ادغام کند. عدم اطمینان زاکربرگ می‌تواند نشانگر چالش‌های فنی یا تجاری در پیاده‌سازی این فناوری باشد. این موضوع ممکن است باعث بازنگری در استراتژی‌های سرمایه‌گذاری و توسعه AI در شرکت‌های فناوری بزرگ شود.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Meta",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791890040.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f3a3ea240d",
+    "title_fa": "‏توکن STX پروژه Stacks 50 ٪ در چهار هفته رشد کرد",
+    "title_en": "Bitcoin layer-2 token STX has surged by 50% in four weeks: Crypto Daily",
+    "summary": [
+      "‏توکن بومی Stacks به نماد STX در چهار هفته اخیر بیش از 50 ٪ افزایش یافت.",
+      "‏این رشد نشان‌دهنده جذب سرمایه‌گذاران به معماری استیکینگ غیرمحافظت‌شده بیت‌کوین و کاهش عرضه فعال STX است.",
+      "‏دوره \"Bonding Period 3\" که در نوامبر آغاز می‌شود، نیاز به قفل‌کردن حدود 5 ٪ ارزش بیت‌کوین در STX دارد."
+    ],
+    "body_fa": "‏توکن بومی پروژه لایه‑۲ بیت‌کوین Stacks ، STX ، در چهار هفتهٔ اخیر بیش از 50 ٪ رشد کرده و در 24 ساعت اخیر نزدیک به 10 ٪ افزایش یافته است. این افزایش قیمت نسبت به بیت‌کوین، اتریوم و سایر رمزارزها قابل‌توجه است و نشانگر علاقهٔ سرمایه‌گذاران به ساختار استیکینگ غیرمحافظت‌شده این پلتفرم است. معماری Stacks به دارندگان بیت‌کوین اجازه می‌دهد تا با نگهداری کلیدهای خصوصی خود، به‌صورت مستقیم بر روی زنجیرهٔ اصلی بیت‌کوین استیک کنند و بازده دریافت کنند. برای این کار از مکانیزم «bonding» استفاده می‌شود که در دورهٔ سوم (Bonding Period 3) که در نوامبر آغاز می‌شود، شرکت‌کنندگان باید حدود 5 ٪ ارزش بیت‌کوین خود را به‌صورت STX قفل کنند. این قفل‌سازی باعث کاهش عرضه فعال STX و تقویت تقاضا می‌شود، به‌طوری‌که قیمت توکن به‌صورت مثبت تحت تأثیر قرار می‌گیرد. در کنار STX ، رمزارزهای دیگری مانند BDX ، REDNER و PYTH نیز در 24 ساعت گذشته حدود 6 ٪ رشد داشته‌اند، که نشان از جابجایی نقدینگی به سمت آلت‌کوین‌ها دارد. با این حال، بازار کلی رمزارزها همچنان تحت تأثیر داده‌های اقتصادی مانند گزارش CPI ایالات متحده و تصمیمات احتمالی فدرال‌رزرو قرار دارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "توکن لایه‑۲",
+    "tag": "STX",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+    "clean_url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+    "image": "https://s.yimg.com/bo/4b5ce5f9-7eb1-569a-a0da-eee538137a8a_1791891687212.png.cf.jpg",
+    "timestamp": 1791889098.0,
     "sent_to_telegram": true
   },
   {
@@ -305,6 +503,28 @@
     "clean_url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/4431859b83445fdd3e02e984cae83412cc8949df-3264x2040.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
     "timestamp": 1791864120.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "85881a07ea",
+    "title_fa": "‏IMF خطرات از پایان رونق هوش مصنوعی را اعلام کرد",
+    "title_en": "IMF flags risks to global economy from AI market correction, war and debt",
+    "summary": [
+      "‏IMF اعلام کرد که پایان رونق سرمایه‌گذاری در هوش مصنوعی می‌تواند رشد جهانی را تهدید کند.",
+      "‏این هشدار همراه با نگرانی از افزایش بدهی‌ها و ادامه جنگ در خاورمیانه، می‌تواند ثبات مالی را به خطر بیندازد.",
+      "‏این نگرانی‌ها ممکن است بر سیاست‌های پولی و بازارهای سرمایه در سراسر جهان تأثیر بگذارد."
+    ],
+    "body_fa": "‏صندوق بین‌المللی پول در گزارشی جدید خطرات قابل‌توجهی برای رشد اقتصادی جهان از پایان رونق سرمایه‌گذاری در هوش مصنوعی شناسایی کرد. این سازمان همچنین به افزایش سریع سطوح بدهی عمومی و خصوصی اشاره کرد که می‌تواند فشارهای مالی را تشدید کند. ادامه درگیری‌های نظامی در خاورمیانه نیز به‌عنوان عامل دیگری برای بی‌ثباتی بازارها مطرح شد. ترکیب این عوامل می‌تواند به کاهش تقاضای جهانی، نوسانات شدید در بازارهای مالی و تغییر در سیاست‌های پولی مرکزی منجر شود. IMF خواستار نظارت دقیق‌تر و اقدامات پیشگیرانه برای جلوگیری از سقوط اقتصادی شد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ثبات مالی",
+    "tag": "AI",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/",
+    "clean_url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791860820.0,
     "sent_to_telegram": true
   },
   {
@@ -6377,226 +6597,6 @@
     "clean_url": "https://finance.yahoo.com/markets/commodities/articles/top-bank-revises-2026-gold-191300724.html",
     "image": "https://media.zenfs.com/en/thestreet_881/5ec01890c4f7b3f102d717efb82de38a.jpg",
     "timestamp": 1791142773.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6478598fae",
-    "title_fa": "‏Nvidia با قرارداد 20 میلیارد دلاری Groq به دادگاه می‌رود",
-    "title_en": "Nvidia’s $20bn licensing deal with Groq faces lawsuit from jilted engineers",
-    "summary": [
-      "‏Nvidia و Groq قرارداد 20 میلیارد دلاری امضا کردند اما مهندسان کنار گذاشته‌شده دعوا کردند",
-      "‏این دعوا می‌تواند بر برنامه‌های AI Nvidia و وضعیت مالیش تأثیر بگذارد",
-      "‏مهندسان ادعا می‌کنند از حقوق مالکیت فکری خود محروم شدند"
-    ],
-    "body_fa": "‏Nvidia قرارداد مجوزدهی با شرکت Groq به ارزش 20 میلیارد دلار امضا کرد تا از فناوری شتاب‌دهنده‌های AI این استارتاپ استفاده کند. چند مهندس که در توسعه این فناوری مشارکت داشتند، پس از حذف از تیم، ادعای نقض قرارداد و سرقت مالکیت فکری کردند و به دادگاه شکایت کردند. این مهندسان درخواست جبران خسارت و بازگرداندن حقوق خود را دارند. اگر دعوا به نفع آن‌ها حل شود، ممکن است برنامه‌های ادغام فناوری Groq در محصولات Nvidia به تعویق بیفتد و فشار مالی بر شرکت افزاش یابد. این پرونده می‌تواند پیش‌زمینه‌ای برای بررسی دقیق‌تر قراردادهای مجوزدهی در صنعت نیمه‌رساناها باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "معامله‌های تجاری",
-    "tag": "Nvidia",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60b05c0f-ab68-490f-ae8d-68f3f64de6e1.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1791140400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e251c66520",
-    "title_fa": "‏فلویو بولسونارو پیشی لولا شد؛ دور دوم انتخابات برزیل",
-    "title_en": "Flávio Bolsonaro Surges Past Lula, Setting Up a Bitter Brazil Election Runoff",
-    "summary": [
-      "‏فلویو بولسونارو در اولین دور انتخابات برزیل پیشی لولا گرفت.",
-      "‏این نتایج رقابت سختی را برای لولا در دور دوم ۲۵ اکتبر پیش‌بینی می‌کند.",
-      "‏پدر او، جائیر بولسونارو، در حال حبس است و این موضوع به تنش‌های سیاسی افزوده است."
-    ],
-    "body_fa": "‏در اولین دور انتخابات ریاست‌جمهوری برزیل، فلویو بولسونارو با پیشی گرفتن از لولا، نتایج غیرمنتظره‌ای به دست آورد. این پیروزی او، که پسر رئیس‌جمهور پیشین زندانی جائیر بولسونارو است، مسیر را برای یک دور دوم تند و دشوار در ۲۵ اکتبر هموار می‌کند. لولا، رئیس‌جمهور کنونی، حالا باید با اختلاف قابل توجهی در رأی‌ها مقابله کند. این رقابت می‌تواند تأثیرات مهمی بر سیاست داخلی و روابط بین‌المللی برزیل داشته باشد، به‌ویژه در زمینه‌های تجاری و زیست‌محیطی. تحلیل‌گران پیش‌بینی می‌کنند که نتایج این انتخابات می‌تواند بازارهای مالی منطقه‌ای و جهانی را تحت تأثیر قرار دهد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "انتخابات ریاست‌جمهوری",
-    "tag": "Bolsonaro",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/world/americas/flavio-bolsonaro-surges-past-lula-setting-up-a-bitter-brazil-election-runoff-0432b9c5",
-    "clean_url": "https://www.wsj.com/world/americas/flavio-bolsonaro-surges-past-lula-setting-up-a-bitter-brazil-election-runoff-0432b9c5",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791133980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "238341c854",
-    "title_fa": "‏حملات ایران بر کشتی‌ها عبور نفت هرمز را مختل کرد",
-    "title_en": "Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping...",
-    "summary": [
-      "‏ایران به‌تازگی به‌صورت هدفمند به کشتی‌های عبوری در تنگه هرمز حمله کرد",
-      "‏این حملات مسیر اصلی حمل نفت، حدود ۲۲ میلیون بشکه روزانه، را به خطر انداخت",
-      "‏دولت آمریکا هشدار داد که خطرات برای ناوگان تجاری افزایش یافته"
-    ],
-    "body_fa": "‏یک مقام آمریکایی اعلام کرد که هدف‌گیری ایران از کشتی‌های عبوری در تنگه هرمز به‌طور قابل‌توجهی بهبود یافته است. این حملات باعث شد که ناوگان حامل نفت، که روزانه حدود ۲۲ میلیون بشکه را عبور می‌دهد، با خطر جدی مواجه شود. شرکت‌های حمل‌ونقل دریایی به‌سرعت مسیرهای جایگزین را بررسی می‌کنند و برخی از آن‌ها تا اطلاع از وضعیت امنیتی، عبور را به تعویق می‌اندازند. قیمت نفت در بازارهای جهانی به‌سرعت بالا رفت و نوسان‌های شدیدی را تجربه کرد. دولت آمریکا نیز هشدار داد که تهدیدات برای کشتی‌های تجاری در این مسیر در حال افزایش است و خواستار تقویت حضور نظامی برای حفاظت از عبورها شد.",
-    "category": "انرژی و کالا",
-    "subcategory": "نفت و حمل‌ونقل",
-    "tag": "استرات هرمز",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/world/middle-east/oil-was-pouring-through-the-strait-of-hormuz-again-then-attacks-on-shipping-resurged-fe9f0dd9",
-    "clean_url": "https://www.wsj.com/world/middle-east/oil-was-pouring-through-the-strait-of-hormuz-again-then-attacks-on-shipping-resurged-fe9f0dd9",
-    "image": "https://s.yimg.com/bo/f1a39c17-5d81-541b-82a7-3d01de4b2de7_1791134839115.jpg",
-    "timestamp": 1791133674.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cad50860f7",
-    "title_fa": "‏آمار اشتغال آمریکا در سپتامبر به‌طور شگفت‌انگیز کاهش یافت",
-    "title_en": "US Jobs Miss Cuts Fed Hike Odds to 23% | Global Economy, Oct 5",
-    "summary": [
-      "‏گزارش‌های استخدام آمریکا در سپتامبر تنها 29,000 شغل جدید تولید کرد، در مقابل پیش‌بینی 84,000 شغل.",
-      "‏این ضعف شغلی احتمال افزایش نرخ بهره فدرال رزرو را به 23 ٪ کاهش داد و دلار را تحت فشار قرار داد.",
-      "‏برنط نفت نزدیک 102 دلار در بشکه بسته شد، که به‌دلیل ریسک‌های خاورمیانه و هزینه‌های حمل‌ونقل بالاست."
-    ],
-    "body_fa": "‏گزارش‌های استخدام ایالات متحده برای ماه سپتامبر نشان داد که تنها 29,000 شغل جدید ایجاد شد، که به‌مراتب کمتر از پیش‌بینی 84,000 شغل است. این کاهش شدید باعث شد نرخ بیکاری به 4.2 ٪ افزایش یابد و داده‌های قبلی نیز مجموعاً 60,000 شغل را کاهش داد. در نتیجه، احتمال افزایش نرخ بهره فدرال رزرو در ماه اکتبر به حدود 23 ٪ سقوط کرد، در حالی که دو مقام فدرال رزرو نظرات متفاوتی درباره ادامه سیاست‌های سختگیرانه داشتند. وینس چیرال فیلیپ جفرسون گفت کمیته ممکن است برای داده‌های بیشتر صبر کند، اما لوری لاگان رئیس بانک فدرال دالاس معتقد است حداقل 50 پایه‌نقطه افزایش دیگر لازم است. بازار ارز نیز تحت تأثیر این خبر، شاخص دلار به 101.93 کاهش یافت و یورو نزدیک 1.125 دلار شد. در عین حال، برنط نفت نزدیک 102 دلار در بشکه بسته شد؛ اختلاف بزرگ با نفت سبک آمریکا ناشی از ریسک‌های خاورمیانه و هزینه‌های بالای حمل‌ونقل است. سرمایه‌گذاران اکنون به داده‌های خدمات ISM و صورتجلسه فدرال رزرو در روزهای آینده برای تعیین جهت‌گیری سیاست‌های پولی توجه می‌کنند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار کار آمریکا",
-    "tag": "اشتغال",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "The Rio Times",
-    "url": "https://www.riotimesonline.com/global-economy-briefing-october-5-2026/",
-    "clean_url": "https://www.riotimesonline.com/global-economy-briefing-october-5-2026",
-    "image": "https://www.riotimesonline.com/wp-content/uploads/2026/10/SX45JIQGXZJAJJXZAIFNTR5Z64-scaled.webp",
-    "timestamp": 1791133200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "15fdf0cda4",
-    "title_fa": "‏آکزونوبل واحد رنگ‌های شرق آسیا را به‌یک میلیارد دلار می‌فروشد",
-    "title_en": "AkzoNobel to sell unit to Nippon Paint for over $1 billion, FT reports",
-    "summary": [
-      "‏آکزونوبل واحد رنگ‌های تزئینی شرق آسیا را به نپون پینت به‌قیمت بیش از یک میلیارد دلار می‌فروشد",
-      "‏این معامله می‌تواند ترکیب بازار رنگ‌های منطقه را تغییر داده و ارزش کل شرکت را تقویت کند",
-      "‏خرید توسط نپون پینت حضور این شرکت را در بازارهای آسیایی گسترش می‌دهد"
-    ],
-    "body_fa": "‏آکزونوبل در آستانه امضای قراردادی برای فروش واحد رنگ‌های تزئینی شرق آسیا به نپون پینت است. مبلغ معامله بیش از یک میلیارد دلار تخمین زده می‌شود و بر اساس گزارش Financial Times از منابع آگاه به دست آمده است. این فروش به آکزونوبل امکان می‌دهد تمرکز خود را بر بازارهای اصلی و محصولات پر سود تقویت کند. نپون پینت با این خرید حضور خود را در بازارهای آسیایی گسترش داده و توان رقابتی خود را افزایش می‌دهد. پیشنهاد تحت تأیید نهادهای نظارتی قرار دارد و انتظار می‌رود تا پایان سال جاری تکمیل شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ادغام و تملک",
-    "tag": "AkzoNobel",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/akzonobel-could-sell-unit-nippon-paint-over-1-billion-ft-reports-2026-10-04/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/akzonobel-could-sell-unit-nippon-paint-over-1-billion-ft-reports-2026-10-04",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791115800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e182088445",
-    "title_fa": "‏Oura عرضه IPO را به‌دلیل عدم اطمینان به تعویق انداخت",
-    "title_en": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI...",
-    "summary": [
-      "‏Oura ، سازنده حلقه هوشمند، عرضه IPO خود را به‌دلیل «عدم اطمینان در بازار IPO» به‌صورت ناگهانی لغو کرد.",
-      "‏این تصمیم نشان می‌دهد که حتی با تقاضای قوی برای گجت‌های هوش مصنوعی، عدم اطمینان بازار می‌تواند رشد این بخش را مهار کند.",
-      "‏Meta و Apple نیز محصولات جدیدی مانند عینک هوشمند Ray‑Ban و ساعت Apple Watch Series 12 را رونمایی کردند."
-    ],
-    "body_fa": "‏دو سال پیش، دانشجوی کارشناسی ارشد Bella Nowroozi در یک قرار ملاقات، چراغ چشمک‌زن عینک هوشمند Meta Ray‑Ban همسرش را دید و از ضبط صدا و تصویر او هشدار داد. این تجربه نشان داد که گجت‌های پوشیدنی هوش مصنوعی می‌توانند حریم خصوصی افراد را به خطر بیاندازند و واکنش‌های انتقادی را برانگیخته‌اند. شرکت‌های بزرگ فناوری همچون Apple ، Google و Meta در حال رقابت برای عرضه عینک‌ها، حلقه‌ها و دستبندهای هوشمند با قابلیت‌های هوش مصنوعی هستند. Meta اخیراً Charm Muse را معرفی کرد که به سرعت به برنامه‌های رایگان برترین فروشگاه iOS رسید و OpenAI نیز دستیار شخصی Dots را رونمایی کرد. در همین حین، Apple در رویداد سپتامبر جدیدترین ساعت‌های Watch Series 12 را با قابلیت گوش دادن به مکالمات معرفی کرد. اما این هفته، Oura که سازنده حلقه هوشمند محبوب است، به‌دلیل «عدم اطمینان در بازار IPO» عرضه اولیه سهام خود را به‌صورت ناگهانی به تعویق انداخت؛ تحلیل‌گرانی این تصمیم را «عجیب» می‌نامند و احتمال می‌دهند عوامل دیگری پشت آن باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "پوشیدنی‌های هوش مصنوعی",
-    "tag": "پوشیدنی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-    "clean_url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-    "image": "https://s.yimg.com/bo/bf65813e-10ee-5ea3-8b7d-efd57ee786c9_1791125374591.jpg",
-    "timestamp": 1791114714.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "799ae847ea",
-    "title_fa": "‏روسیه حملات نظامی به اوکراین را تشدید می‌کند",
-    "title_en": "Russia to intensify strikes on Ukraine after Zelenskiy interview",
-    "summary": [
-      "‏روسیه اعلام کرد که حملات به تأسیسات نظامی و صنایع دفاعی اوکراین را افزایش می‌دهد.",
-      "‏این تشدید جنگ می‌تواند تنش‌های ژئوپلیتیک و بازارهای انرژی را تحت فشار قرار دهد.",
-      "‏اظهار این تصمیم پس از مصاحبهٔ ولنسکی صورت گرفت."
-    ],
-    "body_fa": "‏روسیه پس از مصاحبهٔ ولنسکی اعلام کرد که قصد دارد حملات خود به تأسیسات نظامی و سایت‌های صنایع دفاعی اوکراین را تشدید کند. این اظهارات نشان‌دهندهٔ افزایش شدت درگیری‌ها در جبههٔ شرقی است و می‌تواند به تشدید بحران انسانی منجر شود. افزایش حملات احتمالاً فشار بر قیمت‌های انرژی جهانی و نوسان در بازارهای مالی را به دنبال خواهد داشت. جامعه بین‌المللی پیش از این به دنبال دیپلماسی برای کاهش تنش‌ها بوده و این تصمیم روسیه می‌تواند مسیر مذاکرات صلح را پیچیده‌تر کند. در عین حال، کشورهای همسایه و ناتو ممکن است واکنش‌های نظامی یا تحریمی جدیدی اتخاذ کنند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "جنگ اوکراین",
-    "tag": "روسیه",
-    "urgency": 9,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/russia-intensify-strikes-ukraine-after-zelenskiy-interview-2026-10-04/",
-    "clean_url": "https://www.reuters.com/world/europe/russia-intensify-strikes-ukraine-after-zelenskiy-interview-2026-10-04",
-    "image": "https://s.yimg.com/bo/889c10f0-a099-538e-8631-7b26aa9cb5c3_1791113250432.jpg",
-    "timestamp": 1791111514.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "edca81b26d",
-    "title_fa": "‏جیسون جونز و مارگارت استول Stone Kite را راه‌اندازی کردند",
-    "title_en": "Halo and Destiny Co-Creator Announces New Studio",
-    "summary": [
-      "‏جیسون جونز، هم‌سازنده Halo و Destiny ، و مارگارت استول استودیوی جدید Stone Kite را در 1 اکتبر راه‌اندازی کردند",
-      "‏هدف استودیو ساخت یک جهان چندرسانه‌ای با روایت «fractal» است که می‌تواند در بازی، فیلم و کتاب ادامه یابد",
-      "‏تیم شامل افراد باتجربه از Marvel ، Disney و Riot نیز می‌شود"
-    ],
-    "body_fa": "‏جیسون جونز، هم‌سازندهٔ Halo و Destiny ، به همراه مارگارت استول، کارگردان روایت Destiny 2 ، استودیوی جدیدی به نام Stone Kite تأسیس کردند. این استودیو رسماً در اول اکتبر 2026 افتتاح شد و استول به عنوان مدیرعامل و جونز به عنوان هم‌بنیان‌گذار فعالیت می‌کند. هدف Stone Kite ، ایجاد یک جهان مشترک در چندین رسانه است تا داستان‌ها به‌صورت «fractal storytelling» در بازی، فیلم، کتاب و سایر قالب‌ها همزمان پیشرفت کنند. تیم خلاق این شرکت شامل افراد سابق از شرکت‌های Marvel ، DC ، Disney ، Pixar ، Bungie ، Activision Blizzard و Riot است. اعلام این پروژه همزمان با تصمیم Bungie برای ادامه پشتیبانی از Destiny 2 و بازگرداندن محتواهای قدیمی صورت گرفت، که نشانگر ادامه حضور این دو سازنده در اکوسیستم بازی‌هاست.",
-    "category": "گیم",
-    "subcategory": "استودیو بازی",
-    "tag": "Stone Kite",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Game Rant",
-    "url": "https://gamerant.com/bungie-cofounder-jason-jones-destiny-halo-stone-kite-studio/",
-    "clean_url": "https://gamerant.com/bungie-cofounder-jason-jones-destiny-halo-stone-kite-studio",
-    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/destiny-2-gunslinger-hunter.jpg?w=1600&h=900&fit=crop",
-    "timestamp": 1791102600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "28b02a7588",
-    "title_fa": "‏نیروهای یمن و عربستان حملهٔ ضدحمله‌ای به Houthis را آغاز کردند",
-    "title_en": "Yemeni and Saudi forces launch counteroffensive against the Houthis",
-    "summary": [
-      "‏نیروهای دولت یمن به حمایت عربستان سعودی روز یکشنبه حملهٔ ضدحمله‌ای علیه Houths را آغاز کردند.",
-      "‏این عملیات برای بازپس‌گیری سرزمین‌های از دست رفته و تقویت موقعیت عربستان در خلیج فارس اهمیت دارد.",
-      "‏Houthis پیشتر کنترل بخش‌های شمالی و مرکزی یمن را در دست داشتند."
-    ],
-    "body_fa": "‏دولت یمن به همراه نیروهای عربستان سعودی روز یکشنبه حملهٔ ضدحمله‌ای گسترده‌ای علیه گروه Houthis در بخش‌های شمالی و مرکزی کشور آغاز کرد. این عملیات که توسط رئیس‌جمهور یمن اعلام شد، هدف بازپس‌گیری شهرها و مناطق استراتژیک از جمله شهرهای مهمی است که قبلاً توسط Houthis تصرف شده بود. عربستان، که از سال ۲۰۱۵ در جنگ یمن نقش کلیدی داشته، حمایت هوایی و زمینی خود را به نیروهای یمنی افزوده و اعلام کرد تا پیشروی سریع‌تری داشته باشد. مقامات نظامی می‌گویند که این حمله می‌تواند مسیرهای حمل‌ونقل در خلیج عدن و دریای سرخ را که برای تجارت جهانی حیاتی‌اند، تحت فشار قرار دهد. Houthis که پیشتر از حمایت ایران بهره‌مند بوده‌اند، به سرعت واکنش نشان دادند و ادعا کردند که مقاومت شدیدی خواهند کرد. تحلیل‌گران پیش‌بینی می‌کنند که تشدید درگیری می‌تواند تنش‌های منطقه‌ای را افزایش دهد و فشار بین عربستان و ایران را بیشتر کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "جبهه یمن",
-    "tag": "یمن",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/10/04/yemen-saudi-houthis-counteroffensive",
-    "clean_url": "https://www.axios.com/2026/10/04/yemen-saudi-houthis-counteroffensive",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791099480.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3941965ef4",
-    "title_fa": "‏فریدریش مرز با مدیران دفاعی آلمان به کی‌یف رسید",
-    "title_en": "Germany's Merz arrives in Kyiv to the sound of sirens and explosions",
-    "summary": [
-      "‏فریدریش مرز، صدر اعظم آلمان، به همراه مدیران شرکت‌های دفاعی آلمان به کی‌یف آمد",
-      "‏این بازدید نشانگر تقویت حمایت آلمان از اوکراین در مواجهه با تشدید حملات روسیه است",
-      "‏سخنرانی مرز در کی‌یف به تأکید بر ادامه کمک‌های نظامی پرداخته شد"
-    ],
-    "body_fa": "‏فریدریش مرز، صدر اعظم آلمان، روز یکشنبه به همراه مدیران عامل چند شرکت دفاعی بزرگ آلمانی به کی‌یف سفر کرد. این بازدید در حالی صورت گرفت که صدای آژیرها و انفجارهای روسی در شهر به گوش می‌رسید و نشانگر تشدید درگیری‌هاست. مرز در ملاقات با ولودیمیر زلنسکی حمایت قاطع آلمان از اوکراین و تعهد به ادامه تأمین تجهیزات نظامی را اعلام کرد. حضور مدیران دفاعی آلمان نشان از تمایل این کشور به تقویت همکاری‌های نظامی با کی‌یف دارد. این اقدام می‌تواند فشار بین‌المللی بر مسکو را افزایش داده و روابط دفاعی اروپا-اوکراین را عمیق‌تر کند. تحلیل‌گران پیش‌بینی می‌کنند که چنین گام‌هایی ممکن است منجر به افزایش تحریم‌های اقتصادی علیه روسیه شود.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حمایت از اوکراین",
-    "tag": "Merz",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/germanys-merz-arrives-kyiv-finalize-drone-deal-release-aid-2026-10-04/",
-    "clean_url": "https://www.reuters.com/world/europe/germanys-merz-arrives-kyiv-finalize-drone-deal-release-aid-2026-10-04",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791098940.0,
     "sent_to_telegram": true
   }
 ]
