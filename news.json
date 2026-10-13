@@ -132,6 +132,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "f452ca0689",
+    "title_fa": "‏پزشکان ابتلای پاپ Leo به سرطان ریه را تایید کردند",
+    "title_en": "Pope Leo Diagnosed with Lung Cancer After Surgery",
+    "summary": [
+      "‏پزشکان پس از انجام عمل جراحی، ابتلای پاپ Leo به بیماری سرطان ریه را تایید کردند.",
+      "‏این رهبر 71 ساله تحت عمل جراحی برای برداشتن بخش پایینی ریه راست خود قرار گرفته است.",
+      "‏بیماری رهبر کاتولیک‌های جهان می‌تواند مدیریت واتیکان را با چالش‌های جدی روبه‌رو کند."
+    ],
+    "body_fa": "‏پزشکان اعلام کردند که پاپ Leo پس از یک عمل جراحی، به سرطان ریه مبتلا تشخیص داده شده است. این رهبر 71 ساله کلیسای کاتولیک تحت عمل جراحی قرار گرفت تا لوب پایینی ریه راست او تخلیه شود. انتشار این خبر نگرانی‌های گسترده‌ای را درباره توانایی جسمانی او برای ادامه وظایف رهبری مذهبی ایجاد کرده است. وضعیت سلامت رهبر واتیکان اکنون زیر ذره‌بین محافل خبری و مذهبی جهان قرار دارد و باید دید دوره‌های درمانی بعدی چگونه پیش خواهد رفت.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "تحولات واتیکان",
+    "tag": "واتیکان",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/world/pope-leo-diagnosed-with-lung-cancer-a465cbe8",
+    "clean_url": "https://www.wsj.com/world/pope-leo-diagnosed-with-lung-cancer-a465cbe8",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791903180.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b2e802f322",
     "title_fa": "‏بازسازی بدهی سنگال می‌تواند چارچوب مشترک را تغییر دهد",
     "title_en": "Analysis-can Senegal's debt restructuring revamp the Common Framework?",
@@ -6575,28 +6597,6 @@
     "clean_url": "https://www.reuters.com/business/frances-schneider-electric-nears-20-billion-deal-buy-us-software-group-ptc-ft-2026-10-04",
     "image": "https://s.yimg.com/bo/324c345f-4a7c-58cc-85f2-87a9c812cb93_1788966767649.jpg",
     "timestamp": 1791143146.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4f5b12dee9",
-    "title_fa": "‏HSBC پیش‌بینی قیمت طلا برای سال 2026 را کاهش داد",
-    "title_en": "Top bank revises 2026 gold price forecast as investors reassess rally",
-    "summary": [
-      "‏HSBC پیش‌بینی میانگین قیمت طلا برای 2026 را به 4,490 دلار و برای 2027 به 4,825 دلار کاهش داد.",
-      "‏این کاهش نشان می‌دهد بانک نسبت به ادامه‌دار بودن رونق طلا محتاط‌تر شده و فشارهای تورمی و دلار قوی را عامل می‌داند.",
-      "‏پیش‌بینی قبلی این بانک برای 2026 برابر 4,560 دلار و برای 2027 برابر 4,925 دلار بود."
-    ],
-    "body_fa": "‏HSBC در تاریخ 1 اکتبر پیش‌بینی میانگین قیمت طلا برای سال 2026 را به 4,490 دلار از 4,560 دلار قبلی و برای سال 2027 را به 4,825 دلار از 4,925 دلار پیشین کاهش داد. این کاهش پس از بازنگری‌های قبلی در ژوئیه که میانگین 2026 را به 4,864 دلار و 2027 را به 5,000 دلار کاهش داده بود، صورت گرفت. بانک اشاره کرد که فشارهای ناشی از قیمت بالای نفت، افزایش بازده اوراق قرضه و دلار قوی می‌تواند تقاضای طلا را تحت فشار قرار دهد. با این حال، HSBC انتظار دارد خریدهای بانک‌های مرکزی در صورتی که قیمت طلا به زیر 4,000 دلار برسد، تقویت شود. پیش‌بینی جدید نشان می‌دهد مسیر صعودی طلا همچنان ادامه دارد اما با نوسانات بیشتری مواجه خواهد شد. این اصلاحات می‌تواند تصمیم‌گیری سرمایه‌گذاران در بازارهای طلا و سکه را تحت تأثیر قرار دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TheStreet · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/commodities/articles/top-bank-revises-2026-gold-191300724.html",
-    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/top-bank-revises-2026-gold-191300724.html",
-    "image": "https://media.zenfs.com/en/thestreet_881/5ec01890c4f7b3f102d717efb82de38a.jpg",
-    "timestamp": 1791142773.0,
     "sent_to_telegram": true
   }
 ]
