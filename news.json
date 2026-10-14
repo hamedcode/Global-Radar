@@ -1,5 +1,71 @@
 [
   {
+    "id": "47ae64a82b",
+    "title_fa": "‏تورم بالا می‌رود، سهام می‌نرند",
+    "title_en": "Inflation Runs Hot, Stocks Go Cold",
+    "summary": [
+      "‏تورم در ماه اخیر به سطوح بالاتر از پیش‌بینی رسید.",
+      "‏این افزایش باعث سقوط شاخص‌های سهام شد و نگرانی‌های بازار را تشدید کرد.",
+      "‏بانک Bank of America نتایج ضعیفی اعلام کرد؛ بانک‌های سرمایه‌گذاری از رونق AI سود زیادی کسب کردند."
+    ],
+    "body_fa": "‏در ماه اخیر، نرخ تورم به سرعت افزایش یافت و از پیش‌بینی‌های اقتصاددانان فراتر رفت. این فشار قیمتی باعث شد شاخص‌های اصلی سهام به‌طور قابل‌توجهی کاهش یابند و سرمایه‌گذاران نگرانی‌های بیشتری درباره رشد اقتصادی نشان دهند. بانک Bank of America نیز گزارش مالی خود را منتشر کرد که نتایج ضعیف و کمتر از انتظار نشان می‌داد. در مقابل، بانک‌های سرمایه‌گذاری بزرگ به دلیل تقاضای فزاینده برای خدمات هوش مصنوعی، درآمدهای چشمگیری از این حوزه کسب کردند. این ترکیب از تورم بالا، افت بازار سهام و نتایج متفاوت بانک‌ها نشانگر نوسانات قابل توجهی در محیط اقتصادی است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تورم و بازارهای مالی",
+    "tag": "تورم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a",
+    "clean_url": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a",
+    "image": "https://s.yimg.com/bo/50f2a56c-78f6-5b67-b21c-535252aba65e_1792011208145.jpg",
+    "timestamp": 1792009266.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b3550335bc",
+    "title_fa": "‏نظرسنجی Fed فشارهای قیمتی را با افزایش هزینه سوخت تشدید می‌کند",
+    "title_en": "Fed survey shows price pressures intensifying amid rise in fuel costs",
+    "summary": [
+      "‏نظرسنجی Fed نشان داد فشارهای قیمتی به دلیل رشد هزینه سوخت افزایش یافت",
+      "‏این می‌تواند تورم آمریکا را تشدید کرده و سیاست‌های پولی را تحت فشار قرار دهد",
+      "‏بازار کار همچنان در وضعیت کم‌استخدامی و کم‌اخراجی باقی مانده است"
+    ],
+    "body_fa": "‏یک نظرسنجی جدید از سوی Fed نشان داد که فشارهای قیمتی در ایالات متحده در حال تشدید است، به‌ویژه پس از افزایش هزینه سوخت. در عین حال، بازار کار همچنان در حالت کم‌استخدامی و کم‌اخراجی باقی مانده و نشانه‌ای از رکود جزئی است. این ترکیب از تورم رو به رشد و بازار کار ساکن می‌تواند فشار بر فدرال‌رزرو برای تغییر نرخ بهره ایجاد کند. تحلیل‌گران بر این باورند که داده‌های اخیر ممکن است مسیر سیاست‌های پولی را به سمت سخت‌گیری بیشتر سوق دهد. در نتیجه، سرمایه‌گذاران به دقت واکنش‌های بازار به این اطلاعات را دنبال می‌کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تورم و سوخت",
+    "tag": "تورم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/fed-survey-shows-price-pressures-intensifying-amid-rise-fuel-costs-2026-10-14/",
+    "clean_url": "https://www.reuters.com/business/fed-survey-shows-price-pressures-intensifying-amid-rise-fuel-costs-2026-10-14",
+    "image": "https://s.yimg.com/bo/12ae9adb-d7d4-5e8e-bde4-4fdda508fc85_1791814475263.jpg",
+    "timestamp": 1792000746.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "eaf597be3d",
+    "title_fa": "‏IMF آمریکا و چین را به اصلاح مالی فراخواند",
+    "title_en": "IMF Urges U.S. to Cut Deficits as Bond Yields Surge, Tells China to Move Away...",
+    "summary": [
+      "‏IMF در نشست بانکوک، آمریکا را به کاهش کسری بودجه و چین را به کاهش وابستگی به صادرات دعوت کرد",
+      "‏این هشدار با افزایش نرخ بهره اوراق دولتی همزمان است و می‌تواند فشار بر بازارهای مالی جهانی را تشدید کند",
+      "‏Georgieva گفت تاخیر در اصلاحات مالی می‌تواند هزینه‌های بهره را بالا ببرد"
+    ],
+    "body_fa": "‏در نشست سالانه صندوق بین‌المللی پول و بانک جهانی در بانکوک، مدیرعامل IMF کریستالینا جورجیوا آمریکا را به اتخاذ تدابیر مالی برای کاهش کسری بودجه و چین را به کاهش وابستگی به صادرات و تقویت تقاضای داخلی فراخواند. او تأکید کرد که رشد اقتصادی به تنهایی نمی‌تواند بدهی‌های کلان آمریکا را به سرعت کاهش دهد و با توجه به افزایش نرخ بهره اوراق دولتی، فشار بر هزینه‌های بدهی‌ها بالا می‌رود. وزیر خزانه‌داری ایالات متحده، اسکات بسنت، که در این نشست حضور نداشت، به‌نظر می‌رسد تحت فشار انتخاباتی برای حفظ سیاست‌های مالی فعلی باشد. گزارش اخیر IMF درباره مانیتور مالی نشان می‌دهد که تأخیر در اصلاحات مالی می‌تواند هزینه‌های بهره را به‌طور قابل‌توجهی افزایش دهد و به خدمات عمومی آسیب برساند. برای چین، صندوق پیشنهاد کرد که با کاهش مازاد تجاری تاریخی و تقویت مصرف داخلی، تعادل ساختاری بهبود یابد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست مالی",
+    "tag": "IMF",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "International Business Times · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/imf-urges-u-cut-deficits-173714695.html",
+    "clean_url": "https://finance.yahoo.com/economy/policy/articles/imf-urges-u-cut-deficits-173714695.html",
+    "image": "https://media.zenfs.com/en/international_business_times_990/1fd37f3b32b558486078dc21f741828a.jpg",
+    "timestamp": 1792000744.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ebdf9087be",
     "title_fa": "‏پس از تورم گرم، چشم‌ها به سخنرانی وارش در بانکوک",
     "title_en": "Nick Timiraos: After Hot CPI, All Eyes on Warsh’s Talk in Bangkok",
@@ -107,6 +173,94 @@
     "clean_url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention",
     "image": "https://s.yimg.com/bo/a9d773e7-1779-50e9-964c-462ded919917_1791990623490.webp",
     "timestamp": 1791990687.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5bdfc572ad",
+    "title_fa": "‏سهم Dell 11 ٪ سقوط کرد؛ نگرانی از زمان‌بندی AI سازمانی",
+    "title_en": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+    "summary": [
+      "‏سهام Dell 11 ٪ سقوط کرد و سایر شرکت‌های تجهیزات دیتاسنتر را نیز به‌دنبال خود کشاند",
+      "‏این افت ناشی از نگرانی‌ها درباره زمان‌بندی هزینه‌های هوش مصنوعی در شرکت‌هاست و ممکن است تقاضای سخت‌افزار AI را تحت فشار قرار دهد",
+      "‏تحلیل‌گران Barclays پیش‌بینی کردند تنها 5 ٪ بودجه IT شرکت‌ها به AI اختصاص دارد"
+    ],
+    "body_fa": "‏سهام Dell در روز چهارشنبه 11 ٪ کاهش یافت و باعث سقوط دیگر شرکت‌های تجهیزات دیتاسنتر شد. این افت ناشی از نگرانی‌ها درباره این است که هزینه‌های هوش مصنوعی در شرکت‌ها به اندازه‌ای که انتظار می‌رفت، رشد نکند. تحلیل‌گران Barclays در گزارشی به مشتریان خود، رتبه Dell ، Hewlett‑Packard Enterprise و NetApp را از خرید به نگهداری کاهش دادند. آنها اشاره کردند که تنها حدود 5 ٪ از بودجه IT شرکت‌ها به AI اختصاص دارد و بیشتر رشد اخیر به قیمت‌های بالای حافظه مربوط می‌شود. علاوه بر Dell ، سهام Oracle 9 ٪ و CoreWeave 15 ٪ نیز کاهش یافتند، در حالی که قیمت‌های حافظه مانند Micron و SK Hynix نیز تحت فشار هستند. این تحولات می‌تواند تقاضای سخت‌افزارهای زیرساختی AI را در کوتاه‌مدت محدود کند و فشار بر بازارهای فناوری را افزایش دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "داده‌مرکز",
+    "tag": "Dell",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+    "clean_url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108403848-1791906460600-Dell1.jpg?v=1791906540&w=1920&h=1080",
+    "timestamp": 1791983160.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "96a525ae94",
+    "title_fa": "‏احتمال افزایش نرخ بهره فدرال‌رزرو با رشد تورم بالا رفت",
+    "title_en": "Fed rate hike call seen tight as inflation heats up",
+    "summary": [
+      "‏معامله‌گران پس از انتشار داده‌های جدید تورم، شانس افزایش دوباره نرخ بهره توسط فدرال‌رزرو را بیشتر دانستند.",
+      "‏تداوم افزایش نرخ بهره می‌تواند فشار بر بازارهای مالی و هزینه‌های وام‌گیری را حفظ کند.",
+      "‏گزارش وزارت کار آمریکا نشان داد مهار تورم دشوارتر از برآوردهای اولیه پیش می‌رود."
+    ],
+    "body_fa": "‏معامله‌گران در بازارهای مالی پس از انتشار داده‌های جدید وزارت کار آمریکا، احتمال افزایش دوباره نرخ بهره توسط فدرال‌رزرو در نشست اواخر این ماه را بسیار جدی‌تر از قبل ارزیابی می‌کنند. آمارهای تازه حاکی از آن است که فشارهای تورمی در اقتصاد آمریکا همچنان داغ مانده و افت پایدار قیمت‌ها با موانع جدی روبه‌رو شده است. این تغییر در پیش‌بینی معامله‌گران نشان می‌دهد که امیدواری‌ها برای پایان سریع چرخه انقباض پولی کاهش یافته است. تداوم روند افزایشی نرخ بهره می‌تواند هزینه‌های استقراض را برای شرکت‌ها و خانوارها بالا نگه دارد و مسیر رشد اقتصاد جهانی را با چالش‌های بیشتری همراه کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی آمریکا",
+    "tag": "فدرال‌رزرو",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/us/fed-rate-hike-seen-more-likely-after-inflation-data-2026-10-14/",
+    "clean_url": "https://www.reuters.com/markets/us/fed-rate-hike-seen-more-likely-after-inflation-data-2026-10-14",
+    "image": "https://s.yimg.com/bo/3e8e428e-2a61-5989-9017-e1186fbfe898_1791555871207.jpg",
+    "timestamp": 1791982746.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ca06f020f3",
+    "title_fa": "‏Citi برنامه‌ریزی IPO بانامکس؛ پسران Chico Pardo بهبود را می‌گویند",
+    "title_en": "Citi Plans for Banamex IPO as Chico Pardo’s Sons Tout Turnaround",
+    "summary": [
+      "‏Citi قصد دارد IPO بانامکس را برنامه‌ریزی کند.",
+      "‏این اقدام نشان‌دهنده امید به بهبود عملکرد بانک پس از بازسازی توسط پسران Chico Pardo است.",
+      "‏جزئیات مالی هنوز منتشر نشده است."
+    ],
+    "body_fa": "‏بانک Banamex که تحت مالکیت خانوادگی Chico Pardo است، قصد دارد با همکاری Citi به بازار سرمایه برگردد. پسران Chico Pardo اعلام کردند که بانک پس از دوره‌ای از مشکلات مالی به وضعیت سودآور بازگشته است و این بازسازی می‌تواند سرمایه‌گذاران را جذب کند. برنامه‌ریزی IPO توسط Citi نشان از اعتماد به توان بازسازی دارد و می‌تواند نقدینگی قابل توجهی به بازارهای مکزیک وارد کند. اگرچه جزئیات قیمت‌گذاری و حجم عرضه هنوز مشخص نیست، انتظار می‌رود این معامله تأثیر مثبت بر شاخص‌های بانکی منطقه‌ای داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سرمایه",
+    "tag": "IPO",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/citi-plans-for-banamex-ipo-as-chico-pardo-s-sons-tout-turnaround",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-14/citi-plans-for-banamex-ipo-as-chico-pardo-s-sons-tout-turnaround",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791981840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "66c9d686a4",
+    "title_fa": "‏بانک آف آمریکا برای رفع آسیب‌پذیری‌های AI هزار پیمانکار استخدام کرد",
+    "title_en": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "summary": [
+      "‏بانک آف آمریکا برای رفع نقص‌های نرم‌افزاری که توسط مدل AI Mythos آشکار شد، هزار پیمانکار خارجی استخدام کرد.",
+      "‏هزینه این کار چند صد میلیون دلار است و نشان می‌دهد خطرات امنیتی هوش مصنوعی می‌تواند هزینه‌های بزرگ شرکت‌ها را افزایش دهد.",
+      "‏همزمان بانک 130 پروژه داخلی AI دارد و انتظار دارد صرفه‌جویی‌ها تا 2027 به 700 میلیون دلار برسد."
+    ],
+    "body_fa": "‏بانک آف آمریکا اعلام کرد که برای رفع آسیب‌پذیری‌های نرم‌افزاری که توسط مدل‌های پیشرفته هوش مصنوعی مانند Mythos از Anthropic شناسایی شد، هزار پیمانکار خارجی به تیم‌های داخلی خود اضافه کرده است. این اقدام در سه‌ماهه دوم سال انجام شد و هزینه آن «چند صد میلیون دلار» تخمین زده می‌شود، که بخشی از هزینه‌های رفع نقص و مسائل نظارتی مرتبط با مبارزه با پولشویی است. مدیرعامل بانک، Brian Moynihan ، گفت این هزینه موقت است و پس از تکمیل پچ‌ها، هزینه‌های تعمیراتی کاهش خواهد یافت. بانک همچنین حدود 130 پروژه داخلی AI دارد که انتظار می‌رود صرفه‌جویی‌های آن از 300 میلیون دلار امسال به 700 میلیون دلار تا سال 2027 برسد. این خبر نشان می‌دهد هوش مصنوعی می‌تواند هم فرصت‌های هزینه‌کاهش و هم خطرات امنیتی جدی برای مؤسسات مالی به همراه داشته باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+    "clean_url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&w=1920&h=1080",
+    "timestamp": 1791978360.0,
     "sent_to_telegram": true
   },
   {
@@ -371,6 +525,28 @@
     "clean_url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
     "image": "https://s.yimg.com/bo/2e5c8f82-9ad5-5a08-afb6-9a29e0593202_1791950669635.png.cf.jpg",
     "timestamp": 1791949009.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cf83c1acf5",
+    "title_fa": "‏رایندگان میشیگان خواستار پایان جنگ تجاری ترامپ شدند",
+    "title_en": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
+    "summary": [
+      "‏مایک راجرز، نامزد سنا از میشیگان، در تبلیغی خواستار پایان تعرفه‌های ترامپ و جنگ ایران شد",
+      "‏این تغییر موضع در میشیگان، جایی که تجارت با کانادا 80 میلیارد دلار سالانه دارد، می‌تواند سرنوشت کنترل سنا را تحت‌تاثیر قرار دهد",
+      "‏در حالی که دموکرات عبد‌السید پیشی ۴ درصدی از نظرسنجی‌ها دارد"
+    ],
+    "body_fa": "‏مایک راجرز، نامزد جمهوری‌خواه سنا از میشیگان، در تبلیغی که در ۷ اکتبر پخش شد، از پایان تعرفه‌های تجاری که توسط دونالد ترامپ اعمال شد و از پایان جنگ در ایران خواستار شد. او در این تبلیغ به‌وضوح اشاره کرد که کانادا دشمن میشیگان نیست و باید جنگ تعرفه‌ای با این کشور پایان یابد. این موضع‌گیری در میشیگان، جایی که سالانه حدود ۸۰ میلیارد دلار تجارت با انتاریو دارد و ۲۳.۲ میلیارد دلار صادرات به کانادا، می‌تواند به‌ویژه برای صنایع خودروسازی و کشاورزی حساس باشد. تغییر استراتژی راجرز نشان می‌دهد که بسیاری از جمهوری‌خواهان برای حفظ پایه رأی‌دار در انتخابات عمومی، از سیاست‌های ترامپ فاصله می‌گیرند. نظرسنجی‌های FiftyPlusOne نشان می‌دهد دموکرات عبد‌السید حدود چهار درصد پیشی دارد، در حالی که گزارش Cook Political Report رقابت را تساوی می‌داند. این مسابقه که می‌تواند تعادل سنا را تعیین کند، نشانگر تنش‌های داخلی حزب جمهوری‌خواه در مواجهه با سیاست‌های تجاری و خارجی ترامپ است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "انتخابات سنا",
+    "tag": "تاریف",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
+    "clean_url": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108398687-1791981682345-108398687-1791817928144-gettyimages-2299449626-_s013570_2mrg5c2b.jpg?v=1791981697&w=1920&h=1080",
+    "timestamp": 1791948600.0,
     "sent_to_telegram": true
   },
   {
@@ -6421,182 +6597,6 @@
     "clean_url": "https://www.reuters.com/world/us/trump-approval-record-low-hispanic-voters-sour-on-republicans-reutersipsos-poll-2026-10-05",
     "image": "https://www.reuters.com/resizer/v2/S4IXHYXY7NJTTM67CADUGW3CII.jpg?auth=722ff1d79b9cfc9f11d2d5c08685c531e5987235c3a4896670bf927bf3b703b7&height=1005&width=1920&quality=80&smart=true",
     "timestamp": 1791202620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "06e8816456",
-    "title_fa": "‏روسیه مذاکراتی درباره افغانستان با حضور هیئت طالبان برگزار کرد",
-    "title_en": "Russia hosts consultations on Afghanistan, including with a Taliban delegation",
-    "summary": [
-      "‏روسیه جلسه‌ای درباره وضعیت افغانستان با حضور هیئت طالبان برگزار کرد",
-      "‏این گفتگو نشان‌دهنده نقش روسیه در تلاش برای ثبات منطقه‌ای است",
-      "‏ممکن است تأثیراتی بر روابط روسیه با کشورهای همسایه از جمله ایران داشته باشد"
-    ],
-    "body_fa": "‏روسیه در مسیری دیپلماتیک جدید، مشاوره‌ای درباره افغانستان برگزار کرد که هیئت نمایندگان طالبان نیز در آن حضور داشتند. هدف این نشست بررسی راهکارهای سیاسی و امنیتی برای کاهش تنش‌های داخلی افغانستان و جلوگیری از گسترش ناامنی در منطقه بود. روسیه قصد دارد نقش میان‌دورانی خود را در میان قدرت‌های منطقه‌ای تقویت کند و به عنوان واسطه‌ای برای گفتگوهای صلحی عمل کند. حضور طالبان نشان می‌دهد که این گروه به دنبال کسب مشروعیت بین‌المللی است. این مذاکرات می‌توانند تأثیر مستقیم بر روابط روسیه با همسایگان، به‌ویژه ایران، داشته باشند، چرا که هرگونه تغییر در وضعیت افغانستان به سرعت به امنیت مرزهای مشترک سرایت می‌کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "دیپلماسی روسیه",
-    "tag": "افغانستان",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/russia-afghanistan-taliban-consultations-lavrov-muttaqi-9e8457e61919802d50a5d2571e8afa76",
-    "clean_url": "https://apnews.com/article/russia-afghanistan-taliban-consultations-lavrov-muttaqi-9e8457e61919802d50a5d2571e8afa76",
-    "image": "https://s.yimg.com/bo/143d7216-40ee-5e55-a489-8c3957f8a009_1791203300331.jpg",
-    "timestamp": 1791202536.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5db061087b",
-    "title_fa": "‏سهام Alector با قرارداد 1.27 میلیارد دلاری Roche جهش کرد",
-    "title_en": "Alector soars as Roche licenses Parkinson's therapy for up to $1.27 billion",
-    "summary": [
-      "‏غول داروسازی Roche حق امتیاز داروی آزمایشی پارکینسون متعلق به شرکت Alector را تا سقف 1.27 میلیارد دلار خرید.",
-      "‏این توافق مالی قابل‌توجه موجب جهش چشمگیر ارزش سهام شرکت زیست‌فناوری Alector در بازارهای مالی شد.",
-      "‏توسعه موفق این دارو می‌تواند دسترسی به روش‌های نوین درمان بیماری‌های تخریب‌کننده اعصاب را متحول کند."
-    ],
-    "body_fa": "‏شرکت داروسازی سوئیسی Roche قراردادی به ارزش حداکثر 1.27 میلیارد دلار برای دریافت مجوز داروی آزمایشی شرکت Alector با هدف درمان بیماری پارکینسون امضا کرد. انتشار این خبر بلافاصله موجب جهش شدید سهام این شرکت زیست‌فناوری در وال‌استریت شد. بر اساس ساختار این توافق، مبالغ پرداختی شامل پیش‌پرداخت نقدی و پرداختی‌های بعدی مشروط به پیشرفت مراحل بالینی و تاییدیه‌های قانونی خواهد بود. این سرمایه‌گذاری سنگین جایگاه شرکت Roche را در رقابت فزاینده بازار داروهای بیماری‌های پیش‌رونده عصبی تقویت می‌کند. برای شرکت Alector نیز این همکاری نقشه راه و پشتوانه مالی مطمئنی جهت ادامه آزمایش‌های بالینی پیچیده این بیماری مغزی دشوار فراهم می‌سازد.",
-    "category": "تکنولوژی",
-    "subcategory": "زیست فناوری و داروسازی",
-    "tag": "بیوتکنولوژی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/alector-soars-roche-licenses-parkinsons-therapy-up-127-billion-2026-10-05/",
-    "clean_url": "https://www.reuters.com/legal/litigation/alector-soars-roche-licenses-parkinsons-therapy-up-127-billion-2026-10-05",
-    "image": "https://s.yimg.com/bo/0da54fce-1d02-5a34-bab4-0706d1144336_1790844444553.jpg",
-    "timestamp": 1791202176.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0dd6e9e15f",
-    "title_fa": "‏مک‌دونالد با دعوی جمعی برای قیمت‌گذاری هوش مصنوعی مواجه شد",
-    "title_en": "McDonald's hit with class action alleging AI-powered menu price-fixing",
-    "summary": [
-      "‏یک دعوی جمعی علیه مک‌دونالد ادعا می‌کند که از هوش مصنوعی برای تنظیم قیمت منو استفاده کرده",
-      "‏اگر ثابت شود، می‌تواند به جریمه‌های بزرگ و تغییرات در سیاست‌های قیمت‌گذاری شرکت‌های زنجیره‌ای منجر شود",
-      "‏این پرونده نشان‌دهنده نگرانی‌های قانونی در استفاده از الگوریتم‌های هوش مصنوعی برای تعیین قیمت‌هاست"
-    ],
-    "body_fa": "‏یک گروه از مصرف‌کنندگان در ایالات متحده دعوی جمعی علیه زنجیره رستوران‌های مک‌دونالد مطرح کرده و ادعا می‌کند این شرکت از الگوریتم‌های هوش مصنوعی برای تنظیم قیمت منوها استفاده کرده تا قیمت‌ها را در سطوحی ثابت نگه دارد. شکایت می‌گوید این روش باعث کاهش رقابت و افزایش هزینه برای مشتریان شده است. اگر دادگاه این ادعاها را تأیید کند، مک‌دونالد ممکن است با جریمه‌های سنگین و الزام به تغییر شیوه‌های قیمت‌گذاری مواجه شود. این پرونده می‌تواند پیش‌زمینه‌ای برای بررسی‌های قانونی گسترده‌تر درباره استفاده از هوش مصنوعی در تصمیم‌گیری‌های تجاری باشد. نمایندگان مک‌دونالد تاکنون این اتهامات را رد کرده و گفتند که قیمت‌گذاری بر پایه عوامل بازار و هزینه‌های عملیاتی است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قیمت‌گذاری هوش مصنوعی",
-    "tag": "قیمت‌گذاری",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/",
-    "clean_url": "https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05",
-    "image": "https://www.reuters.com/resizer/v2/VOW2SOL2YJMDZLHDMSGO62SNMI.jpg?auth=ee294b1701cd44fc2d686172e6c46c5925a30cd4cac64ffd0db23151b74e7aae&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1791200580.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9c16408241",
-    "title_fa": "‏کمیسیون بورس آمریکا اولین صندوق‌های اهرمی سه‌برابری بیت‌کوین را تایید کرد",
-    "title_en": "SEC approves first 3x bitcoin and ether ETFs in the U.S.",
-    "summary": [
-      "‏سازمان بورس آمریکا با عرضه صندوق‌های ETF با اهرم ۳ برابری برای بیت‌کوین و اتریوم موافقت کرد.",
-      "‏این تصمیم سقف اهرم مجاز صندوق‌های رمزارزی در آمریکا را از دو برابر به سه برابر افزایش می‌دهد.",
-      "‏این صندوق‌ها مبتنی بر قراردادهای آتی هستند و به دلیل افت ناشی از نوسان، ابزاری پرریسک برای معامله‌گران کوتاه‌مدت به‌شمار می‌روند."
-    ],
-    "body_fa": "‏کمیسیون بورس و اوراق بهادار آمریکا موسوم به SEC با تغییر قوانین بورس Cboe BZX موافقت کرد تا راه برای عرضه شش صندوق اهرمی جدید توسط شرکت Volatility Shares هموار شود. این صندوق‌ها بازدهی روزانه سه‌برابری دارایی‌های پایه از جمله بیت‌کوین، اتریوم، طلا، نقره و نفت را هدف قرار می‌دهند و تحولی مهم محسوب می‌شوند، زیرا تا پیش از این سقف اهرم صندوق‌های رمزارزی در آمریکا روی دو برابر محدود بود. این ابزارهای مالی به جای نگهداری مستقیم توکن‌ها، روی قراردادهای آتی قانون‌گذاری‌شده سرمایه‌گذاری می‌کنند و معاملات آن‌ها پس از تایید نهایی ثبت آغاز خواهد شد. کارشناسان بازار هشدار داده‌اند که صندوق‌های اهرمی برای نگهداری بلندمدت مناسب نیستند و به دلیل بازتنظیم روزانه اهرم، در بازارهای پرنوسان و بدون روند دچار فرسایش شدید سرمایه می‌شوند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "صندوق‌های ETF و بورس",
-    "tag": "بیت‌کوین",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-    "clean_url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-    "image": "https://s.yimg.com/bo/53fc9c21-bc7d-55a7-9881-7f79d6f6e276_1790518889266.jpg",
-    "timestamp": 1791200376.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c41beaa860",
-    "title_fa": "‏آمین ناصر: پر کردن موجودی‌های نفتی تا دو سال زمان می‌برد",
-    "title_en": "Replenishing crude and fuel stocks could take two years, Saudi Aramco CEO says",
-    "summary": [
-      "‏آمین ناصر، مدیرعامل Aramco ، گفت پر کردن موجودی‌های جهانی نفت و سوخت تا دو سال زمان می‌برد.",
-      "‏این تأخیر پس از بسته شدن تنگه هرمز توسط ایران و از دست رفتن حدود 3 میلیارد بشکه نفت، فشار بر بازار را تشدید می‌کند.",
-      "‏Aramco می‌تواند تا 12 میلیون بشکه در روز تولید کند و مسیرهای جدیدی برای صادرات بررسی می‌کند."
-    ],
-    "body_fa": "‏آمین ناصر، مدیرعامل Aramco ، در نشست Energy Intelligence Forum در لندن اعلام کرد که پر کردن موجودی‌های جهانی نفت و سوخت ممکن است تا 2 سال زمان ببرد. از زمان آغاز جنگ ایران‑اسرائیل در اواخر فوریه، ایران تنگه هرمز را تقریباً بسته کرد و تقریباً 3 میلیارد بشکه نفت از دست رفته است. تا کنون 1 میلیارد بشکه از ذخایر اضطراری جهان آزاد شده، اما برای جبران کمبود باید روزانه 2 میلیون بشکه بیشتر در 18 ماه تأمین شود. تقاضای روزانه جهانی نفت کمی بیش از 100 میلیون بشکه است و ظرفیت تولید پایدار حداکثر Aramco 12 میلیون بشکه در روز می‌باشد. نصف ذخایر باقی‌مانده در خطوط لوله یا برای حفظ حداقل حجم مخازن ضروری است و به‌طور عملی در دسترس نیست. شرکت همچنین مسیرهای جایگزین از طریق خط لوله شرق‑غرب به بنادر دریای سرخ و ذخایر خارجی را بررسی می‌کند تا اختلالات کوتاه‌مدت را کاهش دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "نفت و گاز",
-    "tag": "Aramco",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "Reuters · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/energy/articles/replenishing-crude-fuel-stocks-could-105010522.html",
-    "clean_url": "https://finance.yahoo.com/energy/articles/replenishing-crude-fuel-stocks-could-105010522.html",
-    "image": "https://media.zenfs.com/en/reuters.com/b2afe69d19f384d0f8572429e60c6a8b.jpg",
-    "timestamp": 1791198910.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "09e2f3c0e2",
-    "title_fa": "‏قیمت بیت‌کوین به بالای 86,000 دلار رسید",
-    "title_en": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
-    "summary": [
-      "‏بیت‌کوین یک درصد افزایش یافت و به بالای 86,000 دلار رسید.",
-      "‏این حرکت پس از گزارش ضعیف شغلی آمریکا و کاهش احتمال افزایش نرخ بهره فدرال رزرو در اکتبر رخ داد.",
-      "‏دوج‌کوین بیش از 3 ٪ و HYPE نزدیک به 3 ٪ رشد کردند."
-    ],
-    "body_fa": "‏بیت‌کوین در ابتدای دوشنبه با افزایش یک درصدی به بالای 86,000 دلار رسید. این صعود پس از انتشار گزارش شغلی آمریکا بود که نشان داد تنها 29,000 شغل در ماه سپتامبر افزوده شد، در حالی که انتظار 84,000 شغل بود و نرخ بیکاری به 4.2 ٪ ارتقا یافت. رشد دستمزدها نیز به 3 ٪ کاهش یافت که کمترین سطح از مه 2021 است و انتظار توقف نرخ بهره فدرال رزرو در اکتبر را تقویت می‌کند. بازده اوراق 10 ساله در 5.25 ٪ باقی مانده و به دلیل عرضه سنگین اوراق و تقاضای بازده بالاتر است. مایع‌سازی‌های آخر هفته تنها 62.7 میلیون دلار بود و 68 ٪ از موقعیت‌های کل کوتاه‌فروش بودند. شرکت QCP Capital گفت برای تأیید ادامه روند صعودی، قیمت باید بالای 87,200 دلار بماند و صورتجلسه جلسه اخیر فدرال رزرو چهارشنبه منتشر خواهد شد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 9,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-    "clean_url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-    "image": "https://s.yimg.com/bo/687f654c-d93f-52d7-88f1-0a59d71016bd_1791198035339.png.cf.jpg",
-    "timestamp": 1791196776.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8166eb15a9",
-    "title_fa": "‏تحلیل مورگان استنلی، Wells Fargo را قبل سود خرید کرد",
-    "title_en": "Wells Fargo gets a bold upgrade ahead of earnings. Why the stock can play catch-up",
-    "summary": [
-      "‏Morgan Stanley Wells Fargo را از نگهداری به خرید ارتقا داد و هدف قیمت 102 دلار را اعلام کرد.",
-      "‏این اقدام پیش از گزارش سود سه ماهه، انتظار بهبود حاشیه سود خالص تا سال 2027 را نشان می‌دهد.",
-      "‏پس از خبر، سهام بانک 1.5 ٪ افزایش یافت ولی سال جاری 12 ٪ کاهش دارد."
-    ],
-    "body_fa": "‏مورگان استنلی روز دوشنبه، یک هفته پیش از انتشار نتایج سه ماهه، Wells Fargo را از نگهداری به خرید (معادل خرید) ارتقا داد. هدف قیمت تحلیل‌گران 102 دلار است که حدود 27 ٪ افزایش نسبت به بسته شدن جمعه را نشان می‌دهد. این ارتقا بر این باور استوار است که بانک پس از حذف محدودیت 1.95 تریلیون دلاری دارایی‌های فدرال‌رزرو در ژوئن، مسیر واضح‌تری برای بهبود سودآوری تا سال 2027 دارد. با رشد 15 ٪ دارایی‌ها به 2.23 تریلیون دلار تا پایان ژوئن، Wells Fargo برای تأمین این رشد به وام‌های گران‌تر متکی شد که حاشیه سود خالص (NIM) را فشار داد. اکنون با کاهش سرعت رشد ترازنامه، انتظار می‌رود بانک بیشتر از سپرده‌های مشتریان کم‌هزینه استفاده کند و NIM را در حدود 2.42 ٪ تا سه‌ماهه اول 2027 ثابت نگه دارد. پس از اعلام ارتقا، سهام Wells Fargo حدود 1.5 ٪ افزایش یافت، هرچند سال جاری تا کنون 12 ٪ کاهش داشته است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سهام بانک‌ها",
-    "tag": "WellsFargo",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/05/wells-fargo-gets-a-bold-upgrade-ahead-of-earnings-why-the-stock-can-play-catch-up.html",
-    "clean_url": "https://www.cnbc.com/investingclub/2026/10/05/wells-fargo-gets-a-bold-upgrade-ahead-of-earnings-why-the-stock-can-play-catch-up.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108154825-17490700772025-06-04t203746z_2000526272_rc2svealvss7_rtrmadp_0_usa-dailylife.jpeg?v=1749070151&w=1920&h=1080",
-    "timestamp": 1791196500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ecd3df413e",
-    "title_fa": "‏وکیل کل ایالت تگزاس به بررسی UnitedHealth پرداخته",
-    "title_en": "Texas AG Paxton Launches Investigation Into UnitedHealth Group",
-    "summary": [
-      "‏وکیل کل تگزاس، Ken Paxton ، درخواست‌های تحقیقاتی علیه UnitedHealth Group ارسال کرد.",
-      "‏این اقدام به بررسی احتمال نقض قانون تجارت فریبنده تگزاس می‌پردازد و می‌تواند فشار قانونی بر شرکت ایجاد کند.",
-      "‏در صورت تأیید تخلفات، UnitedHealth ممکن است جریمه‌های سنگین یا تغییرات عملیاتی مواجه شود."
-    ],
-    "body_fa": "‏وکیل کل تگزاس Ken Paxton روز دوشنبه درخواست‌های تحقیقاتی مدنی را به UnitedHealth Group ارسال کرد تا شواهدی درباره احتمال نقض قانون تجارت فریبنده تگزاس جمع‌آوری شود. این قانون به محافظت از مصرف‌کنندگان در برابر رفتارهای تجاری گمراه‌کننده اختصاص دارد. Paxton اعلام کرد که شرکت بیمه‌گر بزرگ باید اسناد و اطلاعات مرتبط با نحوه بازاریابی و قیمت‌گذاری خدمات پزشکی خود را ارائه دهد. این بررسی می‌تواند منجر به جریمه‌های مالی قابل توجه یا اقدامات اصلاحی برای UnitedHealth شود. بازار سهام این شرکت در واکنش اولیه کمی نوسان کرد، اما تأثیر بلندمدت بسته به نتایج نهایی تحقیق می‌تواند مهم باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بهداشت و بیمه",
-    "tag": "UnitedHealth",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/health/healthcare/texas-ag-paxton-launches-investigation-into-unitedhealth-group-bc6ce142",
-    "clean_url": "https://www.wsj.com/health/healthcare/texas-ag-paxton-launches-investigation-into-unitedhealth-group-bc6ce142",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791195840.0,
     "sent_to_telegram": true
   }
 ]
