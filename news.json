@@ -1,5 +1,115 @@
 [
   {
+    "id": "ebdf9087be",
+    "title_fa": "‏پس از تورم گرم، چشم‌ها به سخنرانی وارش در بانکوک",
+    "title_en": "Nick Timiraos: After Hot CPI, All Eyes on Warsh’s Talk in Bangkok",
+    "summary": [
+      "‏گزارش تورم آمریکا روز چهارشنبه به‌طور غیرمنتظره‌ای گرم شد.",
+      "‏این داده‌ها فشار بر فدرال رزرو و تصمیمات نرخ بهره را افزایش می‌دهد.",
+      "‏توجه‌ها به سخنرانی وارش در بانکوک که می‌تواند نکات مهمی درباره سیاست پولی بدهد، معطوف شده است."
+    ],
+    "body_fa": "‏در روز چهارشنبه، گزارش CPI آمریکا نشان داد که تورم ماهانه 0.6 درصد و سالانه 3.2 درصد بوده و پیش‌بینی‌ها را به‌مراتب پشت سر گذاشت. این افزایش ناگهانی باعث شد بازارهای مالی نوسان کنند و انتظار برای تصمیمات فدرال رزرو بیشتر شود. کیوین وارش، عضو پیشین فدرال رزرو، در بانکوک سخنرانی خواهد داشت و نظرات او درباره مسیر سیاست پولی مورد توجه سرمایه‌گذاران قرار گرفته است. تحلیل‌گران معتقدند که هر اشاره‌ای به تغییر نرخ بهره یا چشم‌انداز تورمی می‌تواند حرکت‌های بازار را تحت تأثیر قرار دهد. بنابراین، تمام نگاه‌ها به این رویداد متمرکز شده تا سرنخ‌هایی درباره گام‌های بعدی فدرال رزرو به دست آید.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تورم و سیاست پولی",
+    "tag": "CPI",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/nick-timiraos-after-hot-cpi-all-eyes-on-warsh-s-talk-in-bangkok-Mgfm6cj70JnY6JLo94aQ",
+    "clean_url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/nick-timiraos-after-hot-cpi-all-eyes-on-warsh-s-talk-in-bangkok-Mgfm6cj70JnY6JLo94aQ",
+    "image": "https://s.yimg.com/bo/3d76b51c-94aa-5192-9b20-efb85734b45e_1792001061752.jpg",
+    "timestamp": 1791999267.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "742b2cdf3a",
+    "title_fa": "‏تورم بالاتر از انتظار آمریکا بازارها را تکان داد",
+    "title_en": "Inflation data causes market havoc, as FTSE 100 comes out on top",
+    "summary": [
+      "‏نرخ تورم سپتامبر آمریکا بالاتر از پیش‌بینی شد",
+      "‏بازارهای مالی واکنش شدید نشان دادند؛ سود اوراق خزانه‌داری افزایش یافت و سهام آمریکا سقوط کرد",
+      "‏احتمال افزایش نرخ بهره فدرال رزرو به ۴۰٪ در این ماه دو برابر شد"
+    ],
+    "body_fa": "‏داده‌های تورم سپتامبر ایالات متحده نشان داد که نرخ رشد قیمت‌ها بالاتر از انتظار بوده است. این افزایش ناگهانی باعث شد تا بازده اوراق خزانه‌داری در تمام بازه‌های زمانی بالا برود. در واکنش، شاخص‌های سهام آمریکا به‌طور قابل‌توجهی کاهش یافتند. به‌ویژه، شاخص FTSE 100 در مقابل سایر بازارها عملکرد بهتری داشت و در صدر قرار گرفت. احتمال اینکه فدرال رزرو در اواخر ماه نرخ بهره را افزایش دهد، در یک هفته به ۴۰٪ رسیده و دو برابر شد. تحلیل‌گران پیش‌بینی می‌کنند این داده می‌تواند مسیر سیاست پولی را تا پایان سال تحت تأثیر قرار دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نرخ تورم",
+    "tag": "تورم",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/inflation-data-causes-market-havoc-as-ftse-100-comes-out-on-top-202610141729",
+    "clean_url": "https://www.fxstreet.com/news/inflation-data-causes-market-havoc-as-ftse-100-comes-out-on-top-202610141729",
+    "image": "https://editorial.fxsstatic.com/images/i/inflation-02_Medium.jpg",
+    "timestamp": 1791999000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "454ad734fc",
+    "title_fa": "‏سهم CoreWeave ۱۵٪ سقوط کرد؛ معامله‌گران به 'bubble puts' روییدند",
+    "title_en": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+    "summary": [
+      "‏سهام CoreWeave ۱۵٪ کاهش یافت و سایر شرکت‌های neocloud مثل Nebius و Iren نیز تا ۱۰٪ افت کردند.",
+      "‏تجارت‌گران حدود 200,000 اختیار فروش (puts) به‌نام 'bubble puts' خریدند تا ریسک سقوط بیشتر را پوشش دهند.",
+      "‏این اوراق با قیمت 74 سنت به‌صورت کل 1.9 میلیون دلار معامله شدند."
+    ],
+    "body_fa": "‏روز چهارشنبه، سهام شرکت CoreWeave که در زمینه ارائه GPU های هوش مصنوعی به‌عنوان سرویس فعالیت می‌کند، ۱۵٪ سقوط کرد. این افت همراه با کاهش قیمت سهام دیگر شرکت‌های neocloud مانند Nebius و Iren بود که هر کدام تا ۱۰٪ کاهش یافتند. در واکنش، معامله‌گران حدود 200,000 اختیار فروش با استرایک 37.5 دلار و تاریخ انقضای 18 دسامبر خریدند که به‌عنوان 'bubble puts' شناخته می‌شود. قیمت این اختیارها 74 سنت به‌ازای هر واحد بوده و مجموعاً حدود 1.9 میلیون دلار معامله شد. حجم معاملات اختیارهای فروش CoreWeave هفت برابر متوسط ماهانه و حجم اختیارهای خرید در Nebius و Iren نیز به‌طور قابل‌توجهی افزایش یافت. تحلیل‌گران این حرکت را به‌عنوان پوشش ریسک برای سرمایه‌گذاران در بخش هوش مصنوعی و احتمالاً برای حفظ موقعیت‌های مرتبط با Nasdaq می‌دانند.",
+    "category": "تکنولوژی",
+    "subcategory": "سهام هوش مصنوعی",
+    "tag": "CoreWeave",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+    "clean_url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+    "image": "https://s.yimg.com/bo/d0207e9b-7a7e-5bdc-8ba3-a033f219c21b_1791999155873.jpg",
+    "timestamp": 1791997887.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "600f70c588",
+    "title_fa": "‏تورم بالا در آمریکا به «واقعیت زندگی» تبدیل شد",
+    "title_en": "How high inflation became a 'fact of life' in the U.S.",
+    "summary": [
+      "‏CPI سپتامبر 3.7 ٪ YoY ، بیش از پنج سال بالای هدف ۲٪.",
+      "‏این روند طولانی باعث نگرانی فدرال رزرو و تثبیت انتظارات تورمی می‌شود.",
+      "‏مصرف‌کنندگان انتظار دارند قیمت‌ها و دستمزدها سریع‌تر افزایش یابد."
+    ],
+    "body_fa": "‏داده‌های CPI ماه سپتامبر نشان دادند که نرخ تورم سالانه 3.7 ٪ است، که بیش از 65 ماه متوالی بالای هدف ۲٪ فدرال رزرو است. این طولانی‌ترین دوره تورم بالای ۲٪ در قرن بیست و یکم است و تنها در دو دوره دیگر از دهه ۱۹۴۰ تا به بعد مشابه آن دیده شده است. به‌طور متوسط، از اوایل ۲۰۲۱ تا کنون، نرخ CPI حدود 4.5 ٪ بوده و این سطح آخرین بار در دهه ۱۹۸۰ دیده شد. نظرسنجی فدرال رزرو نیویورک نشان داد انتظارات تورمی یک‌ساله به 3.9 ٪ رسیده که بالاترین سطح در بیش از سه سال است. رئیس فدرال رزرو کلیولند، Beth Hammack ، هشدار داد که پذیرش مداوم تورم بالا به‌عنوان «واقعیت زندگی» می‌تواند انتظارات را تثبیت کند و ابزارهای پولی را بی‌اثر سازد. اقتصاددانان می‌گویند اگر کسب‌وکارها و کارگران پیش‌بینی‌های قیمتی را پیش‌دستی کنند، فشارهای قیمتی و دستمزد می‌تواند تورم را به‌صورت خودتقویت‌کننده ادامه دهد. این وضعیت می‌تواند تصمیمات سیاست‌گذاری پولی را دشوارتر کند و بر رفتار مصرف‌کنندگان، هزینه‌های زندگی و حتی نتایج انتخابات میانی آینده تأثیر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تورم مصرف‌کننده",
+    "tag": "تورم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+    "clean_url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+    "image": "https://s.yimg.com/bo/7b4a96df-7810-56b7-a53c-928a9b19c0df_1788447836258.jpg",
+    "timestamp": 1791997887.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fde684812f",
+    "title_fa": "‏نتفلیکس ۱۰۰۰ کارمند را به دلیل رقابت اخراج کرد",
+    "title_en": "Netflix to lay off 1,000 staff amid intensifying competition for user attention...",
+    "summary": [
+      "‏نتفلیکس حدود 6 ٪ نیروی کار خود یعنی تقریباً 1000 نفر را اخراج کرد.",
+      "‏این تصمیم در پی رقابت شدید با پلتفرم‌های اجتماعی و فشار بر سودآوری شرکت اتخاذ شد.",
+      "‏نتفلیکس همچنان در حوزه‌های AI ، بازی و محتواهای زنده سرمایه‌گذاری می‌کند."
+    ],
+    "body_fa": "‏نتفلیکس اعلام کرد حدود 6 ٪ نیروی کارش یعنی تقریباً 1000 نفر را از بخش‌های محصول، فناوری، حقوقی و منابع انسانی حذف می‌کند. این اقدام پس از باخت در مناقصه خرید استودیوهای Warner Bros. Discovery به Paramount Skydance صورت گرفت. شرکت در تلاش است تا با سرمایه‌گذاری در حوزه‌های هوش مصنوعی، بازی، پادکست‌های ویدئویی و محتواهای زنده، جذب کاربران را افزایش دهد. همچنین قیمت اشتراک‌ها را افزایش داده و سرویس پشتیبانی از تبلیغات را گسترش داده است. نتفلیکس در سال 2025 درآمد 45.2 میلیارد دلاری گزارش کرد که از آن بیش از 1.5 میلیارد دلار از تبلیغات حاصل شد. با این حال، این کاهش نیروی کار نشان‌دهنده فشارهای رقابتی شدید از سوی پلتفرم‌های اجتماعی مانند TikTok و YouTube است.",
+    "category": "تکنولوژی",
+    "subcategory": "کاهش نیروی کار",
+    "tag": "اخراج",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+    "clean_url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention",
+    "image": "https://s.yimg.com/bo/a9d773e7-1779-50e9-964c-462ded919917_1791990623490.webp",
+    "timestamp": 1791990687.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a352e81c44",
     "title_fa": "‏کشتی در تنگه هرمز به‌دلیل مین غرق شد",
     "title_en": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other...",
@@ -19,6 +129,50 @@
     "clean_url": "https://apnews.com/article/mideast-israel-palestinians-iran-october-14-2026-7e2c57a29fd5c3afc7ffe0cf63954bf3",
     "image": "https://s.yimg.com/bo/98ebcc08-442b-569f-852b-857e49196f55_1791964419675.jpg",
     "timestamp": 1791971989.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ce3fe8287e",
+    "title_fa": "‏استاندار بانک‌ها سیاست‌های سیاسی را در خدمات بانکی اعمال کرد",
+    "title_en": "Treasury says largest U.S. banks let politics influence who received banking services",
+    "summary": [
+      "‏استاندار بانک‌ها گزارش داد که بزرگ‌ترین بانک‌های آمریکا تصمیم‌گیری‌های خدمات بانکی را بر پایه ملاحظات سیاسی و اجتماعی می‌گیرند.",
+      "‏این می‌تواند به تبعیض علیه مشتریان بر اساس دیدگاه‌های سیاسی یا مذهبی منجر شود و فشار نظارتی جدیدی ایجاد کند.",
+      "‏مثلاً زیرمجموعه JPMorgan WePay حساب‌های فروشندگان کالاهای محافظه‌کارانه را بسته بود."
+    ],
+    "body_fa": "‏دفتر ناظر بانک‌ها (OCC) گزارش گسترده‌ای منتشر کرد که در آن اعلام شد نه بانک بزرگ ملی تحت نظارت خود، سیاست‌های «ریسک شهرت» را بدون معیارهای واضح و عینی به کار گرفته‌اند و این می‌تواند مشتریان را به دلیل دیدگاه‌های سیاسی، مذهبی یا فعالیت‌های قانونی‌شان تبعیض کند. در این بررسی، نزدیک به 100000 شکایت و حدود 420000 صفحه اسناد از نه بانک بزرگ شامل JPMorgan Chase ، Bank of America ، Citibank و سایرین مورد تجزیه و تحلیل قرار گرفت. جاناتان گلد، ناظر بانک‌ها، تأکید کرد تصمیم‌گیری‌ها باید بر پایه ریسک مالی باشد نه ترجیحات سیاسی یا اجتماعی کارکنان. این یافته‌ها ممکن است به شکایت‌های مداوم رئیس‌جمهور دونالد ترامپ درباره «دبنگ» شدن بانک‌ها توسط مؤسسات مالی اضافه شود. OCC روز قبل بیش از 1200000000 دلار جریمه به Bank of America بابت نقص‌های ضدپولشویی اعمال کرد و هم‌اکنون در حال بررسی این است که آیا اقدامات ضدپولشویی خود بانک‌ها به تبعیض منجر شده است یا خیر. در میان موارد برجسته، زیرمجموعه JPMorgan به نام WePay حساب‌های فروشندگان کالاهای محافظه‌کارانه را بسته بود و فهرست داخلی شامل واژه‌هایی چون \"MAGA\" و \"America First\" بود، در حالی که هیچ استاندارد کتبی برای تشخیص محتوای ممنوع وجود نداشت.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانک‌های بزرگ",
+    "tag": "بانک‌داری",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+    "clean_url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108408823-1791986922076-gettyimages-2217872224-20250602_dc_fedbuildings_125.jpeg?v=1791986938&w=1920&h=1080",
+    "timestamp": 1791967500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7db28bbd77",
+    "title_fa": "‏افزایش ۳.۶٪ مزایای تأمین اجتماعی در سال ۲۰۲۷",
+    "title_en": "Inflation Jump Will Push Social Security Benefits Up 3.6%",
+    "summary": [
+      "‏مزایای تأمین اجتماعی بازنشستگان در سال ۲۰۲۷ ۳.۶٪ افزایش می‌یابد.",
+      "‏این افزایش به دلیل تورم بالاتر است و متوسط درآمد سالانه بازنشستگان را حدود $900 ارتقا می‌دهد.",
+      "‏این بالاترین COLA از سال ۲۰۲۳ است، پس از افزایش ۲.۸٪ در سال جاری."
+    ],
+    "body_fa": "‏تورم در ایالات متحده در حال افزایش است و برای جبران این فشار بر هزینه‌های زندگی، مزایای تأمین اجتماعی برای سال ۲۰۲۷ ۳.۶٪ افزایش می‌یابد. این افزایش، بالاترین سطح تنظیم هزینه زندگی (COLA) از سال ۲۰۲۳ است و پس از افزایش ۲.۸٪ در سال جاری می‌آید. به‌طور متوسط، بازنشستگان حدود $900 بیشتر در هر سال دریافت خواهند کرد. این تغییر به‌خصوص برای افراد بازنشسته که به درآمد ثابت وابسته‌اند، اهمیت دارد و می‌تواند قدرت خرید آن‌ها را در مقابل تورم حفظ کند. دولت آمریکا این تصمیم را برای حمایت از بازنشستگان در مواجهه با هزینه‌های روزانه اتخاذ کرده است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازنشستگی",
+    "tag": "COLA",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/personal-finance/retirement/inflation-jump-will-push-social-security-benefits-up-3-6-e682e99b",
+    "clean_url": "https://www.wsj.com/personal-finance/retirement/inflation-jump-will-push-social-security-benefits-up-3-6-e682e99b",
+    "image": "https://images.wsj.net/im-28331181/social",
+    "timestamp": 1791967320.0,
     "sent_to_telegram": true
   },
   {
@@ -66,6 +220,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "b947b1b131",
+    "title_fa": "‏پیش‌بینی Standard Chartered ۲ تریلیون استیبل‌کوین به ۲۰۳۰",
+    "title_en": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
+    "summary": [
+      "‏بانک Standard Chartered پیش‌بینی بازار استیبل‌کوین را به ۲ تریلیون دلار تا سال ۲۰۳۰ موکول کرد.",
+      "‏این به دلیل رکود رشد عرضه در سال جاری است، اما حجم تراکنش‌های ماهانه به نزدیک ۱۰ تریلیون دلار رسیده است.",
+      "‏سرعت گردش USDC بالاتر از USDT است و به‌خصوص در پرداخت‌های هوش مصنوعی استفاده می‌شود."
+    ],
+    "body_fa": "‏بانک Standard Chartered پیش‌بینی خود درباره بازار استیبل‌کوین را به‌روز کرد و برآورد می‌کند که این بازار تا سال ۲۰۳۰ به ۲ تریلیون دلار خواهد رسید، دو سال دیرتر از پیش‌بینی قبلی. عرضه استیبل‌کوین‌ها در ۱۲ ماه گذشته بین ۳۰۰ تا ۳۲۰ میلیارد دلار ثابت مانده و هم‌اکنون حدود ۳۰۹ میلیارد دلار است. با این‌حال، ارزش تراکنش‌های ماهانه به‌طور متوسط نزدیک ۱۰ تریلیون دلار در این سال افزایش یافته و سرعت گردش توکن‌ها دو برابر شده است. USDT عمدتاً برای پس‌اندازهای دلاری در بازارهای نوظهور استفاده می‌شود، در حالی که USDC بیشتر در پرداخت‌ها، تراکنش‌های مالی و تعاملات هوش مصنوعی به کار می‌رود. تحلیل‌گران انتظار دارند رقابت در حوزه پرداخت‌های استیبل‌کوین در بازارهای پیشرفته تشدید شود و پروژه‌های جدیدی مانند Open USD و شبکه A+ وارد رقابت شوند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پیش‌بینی بازار استیبل‌کوین",
+    "tag": "stablecoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+    "clean_url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png",
+    "timestamp": 1791964740.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1c8f247e4c",
+    "title_fa": "‏StarkWare سرویس OffMarket را برای معاملات خصوصی Polymarket راه‌اندازی کرد",
+    "title_en": "StarkWare launches OffMarket to let Polymarket users trade more privately",
+    "summary": [
+      "‏StarkWare سرویس OffMarket را برای Polymarket فعال کرد؛ کاربران می‌توانند تا ۱۰۰۰ USDC به‌صورت ناشناس معامله کنند.",
+      "‏این سرویس حریم‌خصوصی را با استفاده از استخر حریم‌خصوصی Starknet فراهم می‌کند و می‌تواند شفافیت معاملات را کاهش دهد.",
+      "‏استخر حریم‌خصوصی حدود 1.5 میلیون دلار در 17,000 واریز دارد."
+    ],
+    "body_fa": "‏StarkWare سرویس OffMarket را به‌صورت عمومی عرضه کرد؛ این سرویس پس از دوره آزمایشی محدود از آگوست، به کاربران Polymarket امکان می‌دهد تا موقعیت‌های معاملاتی خود را بدون ارتباط با حساب‌های اصلی انجام دهند. حد واریز اولیه برای هر کاربر ۱,۰۰۰ USDC تعیین شده و بر اساس تقاضا قابل تنظیم است. OffMarket با استفاده از فناوری zero‑knowledge بر بستر Starknet کار می‌کند و تمام تراکنش‌ها در استخر حریم‌خصوصی مشترک شبکه انجام می‌شود که حدود 1.5 میلیون دلار در 17,000 واریز دارد. سرویس به‌صورت غیرمحافظت‌شده (non‑custodial) است و کلیدهای کاربر در مرورگرشان باقی می‌ماند؛ در صورت قطع سرویس، کاربران می‌توانند کیف‌پول خود را با امضای دیجیتال بازیابی کنند. قرارداد استخر توسط OpenZeppelin در ژوئن بررسی شد و هیچ نقص بحرانی یا با شدت بالا گزارش نشد و سپس توسط StarkWare به‌صورت رسمی تأیید شد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "حریم‌خصوصی بلاکچین",
+    "tag": "OffMarket",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
+    "clean_url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/offmarket.png",
+    "timestamp": 1791964500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "14befc9cef",
     "title_fa": "‏پیل، اقتصاددان BOE ، نسبت چهار افزایش نرخ بهره تردید دارد",
     "title_en": "BOE’s Pill ‘Skeptical’ Four Rate Rises Needed to Tame Inflation",
@@ -85,6 +283,72 @@
     "clean_url": "https://www.wsj.com/world/uk/boes-pill-skeptical-four-rate-rises-needed-to-tame-inflation-a1b840a2",
     "image": "https://s.yimg.com/bo/3767db37-3cf2-573c-a2ca-39b6b01535aa_1791969226451.jpg",
     "timestamp": 1791959809.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "29243f495c",
+    "title_fa": "‏Polygon خرید Coinme را تکمیل کرد؛ پرداخت در ۴۸ ایالت",
+    "title_en": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
+    "summary": [
+      "‏Polygon Labs خرید Coinme را تکمیل کرد و با 37 مجوز انتقال پول در ۴۸ ایالت آمریکا پوشش پرداخت‌های منظم شد.",
+      "‏این گام به Open Money Stack امکان ارائه خدمات پرداخت و حقوق و دستمزد با استیبل‌کوین در سراسر آمریکا را می‌دهد.",
+      "‏همزمان شرکت‌های Tazapay ، Mesh ، Toku و Kira اولین مشتریان این پلتفرم هستند."
+    ],
+    "body_fa": "‏Polygon Labs در روز چهارشنبه اعلام کرد که خرید شرکت Coinme را نهایی کرده و به این ترتیب 37 مجوز انتقال پول ایالتی و 11 معافیت مرتبط را به دست آورده است. این خرید بخشی از معامله ترکیبی 250 میلیون دلاری است که در ژانویه برای خرید Coinme و شرکت زیرساخت کیف پول Sequence اعلام شد. با افزودن این مجوزها، پلتفرم Open Money Stack می‌تواند خدمات پرداخت منظم را در 48 ایالت آمریکا، از دریافت تا پرداخت نهایی، ارائه دهد. اولین مشتریان این سرویس شامل Tazapay ، Mesh ، Toku و Kira هستند که از آن برای پرداخت‌های مرزی، افزودن درگاه‌های ورودی به کیف پول‌ها و حقوق و دستمزد با استیبل‌کوین استفاده می‌کنند. Polygon تا به حال بیش از 3 تریلیون دلار حجم انتقال استیبل‌کوین را ثبت کرده و این ادغام می‌تواند نقش آن را در بازارهای مالی دیجیتال تقویت کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ادغام و تملک",
+    "tag": "Polygon-Coinme",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+    "clean_url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-14-at-14.47.06.png",
+    "timestamp": 1791957600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "289f0a979f",
+    "title_fa": "‏DriveWealth از استیبل‌کوین RLUSD ریپل برای تسویه‌حساب استفاده می‌کند",
+    "title_en": "DriveWealth to use Ripple's RLUSD for stablecoin settlement, cross-border payments",
+    "summary": [
+      "‏DriveWealth قرارداد همکاری با Ripple را برای استفاده از استیبل‌کوین RLUSD در تسویه‌حساب و پرداخت‌های فرامرزی امضا کرد.",
+      "‏این اقدام امکان تأمین نقدینگی ۲۴ ساعته برای حساب‌های امانت مشتریان و تبدیل سریع به پول نقد را فراهم می‌کند.",
+      "‏همکاری ابتدا در اروپا آغاز شده و به زودی به ایالات متحده گسترش می‌یابد."
+    ],
+    "body_fa": "‏DriveWealth با Ripple به توافق رسیده تا استیبل‌کوین RLUSD را برای تسویه‌حساب و پرداخت‌های فرامرزی به بستر XRP Ledger اضافه کند. این یکپارچه‌سازی به مشتریان این کارگزاری امکان می‌دهد حساب‌های امانت خود را به‌صورت ۲۴ ساعته با استیبل‌کوین تأمین مالی کنند و در زمان نزدیک به لحظه به پول نقد تبدیل نمایند. ابتدا این سرویس در اروپا فعال می‌شود و پس از آن به بازار ایالات متحده گسترش می‌یابد. این همکاری بخشی از برنامه Ripple برای گسترش استفاده مؤسسه‌ای از استیبل‌کوین‌هاست و نشان‌دهنده رشد زیرساخت‌های مالی دیجیتال در سطح جهانی است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "استیبل‌کوین",
+    "tag": "RLUSD",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+    "clean_url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_Ripple_News_3.jpg",
+    "timestamp": 1791957600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "26799178ae",
+    "title_fa": "‏داده‌های CPI سپتامبر منتشر شد؛ بانک آمریکا جریمه ۱٫۲ میلیارد",
+    "title_en": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+    "summary": [
+      "‏گزارش CPI سپتامبر امروز منتشر می‌شود؛ اقتصاددانان پیش‌بینی می‌کنند قیمت‌ها ۰٫۶٪ ماهانه و ۳٫۶٪ سالانه افزایش یابد.",
+      "‏این آخرین داده تورم پیش از انتخابات میانی است و می‌تواند جهت‌گیری سیاست‌های پولی و واکنش بازارها را شکل دهد.",
+      "‏بانک آمریکا پس از جریمه ۱٫۲ میلیارد دلاری سود هر سهمش ۱۷ سنت کاهش یافت و سهامش بیش از ۴٪ در پیش‌بازار سقوط کرد."
+    ],
+    "body_fa": "‏امروز داده‌های شاخص قیمت مصرف‌کننده (CPI) سپتامبر منتشر می‌شود که اقتصاددانان دوجو آن را ۰٫۶٪ افزایش ماهانه و ۳٫۶٪ سالانه پیش‌بینی کرده‌اند. این آخرین گزارش تورمی پیش از انتخابات میانی است و به‌ویژه به دلیل فشارهای قیمتی ناشی از هزینه‌های انرژی، که از آغاز جنگ ایران در فوریه تشدید شده‌اند، مورد توجه قرار گرفته. رئیس فدرال رزرو نیویورک، جان ویلیامز، پیش از انتشار داده‌ها اعلام کرد که نیروهای کاهش تورم فعال هستند و احتمالاً نیازی به افزایش نرخ بهره تا سال ۲۰۲۷ نخواهد بود. در همین حین، بانک آمریکا اعلام کرد که به دلیل جریمه ۱٫۲ میلیارد دلاری وزارت خزانه‌داری آمریکا برای نقض قوانین ضدپولشویی و تحریم‌ها، سود خالص سه‌ماهه‌اش ۱۷ سنت به ازای هر سهم کاهش یافته و سهامش بیش از ۴٪ در پیش‌بازار افت کرده است. در مقابل، مورگان استنلی نتایج مالی بهتر از انتظار را گزارش داد و درآمدهای معاملاتی سهام خود را بیش از ۹۰۰ میلیون دلار بالاتر از پیش‌بینی‌ها اعلام کرد. بازارهای سهام پس از این اخبار به‌صورت کلی آرام باقی مانده‌اند و سرمایه‌گذاران منتظر واکنش‌های بعدی به داده‌های CPI و تحولات بانکی هستند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "داده‌های تورم",
+    "tag": "CPI",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
+    "clean_url": "https://www.cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
+    "timestamp": 1791956220.0,
     "sent_to_telegram": true
   },
   {
@@ -129,6 +393,50 @@
     "clean_url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108250555-1767974377302-gettyimages-2201916861-_d6a3281_18br2qz5.jpeg?v=1767974405&w=1920&h=1080",
     "timestamp": 1791947700.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "83a866227e",
+    "title_fa": "‏سازمان ESA خواست Anbernic به فهرست بازارهای آمریکا اضافه شود",
+    "title_en": "ESA flags retro console maker Anbernic for inclusion on US government's Notorious Market List",
+    "summary": [
+      "‏سازمان ESA درخواست افزودن سازنده کنسول‌های رترو Anbernic به فهرست بازارهای بدنام آمریکا را کرد",
+      "‏این اقدام به دلیل پیش‌بارگذاری صدها هزار بازی غیرقانونی در دستگاه‌های این شرکت است که فروش قانونی را تهدید می‌کند",
+      "‏Anbernic پیش از این به دلیل تعرفه‌ها از ارسال به آمریکا خودداری کرده بود"
+    ],
+    "body_fa": "‏سازمان نرم‌افزارهای سرگرمی (ESA) در گزارشی به دولت آمریکا پیشنهاد داد که شرکت چینی Anbernic به فهرست بازارهای بدنام (Notorious Market List) اضافه شود. این فهرست توسط دفتر نماینده تجاری ایالات متحده (USTR) منتشر می‌شود و بازارهایی را که به‌طور گسترده در تقلب‌های علامت تجاری و کپی‌رایت مشارکت دارند، شناسایی می‌کند. ESA ادعا می‌کند دستگاه‌های دستی Anbernic که بازی‌های رترو از نینتندو، پلی‌استیشن و سگا را شبیه‌سازی می‌کنند، با کارت‌های حافظه پیش‌بارگذاری شده حاوی هزاران نسخه غیرمجاز عرضه می‌شوند. این کارت‌ها امکان بازی فوری بدون خرید قانونی را فراهم می‌آورند و به‌نظر ESA باعث دور زدن تدابیر حفاظتی فناوری و کاهش فروش قانونی می‌شوند. علاوه بر خسارت مالی برای ناشران، ESA به خطرات امنیتی، حریم خصوصی و عدم امکان اعمال محدودیت‌های ایمنی برای کودکان اشاره کرد. Anbernic پیش از این به دلیل تعرفه‌های جدید از ارسال به ایالات متحده خودداری کرده بود، اما این درخواست نشان می‌دهد که نگرانی‌های صنعت بازی‌سازی نسبت به این نوع پخش‌های غیرقانونی در حال تشدید است.",
+    "category": "گیم",
+    "subcategory": "کپی‌رایت بازی",
+    "tag": "Anbernic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
+    "clean_url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
+    "image": "https://assetsio.gnwcdn.com/anbernic-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1791946740.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9f711efc3a",
+    "title_fa": "‏بیت‌کوین از 84 ٬ 000 دلار به 81 ٬ 950 دلار سقوط کرد",
+    "title_en": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+    "summary": [
+      "‏بیت‌کوین از نزدیک 84 ٬ 000 دلار به حدود 81 ٬ 950 دلار افتاد.",
+      "‏کاهش قیمت پس از انتشار داده‌های تورم سپتامبر آمریکا رخ داد و فشار بر دارایی‌های ریسک‌پذیر را نشان داد.",
+      "‏در همان زمان، بازده اوراق 10‑ساله آمریکا به 5.23 ٪ رسید و شاخص‌های Nasdaq و S&P 500 نیز کاهش یافتند."
+    ],
+    "body_fa": "‏قیمت بیت‌کوین پس از نزدیک شدن به رکورد 84 ٬ 000 دلاری، در طول ۲۴ ساعت گذشته ۱٫۵٪ کاهش یافت و به حدود 81 ٬ 950 دلار رسید. این افت همزمان با انتشار داده‌های تورم سپتامبر آمریکا بود که نشان داد قیمت‌ها بالاتر از انتظار بوده‌اند. بازده اوراق قرضه 10‑ساله آمریکا پس از کوتاه‌مدت صعود به 5.335 ٪، به 5.23 ٪ بازگشت و به پایین‌ترین سطح روز محدود شد. سهام‌های فناوری، سازندگان مسکن و بخش مالی نیز تحت فشار قرار گرفتند؛ Nasdaq ۱٫۶٪ و S&P 500 حدود ۱٫۰۵٪ کاهش یافتند. این تحرکات نشان می‌دهد بازارهای ریسک‌پذیر در برابر فشارهای ناشی از نرخ بهره بالاتر حساس می‌شوند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+    "clean_url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/797ef81169c7c1187767036de7aaa493b4483220-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1791945840.0,
     "sent_to_telegram": true
   },
   {
@@ -6289,314 +6597,6 @@
     "clean_url": "https://www.wsj.com/health/healthcare/texas-ag-paxton-launches-investigation-into-unitedhealth-group-bc6ce142",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791195840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d849019ba6",
-    "title_fa": "‏شرکت L'Oreal برای بدهی‌های حقوقی آمریکا مشاوران بازسازی جذب کرد",
-    "title_en": "As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats",
-    "summary": [
-      "‏شرکت L'Oreal مشاوران بازسازی برای بررسی گزینه‌های مواجهه با بدهی‌های حقوقی آمریکا استخدام کرد.",
-      "‏این اقدام پس از گزارش Wall Street Journal درباره مسئولیت‌های شرکت در استفاده از تالک و مواد شیمیایی دیگر است.",
-      "‏ممکن است فشار بر سهام L'Oreal و هزینه‌های قانونی شرکت را افزایش دهد."
-    ],
-    "body_fa": "‏شرکت آرایشی L'Oreal مشاوران بازسازی را برای بررسی گزینه‌های مواجهه با بدهی‌های حقوقی در ایالات متحده به کار گرفت. این تصمیم پس از انتشار گزارشی در Wall Street Journal صورت گرفت که به مسئولیت‌های شرکت در استفاده از تالک و سایر ترکیبات شیمیایی در برخی محصولات آرایشی اشاره داشت. مقامات شرکت می‌خواهند راهکارهایی برای کاهش ریسک‌های مالی و حقوقی ناشی از این دعاوی پیدا کنند. استفاده از تالک در لوازم آرایشی قبلاً منجر به شکایات و دعواهای حقوقی در چند کشور شده است. اگر نتایج این بررسی منجر به تنظیم مجدد ساختار یا تخصیص منابع مالی شود، می‌تواند بر سودآوری و قیمت سهام L'Oreal تأثیر بگذارد. بازارهای مالی به این خبر با دقت نگاه می‌کنند، زیرا هر گونه هزینه قانونی بزرگ می‌تواند بر عملکرد شرکت‌های مصرفی تأثیرگذار باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قانونی شرکت‌ها",
-    "tag": "L'Oreal",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/iran-war-drives-up-gasoline-prices-us-trump-blames-ukraine-democrats-2026-10-05/",
-    "clean_url": "https://www.reuters.com/business/energy/iran-war-drives-up-gasoline-prices-us-trump-blames-ukraine-democrats-2026-10-05",
-    "image": "https://www.reuters.com/resizer/v2/GC46N2UOVRM6DFUFVTE6JXPRM4.jpg?auth=e989a7bfbf2521b68bf4f1cb01841ca7aea40328ea0990deeee9819a0300615a&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1791194280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a041b34656",
-    "title_fa": "‏HackerRank هوش مصنوعی جدیدش Chakra را برای مصاحبه‌ها عرضه کرد",
-    "title_en": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "summary": [
-      "‏HackerRank پس از شش ماه بتا، ابزار مصاحبه هوش مصنوعی Chakra را عمومی کرد.",
-      "‏این سامانه نه تنها پاسخ‌ها، بلکه روش حل و تفکر کاندیداها را ارزیابی می‌کند.",
-      "‏تا کنون بیش از ۵۰۰٬۰۰۰ مصاحبه در مرحله آزمایشی با شرکت‌های Snowflake و Capgemini انجام شده است."
-    ],
-    "body_fa": "‏HackerRank پس از شش ماه آزمایش بتا، سامانه مصاحبه هوش مصنوعی به نام Chakra را برای مشتریان خود در دسترس قرار داد. این ابزار تا به حال بیش از نیم میلیون مصاحبه را در فاز تست با شرکت‌هایی مانند Snowflake ، Snorkel و Capgemini انجام داده است. Chakra نه تنها پاسخ‌های فنی کاندیداها را می‌سنجد، بلکه روند حل مسئله، تفکر انتقادی و توانایی کار با هوش مصنوعی را نیز ارزیابی می‌کند. در یک مصاحبه واقعی، کاندیدا یک پروژه کد واقعی را در یک بوم کاری دریافت می‌کند و در حین کار، Chakra با استفاده از زمینه کاری، سؤالات پیگیری می‌پرسد. این رویکرد سعی دارد فرآیند سه مرحله‌ای سنتی (مصاحبه‌کارگزینی، تکلیف خانگی، مصاحبه فنی) را در یک جلسه ترکیب کند. بنیان‌گذار و مدیرعامل Vivek Ravisankar می‌گوید که با گسترش هوش مصنوعی، ارزیابی صرف خروجی کافی نیست و باید به درک تصمیم‌گیری‌های پشت آن توجه شود.",
-    "category": "تکنولوژی",
-    "subcategory": "مصنوعی هوشمند",
-    "tag": "مصاحبه‌AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "clean_url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826",
-    "timestamp": 1791193380.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c55376b166",
-    "title_fa": "‏Payward و Gulf Bank تسویه شبانه‌روزی رمزارزها را راه‌اندازی کردند",
-    "title_en": "Payward integrates Singapore Gulf Bank network for 24/7 institutional fiat...",
-    "summary": [
-      "‏Payward با Singapore Gulf Bank شبکه تسویه لحظه‌ای را برای مشتریان نهادی در آسیا و خلیج فارس یکپارچه کرد",
-      "‏سرویس امکان تسویه ۲۴ ساعته دلار آمریکا برای معاملات رمزارزها را فراهم می‌کند و محدودیت ساعت کاری بانک‌ها را رفع می‌کند",
-      "‏در ابتدا فقط برای مشتریان منتخب و دلار آمریکا فعال است؛ گسترش به ارزهای دیگر و مشتریان بیشتر برنامه‌ریزی شده است"
-    ],
-    "body_fa": "‏Payward ، شرکت زیرساخت مالی پشت صحنه صرافی Kraken ، شبکه تسویه لحظه‌ای Singapore Gulf Bank را برای مشتریان نهادی در آسیا و خلیج فارس یکپارچه کرد. این سرویس امکان تسویه ۲۴ ساعته معاملات رمزارزها به دلار آمریکا را فراهم می‌کند، حتی در روزهای تعطیل بانکی. با استفاده از SGB Net ، وجوه واریزی بلافاصله در دسترس می‌مانند و نیازی به انتظار برای زمان‌بندی‌های بانکی نیست. این اقدام به رفع عدم تطابق بین ساعت‌های معاملاتی ۲۴/۷ رمزارزها و ساعات کاری بانک‌ها می‌پردازد. در ابتدا فقط برای مشتریان منتخب و معاملات دلاری در حوزه‌های مجاز فعال است، اما برنامه‌ریزی برای افزودن ارزهای دیگر و گسترش به مشتریان بیشتر وجود دارد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "خدمات تسویه ۲۴ ساعته",
-    "tag": "Payward",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-    "clean_url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-    "image": "https://s.yimg.com/bo/402f8a31-54c5-5b4d-9f10-75a085e812ef_1791163096955.jpg",
-    "timestamp": 1791193176.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "415951c3ee",
-    "title_fa": "‏Umia 6.1 میلیون دلار جذب کرد برای توکن‌سازی پروژه‌های رمزارزی",
-    "title_en": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
-    "summary": [
-      "‏Umia در یک حراج هفت روزه 6.11 میلیون دلار جمع‌آوری کرد و 34.6 ٪ توکن‌های خود را به ارزش 18 میلیون دلار فروخت.",
-      "‏این سرمایه‌گذاری به پلتفرم امکان می‌دهد پروژه‌های رمزارزی توکن‌هایشان را با ساختار قانونی مشترک و حراج‌های زنجیره‌ای راه‌اندازی کنند.",
-      "‏شرکت‌های بزرگی مثل Galaxy Ventures و Digital Currency Group در این حراج شرکت کردند."
-    ],
-    "body_fa": "‏Umia که پلتفرمی برای راه‌اندازی و حاکمیت توکن‌های پروژه‌های رمزارزی است، در هفت روز حراج توکن UMIA ، 17.3 میلیون توکن معادل 34.6 ٪ کل عرضه را به ارزش 18 میلیون دلار فروخت و 6.11 میلیون دلار جذب کرد. این مبلغ از طریق ده صندوق سرمایه‌گذاری از جمله Galaxy Ventures ، Digital Currency Group ، Draper Associates و حدود 700 شرکت‌کننده فردی تأمین شد. تمام توکن‌های فروخته‌شده بلافاصله پس از حراج قابل معامله بودند و هیچ قفل‌گذاری‌ای نداشتند. Umia قصد دارد با استفاده از ساختار حقوقی مشترک، حراج‌های زنجیره‌ای و حاکمیت مبتنی بر بازار، به پروژه‌ها کمک کند تا توکن‌های خود را راه‌اندازی کنند؛ اولین راه‌اندازی خارجی این پلتفرم انتظار می‌رود در این سه‌ماهه باشد. این گام در دوره‌ای دشوار برای پروژه‌های جدید توکنی انجام می‌شود، زمانی که سرمایه‌گذاران بیشتر به معاملات سهام و توکن‌های مبتنی بر درآمد تمایل دارند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "سرمایه‌گذاری توکن",
-    "tag": "Umia",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg",
-    "timestamp": 1791191520.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "93039afca8",
-    "title_fa": "‏مدیرعامل Injective می‌گوید ETF های INJ پیش از 2027 راه‌اندازی می‌شوند",
-    "title_en": "Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027",
-    "summary": [
-      "‏مدیرعامل Injective ، اریک چن، اعلام کرد ETF های مرتبط با توکن INJ در آمریکا قبل از سال 2027 راه‌اندازی می‌شوند.",
-      "‏این پیشرفت می‌تواند دسترسی سرمایه‌گذاران نهادی به شبکه لایه‌1 را گسترش داده و تقاضای توکن را افزایش دهد.",
-      "‏در همین زمان، شرکت Injective خدمات انتقال‌دار ثبت‌شده در SEC و ارتقاء Meridian را برای تسهیل تسویه‌حساب‌های مؤسسه‌ای اعلام کرد."
-    ],
-    "body_fa": "‏در مصاحبه‌ای با The Block در هفته بلاک‌چین کره 2026 ، اریک چن، بنیان‌گذار و مدیرعامل Injective ، گفت انتظار دارد صندوق‌های مبادله‌ای (ETF) مرتبط با توکن بومی این لایه‌1 ، INJ ، پیش از سال 2027 در ایالات متحده راه‌اندازی شوند. در حال حاضر دو درخواست ETF برای INJ وجود دارد: 21Shares Injective ETF و Canary Staked INJ ETF که هر دو در سال 2025 ثبت و در سپتامبر 2026 اصلاحات S‑1 خود را ارائه دادند. چن افزود که این زمان‌بندی نشانگر پیشرفت در فرآیند نظارتی است و شرکت اخیراً به عنوان عامل انتقال‌دار ثبت‌شده در SEC فعالیت خود را آغاز کرده است. این گام، به‌همراه ارتقاء اخیر شبکه به نسخه Meridian که امکان تسویه‌حساب‌های مؤسسه‌ای را فراهم می‌کند، می‌تواند مسیر ورود سرمایه‌گذاران نهادی به اکوسیستم Injective را هموار سازد. در اروپا، Injective نیز با تکمیل و انتشار سند سفید MiCA برای توکن INJ و ثبت در فهرست موقت ESMA ، گام‌های لازم برای دریافت مجوزهای تجاری منطقه‌ای را برداشته است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "صندوق‌های سرمایه‌گذاری",
-    "tag": "INJ",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
-    "clean_url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/eric-chen-2.jpg",
-    "timestamp": 1791191520.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "23332c4ca1",
-    "title_fa": "‏متا برای رفع باگ خطرناک Muse AI به‌سرعت اقدام کرد",
-    "title_en": "Meta reportedly made a “mad dash” to fix a Muse AI breakout bug weeks before launch.",
-    "summary": [
-      "‏متا هفته‌ها پیش قبل از عرضه Muse AI ، برای رفع یک باگ جدی که می‌توانست دسترسی به دیتابیس‌های داخلی را بدهد، به‌سرعت اقدام کرد.",
-      "‏این آسیب‌پذیری می‌توانست هوش مصنوعی را از ماشین مجازی خارج کرده و به سرویس‌های شرکت دسترسی پیدا کند.",
-      "‏منابع می‌گویند تیم‌های امنیتی مجبور شدند اصلاحات نیمه‌کامل را سریعاً منتشر کنند."
-    ],
-    "body_fa": "‏متا در هفته‌های پیش از راه‌اندازی رسمی هوش مصنوعی جدید خود به نام Muse AI ، با یک باگ جدی مواجه شد که امکان خروج برنامه از محیط ماشین مجازی را فراهم می‌کرد. این نقص می‌توانست به ربات هوش مصنوعی اجازه دهد تا به پایگاه‌های داده و سرویس‌های داخلی شرکت دسترسی پیدا کند. منبعی به 404 Media اعلام کرد که تیم‌های امنیتی شرکت تحت فشار قرار گرفتند تا اصلاحات اضطراری را بدون تاخیر در زمان‌بندی عرضه اعمال کنند. به‌دلیل این فشار، اصلاحات اولیه به‌نظر می‌رسید نیمه‌کامل و به‌سرعت ارائه شوند. اگرچه این اصلاحات به‌سرعت منتشر شد، نگرانی‌ها دربارهٔ امنیت و حریم‌خصوصی داده‌های متا همچنان باقی است.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی امنیت",
-    "tag": "Muse AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1004781/meta-reportedly-made-a-mad-dash-to-fix-a-muse-ai-breakout-bug-weeks-before-launch",
-    "clean_url": "https://www.theverge.com/tech/1004781/meta-reportedly-made-a-mad-dash-to-fix-a-muse-ai-breakout-bug-weeks-before-launch",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-    "timestamp": 1791189660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a8452c0e4f",
-    "title_fa": "‏OpenAI تبلیغات تصویری را در نتایج ChatGPT اضافه کرد",
-    "title_en": "OpenAI launches visual ads that appear alongside image generation results",
-    "summary": [
-      "‏OpenAI شروع به نمایش تبلیغات تصویری در کنار تصاویر تولید شده توسط ChatGPT کرد.",
-      "‏این اقدام برای جذب تبلیغ‌دهندگان و حمایت از طرح‌های رایگان و کم‌هزینه سرویس است.",
-      "‏تبلیغات ابتدا فقط در ایالات متحده و برای گروهی محدود از آگهی‌دهندگان نمایش داده می‌شود."
-    ],
-    "body_fa": "‏OpenAI اعلام کرد که از اواخر این ماه تبلیغات بصری را در کنار نتایج تولید تصویر توسط ChatGPT در ایالات متحده نمایش خواهد داد. این تبلیغات به‌صورت واضح برچسب‌گذاری می‌شوند و پاسخ‌های مدل را تحت تأثیر قرار نمی‌دهند. هدف این گام، جذب تبلیغ‌دهندگان آنلاین برای استفاده از فضای تصویری جدید و پشتیبانی از طرح‌های رایگان و اشتراک‌های کم‌هزینه است. شرکت همچنین ابزارهای اندازه‌گیری تبلیغاتی را گسترش داده و با شرکای مختلفی مانند AppsFlyer ، Adjust و DoubleVerify برای ارزیابی مناسب‌سازی برند همکاری می‌کند. در آینده این تبلیغات به کاربران هفتگی 1.2 میلیارد‌گانه ChatGPT در سراسر جهان گسترش خواهد یافت. این تغییر می‌تواند تجربه کاربری را تحت‌تأثیر قرار دهد و کاربران را به سمت اشتراک‌های پرداختی سوق دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "OpenAI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "clean_url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-    "timestamp": 1791188040.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "97912f0fc7",
-    "title_fa": "‏هکرها ۸ میلیون رکورد شهروندان دانمارک را دزدیدند",
-    "title_en": "Hackers steal 8 million citizens’ records from Danish government database",
-    "summary": [
-      "‏هکرها پایگاه داده مرکزی شهروندان دانمارک (CPR) را نفوذ کرده و حدود ۸ میلیون رکورد را به‌دست آوردند.",
-      "‏این نفوذ می‌تواند خطر سرقت هویت، تقلب مالی و نقض حریم خصوصی را برای شهروندان و ساکنان خارج از کشور ایجاد کند.",
-      "‏دولت دانمارک اعلام کرد دسترسی غیرمجاز از طریق سوءاستفاده از دسترسی قانونی یک شرکت دانمارکی به سیستم CPR بوده است."
-    ],
-    "body_fa": "‏دولت دانمارک تأیید کرد که پایگاه داده مرکزی شهروندان (CPR) در ماه سپتامبر هک شده و تقریباً ۸ میلیون رکورد از افراد داخل و خارج کشور به سرقت رفته است. اطلاعات سرقت‌شده شامل نام، آدرس، شماره‌های شناسایی اجتماعی و سایر داده‌های شخصی است که برای پرداخت مالیات و دسترسی به خدمات دولتی استفاده می‌شود. این نفوذ بزرگ‌ترین نقض امنیتی تاریخ دانمارک محسوب می‌شود و نگرانی‌های جدی درباره سرقت هویت و تقلب مالی را برانگیخته است. مقامات اعلام کردند که هکرها با سوءاستفاده از دسترسی قانونی یک شرکت دانمارکی به سیستم CPR ، به داده‌ها دست یافتند، اما هویت عاملان هنوز مشخص نیست. دولت در حال بررسی پیامدها و اطلاع‌رسانی به افراد متاثر است و احتمالاً اقدامات امنیتی جدیدی برای محافظت از پایگاه داده اتخاذ خواهد شد.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "حمله‌سایبری",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-    "clean_url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/denmark-2267724822.jpg?w=1000",
-    "timestamp": 1791187080.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "01ac49748c",
-    "title_fa": "‏بخش خدمات آمریکا در سپتامبر سرد شد و فشارهای قیمتی افزایش یافت",
-    "title_en": "US services sector cools in September, price pressures building",
-    "summary": [
-      "‏در سپتامبر، رشد بخش خدمات ایالات متحده کاهش یافت و نشانه‌های تورم جدید ظاهر شد.",
-      "‏کاهش سرعت رشد خدمات می‌تواند بر سیاست‌های پولی فدرال‌رزرو و بازارهای مالی تأثیر بگذارد.",
-      "‏قیمت‌ها در این دوره فشار بیشتری نشان دادند که ممکن است به افزایش هزینه‌های زندگی منجر شود."
-    ],
-    "body_fa": "‏داده‌های اخیر نشان می‌دهد که در ماه سپتامبر، رشد بخش خدمات در ایالات متحده نسبت به ماه‌های قبل کاهش یافته است. این کاهش همراه با نشانه‌های واضح از افزایش فشارهای قیمتی در بخش‌های مختلف اقتصادی بوده است. تحلیل‌گران بر این باورند که این ترکیب می‌تواند فشار بر فدرال‌رزرو برای تنظیم نرخ بهره ایجاد کند و بازارهای مالی را تحت تأثیر قرار دهد. همچنین، افزایش هزینه‌های خدمات می‌تواند به رشد هزینه‌های زندگی برای مصرف‌کنندگان منجر شود. در مجموع، این تحولات نشانگر یک دورهٔ اقتصادی با ریسک‌های تورمی و چالش‌های سیاست‌گذاری پولی است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بخش خدمات",
-    "tag": "تورم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/us-services-sector-activity-slows-september-price-pressures-mount-2026-10-05/",
-    "clean_url": "https://www.reuters.com/business/us-services-sector-activity-slows-september-price-pressures-mount-2026-10-05",
-    "image": "https://www.reuters.com/resizer/v2/RHB2FGRMTVNQHBQ4USA5ICT2VU.jpg?auth=24f0bd633f387b5658d7bca8edb2dd9845a1baaf59c3064e652fb6c6d7832483&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1791183840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3a1cd74573",
-    "title_fa": "‏بازارهای برزیل به دلیل پیش‌بینی پیروزی فلویو بولسونارو جهش یافت",
-    "title_en": "Brazil’s markets surge as investors bet on Flávio Bolsonaro election win",
-    "summary": [
-      "‏بازارهای برزیل پس از افزایش شرط‌بندی سرمایه‌گذاران بر پیروزی فلویو بولسونارو به‌سرعت بالا رفت.",
-      "‏این انتظار می‌تواند سیاست‌های اقتصادی دولت را تحت تأثیر قرار داده و جذابیت سهام را افزایش دهد.",
-      "‏تحلیل‌گران پیش‌بینی می‌کنند شاخص Bovespa در روزهای آینده می‌تواند بیش از 3 ٪ رشد کند."
-    ],
-    "body_fa": "‏پس از اعلام نتایج نظرسنجی‌های اخیر که نشان می‌دهد فلویو بولسونارو، فرزند رئیس‌جمهور فعلی، شانس بالایی برای پیروزی در انتخابات دارد، بازارهای مالی برزیل به‌سرعت رشد کردند. شاخص اصلی بورس، Bovespa ، در یک روز بیش از 2 درصد افزایش یافت و حجم معاملات به‌طور قابل‌توجهی بالا رفت. سرمایه‌گذاران بر این باورند که پیروزی فلویو می‌تواند سیاست‌های اقتصادی محافظه‌کارانه‌تری را ادامه دهد و به‌ویژه در زمینه‌های مالیاتی و سرمایه‌گذاری خارجی حمایت کند. این انتظارات باعث شد که اوراق دولتی برزیل نیز با کاهش نرخ بهره مواجه شوند. تحلیل‌گران هشدار می‌دهند که اگر نتایج واقعی متفاوت باشد، نوسانات شدیدتری در بازارهای برزیل ممکن است رخ دهد. به‌هرحال، این تحرک نشان می‌دهد که رویدادهای سیاسی می‌توانند به‌سرعت بر احساسات سرمایه‌گذاران و قیمت‌گذاری دارایی‌ها تأثیر بگذارند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای مالی",
-    "tag": "برزیل",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0a35cf9-da51-4979-bec5-a81647a42aa5.png?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1791181020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1810fa1af3",
-    "title_fa": "‏قیمت نفت کاهش یافت؛ جریان‌های هارموز به سطح پیش‌جنگ رسید",
-    "title_en": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels | OilPrice.com",
-    "summary": [
-      "‏جریان‌های نفتی از تنگه هارموز به بالای سطح پیش‌جنگ رسیدند.",
-      "‏این افزایش باعث کاهش قیمت نفت خام شد، اگرچه برنت هنوز بالای ۱۰۰ دلار باقی مانده است.",
-      "‏Kpler اعلام کرد روزانه ۱۹.۵ تا ۲۲.۵ میلیون بشکه نفت از هارموز عبور می‌کند."
-    ],
-    "body_fa": "‏قیمت نفت خام در آغاز معاملات کاهش یافت، در حالی که برنت هنوز بالای ۱۰۰ دلار (در حدود ۱۰۱.۲۰ دلار به ازای هر بشکه) و WTI در حدود ۸۹.۷۳ دلار معامله می‌شد. داده‌های provisional شرکت Kpler نشان داد که جریان‌های خروجی از تنگه هارموز بین ۱۹.۵ تا ۲۲.۵ میلیون بشکه در روز در بازه ۲۷ تا ۲۹ سپتامبر بوده که تقریباً دو برابر جریان ماه قبل است. این افزایش جریان‌ها با وجود گزارش‌های حملات حوثی‌ها به زیرساخت‌های انرژی سعودی و حملات ایرانی به تانکرها رخ داده است. همچنین Kpler اعلام کرد که جریان‌های LNG از هارموز نیز به سطح پیش‌جنگ رسیده، اگرچه صادرات قطر هنوز تحت وضعیت فورس ماژور است. این تحولات نشان می‌دهد که بازار نفت در حال تنظیم مجدد است و فشارهای ژئوپلیتیک ممکن است به تدریج تأثیر خود را کاهش دهند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "قیمت نفت",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Hormuz-Crude-Flows-Top-Pre-War-Levels.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Hormuz-Crude-Flows-Top-Pre-War-Levels.html",
-    "image": "https://s.yimg.com/bo/0763a29f-a89a-5324-8d4c-308a67817881_1791179187839.jpg",
-    "timestamp": 1791179385.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7f14320777",
-    "title_fa": "‏استرالیا بررسی می‌کند گذشتهٔ خلبان دوم FlyDubai را",
-    "title_en": "Australia launches probe into FlyDubai co-pilot’s past, and other Mideast news",
-    "summary": [
-      "‏مقامات استرالیایی پس از ادعای سعی خلبان دوم اومانی FlyDubai در تصرف هواپیمای مقصد اسرائیل، به بررسی سابقهٔ او در استرالیا پرداخته‌اند.",
-      "‏این حادثه می‌تواند تنش‌های هوایی و روابط خاورمیانه را تشدید کند و امنیت پروازهای بین‌المللی را زیر سوال ببرد.",
-      "‏تحقیقات شامل بررسی حضور او در مدارس و کارهای قبلی در استرالیا است."
-    ],
-    "body_fa": "‏استرالیا اعلام کرد که پس از ادعای سعی خلبان دوم اومانی شرکت FlyDubai در تصرف یک هواپیمای مقصد اسرائیل، به بررسی دقیق سابقهٔ او در این کشور می‌پردازد. مقامات استرالیایی می‌گویند این بررسی شامل مرور سوابق تحصیلی، شغلی و هرگونه ارتباط احتمالی با گروه‌های افراطی خواهد بود. این رویداد می‌تواند به تنش‌های سیاسی در خاورمیانه افزوده و نگرانی‌های امنیتی در حوزهٔ هوانوردی بین‌المللی را برانگیزد. اگر ادعاها تأیید شوند، ممکن است فشارهای دیپلماتیک بر امارات متحده عربی و اومان افزایش یابد. در همین حال، سایر اخبار خاورمیانه نیز به دنبال این حادثه در حال پیگیری هستند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "امنیت هوایی",
-    "tag": "FlyDubai",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Associated Press News",
-    "url": "https://apnews.com/article/iran-yemen-israel-saudi-uae-flydubai-october-5-2026-5c0479a4ecb8fefb8f259e6df3800cd8",
-    "clean_url": "https://apnews.com/article/iran-yemen-israel-saudi-uae-flydubai-october-5-2026-5c0479a4ecb8fefb8f259e6df3800cd8",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791176700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "09ec352d25",
-    "title_fa": "‏قیمت بدهی فرانسه اوج می‌گیرد؛ یورو به کم‌ترین سطح می‌افتد",
-    "title_en": "Market Talk: 'Lack of political will to rein in spending' sends cost of France's debt soaring",
-    "summary": [
-      "‏یورو به پایین‌ترین سطح ۱۷ ماهه پس از افزایش هزینه بدهی دولت فرانسه سقوط کرد.",
-      "‏این نشان می‌دهد بازارها نگران عدم تمایل سیاسی به کنترل هزینه‌ها هستند و می‌تواند فشار بر ارزهای اروپایی و اوراق قرضه را افزایش دهد.",
-      "‏تحلیل‌گران به ریسک‌های افزایشی برای سیاست‌گذاران مالی در پیش‌بینی‌های آینده اشاره کردند."
-    ],
-    "body_fa": "‏یورو پس از جهش هزینه استقراض دولتی، به‌ویژه در فرانسه، به پایین‌ترین سطح ۱۷ ماهه خود رسید. هزینه بدهی فرانسه به‌سرعت افزایش یافت و بازده اوراق دولتی این کشور را به اوج رساند. لورا کوپر از Nuveen به رویترز گفت که نگرانی‌ها از عدم وجود اراده سیاسی برای کاهش هزینه‌ها، فشار بر بازارهای ارز و اوراق قرضه را تشدید می‌کند. این تحولات می‌تواند نرخ بهره در ناحیه یورو را بالا برده و سیاست‌گذاران مالی را در مواجهه با تورم و بدهی‌های عمومی تحت فشار قرار دهد. در نتیجه، سرمایه‌گذاران به دنبال دارایی‌های امن‌تر می‌گردند و نوسانات بیشتری در بازارهای مالی اروپا پیش‌بینی می‌شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار ارز",
-    "tag": "یورو",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/video/watch/idRW750205102026RP1/",
-    "clean_url": "https://www.reuters.com/video/watch/idRW750205102026RP1",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791174720.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5fe6d4d892",
-    "title_fa": "‏بازار Nasdaq برای اولین بار به بالاترین بسته شدن رسید",
-    "title_en": "Nasdaq notches record high close as investors focus on earnings",
-    "summary": [
-      "‏بازار Nasdaq در روز دوشنبه با بسته شدن در بالاترین سطح تاریخ، رکورد جدیدی ثبت کرد.",
-      "‏این صعود نشان‌دهندهٔ تمرکز سرمایه‌گذاران بر گزارش‌های سود شرکت‌های فناوری و نیمه‌رسانا است.",
-      "‏سایر شاخص‌های اصلی نیز به‌دنبال این حرکت، افزایش مشابهی نشان دادند."
-    ],
-    "body_fa": "‏بازار Nasdaq در پایان معاملات روز دوشنبه به بالاترین سطح بسته شدن تاریخ دست یافت. این صعود پس از انتشار داده‌های مثبت در بخش فناوری و نیمه‌رسانا رخ داد. سرمایه‌گذاران به‌ویژه به گزارش‌های سود شرکت‌های بزرگ در این حوزه‌ها توجه داشتند. تحلیل‌گران انتظار دارند که این روند مثبت تا پایان فصل مالی ادامه یابد. در عین حال، سایر شاخص‌های اصلی مانند S&P 500 و Dow Jones نیز رشد مشابهی نشان دادند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "شاخص‌های بورس",
-    "tag": "Nasdaq",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/wall-st-futures-dip-tech-stocks-take-breather-2026-10-05/",
-    "clean_url": "https://www.reuters.com/world/europe/wall-st-futures-dip-tech-stocks-take-breather-2026-10-05",
-    "image": "https://www.reuters.com/resizer/v2/4JDIHXCRVRKB7K3SOYRYKICUJM.jpg?auth=0005003fedb0335938073ec7a7dff2dde70acc17b1e37e69c1aeae41280936a6&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1791172020.0,
     "sent_to_telegram": true
   }
 ]
