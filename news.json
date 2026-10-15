@@ -1,5 +1,27 @@
 [
   {
+    "id": "8a2a8aa75d",
+    "title_fa": "‏مذاکرات برای پایان اعتصاب در معدن مس شیلی بی‌نتیجه ماند",
+    "title_en": "No breakthrough in talks at Antofagasta's striking Centinela copper mine, unions...",
+    "summary": [
+      "‏مذاکرات میان شرکت Antofagasta Minerals و دو اتحادیه کارگری در معدن مس Centinela در شیلی بدون دستیابی به توافق متوقف شد.",
+      "‏تداوم اعتصاب در این معدن بزرگ می‌تواند عرضه جهانی مس را با اختلال و نوسان قیمت مواجه کند.",
+      "‏کارگران به شرایط دستمزد و مزایا معترض هستند و فعلاً زمان مشخصی برای دور جدید گفت‌وگوها اعلام نشده است."
+    ],
+    "body_fa": "‏مذاکرات میان مدیران شرکت Antofagasta Minerals و نمایندگان دو اتحادیه کارگری در معدن مس Centinela در کشور شیلی بدون رسیدن به توافق متوقف شد. کارگران این معدن در اعتراض به شرایط مزدی و بسته‌های پیشنهادی دست به اعتصاب زده‌اند و رایزنی‌های میانجی‌گرانه اخیر نیز نتوانسته اختلافات را حل کند. شیلی بزرگ‌ترین تولیدکننده مس در جهان است و ادامه توقف فعالیت در این معدن بزرگ می‌تواند زنجیره تأمین جهانی این فلز سرخ را دچار چالش کند. با وجود اصرار اتحادیه‌ها بر مطالبات خود، شرکت اعلام کرده که پیشنهادات ارائه‌شده منصفانه بوده است. فعالان بازار فلزات تحولات این اعتصاب را به‌دقت زیر نظر دارند، چرا که تداوم آن می‌تواند محرک رشد قیمت جهانی مس شود.",
+    "category": "انرژی و کالا",
+    "subcategory": "فلزات پایه و مس",
+    "tag": "مس",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/no-breakthrough-talks-antofagastas-striking-centinela-copper-mine-unions-say-2026-10-15/",
+    "clean_url": "https://www.reuters.com/business/world-at-work/no-breakthrough-talks-antofagastas-striking-centinela-copper-mine-unions-say-2026-10-15",
+    "image": "https://s.yimg.com/bo/23ea8baf-9b9e-513f-8a4b-75c4375a6a43_1792085908087.jpg",
+    "timestamp": 1792084747.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "83ae343a07",
     "title_fa": "‏کونسورسیوم کوانتومی اروپا از یکنواخت‌سازی کنترل‌های صادراتی می‌طلبد",
     "title_en": "Export controls must not stifle quantum innovation, QuIC warns",
@@ -6575,28 +6597,6 @@
     "clean_url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
     "image": "https://s.yimg.com/bo/abc11de6-4feb-5e49-aa69-a8ce8d185ee1_1791280099023.jpg",
     "timestamp": 1791280478.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "09d0d9fd99",
-    "title_fa": "‏مازاد تجاری کانادا در اوت به ۴٫۲ میلیارد دلار رسید",
-    "title_en": "Canada’s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs",
-    "summary": [
-      "‏مازاد تجاری کالاهای کانادا در اوت به 4.2 میلیارد دلار رسید، از 787 میلیون دلار ماه قبل جهش کرد.",
-      "‏این افزایش ناشی از پیش‌دستی‌های تعرفه‌ای و رشد صادرات به ایالات متحده است که می‌تواند فشار بر تجارت شمال‑آمریکا را نشان دهد.",
-      "‏ماه اوت بزرگ‌ترین مازاد تجاری کانادا در بیش از چهار سال گذشته است."
-    ],
-    "body_fa": "‏آمارهای آمار کانادا نشان داد که مازاد تجاری کالاهای این کشور در ماه اوت به 4.2 میلیارد دلار کانادا (حدود 2.94 میلیارد دلار آمریکا) رسیده است. این رقم در مقایسه با ماه قبل که مازاد تنها 787 میلیون دلار بود، افزایش چشمگیری دارد. رشد صادرات به ایالات متحده، که به‌دلیل پیش‌دستی‌های تعرفه‌ای و انتظار از اعمال تعرفه‌های جدید رخ داده، عامل اصلی این جهش است. این تحولات می‌تواند به تقویت موقعیت تجاری کانادا در مذاکرات تجاری شمال‑آمریکا کمک کند و فشار بر سیاست‌های تعرفه‌ای آمریکا را افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند اگر این روند ادامه یابد، ممکن است تاثیر مثبتی بر ارزش دلار کانادا و بازارهای مالی این کشور داشته باشد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تجارت بین‌المللی",
-    "tag": "مازاد تجاری",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/economy/trade/canadas-august-trade-surplus-widens-sharply-ahead-of-fresh-tariffs-48955372",
-    "clean_url": "https://www.wsj.com/economy/trade/canadas-august-trade-surplus-widens-sharply-ahead-of-fresh-tariffs-48955372",
-    "image": "https://images.wsj.net/im-18323582/social",
-    "timestamp": 1791276480.0,
     "sent_to_telegram": true
   }
 ]
