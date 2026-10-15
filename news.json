@@ -1,5 +1,93 @@
 [
   {
+    "id": "83ae343a07",
+    "title_fa": "‏کونسورسیوم کوانتومی اروپا از یکنواخت‌سازی کنترل‌های صادراتی می‌طلبد",
+    "title_en": "Export controls must not stifle quantum innovation, QuIC warns",
+    "summary": [
+      "‏کونسورسیوم کوانتومی اروپا (QuIC) در یک برگه موقعیتی خواستار هماهنگ‌سازی مجوزهای صادراتی در اتحادیه اروپا شد.",
+      "‏عدم یکنواختی مجوزها مانع رشد شرکت‌های کوانتومی و تجاری‌سازی فناوری‌های نوین می‌شود.",
+      "‏این پیشنهاد به ارزیابی مقررات دو‑استفاده (EU 2021/821) توسط کمیسیون اروپا کمک می‌کند."
+    ],
+    "body_fa": "‏کونسورسیوم کوانتومی اروپا (QuIC) در یک برگه موقعیتی تأکید کرد که تفاوت‌های ملی در صدور مجوزهای صادراتی، مانع پیشرفت شرکت‌های کوانتومی در بازار واحد اروپا شده است. این ناهماهنگی باعث تأخیر در تجاری‌سازی فناوری‌های محاسبه، ارتباط و حسگری کوانتومی می‌شود و به‌ویژه برای شرکت‌های کوچک و متوسط خطرناک است. QuIC پیشنهاد می‌کند که قوانین دو‑استفاده (Regulation (EU) 2021/821) به‌صورت یکسان در تمام کشورهای عضو اجرا شود و روابط تجاری با شرکای معتبر از طریق تبادل مجوزهای ساده‌تر تقویت گردد. همچنین بر نیاز به راهنمایی واضح برای انتقال فناوری‌های ناملموس مانند محاسبهٔ کوانتومی از راه دور و الگوریتم‌های مستقل تأکید شد. هدف نهایی، ایجاد چارچوبی پیش‌بینی‌پذیر و متناسب با اندازهٔ شرکت‌هاست تا نوآوری در حوزهٔ کوانتوم در اروپا تسریع یابد.",
+    "category": "تکنولوژی",
+    "subcategory": "قوانین صادراتی",
+    "tag": "کوانتوم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "quantumzeitgeist",
+    "url": "https://quantumzeitgeist.com/quic-export-controls-must-stifle-quantum/",
+    "clean_url": "https://quantumzeitgeist.com/quic-export-controls-must-stifle-quantum",
+    "image": "https://www.bing.com/th?id=ONUT.NSOCFeKJshmMv7AhKdgu7Q",
+    "timestamp": 1792075014.8366137,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5aa8f00353",
+    "title_fa": "‏اوکراین مراکز داده روسیه را خاموش کرد",
+    "title_en": "Ukraine knocked out Russian data centers. The shutdown revealed how fragile their digital infrastructure is",
+    "summary": [
+      "‏اوکراین با یک حمله موفق، چند مرکز داده بزرگ روسیه را از کار انداخت",
+      "‏این اقدام نشان داد زیرساخت‌های دیجیتال روسیه چقدر آسیب‌پذیر است",
+      "‏حمله می‌تواند خدمات اینترنتی و مالی کشور را مختل کند"
+    ],
+    "body_fa": "‏اوکراین در جریان جنگ جاری با روسیه، یک حمله سایبری هدفمند به یکی از شرکت‌های بزرگ فناوری روسیه انجام داد. این حمله باعث قطع عملکرد چند مرکز داده کلیدی این شرکت شد و سرویس‌های آنلاین مرتبط را برای ساعت‌ها از دسترس خارج کرد. مسئولین اوکراین اعلام کردند این عملیات تنها با یک نفوذ موفق به دست آمد و نشان‌دهنده ضعف ساختار دیجیتال روسیه است. کارشناسان فناوری اطلاعات افزودند که چنین حملات می‌توانند به سرعت خدمات اینترنتی، بانکی و ارتباطی را در مقیاس وسیع مختل کنند. این رویداد احتمالاً فشار بین‌المللی برای تقویت دفاع سایبری روسیه را افزایش خواهد داد و نشانگر گسترش میدان جنگ به فضای دیجیتال است. در عین حال، این اقدام می‌تواند به تحریم‌های بیشتر علیه شرکت‌های فناوری روسیه منجر شود.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات سایبری",
+    "tag": "حمله‌سایبری",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Popular Mechanics on MSN",
+    "url": "https://www.msn.com/en-us/news/other/ukraine-knocked-out-russian-data-centers-the-shutdown-revealed-how-fragile-their-digital-infrastructure-is/ar-AA2ej1YI?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/news/other/ukraine-knocked-out-russian-data-centers-the-shutdown-revealed-how-fragile-their-digital-infrastructure-is/ar-AA2ej1YI",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792074958.6022518,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c697426325",
+    "title_fa": "‏نقل‌ونقل نفت کشتی‑به‑کشتی در سواحل غربی هند رشد کرد",
+    "title_en": "Ship-to-Ship Oil Transfers Surge Off India’s West Coast | OilPrice.com",
+    "summary": [
+      "‏۸۲ محموله معادل ۶۸۰,۰۰۰ بشکه در روز در خلیج کوچت هند منتقل شد.",
+      "‏این تراکم انتقال‌های STS نزدیک تنگه هرمز باعث جابه‌جایی مسیرها به شرق و افزایش ریسک حمل‌ونقل می‌شود.",
+      "‏صادرات نفت خلیج به بازارهای آسیایی برای حفظ جریان، حتی با خطرات مسیر، به این مناطق جدید روی می‌آورد."
+    ],
+    "body_fa": "‏به دلیل شلوغی شدید در مناطق STS نزدیک تنگه هرمز، انتقال‌های کشتی‑به‑کشتی نفت به سمت خلیج کوچت در غرب هند گسترش یافته است. در ماه سپتامبر، ۸۲ محموله معادل حدود ۶۸۰,۰۰۰ بشکه در روز توسط کشتی‌های بزرگ‌تر در این خلیج منتقل شد. این روند نشان می‌دهد که ظرفیت مناطق STS در فجره (امارات) و سوهار (عمان) به حد اشباع رسیده و تولیدکنندگان خلیج برای حفظ صادرات به آسیا به مسیرهای دورتر روی می‌آورند. وارالکا پانت، تحلیلگر ارشد Vortexa ، اشاره کرد ریسک اصلی نه در خود انتقال STS بلکه در خروج نفت از سمت غرب هرمز به این مناطق است. قیمت‌های نفت خاورمیانه نیز به دلیل این ریسک‌ها تنظیم شده؛ برای مثال عراق تخفیف‌های ۳۴.۵۰ و ۳۷ دلار برای بارهای باسره ارائه داده است. این تغییر مسیر می‌تواند تأثیراتی بر قیمت‌های جهانی داشته باشد و نشانگر محدودیت‌های حمل‌ونقل در تنگه هرمز است.",
+    "category": "انرژی و کالا",
+    "subcategory": "حمل‌ونقل نفت",
+    "tag": "STS",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ship-to-Ship-Oil-Transfers-Surge-Off-Indias-West-Coast.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Ship-to-Ship-Oil-Transfers-Surge-Off-Indias-West-Coast.html",
+    "image": "https://s.yimg.com/bo/1c315aa4-8e57-5bf4-83ca-d84d8ff591c7_1792068326852.jpg",
+    "timestamp": 1792067080.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b89e6163f0",
+    "title_fa": "‏TotalEnergies پیش‌بینی سود فوق‌العاده در سه‌ماهه سوم",
+    "title_en": "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar |...",
+    "summary": [
+      "‏TotalEnergies گفت حاشیه پالایش در اروپا در سه‌ماهه سوم به 33.20 دلار در هر بشکه رسید، تقریباً سه برابر سه‌ماهه قبل.",
+      "‏این افزایش حاشیه باعث رشد 2 میلیارد دلاری جریان نقدی پالایش و شیمی و پیش‌بینی سود فوق‌العاده برای شرکت می‌شود.",
+      "‏همچنین قیمت LNG تا 20 ٪ افزایش یافت و تجارت گاز و مایع‌گاز نیز سودآوری را تقویت می‌کند."
+    ],
+    "body_fa": "‏TotalEnergies در به‌روزرسانی تجاری خود اعلام کرد که حاشیه پالایش در اروپا در سه‌ماهه سوم به 33.20 دلار در هر بشکه رسیده است، که تقریباً سه برابر دوره قبلی و چهار برابر سال گذشته است. این افزایش حاشیه باعث رشد 2 میلیارد دلاری جریان نقدی بخش پالایش و شیمی نسبت به سه‌ماهه دوم شده و شرکت انتظار دارد سود فوق‌العاده‌ای را گزارش کند. شرکت همچنین گفت که توانسته است با افزایش 10 ٪ ظرفیت پالایش، حاشیه‌های تاریخی را در اروپا و جهان به‌طور کامل جذب کند. فعالیت‌های تجاری نفتی نیز در این دوره به‌صورت ثابت ادامه داشته و انتظار سودهای تجاری قوی را دارد. علاوه بر این، بخش LNG با افزایش 20 ٪ قیمت متوسط گاز مایع و تقاضای پیش‌بینی‌شده برای زمستان، سودآوری خود را به‌طور قابل‌توجهی ارتقا داده است. نتایج کامل سه‌ماهه سوم در 29 اکتبر منتشر خواهد شد، همان روزی که Shell نیز گزارش مالی خود را ارائه می‌دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "سودهای پالایشی",
+    "tag": "TotalEnergies",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Eyes-Massive-Profit-Windfall-as-Refining-Margins-Soar.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Eyes-Massive-Profit-Windfall-as-Refining-Margins-Soar.html",
+    "image": "https://s.yimg.com/bo/a995986f-deea-5337-8bbc-9dfcb385ce3d_1792061195870.jpg",
+    "timestamp": 1792059880.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ae6b30c313",
     "title_fa": "‏قیمت طلا پس از کاهش دلار و بازدهی اوراق بازگشت",
     "title_en": "Gold Prices Rebound as Dollar and Treasury Yields Ease Despite Higher US...",
@@ -44,6 +132,116 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2766e6dc6b",
+    "title_fa": "‏آمریکا با crackdown بر Pump‑and‑Dump ، اعتراضات داخلی را به‌هم زد",
+    "title_en": "US Pump-and-Dump Crackdown Aimed Abroad Meets Homegrown Protests",
+    "summary": [
+      "‏آمریکا قوانین سخت‌تری برای مبارزه با تقلب‌های Pump‑and‑Dump در بازارهای خارجی تصویب کرد.",
+      "‏این اقدام با تظاهرات و انتقادات داخلی درباره تأثیرات اقتصادی و آزادی‌های تجاری مواجه شد.",
+      "‏نقض قوانین می‌تواند جریمه‌های سنگین و محدودیت‌های دسترسی به بازارها را به‌همراه داشته باشد."
+    ],
+    "body_fa": "‏کمیسیون بورس و اوراق بهادار آمریکا (SEC) مقررات جدیدی برای مبارزه با طرح‌های Pump‑and‑Dump که در صرافی‌های خارجی رمزارزها انجام می‌شود، اعلام کرد. این قوانین شامل جریمه‌های سنگین برای افراد و شرکت‌های متخلف و محدودیت‌های دسترسی به بازارهای بین‌المللی می‌شود. در واکنش به این اقدام، گروه‌های مصرف‌کننده و برخی نمایندگان مجلس در واشنگتن تظاهراتی برگزار کردند و از اثرات منفی این سیاست بر آزادی‌های تجاری و سرمایه‌گذاری داخلی هشدار دادند. منتقدان می‌گویند که تمرکز بر صرافی‌های خارجی می‌تواند دسترسی آمریکاییان به ابزارهای نوین مالی را محدود کند. در عین حال، مقامات نظارتی معتقدند این گام برای حفاظت از سرمایه‌گذاران و حفظ سلامت بازارهای مالی ضروری است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قوانین مالی",
+    "tag": "pump-and-dump",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/us-pump-and-dump-crackdown-aimed-abroad-meets-homegrown-protests",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-15/us-pump-and-dump-crackdown-aimed-abroad-meets-homegrown-protests",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792046820.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7c4eeb4016",
+    "title_fa": "‏هزینه بیمه نکول بدهی شرکت‌های فناوری آمریکا رکورد زد",
+    "title_en": "AI credit jitters drive US tech default insurance to record highs",
+    "summary": [
+      "‏هزینه بیمه در برابر نکول بدهی غول‌های فناوری آمریکا به بالاترین سطح تاریخی خود رسید.",
+      "‏این جهش نشان‌دهنده افزایش فشارهای اعتباری ناشی از سرمایه‌گذاری‌های سنگین پیرامون هوش مصنوعی است.",
+      "‏بیشترین نگرانی سرمایه‌گذاران مربوط به مراکز داده‌ای است که به درآمدهای پیش‌بینی‌شده در آینده وابسته‌اند."
+    ],
+    "body_fa": "‏هزینه بیمه در برابر ورشکستگی و نکول اوراق قرضه شرکت‌های بزرگ فناوری آمریکا به بالاترین سطح تاریخی خود رسیده است. این تحول جدیدترین نشانه از افزایش ریسک و فشارهای اعتباری ناشی از تب سرمایه‌گذاری در زیرساخت‌های هوش مصنوعی به شمار می‌رود. وال‌استریت و بازارهای اعتباری به‌ویژه نگران بدهی‌های سنگین دیتاسنترهایی هستند که پروژه‌های خود را بر مبنای درآمدهای احتمالی در آینده استقراض کرده‌اند. افزایش بی‌سابقه نرخ اوراق مشتقه پوشش ریسک نکول نشان می‌دهد که خوش‌بینی اولیه پیرامون بازدهی زودهنگام سرمایه‌گذاری‌های سنگین این شرکت‌ها در حال کاهش است. تداوم این وضعیت می‌تواند دسترسی به منابع مالی ارزان را برای توسعه زیرساخت‌های پردازشی این صنعت دشوارتر کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "اوراق بدهی و اعتبارات",
+    "tag": "بدهی هوش مصنوعی",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/global-markets-cds-ai-urgent-2026-10-15/",
+    "clean_url": "https://www.reuters.com/business/media-telecom/global-markets-cds-ai-urgent-2026-10-15",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792046400.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "387d3f8a43",
+    "title_fa": "‏بانک Bank of New York سود خالص را افزایش داد",
+    "title_en": "Bank of New York Logs Higher Profit But Flags Market Volatility",
+    "summary": [
+      "‏بانک Bank of New York در سه ماهه سوم ۱٫۶۱ میلیارد دلار سود خالص ثبت کرد",
+      "‏سود هر سهم به ۲٫۳۴ دلار رسید که نسبت به سال قبل رشد داشت",
+      "‏بانک همچنین هشدار داد که نوسان بازار ادامه خواهد یافت"
+    ],
+    "body_fa": "‏بانک Bank of New York در گزارش مالی سه ماهه سوم سال ۲۰۲۶، سود خالص قابل تخصیص به سهامداران را به ۱٫۶۱ میلیارد دلار (۲٫۳۴ دلار به ازای هر سهم) ارتقا داد. این رقم در مقایسه با دوره مشابه سال قبل که ۱٫۳۴ میلیارد دلار (۱٫۸۸ دلار به ازای هر سهم) بود، افزایش قابل توجهی نشان می‌دهد. رشد سود نشان‌دهنده بهبود عملکرد بانک در شرایط اقتصادی ناپایدار است. با این حال، مدیریت بانک هشدار داد که نوسان بازارهای مالی همچنان بالا باقی می‌ماند و ممکن است بر نتایج آینده تأثیر بگذارد. این اظهارنظر می‌تواند برای سرمایه‌گذاران و تحلیل‌گران بازارهای سهام و اوراق قرضه مهم باشد. در مجموع، این نتایج نشان از توانایی بانک در حفظ سودآوری در برابر فشارهای اقتصادی دارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش مالی بانک",
+    "tag": "BNY",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/business/earnings/bank-of-new-york-mellon-logs-higher-profit-sales-a622dae6",
+    "clean_url": "https://www.wsj.com/business/earnings/bank-of-new-york-mellon-logs-higher-profit-sales-a622dae6",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792046160.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7f0f263df6",
+    "title_fa": "‏حسابرس نیویورک از Anthropic خواست IPO را متوقف کند",
+    "title_en": "NYC Comptroller Calls for Anthropic to Pause IPO for AI Safety",
+    "summary": [
+      "‏حسابرس شهر نیویورک از شرکت هوش مصنوعی Anthropic درخواست کرد عرضه عمومی سهام (IPO) را به دلیل نگرانی‌های ایمنی هوش مصنوعی متوقف کند.",
+      "‏این درخواست می‌تواند زمان‌بندی عرضه را به تعویق بیندازد و نگرانی‌های سرمایه‌گذاران درباره ریسک‌های فناوری پیشرفته را تشدید کند.",
+      "‏حسابرس به ضرورت ایجاد چارچوب‌های نظارتی قوی برای هوش مصنوعی پیشرفته اشاره کرد."
+    ],
+    "body_fa": "‏حسابرس شهر نیویورک، براد لندر، در بیانیه‌ای اعلام کرد که شرکت هوش مصنوعی Anthropic باید عرضه عمومی سهام (IPO) خود را تا بررسی‌های دقیق ایمنی هوش مصنوعی به تعویق بیندازد. او اشاره کرد که رشد سریع مدل‌های زبانی بزرگ خطرات جدی برای جامعه ایجاد می‌کند و نیاز به چارچوب‌های نظارتی قوی دارد. این درخواست در حالی مطرح شد که Anthropic برنامه دارد تا پایان سال جاری در بورس نیویورک فهرست شود. اگرچه این درخواست یک اقدام سیاسی است و نه قانونی، اما می‌تواند فشار بر سرمایه‌گذاران و نهادهای نظارتی برای بررسی بیشتر ایمنی ایجاد کند. کارشناسان پیش‌بینی می‌کنند تاخیر در IPO ممکن است ارزش بازار شرکت را در کوتاه‌مدت تحت فشار قرار دهد. در عین حال، این حرکت نشان می‌دهد که نگرانی‌های ایمنی هوش مصنوعی به‌سرعت به موضوعی کلان برای سیاست‌گذاران تبدیل می‌شود.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/nyc-comptroller-calls-for-anthropic-to-pause-ipo-for-ai-safety",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-15/nyc-comptroller-calls-for-anthropic-to-pause-ipo-for-ai-safety",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792044720.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "72902d9fb0",
+    "title_fa": "‏گوگل سبد خرید «یونیورسال» را پیش از تعطیلات رونمایی کرد",
+    "title_en": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+    "summary": [
+      "‏گوگل ابزار سبد خرید هوش مصنوعی «یونیورسال» را در ایالات متحده از طریق برنامه Gemini و جستجوی گوگل عرضه کرد.",
+      "‏این سبد یکپارچه به کاربران امکان ذخیره محصولات چند فروشنده، دریافت اعلان قیمت و پرداخت با Google Wallet را می‌دهد.",
+      "‏قابل ادغام با Gmail و YouTube است اما زمان‌بندی آن هنوز اعلام نشده."
+    ],
+    "body_fa": "‏گوگل سبد خرید دیجیتال «یونیورسال» را که با هوش مصنوعی کار می‌کند، به‌صورت عمومی در ایالات متحده فعال کرد. این ابزار از طریق برنامه Gemini و حالت AI جستجوی گوگل قابل دسترسی است و می‌تواند محصولات مختلف از فروشگاه‌های گوناگون را در یک سبد مشترک ذخیره کند. کاربران اعلان‌های قیمت‌پایین، موجودی مجدد و کدهای تخفیف مرتبط را دریافت می‌کنند و می‌توانند با Google Wallet پرداخت کنند یا کالاها را به سبد فروشنده منتقل کنند. سبد خرید همچنین با تجزیه و تحلیل مزایای کارت‌های اعتباری ذخیره‌شده، بهترین روش پرداخت را پیشنهاد می‌دهد. گوگل قصد دارد این سرویس را به Gmail و YouTube گسترش دهد، اگرچه زمان‌بندی دقیق هنوز مشخص نشده است. این حرکت در رقابتی است که OpenAI ، Meta و Shopify نیز با ارائه دستیارهای هوش مصنوعی برای خرید آنلاین وارد آن شده‌اند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی خرید",
+    "tag": "GoogleCart",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+    "clean_url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "timestamp": 1792044000.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "6e74c410e6",
     "title_fa": "‏نفت افت کرد؛ ترامپ لغو تحریم ناوهای سایه را می‌اندیشد",
     "title_en": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers |...",
@@ -63,6 +261,50 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Considers-Easing-Sanctions-on-Shadow-Fleet-Tankers.html",
     "image": "https://s.yimg.com/bo/090ff1a2-addc-5436-a113-8072d91d3d42_1792042416115.jpg",
     "timestamp": 1792041481.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5653078557",
+    "title_fa": "‏آمازون هوش مصنوعی Bee را با ۷۵ دلار عرضه کرد",
+    "title_en": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "summary": [
+      "‏آمازون دو محصول جدید هوش مصنوعی شخصی Bee یعنی Frontier و Eclipse را معرفی کرد؛ قیمت‌ها از ۷۴٫۹۹ تا ۹۹٫۹۹ دلار است.",
+      "‏این دستگاه‌ها می‌توانند مکالمات را ضبط، خلاصه و به کارهای قابل اجرا تبدیل کنند و با اشتراک Bee Pro امکانات پیشرفته‌تری ارائه می‌دهند.",
+      "‏Bee Frontier به‌صورت دست‌بند یا گیره لباس و Bee Eclipse به‌صورت کارت‌هوشمند به پشت گوشی متصل می‌شود."
+    ],
+    "body_fa": "‏آمازون پس از خرید Bee در سال گذشته، دو محصول جدید هوش مصنوعی شخصی را معرفی کرد. دستگاه اول به نام Bee Frontier می‌تواند به‌صورت دست‌بند یا گیره بر لباس نصب شود و از ۷۴٫۹۹ دلار قیمت دارد. دستگاه دوم Bee Eclipse به‌صورت کارت‌هوشمند به پشت گوشی چسبانده می‌شود و با ۹۹٫۹۹ دلار عرضه می‌شود. هر دو محصول می‌توانند گفت‌وگوها را به‌صورت لحظه‌ای پردازش کرده، خلاصه و نکات قابل اجرا استخراج کنند. با اشتراک ماهانه ۱۱٫۹۹ دلار، کاربران به خلاصه‌های نامحدود، یکپارچه‌سازی با Amazon.com و Alexa+ و دستیار چت شخصی دست می‌یابند. این دستگاه‌ها از معماری امنیتی خصوصی استفاده می‌کنند که صوت را در زمان واقعی پردازش و حذف می‌کند و فقط متن رمزگذاری‌شده را ذخیره می‌کند.",
+    "category": "تکنولوژی",
+    "subcategory": "دستگاه‌های هوش مصنوعی",
+    "tag": "Bee",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "clean_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+    "timestamp": 1792040400.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "24e67f47e9",
+    "title_fa": "‏قاضیان سوئیس درخواست پاداش بانک‌داران Credit Suisse را رد کردند",
+    "title_en": "Credit Suisse Bankers Lose Final Bid to Win Back Bonuses at Swiss Top Court",
+    "summary": [
+      "‏بانک‌داران Credit Suisse پس از درخواست در دادگاه عالی سوئیس، نتوانستند پاداش‌های خود را بازپس گیرند",
+      "‏این تصمیم می‌تواند فشار بر سیاست‌های جبران خسارت بانکی و هزینه‌های حقوقی را افزایش دهد",
+      "‏قاضیان به این نتیجه رسیدند که بانک‌داران حق قانونی برای دریافت این پاداش‌ها ندارند"
+    ],
+    "body_fa": "‏دادگاه عالی سوئیس در آخرین درخواست بانک‌داران Credit Suisse برای بازپس‌گیری پاداش‌های توقیف‌شده پس از فروپاشی بانک در سال 2023 ، حکم رد آن را صادر کرد. دادگاه استدلال کرد که این پاداش‌ها به‌دلیل وضعیت مالی بحرانی بانک، تعهد قراردادی محسوب نمی‌شوند. این حکم نشان‌دهندهٔ نظارت سختگیرانه‌تر بر جبران خسارت در بخش بانکی است و می‌تواند پیش‌نمونه‌ای برای پرونده‌های مشابه باشد. علاوه بر این، هزینه‌های حقوقی Credit Suisse در چارچوب بازسازی و تنظیمات مالی‌اش افزایش می‌یابد. تحلیل‌گران معتقدند که اگرچه این تصمیم به‌طور مستقیم ترازنامه بانک را تحت‌تأثیر قرار نمی‌دهد، اما فضای نظارتی سوئیس را برای بانک‌های بزرگ محدودتر می‌کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قضایای مالی",
+    "tag": "پاداش",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/credit-suisse-bankers-lose-final-bid-to-win-back-bonuses-at-swiss-top-court",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-15/credit-suisse-bankers-lose-final-bid-to-win-back-bonuses-at-swiss-top-court",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792040040.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +396,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "ed7f9ba024",
+    "title_fa": "‏اوفیس Comptroller محدودیت‌های بانکی بر دارایی‌های دیجیتال را کاهش داد",
+    "title_en": "OCC says major banks are easing digital asset restrictions, with limits",
+    "summary": [
+      "‏اوفیس Comptroller گزارش داد که بانک‌های بزرگ آمریکا محدودیت‌های خود بر شرکت‌های دارایی دیجیتال را کاهش دادند",
+      "‏این می‌تواند دسترسی این شرکت‌ها به خدمات بانکی را بهبود بخشد و رشد صنعت کریپتو را تسهیل کند",
+      "‏همچنین برخی محدودیت‌ها همچنان باقی مانده و تصمیمات بیشتر بر ریسک شهرتی است"
+    ],
+    "body_fa": "‏اوفیس Comptroller در گزارشی منتشر شده در ۱۴ اکتبر، بررسی خود را از نه بانک ملی بزرگ ایالات متحده شامل JPMorgan Chase ، Bank of America ، Citibank ، Wells Fargo ، U.S. Bank ، Capital One ، PNC Bank ، TD Bank و BMO Bank ارائه داد. این بررسی دوره‌ای از سال ۲۰۲۰ تا سپتامبر ۲۰۲۵ شامل بررسی نزدیک به ۱۰۰,۰۰۰ شکایت و حدود ۴۲۰,۰۰۰ صفحه اسناد بانکی بود. نتایج نشان داد که این بانک‌ها به دلایل ریسک مالی‌جرم و به‌ویژه خطر پولشویی، سیاست‌های محدودکننده‌ای برای شرکت‌های دارایی دیجیتال اعمال کرده‌اند، اما بسیاری از این محدودیت‌ها به‌تازگی در چارچوب بازنگری‌های داخلی کاهش یافته‌اند. با این حال، برخی محدودیت‌ها همچنان باقی مانده و مقامات نظارتی به دشواری در تعیین دقیق میزان «دِبنکینگ» در سیستم بانکی اشاره کردند. این گزارش پس از فرمان اجرایی آگوست ۲۰۲۵ رئیس‌جمهور ترامپ برای مقابله با اعمال محدودیت‌های ناعادلانه بانکی منتشر شد و نشان‌دهنده تغییر رویکرد نسبت به ریسک شهرتی نسبت به ریسک واقعی مالی است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین بانکی",
+    "tag": "OCC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/",
+    "clean_url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/15054008/library-occ-says-major-banks-are-easing-digital-asset-restrictio-800x450.png",
+    "timestamp": 1792032000.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "66f289e4df",
     "title_fa": "‏فیوچرز Nasdaq ۱٪ سقوط کرد؛ ریزش AI ادامه دارد",
     "title_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
@@ -173,6 +437,28 @@
     "clean_url": "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792027320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c4b61caf8d",
+    "title_fa": "‏سودهای TSMC به‌دلیل تقاضای هوش مصنوعی افزایش یافت",
+    "title_en": "Chipmaker TSMC profits surge amid relentless AI demand",
+    "summary": [
+      "‏سود خالص شرکت TSMC در سه ماهه اخیر به‌طور چشمگیری رشد کرد",
+      "‏این افزایش به‌واسطه تقاضای بی‌وقفه برای تراشه‌های هوش مصنوعی بود",
+      "‏افزایش سود می‌تواند سرمایه‌گذاران را به سمت سهام این تولیدکننده جذب کند"
+    ],
+    "body_fa": "‏شرکت پیشرو در ساخت تراشه‌های نیمه‌رسانا، TSMC ، گزارش داد که سود خالص خود را در دوره مالی اخیر به‌طور قابل توجهی افزایش داده است. این رشد عمدتاً ناشی از تقاضای مستمر و رو به رشد برای پردازنده‌های مخصوص هوش مصنوعی است که در مراکز داده و سرورهای پیشرفته استفاده می‌شوند. تقاضای شدید این نوع تراشه‌ها باعث شد تا سفارشات جدید به سرعت افزایش یابد و ظرفیت تولید شرکت به حداکثر برسد. نتایج مثبت مالی می‌تواند باعث جذب سرمایه‌گذاران به سهام TSMC شود و فشار خرید بر روی بازارهای فناوری را تقویت کند. این تحولات نشان می‌دهد که تقاضای هوش مصنوعی به‌عنوان یک محرک کلیدی برای رشد شرکت‌های نیمه‌رسانا تبدیل شده است.",
+    "category": "تکنولوژی",
+    "subcategory": "نیمه‌رسانا",
+    "tag": "TSMC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792021500.0,
     "sent_to_telegram": true
   },
   {
@@ -6311,292 +6597,6 @@
     "clean_url": "https://www.wsj.com/economy/trade/canadas-august-trade-surplus-widens-sharply-ahead-of-fresh-tariffs-48955372",
     "image": "https://images.wsj.net/im-18323582/social",
     "timestamp": 1791276480.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3c6235113f",
-    "title_fa": "‏وِلز فارگو هدف متا را به ۱۰۰۰ دلار ارتقا داد",
-    "title_en": "Muse has been a boon for Meta. It can soar much higher, Wells Fargo says",
-    "summary": [
-      "‏وِلز فارگو هدف سهام متا را از ۷۹۶ دلار به ۱۰۰۰ دلار افزایش داد.",
-      "‏تحلیل‌گر گاورلسکی انتظار رشد ۳۵٪ قیمت و درآمدهای هوش مصنوعی از محصول Muse را دارد.",
-      "‏Muse پس از عرضه در سپتامبر، جایگاه اول اپلیکیشن‌های رایگان اپ استور را به خود اختصاص داد."
-    ],
-    "body_fa": "‏وِلز فارگو هدف قیمت هدفی برای سهام متا تعیین کرد و آن را از ۷۹۶ دلار به ۱۰۰۰ دلار ارتقا داد. تحلیل‌گر کین گاورلسکی معتقد است که موفقیت هوش مصنوعی عامل Muse می‌تواند باعث رشد حدود ۳۵٪ قیمت سهام نسبت به بسته شدن روز دوشنبه شود. او پیش‌بینی می‌کند که دوره مالی ۲۰۲۷ نقطه پایینی درآمدهای محصول جدید باشد، مشابه شروع Reels در سال ۲۰۲۲، اما با پتانسیل بزرگ‌تر. پس از عرضه Muse در ۸ سپتامبر، این برنامه به سرعت به صدر فهرست اپلیکیشن‌های رایگان در اپ استور اپل رسید و سهام متا حدود ۲۰٪ افزایش یافت. گاورلسکی انتظار دارد که در سال‌های ۲۰۲۸ و پس از آن، درآمدهای هوش مصنوعی به‌تدریج به‌سهمی مثبت در رشد شرکت تبدیل شوند. این هدف قیمت یکی از بالاترین پیش‌بینی‌های تحلیل‌گران برای متا است و ۵۶ از ۶۳ تحلیل‌گر دیگر نیز نظرات مثبت دارند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سهام فناوری",
-    "tag": "Meta",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/viral-ai-agent-muse-boon-for-meta-stock-soar-higher-wells-fargo.html",
-    "clean_url": "https://www.cnbc.com/2026/10/06/viral-ai-agent-muse-boon-for-meta-stock-soar-higher-wells-fargo.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108367778-1790285251560-gettyimages-2296314920-META_CONNECT.jpeg?v=1790285330&w=1920&h=1080",
-    "timestamp": 1791275460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e0ee82e93e",
-    "title_fa": "‏استودیو Undead Labs درباره اضطراب State of Decay 3 گفت",
-    "title_en": "State of Decay 3 Was Revealed Early Partly Because of the Studio Boss' Anxiety Around Xbox's Plans",
-    "summary": [
-      "‏اعلام زودهنگام State of Decay 3 به دلیل نگرانی رئیس Undead Labs از ادغام یا فروش توسط Xbox.",
-      "‏این موضوع فشارهای خریدهای مداوم مایکروسافت بر استودیوهای کوچک و برنامه‌ریزی انتشار بازی‌ها را نشان می‌دهد.",
-      "‏بازی در حال توسعه است و روز عرضه در Game Pass خواهد بود."
-    ],
-    "body_fa": "‏در مصاحبه‌ای با The Game Business ، رئیس سابق Undead Labs ، Holt ، گفت که اضطراب از این‌که استودیو قبل از معرفی رسمی بازی توسط Xbox «بلعیده یا واگذار» شود، باعث شد State of Decay 3 زودتر از موعد اعلام شود. این بازی در سال 2020 ، دو سال پس از انتشار State of Decay 2 ، در یک نمایش Xbox معرفی شد، در حالی که تیم توسعه‌ای کوچک در سال 2020 کار می‌کرد و تا سال 2023 به‌طور جدی پیشرفت نکرد. مایکروسافت در سال 2018 استودیوهای Undead Labs ، PlayGround Games ، Ninja Theory و Compulsion Games را خریداری کرد و اخیراً Undead Labs ماه گذشته مستقل شد؛ در همین حین تعدادی از کارکنان استودیو اخراج شدند. Holt افزود که State of Decay 2 به‌عنوان آزمایشگاهی برای ایده‌های State of Decay 3 عمل کرده و توسعه بازی همچنان ادامه دارد. بازی روز عرضه در سرویس Game Pass در دسترس خواهد بود.",
-    "category": "گیم",
-    "subcategory": "اخبار استودیو",
-    "tag": "State of Decay 3",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/state-of-decay-3-revealed-early-anxiety-xbox",
-    "clean_url": "https://www.ign.com/articles/state-of-decay-3-revealed-early-anxiety-xbox",
-    "image": "https://assets-prd.ignimgs.com/2024/06/04/stateofdecay-1595521281669-1662408473018-1717509269199.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "timestamp": 1791274260.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a63f796eac",
-    "title_fa": "‏وینکلِووس برای ETF زکش با کارمزد 0.25% درخواست داد",
-    "title_en": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
-    "summary": [
-      "‏گروه وینکلِووس یک ETF زکش با کارمزد سالانه 0.25% و نماد WINK در Nasdaq ثبت کرد.",
-      "‏این صندوق می‌تواند رقابت جدیدی برای ETF زکش Grayscale ایجاد کند و تا 100 میلیون دلار سرمایه‌گذاری جذب کند.",
-      "‏Gemini به عنوان نگهدارنده رسمی زکش انتخاب شد."
-    ],
-    "body_fa": "‏وینکلِووس آسِت سرویسز پرونده پیش‌ثبت S‑1 را برای یک ETF زکش (ZEC) در بورس Nasdaq ارائه داد. صندوق پیشنهادی مستقیماً ZEC را نگهداری می‌کند، Gemini Trust Company به عنوان نگهدارنده انتخاب شده و کارمزد سالانه 0.25% دریافت می‌کند. نماد معاملاتی این ETF «WINK» خواهد بود و وینکلِووس کپیتال فاند اعلام کرد تا 100 میلیون دلار سهام به‌صورت غیرمتعهد خریداری می‌کند. این طرح سومین تلاش برای راه‌اندازی ETF زکش در ایالات متحده پس از Grayscale و Bitwise است و می‌تواند فشار رقابتی بر ZCSH ایجاد کند. همچنین وینکلِووس با Cypherpunk Technologies برای حمایت از توسعه پروتکل زکش و نظرسنجی دارندگان سکه همکاری کرده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ETF زکش",
-    "tag": "Zcash",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
-    "clean_url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/03/winklevoss-twins-news.png",
-    "timestamp": 1791274140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9792feca3e",
-    "title_fa": "‏ایالات متحده بمباران‌ها را تهدید پهپاد ایران از بریتانیا برداشت",
-    "title_en": "Iran drone plot fears led US to remove bombers from UK base, US officials say",
-    "summary": [
-      "‏ایالات متحده به‌دلیل ترس از طرح پهپاد ایران، بمباران‌های خود را از پایگاه هوایی در بریتانیا برداشت.",
-      "‏این اقدام نشان‌دهنده تشدید تنش‌های نظامی بین آمریکا و ایران است و می‌تواند روابط دفاعی آمریکا‑انگلستان را تحت فشار قرار دهد.",
-      "‏سخنگوی وزارت دفاع آمریکا گفت این تصمیم بر پایه اطلاعات هوشمندانه درباره تهدیدات پهپادی اتخاذ شده است."
-    ],
-    "body_fa": "‏ایالات متحده به‌دلیل نگرانی از طرح پهپادهای ایرانی، بمباران‌های استراتژیک خود را از پایگاه هوایی در بریتانیا برداشت. مقامات نظامی آمریکا اعلام کردند این تصمیم بر پایه اطلاعاتی است که نشان می‌دهد تهدیدات پهپادی می‌توانند عملیات هوایی را به خطر اندازند. حذف این هواپیماها نشان‌دهنده تشدید تنش‌های نظامی بین واشنگتن و تهران است و ممکن است روابط دفاعی میان آمریکا و متحدان اروپایی‌اش را تحت فشار قرار دهد. در عین حال، بریتانیا هنوز به حضور دیگر نیروهای نظامی آمریکا در خاک خود ادامه می‌دهد. این حرکت می‌تواند بازارهای دفاعی و انرژی را تحت تأثیر قرار دهد، زیرا افزایش تنش‌های خاورمیانه معمولاً نوسان قیمت نفت را تحریک می‌کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "امنیت نظامی",
-    "tag": "بمباران",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/iran-drone-plot-fears-led-us-remove-bombers-uk-base-us-officials-say-2026-10-06/",
-    "clean_url": "https://www.reuters.com/world/uk/iran-drone-plot-fears-led-us-remove-bombers-uk-base-us-officials-say-2026-10-06",
-    "image": "https://www.reuters.com/resizer/v2/X2UJDOCGURMZNCUNO4E3L3G5AU.jpg?auth=91fd3adec267ac7ef802b0ae3be878660313971a6c15efab7102fd782d30fb75&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1791272820.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "238d2f8489",
-    "title_fa": "‏پارامونت و WBD ادغام 110 میلیارد دلاری را تکمیل کردند",
-    "title_en": "Paramount and Warner Bros. Discovery complete $110 billion media megamerger",
-    "summary": [
-      "‏پارامونت خرید Warner Bros. Discovery به ارزش 110 میلیارد دلار را نهایی کرد و شرکت Skydance شکل گرفت.",
-      "‏این ادغام بزرگ بازار رسانه‌ها را تغییر می‌دهد، رقابت با Netflix و Disney را تقویت می‌کند و نگرانی‌های ضد انحصار را برانگیخته است.",
-      "‏معامله شامل تعهد به تولید حداقل 30 فیلم در دو سال اول و هزینهٔ اضافی 300 میلیون دلاری در ایالات متحده است."
-    ],
-    "body_fa": "‏پارامونت خرید Warner Bros. Discovery به ارزش 110 میلیارد دلار را نهایی کرد و شرکت جدیدی به نام Skydance شکل گرفت. این ادغام شامل استودیوهای فیلم‌سازی بزرگ، شبکه‌های تلویزیونی همچون HBO ، CBS News و CNN و سرویس‌های استریمینگ می‌شود. پس از ماه‌ها مبارزه با Netflix و اعتراضات قانون‌گذاران، پارامونت توانست با حل دعوی ضد انحصاری 12 ایالت، موانع قانونی را برطرف کند. به‌موجب توافق، Skydance باید در پنج سال آینده حداقل 30 فیلم سینمایی در سال‌های اول تولید کند و هزینهٔ تولید خود را نسبت به سال گذشته حداقل 300 میلیون دلار در آمریکا افزایش دهد. این ترکیب قدرت جدید می‌تواند رقابت در بازار جهانی محتوا را تقویت کند و فشار بیشتری بر رقبای اصلی مانند Disney و Netflix وارد آورد. در عین حال، نگرانی‌ها دربارهٔ تمرکز بیش از حد رسانه‌ها و تأثیر آن بر تنوع محتوا و قیمت‌های اشتراک باقی مانده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ادغام رسانه‌ای",
-    "tag": "پارامونت-وارنر",
-    "urgency": 9,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed",
-    "clean_url": "https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_B.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-    "timestamp": 1791268320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4c5b02eb65",
-    "title_fa": "‏کسر تجاری آمریکا در آگوست به ۱۰۵.۶ میلیارد دلار رسید",
-    "title_en": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-    "summary": [
-      "‏کسر تجاری ایالات متحده در ماه آگوست به ۱۰۵.۶ میلیارد دلار افزایش یافت",
-      "‏این بیشترین کسری از مارس ۲۰۲۵ است و باعث کاهش پیش‌بینی رشد GDP سه‌ماهه شد",
-      "‏واردات به‌خصوص کالاهای مرتبط با هوش مصنوعی ۴.۳٪ رشد کرد"
-    ],
-    "body_fa": "‏وزارت تجارت آمریکا اعلام کرد که کسری تجاری در ماه آگوست به ۱۰۵.۶ میلیارد دلار رسید، که ۱۳.۷٪ نسبت به ژوئیه افزایش دارد و بالاتر از پیش‌بینی ۱۰۲ میلیارد دلار بود. این رقم بزرگ‌ترین کسری ماهانه از مارس ۲۰۲۵، پیش از اعلام تعرفه‌های متقابل ترامپ، به شمار می‌آید. واردات در این دوره ۴.۳٪ رشد کرد و بخش‌های مرتبط با ساخت هوش مصنوعی سهم عمده‌ای داشتند، در حالی که کسری سالانه تا کنون به ۱۳۸.۲ میلیارد دلار کاهش ۲۰٪ YoY داشته است. اقتصاددانان معتقدند این افزایش نشانگر تقاضای داخلی قوی است، اما به‌همین دلیل پیش‌بینی رشد GDP سه‌ماهه توسط Goldman Sachs به ۳.۱٪ و توسط فدرال رزرو آتلانتا به ۳.۷٪ کاهش یافت. این داده‌ها می‌توانند فشار بر رشد اقتصادی در سه‌ماهه سوم ایجاد کنند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تجارت بین‌المللی",
-    "tag": "کسر تجاری",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "clean_url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&w=1920&h=1080",
-    "timestamp": 1791266820.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5e151ccd95",
-    "title_fa": "‏آربیتراوم به Global Dollar پیوست؛ از دلار دیجیتال سود می‌گیرد",
-    "title_en": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-    "summary": [
-      "‏آربیتراوم، لایه‑۲ اتریوم، استیبل‌کوین USDG صادر شده توسط Paxos را به اکوسیستم DeFi خود افزود.",
-      "‏این همکاری به آربیتراوم امکان دریافت بخشی از درآمد ذخایر استیبل‌کوین‌ها و تقویت نقشش در بازار دلار دیجیتال می‌دهد.",
-      "‏شبکه Global Dollar با بیش از 150 شریک، از جمله Kraken و Mastercard ، به توزیع پاداش‌های ذخیره USDG می‌پردازد."
-    ],
-    "body_fa": "‏آربیتراوم، لایه‑۲ مقیاس‌پذیر اتریوم، استیبل‌کوین USDG صادر شده توسط Paxos را به بستر DeFi خود اضافه کرد. این توکن جدید در پلتفرم‌های مختلفی از جمله Morpho ، GMX ، Fluid و Maple یکپارچه شده و Kraken راه‌های ورودی و خروجی را فراهم می‌کند. با حضور در شبکه Global Dollar ، آربیتراوم می‌تواند بخشی از درآمدهای ذخیره‌های USDG را به عنوان پاداش به شرکای خود توزیع کند و از رشد استیبل‌کوین‌های موجود بر روی زنجیره‌اش بهره‌مند شود. در حال حاضر حدود ۳٫۸ میلیارد دلار استیبل‌کوین در آربیتراوم گردش دارد که حدود ۶۰٪ آن متعلق به USDC سیرکل است. پیشنهاد حکومتی نیز برای افزودن ۱۰۰ میلیون ARB به برنامه DRIP و استفاده از دارایی‌های خزانه برای حمایت از نقدینگی USDG مطرح شده است. این گام نشان‌دهنده تقویت رقابت بین کنسرسیوم‌های استیبل‌کوین برای جذب کاربران و توزیع اقتصادی در فضای دیجیتال است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "استیبل‌کوین",
-    "tag": "USDG",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-    "clean_url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2617f5fb4a186cef3a6ec88dad9df90c0cee0029-1920x1080.jpg?auto=format&q=75",
-    "timestamp": 1791266520.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b8870e9d66",
-    "title_fa": "‏کپیتان‌ها ماهانه ۱۰۰٬۰۰۰ دلار برای عبور تنگه هرمز دریافت کردند",
-    "title_en": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
-    "summary": [
-      "‏کپیتان‌های کشتی‌ها برای عبور از تنگه هرمز ماهانه ۱۰۰٬۰۰۰ دلار دریافت کردند",
-      "‏این هزینهٔ خطر بالا می‌تواند هزینه حمل‌ونقل نفت و کالاها را افزایش دهد",
-      "‏به‌دلیل تنش‌های منطقه‌ای و تهدیدات امنیتی این مبلغ پرداخت می‌شود"
-    ],
-    "body_fa": "‏به گزارش Financial Times ، کپیتان‌های کشتی‌های عبوری از تنگه هرمز ماهانه ۱۰۰٬۰۰۰ دلار دریافت می‌کنند. این مبلغ به‌عنوان حق‌الزحمهٔ خطر برای عبور از یکی از مهم‌ترین مسیرهای نفتی جهان پرداخت می‌شود. افزایش هزینهٔ عبور می‌تواند نرخ حمل‌ونقل نفت و کالاهای دیگر را بالا برده و فشار بر قیمت‌های جهانی را تقویت کند. این پرداخت‌ها نشانگر تشدید تنش‌های ژئوپلیتیک در منطقه و نگرانی‌های امنیتی پیرامون تنگه هرمز است. اگر این روند ادامه یابد، ممکن است شرکت‌های حمل‌ونقل مسیرهای جایگزین یا هزینه‌های بالاتر را به مشتریان منتقل کنند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "هزینه عبور",
-    "tag": "هزینه‌کپیتان",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4c7c2b48-a025-48b9-9c64-9f6bbb8442cc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-    "timestamp": 1791266400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7a44a004a6",
-    "title_fa": "‏نینجا‌تئوری پس از عدم فروش، اخراج و احتمال بسته شدن",
-    "title_en": "Ninja Theory Starts Layoffs as Xbox Faces Proposed Studio Closure",
-    "summary": [
-      "‏نینجا‌تئوری، استودیوی بریتانیایی مایکروسافت، اخراج گسترده‌ای را آغاز کرد",
-      "‏این اقدام پس از عدم موفقیت در فروش استودیو و احتمال بسته شدن آن توسط Xbox است",
-      "‏این خبر می‌تواند برنامه‌های آینده مانند Hellblade را تحت تأثیر قرار دهد"
-    ],
-    "body_fa": "‏استودیوی بریتانیایی Ninja Theory که تحت مالکیت Xbox است، امروز اعلام کرد که به دلیل عدم موفقیت در فروش به خریداران خارجی، برنامه‌ریزی برای اخراج گسترده کارکنان دارد. این تصمیم پس از بررسی‌های مایکروسافت برای احتمال بسته شدن استودیو اتخاذ شد. اخراج‌ها به بخش‌های مختلف از جمله توسعه، هنر و پشتیبانی گسترش یافته است. این خبر می‌تواند برنامه‌های آینده Ninja Theory ، به‌ویژه ادامه سری Hellblade ، را به خطر اندازد. بازار بازی‌های ویدئویی واکنشی محدود نشان داد، اما این حرکت نشان‌دهنده فشار مالی مایکروسافت بر استودیوهای غیرسودآور است.",
-    "category": "گیم",
-    "subcategory": "اخبار استودیو",
-    "tag": "Ninja Theory",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "LatestLY",
-    "url": "https://www.latestly.com/gaming/ninja-theory-starts-layoffs-as-xbox-faces-proposed-studio-closure-7634775.html",
-    "clean_url": "https://www.latestly.com/gaming/ninja-theory-starts-layoffs-as-xbox-faces-proposed-studio-closure-7634775.html",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791260700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e25692b83d",
-    "title_fa": "‏قانون پیشنهادی برای ممنوعیت شرط‌بندی کاندیداهای فدرال در انتخابات",
-    "title_en": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
-    "summary": [
-      "‏نماینده Don Davis لایحه‌ای برای ممنوع کردن معامله قراردادهای پیش‌بینی مرتبط با انتخابات خود کاندیداها معرفی کرد.",
-      "‏لایحه با جرمانۀ حداقل 10,000 دلار یا سه برابر سود خالص، هدف جلوگیری از دست‌کاری بازار و معاملات داخلی است.",
-      "‏در آوریل، پلتفرم Kalshi سه کاندیدا را به دلیل شرط‌بندی در مسابقه خود پنج سال مسدود کرد."
-    ],
-    "body_fa": "‏نماینده Don Davis (د-ن.ک.) روز دوشنبه لایحه‌ای به نام \"No Betting on Your Own Race Act\" معرفی کرد که کاندیداهای فدرال، همسران، فرزندان وابسته و کمیته‌های انتخاباتی مجاز را از معامله قراردادهای پیش‌بینی مرتبط با انتخابات خود منع می‌کند. این قراردادها شامل بازارهایی هستند که بر پایهٔ برنده شدن، ماندن در مسابقه یا سهم‌گیری رأی‌های کاندیدا تنظیم شده‌اند. هر تخلف منجر به جریمهٔ مدنی حداقل 10,000 دلار یا سه برابر سود خالص حاصل می‌شود، هر کدام که بیشتر باشد. ممنوعیت همچنین شامل منافع غیرمستقیم می‌شود، یعنی هر گونه هدایت یا تأمین مالی برای دیگران جهت خرید یا نگهداری این قراردادها. پیش از این، پلتفرم Kalshi سه کاندیدای کنگره‌ای را به دلیل شرط‌بندی در انتخابات خود پنج سال مسدود کرد. لایحه مشابهی توسط نماینده Bryan Steil (ر-ویس.) در ژوئن برای محدود کردن معاملات پیش‌بینی مرتبط با سیاست‌های دولتی مطرح شد. اگر این لایحه تصویب شود، می‌تواند چارچوب جدیدی برای جلوگیری از دست‌کاری بازارهای پیش‌بینی و تقویت شفافیت انتخاباتی در ایالات متحده ایجاد کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "قوانین انتخاباتی",
-    "tag": "prediction market",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
-    "clean_url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/don-davis.png",
-    "timestamp": 1791259080.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3e468cc269",
-    "title_fa": "‏شاخص‌های S&P 500 و Nasdaq به رکورد تاریخی رسیدند",
-    "title_en": "S&P 500, Nasdaq hit record highs as Treasury yields stall, oil slips",
-    "summary": [
-      "‏شاخص‌های S&P 500 و Nasdaq در معاملات آتی روز سه‌شنبه به بالاترین سطح تاریخی خود رسیدند.",
-      "‏این رشد پس از کاهش بازده اوراق خزانه‌داری و افت قیمت نفت رخ داد، که برای سرمایه‌گذاران پیش از فصل گزارش‌های سه‌ماهه آرامش ایجاد کرد.",
-      "‏قیمت نفت به زیر 90 دلار در هر بشکه کاهش یافت."
-    ],
-    "body_fa": "‏شاخص‌های S&P 500 و Nasdaq در معاملات آتی روز سه‌شنبه به بالاترین سطح تاریخی خود رسیدند. این صعود پس از کاهش بازده اوراق خزانه‌داری از سطوح چندساله و افت قیمت نفت به زیر 90 دلار در هر بشکه رخ داد. کاهش نرخ بهره باعث شد سرمایه‌گذاران پیش از فصل گزارش‌های مالی سه‌ماهه احساس آرامش بیشتری پیدا کنند. نفت، که قبلاً تحت فشار افزایش تقاضا و نگرانی‌های ژئوپلیتیکی بود، به دلیل نگرانی‌های تقاضا و تقویت دلار کاهش یافت. این تحرک بازار می‌تواند نشانگر تمایل سرمایه‌گذاران به ریسک‌پذیری بیشتر باشد، اما همچنان تحت نظارت داده‌های اقتصادی و نتایج شرکت‌ها قرار دارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای سهام",
-    "tag": "S&P500",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/wall-st-futures-rise-yields-oil-dip-2026-10-06/",
-    "clean_url": "https://www.reuters.com/business/wall-st-futures-rise-yields-oil-dip-2026-10-06",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791257220.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5da4430d04",
-    "title_fa": "‏پلتفرم Ondo بازارهای خصوصی را به زنجیره بلاکچین می‌آورد",
-    "title_en": "Ondo launches onchain private-company exposure, starting with AI",
-    "summary": [
-      "‏Ondo Finance پلتفرم جدیدی برای توکن‌سازی اوراق شرکت‌های خصوصی راه‌اندازی کرد و اولین توکن را به یک شرکت پیش‌IPO هوش مصنوعی اختصاص داد.",
-      "‏این اوراق توکنی ۲۴ ساعته در بازارهای ثانویه قابل معامله هستند و دسترسی به سرمایه‌گذاری در شرکت‌های خصوصی را برای سرمایه‌گذاران غیرآمریکایی گسترش می‌دهد.",
-      "‏پلتفرم قبلاً با SBI Holdings برای توکن‌سازی سهام ژاپنی همکاری کرده و تا کنون 3.7 میلیارد دلار ارزش قفل‌شده دارد."
-    ],
-    "body_fa": "‏Ondo Finance روز سه‌شنبه اعلام کرد پلتفرم جدیدی به نام Ondo Private Markets را برای ارائه توکن‌سازی اوراق شرکت‌های خصوصی راه‌اندازی کرده است. اولین محصول این پلتفرم توکن‌سازی شده به یک شرکت پیش‌IPO در حوزه هوش مصنوعی تعلق دارد که ارزش هر سهم آن در رویدادهای نقدشوندگی خاص محاسبه می‌شود. این اوراق توکنی ۲۴ ساعته و به‌صورت آزاد در بازارهای ثانویه قابل معامله هستند و به سرمایه‌گذاران غیرآمریکایی در حوزه‌های مجاز اجازه ورود و خروج از موقعیت‌ها را می‌دهند. Ondo تأکید کرد این توکن‌ها سهام واقعی نیستند و حقوق مالکیت یا رای‌گیری شرکت‌های زیرمجموعه را به‌همراه ندارند، بلکه تعهدات ناشر هستند. این گام بخشی از برنامه گسترده‌تر شرکت برای گسترش دارایی‌های مالی توکنیزه است؛ در ژوئیه گذشته با SBI Holdings برای توکن‌سازی سهام ژاپنی همکاری کرده و از استیبل‌کوین JPYSC برای تسویه‌حساب استفاده می‌کند. تا به امروز پلتفرم‌های توکن‌سازی سهام و اوراق خزانه‌داری Ondo مجموعاً 3.7 میلیارد دلار ارزش قفل‌شده و بیش از یک میلیون دارنده دارند. شرکت قصد دارد پس از AI ، شرکت‌های رباتیک، امنیت سایبری، بیوتکنولوژی و زیرساختی را نیز به این بازار اضافه کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "توکن‌سازی شرکت‌های خصوصی",
-    "tag": "توکن‌سازی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ondo.png",
-    "timestamp": 1791254340.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8e99974c8d",
-    "title_fa": "‏اعتراضات دانش‌آموزی در فرانسه با تلفات تاریخی مواجه شد",
-    "title_en": "School protests sweeping France cause 'heaviest toll in decades'",
-    "summary": [
-      "‏اعتراضات دانش‌آموزی در سراسر فرانسه به اوج رسیده و بیشترین تلفات را در دهه‌ها به‌بار آورد",
-      "‏این ناآرامی‌ها می‌تواند به تضعیف اقتصاد فرانسه و ایجاد فشار بر دولت در پیش‌روهای انتخابات منجر شود",
-      "‏مقامات اعلام کردند بیش از 10000 نفر بازداشت و مدارس در شهرهای بزرگ تعطیل شده‌اند"
-    ],
-    "body_fa": "‏در ماه‌های اخیر اعتراضات دانش‌آموزی در فرانسه به‌سرعت گسترش یافت و به‌نظر می‌رسد سنگین‌ترین تلفات را در چندین دهه به‌بار آورد. معترضین به‌دلیل اصلاحات آموزشی و محدودیت‌های مالی به خیابان‌ها آمدند و در برخی شهرها با برخورد پلیس مواجه شدند. مقامات اعلام کردند بیش از 10000 نفر بازداشت شده و مدارس در شهرهای بزرگ به‌طور موقت تعطیل شده‌اند. این ناآرامی‌ها نگرانی‌های اقتصادی را تشدید کرده و فشار بر دولت در آستانه انتخابات را افزایش می‌دهد. برخی مقامات بین‌المللی، از جمله رئیس‌جمهور ایالات متحده، به این بحران اشاره کردند و خواستار حل مسالمت‌آمیز آن شدند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "اعتراضات داخلی",
-    "tag": "پروتست",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/france-braces-day-school-blockades-street-protests-2026-10-06/",
-    "clean_url": "https://www.reuters.com/world/europe/france-braces-day-school-blockades-street-protests-2026-10-06",
-    "image": "https://www.reuters.com/resizer/v2/36CWWRPW3JMS7NX3DHSH3NWLKY.jpg?auth=74a7bba6fdc6b03ac1e2b04d10db792f1f7a1b1bc1ed882b612386bdc53b1a72&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1791246900.0,
     "sent_to_telegram": true
   }
 ]
