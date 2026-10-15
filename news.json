@@ -1,5 +1,49 @@
 [
   {
+    "id": "0cdff87697",
+    "title_fa": "‏قیمت دیزل آمریکا اوج گرفت و کالاها تحت فشار",
+    "title_en": "Diesel's surge is starting to push other prices around. Here's how",
+    "summary": [
+      "‏قیمت دیزل در ایالات متحده به سرعت افزایش یافت و به سطوح تاریخی رسید.",
+      "‏این جهش هزینه حمل و نقل را بالا برده و فشار بر قیمت‌های دیگر مانند غذا و کالاهای مصرفی را افزایش می‌دهد.",
+      "‏تحلیل‌گران پیش‌بینی می‌کنند این روند به افزایش تورم کمک کند."
+    ],
+    "body_fa": "‏قیمت دیزل در ایالات متحده در ماه‌های اخیر حدود 30 درصد افزایش یافته و به بیش از 5 دلار در گالن رسیده است. این افزایش شدید هزینه‌های حمل‌ونقل را برای شرکت‌های حمل‌ونقل جاده‌ای و شرکت‌های لوجستیک به‌طور قابل‌توجهی بالا برده و به‌دنبال آن قیمت کالاهای مصرفی و مواد غذایی که به‌وسیله این وسایل منتقل می‌شوند، تحت فشار قرار گرفته است. کارشناسان اقتصادی اشاره می‌کنند که فشارهای قیمتی در بخش انرژی می‌تواند به‌عنوان یک عامل مهم در شکل‌گیری تورم کلان در ایالات متحده عمل کند. همچنین، این روند ممکن است تصمیمات سیاست‌گذاری پولی فدرال‌رزرو را تحت تأثیر قرار دهد، زیرا هزینه‌های انرژی بخش مهمی از شاخص‌های قیمت مصرف‌کننده هستند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت دیزل",
+    "tag": "دیزل",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/diesels-surge-is-starting-push-other-prices-around-heres-how-2026-10-15/",
+    "clean_url": "https://www.reuters.com/business/diesels-surge-is-starting-push-other-prices-around-heres-how-2026-10-15",
+    "image": "https://s.yimg.com/bo/871dde37-5233-5f7b-a4eb-758f53513c10_1792093761531.jpg",
+    "timestamp": 1792092809.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "95e1cc7dbd",
+    "title_fa": "‏گروه Eni تعطیلی پالایشگاه تارانتو اعتراض کارگران را اعلام کرد",
+    "title_en": "Eni Warns of Refinery Shutdown as Steelworkers Block Fuel Deliveries |...",
+    "summary": [
+      "‏پالایشگاه ۱۰۴٬۰۰۰ بشکه در روز تارانتو به‌دلیل مسدود شدن تحویل سوخت توسط کارگران فولاد ممکن است بسته شود.",
+      "‏این اختلال باعث کمبود بنزین و دیزل در ایالت‌های آپولیا، باسیلیکاتا و کالابریا و نقص سوخت در فرودگاه‌های باری و بریندیزی می‌شود.",
+      "‏اگر تعطیلی طولانی شود، می‌تواند فشار بر بازارهای سوخت اروپا را افزایش دهد."
+    ],
+    "body_fa": "‏شرکت ایتالیایی انرژی Eni اعلام کرد که پالایشگاه ۱۰۴٬۰۰۰ بشکه در روز تارانتو ممکن است به‌دلیل اعتراضات کارگران کارخانه فولاد سابق Ilva که تحویل سوخت را مسدود کرده‌اند، به‌صورت کنترل‌شده تعطیل شود. در حال حاضر عملیات پالایش به‌طور معمول ادامه دارد، اما کمبود گازهای فنی و مواد شیمیایی ضروری می‌تواند باعث توقف تولید شود. این اختلال منجر به خالی شدن بیش از ۱۵۰ ایستگاه سوخت Enilive در آپولیا شده و کمبود سوخت در فرودگاه‌های باری و بریندیزی اعلام شده است. خدمات حمل‌ونقل عمومی، اورژانس‌ها و شرکت‌های ریلی نیز تحت تأثیر این کمبودها قرار گرفته‌اند. پالایشگاه تارانتو نقش کلیدی در تأمین سوخت جنوب ایتالیا، شامل آپولیا، باسیلیکاتا و کالابریا دارد و هر روز حدود ۲۶۰ کامیون سوخت را مدیریت می‌کند. اگر این مسدودسازی‌ها ادامه یابد، می‌تواند فشار بر بازارهای دیزل و سوخت جت در اروپا را افزایش داده و قیمت‌ها را بالا ببرد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "تارانتو",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Company-News/Eni-Warns-of-Refinery-Shutdown-as-Steelworkers-Block-Fuel-Deliveries.html",
+    "clean_url": "https://oilprice.com/Company-News/Eni-Warns-of-Refinery-Shutdown-as-Steelworkers-Block-Fuel-Deliveries.html",
+    "image": "https://s.yimg.com/bo/be4568de-e354-5987-895d-17851df1449f_1792094734351.jpg",
+    "timestamp": 1792092809.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "8a2a8aa75d",
     "title_fa": "‏مذاکرات برای پایان اعتصاب در معدن مس شیلی بی‌نتیجه ماند",
     "title_en": "No breakthrough in talks at Antofagasta's striking Centinela copper mine, unions...",
@@ -88,6 +132,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1f9256277c",
+    "title_fa": "‏قیمت Bitcoin پس از سقوط بورس آسیا به کانال 80,000 دلار بازگشت",
+    "title_en": "Bitcoin rebounds from near $80,000 as Kospi plunges 8%, with altcoins falling...",
+    "summary": [
+      "‏قیمت Bitcoin پس از افت موقت تا نزدیکی 80,000 دلار به محدوده 81,200 دلار بازگشت.",
+      "‏سقوط 8 درصدی شاخص Kospi کره جنوبی و داده‌های تورمی به افت شدید آلت‌کوین‌ها منجر شد.",
+      "‏موج ریزش اخیر باعث لیکویید شدن نزدیک به 1 میلیارد دلار قرارداد آتی کریپتو شد."
+    ],
+    "body_fa": "‏بازار کریپتو هم‌زمان با افت سنگین بازارهای سهام آسیا دچار تلاطم شد و قیمت Bitcoin برای مدتی کوتاه تا نزدیکی 80,000 دلار کاهش یافت، اما خریداران وارد عمل شدند و قیمت را به بالای 81,200 دلار رساندند. شاخص بورس کره جنوبی موسوم به Kospi با ریزش 8 درصدی مواجه شد و توقف خودکار معاملات را فعال کرد، در حالی که فیوچرز شاخص Nasdaq 100 نیز نزدیک به 1 درصد افت کرد. آلت‌کوین‌ها فشار فروش بسیار سنگین‌تری را تحمل کردند و بیشتر رمزارزهای بازار با کاهش ارزش روبه‌رو شدند. انتشار داده‌های تورمی داغ‌تر از حد انتظار در آمریکا عامل اصلی این موج منفی بود و انتظارات نرخ بهره را دستخوش تغییر کرد. در پی این شوک نزولی در بازارهای مالی، نزدیک به 1 میلیارد دلار از موقعیت‌های معاملاتی تعهدی در بازار کریپتو طی 24 ساعت لیکویید شد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "تحولات بازار کریپتو",
+    "tag": "بیت‌کوین",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+    "image": "https://s.yimg.com/bo/499ee56b-15aa-50c3-b8b1-30e369fc58e6_1792062387624.png.cf.jpg",
+    "timestamp": 1792060409.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b89e6163f0",
     "title_fa": "‏TotalEnergies پیش‌بینی سود فوق‌العاده در سه‌ماهه سوم",
     "title_en": "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar |...",
@@ -110,6 +176,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "77a08af951",
+    "title_fa": "‏شرکت Ubisoft حدود 100 کارمند را در سه استودیوی آلمانی‌اش برمی‌دارد",
+    "title_en": "Ubisoft planning significant layoffs across three German game studios",
+    "summary": [
+      "‏Ubisoft تصمیم گرفت حدود 100 شغل را در استودیوی Düsseldorf ، Mainz و Berlin آلمان حذف کند.",
+      "‏این اقدام نشان‌دهنده فشارهای مالی و بازنگری در استراتژی توسعه بازی‌های شرکت است.",
+      "‏اخراج‌ها ممکن است پروژه‌های جاری مانند «Assassin's Creed Mirage» و «Skull & Bones» را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏شرکت فرانسوی Ubisoft اعلام کرد که حدود 100 کارمند در سه استودیوی آلمانی‌اش در Düsseldorf ، Mainz و Berlin برکنار خواهند شد. این تصمیم در چارچوب برنامه‌های بازنگری هزینه‌ای و تمرکز بر پروژه‌های کلیدی شرکت اتخاذ شده است. استودیوی Düsseldorf که به توسعه بازی‌های آنلاین معروف است، و استودیوی Mainz که بر عناوین موبایل کار می‌کند، هر دو تحت فشارهای مالی قرار داشته‌اند. Ubisoft امیدوار است با این کاهش نیروی کار، بهره‌وری را افزایش داده و منابع را به سمت عناوین پرطرفدار مانند Assassin's Creed و Far Cry هدایت کند. این اخراج‌ها می‌تواند بر زمان‌بندی و کیفیت پروژه‌های جاری تأثیر بگذارد، اما شرکت معتقد است که این گام برای حفظ رقابت‌پذیری در بازار جهانی ضروری است.",
+    "category": "گیم",
+    "subcategory": "اخراج در صنعت بازی",
+    "tag": "Ubisoft",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Outrun Gaming on MSN",
+    "url": "https://www.msn.com/en-us/money/general/ubisoft-planning-significant-layoffs-across-three-german-game-studios/ar-AA2ekd3d",
+    "clean_url": "https://www.msn.com/en-us/money/general/ubisoft-planning-significant-layoffs-across-three-german-game-studios/ar-AA2ekd3d",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792058400.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ae6b30c313",
     "title_fa": "‏قیمت طلا پس از کاهش دلار و بازدهی اوراق بازگشت",
     "title_en": "Gold Prices Rebound as Dollar and Treasury Yields Ease Despite Higher US...",
@@ -129,6 +217,28 @@
     "clean_url": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-rebound-dollar-treasury-094416553.html",
     "image": "https://media.zenfs.com/en/investorshub_458/62853299973f7e8058c460e90cdcb602.png.cf.jpg",
     "timestamp": 1792057438.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "26395d4208",
+    "title_fa": "‏ایران با حملات دقت‌دار زیرساخت‌های خلیج فارس را هدف گرفت",
+    "title_en": "How Iran's precision strikes picked apart Gulf infrastructure",
+    "summary": [
+      "‏ایران در ماه‌های اخیر ده‌ها حمله دقت‌دار به زیرساخت‌های بحرانی خلیج فارس انجام داد.",
+      "‏این حملات توان عملیاتی نیروهای آمریکایی را در منطقه تضعیف کرده و خطر اختلال در جریان نفت را افزایش می‌دهد.",
+      "‏هدف‌ها شامل خطوط لوله، بنادر و مراکز مخابراتی در عربستان، امارات و بحرین بوده‌اند."
+    ],
+    "body_fa": "‏ایران در ماه‌های اخیر با استفاده از موشک‌های دقت‌دار، زیرساخت‌های کلیدی خلیج فارس را هدف قرار داد و بیش از ده‌ها حمله موفق به خطوط لوله نفت، بنادر و مراکز مخابراتی انجام داد. این عملیات‌ها توان عملیاتی نیروهای آمریکایی را در منطقه به‌طور قابل‌توجهی کاهش داد و نگرانی‌ها دربارهٔ اختلال در حمل و نقل نفت را تشدید کرد. مقامات آمریکایی اعلام کردند که این حملات می‌تواند به نوسان قیمت جهانی نفت منجر شود و فشار بر زنجیره تأمین انرژی را افزایش دهد. ایران در بیانیه‌ای تأکید کرد که این اقدامات در پاسخ به حضور نظامی آمریکا در خلیج و حمایت‌های آن از اسرائیل است. واکنش‌های بین‌المللی به این تحولات در حال شکل‌گیری است و احتمال افزایش تنش‌های دیپلماتیک در منطقه وجود دارد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات هوایی",
+    "tag": "حملات دقت‌دار",
+    "urgency": 8,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/",
+    "clean_url": "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks",
+    "image": "https://s.yimg.com/bo/e2ab718b-021a-56d5-821c-c7ea5e984317_1792060841496.jpg",
+    "timestamp": 1792056809.0,
     "sent_to_telegram": true
   },
   {
@@ -220,6 +330,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "24fd1dc0c0",
+    "title_fa": "‏استودیو 4J تاریخ عرضه PC بازی Reforj را اعلام کرد",
+    "title_en": "Reforj developer 4J Studios announces PC release date at Game Republic New Horizons",
+    "summary": [
+      "‏استودیو 4J تاریخ شروع تست بسته PC بازی Reforj را برای سه‌ماهه اول 2027 اعلام کرد",
+      "‏این تست فقط برای دعوت‌شدگان است تا تجربه بهینه شود و بازخوردها مستقیماً به تیم توسعه می‌رسد",
+      "‏بازی هم‌اکنون برای تست‌کنندگان Xbox Series X|S از طریق برنامه Insider در دسترس است"
+    ],
+    "body_fa": "‏استودیو 4J در کنفرانس Game Republic New Horizons تاریخ شروع تست بسته PC بازی Reforj را برای سه‌ماهه اول 2027 اعلام کرد. این تست دعوت‌شده‌ها به‌صورت اختصاصی انجام می‌شود تا تجربه بهینه‌ای برای بازیکنان فراهم شود و بازخوردها به‌صورت مستقیم به Paddy Burns ، مدیرعامل، و Tom Fyfe ، طراح اصلی، منتقل شود. تیم توسعه هر هفته بازخوردهای دریافتی از Discord را بررسی و در صورت نیاز تغییرات را در بازی اعمال می‌کند. در حال حاضر نسخهٔ اولیهٔ بازی برای تست‌کنندگان Xbox Series X|S از طریق برنامه Insider در دسترس است. 4J تاکید کرد که این روش زودهنگام دسترسی به بازیکنان، به‌ویژه برای یک بازی بازسازی‌پذیر و بازیکن‌محور، به بهبود سریع‌تر محصول کمک می‌کند.",
+    "category": "گیم",
+    "subcategory": "بازی‌های ویدئویی",
+    "tag": "Reforj",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
+    "clean_url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
+    "image": "https://assetsio.gnwcdn.com/reforj_SAsBzlp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1792045500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "7f0f263df6",
     "title_fa": "‏حسابرس نیویورک از Anthropic خواست IPO را متوقف کند",
     "title_en": "NYC Comptroller Calls for Anthropic to Pause IPO for AI Safety",
@@ -261,6 +393,28 @@
     "clean_url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "timestamp": 1792044000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5fff8f4e9f",
+    "title_fa": "‏افزایش نرخ بهره، فشار بر رونق معاملات دیتاسنترهای هوش مصنوعی",
+    "title_en": "Market selloff, rising rates test AI data centre deal boom",
+    "summary": [
+      "‏بدهی CoreWeave به سطوح نزدیک به ورشکستگی کاهش یافت و طرح‌های جدید دیتاسنترهای AirTrunk ، Firmus و SoftBank در بازار فهرست شدند.",
+      "‏این تحولات با افزایش نرخ بهره بازار را تحت فشار قرار داده و رونق سرمایه‌گذاری در دیتاسنترهای هوش مصنوعی را به چالش می‌کشد.",
+      "‏همزمان، شاخص‌های اصلی سهام در هفته گذشته بیش از ۲٪ سقوط کردند."
+    ],
+    "body_fa": "‏در هفته گذشته، بدهی شرکت دیتاسنتر CoreWeave به سطوح نزدیک به ورشکستگی افتاد، که نشانگر فشارهای مالی در این بخش است. در همین زمان، چندین طرح جدید شامل REIT پشتیبانی‌شده توسط Blackstone به نام AirTrunk ، شرکت Firmus با سرمایه‌گذاری Nvidia و SB (SoftBank) به بازار عرضه شدند. این افزایش عرضه در حالی رخ می‌دهد که نرخ بهره توسط بانک‌های مرکزی بالا رفته و هزینه‌های تأمین مالی برای پروژه‌های بزرگ دیتاسنتر را افزایش داده است. سرمایه‌گذاران به‌دقت به ارزیابی ریسک‌های مرتبط با رشد سریع تقاضای هوش مصنوعی می‌پردازند. تحلیل‌گران پیش‌بینی می‌کنند که ادامهٔ افزایش نرخ بهره می‌تواند سرعت رشد سرمایه‌گذاری در دیتاسنترهای AI را کاهش دهد و فشار بر قیمت‌های بدهی این شرکت‌ها را افزون کند. در عین حال، شاخص‌های سهام اصلی در هفته گذشته بیش از ۲٪ سقوط کردند، که نشانگر نگرانی‌های گسترده بازار نسبت به این روند است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری",
+    "tag": "دیتاسنتر",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+    "clean_url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792042980.0,
     "sent_to_telegram": true
   },
   {
@@ -374,6 +528,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "013a0a60f3",
+    "title_fa": "‏easyJet ۳۳۴ میلیون پوند به بانک‌ها و مشاوران می‌پردازد",
+    "title_en": "Bankers and advisers set for £334mn easyJet payout",
+    "summary": [
+      "‏easyJet تصمیم گرفت ۳۳۴ میلیون پوند به بانک‌ها و مشاوران خود پرداخت کند",
+      "‏این پرداخت بزرگ می‌تواند نقدینگی شرکت را تحت فشار قرار دهد و بر ارزش سهام اثر بگذارد",
+      "‏مبلغ به عنوان هزینه‌های مشاوره‌ای پس از بازسازی ساختاری شرکت اعلام شد"
+    ],
+    "body_fa": "‏easyJet اعلام کرد که مبلغ ۳۳۴ میلیون پوند را به بانک‌ها و مشاورانی که در فرآیندهای مالی و بازسازی شرکت مشارکت داشتند، پرداخت خواهد کرد. این هزینه‌ها شامل هزینه‌های مشاوره‌ای و کارگزاری پس از فروش دارایی‌ها و ادغام‌های اخیر است. خروج این مبلغ از صندوق‌های نقدی شرکت می‌تواند فشار مالی کوتاه‌مدتی ایجاد کند و نگرانی‌هایی برای سرمایه‌گذاران درباره سودآوری آینده به وجود آورد. تحلیل‌گران انتظار دارند که این پرداخت تأثیر محدودی بر سود خالص داشته باشد، اما ممکن است قیمت سهام را در روزهای اولیه تحت فشار قرار دهد. در مجموع، این اقدام نشان‌دهنده تکمیل یک مرحله مهم در بازسازی ساختاری easyJet است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سهام شرکت‌ها",
+    "tag": "easyJet",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792035660.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "09ddb44d56",
     "title_fa": "‏ارزش استارتاپ مالی Ramp به 60 میلیارد دلار رسید",
     "title_en": "Ramp Completes Funding at $60 Billion Value as Revenue Surges",
@@ -437,6 +613,50 @@
     "clean_url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions",
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/15054008/library-occ-says-major-banks-are-easing-digital-asset-restrictio-800x450.png",
     "timestamp": 1792032000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ed54ed4b96",
+    "title_fa": "‏Epic Games لانچر جدید ۴۶٪ سریع‌تر از Steam شد",
+    "title_en": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page",
+    "summary": [
+      "‏Epic Games لانچر بتای جدید خود را معرفی کرد که از حالت سرد تا صفحه فروشگاه ۴۶٪ سریع‌تر از Steam است.",
+      "‏این سرعت بالا می‌تواند تجربه بازیکنان را بهبود دهد و فشار رقابتی بر Steam را افزایش دهد.",
+      "‏لانچر جدید با استفاده از کدگذاری \"vibe\" و هوش مصنوعی بازنویسی شده و حجم ۳۰۰ مگابایت دارد."
+    ],
+    "body_fa": "‏Epic Games لانچر بتای جدیدی را منتشر کرد که ادعا می‌کند از حالت سرد تا صفحه فروشگاه ۴۶٪ سریع‌تر از Steam است و در بازگشت از سینی سیستم ۱۴٪ زمان کمتری می‌گیرد. این نسخه جدید با حجم تنها ۳۰۰ مگابایت و کدگذاری «vibe» که به معنای استفاده از هوش مصنوعی در توسعه است، ساخته شده. تیم فنی شرکت می‌گوید کل معماری، شامل شل، مدیر دانلود و کتابخانه، از پایه بازنویسی شده و قابلیت پشتیبانی از Windows ، macOS و نسخهٔ لینوکس را دارد. استفاده از هوش مصنوعی به تیم اجازه داد تا با تیم کوچکتر و زمان کوتاه‌تر ویژگی‌های جدید را پیاده‌سازی کند. این اقدام می‌تواند فشار رقابتی بر Steam را افزایش دهد و تجربهٔ کاربری بازیکنان را بهبود بخشد.",
+    "category": "گیم",
+    "subcategory": "پلتفرم بازی",
+    "tag": "Epic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
+    "clean_url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
+    "image": "https://assetsio.gnwcdn.com/epic-games-launcher_kTybhO5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1792031700.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "aac116993a",
+    "title_fa": "‏اوکراین آتش‌بس را نقض کرد و پالایشگاه روسیه هدف گرفت",
+    "title_en": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
+    "summary": [
+      "‏اوکراین با پهپاد و موشک به پالایشگاه نفتی روسیه حمله کرد",
+      "‏این اقدام پس از اعلام احساس خیانت زلنسکی از سوی ترامپ، تنش‌ها را تشدید کرد",
+      "‏حمله می‌تواند تأثیرات قابل‌توجهی بر بازارهای انرژی جهانی داشته باشد"
+    ],
+    "body_fa": "‏اوکراین امروز با پرتاب پهپاد و موشک به یک پالایشگاه نفتی در روسیه حمله کرد و به این ترتیب تعهد قبلی به آتش‌بس را لغو نمود. حمله چند دقیقه پس از اظهارات ولودیمیر زلنسکی بود که احساس خیانت از جانب دونالد ترامپ را پس از مذاکرات انرژی بیان کرد. این اقدام به سرعت واکنش‌های بین‌المللی را برانگیخت و نگرانی‌ها درباره تشدید درگیری در جبهه‌های انرژی را افزایش داد. کارشناسان هشدار دادند که هرگونه اختلال در تأمین نفت روسیه می‌تواند نوسانات شدید در قیمت‌های جهانی انرژی ایجاد کند. روسیه هنوز پاسخی رسمی به این حمله نداده است، اما احتمال پاسخ نظامی متقابل را از سوی مسلحین مسلح می‌دانند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "شکست آتش‌بس",
+    "tag": "پالایشگاه",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
+    "clean_url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792030440.0,
     "sent_to_telegram": true
   },
   {
@@ -6377,226 +6597,6 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-10-06/goldman-sachs-ensnared-in-ey-data-breach-earlier-this-year",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791295500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "751a451062",
-    "title_fa": "‏سوءاستفاده‌گران با هوش مصنوعی متن باز تصاویر غیرقانونی می‌سازند",
-    "title_en": "Child Predators Turn to Open-Source AI to Make Unlimited Illegal Images",
-    "summary": [
-      "‏متجاوزان کودک از مدل‌های هوش مصنوعی متن باز برای تولید تصاویر غیرقانونی استفاده می‌کنند.",
-      "‏این روند باعث نگرانی‌های جدی در حوزه امنیت سایبری و درخواست محدودیت‌های قانونی می‌شود.",
-      "‏پلتفرم‌های متن باز مانند Stable Diffusion به‌سرعت در دسترس متجاوزان قرار گرفته‌اند."
-    ],
-    "body_fa": "‏Bloomberg گزارش داد که گروه‌های متجاوز از مدل‌های هوش مصنوعی متن باز برای ساخت تصاویر جنسی کودک استفاده می‌کنند. این مدل‌ها، از جمله Stable Diffusion و سایر ابزارهای تولید تصویر، می‌توانند به‌صورت خودکار صحنه‌های توهین‌آمیز را بدون نیاز به عکس‌های واقعی تولید کنند. مقامات قانون‌گذاری و نهادهای مبارزه با جرم‌های اینترنتی هشدار دادند که این فناوری امکان تولید نامحدود محتوای غیرقانونی را فراهم می‌کند. شرکت‌های توسعه‌دهنده این مدل‌ها تحت فشار برای افزودن محدودیت‌های محتوا و فیلترهای پیش‌فرض قرار گرفته‌اند. برخی کشورها در حال بررسی قوانین جدید برای محدود کردن توزیع و استفاده از مدل‌های متن باز هستند. این مسأله چالش‌های جدی برای تشخیص و حذف محتوای CSAM در پلتفرم‌های آنلاین ایجاد می‌کند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "AI",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/features/2026-open-source-ai-models-fuel-csam/",
-    "clean_url": "https://www.bloomberg.com/features/2026-open-source-ai-models-fuel-csam",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791295200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f16cb953f2",
-    "title_fa": "‏استارتاپ سیلیکون‌ولی جدید Underdog دستیار هوش مصنوعی خصوصی را معرفی کرد",
-    "title_en": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-    "summary": [
-      "‏سیگِل ون، بنیان‌گذار Underdog ، نسخه بتای دعوت‌پذیر یک دستیار هوش مصنوعی کاملاً خصوصی را راه‌اندازی کرد",
-      "‏این مدل به‌صورت کامل روی دستگاه کار می‌کند و داده‌های کاربر را در مک، ویندوز و به‌زودی لینوکس، آیفون و اندروید نگه می‌دارد",
-      "‏Underdog با موتور Husky و مدل ۲۷ میلیارد پارامتری، عملکردی مشابه Claude Opus 4.6 ارائه می‌دهد"
-    ],
-    "body_fa": "‏سیگِل ون، برنامه‌نویس خودآموخته و عضو برنامه Thiel Fellow ، روز دوشنبه نسخه بتای دعوت‌پذیر Underdog را منتشر کرد. Underdog یک دستیار هوش مصنوعی است که به‌صورت کامل روی دستگاه کاربر اجرا می‌شود و داده‌ها را در مک، ویندوز و به‌زودی در لینوکس، آیفون و اندروید نگه می‌دارد. برای اجرای مدل، ون موتور Husky را ساخته که با انتقال کمتر داده بین پردازنده اصلی و گرافیک، سرعت بالایی دارد. این دستیار از مدل ۲۷ میلیارد پارامتری Qwen3.8-27B استفاده می‌کند که در برخی بنچمارک‌ها با Claude Opus 4.6 رقابت می‌کند. Underdog به‌صورت رایگان و بدون تبلیغات عرضه می‌شود و ویژگی‌های امنیتی مانند رمزنگاری کلیدهای حساب‌های کاربری را نیز دارد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Underdog",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-    "clean_url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
-    "timestamp": 1791294480.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8b30099e02",
-    "title_fa": "‏استارتاپ AI Lambda IPO 2027 تا 4 میلیارد دلار جذب می‌کند",
-    "title_en": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "summary": [
-      "‏Lambda ، ارائه‌دهندهٔ خدمات ابری AI ، تا 4 میلیارد دلار در دور سرمایه‌گذاری پیش از IPO جمع‌آوری می‌کند.",
-      "‏این جذب سرمایه با ارزیابی 14.5 میلیارد دلار و قرارداد 35 میلیارد دلاری با Anthropic ، نشان از تقاضای شدید برای توان محاسباتی GPU دارد.",
-      "‏سرمایه‌گذاری توسط Coatue و Blackstone رهبری می‌شود و می‌تواند قیمت‌گذاری IPO 2027 را تحت تأثیر قرار دهد."
-    ],
-    "body_fa": "‏شرکت ابری Lambda قصد دارد حداکثر 4 میلیارد دلار در دور سرمایه‌گذاری جدید جمع‌آوری کند؛ این مبلغ بر پایهٔ ارزیابی پیش‌پولی 14.5 میلیارد دلار است و احتمالاً آخرین دور خصوصی پیش از IPO برنامه‌ریزی‌شده برای سال 2027 خواهد بود. دور سرمایه‌گذاری توسط Coatue Management و Blackstone رهبری می‌شود. حجم سفارشات Lambda از 15 میلیارد دلار در ژوئن به 50 میلیارد دلار در سپتامبر افزایش یافته است که عمدتاً به دلیل تعهد 35 میلیارد دلاری Anthropic است. ساخت مراکز داده عمدتاً با بدهی تأمین می‌شود؛ شرکت همین‌طور هفتهٔ گذشته یک میلیارد دلار بدهی جدید جذب کرده است. این جذب سرمایه نه تنها برای تعیین قیمت IPO مهم است، بلکه قبل از ورود به بازارهای عمومی به Lambda سرمایهٔ کافی می‌دهد. در صورت IPO ، Lambda به جمع neocloud های پشتیبانی‌شده توسط Nvidia مانند CoreWeave و Nebius خواهد پیوست.",
-    "category": "تکنولوژی",
-    "subcategory": "سرمایه‌گذاری",
-    "tag": "Lambda",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "clean_url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
-    "timestamp": 1791291600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1398cc93d2",
-    "title_fa": "‏سِگا هوش مصنوعی را تجاری می‌گیرد؛ خلاقیت را نمی‌سپارد",
-    "title_en": "SEGA Exec Says AI Already in Use at Studio but Not for Creative Tasks",
-    "summary": [
-      "‏سِگا اعلام کرد که هوش مصنوعی را برای بهبود کارهای تجاری و ایده‌پردازی به کار می‌برد.",
-      "‏اما شرکت می‌گوید خلاقیت بازی‌ها به AI واگذار نمی‌شود و فرآیندهای خلاقی به صورت انسانی باقی می‌مانند.",
-      "‏این رویکرد در مقایسه با استودیوهایی مثل Pearl Abyss که از دارایی‌های AI استفاده می‌کنند، متفاوت است."
-    ],
-    "body_fa": "‏سِگا در مصاحبه‌ای با Nikkei درباره تأثیر هوش مصنوعی بر تولید بازی‌ها گفت که این فناوری را در بخش‌های تجاری و ایده‌پردازی به کار گرفته است تا کارایی انتشار و تصمیم‌گیری‌های کسب‌وکار را ارتقا دهد. اما به وضوح تأکید کرد که در فرآیندهای خلاقانه بازی‌سازی، هوش مصنوعی نقش ندارد و خلاقیت به عهده تیم‌های توسعه می‌ماند. سِگا این سیاست را «محدود» می‌نامد و می‌گوید شاید در آینده برای تولید دارایی‌های موقت یا جایگزین‌های بصری از AI استفاده کند، اما در حال حاضر تمرکز بر حفظ کیفیت خلاقی است. این رویکرد در حالی مطرح می‌شود که استودیوهای دیگری مانند Pearl Abyss ، Panache Games و Sandbox Interactive پیش‌تر از دارایی‌های تولید شده توسط AI در بازی‌های خود استفاده کرده‌اند. استفاده هوش مصنوعی در بخش‌های غیرخلاقی می‌تواند هزینه‌ها را کاهش دهد و زمان توسعه را کوتاه‌تر کند، اما نگرانی‌ها درباره تأثیر بر شغل‌های انسانی و کیفیت نهایی بازی همچنان پابرجاست.",
-    "category": "گیم",
-    "subcategory": "هوش مصنوعی در بازی",
-    "tag": "AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechPowerUp",
-    "url": "https://www.techpowerup.com/353438/sega-exec-says-ai-already-in-use-at-studio-but-not-for-creative-tasks",
-    "clean_url": "https://www.techpowerup.com/353438/sega-exec-says-ai-already-in-use-at-studio-but-not-for-creative-tasks",
-    "image": "https://www.techpowerup.com/img/1MASSuUkrBqgVvkB.jpg",
-    "timestamp": 1791291300.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1919c6de32",
-    "title_fa": "‏بحران هزینه زندگی بر انتظارات تورمی و فقر اثر دارد",
-    "title_en": "Cost-of-living crises have lasting impact on inflation expectations, poverty,...",
-    "summary": [
-      "‏قیمت‌های غذا و انرژی به‌سرعت افزایش یافتند و شواهد نشان می‌دهد این جهش‌ها مکرر می‌شوند.",
-      "‏این وضعیت انتظارات تورمی را بالا می‌برد و فقر را در کشورهای در حال توسعه تشدید می‌کند.",
-      "‏صندوق بین‌المللی پول این روند را هشدار داده و خواستار سیاست‌های حمایتی می‌شود."
-    ],
-    "body_fa": "‏صندوق بین‌المللی پول اعلام کرد که نوسانات شدید قیمت غذا و انرژی احتمالاً به‌صورت مکرر رخ خواهد داد. این جهش‌های قیمت، انتظارات عمومی نسبت به تورم را در بلندمدت افزایش می‌دهد. در نتیجه، فشارهای تورمی بر خانوارهای کم‌درآمد بیشتر می‌شود و سطح فقر در بسیاری از کشورهای در حال توسعه تشدید می‌گردد. سازمان بر این باور است که سیاست‌های حمایتی و اقدامات برای تثبیت قیمت‌ها برای جلوگیری از اثرات طولانی‌مدت ضروری است. این هشدار می‌تواند بر تصمیمات بانک‌های مرکزی و برنامه‌های مالی دولتی در سراسر جهان تأثیر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "تورم و فقر",
-    "tag": "قیمت‌غذا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/cost-of-living-crises-have-lasting-impact-inflation-expectations-poverty-imf-2026-10-06/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/cost-of-living-crises-have-lasting-impact-inflation-expectations-poverty-imf-2026-10-06",
-    "image": "https://s.yimg.com/bo/3d52b7e5-e945-59fc-aa4b-1fc9334812d4_1791293253645.jpg",
-    "timestamp": 1791291276.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9bde4b8e67",
-    "title_fa": "‏Energy Transfer برای ۲٫۶۳ میلیارد دلار Vaquero Midstream را می‌خرد",
-    "title_en": "Energy Transfer to buy Vaquero Midstream for $2.63 billion in cash and stock",
-    "summary": [
-      "‏Energy Transfer توافق کرد Vaquero Midstream را به‌قیمت ۲٫۶۳ میلیارد دلار نقد و سهام خریداری کند.",
-      "‏این معامله زیرساخت‌های انتقال گاز و نفت این دو شرکت را گسترش می‌دهد و می‌تواند بر بازارهای انرژی اثر بگذارد.",
-      "‏معامله شامل ترکیبی از نقدینگی و سهام جدید است."
-    ],
-    "body_fa": "‏Energy Transfer روز سه‌شنبه اعلام کرد که برای خرید Vaquero Midstream به توافق رسیده است. ارزش کل معامله حدود ۲٫۶۳ میلیارد دلار است که به‌صورت ترکیبی از نقدینگی و سهام جدید پرداخت می‌شود. این خرید به شرکت امکان می‌دهد شبکه خطوط لوله گاز و نفت خود را گسترش داده و حضورش در بازارهای میانی انرژی آمریکا را تقویت کند. انتظار می‌رود معامله پس از دریافت تأییدات نظارتی در چند ماه آینده نهایی شود. تحلیل‌گران پیش‌بینی می‌کنند این ادغام می‌تواند فشار رقابتی بر سایر شرکت‌های میانی انرژی را افزایش دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "ادغام و تملک",
-    "tag": "Energy Transfer",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/energy-transfer-buy-vaquero-midstream-263-billion-cash-stock-2026-10-06/",
-    "clean_url": "https://www.reuters.com/legal/litigation/energy-transfer-buy-vaquero-midstream-263-billion-cash-stock-2026-10-06",
-    "image": "https://s.yimg.com/bo/25c22ce0-22e6-5cb4-8ed4-4822850b0256_1790278632871.jpg",
-    "timestamp": 1791288956.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d014dc170c",
-    "title_fa": "‏CRX Trade پلتفرم ترکیب رمزارز و بورس را راه‌اندازی کرد",
-    "title_en": "CRX Trade launches Swiss prime brokerage bridging crypto exchanges and Wall Street, as tokenized stock trading surges",
-    "summary": [
-      "‏CRX Trade یک پلتفرم جدید برای کارگزاری مؤسسه‌ای راه‌اندازی کرد که امکان معامله همزمان در صرافی‌های رمزارز و بازارهای سنتی آمریکا را فراهم می‌کند.",
-      "‏این سرویس با یک حساب و یک منبع وثیقه، دسترسی به ده صرافی و بورس را برای سرمایه‌گذاران حرفه‌ای ساده می‌کند و شکاف بین دارایی‌های دیجیتال و سنتی را می‌پوشاند.",
-      "‏پلتفرم از فناوری CoinRoutes بهره می‌برد و امکان استفاده از بیت‌کوین، استیبل‌کوین یا طلا توکنیزه به عنوان وثیقه را می‌دهد."
-    ],
-    "body_fa": "‏شرکت سوئیسی CRX Trade امروز پلتفرمی را برای کارگزاری مؤسسه‌ای عرضه کرد که به صندوق‌های پوشش ریسک و شرکت‌های معاملاتی امکان می‌دهد با یک حساب واحد در صرافی‌های پیشرو رمزارز مانند Binance ، Bybit و Hyperliquid و همچنین در بازارهای سنتی آمریکا نظیر Nasdaq ، CME و Nasdaq معامله کنند. این سرویس با استفاده از فناوری CoinRoutes ، الگوریتم‌های پیشرفته معاملاتی و یک منبع وثیقه مشترک را فراهم می‌کند؛ به‌طوری‌که بیت‌کوین، استیبل‌کوین یا طلا توکنیزه می‌تواند به عنوان وثیقه برای تمام معاملات به کار رود. این قابلیت باعث می‌شود سرمایه‌گذاران نیازی به نگهداری وجوه جداگانه در پلتفرم‌های مختلف نداشته باشند و بتوانند موقعیت‌های خود را به‌صورت یکپارچه گزارش کنند. CRX Trade این کار را از زوگ، در «دره رمزارز» سوئیس انجام می‌دهد و به‌نظر می‌رسد مرز بین دارایی‌های دیجیتال و اوراق سنتی را سریع‌تر از زیرساخت‌های موجود می‌پوشاند. این گام می‌تواند پذیرش مؤسسات مالی در بازارهای توکنیزه را تسریع کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "بروکرهای دیجیتال",
-    "tag": "CRX Trade",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/sponsored/2026-10-06-crx-trade-launches-swiss-prime-brokerage-bridging-crypto-exchanges-and-wall-street-as-tokenized-stock-trading-surges-417847",
-    "clean_url": "https://www.theblock.co/sponsored/2026-10-06-crx-trade-launches-swiss-prime-brokerage-bridging-crypto-exchanges-and-wall-street-as-tokenized-stock-trading-surges-417847",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-06-at-2.53.28 PM.png",
-    "timestamp": 1791285780.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4fa76f509f",
-    "title_fa": "‏وام‌های بحرانی آمریکا به بالاترین سطح پس از همه‌گیری رسید",
-    "title_en": "Deeply Distressed US Loans Rise to Highest Level Since Pandemic, JPMorgan Says",
-    "summary": [
-      "‏وام‌های بسیار مشکل‌دار در ایالات متحده به بالاترین سطح از زمان همه‌گیری کرونا رسید.",
-      "‏جپ‌مورگان این افزایش را هشدار داد و نشان می‌دهد فشارهای اعتباری در اقتصاد آمریکا در حال تشدید است.",
-      "‏این روند می‌تواند ریسک‌های سیستیک را برای بانک‌ها و سرمایه‌گذاران افزایش دهد."
-    ],
-    "body_fa": "‏جپ‌مورگان اعلام کرد که میزان وام‌های بسیار مشکل‌دار در ایالات متحده به بالاترین سطح از زمان شروع همه‌گیری کرونا رسیده است. این وام‌ها شامل بدهی‌های تجاری و مصرفی هستند که به دلیل فشارهای اقتصادی و نرخ بهره بالا، خطر نکول بیشتری دارند. رشد این شاخص نشان می‌دهد که فشارهای اعتباری در اقتصاد آمریکا در حال تشدید است و می‌تواند به کاهش توان خرید و سرمایه‌گذاری منجر شود. بانک‌ها و مؤسسات مالی ممکن است برای پوشش خسارات احتمالی، ذخایر سرمایه‌ای بیشتری کنار بگذارند. این وضعیت می‌تواند نوسانات بازارهای سهام و اوراق قرضه را تقویت کند و نگرانی‌های سرمایه‌گذاران جهانی را افزایش دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "وام‌های مشکل‌دار",
-    "tag": "وام‌های‌دشوار",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/deeply-distressed-us-loans-rise-to-highest-level-since-pandemic",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-06/deeply-distressed-us-loans-rise-to-highest-level-since-pandemic",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791285000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "106cca133a",
-    "title_fa": "‏ذخیره‌گاه جهانی نفت تقریباً تمام شده است",
-    "title_en": "The world has nearly burned through its oil stockpile buffer, executives say",
-    "summary": [
-      "‏ذخیره‌گاه جهانی نفت تقریباً تمام شده است",
-      "‏کاهش این بافر می‌تواند قیمت نفت را بالا برده و نوسانات بازار انرژی را تشدید کند",
-      "‏اجرای تحریم‌های غربی علیه روسیه نقش مهمی در کاهش ذخایر داشته"
-    ],
-    "body_fa": "‏مدیران صنعت نفت اعلام کردند که ذخیره‌گاه‌های استراتژیک جهانی تقریباً تمام شده‌اند. این بافر که معمولاً حدود صد میلیون بشکه را پوشش می‌داد، پس از سال‌های تقاضای بالا، کاهش تولید و تحریم‌های غربی علیه روسیه به شدت کاهش یافته است. کارشناسان هشدار می‌دهند که کمبود این ذخایر می‌تواند فشار بر قیمت‌های نفت را افزایش داده و نوسانات بازار انرژی را تشدید کند. در صورت ادامه این روند، دولت‌ها ممکن است مجبور شوند ذخایر استراتژیک خود را آزاد کنند یا تولید را افزایش دهند تا از نوسان شدید جلوگیری شود. این وضعیت برای کشورهای واردکننده نفت و اقتصادهای وابسته به انرژی تأثیر قابل‌توجهی خواهد داشت.",
-    "category": "انرژی و کالا",
-    "subcategory": "ذخیره‌ نفت جهانی",
-    "tag": "نفت",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/world-has-nearly-burned-through-its-oil-stockpile-buffer-executives-say-2026-10-06/",
-    "clean_url": "https://www.reuters.com/business/energy/world-has-nearly-burned-through-its-oil-stockpile-buffer-executives-say-2026-10-06",
-    "image": "https://www.reuters.com/resizer/v2/CFFYJFHUXVLDBBQ5JM2V7H6KIM.jpg?auth=63dfd3d4a3ce49c5c5500193d9d5d5baaa917e5e2b44edd2d1703a4055ba0f8e&height=1005&width=1920&quality=80&smart=true",
-    "timestamp": 1791282360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2c9538bb14",
-    "title_fa": "‏DeepSeek و Moonshot قبل IPO میلیاردها دلار جذب سرمایه کردند",
-    "title_en": "Chinese AI funding surges as us rivals pursue trillion-dollar valuations",
-    "summary": [
-      "‏شرکت‌های چینی DeepSeek و Moonshot هر کدام قبل از عرضه عمومی سهام، میلیاردها دلار سرمایه جذب کردند.",
-      "‏این جذب سرمایه نشان‌دهنده تشدید رقابت هوش مصنوعی بین چین و آمریکا و می‌تواند تأثیر قابل‌توجهی بر بازارهای فناوری داشته باشد.",
-      "‏DeepSeek هدف دارد تا تا اوایل 2027 در بورس چین لیست شود؛ Moonshot نیز IPO هانگ‌کنگ در همان سال برنامه دارد."
-    ],
-    "body_fa": "‏شرکت‌های چینی DeepSeek و Moonshot در پی رقابت شدید هوش مصنوعی با آمریکا، به‌سرعت سرمایه‌های چند میلیارد دلاری جذب کرده‌اند. DeepSeek در آستانه دور مالی حداقل 12 میلیارد دلار است که ممکن است تا 15 میلیارد دلار برسد و توسط Tencent و CATL پشتیبانی می‌شود. این شرکت قصد دارد تا اوایل سال 2027 در بورس چین لیست شود. Moonshot پس از تکمیل دور خصوصی آخرین خود، با ارزش‌گذاری 50 میلیارد دلاری، هدف IPO در هانگ‌کنگ در سه‌ماهه اول 2027 را دارد. شرکت انتظار دارد درآمدهای تکراری سالانه خود را تا دسامبر به 2 میلیارد دلار برساند که دو برابر سطح فعلی است. این جذب سرمایه‌های عظیم نشان می‌دهد که سرمایه‌گذاران جهانی به سرعت به سمت توسعه مدل‌های هوش مصنوعی پیشرفته می‌روند و می‌تواند فشار رقابتی بر OpenAI و سایر شرکت‌های آمریکایی را افزایش دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
-    "tag": "هوش‌مصنوعی",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
-    "clean_url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
-    "image": "https://s.yimg.com/bo/abc11de6-4feb-5e49-aa69-a8ce8d185ee1_1791280099023.jpg",
-    "timestamp": 1791280478.0,
     "sent_to_telegram": true
   }
 ]
