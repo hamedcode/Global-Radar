@@ -1,5 +1,49 @@
 [
   {
+    "id": "fcdac7468b",
+    "title_fa": "‏تحریم‌های مهاجرتی ساخت‌وساز مسکن را به‌سختی می‌کشاند",
+    "title_en": "The Immigration Crackdown Is Making It Much Harder to Build Houses",
+    "summary": [
+      "‏سیاست‌های سخت‌گیرانه مهاجرتی باعث کمبود کارگران خارجی در ساخت‌وساز مسکن شد",
+      "‏کمبود نیروی کار، سرعت ساخت خانه‌ها را کاهش و فشار بر قیمت‌ها را افزایش می‌دهد",
+      "‏این وضعیت می‌تواند عرضه مسکن را کاهش و بحران مسکن را تشدید کند"
+    ],
+    "body_fa": "‏سیاست‌های جدید محدودکننده مهاجرت در ایالات متحده باعث شده‌اند که تعداد کارگران خارجی مورد نیاز بخش ساخت‌وساز مسکن به‌طور چشمگیری کاهش یابد. این نیروی کار خارجی پیش از این بخش اساسی تأمین نیروی کار در پروژه‌های ساختمانی بود و اکنون با کمبود مواجه است. به‌دلیل این کمبود، سرعت ساخت خانه‌ها به‌طور قابل‌توجهی کاهش یافته و هزینه‌های نیروی کار افزایش یافته است. در نتیجه، عرضه مسکن جدید به‌سختی می‌تواند تقاضای رو به رشد را پوشش دهد و فشار بر قیمت‌های مسکن را بالا ببرد. کارشناسان هشدار می‌دهند که این روند می‌تواند به تشدید بحران مسکن و افزایش هزینه‌های زندگی منجر شود. دولت ممکن است برای رفع این مشکل به اصلاحات مهاجرتی یا برنامه‌های آموزشی نیروی کار داخلی فکر کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار مسکن",
+    "tag": "مهاجرت",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/us-news/the-immigration-crackdown-is-making-it-much-harder-to-build-houses-ec00f4da",
+    "clean_url": "https://www.wsj.com/us-news/the-immigration-crackdown-is-making-it-much-harder-to-build-houses-ec00f4da",
+    "image": "https://s.yimg.com/bo/48ae4b0a-434f-5733-88d6-c42caaedf5dd_1792157082942.jpg",
+    "timestamp": 1792156500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "80a52a3d6c",
+    "title_fa": "‏هزینه‌های ETF های «ارزان» بیشتر از تصور است",
+    "title_en": "Your ‘Cheap’ ETF Costs More Than You Think",
+    "summary": [
+      "‏هزینه واقعی بسیاری از ETF های پرطرفدار با افزایش دارایی‌ها ثابت مانده است.",
+      "‏این موضوع برای سرمایه‌گذاران هزینه‌های پنهان را نشان می‌دهد و می‌تواند بازده خالص را کاهش دهد.",
+      "‏حتی با رشد دارایی‌های کل صندوق‌ها، نسبت هزینه‌ها به‌طور چشمگیری تغییر نکرده است."
+    ],
+    "body_fa": "‏در سال‌های اخیر دارایی‌های تحت مدیریت بسیاری از ETF های پرطرفدار به شدت افزایش یافته است، اما هزینه‌های عملیاتی و نسبت هزینه به دارایی (expense ratio) به‌طور قابل‌توجهی ثابت مانده‌اند. این عدم کاهش هزینه‌ها باعث می‌شود سرمایه‌گذاران به‌جای صرف هزینه‌های کمتر، مبلغ بیشتری از بازده خود را به‌عنوان کارمزد از دست بدهند. برخی از این صندوق‌ها که به‌عنوان «ارزان» تبلیغ می‌شوند، در واقع هزینه‌های مخفی یا هزینه‌های پنهان بیشتری نسبت به انتظار دارند. کارشناسان مالی هشدار می‌دهند که بررسی دقیق نسبت هزینه به دارایی قبل از سرمایه‌گذاری ضروری است. این روند می‌تواند به‌خصوص برای سرمایه‌گذاران خرد که به دنبال حداکثر کردن بازده خالص هستند، اثر منفی داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "صندوق‌های سرمایه‌گذاری",
+    "tag": "هزینه ETF",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/finance/investing/your-cheap-etf-costs-more-than-you-think-e7e34eea",
+    "clean_url": "https://www.wsj.com/finance/investing/your-cheap-etf-costs-more-than-you-think-e7e34eea",
+    "image": "https://s.yimg.com/bo/7b4c0faa-7d51-5df8-8b2b-30ec4fc360f4_1792157146156.jpg",
+    "timestamp": 1792156500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "14693263f5",
     "title_fa": "‏قاضی درخواست لغو جریمه 5 میلیون دلاری Gemini را رد",
     "title_en": "Federal judge rejects joint Gemini and CFTC request to overturn $5 million...",
@@ -19,6 +63,28 @@
     "clean_url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
     "image": "https://s.yimg.com/bo/b7d7fd82-abac-56ff-9c76-e9f9f141b935_1791479426153.jpg",
     "timestamp": 1792143387.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7344bfe376",
+    "title_fa": "‏G7 تمرین حملات هوش مصنوعی به بانک‌ها را آغاز کرد",
+    "title_en": "G7 countries plan “tabletop exercises” simulating AI cyberattacks on banks.",
+    "summary": [
+      "‏کشورهای عضو G7 تمرین‌های شبیه‌سازی حملات هوش مصنوعی به سامانه‌های بانکی را برنامه‌ریزی کردند.",
+      "‏این تمرین‌ها برای ارزیابی خطرات سایبری و تقویت دفاع‌های مالی در برابر تهدیدات هوش مصنوعی مهم هستند.",
+      "‏بانک مرکزی انگلستان و صندوق بین‌المللی پول نیز بر ضرورت این اقدام تأکید کردند."
+    ],
+    "body_fa": "‏کشورهای عضو G7 اعلام کردند که تمرین‌های شبیه‌سازی حملات سایبری مبتنی بر هوش مصنوعی به بانک‌ها را برگزار می‌کنند. این برنامه توسط وزیر مالی ژاپن تأیید شد. هدف این تمرین‌ها ارزیابی توانایی سامانه‌های مالی در مقابل تهدیدات پیشرفتهٔ هک است که هوش مصنوعی می‌تواند سرعت آن را افزایش دهد. رؤسای بانک انگلستان و صندوق بین‌المللی پول بر ضرورت تقویت امنیت مالی تأکید کردند. این اقدام بخشی از تلاش‌های جهانی برای آماده‌سازی مقررات‌گذاران و اپراتورهای مالی در برابر خطرات نوظهور هوش مصنوعی است. این برنامه نشان‌دهندهٔ نگرانی فزایندهٔ بین‌المللی نسبت به توانایی هوش مصنوعی در تشدید خطرات سایبری است.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "هوش‌مصنوعی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012622/g7-countries-plan-tabletop-exercises-simulating-ai-cyberattacks-on-banks",
+    "clean_url": "https://www.theverge.com/ai-artificial-intelligence/1012622/g7-countries-plan-tabletop-exercises-simulating-ai-cyberattacks-on-banks",
+    "image": "https://s.yimg.com/bo/86d1a589-5f0f-5265-83fb-6d39ac7340ec_1791458910632.png.cf.jpg",
+    "timestamp": 1792138500.0,
     "sent_to_telegram": true
   },
   {
@@ -44,6 +110,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "42e8471e56",
+    "title_fa": "‏دیتا سنترهای هند تقاضای انرژی تجدیدپذیر را دو برابر می‌کنند",
+    "title_en": "Data Centers Drive Surge in India’s Renewable Power Demand",
+    "summary": [
+      "‏ساخت دیتاسنترهای بزرگ در هند نیاز به 30 تا 40 گیگاوات انرژی تجدیدپذیر ایجاد می‌کند",
+      "‏این تقاضا می‌تواند ظرفیت تجدیدپذیر کشور را تا سال 2030 دو برابر کند",
+      "‏شرکت‌های بزرگ مثل Meta و Amazon به دنبال قراردادهای طولانی‌مدت برای خرید انرژی پاک هستند"
+    ],
+    "body_fa": "‏برنامه‌های عظیم ساخت دیتاسنتر در هند، تقاضای انرژی پاک را به طور چشمگیری افزایش می‌دهد. به گفته کولدیپ جین، مدیرعامل CleanMax ، حتی پنج گیگاوات ظرفیت دیتاسنتر که یک برآورد محتاطانه است، به 30 تا 40 گیگاوات انرژی تجدیدپذیر نیاز دارد. برآوردها نشان می‌دهد که ظرفیت تجدیدپذیر مورد نیاز برای دیتاسنترها از 16.1 گیگاوات در سال جاری به 32.4 گیگاوات تا سال 2030 خواهد رسید. شرکت‌های بزرگ فناوری مانند Meta و Amazon به دنبال قراردادهای خرید برق طولانی‌مدت (PPA) برای تأمین 100 ٪ انرژی پاک هستند. دولت هند نیز در صدد معرفی سیاستی برای محافظت از مصرف‌کنندگان در برابر افزایش هزینه‌های انرژی است. برآوردهای BloombergNEF نشان می‌دهد که تقاضای برق دیتاسنترها می‌تواند از 11 تراه‌وات‌ساعت در 2025 به 636 تراه‌وات‌ساعت تا 2050 برسد، معادل 11 ٪ از کل مصرف برق هند. این رشد می‌تواند فرصت‌های بزرگی برای توسعه پروژه‌های خورشیدی و بادی در مناطق مختلف کشور ایجاد کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "دیتا سنتر و انرژی تجدیدپذیر",
+    "tag": "دیتا سنتر",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Data-Centers-Drive-Surge-in-Indias-Renewable-Power-Demand.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Data-Centers-Drive-Surge-in-Indias-Renewable-Power-Demand.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_k6ujqivkrb.jpg",
+    "timestamp": 1792128600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5a1eb5d5a0",
+    "title_fa": "‏سریال Drive to Survive الهام‌بخش Star Wars: Galactic Racer شد",
+    "title_en": "The Netflix series Drive to Survive inspired Star Wars: Galactic Racer",
+    "summary": [
+      "‏سریال Netflix Drive to Survive به‌عنوان منبع الهام برای بازی Star Wars: Galactic Racer اعلام شد",
+      "‏این الهام‌گیری باعث افزودن صحنه‌های پدک و تعاملات شخصیت‑محور در مسابقات شد که می‌تواند تجربه بازیکنان را غنی‌تر کند",
+      "‏بازی که 6 اکتبر روی PC ، PlayStation و Xbox منتشر شد، امتیاز 88 متاکریتیک برای نسخه PS5 دریافت کرده"
+    ],
+    "body_fa": "‏مات وبستر، سرپرست توسعه‌دهنده Fuse Games ، گفت که سریال Drive to Survive از ابتدا الهام‌بخش Star Wars: Galactic Racer بوده. تیم توسعه می‌خواست حس رقابت و درام پشت صحنه را که در سریال دیده می‌شود، در پدک بازی بازتاب دهد تا بازیکنان با شخصیت‌های Star Wars نزدیک‌تر شوند. این فضاهای کم‌شدت برای تعادل با سرعت بالای مسابقات طراحی شده‌اند. بازی در 6 اکتبر برای PC ، PlayStation و Xbox و همچنین سرویس استریم Luna آمازون عرضه شد. نقدها واکنش مثبت دادند و نسخه PS5 امتیاز 88 در متاکریتیک کسب کرده است. وبستر افزود که پس از سال‌ها نبود بازی مسابقه‌ای Star Wars ، این عنوان می‌تواند خلأ بازار را پر کند.",
+    "category": "گیم",
+    "subcategory": "بازی‌های مسابقه‌ای",
+    "tag": "StarWarsRacer",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer",
+    "clean_url": "https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer",
+    "image": "https://assetsio.gnwcdn.com/Star-Wars_-Galactic-Racer-Launch-Screenshot-4.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1792128360.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "75b28e92c0",
+    "title_fa": "‏اکسون‌موبیل پیش‌بینی افزایش ۴٫۵ میلیارد دلاری سود پالایش",
+    "title_en": "ExxonMobil signals $4.5 billion refining earnings boost as margins soar",
+    "summary": [
+      "‏اکسون‌موبیل اعلام کرد حاشیه‌های پالایش در سه‌ماهه سوم می‌تواند سود پایین‌دست را ۴٫۵ میلیارد دلاری افزایش دهد.",
+      "‏این افزایش نشان‌دهنده تقویت حاشیه‌های نفتی و می‌تواند بر قیمت‌های انرژی و بازارهای مالی تأثیر بگذارد.",
+      "‏حاشیه‌های پالایش در این دوره به بالاترین سطح سال‌های اخیر رسید."
+    ],
+    "body_fa": "‏اکسون‌موبیل در گزارشی به بازار اعلام کرد که حاشیه‌های پالایش در سه‌ماهه سوم ۲۰۲۳ به شدت افزایش یافته‌اند. این بهبود حاشیه‌ها می‌تواند سود پایین‌دست شرکت را حدود ۴٫۵ میلیارد دلار نسبت به سه‌ماهه قبلی ارتقا دهد. شرکت این افزایش را به ترکیبی از قیمت‌های بالای نفت خام و هزینه‌های عملیاتی کمتر نسبت به پیش‌بینی‌ها نسبت می‌دهد. چنین رشد سودی می‌تواند انتظارات سرمایه‌گذاران را تقویت کرده و فشار خرید بر سهام انرژی را افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند که این روند ممکن است باعث تثبیت یا حتی افزایش قیمت گازوئیل و بنزین در بازارهای جهانی شود. در عین حال، این ارقام نشانگر قدرت اکسون‌موبیل در بهره‌برداری از حاشیه‌های پالایشی بالا در مقابل رقباست.",
+    "category": "انرژی و کالا",
+    "subcategory": "پالایش نفت",
+    "tag": "ExxonMobil",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/exxonmobil-signals-lower-third-quarter-earnings-2026-10-16/",
+    "clean_url": "https://www.reuters.com/business/energy/exxonmobil-signals-lower-third-quarter-earnings-2026-10-16",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792127340.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "0c08e490c1",
     "title_fa": "‏رئیس فدرال‌رزرو درباره احتمال افزایش دوباره نرخ بهره سکوت کرد",
     "title_en": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for...",
@@ -63,6 +195,72 @@
     "clean_url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
     "image": "https://s.yimg.com/bo/7bea1e9e-1f87-5b2b-84ca-1e4e1a03633b_1792124611342.jpg",
     "timestamp": 1792123587.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1be252ca7c",
+    "title_fa": "‏کیف‌پول Ledger هک شد؛ ۴.9 میلیون بیت‌کوین سُرقت شد",
+    "title_en": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+    "summary": [
+      "‏کلاهبردار بزرگ با کارهای تقلبی آنلاین، بیش از ۴.9 میلیون بیت‌کوین را از کیف‌پول‌های Ledger از دست داد.",
+      "‏این سرقت به دلیل کاشت چیپ جاسوسی در دستگاه‌های Ledger توسط فروشنده‌ای در جنوب‌شرق آسیا رخ داد و امنیت کیف‌پول‌های سخت‌افزاری را زیر سؤال برد.",
+      "‏دست‌اندرکاران ۶۰ بیت‌کوین را از سه آدرس کیف‌پول استخراج کردند."
+    ],
+    "body_fa": "‏یک کلاهبردار که با ارائه شغل‌های آنلاین تقلبی میلیون‌ها دلار جمع‌آوری کرده بود، بیش از ۴.9 میلیون بیت‌کوین را از طریق کیف‌پول‌های سخت‌افزاری Ledger از دست داد. این فرد پول‌های به‌دست آمده از طرح‌های کاری تقلبی را به سه آدرس کیف‌پول Ledger منتقل کرد که سپس توسط دزدها خالی شد. تحقیقات نشان داد دستگاه‌های Ledger فروخته شده توسط فروشنده‌ای در جنوب‌شرق آسیا حاوی یک ایمپلنت سخت‌افزاری غیرمجاز بودند که اطلاعات بازیابی کیف‌پول را از طریق شبکه موبایل ارسال می‌کرد. این ایمپلنت به هکرها امکان دسترسی به بیت‌کوین‌های ذخیره‌شده در دستگاه‌ها را داد و ۶۰ بیت‌کوین از سه آدرس سرقت شد. این حادثه نگرانی‌های جدی درباره امنیت کیف‌پول‌های سخت‌افزاری ایجاد کرده و کاربران را به بررسی منبع خرید دستگاه‌های خود فرا می‌خواند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "امنیت کیف پول سخت‌افزاری",
+    "tag": "Ledger",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+    "clean_url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/727c641cca47f8677edc87bc7d3420448b81fe78-5530x3684.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1792121040.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "65717d5020",
+    "title_fa": "‏سهم و اوراق CoreWeave به‌دلیل نرخ بهره بالا سقوط می‌کند",
+    "title_en": "CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet",
+    "summary": [
+      "‏سهام و اوراق CoreWeave در هفته جاری با کاهش شدید مواجه شدند.",
+      "‏سرمایه‌گذاران به دلیل افزایش هزینه‌های استقراض برای گسترش هوش مصنوعی، نگرانی نشان دادند.",
+      "‏این فشار می‌تواند برنامه‌های توسعه AI شرکت را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏سهام و اوراق قرضه CoreWeave در روز جمعه به سمت کاهش شدید هفتگی حرکت کردند. این افت ناشی از نگرانی سرمایه‌گذاران نسبت به هزینه‌های بالای استقراض برای گسترش زیرساخت‌های هوش مصنوعی شرکت است، به‌ویژه در فضایی که فدرال رزرو احتمالاً نرخ بهره را افزایش می‌دهد. تحلیل‌گران اشاره کردند که مدل مالی مبتنی بر بدهی برای گسترش سریع سرورهای AI می‌تواند در مواجهه با نرخ‌های بهره بالاتر فشارآور باشد. اگر این روند ادامه یابد، ممکن است توان مالی CoreWeave برای گسترش ظرفیت‌های محاسباتی محدود شود و قیمت سهام و اوراق آن تحت فشار بیشتری قرار گیرد. این رویداد نشان می‌دهد که حتی شرکت‌های پیشرو در حوزه AI تحت تأثیر سیاست‌های پولی جهانی قرار دارند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "CoreWeave",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/coreweave-shares-bonds-headed-steep-weekly-losses-ai-borrowing-concerns-mount-2026-10-16/",
+    "clean_url": "https://www.reuters.com/business/coreweave-shares-bonds-headed-steep-weekly-losses-ai-borrowing-concerns-mount-2026-10-16",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792120260.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "56bb47ca9e",
+    "title_fa": "‏گوگل موفق به کاهش خطاهای محاسبه کوانتومی ۴۰ برابر شد",
+    "title_en": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
+    "summary": [
+      "‏گوگل با پردازنده Willow موفق به اجرای «کشت حالت جادویی» شد و خطاها را ۴۰ برابر کاهش داد.",
+      "‏این پیشرفت می‌تواند مانع اصلی محاسبات کوانتومی را رفع کرده و مسیر به سمت رایانه‌های بدون خطا را هموار کند.",
+      "‏همچنین به‌دلیل توان بالقوهٔ شکستن رمزنگاری، صنعت کریپتو به‌دنبال استانداردهای پساکوانتومی است."
+    ],
+    "body_fa": "‏گوگل در روز پنج‌شنبه اعلام کرد که تیم Quantum AI این شرکت توانست «کشت حالت جادویی» را بر روی پردازنده Willow به‌صورت تجربی نشان دهد. این روش با تزریق حالت‌های پر سر و صدا به ناحیه‌ای کوچک از چیپ و انجام سلسله‌ای از اندازه‌گیری‌های هماهنگ، خطاها را فیلتر کرده و حالت‌های خالص با وفاداری منطقی ۹۹٫۹۹٪ برای T‑states تولید می‌کند. نتایج نشان داد که خطاها نسبت به حالت‌های بدون کشت ۴۰ برابر کاهش یافته‌اند، که می‌تواند یکی از بزرگ‌ترین گلوگاه‌های ساخت رایانه‌های کوانتومی مقیاس‌پذیر را حل کند. اگرچه محققان می‌گویند برای رسیدن به محاسبه‌گری بدون خطا در مقیاس بزرگ هنوز آزمایش‌های بیشتری لازم است، این دستاورد گام مهمی به سوی رایانه‌های کوانتومی عملی است. این پیشرفت برای حوزه‌های مختلف از جمله رمزنگاری پساکوانتومی اهمیت دارد، چرا که رایانه‌های کوانتومی قدرتمند می‌توانند امضای دیجیتال فعلی را شکسته و امنیت کریپتوکارنسی‌ها را تهدید کنند. به‌همین دلیل، صنعت کریپتو به‌سرعت به‌دنبال استانداردهای جدید برای مقابله با این تهدید است.",
+    "category": "تکنولوژی",
+    "subcategory": "محاسبات کوانتومی",
+    "tag": "quantum",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
+    "clean_url": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.10.08.png",
+    "timestamp": 1792117740.0,
     "sent_to_telegram": true
   },
   {
@@ -132,6 +330,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "c6ee214144",
+    "title_fa": "‏MSCI قوانین حذف شرکت‌های بیت‌کوین‌دار از شاخص‌ها را تصویب کرد",
+    "title_en": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+    "summary": [
+      "‏MSCI قوانین جدیدی تصویب کرد که می‌تواند شرکت‌های سرمایه‌گذاری بیت‌کوین‌دار مانند Strategy و Metaplanet را از شاخص‌های جهانی حذف کند.",
+      "‏حذف این شرکت‌ها می‌تواند باعث خروج حدود ۲.۸ میلیارد دلار سرمایه از سهام Strategy شود و تقاضای بازار را تحت تأثیر قرار دهد.",
+      "‏نام شرکت‌های تحت تأثیر در ۱۱ نوامبر اعلام می‌شود و تغییرات در پایان ماه نوامبر اجرایی می‌شود."
+    ],
+    "body_fa": "‏MSCI ، یکی از بزرگ‌ترین ارائه‌دهندگان شاخص‌های سهام جهان، قوانین جدیدی را نهایی کرد که شرکت‌های عمدتاً سرمایه‌گذاری‌محور را از شاخص‌های Global Investable Market خود حذف می‌کند. این قوانین که در اوت پیشنهاد شده بودند، می‌توانند پس از بسته شدن بازار در ۳۰ نوامبر، سهام شرکت‌های Strategy و Metaplanet را از شاخص‌ها بیرون ببرند. شرکت‌های تحت تأثیر، که به‌طور عمده بیت‌کوین را در خزانه خود نگه می‌دارند، تا ۱۱ نوامبر نامشان اعلام می‌شود. تحلیل‌گران JPMorgan برآورد کرده‌اند که حذف Strategy می‌تواند حدود ۲.۸ میلیارد دلار خروج سرمایه از سهام این شرکت ایجاد کند. این خروج سرمایه می‌تواند فشار بر قیمت سهام و توانایی شرکت برای تأمین مالی خریدهای بیت‌کوین آینده را افزایش دهد. این تصمیم نشان‌دهنده تنش بین روش‌های سنتی ساخت شاخص و رشد شرکت‌های مبتنی بر دارایی‌های دیجیتال است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین شاخص",
+    "tag": "MSCI",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1792114500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "993aa8cf0a",
     "title_fa": "‏رئیس فدرال رزرو: هوش مصنوعی اقتصاد را تقویت می‌کند",
     "title_en": "AI Set To Transform Global Economy, But Jobs Outlook Uncertain: Fed Chair",
@@ -195,6 +415,28 @@
     "clean_url": "https://www.msn.com/en-xl/money/economy/global-economy-faces-debt-inflation-risks-imf-warns/ar-AA2em9Se",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792110075.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e970a8755b",
+    "title_fa": "‏عرضه سوخت‌دریایی جهانی کاهش یافت به‌دلیل هرمز و روسیه",
+    "title_en": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
+    "summary": [
+      "‏صادرات سوخت‌دریایی با گوگرد بالا از خاورمیانه ماهانه حداقل 800,000 تن کمتر شد و حمل‌ونقل روسیه نیز تحت حمله‌های پهپادی قرار گرفت.",
+      "‏این کاهش عرضه باعث افزایش قیمت لحظه‌ای سوخت‌دریایی به حدود 50 دلار تن شد که هزینه‌های حمل‌ونقل بین‌المللی را فشار می‌آورد.",
+      "‏تولیدکنندگان برای خروج از هرمز هزینه‌های حمل‌ونقل و پرمیوم ریسک بالاتری می‌پردازند."
+    ],
+    "body_fa": "‏تولیدکنندگان سوخت‌دریایی جهانی با کاهش شدید صادرات از خاورمیانه و حمله‌های پهپادی به پالایشگاه‌های روسیه مواجه شده‌اند. به‌ گفتهٔ Kieran Gallagher ، رئیس عملیات آسیای Vitol ، صادرات سوخت‌دریایی با گوگرد بالا از خاورمیانه ماهانه حداقل 800,000 تن کمتر از قبل از جنگ است. به‌دلیل خطرات حمل‌ونقل در تنگه هرمز، شرکت‌ها هزینه‌های حمل‌ونقل و پرمیوم ریسک بالاتری می‌پردازند که عرضه را بیشتر محدود می‌کند. در عین حال، برخی پالایشگرهای آسیایی به‌جای نفت خام، سوخت‌دریایی با گوگرد بالا را به‌عنوان خوراک استفاده می‌کنند و برای تحویل نوامبر حدود یک میلیون تن سفارش داده‌اند. حملات پهپادی اوکراین بر پالایشگاه‌های روسیه تخمیناً یک میلیون تن سوخت‌دریایی در هر ماه را از دست می‌دهد. در نتیجه، قیمت لحظه‌ای سوخت‌دریایی در بازار اسپاچ نزدیک 50 دلار تن رسیده است که قبلاً در اواخر فوریه تنها 5.10 دلار بود. این فشار قیمتی می‌تواند هزینه‌های حمل‌ونقل بین‌المللی را افزایش داده و بر تجارت جهانی اثرگذار باشد.",
+    "category": "انرژی و کالا",
+    "subcategory": "سوخت کشتی‌رانی",
+    "tag": "سوخت‌دریایی",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-Fuel-Oil-Shortage-Deepens-as-Middle-East-and-Russia-Supplies-Collapse.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Global-Fuel-Oil-Shortage-Deepens-as-Middle-East-and-Russia-Supplies-Collapse.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_76cblrcdva.jpg",
+    "timestamp": 1792108860.0,
     "sent_to_telegram": true
   },
   {
@@ -327,6 +569,28 @@
     "clean_url": "https://oilprice.com/Company-News/Eni-Warns-of-Refinery-Shutdown-as-Steelworkers-Block-Fuel-Deliveries.html",
     "image": "https://s.yimg.com/bo/be4568de-e354-5987-895d-17851df1449f_1792094734351.jpg",
     "timestamp": 1792092809.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "870a6c8086",
+    "title_fa": "‏اتحادیه اروپا تحریم‌های روسیه را پس از تغییر موضع آمریکا حفظ می‌کند",
+    "title_en": "EU vows to maintain Russia sanctions after US pivot",
+    "summary": [
+      "‏اتحادیه اروپا اعلام کرد تحریم‌های خود علیه روسیه را ادامه خواهد داد.",
+      "‏این تصمیم پس از تغییر موضع ایالات متحده در رابطه با روسیه اتخاذ شد.",
+      "‏جزئیات بیشتر در دسترس نیست."
+    ],
+    "body_fa": "‏اتحادیه اروپا به‌صورت رسمی اعلام کرد که تحریم‌های اعمال‌شده بر روسیه را حفظ خواهد کرد، هرچند ایالات متحده اخیراً موضع خود را نسبت به روابط با مسکو تغییر داده است. این اعلامیه نشان می‌دهد که سیاست خارجی اروپا قصد دارد مسیر مستقلی را در قبال روسیه دنبال کند. جزئیات دقیق دربارهٔ نوع تحریم‌ها یا زمان‌بندی آن‌ها در متن موجود نیست.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌های روسیه",
+    "tag": "تحریم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792092360.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,270 +6597,6 @@
     "clean_url": "https://www.reuters.com/world/middle-east/attacks-tankers-hormuz-hit-highest-any-week-since-start-iran-war-sources-say-2026-10-07",
     "image": "https://s.yimg.com/bo/10c1abe6-c584-527f-ac8d-ae105f383819_1791383721442.jpg",
     "timestamp": 1791383632.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3af4d9bbd1",
-    "title_fa": "‏شرکت معدنی Trinity Metals برای عرضه اولیه در بورس نیویورک آماده می‌شود",
-    "title_en": "Tungsten prices have soared eightfold. Now Rwanda’s Trinity Metals wants a New York IPO as demand for the defence and aerospace metal grows",
-    "summary": [
-      "‏شرکت معدنی Trinity Metals در پی جهش هشت برابری قیمت تنگستن، در تدارک عرضه اولیه سهام در بورس نیویورک است.",
-      "‏این فلز نقشی حیاتی در صنایع دفاعی دارد و محدودیت‌های صادراتی چین توجه دولت‌های غربی را به منابع جایگزین جلب کرده است.",
-      "‏این شرکت قصد دارد با سرمایه‌گذاری تا 80 میلیون دلار، تولید معدن Nyakabingo در رواندا را ظرف پنج سال سه برابر کند."
-    ],
-    "body_fa": "‏شرکت معدنی Trinity Metals فعال در رواندا، پس از جهش بیش از هشت برابری بهای تنگستن در دو سال گذشته، مذاکرات مقدماتی را برای عرضه اولیه سهام خود در بورس نیویورک آغاز کرده است. این فلز استراتژیک در صنایع دفاعی، هوافضا و ساخت تجهیزات صنعتی کاربرد گسترده‌ای دارد و با اعمال محدودیت‌های صادراتی از سوی چین، زنجیره تأمین جهانی آن با چالش جدی مواجه شده است. کشورهای غربی در تلاش هستند تا وابستگی خود را به چین در حوزه مواد معدنی حیاتی کاهش دهند و دولت آمریکا نیز از طریق نهاد DFC در حال ارزیابی سرمایه‌گذاری 50 میلیون دلاری در این مجموعه است. طبق توضیحات Peter Geleta مدیرعامل این شرکت، تمرکز اصلی روی احداث تأسیسات جدید فرآوری در معدن Nyakabingo با سرمایه‌گذاری 60 تا 80 میلیون دلار خواهد بود. پیش‌بینی می‌شود با اجرای طرح‌های مکانیزاسیون، ظرفیت استخراج این معدن ظرف سه تا پنج سال آینده تا سه برابر افزایش یابد.",
-    "category": "انرژی و کالا",
-    "subcategory": "فلزات استراتژیک",
-    "tag": "تنگستن",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Business Insider Africa",
-    "url": "https://africa.businessinsider.com/local/markets/tungsten-prices-have-soared-eightfold-now-rwandas-trinity-metals-wants-a-new-york-ipo/4sv1k4p",
-    "clean_url": "https://africa.businessinsider.com/local/markets/tungsten-prices-have-soared-eightfold-now-rwandas-trinity-metals-wants-a-new-york-ipo/4sv1k4p",
-    "image": "https://ocdn.eu/pulscms-transforms/1/yZgktkpTURBXy83MmNhNTg4MDZmOTU0OTMxZmFhMzRiZWZlMjRjMjhiOS5qcGeSlQMAFc0Cps0BfZMFzQSwzQJ2",
-    "timestamp": 1791383520.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f7292bebef",
-    "title_fa": "‏Solidigm SK Hynix برای IPO آمریکا بانک‌ها را انتخاب می‌کند",
-    "title_en": "SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year",
-    "summary": [
-      "‏شرکت Solidigm وابسته به SK Hynix تصمیم گرفته سال آینده در ایالات متحده عرضه عمومی انجام دهد.",
-      "‏انتخاب بانک‌های سرمایه‌گذاری برای IPO می‌تواند تأثیر قابل‌توجهی بر بازار نیمه‌رساناها داشته باشد.",
-      "‏این گام نشان‌دهنده تقویت حضور شرکت‌های کره‌ای در بازارهای مالی آمریکا است."
-    ],
-    "body_fa": "‏Solidigm ، شرکت فرعی SK Hynix ، برنامه دارد تا در سال آینده در بورس ایالات متحده عرضه عمومی اولیه (IPO) انجام دهد. به گزارش منابع، این شرکت در حال انتخاب بانک‌های سرمایه‌گذاری برای مدیریت فرآیند IPO است. انتخاب مؤسسات مالی مناسب می‌تواند به جذب سرمایه‌گذاران جهانی و ارتقای ارزش بازار نیمه‌رساناها کمک کند. این اقدام نشان‌دهنده تمایل شرکت‌های کره‌ای به گسترش حضور در بازارهای مالی آمریکا است. اگر IPO موفق باشد، می‌تواند تأثیر مثبتی بر قیمت سهام SK Hynix و رقابت در صنعت حافظه داشته باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "سرمایه‌گذاری فناوری",
-    "tag": "Solidigm",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-07/sk-hynix-s-solidigm-is-said-to-pick-banks-for-us-ipo-next-year",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/sk-hynix-s-solidigm-is-said-to-pick-banks-for-us-ipo-next-year",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791383340.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d068aeb245",
-    "title_fa": "‏دست آورد Nous Research 90 میلیون دلار؛ ارزش 1.5 میلیارد",
-    "title_en": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "summary": [
-      "‏استارتاپ Nous Research 90 میلیون دلار سرمایه‌گذاری سری B جذب کرد و ارزشش به 1.5 میلیارد دلار رسید.",
-      "‏این سرمایه برای گسترش Hermes Agent به شرکت‌ها و ارائه هوش مصنوعی سفارشی با حفظ حریم‌خصوصی به کار می‌رود.",
-      "‏شرکت تا سپتامبر 2026 درآمد سالیانه 36 میلیون دلار داشته و هدفش عبور از 100 میلیون دلار تا پایان سال است."
-    ],
-    "body_fa": "‏استارتاپ Nous Research که در حال توسعه Hermes Agent متن‌باز است، در دور سری B مبلغ 90 میلیون دلار جذب کرد و ارزشش به 1.5 میلیارد دلار رسید. این سرمایه‌گذاری توسط Robot Ventures رهبری شد و از Nvidia ، Union Square Ventures ، Menlo Ventures ، Samsung و 1789 Capital نیز پشتیبانی شد. Hermes Agent تا کنون بیش از 24 میلیون بار کلون شده و حدود 2.5 ٪ از مصرف توکن‌های هوش مصنوعی جهانی را تشکیل می‌دهد. شرکت قصد دارد با «Hermes for Businesses» هوش مصنوعی سفارشی‌سازی شده برای جریان‌های کاری چندمرحله‌ای به شرکت‌ها ارائه دهد، در حالی که داده‌ها را خصوصی و ایمن نگه می‌دارد. برآوردها نشان می‌دهد که درآمد سالیانه شرکت در میانه سپتامبر 2026 حدود 36 میلیون دلار بوده و پیش‌بینی می‌شود تا پایان سال 2026 از 100 میلیون دلار عبور کند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Hermes",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "clean_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-    "timestamp": 1791380880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0b20eeb129",
-    "title_fa": "‏Europol هشدار می‌دهد کیف‌پول‌های رمزارزی به امنیت پساکوانتومی منتقل شوند",
-    "title_en": "Europol urges phased shift to post-quantum security to protect exposed crypto...",
-    "summary": [
-      "‏Europol به‌سرعت به توسعه‌دهندگان، صرافی‌ها و کاربران رمزارزها توصیه کرد تا انتقال تدریجی به امنیت پساکوانتومی را آغاز کنند.",
-      "‏چون حدود 6.9 میلیون بیت‌کوین در آدرس‌های با کلید عمومی نمایان ذخیره‌اند که در آینده ممکن است توسط کامپیوترهای کوانتومی شکسته شوند.",
-      "‏Europol تأکید کرد که بلاکچین‌ها در خطر نیستند؛ تنها کیف‌پول‌ها نیاز به به‌روزرسانی دارند."
-    ],
-    "body_fa": "‏Europol در گزارشی جدید هشدار داد که کامپیوترهای کوانتومی می‌توانند کلیدهای خصوصی نمایان کیف‌پول‌های رمزارزی را استخراج کنند، اگرچه چنین دستگاه‌هایی هنوز وجود ندارند. این خطر برای حدود 6.9 میلیون بیت‌کوین که در آدرس‌های با کلید عمومی نمایان نگهداری می‌شوند، به‌ویژه مهم است. سازمان تأکید کرد که بلاکچین‌ها خود در برابر حملات کوانتومی مقاوم‌اند و تنها نقطه ضعف کیف‌پول‌هاست. به‌همین دلیل Europol از توسعه‌دهندگان، صرافی‌ها، ماینرها و کاربران خواست تا به‌سرعت برنامه‌ای مرحله‌ای برای ارتقاء کیف‌پول‌ها به رمزنگاری پساکوانتومی آغاز کنند. این انتقال شامل به‌روزرسانی نرم‌افزارهای کیف‌پول، استفاده از الگوریتم‌های رمزنگاری مقاوم و هماهنگی جهانی برای جلوگیری از هدف‌گیری کیف‌پول‌های آسیب‌پذیر است. اگر این اقدام به‌موقع انجام نشود، امکان سرقت دارایی‌های دیجیتال توسط کامپیوترهای کوانتومی پیش‌بینی شده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "امنیت کوانتومی",
-    "tag": "quantum",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
-    "clean_url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
-    "image": "https://s.yimg.com/bo/dbe16d1c-a8ba-560d-9116-4ab63ede409c_1790244256255.jpg",
-    "timestamp": 1791380032.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bd67e0a003",
-    "title_fa": "‏دستیار AI Tab با ارزش‌گذاری 300 میلیون دلار رونمایی شد",
-    "title_en": "Another personal AI assistant has launched — Meet Tab, which emerged from stealt...",
-    "summary": [
-      "‏دستیار شخصی Tab با ارزش‌گذاری 300 میلیون دلار از حالت مخفی خارج شد",
-      "‏کاربران می‌توانند با ارسال پیام در iMessage یا WhatsApp کارهای روزمره مثل رزرو و خرید را به آن واگذار کنند",
-      "‏سرمایه‌گذاران شامل SV Angel ، Valar Ventures و American Spirit هستند"
-    ],
-    "body_fa": "‏Tab ، دستیار هوش مصنوعی جدیدی است که این روزها از حالت مخفی خارج شد و با ارزش‌گذاری 300 میلیون دلار معرفی شد. تیم مؤسس شامل Brennan Erbz ، Stafford Schlitt و Ammar Amdani است که محصول را طوری طراحی کرده‌اند که کاربران تنها با ارسال پیام در iMessage یا WhatsApp می‌توانند درخواست‌های مختلفی از خرید مواد غذایی تا رزرو هتل را بدهند. Tab یک شماره تلفن، کامپیوتر و کیف‌پول اختصاصی دارد و تمام عملیات را بدون نیاز به دخالت کاربر انجام می‌دهد. شرکت تأکید دارد که داده‌های کاربر برای آموزش مدل‌های هوش مصنوعی استفاده نمی‌شود و کارت‌های اعتباری در یک vault امن نگهداری می‌شوند. سرمایه‌گذاران این دور شامل SV Angel ، Valar Ventures و American Spirit هستند و تیم انتظار دارد به‌زودی محصول جدیدی را نیز عرضه کند.",
-    "category": "تکنولوژی",
-    "subcategory": "دستیار هوش مصنوعی",
-    "tag": "Tab",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-    "clean_url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation",
-    "image": "https://s.yimg.com/bo/c52bfc65-2f1d-52e8-a952-c26845012ddb_1791381808804.png.cf.jpg",
-    "timestamp": 1791379030.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5a0d391199",
-    "title_fa": "‏SEC به فعالان فشار اقلیمی بر Exxon هشدار داد",
-    "title_en": "SEC Warns Activist Investors After Climate Push at Exxon",
-    "summary": [
-      "‏SEC به سرمایه‌گذاران فعال هشدار داد که پس از فشارهای اقلیمی بر Exxon ، ممکن است با اقدامات قانونی مواجه شوند.",
-      "‏این هشدار نشان می‌دهد نظارت بر فعالیت‌های زیست‌محیطی سرمایه‌گذاران افزایش می‌یابد و می‌تواند استراتژی‌های فعالان را تحت تأثیر قرار دهد.",
-      "‏در صورت تخلف، SEC می‌تواند جریمه‌های سنگین اعمال کند."
-    ],
-    "body_fa": "‏کمیسیون بورس و اوراق بهادار ایالات متحده (SEC) به سرمایه‌گذاران فعال هشدار داد که پس از فشارهای اقلیمی اخیر بر شرکت ExxonMobil ، ممکن است با اقدامات اجرایی مواجه شوند. این هشدار به این دلیل صادر شد که برخی فعالان از ادعاهای نادرست یا گمراه‌کننده دربارهٔ تأثیرات زیست‌محیطی برای فشار بر شرکت استفاده می‌کنند. SEC تأکید کرد هرگونه بیانیهٔ نادرست می‌تواند تحت قوانین افشاگری و تقلبی قرار گیرد. این پیام می‌تواند استراتژی‌های سرمایه‌گذاری فعالانه را تغییر داده و شرکت‌ها را بهبود شفافیت در گزارش‌های اقلیمی وادار کند. اگر فعالان به این نکات توجه نکنند، ممکن است با جریمه‌های مالی و محدودیت‌های قانونی مواجه شوند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سرمایه‌گذاری فعال",
-    "tag": "SEC",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-07/sec-warns-activist-investors-after-climate-push-at-exxon-mobil",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/sec-warns-activist-investors-after-climate-push-at-exxon-mobil",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791378480.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "927f7537ab",
-    "title_fa": "‏خطای کارمند UPS باعث انتقال قطعات F‑35 به چین شد",
-    "title_en": "UPS Worker Missed Email, Letting China Get F-35 Parts",
-    "summary": [
-      "‏کارمند UPS ایمیلی را از دست داد و قطعات مهم هواپیمای F‑35 به چین رسید",
-      "‏این اتفاق می‌تواند به نقض قوانین صادرات نظامی آمریکا منجر شود",
-      "‏موضوع نگرانی‌های امنیتی و فشار بر روابط تجاری ایالات متحده و چین را افزایش می‌دهد"
-    ],
-    "body_fa": "‏بلومبرگ گزارش داد که یک کارمند شرکت UPS به دلیل از دست دادن یک ایمیل، اجازه داد قطعات حساس هواپیمای جنگی F‑35 به چین منتقل شود. این خطا می‌تواند نشانگر ضعف در نظارت بر صادرات نظامی باشد و قوانین کنترل فناوری پیشرفته آمریکا را به چالش بکشد. مقامات آمریکایی احتمالاً به بررسی این حادثه می‌پردازند تا از تکرار آن جلوگیری کنند. اگر صحت این گزارش تأیید شود، می‌تواند تنش‌های تجاری و امنیتی بین واشنگتن و پکن را تشدید کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "صادرات نظامی",
-    "tag": "F-35",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791377640.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "212ecd4955",
-    "title_fa": "‏شرکت GSR ۱۰۰ میلیون دلار در صندوق‌های زنجیره‌ای سرمایه‌گذاری کرد",
-    "title_en": "Crypto trading giant GSR launches onchain vault business with $100M bet",
-    "summary": [
-      "‏GSR ۱۰۰ میلیون دلار به عنوان تسهیلات اعتباری به کسب‌وکار جدید Hare اختصاص داد.",
-      "‏این اقدام نشان‌دهنده رشد تقاضای مؤسسات مالی برای صندوق‌های زنجیره‌ای است که دارایی‌های دیجیتال و طلا را به‌کار می‌گیرد.",
-      "‏Hare ابتدا دو محصول مبتنی بر Aave برای استیبل‌کوین‌ها و طلاهای توکنیزه شده ارائه می‌دهد."
-    ],
-    "body_fa": "‏شرکت معاملاتی GSR اعلام کرد که ۱۰۰ میلیون دلار، عمدتاً به‌صورت تسهیلات اعتباری، به کسب‌وکار جدیدی به نام Hare اختصاص می‌دهد. Hare به همراه پلتفرم توزیع نقدینگی Turtle ، صندوق‌های زنجیره‌ای (onchain vaults) ایجاد و مدیریت می‌کند. در ابتدا این صندوق‌ها با استفاده از پروتکل Aave ، امکان کسب بازده برای استیبل‌کوین‌های اصلی دلار و محصولات طلا توکنیزه شده Paxos (PAXG و PAXGy) را فراهم می‌آورند. GSR به‌عنوان تأمین‌کنندهٔ نقدینگی اولیه، سرمایهٔ خود را به‌عنوان سرمایهٔ لنگر در این صندوق‌ها قرار می‌دهد تا سرمایه‌گذاران خارجی جذب شوند. این حرکت نشان می‌دهد که تقاضای مؤسسات مالی برای ابزارهای دیجیتال که دارایی‌های توکنیزه را در بازارهای وام‌دهی و استراتژی‌های بازدهی به کار می‌برند، در حال رشد است. تا جولای، حدود ۸.۶ میلیارد دلار در ۷۸۸ صندوق منتخب ذخیره شده بود که نشانگر اهمیت فزاینده این زیرساخت‌هاست. به گفتهٔ Connor Milner ، مدیرعامل Hare ، حضور سرمایهٔ GSR در همان صندوق‌ها اعتماد سرمایه‌گذاران را تقویت می‌کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "زیرساخت مالی",
-    "tag": "GSR",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
-    "clean_url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
-    "image": "https://s.yimg.com/bo/500bcdba-c04f-5549-8f1b-3a855a59509b_1787169233803.jpg",
-    "timestamp": 1791376432.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1eb3e41da9",
-    "title_fa": "‏پوکمون سنتر برنامه دعوت‌خاص برای جعبه Elite Trainer راه‌اندازی کرد",
-    "title_en": "As $170 Scalper Prices Cripple the Market, Pokémon Center Launches an...",
-    "summary": [
-      "‏وب‌سایت US Pokémon Centre برای جعبه Elite Trainer «Ascended Heroes» برنامه Invite‑Only را برای restock معرفی کرد.",
-      "‏این اقدام برای مقابله با قیمت‌های اسکلپرهای ۱۷۰ دلاری و دسترسی محدود به کالای پرتقاضاست.",
-      "‏دست‌رسی فقط برای مشترکین خبرنامه در ایالات‌متحده، کانادا و بریتانیا و با لینک دعوتی تک‌استفاده‌ای امکان‌پذیر است."
-    ],
-    "body_fa": "‏وب‌سایت US Pokémon Centre صفحه لیست جعبه Elite Trainer «Ascended Heroes» را به حالت «Invite‑Only» تغییر داد. این جعبه که در فوریه ۲۰۲۶ عرضه شد، به دلیل کارت‌های مگا‑اِولوشن و آثار هنری برجسته، یکی از پرفروش‌ترین مجموعه‌های TCG شد. برای خرید نیاز به دعوت‌نامه‌ای است که به‌صورت ایمیل به مشترکین خبرنامه در آمریکا، کانادا و بریتانیا ارسال می‌شود. دعوت‌نامه یکبار مصرف است، لینک آن غیرقابل اشتراک‌گذاری و استفاده از چند حساب می‌تواند دسترسی را از بین ببرد. برنامه Invite‑Only به‌عنوان پاسخی به رواج اسکلپرها با قیمت‌های نزدیک ۱۷۰ دلار و کمبود موجودی معرفی شد. اگرچه تعداد جعبه‌ها محدود است و دریافت دعوت‌نامه تضمینی نیست، اما این روش می‌تواند فشار بر بازار ثانویه را کاهش دهد.",
-    "category": "گیم",
-    "subcategory": "کارت‌های جمع‌آوری",
-    "tag": "پوکمون",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN Videogames",
-    "url": "https://www.ign.com/articles/pokemon-center-ascended-heroes-etb-invite-only-restock",
-    "clean_url": "https://www.ign.com/articles/pokemon-center-ascended-heroes-etb-invite-only-restock",
-    "image": "https://s.yimg.com/bo/f4724d25-7352-5bcc-9dbc-ab00f297c230_1791378455468.jpg",
-    "timestamp": 1791376432.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4610cf6829",
-    "title_fa": "‏حوثی‌ها در دو فرودگاه سعودی سه نفر را کشته‌اند",
-    "title_en": "Houthis Kill Three in Attacks on Two Airports in Saudi Arabia",
-    "summary": [
-      "‏حوثی‌ها در دو فرودگاه سعودی حمله کردند و 3 نفر را کشته‌اند.",
-      "‏این حادثه می‌تواند تنش‌های منطقه‌ای را تشدید کرده و بر امنیت حمل و نقل هوایی و بازار نفت تأثیر بگذارد.",
-      "‏حمله به دو فرودگاه مختلف سعودی گزارش شد."
-    ],
-    "body_fa": "‏حوثی‌ها در یک عملیات مسلحانه به دو فرودگاه در عربستان سعودی حمله کردند و در این حملات 3 نفر کشته شدند. این حمله نشان‌دهنده توان عملیاتی گروه در برابر اهداف استراتژیک است و می‌تواند روابط بین‌المللی منطقه را تحت فشار قرار دهد. از آنجا که حوثی‌ها با ایران هم‌پیمان شناخته می‌شوند، این رویداد می‌تواند به تنش‌های موجود بین ایران و عربستان افزوده و نگرانی‌های بین‌المللی درباره امنیت انرژی خاورمیانه را تشدید کند. کارشناسان پیش‌بینی می‌کنند که این حادثه ممکن است بر قیمت نفت و مسیرهای حمل و نقل هوایی تأثیر بگذارد. دولت سعودی احتمالاً اقدامات امنیتی بیشتری در فرودگاه‌ها و سایر زیرساخت‌های حساس به اجرا خواهد گذاشت. این رویداد نشان می‌دهد که خطرات امنیتی در منطقه همچنان بالا است و نیاز به نظارت دقیق بین‌المللی دارد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حملات هوایی",
-    "tag": "حوثی",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-07/houthis-kill-three-in-attacks-on-two-airports-in-saudi-arabia",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/houthis-kill-three-in-attacks-on-two-airports-in-saudi-arabia",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791376380.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "eda8159100",
-    "title_fa": "‏قیمت بنزین در آفریقای جنوبی به 30 راند نزدیک شد",
-    "title_en": "BANENG NAAPE | Why South Africans cannot afford the R30 a litre fuel shock",
-    "summary": [
-      "‏قیمت بنزین 95 اوکتان در جنوب آفریقا به 30.25 راند در هر لیتر رسید",
-      "‏این افزایش هزینه سوخت را برای خانوارها و کسب‌وکارها به شدت افزایش می‌دهد و فشار بر تورم را تقویت می‌کند",
-      "‏یک تانک 50 لیتری بنزین 95 اوکتان حدود 166.5 راند گران‌تر می‌شود"
-    ],
-    "body_fa": "‏از چهارشنبه قیمت بنزین 95 اوکتان در جنوب آفریقا 3.33 راند افزایش یافت و به 30.25 راند در هر لیتر رسید. بنزین 93 اوکتان نیز 3.12 راند افزایشی شد و به 29.88 راند رسید. پر کردن یک مخزن 50 لیتری بنزین 95 اوکتان حدود 166.5 راند هزینه اضافی دارد که به سرعت به هزینه‌های حمل‌ونقل، کرایه تاکسی، قیمت مواد غذایی و هزینه‌های کسب‌وکارها منتقل می‌شود. این افزایش همزمان با افزایش نرخ بهره توسط بانک مرکزی آفریقای جنوبی به 7.25 ٪ و نرخ پایه 10.75 ٪ رخ داد که فشار بر وام‌های مسکن و خودرو را بیشتر کرد. خانوارهای کم‌درآمد که بخش بزرگی از درآمدشان به حمل‌ونقل و غذا اختصاص دارد، بیشترین ضربه را می‌خورند و ممکن است هزینه‌های اساسی را کاهش دهند. شرکت‌های کوچک نیز با هزینه بالاتر سوخت و نرخ بهره بالا مواجه شده و مجبور به افزایش قیمت یا کاهش سرمایه‌گذاری می‌شوند. این فشارها می‌تواند رشد اقتصادی را کند کرده و تورم را در دوره‌ای که اقتصاد هنوز در حال بهبود است، تشدید کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت بنزین",
-    "tag": "بنزین",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "sowetan",
-    "url": "https://www.sowetan.co.za/opinion/columnists/2026-10-07-baneng-naape-why-south-africans-cannot-afford-the-r30-a-litre-fuel-shock/",
-    "clean_url": "https://www.sowetan.co.za/opinion/columnists/2026-10-07-baneng-naape-why-south-africans-cannot-afford-the-r30-a-litre-fuel-shock",
-    "image": "https://www.bing.com/th?id=ONUT.i0DFD2cEMAVfn9_-j5JuEA",
-    "timestamp": 1791374983.8214784,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "af8d7ced31",
-    "title_fa": "‏فدرال رزرو با وجوه خزانه‌داری، ین را حمایت کرد",
-    "title_en": "Fed Used Treasury Funds to Support Yen in Joint Intervention",
-    "summary": [
-      "‏فدرال رزرو برای اولین بار از وجوه خزانه‌داری آمریکا جهت حمایت از ین در مداخله مشترک استفاده کرد.",
-      "‏این اقدام می‌تواند نوسانات ارز را کاهش داده و بازارهای جهانی را تحت تأثیر قرار دهد.",
-      "‏این مداخله نشان‌دهنده هماهنگی نزدیک بین فدرال رزرو و بانک ژاپن است."
-    ],
-    "body_fa": "‏فدرال رزرو به‌طور غیرمنتظره‌ای اعلام کرد که در مداخله مشترک برای حمایت از ین، از وجوه خزانه‌داری آمریکا استفاده کرده است. این اقدام نشان می‌دهد که بانک مرکزی آمریکا مایل به همکاری نزدیک با بانک ژاپن برای تثبیت نرخ ارز است. استفاده از منابع خزانه‌داری، که معمولاً برای عملیات مالی داخلی به کار می‌رود، نشان‌دهنده شدت نگرانی‌ها دربارهٔ سقوط ین است. تحلیل‌گران پیش‌بینی می‌کنند این مداخله می‌تواند فشار بر دلار را کاهش داده و نوسانات بازارهای ارزی را محدود کند. همچنین ممکن است تأثیراتی بر قیمت طلا و سایر کالاهای ارزی داشته باشد، چرا که دلار پایهٔ بسیاری از معاملات کالاست. در صورت ادامهٔ این سیاست، ممکن است سیاست‌گذاران دیگر نیز برای جلوگیری از نوسانات شدید، ابزارهای مشابهی به کار گیرند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار ارز",
-    "tag": "ین",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-07/fed-used-treasury-funds-to-support-yen-in-joint-intervention",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-07/fed-used-treasury-funds-to-support-yen-in-joint-intervention",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791374580.0,
     "sent_to_telegram": true
   }
 ]
