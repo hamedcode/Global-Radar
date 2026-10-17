@@ -44,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "99166f8931",
+    "title_fa": "‏حوثی‌ها فرودگاه یمن را هدف گرفتند؛ عربستان خنثی کرد",
+    "title_en": "Houthis Hit Yemen Airport as Saudi Arabia Intercepts Attacks",
+    "summary": [
+      "‏حوثی‌ها به فرودگاه بین‌المللی یمن حمله کردند",
+      "‏عربستان سعودی با سامانه‌های دفاعی حملات را متوقف کرد",
+      "‏این رخداد تنش‌های منطقه‌ای را تشدید کرده و خطرات برای مسیرهای حمل و نقل را افزایش می‌دهد"
+    ],
+    "body_fa": "‏حوثی‌ها در روز اخیر به فرودگاه بین‌المللی یمن حملهٔ موشکی و پهپادی انجام دادند. نیروهای دفاعی عربستان سعودی با استفاده از سامانه‌های موشکی و رادارهای پیشرفته، اکثر موشک‌ها و پهپادهای مهاجم را شناسایی و خنثی کردند. این حمله نشان‌دهندهٔ تشدید درگیری‌های طولانی‌مدت در یمن و خطر گسترش درگیری‌ها به مناطق دیگر است. کارشناسان هشدار می‌دهند که هرگونه اختلال در این فرودگاه می‌تواند بر مسیرهای حمل و نقل هوایی و دریایی در خلیج فارس تأثیر بگذارد. در عین حال، این رویداد فشارهای سیاسی بر عربستان را افزایش می‌دهد و احتمال واکنش‌های نظامی بیشتری را به دنبال دارد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حمله هوایی",
+    "tag": "حوثی",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-17/houthis-hit-yemen-airport-as-saudi-arabia-intercepts-attacks",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-17/houthis-hit-yemen-airport-as-saudi-arabia-intercepts-attacks",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792215300.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "026b69404c",
     "title_fa": "‏سسی مصر را آمادهٔ دفاع از عربستان سعودی اعلام کرد",
     "title_en": "Egypt Ready to Defend Saudi Arabia if Needed, Sisi Says",
@@ -85,6 +107,28 @@
     "clean_url": "https://www.reuters.com/world/students-trade-unions-yellow-vests-set-protest-across-france-2026-10-17",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792213440.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "21beea16ee",
+    "title_fa": "‏هزینه‌های بهره آمریکا به رکورد یک تریلیون دلار رسید",
+    "title_en": "US Interest Costs Hit Record $1 Trillion, Risking Debt Snowball",
+    "summary": [
+      "‏هزینه‌های بهره دولت آمریکا برای سال مالی به اولین بار یک تریلیون دلار رسید.",
+      "‏این رقم تاریخی نشان‌دهنده فشار افزایشی بدهی و خطر افزایش بار مالی بر بودجه فدرال است.",
+      "‏تحلیل‌گران هشدار می‌دهند که این روند می‌تواند نرخ بهره را بالا برده و رشد اقتصادی را تضعیف کند."
+    ],
+    "body_fa": "‏دولت ایالات متحده برای سال مالی جاری هزینه‌های بهره بدهی عمومی را به یک تریلیون دلار رسانده که برای اولین بار در تاریخ به این سطح می‌رسد. این رقم نشان‌دهنده افزایش بار مالی بر بودجه فدرال است و می‌تواند فشار بر تصمیم‌گیری‌های هزینه‌ای و مالیاتی را تقویت کند. کارشناسان مالی بیان می‌کنند که هزینه‌های بهره بالا می‌تواند باعث کاهش فضای مالی برای سرمایه‌گذاری‌های عمومی و خصوصی شود. در صورت ادامه این روند، احتمال افزایش نرخ بهره توسط فدرال رزرو برای کنترل تورم و حفظ اعتبار مالی وجود دارد که می‌تواند رشد اقتصادی را تحت فشار قرار دهد. این وضعیت همچنین خطر «برف‌نقلیه» بدهی را تقویت می‌کند، به‌طوری‌که بدهی‌های جدید به‌سرعت به هزینه‌های بهره اضافه می‌شوند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بدهی عمومی",
+    "tag": "هزینه بهره",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-17/us-interest-costs-hit-record-1-trillion-risking-debt-snowball",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-17/us-interest-costs-hit-record-1-trillion-risking-debt-snowball",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792213200.0,
     "sent_to_telegram": true
   },
   {
@@ -6553,50 +6597,6 @@
     "clean_url": "https://africa.businessinsider.com/local/markets/dangote-petroleum-refinery-ipo-still-open-for-subscription/k1lx5hs",
     "image": "https://ocdn.eu/pulscms-transforms/1/U5QktkpTURBXy9lYWJiOTE3ZTk0NDI4MDVmOWNkYTNhOTNhYTYzZWU5ZS5qcGeSlQMKAM0FSM0C-ZMFzQSwzQJ2",
     "timestamp": 1791431280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bc4ed809c3",
-    "title_fa": "‏تورم هند در سپتامبر به ۵٫۴٪ می‌رسد",
-    "title_en": "India's Inflation Likely Hit 5.4% in September as Oil Costs Bite",
-    "summary": [
-      "‏تورم هند در سپتامبر به ۵٫۴٪ افزایش یافت",
-      "‏افزایش به دلیل قیمت‌های بالای نفت و هزینه‌های انرژی و غذاست",
-      "‏این رشد باعث شد RBI برای اولین بار در چهار سال نرخ بهره را افزایش دهد"
-    ],
-    "body_fa": "‏یک نظرسنجی Reuters از 41 اقتصاددان نشان می‌دهد که تورم هند در سپتامبر احتمالاً به ۵٫۴٪ رسیده است، که نسبت به ۴٫۸۲٪ ماه اوت افزایش دارد. این افزایش عمدتاً ناشی از رشد قیمت نفت، به‌ویژه هزینه‌های واردات نفت خام که در سپتامبر به ۱۱۶٫۰۹ دلار در هر بشکه رسید و در اکتبر به بالای ۱۲۰ دلار ارتقا یافت. علاوه بر آن، هزینه‌های انرژی و مواد غذایی نیز فشار بر سبد مصرف‌کنندگان را افزایش داده‌اند. به‌دلیل این فشارهای تورمی، بانک مرکزی هند (RBI) برای اولین بار در چهار سال نرخ بهره کلیدی را بالا برد و سیاست «تنگی تنظیم‌شده» را اتخاذ کرد، به این معنی که کاهش نرخ در کوتاه‌مدت دور از دسترس است. افزایش هزینه‌های حمل‌ونقل دریایی و محدودیت‌های مسیرهای دریایی، به‌ویژه پس از جنگ ایران که عرضه نفت خاورمیانه را مختل کرد، نیز به بالا رفتن صورتحساب واردات نفت هند کمک کرده است. این تحولات می‌تواند فشار بر بازارهای نوظهور و جریان‌های سرمایه‌گذاری به سمت هند را تقویت یا تغییر مسیر دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "تورم هند",
-    "tag": "تورم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Inflation-Likely-Hit-54-in-September-as-Oil-Costs-Bite.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Inflation-Likely-Hit-54-in-September-as-Oil-Costs-Bite.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-08_tdp2glwusy.jpg",
-    "timestamp": 1791430140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "81776a319a",
-    "title_fa": "‏مگادونورهای جمهوری‌خواه در انتخابات میانی 2026 حمایت مالی چشمگیری کردند",
-    "title_en": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
-    "summary": [
-      "‏بزرگ‌ترین دهان‌حامیان انتخابات میانی 2026 عمدتاً به جمهوری‌خواهان پول دادند؛ 20 تا از آن‌ها 1.2 میلیارد دلار تأمین کردند.",
-      "‏این اختلاف مالی می‌تواند توان رقابتی دموکرات‌ها را کاهش داده و نتایج مجلس و سنا را تحت‌تأثیر قرار دهد.",
-      "‏سوپ‌پک‌های محافظه‌کار تا دو برابر هزینه‌های دموکرات‌ها را صرف کردند."
-    ],
-    "body_fa": "‏تحلیل CNBC از سوابق کمیسیون انتخابات فدرال نشان می‌دهد که بزرگ‌ترین دهان‌حامیان دوره انتخاباتی 2026 به‌طور واضح به نامزدهای جمهوری‌خواه گرایش دارند. بیست حساب برتر مجموعاً 1.2 میلیارد دلار، یعنی حدود یک‌هشت بخش کل 9.8 میلیارد دلار جمع‌آوری‌شده، را تأمین کردند. در مقابل، دهان‌حامیان دموکرات کمتر به حزب ملی کمک می‌کنند و برخی چک‌های شش‌رقمی که پیش‌تر به کمیته ملی دموکرات می‌رفتند، تا کنون نرسیده‌اند. این اختلاف باعث شده سوپ‌پک‌های محافظه‌کار تقریباً دو برابر هزینه‌های رقیبان دموکراتیک را صرف کنند. کارشناسان می‌گویند این برتری مالی می‌تواند بر توانایی دموکرات‌ها برای حفظ یا گسترش کرسی‌های خود در مجلس و سنا تأثیر قابل‌توجهی داشته باشد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "سرمایه‌گذاری سیاسی",
-    "tag": "حمایت مالی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
-    "clean_url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108351250-1787093366694-gettyimages-2290477851-FLORIDA_PRIMARY.jpeg?v=1791318921&w=1920&h=1080",
-    "timestamp": 1791428400.0,
     "sent_to_telegram": true
   }
 ]
