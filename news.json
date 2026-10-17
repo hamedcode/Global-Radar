@@ -1,5 +1,137 @@
 [
   {
+    "id": "f9e7978e77",
+    "title_fa": "‏مدل هوش مصنوعی Claude معمای ۲۵ ساله رمزنگاری NSA را حل کرد",
+    "title_en": "Anthropic’s Claude cracks a 25-year NSA curve mystery, what it means for bitcoin",
+    "summary": [
+      "‏مدل هوش مصنوعی Claude ساخت شرکت Anthropic موفق شد منشأ اعداد مشکوک در استانداردهای رمزنگاری سازمان NSA را طی ۳۰ دقیقه کشف کند.",
+      "‏این کشف فرضیه وجود درب‌پشتی امنیتی در منحنی‌های استاندارد NIST را تا حد زیادی رد می‌کند و نشان می‌دهد خطری اینترنت را تهدید نمی‌کرده است.",
+      "‏شبکه Bitcoin به دلیل استفاده از یک منحنی رمزنگاری متفاوت تحت تاثیر این ماجرا قرار ندارد."
+    ],
+    "body_fa": "‏مدل هوش مصنوعی شرکت Anthropic توانست یکی از قدیمی‌ترین معماهای دنیای رمزنگاری را در کمتر از ۳۰ دقیقه حل کند. این مدل متوجه شد اعدادی که آژانس امنیت ملی آمریکا یعنی NSA در اواخر دهه ۱۹۹۰ ارائه کرده بود و سال‌ها مظنون به داشتن درب‌پشتی پنهان بودند، صرفاً از یک برنامه ساده تولید اعداد تصادفی با برچسب‌های زمانی سال‌های 1997 و 1998 تولید شده‌اند. بخش عمده‌ای از رمزنگاری اینترنت بر پایه این منحنی‌های بیضوی استاندارد NIST بنا شده است و این کشف خیال کارشناسان امنیتی را راحت‌تر می‌کند. در این میان شبکه Bitcoin از اساس از منحنی متفاوتی به نام secp256k1 استفاده می‌کند و بنابراین هرگز تحت تاثیر این ابهام تاریخی نبوده است.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی و رمزنگاری",
+    "tag": "Claude",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+    "clean_url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+    "image": "https://s.yimg.com/bo/b1e21a55-f58c-50e7-90ae-a320246ae7e6_1792220437774.jpg",
+    "timestamp": 1792219253.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dd76062cd4",
+    "title_fa": "‏کلارک: هوش مصنوعی می‌تواند GDP آمریکا را چشمگیر افزایش دهد",
+    "title_en": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
+    "summary": [
+      "‏جک کلارک، هم‌بنیان‌گذار Anthropic ، گفت هوش مصنوعی به‌سرعت پیشرفت می‌کند و می‌تواند رشد GDP آمریکا را به‌طور چشمگیری افزایش دهد.",
+      "‏این پیش‌بینی بر پایه مدل اقتصادی داخلی شرکت است و نشان می‌دهد هوش مصنوعی می‌تواند سالانه چند درصد به اقتصاد آمریکا اضافه کند.",
+      "‏شرکت تخمین می‌زند هوش مصنوعی تا 2030 می‌تواند حدود 10 ٪ یا 2.5 تریلیون دلار به GDP اضافه کند."
+    ],
+    "body_fa": "‏جک کلارک، یکی از بنیان‌گذاران Anthropic ، روز شنبه اعلام کرد که توانایی‌های هوش مصنوعی به‌سرعت در حال بهبود هستند و این سرعت می‌تواند تغییرات عمیقی در تمام حوزه‌ها ایجاد کند. بر پایه یک مدل اقتصادی داخلی، شرکت پیش‌بینی می‌کند که هوش مصنوعی می‌تواند به‌طور قابل‌توجهی به رشد تولید ناخالص داخلی ایالات متحده کمک کند. این مدل نشان می‌دهد که تا سال 2030 هوش مصنوعی می‌تواند حدود 10 درصد یا معادل 2.5 تریلیون دلار به GDP آمریکا اضافه کند. چنین پیش‌بینی‌ای می‌تواند برای سیاست‌گذاران و سرمایه‌گذاران سرنخ‌های مهمی درباره تأثیرات اقتصادی فناوری‌های نوین فراهم کند. در نتیجه، انتظار می‌رود شرکت‌ها و دولت‌ها برای بهره‌برداری از این فرصت‌های اقتصادی، سرمایه‌گذاری و تنظیمات قانونی جدیدی را مدنظر قرار دهند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17/",
+    "clean_url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792203300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "38c0055bb9",
+    "title_fa": "‏آفریقا CDC اعلام کرد ۷۰۰ میلیون دلار کمک ابولا گم شده",
+    "title_en": "Africa CDC Says Over $700 Million in Ebola Funds Unaccounted For",
+    "summary": [
+      "‏آفریقا CDC گزارش داد بیش از ۷۰۰ میلیون دلار کمک‌های ابولا به‌درستی حساب نشده‌اند.",
+      "‏این موضوع می‌تواند اعتماد دهندگان را تحت‌تأثیر قرار داده و واکنش‌های بهداشتی در قاره را مختل کند.",
+      "‏عدم شفافیت مالی ممکن است فشار بین‌المللی برای بهبود نظارت بر کمک‌های بشردوستانه ایجاد کند."
+    ],
+    "body_fa": "‏آفریقا CDC اعلام کرد که بیش از ۷۰۰ میلیون دلار از بودجه‌های اختصاص داده شده برای مبارزه با ابولا در سال‌های اخیر به‌درستی حساب نشده‌اند. این مبلغ شامل کمک‌های بین‌المللی و داخلی است که برای پیشگیری، تشخیص و درمان بیماری صرف می‌شد. عدم شفافیت مالی می‌تواند اعتماد کشورهای اهداکننده را کاهش داده و تأمین منابع برای برنامه‌های بهداشتی آینده را دشوار کند. سازمان خواستار بررسی مستقل و بازگشت سریع این وجوه به‌منظور ادامهٔ کارآیی واکنش‌های بهداشتی شد. این مسأله نشان می‌دهد که نظارت بر هزینه‌های کمک‌های بشردوستانه در مناطق بحرانی همچنان چالش‌برانگیز است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "بهداشت عمومی",
+    "tag": "Ebola",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-17/africa-cdc-says-700-million-in-congo-ebola-funds-unaccounted-for",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-17/africa-cdc-says-700-million-in-congo-ebola-funds-unaccounted-for",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792196400.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "40480f093c",
+    "title_fa": "‏رئیس‌جمهور Trump بیشتر تحریم‌های تازه علیه روسیه را تعلیق کرد",
+    "title_en": "Trump Waives Most Russia Sanctions Passed by Congress",
+    "summary": [
+      "‏رئیس‌جمهور Trump با امضای فرمانی اجرایی، روسیه را از بیشتر بخش‌های قانون تحریمی کنگره معاف کرد.",
+      "‏این اقدام نشان‌دهنده تغییر جهت در سیاست واشنگتن و تلاش برای کاهش تنش‌ها با مسکو است.",
+      "‏قانون مذکور ماه گذشته تصویب شده بود اما کاخ سفید دامنه اجرای آن را به‌شدت محدود کرد."
+    ],
+    "body_fa": "‏رئیس‌جمهور Trump با صدور یک فرمان اجرایی، روسیه را از بخش‌های عمده قانون تحریم‌هایی که ماه گذشته امضا کرده بود معاف کرد. این تصمیم عملاً بخش گسترده‌ای از فشارهای اقتصادی مصوب کنگره را علیه مسکو متوقف می‌کند. اقدام کاخ سفید نشان‌دهنده شکاف میان رویکرد دولت و قانون‌گذاران کنگره در قبال مدیریت روابط با کرملین است. این معافیت‌ها می‌تواند زمینه کاهش موانع تجاری میان دو کشور را فراهم کرده و معادلات بازار را تغییر دهد. با این حال، انتظار می‌رود این فرمان با واکنش‌های اعتراضی تند در محافل سیاسی واشنگتن روبه‌رو شود.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌های بین‌المللی",
+    "tag": "روسیه",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/politics/policy/trump-waives-most-russia-sanctions-passed-by-congress-4c36bc93",
+    "clean_url": "https://www.wsj.com/politics/policy/trump-waives-most-russia-sanctions-passed-by-congress-4c36bc93",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792180920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "736abcdc8f",
+    "title_fa": "‏کلمز‑کلیفز با کانادا برای اخراج ۵۰۰ کارگر استلکو مواجه شد",
+    "title_en": "Cleveland-Cliffs Braces for Fight as Canada Looks to Block Layoffs at Stelco",
+    "summary": [
+      "‏شرکت Cleveland‑Cliffs قصد دارد تا ۵۰۰ کارگر در واحد استلکو را اخراج کند.",
+      "‏دولت کانادا به دنبال مسدود کردن این برنامه است تا از دسترسی شغلی جلوگیری کند.",
+      "‏این تصمیم می‌تواند بر روابط تجاری دو کشور و بازار فولاد شمال آمریکایی تأثیر بگذارد."
+    ],
+    "body_fa": "‏شرکت Cleveland‑Cliffs اعلام کرده است که برنامه دارد تا حداکثر ۵۰۰ کارگر در کارخانه استلکو کانادا را اخراج کند. این اقدام در چارچوب برنامه‌های بهینه‌سازی هزینه و افزایش بهره‌وری شرکت صورت می‌گیرد. دولت فدرال کانادا به سرعت واکنش نشان داده و اعلام کرده است که با استفاده از قوانین کار، سعی در مسدود کردن این اخراج‌ها دارد. مقامات کانادایی می‌گویند حفظ شغل‌ها برای اقتصاد محلی و امنیت ملی مهم است. در صورت ادامه اخراج‌ها، احتمال بروز نزاع قانونی و فشار سیاسی بر شرکت و روابط تجاری بین ایالات متحده و کانادا افزایش می‌یابد. این موضوع می‌تواند بر قیمت فولاد در منطقه و تصمیمات سرمایه‌گذاران در بخش سنگین نیز تأثیر بگذارد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "سیاست کار",
+    "tag": "Stelco",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/world/americas/cleveland-cliffs-braces-for-fight-as-canada-looks-to-block-layoffs-at-stelco-a8346d7a",
+    "clean_url": "https://www.wsj.com/world/americas/cleveland-cliffs-braces-for-fight-as-canada-looks-to-block-layoffs-at-stelco-a8346d7a",
+    "image": "https://s.yimg.com/bo/4ab29aa2-e8d3-5ee9-ae68-8d0858e8b6b8_1792193842808.jpg",
+    "timestamp": 1792179652.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8a099ce06a",
+    "title_fa": "‏پیشرفت جدید تراشه کوانتومی Google امنیت کیف‌پول‌های بیت‌کوین را تهدید می‌کند",
+    "title_en": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+    "summary": [
+      "‏تراشه کوانتومی جدید Willow متعلق به شرکت Google توانسته خطاهای محاسباتی را تا 40 برابر کاهش دهد.",
+      "‏این دستاورد یکی از موانع سخت‌افزاری بزرگ برای شکستن رمزنگاری کیف‌پول‌های قدیمی Bitcoin را کم‌رنگ‌تر می‌کند.",
+      "‏با وجود این پیشرفت، چالش‌های فنی گسترده‌ای پیش از رسیدن به توانایی حمله به شبکه باقی مانده است."
+    ],
+    "body_fa": "‏شرکت Google اعلام کرد تراشه کوانتومی جدید آن به نام Willow موفق شده خطاهای آماده‌سازی حالت‌های محاسباتی خاص را تا 40 برابر کاهش دهد. این دستاورد علمی که در نشریه Science منتشر شده، یکی از گلوگاه‌های سخت‌افزاری اصلی در مسیر ساخت رایانه‌های کوانتومی قدرتمند را برطرف می‌کند. کارشناسان معتقدند چنین سیستم‌هایی در آینده در تئوری می‌توانند با اجرای الگوریتم Shor ، کلیدهای خصوصی کیف‌پول‌های قدیمی Bitcoin به‌ویژه دارایی‌های دوره Satoshi را بازیابی کنند. با این حال، پژوهشگران تأکید می‌کنند که این پیشرفت به معنی حمله فوری به شبکه نیست، زیرا در حال حاضر تنها حدود 8 درصد از تلاش‌ها موفقیت‌آمیز بوده و مقیاس‌پذیری آن نیازمند پیشرفت‌های مهندسی بسیار بیشتری است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "امنیت کوانتومی شبکه",
+    "tag": "بیت‌کوین",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+    "clean_url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1792179000.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "3412189ca0",
     "title_fa": "‏IMF پیش‌بینی رشد ۳٪ بنگلادش تا ۲۰۳۱ را اعلام کرد",
     "title_en": "Bangladesh's trillion-dollar dream versus reality: Can 'band-aids' fix a governance crisis?",
@@ -41,6 +173,28 @@
     "clean_url": "https://apnews.com/article/israel-palestinians-settler-violence-west-bank-078194df041b835ec95cad9c3d3ac060",
     "image": "https://s.yimg.com/bo/d216a3e6-8eba-57b2-8c1e-bfd9971ef8e5_1778507234376.jpg",
     "timestamp": 1792169194.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "30b2a629fe",
+    "title_fa": "‏معاملات AI Wall Street را به بدترین هفته ژوئن می‌برد",
+    "title_en": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
+    "summary": [
+      "‏سهم‌های مرتبط با هوش مصنوعی از CoreWeave تا Alphabet در هفته‌ای با سقوط شدید بازار قرار گرفتند.",
+      "‏این فشار باعث شد اوراق خزانه‌داری آمریکا نیز کاهش یابند و Wall Street بدترین هفته خود از ژوئن را تجربه کند.",
+      "‏این روند نگرانی‌ها درباره حباب AI و تأثیر آن بر نرخ بهره را تقویت می‌کند."
+    ],
+    "body_fa": "‏در هفته‌ای که Wall Street به بدترین عملکرد خود از ژوئن رسیده، سهام شرکت‌های فعال در حوزه هوش مصنوعی به‌طور گسترده‌ای سقوط کردند. از CoreWeave تا Alphabet ، قیمت این سهام‌ها به‌سرعت کاهش یافت و فشار فروش به سایر بخش‌های بازار منتقل شد. همزمان، بازدهی اوراق خزانه‌داری آمریکا نیز کاهش یافت و نشان از نگرانی سرمایه‌گذاران نسبت به رشد سریع فناوری AI داشت. تحلیل‌گران این افت را نتیجهٔ نگرانی‌های مربوط به حباب احتمالی در بخش AI و تأثیر آن بر سیاست‌های پولی می‌دانند. این تحولات می‌تواند فشار بر نرخ بهره و تصمیمات فدرال‌رزرو را افزایش دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "AI",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427",
+    "clean_url": "https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792168980.0,
     "sent_to_telegram": true
   },
   {
@@ -6443,160 +6597,6 @@
     "clean_url": "https://www.reuters.com/technology/applied-digitals-revenue-soars-loss-widens-growing-ai-investments-2026-10-07",
     "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
     "timestamp": 1791408190.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "648b921952",
-    "title_fa": "‏دولت کانادا می‌تواند مالک موقت کارخانه Stelco شود",
-    "title_en": "Investor Outlook: Government ownership could keep Stelco operating",
-    "summary": [
-      "‏استلکو برنامه‌ریزی کرده تا صدها کارگر را اخراج کند.",
-      "‏پروفسور نیکلاس لامپ پیشنهاد می‌کند دولت موقتاً مالک کارخانه شود تا شغل‌ها و تخصص حفظ شود.",
-      "‏او همچنین خواستار کاهش تعرفه فولاد آمریکا از ۵۰٪ به ۲۵٪ برای بهبود بازار می‌شود."
-    ],
-    "body_fa": "‏استلکو کانادا اعلام کرد که قصد دارد صدها کارگر را به دلیل فشارهای تجاری با ایالات متحده اخراج کند. نیکلاس لامپ، استاد حقوق در دانشگاه کوئینز، پیشنهاد می‌کند دولت موقتاً مالکیت کارخانه را به عهده بگیرد و مدیریت کانادایی حفظ شود تا شغل‌ها و تخصص‌های صنعتی در خطر نباشند. او می‌گوید در صورت عدم یافتن خریدار خصوصی، یک حکم دادگاهی می‌تواند مسیر خرید دولتی را باز کند. لامپ همچنین معتقد است یک توافق تجاری می‌تواند تعرفه‌های فولاد آمریکا را از ۵۰٪ به ۲۵٪ کاهش دهد، در حالی که موانع تجاری داخلی کانادا قیمت‌های فولاد را بالا نگه داشته‌اند. با وجود سرریز جهانی فولاد و تولید ارزان‌تر خارجی، تقاضای داخلی و پروژه‌های دولتی می‌تواند نیاز به تأمین داخلی را توجیه کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "صنعت فولاد",
-    "tag": "Stelco",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "BNN Bloomberg",
-    "url": "https://www.bnnbloomberg.ca/investing/investor-outlook/2026/10/07/investor-outlook-government-ownership-could-keep-stelco-operating/",
-    "clean_url": "https://www.bnnbloomberg.ca/investing/investor-outlook/2026/10/07/investor-outlook-government-ownership-could-keep-stelco-operating",
-    "image": "https://www.bing.com/th?id=ONUT.RyB8a-C2W-Jp8qdomwGnLA",
-    "timestamp": 1791402219.0124512,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1237decdb1",
-    "title_fa": "‏طلا زیر ۴٬۱۰۰ دلار؛ فدرال‌رزرو افزایش نرخ را پیش‌بینی کرد",
-    "title_en": "Gold slides below $4,100 as FOMC Minutes signal further Fed hikes | FXStreet",
-    "summary": [
-      "‏قیمت طلا به زیر ۴٬۱۰۰ دلار رسید و در زمان نوشتن ۴٬۱۱۵ دلار بود.",
-      "‏این سقوط پس از انتشار صورتجلسه فدرال‌رزرو بود که همه اعضا افزایش نرخ در سپتامبر را حمایت کردند و احتمال افزایش دیگر نرخ‌ها را پیش‌بینی کردند.",
-      "‏قیمت نفت هم کاهش یافت و دلار قوی ماند، که فشار بر طلا را محدود کرد."
-    ],
-    "body_fa": "‏قیمت طلا (XAU/USD) روز چهارشنبه به زیر ۴٬۱۰۰ دلار افت کرد و در زمان نوشتن ۴٬۱۱۵ دلار، نسبت به اوج دو ماهه‌اش که ۴٬۰۶۶ دلار بود، ۱٫۱۶٪ کاهش یافت. این حرکت پس از انتشار صورتجلسهٔ آخرین نشست فدرال‌اوپن مارکت کمیتی (FOMC) رخ داد که نشان داد تمام اعضا افزایش نرخ بهره در سپتامبر را تأیید کرده‌اند. دقیقاً، صورتجلسه بیان کرد که بسیاری از شرکت‌کنندگان این افزایش را به‌عنوان بیمه‌ای در برابر تورم مداوم می‌دانند و برخی دیگر آن را برای جلوگیری از گسترش تورم به سطوح دیگر می‌پذیرند. اعضای فدرال‌رزرو انتظار دارند تا پایان سال یک افزایش نرخ دیگر «مناسب» باشد، اگرچه بازارهای پولی احتمال این افزایش را تنها ۱۹٪ می‌دانند. در همان زمان، بازده اوراق ۱۰‑سالهٔ آمریکا یک پایهٔ پایه‌ای به ۵٫۲۷٪ کاهش یافت و شاخص دلار (DXY) به ۱۰۲٫۲۴ رسید. قیمت نفت خام (WTI) نیز ۱٫۶۶٪ کاهش یافت و به حدود ۸۸٫۴۵ دلار رسید که فشار نزولی بر طلا را محدود کرد. تحلیل‌گران پیش‌بینی می‌کنند که ادامهٔ خریدهای بانک مرکزی چین از طلا و داده‌های اقتصادی آمریکا در روزهای آینده می‌تواند نوسانات این فلز گرانبها را تحت تأثیر قرار دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
-    "clean_url": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
-    "image": "https://s.yimg.com/bo/e0a4ca18-835b-5240-8187-ba1e00964eca_1789703418337.png.cf.jpg",
-    "timestamp": 1791400627.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2a1b8bad2d",
-    "title_fa": "‏آژانس EPA تصمیم به لغو سیاست متان بیدن می‌گیرد",
-    "title_en": "EPA says will soon act to rescind Biden policy targeting methane leaks",
-    "summary": [
-      "‏آژانس EPA اعلام کرد به زودی اقدام به لغو سیاست بیدن برای کاهش نشت متان می‌کند",
-      "‏این تغییر می‌تواند نظارت محیط‌زیستی و هزینه‌های تولید گاز را تحت تأثیر قرار دهد",
-      "‏برخی ایالت‌ها ممکن است قوانین جایگزین خود را اعمال کنند"
-    ],
-    "body_fa": "‏آژانس حفاظت محیط‌زیست (EPA) به زودی اقدام به لغو قانونی می‌کند که در دورهٔ بیدن برای کاهش نشت متان در صنایع نفت و گاز تصویب شده بود. این قانون قبلاً شرکت‌ها را ملزم می‌کرد تا نشت‌های متان را شناسایی و رفع کنند و بخشی از برنامهٔ کلی کاهش انتشار گازهای گلخانه‌ای بود. حذف این مقررات می‌تواند فشار نظارتی را کاهش داده و هزینه‌های عملیاتی شرکت‌های انرژی را پایین بیاورد، اما گروه‌های محیط‌زیستی نگرانی‌های خود را دربارهٔ افزایش احتمالی انتشار متان ابراز کرده‌اند. تصمیم جدید با سیاست‌های کاهش مقررات دولت فعلی هم‌راستا است و ممکن است تأثیراتی بر گزارش‌گری انتشار متان در ایالات متحده داشته باشد. این تغییر می‌تواند به‌طور غیرمستقیم بر بازارهای جهانی انرژی و قیمت گاز طبیعی نیز اثر بگذارد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قوانین زیست‌محیطی",
-    "tag": "متان",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/epa-says-will-soon-act-rescind-biden-policy-targeting-methane-leaks-2026-10-07/",
-    "clean_url": "https://www.reuters.com/legal/government/epa-says-will-soon-act-rescind-biden-policy-targeting-methane-leaks-2026-10-07",
-    "image": "https://s.yimg.com/bo/e618434a-4cc5-5b43-bdbf-ef8b2b63949b_1790701531422.jpg",
-    "timestamp": 1791400372.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "be8caed19a",
-    "title_fa": "‏آمریکا سوخت‌های ۳ میلیون دلاری به کوبا را توقیف کرد",
-    "title_en": "US seizes $3 million in fuel shipments to Cuba as crackdown continues",
-    "summary": [
-      "‏آمریکا بارهای سوختی به ارزش ۳ میلیون دلار به کوبا را توقیف کرد",
-      "‏این اقدام فشار اقتصادی آمریکا بر کوبا را ادامه می‌دهد و می‌تواند تأمین انرژی جزیره را مختل کند",
-      "‏دولت آمریکا اعلام کرد که تحریم‌ها در چارچوب قوانین ضدتحریم‌گذاری ادامه خواهد یافت"
-    ],
-    "body_fa": "‏آمریکا بارهای سوختی به ارزش ۳ میلیون دلار که به مقصد کوبا بودند را توقیف کرد. این اقدام در چارچوب سیاست‌های فشار اقتصادی طولانی‌مدت آمریکا بر کوبا انجام شد. توقیف این محموله‌ها می‌تواند کمبود سوخت در جزیره را تشدید کند، چرا که کوبا به شدت به واردات انرژی وابسته است. مقامات آمریکایی گفتند این اقدام بخشی از یک «سرکوب» گسترده‌تر علیه نقض تحریم‌هاست. تحریم‌های اقتصادی آمریکا علیه کوبا در سال‌های اخیر به‌طور مداوم تقویت شده‌اند و این رویداد نشان‌دهنده ادامه این روند است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های اقتصادی",
-    "tag": "کوبا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/us-seizes-3-million-fuel-shipments-cuba-crackdown-continues-2026-10-07/",
-    "clean_url": "https://www.reuters.com/business/energy/us-seizes-3-million-fuel-shipments-cuba-crackdown-continues-2026-10-07",
-    "image": "https://s.yimg.com/bo/6c4ee133-acd6-5ffe-aa80-ae751ba867c7_1791401197400.jpg",
-    "timestamp": 1791400012.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1f72caef45",
-    "title_fa": "‏کمیسیون ارتباطات آمریکا آزمایش محصولات الکترونیکی در چین را ممنوع می‌کند",
-    "title_en": "US FCC to vote to ban Chinese labs from testing US electronics",
-    "summary": [
-      "‏کمیسیون ارتباطات فدرال آمریکا (FCC) همکاری با آزمایشگاه‌های چینی برای ارزیابی تجهیزات الکترونیکی را ممنوع می‌کند.",
-      "‏این اقدام با هدف جلوگیری از نفوذ امنیتی چین و حفاظت از زنجیره تامین فناوری اطلاعات انجام می‌شود.",
-      "‏اجرای این مصوبه صدور تاییدیه فنی برای ابزارهای دیجیتال در بازار ایالات متحده را سخت‌تر خواهد کرد."
-    ],
-    "body_fa": "‏کمیسیون ارتباطات فدرال آمریکا (FCC) قصد دارد با برگزاری یک رای‌گیری، فعالیت آزمایشگاه‌های چینی در ارزیابی و تایید تجهیزات الکترونیکی بازار آمریکا را ممنوع اعلام کند. طبق این طرح، شرکت‌های تولیدکننده دیگر اجازه نخواهند داشت برای دریافت تاییدیه‌های رسمی از مراکز آزمون مستقر در خاک چین استفاده نمایند. نهادهای ناظر ایالات متحده نگران هستند که پکن از طریق دسترسی آزمایشگاهی به این دستگاه‌ها اقدام به جاسوسی یا ایجاد حفره‌های امنیتی کند. این تصمیم ادامه اقدامات پیشین واشنگتن برای قطع دسترسی چین به زیرساخت‌ها و تجهیزات حساس فناوری تلقی می‌شود. در صورت تصویب نهایی، زنجیره تامین تجهیزات الکترونیکی با تاخیرها و هزینه‌های بازرسی جدیدی روبه‌رو خواهد شد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "روابط تجاری آمریکا و چین",
-    "tag": "FCC",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/us-fcc-vote-ban-chinese-labs-testing-us-electronics-2026-10-07/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/us-fcc-vote-ban-chinese-labs-testing-us-electronics-2026-10-07",
-    "image": "https://s.yimg.com/bo/a3e64f03-bde0-54bb-a95d-293d2c0e20a4_1791386740984.jpg",
-    "timestamp": 1791399772.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "562413e0fc",
-    "title_fa": "‏Wells Fargo برای تأمین نقدینگی کریپتو با Payward مذاکره می‌کند",
-    "title_en": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-    "summary": [
-      "‏Wells Fargo در حال مذاکره با Payward ، شرکت مادر Kraken ، برای تأمین نقدینگی معاملات کریپتو است.",
-      "‏این همکاری نشان می‌دهد بانک‌های بزرگ آمریکا به‌تدریج به دارایی‌های دیجیتال می‌پیوندند و می‌تواند دسترسی مؤسسات مالی به کریپتو را گسترش دهد.",
-      "‏Payward پیش از این به Nasdaq در سرمایه‌گذاری 100 میلیون دلاری خود مشاوره داده بود."
-    ],
-    "body_fa": "‏Wells Fargo در حال بررسی امکان همکاری با Payward ، شرکت مادر صرافی Kraken ، برای تأمین نقدینگی در معاملات کریپتو است. اگر این توافق حاصل شود، Payward به‌عنوان تأمین‌کننده نقدینگی برای بانک آمریکایی عمل می‌کند و به مشتریان Wells Fargo امکان دسترسی به بازارهای دیجیتال را می‌دهد. این گام نشان می‌دهد بانک‌های بزرگ به‌تدریج زیرساخت‌های لازم برای خدمات کریپتو را از شرکت‌های تخصصی می‌گیرند، همان‌طور که Coinbase Prime و Kraken پیشتر این نقش را ایفا کرده‌اند. پیشینه این مذاکرات شامل مشاوره Wells Fargo به Nasdaq در سرمایه‌گذاری 100 میلیون دلاری در Payward می‌شود. با وجود اینکه مذاکرات هنوز ادامه دارد و هنوز به توافق نهایی نرسیده، این خبر نشانگر پذیرش گسترده‌تر دارایی‌های دیجیتال در نظام مالی سنتی است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "نقدینگی کریپتو",
-    "tag": "WellsFargo",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-    "clean_url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-    "image": "https://s.yimg.com/bo/e1901fb5-5e5e-5d45-af85-eb3ff2a12dd3_1791401295279.jpg",
-    "timestamp": 1791399592.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a4057b6d5c",
-    "title_fa": "‏دقیقه‌های فدرال رزرو افزایش نرخ بهره را پیش‌بینی می‌کند",
-    "title_en": "Fed Minutes Signal Further Rate Increase This Year, but No Urgency for October...",
-    "summary": [
-      "‏دقیقه‌های فدرال رزرو پس از افزایش نرخ در سپتامبر، احتمال افزایش دیگر را این سال نشان داد",
-      "‏این خبر برای بازارهای مالی مهم است چون می‌تواند فشار بر دلار و اوراق قرضه را افزایش دهد",
-      "‏اما فدرال رزرو برای جلسه اکتبر اضطراری نمی‌بیند و تصمیم‌گیری را به ماه‌های بعد موکول می‌کند"
-    ],
-    "body_fa": "‏دقیقه‌های جلسه فدرال رزرو که پس از افزایش نرخ بهره در سپتامبر منتشر شد، نشان دادند برخی از مقامات ارشد بانک مرکزی انتظار دارند تا پایان سال یک افزایش دیگر اعمال شود. با این حال، آنها تأکید کردند که برای جلسه اکتبر نیازی به اقدام فوری نیست و تصمیم‌گیری در مورد افزایش بعدی به شرایط اقتصادی آینده واگذار می‌شود. این پیام به بازارها هشدار داد که فشار تورمی هنوز قابل توجه است و ممکن است در ماه‌های بعدی منجر به سیاست‌های سختگیرانه‌تر شود. سرمایه‌گذاران به‌خصوص در بازارهای ارز و اوراق قرضه باید به این سیگنال توجه کنند، زیرا می‌تواند نوسانات قیمت‌ها را تشدید کند. در مجموع، این نکات نشان می‌دهد که فدرال رزرو هنوز در مسیر افزایش نرخ بهره برای سال جاری باقی است، اما با سرعتی محتاطانه.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ بهره فدرال رزرو",
-    "tag": "فدرال رزرو",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/economy/central-banking/fed-minutes-signal-further-rate-increase-this-year-but-no-urgency-for-october-hike-54ec759f",
-    "clean_url": "https://www.wsj.com/economy/central-banking/fed-minutes-signal-further-rate-increase-this-year-but-no-urgency-for-october-hike-54ec759f",
-    "image": "https://s.yimg.com/bo/4f632b2b-8215-5ee0-9887-77d36b718ea1_1791397693300.jpg",
-    "timestamp": 1791398032.0,
     "sent_to_telegram": true
   }
 ]
