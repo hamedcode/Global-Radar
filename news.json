@@ -22,6 +22,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1ea8fac5d9",
+    "title_fa": "‏صندوق‌های Covered Call ETF با درآمد ماهانه، خطر مالیاتی",
+    "title_en": "Boomers are buying into the promise of monthly income from options ETFs, but...",
+    "summary": [
+      "‏سرمایه‌گذاران مسن به صندوق‌های Covered Call ETF برای درآمد ماهانه روی آوردند",
+      "‏اما توزیع‌های غیرسهمی می‌توانند به‌صورت بازگشت سرمایه هزینه پایه را کاهش دهند و مالیات تا فروش به تعویق بیفتد",
+      "‏این موضوع ممکن است بازده خالص پس از مالیات را زیر انتظارات سرمایه‌گذاران بگذارد"
+    ],
+    "body_fa": "‏صندوق‌های Covered Call ETF به دلیل توانایی تولید جریان نقدی ماهانه، بین سرمایه‌گذاران مسن محبوبیت یافته‌اند. این صندوق‌ها سهام را نگه داشته و گزینه‌های خرید را می‌فروشند تا درآمدی ثابت فراهم کنند. اما توزیع‌های این صندوق‌ها می‌تواند شامل سودهای عادی، توزیع سود سرمایه و توزیع‌های غیرسهمی (بازگشت سرمایه) باشد که هزینه پایه سرمایه‌گذار را کاهش می‌دهد و مالیات تا زمان فروش به تعویق می‌افتد. بسیاری از سرمایه‌گذاران تا دریافت فرم 1099-DIV در زمان مالیات، به این نکته توجه نمی‌کنند. در نتیجه، بازده خالص پس از مالیات ممکن است کمتر از انتظارات باشد و سرمایه‌گذاران باید ترکیب توزیعات را به‌دقت بررسی کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری",
+    "tag": "ETF",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+    "clean_url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+    "image": "https://s.yimg.com/bo/adbd2702-783e-59e0-9f3d-22bc005cae4b_1792331192063.jpg",
+    "timestamp": 1792328258.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9fd5a94977",
     "title_fa": "‏جیمی دیمن پیش‌بینی کرد طلا تا ۱۰٬۰۰۰ دلار برسد",
     "title_en": "‘Could easily go to $5,000, $10,000’: Jamie Dimon predicted gold’s 2026 surge. H...",
@@ -41,6 +63,72 @@
     "clean_url": "https://finance.yahoo.com/markets/commodities/articles/could-easily-5-000-10-114000873.html",
     "image": "https://media.zenfs.com/en/moneywise_ecomm_711/6b688f02f6de01dca8304f7f5ef3a6e6.jpg",
     "timestamp": 1792323178.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1860d43f3e",
+    "title_fa": "‏ایران خواستار پذیرش طرح بازگشایی تنگه هرمز توسط آمریکا شد",
+    "title_en": "Iran urges US to accept proposal to reopen Strait of Hormuz",
+    "summary": [
+      "‏ایران اعلام کرد پیشنهاد بازگشایی هفت‌روزه تنگه هرمز همچنان روی میز قرار دارد و از آمریکا خواست آن را بپذیرد.",
+      "‏این گذرگاه حیاتی در صورت بازگشایی می‌تواند شوک بزرگ عرضه در بازار نفت جهانی را مهار کند.",
+      "‏اجرای این پیشنهاد نیازمند توافق دو کشور برای کاهش تنش‌ها و تضمین امنیت کشتیرانی است."
+    ],
+    "body_fa": "‏ایران از ایالات متحده خواست تا پیشنهاد ارائه‌شده برای بازگشایی تنگه هرمز ظرف مدت 7 روز را بپذیرد. بر اساس گزارش‌ها، این طرح همچنان معتبر است و می‌تواند زمینه را برای تنش‌زدایی در منطقه و ازسرگیری ایمن تردد شناورها فراهم سازد. تنگه هرمز به عنوان مهم‌ترین شاهراه ترانزیت نفت خام جهان، نقشی کلیدی در امنیت زنجیره انرژی ایفا می‌کند. مسدود بودن یا اختلال در این آبراهه فشار کم‌سابقه‌ای بر بهای سوخت و بازارهای مالی بین‌المللی وارد کرده است. دستیابی به توافقی پیرامون این پیشنهاد می‌تواند ریسک ژئوپلیتیک بازار را به طور محسوسی کاهش دهد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "امنیت انرژی و تحولات خلیج فارس",
+    "tag": "تنگه هرمز",
+    "urgency": 9,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iran-urges-us-accept-proposal-reopen-strait-hormuz-2026-10-18/",
+    "clean_url": "https://www.reuters.com/world/middle-east/iran-urges-us-accept-proposal-reopen-strait-hormuz-2026-10-18",
+    "image": "https://s.yimg.com/bo/78e744f0-7d06-5cc5-bd89-3d8d1bbe8879_1792320381773.jpg",
+    "timestamp": 1792321058.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "17ce1252df",
+    "title_fa": "‏فرانسه با پس‌زمینهٔ شدیدترین ناآرامی‌های سال‌ها مواجه شد",
+    "title_en": "France faces aftermath of worst unrest in years",
+    "summary": [
+      "‏یک تظاهرکننده کشته شد، صدها پلیس مجروح و حدود ۱,۸۰۰ نفر بازداشت شدند.",
+      "‏این ناآرامی‌ها شدیدترین در سال‌های اخیر فرانسه بوده و می‌توانند اثرات اقتصادی و سیاسی گسترده‌ای داشته باشند.",
+      "‏گروه‌های حاشیه‌ای ساختمان‌های عمومی را هدف گرفتند و سرقت کردند."
+    ],
+    "body_fa": "‏در پی اعتراضات گسترده‌ای که به اصلاحات بازنشستگی در فرانسه منجر شد، یک تظاهرکننده کشته و صدها افسر پلیس مجروح شدند. پلیس حدود ۱,۸۰۰ نفر را دستگیر کرد و برخی از گروه‌های حاشیه‌ای به تخریب ساختمان‌های دولتی و سرقت اموال پرداختند. این ناآرامی‌ها به عنوان شدیدترین در چند سال اخیر شناخته می‌شوند و نگرانی‌ها دربارهٔ تأثیر آن بر اقتصاد و ثبات سیاسی کشور را برانگیخته‌اند. دولت فرانسه اعلام کرد که اقدامات امنیتی را تقویت خواهد کرد و مذاکراتی برای رفع دلایل اعتراضات در دست بررسی است. تحلیل‌گران پیش‌بینی می‌کنند این تحولات می‌تواند نوسانات در بازارهای مالی اروپا را افزایش دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "ناآرامی در فرانسه",
+    "tag": "ناآرامی",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/france-faces-aftermath-worst-unrest-years-2026-10-18/",
+    "clean_url": "https://www.reuters.com/world/europe/france-faces-aftermath-worst-unrest-years-2026-10-18",
+    "image": "https://s.yimg.com/bo/06603111-0fb0-5162-8d75-622029137374_1792318526302.jpg",
+    "timestamp": 1792317458.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bfc28801b1",
+    "title_fa": "‏ایالات متحده اشتراک اطلاعات با اوکراین را از سر گرفت",
+    "title_en": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says",
+    "summary": [
+      "‏ایالات متحده پس از توقف، دوباره اطلاعات نظامی را با اوکراین به اشتراک گذاشت.",
+      "‏این بازگشت همکاری اطلاعاتی به تقویت توان دفاعی اوکراین در جنگ کمک می‌کند.",
+      "‏زلنسکی گفت این روند توسط آمریکا «دوباره باز شد»."
+    ],
+    "body_fa": "‏زلنسکی در برنامه Meet the Press شبکه NBC اعلام کرد که اشتراک اطلاعات بین ایالات متحده و اوکراین پس از یک دوره قطع، دوباره آغاز شده است. او گفت این همکاری «دوباره باز شد» و به اوکراین امکان می‌دهد تا در مقابل حملات روسیه بهتر واکنش نشان دهد. قطع موقت این جریان اطلاعاتی پیش از این به دلیل نگرانی‌های امنیتی و سیاسی در واشنگتن بوده است. بازگشت آن نشانگر تقویت روابط نظامی و استراتژیک بین دو کشور است و می‌تواند به تغییر در دینامیک جنگ منجر شود. این تصمیم احتمالاً واکنش روسیه را به چالش می‌کشد و نقش مهمی در حمایت بین‌المللی از اوکراین ایفا می‌کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "امنیت",
+    "tag": "اطلاعات",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says-2026-10-18/",
+    "clean_url": "https://www.reuters.com/legal/government/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says-2026-10-18",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792306560.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +242,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "a3c5cf1b51",
+    "title_fa": "‏حملات پهپادی اوکراین به پایانه نفتی سن‌پترزبورگ شعله‌ور شد",
+    "title_en": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
+    "summary": [
+      "‏اوکراین بیش از ۱۰۰۰ پهپاد را به روسیه فرستاد و پایانه نفتی سن‌پترزبورگ را به آتش کشید",
+      "‏این حمله می‌تواند صادرات نفت روسیه و قیمت جهانی انرژی را تحت تأثیر قرار دهد",
+      "‏حمله یکی از بزرگ‌ترین حملات هوایی اوکراین در طول جنگ است"
+    ],
+    "body_fa": "‏اوکراین در یک عملیات هوایی گسترده بیش از ۱۰۰۰ پهپاد را به سمت روسیه پرتاب کرد. در میان اهداف، پایانه صادرات نفتی در شهر سن‌پترزبورگ به آتش کشیده شد و شعله‌های عظیم در بخش‌های ذخیره‌سازی ایجاد کرد. مقامات روسیه اعلام کردند که خسارت اولیه به زیرساخت‌های نفتی محدود است، اما احتمال اختلال در صادرات روزانه نفت کشور وجود دارد. این رخداد می‌تواند فشار بر قیمت جهانی نفت وارد کند و نگرانی‌های بازار انرژی را تشدید نماید. در عین حال، روسیه وعده داد که اقدامات تلافی‌جویانه‌ای علیه مراکز هدف‌دار اوکراین انجام خواهد داد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و حملات",
+    "tag": "نفت",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/russia-ukraine-war-energy-diesel-trump-f813d3725b8b5f23958a68a95729fd0d",
+    "clean_url": "https://apnews.com/article/russia-ukraine-war-energy-diesel-trump-f813d3725b8b5f23958a68a95729fd0d",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792291740.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "24928ee3d6",
     "title_fa": "‏آفت ابولا به استان هشتم کنگو گسترش یافت",
     "title_en": "Congo confirms Ebola outbreak spreads to eighth province",
@@ -239,6 +349,28 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-10-18/nestle-unilever-face-india-action-over-misleading-health-claims",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792279680.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cdf453ac33",
+    "title_fa": "‏چین اقدامات منفی ژاپن درباره معبد یاسوکونی را محکوم کرد",
+    "title_en": "China Condemns Japan’s ‘Negative Moves’ Over Yasukuni Shrine",
+    "summary": [
+      "‏چین نسبت به اقدامات ژاپن در معبد یاسوکونی انتقاد شدید کرد.",
+      "‏این انتقاد می‌تواند تنش‌های سیاسی و اقتصادی منطقه‌ای را تشدید کند.",
+      "‏معبد یاسوکونی همواره منبع حساسیت در روابط چین و ژاپن بوده است."
+    ],
+    "body_fa": "‏در بیانیه‌ای رسمی، چین اقدامات اخیر ژاپن در خصوص معبد یاسوکونی را منفی توصیف کرد و آن را تهدیدی برای صلح و ثبات منطقه‌ای دانست. معبد یاسوکونی که به یاد سربازان کشته‌شده در جنگ‌ها اختصاص دارد، همواره منبع تنش بین دو کشور بوده و هرگونه اقدام در این زمینه واکنش‌های حساسیت‌زا به دنبال دارد. چین خواستار احترام به احساسات مردم آسیا و جلوگیری از اقدامات تحریک‌آمیز شد. این واکنش می‌تواند روابط دیپلماتیک چین و ژاپن را تحت فشار قرار دهد و بر همکاری‌های اقتصادی و امنیتی منطقه‌ای تأثیر بگذارد. تحلیل‌گران پیش‌بینی می‌کنند که این مسأله ممکن است مذاکرات تجاری و امنیتی را دشوارتر کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "روابط چین-ژاپن",
+    "tag": "یاسوکونی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792275120.0,
     "sent_to_telegram": true
   },
   {
@@ -6465,138 +6597,6 @@
     "clean_url": "https://www.cnbc.com/video/2026/10/09/delta-air-lines-cuts-2026-forecast-on-fuel-surge-but-ceo-says-demand-is-still-strong.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108381112-17915429861791542983-48887461133-1080pnbcnews.jpg?v=1791542985&w=1920&h=1080",
     "timestamp": 1791519360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7641df2071",
-    "title_fa": "‏دلتا تصمیم‌گیری امنیتی برای پرواز آتلانتا‑ریاض را به تعویق می‌اندازد",
-    "title_en": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-    "summary": [
-      "‏دلتا در حال بررسی تعویق پرواز روزانه آتلانتا‑ریاض است.",
-      "‏دلیل آن حملات هوایی حوثی‌ها به ریاض و نگرانی‌های ایمنی است.",
-      "‏اگر پروازها آغاز شوند، ابتدا روزانه تا ۲۳ اکتبر و سپس سه‌بار در هفته ادامه خواهند یافت."
-    ],
-    "body_fa": "‏دلتا ایربیزینس در مصاحبه‌ای با CNBC اعلام کرد که تصمیم نهایی برای شروع پرواز مستقیم بین آتلانتا و ریاض، پایتخت عربستان، به دلیل نگرانی‌های ایمنی به تعویق افتاده است. این تصمیم پس از حملات حوثی‌ها که سه کشته در فرودگاه بین‌المللی ملک خالد ریاض به بار آورد، اتخاذ شده. پروازهای برنامه‌ریزی‌شده برای ۲۳ اکتبر بود و قرار بود ابتدا روزانه تا ۳۰ اکتبر و سپس سه‌بار در هفته ادامه یابد. شرکت هواپیمایی لوفتهانزا نیز اعلام کرد تا حداقل ۱۶ اکتبر پروازهای خود به عربستان را متوقف می‌کند. دلتا قول داده است به زودی مشتریان خود اطلاع دهد که آیا مسیر جدید فعال می‌شود یا خیر. این رویداد نشان می‌دهد که تنش‌های ژئوپلیتیک می‌تواند برنامه‌های حمل‌ونقل هوایی بین‌المللی را تحت تأثیر قرار دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "حمل‌ونقل هوایی",
-    "tag": "Delta",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
-    "clean_url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/107409569-1714667126496-107409569-1714666951042-gettyimages-2150563183-AFP_34QN2VN.jpeg?v=1714667145&w=1920&h=1080",
-    "timestamp": 1791518820.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d71d493633",
-    "title_fa": "‏اتحادیه اروپا مالیات اضطراری بر شرکت‌های انرژی را بررسی می‌کند",
-    "title_en": "EU to Assess Windfall Tax on Energy Firms to Soften Price Shock",
-    "summary": [
-      "‏اتحادیه اروپا قصد دارد مالیات اضطراری بر سودهای ناگهانی شرکت‌های انرژی اعمال کند.",
-      "‏هدف کاهش فشار قیمتی بر مصرف‌کنندگان و مهار سودهای بیش از حد است.",
-      "‏این اقدام می‌تواند درآمدهای دولت را افزایش و بازار انرژی را تحت فشار قرار دهد."
-    ],
-    "body_fa": "‏کمیسیون اروپا اعلام کرد که به‌دنبال افزایش ناگهانی قیمت انرژی، در حال بررسی اعمال مالیات اضطراری بر سودهای غیرمنتظره شرکت‌های انرژی است. این مالیات هدف دارد تا سودهای فوق‌العاده‌ای که شرکت‌ها از افزایش قیمت‌ها به دست می‌آورند، به‌منظور کاهش فشار بر مصرف‌کنندگان، به خزانه دولت منتقل شود. مقامات اروپایی می‌گویند این اقدام می‌تواند به تثبیت بازار انرژی و جلوگیری از نوسانات شدید قیمت کمک کند. اگر تصویب شود، مالیات می‌تواند بر سود خالص شرکت‌های نفت، گاز و برق اعمال شود و به‌صورت درصدی از سودهای فوق‌العاده محاسبه گردد. این طرح هنوز در مرحله ارزیابی است و تصمیم نهایی تا پایان سال مالی جاری ممکن است به تعویق بیفتد. تحلیل‌گران پیش‌بینی می‌کنند که چنین مالیاتی می‌تواند درآمدهای دولتی را چند صد میلیارد یورو افزایش دهد و فشار بر قیمت‌های نهایی انرژی را کمی کاهش دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "مالیات بر انرژی",
-    "tag": "windfall tax",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-09/eu-to-assess-windfall-tax-on-energy-firms-to-soften-price-shock",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-09/eu-to-assess-windfall-tax-on-energy-firms-to-soften-price-shock",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791518160.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d91eb05c89",
-    "title_fa": "‏وال‌استریت صعود کرد؛ نفت کاهش یافت و اسپکتروم SpaceX مخابرات",
-    "title_en": "Wall St climbs as oil slips; SpaceX spectrum deal weighs on telecoms",
-    "summary": [
-      "‏شاخص‌های اصلی وال‌استریت در صبح جمعه با افزایش آغاز شدند.",
-      "‏کاهش قیمت نفت به دلیل تسکین نگرانی‌های عرضه در خاورمیانه باعث این صعود شد.",
-      "‏سهام مخابرات تحت فشار باقی ماند چون معامله‌ٔ اسپکتروم SpaceX می‌تواند رقابت را تشدید کند."
-    ],
-    "body_fa": "‏در روز جمعه، شاخص‌های اصلی وال‌استریت با افزایش آغاز کردند؛ دای جو و اس اند پی ۵۰ حدود ۰٫۲ درصد رشد کردند. این حرکت مثبت به کاهش قیمت نفت برمی‌گردد؛ بنزین‌های خاورمیانه پس از کاهش تنش‌های عرضه، قیمت‌ها را ۲ درصد پایین‌تر از روز قبل کرد. با این حال، سهام شرکت‌های مخابراتی همچون Verizon و AT&T تحت فشار باقی ماند؛ زیرا SpaceX قرارداد جدیدی برای استفاده از باندهای فرکانسی ۲۴‑۲۸ گیگاهرتز با FCC امضا کرده که می‌تواند فشار رقابتی بر ارائه‌دهندگان خدمات موبایل ایجاد کند. تحلیل‌گران بازار این توسعه را به عنوان عاملی می‌دانند که ممکن است سرمایه‌گذاران را از خرید سهام مخابرات منصرف کند، در حالی که بهبود وضعیت نفت به طور کلی حس مثبت‌تری در بازار ایجاد کرده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "نفت",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/wall-st-futures-gain-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-2026-10-09/",
-    "clean_url": "https://www.reuters.com/business/wall-st-futures-gain-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-2026-10-09",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791516300.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b4f3f36850",
-    "title_fa": "‏جیو آمبانی قیمت IPO را ۱٬۰۶۵‑۱٬۱۱۹ روپیه تعیین کرد",
-    "title_en": "Ambani’s Jio Said to Set IPO Price Band at 1,065-1,119 Rupees",
-    "summary": [
-      "‏جیو، شرکت زیرمجموعهٔ آمبانی، باند قیمت IPO را بین ۱٬۰۶۵ تا ۱٬۱۱۹ روپیه اعلام کرد.",
-      "‏این قیمت می‌تواند جذب سرمایهٔ چند صد میلیارد دلار و تأثیر قابل‌توجهی بر بازارهای سهام هند داشته باشد.",
-      "‏برخی تحلیل‌گران پیش‌بینی می‌کنند سهام Reliance Industries پس از عرضه ممکن است نوسان کند."
-    ],
-    "body_fa": "‏شرکت جیو، زیرمجموعهٔ Reliance Industries به رهبری آمبانی، امروز باند قیمت اولیهٔ عرضه عمومی سهام (IPO) را بین ۱٬۰۶۵ تا ۱٬۱۱۹ روپیه تعیین کرد. این محدوده نشان‌دهندهٔ ارزیابی اولیه‌ای است که می‌تواند ارزش کل عرضه را به چند صد میلیارد دلار برساند. عرضهٔ جیو به عنوان بزرگ‌ترین IPO فناوری در تاریخ هند، توجه سرمایه‌گذاران داخلی و بین‌المللی را به خود جلب کرده و می‌تواند نوسانات قابل‌توجهی در شاخص‌های بورس ملی ایجاد کند. تحلیل‌گران بازار انتظار دارند که این اقدام فشار خرید بر سهام Reliance Industries وارد کند، در حالی که برخی پیش‌بینی می‌کنند پس از روزهای اولیه ممکن است فشار فروش ظاهر شود. در مجموع، این IPO می‌تواند نقش مهمی در شکل‌گیری چشم‌انداز سرمایه‌گذاری در بخش دیجیتال و فناوری هند ایفا کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سرمایه",
-    "tag": "IPO",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-09/ambani-s-jio-said-to-set-ipo-price-band-at-1-065-1-119-rupees",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-09/ambani-s-jio-said-to-set-ipo-price-band-at-1-065-1-119-rupees",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791516000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9d8612948a",
-    "title_fa": "‏آمازون سرویس اینترنت فضایی‌اش را در 2026 راه‌اندازی می‌کند",
-    "title_en": "Amazon’s Starlink competitor is still launching this year.",
-    "summary": [
-      "‏آمازون اعلام کرد سرویس اینترنت فضایی خود را با ۳۹۶ ماهواره LEO در سال ۲۰۲۶ راه‌اندازی خواهد کرد.",
-      "‏این اقدام رقابت با Starlink را تشدید می‌کند و می‌تواند دسترسی به اینترنت پرسرعت را در مناطق دوردست گسترش دهد.",
-      "‏تا به حال به دلیل مشکلات شرکای پرتاب، هیچ ماهواره جدیدی پس از اوایل ژوئیه به فضا ارسال نشده است."
-    ],
-    "body_fa": "‏آمازون اعلام کرد که سرویس اینترنت فضایی خود را با استفاده از ۳۹۶ ماهواره در مدار پایین (LEO) در سال ۲۰۲۶ راه‌اندازی خواهد کرد. این برنامه که به عنوان رقیب Starlink شناخته می‌شود، پس از به‌دست آوردن تاخیرهای ناشی از مشکلات شرکای پرتاب، هدف اولیه «میانه‑۲۰۲۶» را از دست داده است. شرکت هنوز در حال جابجایی ماهواره‌ها به موقعیت نهایی و انجام کارهای زمینی مورد نیاز است. با این راه‌اندازی، آمازون می‌خواهد سهم خود را در بازار اینترنت ماهواره‌ای جهانی افزایش دهد و رقابت را برای Starlink تشدید کند. این رقابت می‌تواند دسترسی به اینترنت پرسرعت را در مناطق دوردست و کم‌پوشش بهبود بخشد. تحلیل‌گران پیش‌بینی می‌کنند که ورود آمازون به این بازار ممکن است فشار بر قیمت‌ها و نوآوری‌های فنی ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "فضایی",
-    "tag": "Kuiper",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/1008593/amazons-starlink-competitor-is-still-launching-this-year",
-    "clean_url": "https://www.theverge.com/science/1008593/amazons-starlink-competitor-is-still-launching-this-year",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-    "timestamp": 1791511440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8cc421f822",
-    "title_fa": "‏وال استریت نشانه نگران‌کننده‌ای در فروش اوراق قرضه می‌بیند",
-    "title_en": "Wall Street Sees an Ominous Sign in Bond Market’s Latest Selloff",
-    "summary": [
-      "‏بازار اوراق قرضه در روزهای اخیر به شدت فروختند.",
-      "‏این فشار می‌تواند نشانگر نگرانی‌های سرمایه‌گذاران درباره رشد اقتصادی باشد.",
-      "‏تحلیلگران به دنبال تأثیر این روند بر سبدهای سهام هستند."
-    ],
-    "body_fa": "‏در هفتهٔ اخیر، اوراق قرضهٔ دولتی و شرکتی در ایالات متحده با حجم فروش بالایی مواجه شدند و بازده‌ها به سرعت افزایش یافت. این فروش گسترده نشان می‌دهد که سرمایه‌گذاران نسبت به چشم‌انداز رشد اقتصادی و احتمال افزایش نرخ بهره نگران شده‌اند. رشد بازده‌ها معمولاً فشار بر قیمت سهام وارد می‌کند و می‌تواند باعث نوسان در بازارهای سهام شود. معامله‌گران وال استریت این تحولات را به عنوان سیگنالی هشداردهنده برای احتمال کاهش نقدینگی و تغییر در استراتژی‌های سرمایه‌گذاری می‌دانند. در صورت ادامهٔ این روند، ممکن است فشار بر سبدهای سهام و ارزهای مرتبط افزایش یابد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار اوراق قرضه",
-    "tag": "bond selloff",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-09/wall-street-sees-an-ominous-sign-in-bond-market-s-latest-selloff",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-09/wall-street-sees-an-ominous-sign-in-bond-market-s-latest-selloff",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791511200.0,
     "sent_to_telegram": true
   }
 ]
