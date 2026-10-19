@@ -1,5 +1,71 @@
 [
   {
+    "id": "faed7dbc93",
+    "title_fa": "‏بازارهای وال‌استریت پس از طوفان هوش مصنوعی کمی ریکاوری کردند",
+    "title_en": "Trading day: AI storm abates",
+    "summary": [
+      "‏سهام‌های فناوری هوش مصنوعی پس از سقوط شدید، امروز در وال‌استریت بازگشتند و شاخص‌ها کمی ارتقا یافتند",
+      "‏این بازگشت نشان می‌دهد فشارهای ناشی از انتظارات نادرست AI کاهش یافته و سرمایه‌گذاران به سبدهای متنوع بازگشته‌اند",
+      "‏شاخص S&P 500 حدود 0.4 ٪ رشد کرد، در حالی که سهام Nvidia و AMD پس از افت قبلی کاهش شدیدی را تجربه کردند"
+    ],
+    "body_fa": "‏در روز دوشنبه، پس از هفته‌ای پرنوسان به‌دلیل انتظارات بیش از حد از هوش مصنوعی، وال‌استریت کمی ریکاوری کرد. شاخص S&P 500 حدود 0.4 ٪ افزایش یافت و Dow Jones نیز حدود 0.3 ٪ رشد کرد. سهام‌های مرتبط با AI مانند Nvidia و AMD که روزهای پیش با کاهش‌های دو رقمی مواجه بودند، امروز با کاهش کمتر یا حتی کمی صعودی معامله شدند. تحلیل‌گران می‌گویند فشارهای ناشی از گزارش‌های مالی نامطلوب و انتظارات غیرواقعی در حال کاهش است و سرمایه‌گذاران به تدریج به سبدهای متنوع بازمی‌گردند. این آرامش نسبی می‌تواند مسیر کوتاه‌مدت بازار را تثبیت کند، اما ریسک‌های ناشی از نوسانات فناوری همچنان باقی است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters on MSN",
+    "url": "https://www.msn.com/en-us/money/economy/trading-day-ai-storm-abates/ar-AA2fBmvi?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/money/economy/trading-day-ai-storm-abates/ar-AA2fBmvi",
+    "image": "https://www.bing.com/th?id=ONUT.eadfUruX4OXnf5vzptM77w",
+    "timestamp": 1792446759.595351,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d42f4259ef",
+    "title_fa": "‏مالیات‌های جدید بودجه، ریسک بانک‌های بریتانیایی را افزایش می‌دهند",
+    "title_en": "Barclays in the line of fire: Budget tax hikes will put UK banks at risk, warns Alex Brummer",
+    "summary": [
+      "‏مالیات‌های پیشنهادی در بودجه جدید، فشار مالی بر بانک‌های بریتانیایی مانند Barclays ایجاد می‌کند.",
+      "‏آلکس برامر هشدار می‌دهد این افزایش مالیات می‌تواند ریسک‌های اعتباری و سودآوری بانک‌ها را بالا ببرد.",
+      "‏وزیر مالی جان هیلی برای جلوگیری از نشت اطلاعات بودجه، تدابیر امنیتی سخت‌گیرانه‌ای به سبک نظامی اتخاذ کرده است."
+    ],
+    "body_fa": "‏وزیر مالی بریتانیا، جان هیلی، پس از نشت اطلاعات بودجه در پاییز گذشته، دفاع‌های «نظامی‑سبک» برای محافظت از جزئیات مالی جدید به کار گرفته است. در این بودجه، افزایش مالیات‌های مختلف از جمله مالیات بر شرکت‌ها و مالیات بر خدمات مالی پیش‌بینی شده که می‌تواند فشار بر سودآوری بانک‌های بزرگ را افزایش دهد. تحلیل‌گر مالی آلکس برامر می‌گوید این تغییرات مالیاتی بانک‌های بریتانیایی، به‌ویژه Barclays ، را در معرض ریسک‌های اعتباری بیشتری قرار می‌دهد. او افزود که هزینه‌های بالاتر می‌تواند توانایی بانک‌ها در اعطای وام و جذب سرمایه را تحت فشار قرار دهد. این هشدارها می‌تواند واکنش‌های منفی در بازارهای سهام و اوراق قرضه بانکی بریتانیا ایجاد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "مالیات و بانک‌ها",
+    "tag": "مالیات",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "This is Money on MSN",
+    "url": "https://www.msn.com/en-us/money/economy/barclays-in-the-line-of-fire-budget-tax-hikes-will-put-uk-banks-at-risk-warns-alex-brummer/ar-AA2fANcZ?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/money/economy/barclays-in-the-line-of-fire-budget-tax-hikes-will-put-uk-banks-at-risk-warns-alex-brummer/ar-AA2fANcZ",
+    "image": "https://www.bing.com/th?id=ONUT.UCGcxp4t97Hq4UpJqyGnLA",
+    "timestamp": 1792446519.2436337,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7449180b0c",
+    "title_fa": "‏هکرها به پلتفرم OpenCode نفوذ کردند و هزینه‌های کاربران را افزایش دادند",
+    "title_en": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts | ...",
+    "summary": [
+      "‏هکرها به OpenCode Console دست یافتند و کلیدهای API 1.4 ٪ کاربران را به سرقت بردند",
+      "‏این نفوذ باعث شارژهای غیرمجاز تا بیش از 1000 دلار شد و خطر حملات سایبری مبتنی بر هوش مصنوعی را برجسته کرد",
+      "‏OpenAI ، Anthropic و Google کلیدهای فاش‌شده را مسدود و برای کاربران بازپرداخت انجام دادند"
+    ],
+    "body_fa": "‏OpenCode ، ابزار متن‌باز کدنویسی هوش مصنوعی، اعلام کرد که دیروز شب سامانه قدیمی‌اش مورد حمله هکرها قرار گرفته و 1.4 ٪ کاربران کنسول آنلاین آن که کلیدهای API خود را در آن ذخیره کرده بودند، تحت تاثیر قرار گرفتند. شرکت توضیح داد این حمله به شکل یک «حمله تقطیر» بزرگ بوده و منجر به استفاده غیرمجاز از کلیدها برای تولید خروجی‌های حجیم شد. توسعه‌دهندگان پس از دریافت هشدارهای هزینه‌ای، گزارش کردند که شارژهای غیرمجاز تا صدها دلار و در برخی موارد بیش از 1000 دلار بر روی حساب‌هایشان ثبت شده است. OpenAI ، Anthropic و Google بلافاصله کلیدهای فاش‌شده را مسدود کردند و برای جبران هزینه‌های کاربران اقدام به بازپرداخت کردند. تیم OpenCode نیز گفت در حال بازگرداندن هزینه‌های غیرمجاز است و برای 48 ساعت متوالی با استفاده از ابزارهای دفاعی هوش مصنوعی سعی در مقابله با حمله داشته‌اند.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "OpenCode",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "clean_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+    "image": "https://s.yimg.com/bo/034c20b9-fd97-5388-a5e8-af62153ae4cf_1792439059702.jpg",
+    "timestamp": 1792439121.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "58b122e5fa",
     "title_fa": "‏پتر شِیف: نقره پس از تورم گرم ۶٫۵٪ افت کرد",
     "title_en": "Why Schiff’s Inflation Hedge Case Faces a Rate Reality Check",
@@ -41,6 +107,28 @@
     "clean_url": "https://nationalsecurityjournal.org/iran-just-pulled-off-a-strategic-master-stroke-in-the-strait-of-hormuz-and-donald-trumps-dream-of-low-oil-prices-is-gone",
     "image": "https://www.bing.com/th?id=ONUT.T81nmGh0KSD6kNTPlU_OeQ",
     "timestamp": 1792438289.7375586,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "996db150db",
+    "title_fa": "‏استارتاپ Town پس از چهار ماه به ارزش یونیکورن رسید",
+    "title_en": "AI assistant startup Town nabs unicorn valuation four months after launch |...",
+    "summary": [
+      "‏استارتاپ هوش مصنوعی Town پس از چهار ماه راه‌اندازی، ارزش یونیکورن 1.08 میلیارد دلاری کسب کرد",
+      "‏این پس از جذب 108 میلیون دلار در دور سری B توسط Forerunner Ventures و Menlo Ventures ، نشانگر سرعت رشد بازار دستیارهای AI است",
+      "‏Townie می‌تواند با ابزارهای ایمیل، تقویم و سیستم‌های کاری دیگر ارتباط برقرار کند و اطلاعات را به‌صورت خودکار به‌روزرسانی می‌کند"
+    ],
+    "body_fa": "‏استارتاپ هوش مصنوعی Town که دو سال پیش در سانفرانسیسکو تأسیس شد، پس از تنها چهار ماه عرضه عمومی، به ارزش یونیکورن 1.08 میلیارد دلار رسید. این شرکت امروز دور سری B خود را با جذب 108 میلیون دلار تکمیل کرد که توسط Forerunner Ventures و Menlo Ventures رهبری و همچنین مشارکت Andreessen Horowitz ، Serena Ventures و First Round Capital بود. Town به کسب‌وکارها یک دستیار هوشمند به نام Townie ارائه می‌دهد که می‌تواند به ایمیل‌ها، تقویم‌ها و سایر سیستم‌های کاری متصل شود و حتی با یکدیگر اطلاعات تأییدشده را به اشتراک بگذارند. به‌تازگی این دستیارها می‌توانند به‌صورت خودکار با به‌روزرسانی‌های جدید کسب‌وکار هماهنگ شوند و حتی با مشتریان بیرونی تعامل داشته باشند. این رشد سریع نشان می‌دهد که تقاضا برای راهکارهای هوش مصنوعی سازمانی در حال افزایش است و سرمایه‌گذاران به سرعت به این حوزه تمایل نشان می‌دهند.",
+    "category": "تکنولوژی",
+    "subcategory": "استارتاپ هوش مصنوعی",
+    "tag": "Town",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "clean_url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
+    "image": "https://s.yimg.com/bo/be6ec595-0901-5205-8512-1df5cf24b079_1792433905148.jpg",
+    "timestamp": 1792431921.0,
     "sent_to_telegram": true
   },
   {
@@ -107,6 +195,28 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Canadas-Inflation-Rises-to-31-as-Fuel-Oil-Prices-Jump-58.html",
     "image": "https://s.yimg.com/bo/e799495b-d682-5f10-9446-fb363d0925c9_1792427980341.jpg",
     "timestamp": 1792427415.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a3c0200a42",
+    "title_fa": "‏اسرائیل از مناقشه هزینه‌ای، حمل‌ونقل به غزه از سر می‌شود",
+    "title_en": "Israel to resume commercial shipments to Gaza after Hamas fee dispute",
+    "summary": [
+      "‏اسرائیل پس از مناقشه‌ای درباره هزینه‌های حمل‌ونقل، حمل‌ونقل تجاری به غزه از سر گرفته شد.",
+      "‏این تصمیم فشار اقتصادی بر ساکنان غزه را کاهش می‌دهد و واکنش بین‌المللی به وضعیت انسانی را نشان می‌دهد.",
+      "‏حمل‌ونقل‌ها شامل مواد غذایی، دارو و لوازم اساسی خواهد بود."
+    ],
+    "body_fa": "‏اسرائیل روز دوشنبه اعلام کرد که پس از مناقشه‌ای چند روزه درباره هزینه‌های حمل‌ونقل تجاری که توسط حماس مطرح شده بود، ارسال کالاهای تجاری به غزه از سر گرفته می‌شود. این تصمیم توسط مرکز هماهنگی نظامی اسرائیل اعلام شد و هدف آن تسهیل ورود مواد غذایی، داروها و لوازم اساسی به جمعیت غزه است. مناقشه قبلی بر سر پرداخت هزینه‌های گمرکی و مالی برای عبور کالاها از مرز بود که باعث توقف موقت حمل‌ونقل‌ها شد. بازگشت این حمل‌ونقل‌ها پس از فشارهای بین‌المللی و درخواست‌های سازمان ملل، می‌تواند فشار انسانی بر ساکنان غزه را کاهش دهد. این گام همچنین نشان‌دهنده تمایل اسرائیل به کاهش تنش‌های اقتصادی در منطقه است، هرچند وضعیت امنیتی همچنان نامشخص باقی می‌ماند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حمل‌ونقل انسانی",
+    "tag": "غزه",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israel-resume-commercial-shipments-gaza-after-hamas-fee-dispute-2026-10-19/",
+    "clean_url": "https://www.reuters.com/world/middle-east/israel-resume-commercial-shipments-gaza-after-hamas-fee-dispute-2026-10-19",
+    "image": "https://s.yimg.com/bo/3a3deb13-193d-54c9-bfce-0687d123c69c_1792425638638.jpg",
+    "timestamp": 1792424721.0,
     "sent_to_telegram": true
   },
   {
@@ -220,6 +330,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2907c09f02",
+    "title_fa": "‏ژاپن فضاپیمای جدید برای کاوش ماه‌های مریخ پرتاب کرد",
+    "title_en": "Japan Launches Spacecraft to Explore Mars’s Moons",
+    "summary": [
+      "‏ژاپن فضاپیمایی را برای بررسی ماه‌های مریخ به‌کار گرفت",
+      "‏این ماموریت می‌تواند تاریخچهٔ پیچیدهٔ سیاره سرخ و مدارهای آن را روشن کند",
+      "‏پروژه توسط سازمان JAXA هدایت می‌شود"
+    ],
+    "body_fa": "‏سازمان فضایی ژاپن (JAXA) فضاپیمای جدیدی را برای سفر به مریخ و بررسی ماه‌های فوبوس و دیموس پرتاب کرد. این مأموریت که در ماه‌های آینده آغاز می‌شود، هدف دارد تا اطلاعات جدیدی دربارهٔ تشکیل و تکامل این ماه‌ها به‌دست آورد. با استفاده از ابزارهای پیشرفتهٔ تصویربرداری و تجزیه‌وتحلیل شیمیایی، فضاپیما می‌تواند ترکیب سطحی و زیرسطحی این اجسام را بررسی کند. داده‌های به‌دست‌آمده می‌توانند به روشن شدن تاریخچهٔ مریخ، از جمله حضور احتمالی آب و شرایط قابل‌حیات در گذشته، کمک کنند. این پروژه نه تنها نشان‌دهندهٔ پیشرفت‌های فناوری ژاپن است، بلکه به جامعهٔ علمی بین‌المللی اطلاعات ارزشمندی ارائه می‌دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "کاوش مریخ",
+    "tag": "مریخ",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/video/japan-launches-spacecraft-to-explore-marss-moons/276AC962-DB0A-464A-A342-71D6D6842E74",
+    "clean_url": "https://www.wsj.com/video/japan-launches-spacecraft-to-explore-marss-moons/276AC962-DB0A-464A-A342-71D6D6842E74",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792418700.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "e9e027489a",
     "title_fa": "‏ترامپ تصمیم به لغو تحریم‌های روسیه را توجیه کرد",
     "title_en": "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens |...",
@@ -283,6 +415,28 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Offers-Lebanon-2-Gas-Plants-and-20-Years-of-LNG-Piped-Through-Syria.html",
     "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-19_yuqmfohjc9.jpg",
     "timestamp": 1792409400.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "58b21440a8",
+    "title_fa": "‏قیمت طلا زیر ۴,۲۰۰ دلار، نرخ بهرهٔ فدرال‌رزرو فشار آورد",
+    "title_en": "Gold struggles below $4,200 as Fed rate-hike bets limit upside | FXStreet",
+    "summary": [
+      "‏قیمت طلا (XAU/USD) پس از شروع هفته به زیر ۴,۲۰۰ دلار افتاد.",
+      "‏قوی شدن دلار و افزایش بازده اوراق خزانه‌داری آمریکا، به‌همراه انتظارات افزایش نرخ بهرهٔ فدرال‌رزرو، فشار بر طلا وارد کرد.",
+      "‏تحلیل‌گران پیش‌بینی می‌کنند تا پایان ماه طلا ممکن است زیر ۴,۰۰۰ دلار نرسد."
+    ],
+    "body_fa": "‏قیمت طلا (XAU/USD) در آغاز هفته به زیر ۴,۲۰۰ دلار رسید، پس از اینکه در روزهای قبلی به‌صورت موقت بالاتر از این سطح معامله می‌شد. تقویت دلار آمریکا و افزایش بازده اوراق قرضهٔ خزانه‌داری، که نشانگر انتظارات بازار برای افزایش نرخ بهرهٔ فدرال‌رزرو است، باعث فشار فروش بر طلا شد. سرمایه‌گذاران به‌دلیل نگرانی از ادامهٔ سیاست‌های سخت‌گیرانهٔ پولی، تمایل به نگهداری دارایی‌های امنی مانند طلا را کاهش دادند. تحلیل‌گران پیش‌بینی می‌کنند تا پایان ماه، قیمت طلا ممکن است زیر ۴,۰۰۰ دلار باقی بماند مگر اینکه داده‌های تورمی یا سیاست‌های پولی تغییر چشمگیری نشان دهند. در همین حال، بازارهای دیگر کالاها همچون نقره و نفت نیز تحت تأثیر تقویت دلار و سطوح بالاتر بهره‌ها قرار گرفته‌اند.",
+    "category": "انرژی و کالا",
+    "subcategory": "طلا",
+    "tag": "Gold",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/gold-stalls-below-4-200-as-fed-rate-hike-bets-limit-upside-202610191104",
+    "clean_url": "https://www.fxstreet.com/news/gold-stalls-below-4-200-as-fed-rate-hike-bets-limit-upside-202610191104",
+    "image": "https://s.yimg.com/bo/346d8372-c5b0-57a0-91cb-129a3d5a6111_1790285377513.jpg",
+    "timestamp": 1792406717.0,
     "sent_to_telegram": true
   },
   {
@@ -6443,160 +6597,6 @@
     "clean_url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
     "image": "https://s.yimg.com/bo/42300743-577a-5698-b73a-822cf7736dfa_1791659062990.jpg",
     "timestamp": 1791657794.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9948b196dd",
-    "title_fa": "‏نرخ‌های سوپر‌تانکر به رکورد رسید؛ بحران حمل‌ونقل نفت",
-    "title_en": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
-    "summary": [
-      "‏سوپر‌تانکرها در مسیر خلیج فارس‑چین نرخ روزانه بیش از 1.4 میلیون دلار را ثبت کردند.",
-      "‏این افزایش ناشی از جنگ ایران و تغییر مسیرهای نفتی است که هزینه حمل‌ونقل و قیمت نفت را بالا برد.",
-      "‏برخی سوپر‌تانکرها برای یک سفر هزینه 76 تا 82 میلیون دلار دریافت کردند."
-    ],
-    "body_fa": "‏در سپتامبر نرخ روزانه سوپر‌تانکرها در مسیر خلیج فارس به چین بیش از 1 میلیون دلار شد و در اولین هفته اکتبر به بالای 1.4 میلیون دلار رسید؛ رکوردی که به‌سرعت شکسته شد. این افزایش به‌دلیل جنگ ایران است که مسیرهای تجاری نفت را تغییر داده و باعث شد تانکرها برای انتقال‌های کشتی‑به‑کشتی در خلیج عمان به مدت هفته‌ها در انتظار بمانند و تعداد VLCC های موجود برای مسیرهای دیگر مانند خلیج آمریکا‑آسیا کاهش یابد. کمبود سوپر‌تانکرها به‌سرعت به بازارهای کوچکتر مانند Aframax و Suezmax سرایت کرد و نرخ‌های روزانه آن‌ها نیز به‌ارتفاع شد. هزینه حمل‌ونقل یک محموله نفتی اکنون چندین میلیون دلار به قیمت نهایی اضافه می‌کند؛ به‌عنوان مثال یک سوپر‌تانکر برای مسیر خلیج آمریکا‑چین 76 میلیون دلار و برای مسیر خلیج آمریکا‑ژاپن 82 میلیون دلار دریافت کرد، که ده‌برابر هزینه‌های پیش از جنگ است. راسل هاردی، مدیرعامل Vitol ، در یک کنفرانس گفت که بحران نفت به بحران حمل‌ونقل تبدیل شده و «به‌طور واضح کافی نیست که همه این کشتی‌ها را به‌کار بگیریم».",
-    "category": "انرژی و کالا",
-    "subcategory": "نقل‌ونقل نفت",
-    "tag": "نرخ‌کشتی",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-10_at9zh17zer.jpg",
-    "timestamp": 1791648000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ae86f8b5b2",
-    "title_fa": "‏انفجار بزرگ در فرودگاه بین‌المللی ریاض مسافران را تخلیه کرد",
-    "title_en": "Loud blast at Riyadh airport as travellers evacuated and airlines cancel flights",
-    "summary": [
-      "‏انفجار شدیدی در فرودگاه بین‌المللی ریاض رخ داد و 12 آمبولانس به محل آمدند",
-      "‏حادثه منجر به تخلیه مسافران، لغو پروازها و نگرانی‌های امنیتی در منطقه شد",
-      "‏مقامات هنوز دلیل انفجار را اعلام نکرده‌اند"
-    ],
-    "body_fa": "‏امروز صبح انفجار شدیدی در فرودگاه بین‌المللی ریاض رخ داد که باعث حضور بیش از 12 آمبولانس در محل شد. مسافران به سرعت تخلیه و از ترمینال‌ها خارج شدند و چندین شرکت هواپیمایی پروازهای خود را لغو کردند. مقامات ریاض اعلام کردند که تحقیقات برای شناسایی منبع انفجار آغاز شده است و امنیت فرودگاه تا اطلاع ثانوی محدود شده است. این حادثه نگرانی‌های امنیتی را در خاورمیانه تشدید کرده و احتمالاً بر جریان مسافران و تجارت هوایی منطقه تأثیر خواهد گذاشت.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حوادث امنیتی",
-    "tag": "انفجار ریاض",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/",
-    "clean_url": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10",
-    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
-    "timestamp": 1791642849.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7675c0b3fe",
-    "title_fa": "‏ده‌ها هزار نفر در لندن راهپیمایی حمایت از فلسطین کردند",
-    "title_en": "Tens of thousands take to London's streets in pro-Palestinian march",
-    "summary": [
-      "‏ده‌ها هزار نفر در لندن به مناسبت یک‌سالگی آتش‌بس میان‌المللی در غزه، راهپیمایی حمایت از فلسطین کردند.",
-      "‏این تظاهرات نشان‌دهنده فشار عمومی بر دولت‌های غربی برای پیشبرد مذاکرات صلح و پایان محاصره است.",
-      "‏پلیس برای حفظ نظم، هزاران مأمور را به خیابان‌ها اعزام کرد."
-    ],
-    "body_fa": "‏در روز شنبه، ده‌ها هزار نفر در مرکز لندن به راهپیمایی حمایت از فلسطین پرداختند. این تجمع به مناسبت یک‌سالگی آتش‌بس میان‌المللی بود که ایالات متحده میان‌المللی میان طرفین در غزه تنظیم کرده بود. اگرچه توافق اولیه برای بازسازی و کاهش درگیری‌ها بود، پیشرفت‌های ملموسی در این زمینه حاصل نشده است. تظاهرکنندگان با پرچم‌ها و شعارهای ضد‑اسرائیل، فشار بر دولت‌های غربی برای تجدید مذاکرات صلح و پایان محاصره غزه را افزایش دادند. پلیس برای حفظ امنیت، هزاران مأمور را در اطراف مسیر راهپیمایی مستقر کرد و برخی از تظاهرات‌کنندگان را بازداشت کرد. این رویداد نشان می‌دهد که حمایت عمومی از فلسطین در شهرهای اروپایی همچنان قوی است و می‌تواند بر سیاست‌های خارجی کشورهای هم‌پیمان تأثیر بگذارد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "تظاهرات بین‌المللی",
-    "tag": "پالستین",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/video/watch/idRW911410102026RP1/",
-    "clean_url": "https://www.reuters.com/video/watch/idRW911410102026RP1",
-    "image": "https://ajo.prod.reuters.tv/api/v2/img/6aca8886e4b0bd3536cbb281?height=1200&width=1200&quality=80&smart=true",
-    "timestamp": 1791633000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "82298846c0",
-    "title_fa": "‏هالیوود با فیلم‌های جدید به زاکربرگ، ماسک و آلتمن می‌پردازد",
-    "title_en": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
-    "summary": [
-      "‏هفته‌آخر فیلم‌های متعددی درباره زاکربرگ، ماسک و آلتمن در سینماها عرضه می‌شود.",
-      "‏این آثار در زمان افزایش نگرانی عمومی نسبت به هوش مصنوعی، می‌توانند نگرش‌ها را تقویت یا تغییر دهند.",
-      "‏سونی پیکچرز پیش‌بینی می‌کند «The Social Reckoning» حدود 7 میلیون دلار فروش داخلی داشته باشد."
-    ],
-    "body_fa": "‏هفته‌آخر هالیوود با انتشار چند فیلم درباره بزرگ‌ترین چهره‌های فناوری و هوش مصنوعی، به نگرانی‌های عمومی پاسخ می‌دهد. سونی پیکچرز «The Social Reckoning» را که به افشاگری Frances Haugen در سال 2021 می‌پردازد، عرضه کرده و پیش‌بینی می‌کند حدود 7 میلیون دلار فروش داخلی داشته باشد. مستند چهار ساعته الون ماسک به کارگردانی Alex Gibney نیز به صورت محدود در سینماها نمایش می‌شود؛ اگرچه ماسک در X فیلم را «بدون یکپارچگی» توصیف کرده است. فیلم «Artificial» از Neon به سناریوی Sam Altman ، مدیرعامل OpenAI که در سال 2023 به‌طور موقت عزل شد، می‌پردازد. نتفلیکس نیز در سری «Instadocs» به حادثه Hugging Face می‌پردازد که در آن عوامل OpenAI به‌صورت خودکار به زیرساخت‌های شرکت نفوذ کردند. این مجموعه فیلم‌ها در زمانی منتشر می‌شوند که 73% آمریکایی‌ها خطر هوش مصنوعی برای بقا را می‌پذیرند و 54% فکر می‌کنند مراکز داده به محیط زیست آسیب می‌رسانند، بنابراین می‌توانند تأثیر قابل‌توجهی بر افکار عمومی داشته باشند.",
-    "category": "تکنولوژی",
-    "subcategory": "فیلم‌های فناوری",
-    "tag": "فیلم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
-    "clean_url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
-    "image": "https://s.yimg.com/bo/e01962b3-7bf2-5e4e-9241-8328da698c17_1791634773753.jpg",
-    "timestamp": 1791632593.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "dabc3eaf7e",
-    "title_fa": "‏دولت Donald Trump تحریم‌های دیزل روسیه را موقتاً لغو کرد",
-    "title_en": "Why Russian Sanctions Relief Would Do Little For U.S. Fuel Prices",
-    "summary": [
-      "‏وزارت خزانه‌داری آمریکا پس از گفتگوی Donald Trump با Vladimir Putin ، مجوزی عمومی برای صادرات سوخت دیزل روسیه صادر کرد.",
-      "‏این معافیت تحریمی در جریان مذاکرات پایان جنگ اوکراین و با هدف مهار بهای سوخت تا سال 2027 تصویب شده است.",
-      "‏روسیه متعهد شده است بیش از 300,000 تن سوخت دیزل را فوراً به بازارهای بین‌المللی تزریق کند."
-    ],
-    "body_fa": "‏دولت آمریکا به دنبال گفتگوی تلفنی میان Donald Trump و Vladimir Putin تصمیم گرفت محدودیت‌های صادرات دیزل روسیه را کاهش دهد. بر اساس اعلام رسمی، دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا مجوزی موقت صادر کرده است که صادرات گازوئیل روسیه به بازارهای جهانی را تا آوریل 2027 ممکن می‌سازد. طبق این توافق، مسکو متعهد شده ابتدا 300,000 تن و سپس محموله‌هایی تا سقف چند میلیون تن سوخت را به بازار عرضه کند. این تصمیم در چارچوب مذاکرات گسترده‌تر درباره پایان جنگ اوکراین و واگذاری دارایی‌های خارجی شرکت Lukoil به گروهی از سرمایه‌گذاران صورت گرفته است. با این حال، تحلیل‌ها نشان می‌دهد ورود این محموله‌ها تأثیر چشمگیری بر کاهش بهای سوخت برای مصرف‌کنندگان داخلی آمریکا نخواهد گذاشت.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های انرژی",
-    "tag": "دیزل",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Forbes · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/energy/articles/why-russian-sanctions-relief-little-100000529.html",
-    "clean_url": "https://finance.yahoo.com/energy/articles/why-russian-sanctions-relief-little-100000529.html",
-    "image": "https://media.zenfs.com/en/forbes_contributor_845/ffdab08a3dfb220eb98528fc23ad7e38.jpg",
-    "timestamp": 1791627748.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3c879390cd",
-    "title_fa": "‏شرکت Cloudflare استارتاپ Deno را برای تقویت پلتفرم ابری خود خرید",
-    "title_en": "Cloudflare acquires Deno to improve its Workers programming model",
-    "summary": [
-      "‏شرکت Cloudflare از تصاحب استارتاپ Deno ، سازنده محیط اجرای جاوااسکریپت، خبر داد.",
-      "‏این معامله با هدف بهبود و استانداردسازی مدل برنامه‌نویسی ابری Cloudflare Workers انجام شده است.",
-      "‏جزئیات مالی توافق اعلام نشده، اما Deno پیش‌تر 26 میلیون دلار سرمایه جذب کرده بود."
-    ],
-    "body_fa": "‏شرکت Cloudflare رسماً اعلام کرد که استارتاپ Deno را برای ارتقای پلتفرم ابری Workers خریداری کرده است. این استارتاپ توسط Ryan Dahl ، خالق Node.js ، و Bert Belder راه‌اندازی شده بود و پیش‌تر موفق به جذب 26 میلیون دلار سرمایه با رهبری Sequoia شده بود. ابزار Cloudflare Workers به برنامه‌نویسان امکان می‌دهد نرم‌افزارهای خود را مستقیماً روی شبکه توزیع‌شده این شرکت اجرا کنند. مدیران این شرکت اعلام کردند که بر خلاف استراتژی قفل کردن مشتریان در پلتفرم‌های ابری، به توسعه متن‌باز و آزادی عمل توسعه‌دهندگان متعهد هستند. با پیوستن تیم Deno ، هدف اصلی تبدیل مدل برنامه‌نویسی Workers به استاندارد اصلی توسعه سرورها خواهد بود.",
-    "category": "تکنولوژی",
-    "subcategory": "رایانش ابری و نرم‌افزار",
-    "tag": "Cloudflare",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "clean_url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
-    "timestamp": 1791624360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0610ea0cdc",
-    "title_fa": "‏بهداشت جهانی علت مرگ کارگر طاعون در سیبری نامشخص است",
-    "title_en": "WHO unsure what caused pneumonia that killed plague-lab worker in Russia",
-    "summary": [
-      "‏یک کارگر در آزمایشگاه طاعون در سیبری روسیه به دلیل پنومونی جان خود را از دست داد",
-      "‏سازمان بهداشت جهانی (WHO) هنوز علت دقیق مرگ را نمی‌داند و نگرانی‌ها درباره ایمنی آزمایشگاه‌های زیست‌خطر را افزایش می‌دهد",
-      "‏این حادثه می‌تواند خطر انتشار بیماری‌های عفونی را به دنبال داشته باشد"
-    ],
-    "body_fa": "‏سازمان بهداشت جهانی (WHO) اعلام کرد که مرگ یک کارگر در یک مرکز تحقیقاتی طاعون در سیبری، روسیه، ناشی از پنومونی بوده است، اما علت دقیق این بیماری هنوز شناسایی نشده است. مقامات بهداشتی روسیه تأیید کردند که کارگر در آزمایشگاه با دسترسی به عوامل پاتوژنیک کار می‌کرد و به WHO اطلاع داده‌اند که هیچ نشانه‌ای از انتشار بیماری در جامعه وجود ندارد. این عدم وضوح در منبع عفونت نگرانی‌های بین‌المللی درباره ایمنی آزمایشگاه‌های زیست‌خطر را برانگیخته و خواستار بررسی‌های دقیق‌تر می‌شود. WHO تأکید کرد که برای جلوگیری از هرگونه شیوع احتمالی، نظارت مستمر و تبادل اطلاعات با روسیه ضروری است. این رویداد می‌تواند تأثیرات گسترده‌ای بر سیاست‌های زیست‌امنیتی و همکاری‌های بین‌المللی داشته باشد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "بهداشت عمومی",
-    "tag": "پلاگ",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-russia-confirms-death-research-lab-no-plague-case-registered-2026-10-10/",
-    "clean_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-russia-confirms-death-research-lab-no-plague-case-registered-2026-10-10",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791624180.0,
     "sent_to_telegram": true
   }
 ]
