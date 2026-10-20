@@ -1,5 +1,49 @@
 [
   {
+    "id": "46f5e0c97b",
+    "title_fa": "‏درآمد سه‌ماهه SpaceX دو برابر شد و پیش‌بینی‌ها را شکست",
+    "title_en": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
+    "summary": [
+      "‏SpaceX درآمد سه‌ماهه خود را بیش از دو برابر کرده و از برآوردهای تحلیلی پیشی گرفت.",
+      "‏این رشد به‌دلیل رونق کسب‌وکار هوش مصنوعی شرکت است که می‌تواند سهم بازار فضایی و فناوری را تقویت کند.",
+      "‏شرکت اعلام کرد درآمد AI در این دوره بیش از 800 میلیون دلار بوده."
+    ],
+    "body_fa": "‏شرکت SpaceX در گزارش مالی سه‌ماهه سوم سال 2024 اعلام کرد که درآمد خود را بیش از دو برابر کرده و به 2.4 میلیارد دلار رسیده است. این رقم نسبت به پیش‌بینی‌های تحلیل‌گران که حدود 1.7 میلیارد دلار بود، به‌طور قابل‌توجهی بالاتر است. رشد اصلی این افزایش به‌دست‌آمده از بخش هوش مصنوعی است که در این دوره بیش از 800 میلیون دلار درآمد تولید کرده. SpaceX این خدمات AI را به شرکت‌های فناوری، نظامی و مشتریان تجاری ارائه می‌دهد و می‌کوشد تا از زیرساخت‌های پرتاب‌خانه‌اش بهره‌برداری کند. این موفقیت مالی می‌تواند سرمایه‌گذاران را به سمت سهام شرکت‌های فضایی و فناوری‌های نوین جذب کند و فشار بر رقبای سنتی را افزایش دهد. به‌علاوه، این رشد نشان می‌دهد که ترکیب فناوری‌های فضایی و هوش مصنوعی می‌تواند به‌عنوان یک منبع درآمد جدید برای شرکت‌های نوآور مطرح شود.",
+    "category": "تکنولوژی",
+    "subcategory": "فضا و هوش مصنوعی",
+    "tag": "SpaceX",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-jumps-beats-estimates-ai-business-surges-2026-10-20/",
+    "clean_url": "https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-jumps-beats-estimates-ai-business-surges-2026-10-20",
+    "image": "https://s.yimg.com/bo/f07b0162-536f-5c59-ad2e-372ca0d380c5_1792528090851.jpg",
+    "timestamp": 1792526911.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f6c81afbd1",
+    "title_fa": "‏OpenAI اورکسترا بایو را خریداری کرد",
+    "title_en": "OpenAI has acquired Orchestra Bio, a biotech startup.",
+    "summary": [
+      "‏OpenAI اورکسترا بایو، استارتاپ بیوتکنولوژی را خرید.",
+      "‏این خرید تیم و فناوری را برای ترکیب با مدل‌های AI زندگی‌علمی OpenAI می‌آورد.",
+      "‏هدف تسهیل هماهنگی در فرآیند پیچیده توسعه داروهاست."
+    ],
+    "body_fa": "‏OpenAI اعلام کرد که استارتاپ بیوتکنولوژی Orchestra Bio را خریداری کرده است. این شرکت این پلتفرم را که به تیم‌های داروسازی کمک می‌کند تا فرآیند پیچیده توسعه داروها را هماهنگ کنند، به مجموعه خود اضافه می‌کند. OpenAI تیم و فناوری Orchestra را با Rosalind ، مدل‌ها و ابزارهای AI خود برای پژوهش‌های علوم زندگی ترکیب خواهد کرد. این اقدام نشان‌دهنده گسترش هوش مصنوعی در حوزه بیوفارما و هدف تسریع کشف و توسعه داروهای جدید است.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "OpenAI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1014718/openai-has-acquired-orchestra-bio-a-biotech-startup",
+    "clean_url": "https://www.theverge.com/news/1014718/openai-has-acquired-orchestra-bio-a-biotech-startup",
+    "image": "https://s.yimg.com/bo/86d1a589-5f0f-5265-83fb-6d39ac7340ec_1791458910632.png.cf.jpg",
+    "timestamp": 1792526072.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b1dcb909bc",
     "title_fa": "‏نرخ بازده 10‑سال آمریکا به بالای 5.30 ٪ رسید",
     "title_en": "Everyone blames inflation for the bond rout. They're looking at the wrong line",
@@ -19,6 +63,28 @@
     "clean_url": "https://www.fxstreet.com/analysis/everyone-blames-inflation-for-the-bond-rout-theyre-looking-at-the-wrong-line-202610201753",
     "image": "https://www.bing.com/th?id=ONUT.WT7wa4O5RVdT3ieHvEvI9g",
     "timestamp": 1792520589.3604763,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "137c59887b",
+    "title_fa": "‏رکود بازار مسکن آمریکا چالش‌های فدرال‌رزرو را تشدید کرد",
+    "title_en": "Housing is flashing warning signs just as the Fed weighs more interest rate...",
+    "summary": [
+      "‏قراردادهای فروش مسکن در آمریکا با افت 7.3 درصدی در ماه سپتامبر به پایین‌ترین سطح تاریخی رسید.",
+      "‏افزایش نرخ وام مسکن به بالای 7.4 درصد فشار شدیدی بر توان خرید متقاضیان و ساخت‌وساز وارد کرده است.",
+      "‏این رکود عمیق در بخش مسکن تصمیم‌گیری درباره افزایش نرخ بهره را برای فدرال‌رزرو پیچیده‌تر می‌کند."
+    ],
+    "body_fa": "‏آمارهای جدید نشان می‌دهند که بازار مسکن آمریکا هم‌زمان با تداوم فشارهای تورمی، وارد رکودی عمیق و غیرمنتظره شده است. طبق داده‌های انجمن ملی مشاوران املاک موسوم به NAR ، شاخص فروش‌های در انتظار قطعی‌شدن در ماه سپتامبر 7.3 درصد افت کرد و به کمترین سطح از سال 2001 تاکنون رسید، در حالی که اقتصاددانان کاهش بسیار کمتری را پیش‌بینی کرده بودند. هم‌زمان، نرخ شروع ساخت مسکن جدید نیز 5.2 درصد افت داشته که فاصله‌ای معنادار با انتظارات بازار دارد. افزایش نرخ بهره وام مسکن به سطح 7.43 درصد در کنار تورم عمومی و کمبود عرضه، خریداران را به حاشیه رانده است. این تحولات کار فدرال‌رزرو را بسیار دشوار می‌کند، چرا که تداوم سیاست‌های انقباضی برای کنترل تورم می‌تواند بخش مسکن را با بحرانی شدیدتر روبه‌رو سازد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "مسکن آمریکا",
+    "tag": "مسکن",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "clean_url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "image": "https://s.yimg.com/bo/c373c862-9543-5f5b-a205-911af28f3dee_1792519881360.jpg",
+    "timestamp": 1792518871.0,
     "sent_to_telegram": true
   },
   {
@@ -63,6 +129,116 @@
     "clean_url": "https://www.upi.com/Top_News/World-News/2026/10/20/latam-argentina-record-high-exports/4641792513722",
     "image": "https://s.yimg.com/bo/73576e33-1098-540a-b3f4-5621163cc81a_1792515754731.jpg",
     "timestamp": 1792516061.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "837ea9d66b",
+    "title_fa": "‏Phillips 66 کارگران اتحادیه‌ای را در پالایشگاه نیوجرسی قفل کرد",
+    "title_en": "Phillips 66 locks out union workers at New Jersey refinery after contract...",
+    "summary": [
+      "‏Phillips 66 کارگران اتحادیه‌ای را از پالایشگاه ۲۷۵,۰۰۰ بشکه در روز در لیندن، نیوجرسی منع کرد",
+      "‏این قفل‌سازی می‌تواند تأمین بنزین منطقه را مختل کند و فشار بر قیمت‌های انرژی را افزایش دهد",
+      "‏کارگران به دلیل اختلاف بر سر قرارداد جدید اقدام به اعتصاب کردند"
+    ],
+    "body_fa": "‏شرکت Phillips 66 پس از عدم توافق بر سر قرارداد جدید، کارگران اتحادیه‌ای را از پالایشگاه ۲۷۵,۰۰۰ بشکه در روز در شهر لیندن، نیوجرسی قفل کرد. این اقدام به عنوان قفل‌سازی (lockout) شناخته می‌شود و باعث توقف عملیات پالایش در این واحد مهم شد. اتحادیه کارگران اعلام کرد که این اقدام به دلیل فشارهای شرکت برای کاهش هزینه‌های نیروی کار انجام شده است. شرکت گفته است که در صورت عدم بازگشت به میز مذاکره، قفل‌سازی ادامه خواهد یافت. این رویداد می‌تواند تأمین بنزین در ایالت‌های شمال‌شرقی آمریکا را مختل کند و به افزایش قیمت‌های خرده‌فروشی سوخت منجر شود.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "Phillips 66",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/phillips-66-locks-out-union-workers-new-jersey-refinery-after-contract-extension-2026-10-20/",
+    "clean_url": "https://www.reuters.com/legal/litigation/phillips-66-locks-out-union-workers-new-jersey-refinery-after-contract-extension-2026-10-20",
+    "image": "https://s.yimg.com/bo/5aa4be8f-5304-5bc7-a76e-0e7773aeb11e_1792515560737.jpg",
+    "timestamp": 1792515271.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dd22f27c48",
+    "title_fa": "‏روبیو ریلاینس را به تصفیه بیشتر نفت ونتوزوئلا تشویق کرد",
+    "title_en": "Rubio to encourage India's Reliance to produce, refine more Venezuelan oil",
+    "summary": [
+      "‏مارکو روبیوی در مومبای گفت قصد دارد ریلاینس اندستریز را به تصفیه بیشتر نفت ونتوزوئلا تشویق کند",
+      "‏این اقدام می‌تواند روابط تجاری هند‑آمریکا را تقویت کند و به افزایش صادرات نفت ونتوزوئلا کمک کند",
+      "‏رییلاینس با ظرفیت 1.4 میلیون بشکه در روز می‌تواند نفت سنگین ونتوزوئلا را پردازش کند"
+    ],
+    "body_fa": "‏مارکو روبیوی در سفر کاری‌اش به مومبای اعلام کرد که می‌خواهد ریلاینس اندستریز را به تصفیه بیشتر نفت سنگین ونتوزوئلا تشویق کند. این گفتگو در پس‌زمینهٔ حذف تحریم‌های احتمالی آمریکا بر خریداران روسیه، از جمله هند، صورت می‌گیرد و می‌تواند مسیر یک توافق تجاری میان واشنگتن و دهلی را هموارتر کند. ریلاینس با دو پالایشگاه در جامناگر که مجموعاً 1.4 میلیون بشکه در روز ظرفیت دارند، توان پردازش نفت‌های فوق‌العاده سنگین ونتوزوئلا را دارد. روبیوی همچنین به امکان تولید نفت توسط ریلاینس در خود ونتوزوئلا اشاره کرد و گفت این موضوع قبلاً بررسی شده و دوباره مطرح خواهد شد. این گام می‌تواند به افزایش صادرات نفت ونتوزوئلا به بازارهای آسیایی کمک کند و نقش هند را به عنوان یک مشتری کلیدی تقویت نماید.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "Reliance",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters · via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/rubio-kicks-off-india-visit-041131369.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/rubio-kicks-off-india-visit-041131369.html",
+    "image": "https://media.zenfs.com/en/reuters.com/dccf102ae9fbbb7d57e9d200055a8746.jpg",
+    "timestamp": 1792515268.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9eeaa0dcaf",
+    "title_fa": "‏نتفلیکس برای بازگرداندن تعامل باید محتوا را بهبود دهد",
+    "title_en": "Netflix must fix content to revive engagement, says Evercore ISI's Mark Mahaney",
+    "summary": [
+      "‏نتفلیکس در گزارش سه‌ماهه خود با کاهش تعامل کاربران مواجه شد.",
+      "‏مارک ماهنی از Evercore ISI می‌گوید برای بازیابی رشد، شرکت باید محتوای جذاب‌تری ارائه کند.",
+      "‏این نکته می‌تواند فشار بر سهام نتفلیکس و برنامه‌های آینده‌اش را افزایش دهد."
+    ],
+    "body_fa": "‏نتفلیکس در آخرین گزارش مالی خود نشان داد که نرخ تعامل کاربران نسبت به دوره‌های پیشین کاهش یافته است. مارک ماهنی، سرپرست تحقیقات اینترنتی در Evercore ISI ، در برنامه «Closing Bell Overtime» اظهار کرد که برای بازگرداندن رشد، شرکت باید بهبود چشمگیری در محتوای خود ایجاد کند. او به این نکته اشاره کرد که محتواهای جذاب و متنوع می‌توانند کاربران را دوباره به پلتفرم جذب کنند. ماهنی همچنین به عوامل محرک احتمالی مانند گسترش طرح‌های اشتراک‌دار با تبلیغات و افزایش سرمایه‌گذاری در سریال‌های اصلی اشاره کرد. این توصیه‌ها می‌تواند تصمیم‌گیری سرمایه‌گذاران و مسیر استراتژیک نتفلیکس را تحت تأثیر قرار دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "پلتفرم‌های استریم",
+    "tag": "Netflix",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/video/2026/10/20/netflix-must-fix-content-to-revive-engagement-says-evercore-isis-mark-mahaney.html",
+    "clean_url": "https://www.cnbc.com/video/2026/10/20/netflix-must-fix-content-to-revive-engagement-says-evercore-isis-mark-mahaney.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108438863-17925270821792527080-49126605783-1080pnbcnews.jpg?v=1792527082&w=1920&h=1080",
+    "timestamp": 1792502640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c3682997e4",
+    "title_fa": "‏نتفلیکس پیش‌بینی ضعیف‌تری برای سه‌ماهه چهارم ارائه داد",
+    "title_en": "Netflix issues weak fourth-quarter forecast as company seeks to kick-start growth",
+    "summary": [
+      "‏نتفلیکس پیش‌بینی سود سه‌ماهه چهارم را پایین‌تر از انتظار اعلام کرد",
+      "‏این پیش‌بینی پس از اخراج ۶٪ نیروی کار و تعویض دو مدیر برنامه‌ریزی مهم است",
+      "‏انتظار می‌رود فشار بر سهام این شرکت و رقبا افزاش یابد"
+    ],
+    "body_fa": "‏نتفلیکس در روز سه‌شنبه پیش‌بینی سود سه‌ماهه چهارم را که کمتر از انتظارات بازار است، منتشر کرد. این اعلامیه پس از تصمیم شرکت برای اخراج ۶٪ نیروی کار و تعویض دو نفر از مدیران ارشد برنامه‌ریزی صورت گرفت. کاهش پیش‌بینی نشانگر سرعت کمتر رشد مشترکین و فشار بر درآمدهای آینده است. شرکت برای بازگرداندن رشد، به کاهش هزینه‌ها و استراتژی جدید محتوا متکی است. تحلیل‌گران هشدار دادند این پیش‌بینی می‌تواند قیمت سهام نتفلیکس را تحت فشار قرار دهد و رقبا را به‌دنبال فرصت‌های جدید سوق دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "پخش آنلاین",
+    "tag": "Netflix",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/netflix-issues-weak-fourth-quarter-forecast-company-seeks-kick-start-growth-2026-10-20/",
+    "clean_url": "https://www.reuters.com/business/media-telecom/netflix-issues-weak-fourth-quarter-forecast-company-seeks-kick-start-growth-2026-10-20",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792501320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d3f789e89a",
+    "title_fa": "‏کریپتو و وال‌استریت از SEC خواستند قانون رمزارزها اصلاح شود",
+    "title_en": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+    "summary": [
+      "‏بیش از ۱۰۰ نظر بر پیشنهادی SEC برای قانون جدید Regulation Crypto Assets تا روز سه‌شنبه ثبت شد.",
+      "‏این قانون مسیر سرمایه‌گذاری در دارایی‌های دیجیتال را ساده می‌کند و می‌تواند تأثیر قابل‌توجهی بر بازارهای رمزارزی داشته باشد.",
+      "‏گروه Hyperliquid و AIMA خواستار اصلاحاتی در مورد ائیردراپ‌ها و حقوق سرمایه‌گذاران شدند."
+    ],
+    "body_fa": "‏SEC تا سه‌شنبه فرصت دریافت نظرات عمومی درباره پیشنهادی خود برای Regulation Crypto Assets را باز نگه داشته بود و تا کنون بیش از صد نظر از شرکت‌های دیجیتال، مؤسسات وال‌استریت و گروه‌های مدافع دریافت کرده است. این قانون پیشنهادی مسیر سرمایه‌گذاری در دارایی‌های دیجیتال را با ارائه معافیت‌های «استارتاپ» تا ۵ میلیون دلار و «جمع‌آوری سرمایه» تا ۷۵ میلیون دلار برای یک سال، تسهیل می‌کند. مرکز سیاست Hyperliquid در نامه‌ای از SEC خواستار پذیرش Regulation Crypto شد اما برای نحوه برخورد با ائیردراپ‌ها اصلاحاتی طلب کرد. همچنین انجمن مدیریت سرمایه‌های جایگزین (AIMA) خواستار شفاف‌سازی حقوق قانونی و ریسک‌های سرمایه‌گذاران و مدیران شد. اگر این اصلاحات اعمال شوند، می‌تواند چارچوب قانونی واضح‌تری برای پروژه‌های رمزارزی فراهم کرده و تأثیر مهمی بر جذب سرمایه و توسعه بازار داشته باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "Regulation Crypto",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News_2.jpg",
+    "timestamp": 1792498320.0,
     "sent_to_telegram": true
   },
   {
@@ -129,6 +305,28 @@
     "clean_url": "https://www.reuters.com/business/finance/polands-parliament-sets-november-date-vote-central-bank-chiefs-tribunal-referral-2026-10-20",
     "image": "https://s.yimg.com/bo/95e3727a-2ef0-58f6-9dd3-772da761b274_1792497554905.jpg",
     "timestamp": 1792495727.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "891faf7a2b",
+    "title_fa": "‏اوتا Kalshi و Susquehanna را قمارخانه می‌داند",
+    "title_en": "Utah likens Kalshi to a 'back-alley gambling den' in lawsuit naming Susquehanna firms",
+    "summary": [
+      "‏اوتا Kalshi و دو شرکت Susquehanna را به دلیل قمار غیرقانونی شکایت کرد و تخمین می‌زند که 30.6‑61.2 میلیون دلار کارمزد دریافت کرده‌اند.",
+      "‏این دعوا می‌تواند مبلغ جمع‌آوری‌شده را پس‌گرداند، دسته‌های شرط‌بندی را مسدود کند و پیش‌نمونه‌ای برای تنظیم بازارهای پیش‌بینی باشد.",
+      "‏اوتا همچنین می‌خواهد شرط‌های ورزشی، انتخاباتی، فرهنگی و «منشن» را ممنوع کند و مکان‌یابی دقیق‌تری اعمال شود."
+    ],
+    "body_fa": "‏دولت اوتا روز سه‌شنبه Kalshi و دو شرکت وابسته به Susquehanna International Group را به عنوان یک کسب‌وکار قمار غیرقانونی در ایالت متهم کرد. دادستان کل Derek Brown ادعا می‌کند که این پلتفرم از طریق «قراردادهای رویداد» بیش از 30.6 تا 61.2 میلیون دلار کارمزد از حساب‌های ساکنان اوتا جمع‌آوری کرده است. ایالت خواستار بازگرداندن این مبلغ، جبران خسارت به دولت و ساکنان و پرداخت جریمه است. شکایت همچنین درخواست مسدود کردن شرط‌های ورزشی، انتخاباتی، فرهنگی و «منشن» و اعمال چک‌های مکان دقیق‌تر برای جلوگیری از دسترسی غیرمجاز می‌کند. این اولین اقدام قانونی ایالتی علیه سازندگان بازارهای پیش‌بینی است و می‌تواند چارچوب نظارتی جدیدی برای این نوع پلتفرم‌ها ایجاد کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "Kalshi",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Kalshi_News_2.jpg",
+    "timestamp": 1792494840.0,
     "sent_to_telegram": true
   },
   {
@@ -261,6 +459,28 @@
     "clean_url": "https://www.fxempire.com/forecasts/article/oil-prices-rise-on-u-s-crude-draw-but-gasoline-stock-build-clouds-demand-1639300",
     "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/crude-oil-market-illustration-07-3.jpg?width=1201",
     "timestamp": 1792483440.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bd095f4f51",
+    "title_fa": "‏بانک‌های بزرگ بریتانیا انتقال به پلتفرم‌های رمزارز را مسدود کردند",
+    "title_en": "Major UK Banks Including Lloyds, Barclays Block Crypto Transfers: Report",
+    "summary": [
+      "‏بین ماه‌های مه تا اوت 2026 ، بیش از 10,092 شکایت از مشتریان بانک‌های خرده‌فروشی بریتانیا درباره مسدود یا محدود کردن انتقال به پلتفرم‌های رمزارز ثبت شد.",
+      "‏این مسدودسازی‌ها می‌تواند پذیرش رمزارزها را در بریتانیا کند کرده و برنامه‌های نظارتی FCA برای سال آینده را تحت فشار قرار دهد.",
+      "‏لوییدز بیشترین شکایت‌ها (۲۲٪) را دریافت کرد، پس از آن بارکلیز و نت‌وست."
+    ],
+    "body_fa": "‏گروه حمایت‌گرای Stand With Crypto UK گزارش داد که بین مه و اوت 2026 ، 10,092 شکایت از مشتریان بانک‌های خرده‌فروشی بریتانیا ثبت شده است. این شکایت‌ها نشان می‌دهد که بانک‌ها حتی بدون سیاست صریح، انتقال پول به پلتفرم‌های رمزارز تحت نظارت FCA را مسدود یا محدود می‌کنند. لوییدز بیشترین تعداد شکایت‌ها (۲۲٪) را دریافت کرد، پس از آن بارکلیز و نت‌وست. برخی بانک‌ها محدودیت‌های عددی اعمال کردند، در حالی که دیگران به‌طور کامل انتقال را ممنوع کردند. گروه Stand With Crypto هشدار داد که این عدم پیش‌بینی‌پذیری می‌تواند موفقیت برنامه‌های دولتی برای تبدیل بریتانیا به پیشرو در دارایی‌های دیجیتال را به خطر اندازد. FCA قصد دارد سال آینده چارچوب جامع‌تری برای رمزارزها معرفی کند. این تحولات می‌تواند روند پذیرش رمزارزها و سرمایه‌گذاری‌های مرتبط در بازارهای اروپایی را تحت تأثیر قرار دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "محدودیت‌های بانکی",
+    "tag": "بانک_انگلستان",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/major-uk-banks-including-lloyds-175100273.html",
+    "clean_url": "https://finance.yahoo.com/markets/crypto/articles/major-uk-banks-including-lloyds-175100273.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/8508830a5d1cc93d395f2efefd63fae650506bcb4e52126ba412eabb1e4393b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F066bbf9424ff7fcf8d7669308dad41d7.jpg",
+    "timestamp": 1792479600.0,
     "sent_to_telegram": true
   },
   {
@@ -459,6 +679,28 @@
     "clean_url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
     "timestamp": 1792468080.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bb7a026276",
+    "title_fa": "‏هزینه SpaceX برای هوش مصنوعی به ۱۶٫۴ میلیارد دلار رسید",
+    "title_en": "Earnings Snippet: SpaceX Spending Jumps",
+    "summary": [
+      "‏SpaceX سرمایه‌گذاری در هوش مصنوعی (SI) را به ۱۶٫۴ میلیارد دلار دو برابر کرد.",
+      "‏این مبلغ بیش از هزینه کل سرمایه‌ای کسب‌وکار فضایی شرکت که تنها ۱.۶ میلیارد دلار است.",
+      "‏افزایش هزینه AI می‌تواند رقابت SpaceX در فناوری‌های پیشرفته را تقویت کند."
+    ],
+    "body_fa": "‏شرکت SpaceX هزینه سرمایه‌ای خود را برای بخش هوش مصنوعی که «SI» نامیده می‌شود، به ۱۶٫۴ میلیارد دلار ارتقا داد. این رقم نسبت به دوره قبل بیش از دو برابر شده و نشان‌دهنده تمرکز شدید شرکت بر فناوری‌های هوش مصنوعی است. در مقابل، هزینه سرمایه‌ای بخش فضایی شرکت تنها به ۱٫۶ میلیارد دلار افزایش یافت. این اختلاف نشان می‌دهد که سرمایه‌گذاری AI برای SpaceX از فعالیت‌های فضایی مهم‌تر شده است. این گام می‌تواند به شرکت کمک کند تا در زمینه‌های خودران، پردازش داده‌های ماهواره‌ای و رباتیک پیشرفت‌های چشمگیری داشته باشد. تحلیل‌گران پیش‌بینی می‌کنند این سرمایه‌گذاری می‌تواند رقابت SpaceX را در بازارهای فناوری پیشرفته تقویت کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "SpaceX",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026/card/gHxmlMusm5kGBfzp0t1s",
+    "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026/card/gHxmlMusm5kGBfzp0t1s",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792465980.0,
     "sent_to_telegram": true
   },
   {
@@ -6355,248 +6597,6 @@
     "clean_url": "https://news.futunn.com/en/post/1000872475/daily-review-of-investment-bank-and-institutional-views-2026-10",
     "image": "https://pubimg.futunn.com/20220509000001638597b2a6ec7.jpg",
     "timestamp": 1791792600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "219f97b009",
-    "title_fa": "‏TotalEnergies قیمت دیزل را بیشتر کاهش می‌دهد",
-    "title_en": "TotalEnergies Pledges More Price Cuts to Ease Diesel-Surge Pain",
-    "summary": [
-      "‏TotalEnergies اعلام کرد که برای کاهش فشار ناشی از افزایش تقاضای دیزل، قیمت‌ها را بیشتر کاهش می‌دهد.",
-      "‏این اقدام می‌تواند به تثبیت بازار دیزل و کاهش هزینه‌های حمل‌ونقل کمک کند.",
-      "‏کاهش قیمت‌ها در اروپا و آسیا برنامه‌ریزی شده است."
-    ],
-    "body_fa": "‏TotalEnergies تصمیم گرفته قیمت‌های دیزل را در چندین بازار کلیدی کاهش دهد تا فشار ناشی از رشد ناگهانی تقاضا را کاهش دهد. این کاهش بخشی از استراتژی شرکت برای حفظ سهم بازار در زمان نوسان قیمت‌هاست. شرکت اعلام کرد که این اقدام در اروپا، خاورمیانه و آسیا اجرا خواهد شد. هدف کاهش هزینه‌های حمل‌ونقل برای مشتریان و جلوگیری از نوسان شدید بازار است. کارشناسان پیش‌بینی می‌کنند این کاهش می‌تواند فشار بر حاشیه سود شرکت را کمی کاهش دهد اما بهبود جریان نقدی را به همراه داشته باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت دیزل",
-    "tag": "قیمت‌دیزل",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/totalenergies-pledges-more-price-cuts-to-ease-diesel-surge-pain",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-12/totalenergies-pledges-more-price-cuts-to-ease-diesel-surge-pain",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791792480.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a25aaca2b9",
-    "title_fa": "‏شرکت DeFi Development دارایی SOL خود را 12 ٪ افزایش داد",
-    "title_en": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
-    "summary": [
-      "‏شرکت DeFi Development در هفته گذشته حدود 22,070 SOL خریداری کرد و کل دارایی‌هایش 12 ٪ افزایش یافت.",
-      "‏این افزایش نشان‌دهنده تعهد شرکت به سولاناست، در حالی که سهام CHCH به بالاترین سطح تاریخی رسید.",
-      "‏در همین زمان، سهام DFDV حدود 21 ٪ در هفته گذشته کاهش یافت."
-    ],
-    "body_fa": "‏شرکت DeFi Development Corp. این هفته حدود 22,070 SOL و معادل‌های آن خریداری کرد و کل ذخیره‌سازهای SOL خود را به حدود 2.59 میلیون SOL رساند، که نسبت به گزارش مالی 12 اکتبر 12 ٪ افزایش دارد. همزمان، سهام ترجیحی متغیر CHAD که سود سالانه 13 ٪ دارد، به بالاترین قیمت‌های تاریخی خود رسید، اگرچه بازار کلی کریپتو در حال فروش است. مدیرعامل شرکت، جوزف اونوراتی، اعلام کرد نوسان کوتاه‌مدت بر تعهد به افزایش دارایی‌های SOL تأثیری نداشته و شرکت قصد دارد به جمع‌آوری و ترکیب این توکن ادامه دهد. او به نقش رو به رشد سولانا در مالیات جهانی اشاره کرد و به اعلام سامسونگ درباره افزودن قابلیت استیبل‌کوین به 82 میلیون دستگاه گالاکسی اشاره کرد. همچنین، شرکت برنامه‌ای برای بازخرید تمام سهام CHAD تا رسیدن به ارزش اسمی 10 دلار تصویب کرده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "سرمایه‌گذاری سولانا",
-    "tag": "SOL",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News.jpg",
-    "timestamp": 1791789960.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0d1b2e922e",
-    "title_fa": "‏حمله سایبری به یخچال‌های سوپرمارکت‌های فرانسه خسارت سنگین به بار آورد",
-    "title_en": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
-    "summary": [
-      "‏هکرها دمای یخچال‌های صدها سوپرمارکت در فرانسه را شبانه تا 50 درجه سانتی‌گراد افزایش دادند.",
-      "‏این نفوذ سایبری منجر به آتش‌سوزی در فروشگاه‌ها و فاسد شدن حجم زیادی از مواد غذایی شد.",
-      "‏این حمله نمونه‌ای کم‌سابقه از نفوذ سایبری با پیامدهای فیزیکی و تخریبی مستقیم روی زیرساخت‌ها به شمار می‌رود."
-    ],
-    "body_fa": "‏هکرها با نفوذ به سامانه‌های کنترل هوشمند، دمای سیستم‌های برودتی صدها سوپرمارکت را در سراسر فرانسه شبانه تا 50 درجه سانتی‌گراد افزایش دادند. این تغییر ناگهانی و شدید دما باعث ایجاد آتش‌سوزی در بخش‌هایی از فروشگاه‌ها و از بین رفتن مقادیر عظیمی از مواد غذایی فاسدشدنی شد. کارشناسان این رخداد را نمونه‌ای خطرناک و کم‌سابقه از حملات سایبری-فیزیکی می‌دانند که مستقیماً زنجیره تأمین مواد غذایی را هدف قرار داده است. تحقیقات امنیتی برای شناسایی منشأ این نفوذ گسترده و برآورد دقیق خسارت‌های مالی آغاز شده است.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "حمله سایبری",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/",
-    "clean_url": "https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791788280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6afc9204df",
-    "title_fa": "‏هکرهای نظامی با دوربین‌های ناامن نظارت می‌کنند",
-    "title_en": "Are military hackers watching you through insecure cameras?",
-    "summary": [
-      "‏هکرهای نظامی از حدود 1.2 میلیارد دوربین متصل به اینترنت ناامن برای ردیابی و نظارت استفاده می‌کنند",
-      "‏این روش به عملیات نظامی مخالف کمک می‌کند و امنیت عمومی را به خطر می‌اندازد",
-      "‏مثال‌ها شامل ایران در اسرائیل، اوکراین در مقابل روسیه و نفوذ به دستگاه‌های کنفرانس تجاری است"
-    ],
-    "body_fa": "‏هکرهای نظامی به‌طور فزاینده‌ای از دوربین‌های مداربسته و وب‌کم‌های متصل به اینترنت که ایمن‌سازی نشده‌اند، برای ردیابی، نظارت و پشتیبانی از حملات استفاده می‌کنند. برآوردها نشان می‌دهد حدود 1.2 میلیارد دوربین متصل به شبکه در سراسر جهان در معرض این خطر هستند. در یکی از موارد، ایران از دوربین‌های نصب شده در مرغداری‌های مرزی اسرائیل برای مشاهده فعالیت‌های نظامی استفاده کرده است. اوکراین نیز با بهره‌گیری از دوربین‌های نظارتی ساختمان‌های خارجی، توانسته زیرآب‌های روسیه را زیر نظر بگیرد. علاوه بر این، دستگاه‌های کنفرانس تجاری نیز از طریق برنامه‌های ناامن هک شده و اطلاعات حساس شرکت‌ها در معرض خطر قرار گرفته‌اند. این روند نشان می‌دهد که ضعف‌های امنیتی در تجهیزات مصرف‌کننده می‌تواند به ابزارهای جنگ سایبری تبدیل شود و نیاز به استانداردهای سخت‌گیرانه‌تر در طراحی و به‌روزرسانی نرم‌افزارها را برجسته می‌کند.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "دوربین‌های ناامن",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1009545/are-military-hackers-watching-you-through-insecure-cameras",
-    "clean_url": "https://www.theverge.com/tech/1009545/are-military-hackers-watching-you-through-insecure-cameras",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-    "timestamp": 1791783660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f1a9da0f83",
-    "title_fa": "‏نیروی فدرال آمریکا به منزل نماینده ایلان عمر حمله کرد",
-    "title_en": "US launches immigration raid of Democratic congresswoman Ilhan Omar's home, Fox News reports",
-    "summary": [
-      "‏ساعت پیش نیروی فدرال آمریکا به منزل نماینده دموکرات ایلان عمر در واشنگتن حمله کرد.",
-      "‏این عملیات در چارچوب بررسی مدارک مهاجرتی او انجام شد و می‌تواند تنش‌های سیاسی داخلی را تشدید کند.",
-      "‏خبر از فاکس نیوز دیجیتال نقل شد و هنوز جزئیات کامل منتشر نشده است."
-    ],
-    "body_fa": "‏در اوایل صبح دوشنبه، نیروی فدرال آمریکا به منزل نماینده دموکرات ایلان عمر در حومه واشنگتن وارد شد. این بازداشت به‌دلیل بررسی مدارک مهاجرتی او انجام شد، چرا که او متولد سومالی است و وضعیت اقامتی‌اش مورد سؤال قرار گرفته است. طبق گزارش فاکس نیوز دیجیتال، مأمورین به‌سرعت به خانه وارد شدند و اسناد و وسایل شخصی را مصادره کردند. این اقدام می‌تواند واکنش‌های سیاسی شدیدی در کنگره و میان احزاب ایجاد کند، به‌ویژه در زمان نزدیک به انتخابات میان‌دوره‌ای. علاوه بر این، پرونده ممکن است فشارهای بیشتری بر سیاست‌های مهاجرتی دولت بایدن وارد کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "تحقیقات مهاجرت",
-    "tag": "Omar",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-launches-immigration-raid-democratic-congresswoman-ilhan-omars-home-fox-news-2026-10-12/",
-    "clean_url": "https://www.reuters.com/legal/government/us-launches-immigration-raid-democratic-congresswoman-ilhan-omars-home-fox-news-2026-10-12",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791783000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c9f390b5f6",
-    "title_fa": "‏تورم هند به بالاترین دو ساله رسید؛ RBI سخت‌گیری می‌کند",
-    "title_en": "India Inflation Hits Two-Year High, Backs RBI Tightening",
-    "summary": [
-      "‏تورم مصرف‌کننده در هند به بالاترین سطح دو ساله رسید، حدود 6 درصد سالانه",
-      "‏این افزایش فشار بر RBI می‌گذارد تا سیاست‌های پولی سخت‌گیرانه‌تری را اعمال کند",
-      "‏انتظار می‌رود نرخ بهره افزایش یابد و ارز روپیه تحت فشار قرار گیرد"
-    ],
-    "body_fa": "‏نرخ تورم مصرف‌کننده در هند به بالاترین سطح دو ساله خود رسید و حدود 6 درصد سالانه ثبت شد. این رشد عمدتاً به دلیل افزایش قیمت‌های غذا و انرژی بود. بانک مرکزی هند (RBI) اکنون تحت فشار برای اتخاذ سیاست‌های پولی سخت‌گیرانه‌تر قرار دارد. تحلیل‌گران پیش‌بینی می‌کنند RBI احتمالاً نرخ بهره را بالا برده و اقدامات تسهیلی را محدود کند. چنین تصمیمی می‌تواند ارزش روپیه را تحت فشار قرار داده و بازارهای سهام و اوراق قرضه هند را تحت تأثیر قرار دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "تورم و سیاست پولی",
-    "tag": "تورم",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/india-inflation-hits-almost-two-year-high-backs-rbi-tightening",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-12/india-inflation-hits-almost-two-year-high-backs-rbi-tightening",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791778140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6e5cb4c23d",
-    "title_fa": "‏IMF و بانک جهانی اثر جنگ ایران را می‌سنجند",
-    "title_en": "IMF, World Bank meet as Iran war threatens global economy",
-    "summary": [
-      "‏در هفته جاری، مقامات مالی IMF و بانک جهانی در بانکوک برای بررسی پیامدهای جنگ ایران و شوک انرژی بزرگ جمع می‌شوند.",
-      "‏این نشست در میان افزایش نرخ بهره و فشارهای تورمی، می‌تواند مسیر رشد اقتصادی جهانی را تحت تأثیر قرار دهد.",
-      "‏به‌همین دلیل، حضور کلیدی وزرای مالی و بانکداران مرکزی از جمله Kevin Warsh مورد انتظار است."
-    ],
-    "body_fa": "‏مقامات مالی بین‌المللی این هفته در بانکوک دور هم جمع شدند تا اثرات جنگ ایران‑اسرائیل و بزرگ‌ترین شوک عرضه انرژی را بررسی کنند. جنگ که اکنون هشت ماهه است، باعث بسته شدن تنگه هرمز و قطع حدود 20 ٪ تولید نفت جهان شده و فشارهای تورمی را تشدید کرده است. در همین حین، نرخ بهره‌های جهانی در حال افزایش است و رشد اقتصادی جهانی به‌نظر می‌رسد که به‌سختی می‌تواند از این فشارها عبور کند. رئیس IMF ، Kristalina Georgieva ، تأکید کرد که 18,000 نفر در این نشست ثبت‌نام کرده‌اند و انتظار می‌رود که وزرای مالی و بانکداران مرکزی مهم حضور داشته باشند. همچنین، گروه هفت کشور 100 میلیون بشکه نفت و دیزل از ذخایر اضطراری خود آزاد کرده‌اند تا قیمت‌ها را تثبیت کنند. این ترکیب از عوامل می‌تواند تصمیم‌گیری‌های سیاست‌پذیران را تحت فشار قرار دهد و مسیر رشد جهانی را به‌طور قابل‌توجهی تغییر دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "رویدادهای مالی بین‌المللی",
-    "tag": "IMF",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Cyprus Mail",
-    "url": "https://cyprus-mail.com/2026/10/12/imf-world-bank-meet-as-iran-war-threatens-global-economy",
-    "clean_url": "https://cyprus-mail.com/2026/10/12/imf-world-bank-meet-as-iran-war-threatens-global-economy",
-    "image": "https://cyprus-mail.com/wp-content/uploads/2026/10/gergieva.jpg",
-    "timestamp": 1791767760.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e8f65122b0",
-    "title_fa": "‏شرکت Standard Chartered نگهداری RLUSD روی XRP را راه‌اندازی کرد",
-    "title_en": "Standard Chartered launches custody for Ripple's RLUSD on XRP Ledger",
-    "summary": [
-      "‏بانک Standard Chartered سرویس نگهداری استقرار یافته برای استیبل‌کوین RLUSD روی زنجیره XRP Ledger را فعال کرد.",
-      "‏این سرویس به مؤسسات امکان استفاده از RLUSD به عنوان وثیقه برای محصولات LMAX را بدون انتقال مستقیم دارایی می‌دهد.",
-      "‏پیشنهاد بانک در شعبه DIFC دبی تحت نظارت DFSA ارائه می‌شود."
-    ],
-    "body_fa": "‏بانک Standard Chartered اعلام کرد که سرویس نگهداری مؤسسات برای استیبل‌کوین RLUSD بر بستر XRP Ledger راه‌اندازی شده است. این سرویس از طریق شعبه DIFC بانک در دبی که تحت نظارت Dubai Financial Services Authority است، در دسترس مشتریان است. بانک با همکاری Ripple و LMAX Group کار می‌کند تا RLUSD را به عنوان وثیقهٔ واجد شرایط برای برخی محصولات LMAX تحت مدل «collateral mirroring» بپذیرد. این مدل به مؤسسات اجازه می‌دهد ارزش وثیقهٔ RLUSD را بدون انتقال فیزیکی دارایی به پلتفرم معاملاتی LMAX منعکس کنند. واقر چاودری، سرپرست جهانی دارایی‌های دیجیتال در Standard Chartered ، گفت این قابلیت انعطاف بیشتری برای نگهداری، دسترسی به نقدینگی و استفاده مؤثر از وثیقه فراهم می‌کند. جک مک‌دونالد، معاون ارشد استیبل‌کوین‌های Ripple ، افزود RLUSD برای موارد استفادهٔ مؤسسه‌ای طراحی شده و ترکیب این سرویس با زیرساخت‌های LMAX مسیر عملی برای به کارگیری استیبل‌کوین‌ها در بازارهای جهانی ایجاد می‌کند. این گام بخشی از برنامهٔ گسترش خدمات نگهداری رمزارزهای Standard Chartered در بازارهای مختلف است، هرچند تاریخ راه‌اندازی نهایی هنوز اعلام نشده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "خدمات بانکی رمزارز",
-    "tag": "RLUSD",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png",
-    "timestamp": 1791754440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "53c1879468",
-    "title_fa": "‏نفت بالای ۱۰۰ دلار می‌رسد؛ فشار بر نرخ بهره فدرال",
-    "title_en": "Oil Above US$100 and Fed Hike Odds Frame Week | Global Economy, Oct 12",
-    "summary": [
-      "‏نفت برنت پس از حملات حوثی به عربستان به بالای ۱۰۵ دلار رسید و سپس به حدود ۱۰۳ دلار تثبیت شد.",
-      "‏این افزایش قیمت انرژی نگرانی‌ها درباره تورم و احتمال ادامه سیاست‌های سختگیرانه فدرال رزرو را تقویت می‌کند.",
-      "‏بازارها پیش‌بینی می‌کنند احتمال افزایش نرخ بهره در دسامبر به ۷۴.۵٪ می‌رسد."
-    ],
-    "body_fa": "‏حملات حوثی به زیرساخت‌های نفتی عربستان باعث شد قیمت برنت به بالای ۱۰۵ دلار برسد و سپس به حدود ۱۰۳ دلار تثبیت شود. این جهش قیمت انرژی باعث نگرانی‌های جدید درباره فشار تورمی و ادامه سیاست‌های سختگیرانه فدرال رزرو شد. در بازارهای آمریکا، futures سهام به سمت صعود حرکت کرد، اما سرمایه‌گذاران همچنان به داده‌های CPI آمریکا در انتظار هستند. معامله‌گران در Polymarket احتمال افزایش نرخ بهره فدرال در جلسه اکتبر را ۱۶.۵٪ و در دسامبر را ۷۴.۵٪ می‌دانند. بازده اوراق ۱۰ ساله آمریکا که بالای ۵.۳٪ بوده، می‌تواند با انتشار داده‌های تورمی بیشتر فشار بگیرد. علاوه بر آمریکا، داده‌های تجاری و تورمی چین و رشد اقتصادی بریتانیا نیز در این هفته نقش کلیدی خواهند داشت.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "نفت",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "The Rio Times",
-    "url": "https://www.riotimesonline.com/global-economy-briefing-october-12-2026/",
-    "clean_url": "https://www.riotimesonline.com/global-economy-briefing-october-12-2026",
-    "image": "https://www.riotimesonline.com/wp-content/uploads/2026/10/gc_964329742.jpg",
-    "timestamp": 1791750600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "505fd94775",
-    "title_fa": "‏ETF بانک‌های اروپایی به‌دلیل ریسک فرانسه ۹٪ افت کرد",
-    "title_en": "EUFN's bank bargains are a bet on French politics",
-    "summary": [
-      "‏ETF iShares MSCI Europe Financials (EUFN) در ماه گذشته حدود ۹٪ سقوط کرد.",
-      "‏سقوط به دلیل گسترش ریسک مالی و سیاسی فرانسه و نگرانی از گسترش بدهی‌های دولتی است.",
-      "‏تحلیل‌گران می‌گویند اگر انتخابات ۲۰۲۷ و سیاست‌های لِ پَن ادامه یابد، فشار بر اوراق قرضه فرانسه افزایش می‌یابد."
-    ],
-    "body_fa": "‏iShares MSCI Europe Financials ETF (EUFN) در ماه گذشته حدود ۹٪ کاهش یافت و به حدود ۳۸ دلار رسید. این افت ناشی از نگرانی‌های سرمایه‌گذاران نسبت به ریسک مالی و سیاسی فرانسه است که پس از کاهش رتبه‌های اعتباری و ابهام در بودجه ۲۰۲۷ کشور، گسترش یافت. اختلاف بازدهی اوراق دولتی فرانسه و آلمان به ۱۴۰ نقطه پایه رسیده و برای اولین بار از سال ۲۰۱۱ بیشترین فاصله را نشان می‌دهد. بانک‌های اروپایی که بخش عمده‌ای از دارایی‌های خود را در اوراق دولتی دارند، با هزینه‌های بالاتر بیمه اعتباری مواجه شده‌اند. برخی تحلیل‌گران همچون JPMorgan این بازده‌های بالای ۴٪ را فرصتی برای خرید می‌دانند، اما خطرات ناشی از رکود فرانسه یا تغییر سیاست‌های ECB می‌تواند زیان‌ها را تشدید کند. در عین حال، Goldman Sachs هشدار می‌دهد که مسیر مالی ایتالیا می‌تواند فشارهای بدهی اروپایی را تا سال ۲۰۲۸ تشدید کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بانک‌های اروپایی",
-    "tag": "فرانسه",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "ainvest",
-    "url": "https://www.ainvest.com/news/eufn-bank-bargains-bet-french-politics-2610/",
-    "clean_url": "https://www.ainvest.com/news/eufn-bank-bargains-bet-french-politics-2610",
-    "image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1791747896322.jpg.png",
-    "timestamp": 1791748260.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c81a7d4958",
-    "title_fa": "‏ترامپ به اعمال تعرفه‌های سنگین ادامه می‌دهد",
-    "title_en": "Trump sticks with tariffs even as U.S. voters turn against them before the midterms",
-    "summary": [
-      "‏ترامپ با وجود مخالفت 64 ٪ از رای‌دهندگان، به اعمال تعرفه‌های بالا برای 60 اقتصاد ادامه می‌دهد.",
-      "‏این تصمیم می‌تواند قبل از انتخابات میانی تأثیر اقتصادی و سیاسی مهمی در آمریکا داشته باشد.",
-      "‏تعرفه‌ها بین 10 ٪ تا 12.5 ٪ بر کالاهای وارداتی از اتحادیه اروپا، هند، ژاپن، کانادا و مکزیک اعمال می‌شوند."
-    ],
-    "body_fa": "‏رئیس‌جمهور دونالد ترامپ با وجود افزایش قیمت‌ها و انتقادات کارشناسان تجاری، بر ادامه تعرفه‌های سنگین تأکید می‌کند. نظرسنجی اخیر نشان می‌دهد 64 ٪ از بزرگسالان آمریکایی سیاست‌های تجاری او را بیش از حد می‌دانند، که نسبت به ژانویه افزایش یافته است. ترامپ از بخش 301 قانون تجارت 1974 برای اعمال تعرفه‌های 10 ٪ تا 12.5 ٪ بر واردات از 60 کشور، از جمله اتحادیه اروپا، هند، ژاپن، کانادا و مکزیک، استفاده می‌کند. این تعرفه‌ها پس از رد قانون 1977 توسط دادگاه عالی، جایگزین ابزارهای قبلی شده‌اند. اقتصاددانان معتقدند این سیاست‌ها به نفع مصرف‌کنندگان و شرکت‌های آمریکایی نیست و می‌تواند رشد اقتصادی را تحت فشار قرار دهد. با نزدیک شدن به انتخابات میانی، این تصمیم تجاری می‌تواند نقش مهمی در تصمیم‌گیری رأی‌دهندگان ایفا کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "سیاست تجاری",
-    "tag": "تعرفه",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "NBC New York",
-    "url": "https://www.nbcnewyork.com/news/national-international/trump-tariffs-us-voters-turn-against-midterms/6558171/",
-    "clean_url": "https://www.nbcnewyork.com/news/national-international/trump-tariffs-us-voters-turn-against-midterms/6558171",
-    "image": "https://media.nbcnewyork.com/2026/10/GettyImages-2298310466-e1791739210638.jpg?quality=85&strip=all&resize=1200%2C675",
-    "timestamp": 1791743431.7994535,
     "sent_to_telegram": true
   }
 ]
