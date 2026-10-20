@@ -1,5 +1,27 @@
 [
   {
+    "id": "b8cc70bf30",
+    "title_fa": "‏رشد سودآوری شرکت‌های اروپایی به بخش‌های جدید گسترش یافت",
+    "title_en": "Europe's earnings boom widens beyond energy and AI",
+    "summary": [
+      "‏شرکت‌های اروپایی در آستانه ثبت یک فصل دیگر از رشد درخشان سودآوری قرار گرفته‌اند.",
+      "‏این جهش سودآوری اکنون از بخش‌های انرژی و مراکز داده فراتر رفته و گسترده‌تر شده است.",
+      "‏گسترش سود به صنایع دیگر نشانه‌ای از تقویت پایه‌های اقتصادی قاره اروپا تلقی می‌شود."
+    ],
+    "body_fa": "‏شرکت‌های اروپایی آماده می‌شوند تا یک فصل دیگر از رشد استثنایی درآمد و سودآوری را به نمایش بگذارند. اگرچه بخش عمده این جهش همچنان مدیون عملکرد قدرتمند شرکت‌های فعال در حوزه انرژی و تأمین‌کنندگان زیرساخت‌های هوش مصنوعی و مراکز داده است، اما نشانه‌های گسترش این رونق به سایر بخش‌ها نیز دیده می‌شود. این تحول حاکی از آن است که پویایی بازار سهام اروپا دیگر صرفاً متکی به چند صنعت خاص نیست. تحلیل‌گران بر این باورند که سرایت سودآوری به سایر صنایع می‌تواند جذابیت سهام اروپایی را برای سرمایه‌گذاران بین‌المللی دوچندان کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بورس اروپا",
+    "tag": "درآمد شرکت‌ها",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/europes-earnings-boom-widens-beyond-energy-ai-2026-10-20/",
+    "clean_url": "https://www.reuters.com/business/finance/europes-earnings-boom-widens-beyond-energy-ai-2026-10-20",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792464480.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "faed7dbc93",
     "title_fa": "‏بازارهای وال‌استریت پس از طوفان هوش مصنوعی کمی ریکاوری کردند",
     "title_en": "Trading day: AI storm abates",
@@ -6575,28 +6597,6 @@
     "clean_url": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
     "image": "https://s.yimg.com/bo/88eff16e-72c4-5db8-8401-7cfd19c98d70_1791660862129.jpg",
     "timestamp": 1791661393.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6cf45b6f27",
-    "title_fa": "‏DistroKid به‌دلیل دعوی UMG آهنگ‌های هنرمندان را حذف کرد",
-    "title_en": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "summary": [
-      "‏DistroKid بدون اطلاع، چندین آهنگ مستقل را به‌واسطه دعوی UMG حذف کرد.",
-      "‏این اقدام باعث نارضایتی هنرمندان شد و نشان‌دهنده فشارهای قانونی بر پلتفرم‌های توزیع موسیقی است.",
-      "‏برخی آهنگ‌های بدون محتوای AI نیز به‌خطا حذف شدند."
-    ],
-    "body_fa": "‏UMG در سپتامبر دعوایی علیه DistroKid به‌دلیل ادعای ایجاد یک «خط لوله AI‑slop» مطرح کرد و این شرکت به‌صورت ساکت شروع به حذف برخی آثار توزیع‌شده از طریق پلتفرم خود کرد. هنرمندان متعدد در شبکه‌های اجتماعی اعتراض کردند که آهنگ‌هایشان بدون هیچ‌گونه اخطاری حذف شده و دسترسی به پشتیبانی شرکت بسیار دشوار بوده است. برای مثال، موزیسین McGwire اعلام کرد شش آهنگش، از جمله یک کاور با مجوز Stevie Wonder ، به‌صورت ناگهانی حذف شد. رپر Insane Ian و King Chase نیز گزارش دادند که آثار اصلی خود را بدون توضیحی از دست داده‌اند. Amanda Ferri ، معاون خدمات هنرمند DistroKid ، گفت تعداد حذف‌ها بسیار کم بوده و شرکت با رد ادعاهای UMG سعی در کاهش اختلال برای هنرمندان دارد. این ماجرا نشان می‌دهد که فشارهای حقوقی می‌تواند توزیع دیجیتال موسیقی مستقل را تحت‌تأثیر قرار دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین کپی‌رایت موسیقی",
-    "tag": "DistroKid",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "clean_url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "image": "https://s.yimg.com/bo/42300743-577a-5698-b73a-822cf7736dfa_1791659062990.jpg",
-    "timestamp": 1791657794.0,
     "sent_to_telegram": true
   }
 ]
