@@ -1,5 +1,137 @@
 [
   {
+    "id": "fe99326dc0",
+    "title_fa": "‏فرانسه مالیات 31.4 ٪ بر تبدیل رمزارز به استیبل‌کوین تصویب کرد",
+    "title_en": "France's parliament approves vote to hit crypto-to-stablecoin trades with 31%...",
+    "summary": [
+      "‏پارلمان فرانسه با 38 به 37 رای، مالیات 31.4 ٪ بر تبدیل رمزارز به استیبل‌کوین را تصویب کرد.",
+      "‏این قانون از ژانویه 2027 اعمال می‌شود و باعث می‌شود سودهای بدون تبدیل به پول نقد هم مشمول مالیات شوند.",
+      "‏کارشناسان هشدار دادند این اقدام ممکن است معامله‌گران را به پلتفرم‌های DeFi و صرافی‌های خارج از کشور سوق دهد."
+    ],
+    "body_fa": "‏مجلس ملی فرانسه در تاریخ 16 اکتبر با اختلاف 38 به 37 رأی، اصلاحیه I‑3898 را که مالیات 31.4 ٪ بر تبدیل رمزارز به استیبل‌کوین را اعمال می‌کند، تصویب کرد. این اصلاحیه که بخشی از بودجه 2027 است، از اول ژانویه 2027 شروع به کار می‌شود و امکان تعویق مالیاتی برای توکن‌های e‑money تعریف‌شده توسط چارچوب MiCA را حذف می‌کند. بر این اساس، سودهای حاصل از انتقال به استیبل‌کوین حتی بدون برداشت نقدی، مشمول مالیات می‌شود. کارشناسانی مانند فرانچوا ولپوئه از Chainalysis هشدار دادند این قانون ممکن است سرمایه‌گذاران را به سمت پلتفرم‌های مالی غیرمتمرکز و صرافی‌های خارج از کشور سوق دهد. وزیر حساب‌های عمومی، دیوید آمیل، دربارهٔ نحوه پیاده‌سازی سؤال کرد و پیشنهاد حذف اصلاحیه را مطرح کرد، در حالی که فیلیپ جووین، گزارشگر کمیته مالی، تمایل به حفظ تعویق مالیاتی به دلیل نوسانات رمزارزها داشت. همچنین متن پیشنهادی روش محاسبه سود سرمایه را از محاسبه سبد کلی به متوسط وزنی هزینه خرید هر واحد تغییر می‌دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "مالیات رمزارز",
+    "tag": "مالیات",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+    "clean_url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+    "image": "https://s.yimg.com/bo/a61083aa-30c0-58d4-ac95-7c2729a70b1b_1792090819958.jpg",
+    "timestamp": 1792495728.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d91bbb26cb",
+    "title_fa": "‏لهستان تاریخ رأی‌گیری برای محاکمه رئیس بانک مرکزی را تعیین کرد",
+    "title_en": "Poland's parliament sets November date for vote on central bank chief's tribunal...",
+    "summary": [
+      "‏مجلس سنا لهستان در نیمه دوم نوامبر برای رأی‌گیری درباره محاکمه رئیس بانک ملی، آدام گلاپینسکی، تاریخ مشخص کرد.",
+      "‏این تصمیم می‌تواند استقلال بانک مرکزی را به خطر اندازد و نوسان‌های ارزی و نرخ بهره را تحت تأثیر قرار دهد.",
+      "‏رأی‌گیری ممکن است به تعلیق یا حذف گلاپینسکی منجر شود و روابط لهستان با اتحادیه اروپا را تحت فشار قرار دهد."
+    ],
+    "body_fa": "‏مجلس سنا لهستان در جلسه‌ای که در نیمه دوم نوامبر برگزار می‌شود، تاریخ رأی‌گیری درباره محاکمه رئیس بانک ملی، آدام گلاپینسکی، را تعیین کرد. این محاکمه پس از اتهامات مربوط به مداخله سیاسی در سیاست‌های پولی بانک و مخالفت با برنامه‌های اتحادیه اروپا مطرح شد. اگر رأی به نفع برکناری گلاپینسکی باشد، استقلال بانک مرکزی لهستان به خطر می‌افتد و ممکن است فشار بر زاروتی پولی و نرخ بهره افزایش یابد. بازارهای مالی این کشور و ارز زلوتی نیز ممکن است نوسان‌های شدیدی را تجربه کنند. این تصمیم علاوه بر تأثیر داخلی، روابط لهستان با نهادهای اروپایی را نیز تحت فشار قرار می‌دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانک مرکزی لهستان",
+    "tag": "گلاپینسکی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/polands-parliament-sets-november-date-vote-central-bank-chiefs-tribunal-referral-2026-10-20/",
+    "clean_url": "https://www.reuters.com/business/finance/polands-parliament-sets-november-date-vote-central-bank-chiefs-tribunal-referral-2026-10-20",
+    "image": "https://s.yimg.com/bo/95e3727a-2ef0-58f6-9dd3-772da761b274_1792497554905.jpg",
+    "timestamp": 1792495727.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "40dc40162e",
+    "title_fa": "‏آمریکا برنامه 8 میلیارد هزینه دیزل کشاورزان را آغاز کرد",
+    "title_en": "US to launch $8 billion support program for farmers to offset diesel costs, Trump says",
+    "summary": [
+      "‏دولت آمریکا برنامه‌ای 8 میلیارد دلاری برای جبران هزینه دیزل کشاورزان اعلام کرد",
+      "‏این اقدام می‌تواند فشار هزینه‌های تولید را کاهش داده و به تثبیت قیمت‌های کشاورزی کمک کند",
+      "‏برنامه توسط وزارت کشاورزی (USDA) تحت عنوان «برنامه تسکین سوخت برداشت» اجرا می‌شود"
+    ],
+    "body_fa": "‏رئیس‌جمهور دونالد ترامپ اعلام کرد که وزارت کشاورزی آمریکا برنامه‌ای 8 میلیارد دلاری برای جبران هزینه دیزل کشاورزان راه‌اندازی می‌کند. این طرح تحت عنوان «برنامه تسکین سوخت برداشت» نامگذاری شده و هدف آن کاهش فشار هزینه‌های سوخت بر تولیدکنندگان محصولات کشاورزی است. با حمایت مالی این برنامه، کشاورزان می‌توانند هزینه‌های حمل و نقل و عملیات برداشت را تا حدی جبران کنند. انتظار می‌رود این اقدام به تثبیت قیمت‌های محصولات کشاورزی و کاهش تورم مرتبط با مواد غذایی کمک کند. همچنین می‌تواند تقاضا برای سوخت دیزل را در بخش کشاورزی تحت فشار نگه دارد و اثرات مثبت بر سودآوری کشاورزان داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "کشاورزی",
+    "tag": "دیزل",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-launch-8-billion-support-program-farmers-offset-diesel-costs-trump-says-2026-10-20/",
+    "clean_url": "https://www.reuters.com/world/us/us-launch-8-billion-support-program-farmers-offset-diesel-costs-trump-says-2026-10-20",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792479120.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "db8d66d886",
+    "title_fa": "‏فدرال رزرو در اکتبر نرخ بهره را نگه می‌دارد",
+    "title_en": "Fed to skip October but raise rates again in December, nearly all economists say",
+    "summary": [
+      "‏فدرال رزرو تصمیم گرفت در ماه اکتبر نرخ بهره را ثابت نگه دارد.",
+      "‏این اقدام بازارهای جهانی را آرام می‌کند ولی انتظار افزایش در دسامبر را تقویت می‌کند.",
+      "‏اکثریت اقتصاددانان پیش‌بینی می‌کنند که افزایش دسامبر حدود ۲۵ پایه باشد."
+    ],
+    "body_fa": "‏فدرال رزرو بر پایه نظرسنجی Reuters اعلام کرد که در ماه اکتبر هیچ افزایش نرخ بهره‌ای انجام نخواهد داد و به جای آن در دسامبر یک افزایش دیگر برنامه‌ریزی شده است. این تصمیم نشان‌دهنده صبر سیاستگذاران در مواجهه با تورم سرسخت است، هرچند فشارهای قیمتی هنوز باقی‌اند. اکثر اقتصاددانان پیش‌بینی می‌کنند که افزایش دسامبر حدود ۲۵ پایه باشد و این حرکت می‌تواند نرخ ارزها و بازارهای سهام را تحت تأثیر قرار دهد. بازارهای مالی جهانی به این خبر واکنش مثبت نشان دادند و نوساناتی محدود را تجربه کردند. تصمیم فدرال رزرو همچنان تحت نظارت سرمایه‌گذاران برای ارزیابی مسیر سیاست پولی در ماه‌های آینده قرار دارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نرخ بهره فدرال رزرو",
+    "tag": "نرخ",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20/",
+    "clean_url": "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792477620.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "53be6737b8",
+    "title_fa": "‏ساخت خانه‌های تک‌خانواری در آمریکا به‌سختی افت کرد",
+    "title_en": "US single-family housing starts plunge; building permits hit 3-1/2-year low",
+    "summary": [
+      "‏در سپتامبر، شروع ساخت خانه‌های تک‌خانواری در ایالات متحده به‌طور قابل‌توجهی کاهش یافت.",
+      "‏این سقوط به دلیل افزایش نرخ بهره و فشار بر تقاضای مسکن رخ داد و نشان‌دهنده ادامه روند نزولی سرمایه‌گذاری مسکونی است.",
+      "‏مجوزهای ساخت برای ماه آینده نیز به پایین‌ترین سطح در ۳٫۵ سال گذشته رسید."
+    ],
+    "body_fa": "‏آمارهای جدید نشان می‌دهد که در ماه سپتامبر، تعداد شروع ساخت خانه‌های تک‌خانواری در ایالات متحده به‌سختی به سطحی نزدیک به ۱ میلیون واحد رسید. همزمان، مجوزهای ساخت برای دوره‌های آینده به پایین‌ترین سطح در ۳٫۵ سال گذشته سقوط کرد. تحلیل‌گران این روند را به افزایش نرخ بهره وام مسکن نسبت می‌دهند که تقاضای خریداران را تحت فشار قرار داده است. به‌دلیل این فشار، سرمایه‌گذاری در بخش مسکن دوباره به مسیر نزولی بازگشته و احتمالاً تا پایان سال ادامه خواهد یافت. این وضعیت می‌تواند فشار بیشتری بر بازار مسکن و شاخص‌های مرتبط با ساخت و ساز وارد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ساخت مسکن",
+    "tag": "مسکن",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-single-family-housing-starts-building-permits-tumble-september-2026-10-20/",
+    "clean_url": "https://www.reuters.com/world/us/us-single-family-housing-starts-building-permits-tumble-september-2026-10-20",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792474680.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6b9b236ced",
+    "title_fa": "‏Qualcomm برنامه‌ریزی برای کاهش شغل‌ها در سراسر جهان اعلام کرد",
+    "title_en": "Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+    "summary": [
+      "‏Qualcomm در یک یادداشت داخلی اعلام کرد که برای بهبود عملکرد، برنامه‌ریزی برای کاهش شغل‌ها در سطح جهانی دارد.",
+      "‏این اقدام می‌تواند بر زنجیره تأمین چیپ‌ستون و بازار کار فناوری اثر داشته باشد.",
+      "‏هنوز تعداد دقیق حذف‌ها مشخص نشده است."
+    ],
+    "body_fa": "‏شرکت Qualcomm ، یکی از بزرگ‌ترین تولیدکنندگان چیپ‌ستون برای گوشی‌های هوشمند، در یک یادداشت داخلی اعلام کرد که برای بهبود عملکرد، برنامه‌ریزی برای کاهش شغل‌ها در سطح جهانی دارد. در این سند، تعداد دقیق موقعیت‌های شغلی که تحت تأثیر قرار می‌گیرند مشخص نشده و Reuters نتوانست مقیاس این کاهش را تعیین کند. Qualcomm هنوز پاسخی به درخواست‌های رسانه‌ها برای توضیح بیشتر نداده است. این تصمیم می‌تواند فشار بیشتری بر بازار کار فناوری و زنجیره تأمین قطعات الکترونیکی وارد کند، به‌ویژه در زمان‌هایی که رقبا نیز با چالش‌های هزینه‌ای مواجه‌اند. اگرچه جزئیات بیشتری در دسترس نیست، تحلیل‌گران انتظار دارند این اقدام نشان‌دهنده تلاش شرکت برای حفظ حاشیه سود در مواجهه با رقابت شدید و هزینه‌های تحقیق و توسعه است.",
+    "category": "تکنولوژی",
+    "subcategory": "کاهش نیروی کار",
+    "tag": "Qualcomm",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
+    "clean_url": "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792468320.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b8cc70bf30",
     "title_fa": "‏رشد سودآوری شرکت‌های اروپایی به بخش‌های جدید گسترش یافت",
     "title_en": "Europe's earnings boom widens beyond energy and AI",
@@ -19,6 +151,50 @@
     "clean_url": "https://www.reuters.com/business/finance/europes-earnings-boom-widens-beyond-energy-ai-2026-10-20",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792464480.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4fd6d254c4",
+    "title_fa": "‏FINMA اولین ETF بیت‌کوین اسپات را برای خرده‌فروشان تصویب کرد",
+    "title_en": "Swiss regulator FINMA approves country's first spot bitcoin ETF for retail investors",
+    "summary": [
+      "‏FINMA اولین ETF بیت‌کوین اسپات را برای سرمایه‌گذاران خرده‌فروش در سوئیس تصویب کرد.",
+      "‏این محصول تحت چارچوب صندوق‌های سرمایه‌گذاری سوئیسی است و می‌تواند مسیر پذیرش گسترده‌تر رمزارزها را هموار کند.",
+      "‏FINMA برای این ETF قوانین خاصی درباره نگهداری، ریسک عملیاتی و افشای اطلاعات سرمایه‌گذاران وضع کرده است."
+    ],
+    "body_fa": "‏سازمان نظارت مالی سوئیس (FINMA) اولین صندوق تبادل‌پذیر (ETF) بیت‌کوین اسپات را که مخصوص خرده‌فروشان است، تأیید کرد. این ETF تحت دسته «صندوق‌های دیگر برای سرمایه‌گذاری‌های جایگزین» در قوانین صندوق‌های سرمایه‌گذاری سوئیسی قرار می‌گیرد و به‌جای قوانین معمول تنوع‌پذیری، استثنایی برای بیت‌کوین اعمال شده است. FINMA برای این محصول چارچوب‌های خاصی درباره نگهداری امن، مدیریت ریسک‌های عملیاتی و افشای کامل به سرمایه‌گذاران تعیین کرده است. پیش از این، سوئیس تنها محصولات تبادل‌پذیر مبتنی بر رمزارزهای بدهی (ETP) را ارائه می‌داد که متفاوت از صندوق‌های سرمایه‌گذاری هستند. دیگر ارائه‌دهندگان صندوق نیز درخواست‌های مشابهی برای ETF بیت‌کوین ثبت کرده‌اند. اگرچه ریسک نوسان شدید بیت‌کوین همچنان وجود دارد، این گام می‌تواند مسیر پذیرش گسترده‌تر رمزارزها در بازارهای مالی سنتی را هموار سازد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ETF بیت‌کوین",
+    "tag": "bitcoin ETF",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-20-at-13.01.45.png",
+    "timestamp": 1792454700.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f6593c6429",
+    "title_fa": "‏IMF و بانک جهانی رشد جهانی را ۳٫۱٪ پیش‌بینی کردند",
+    "title_en": "IMF-World Bank meetings: Energy shocks, AI optimism, and other key takeaways on global economy",
+    "summary": [
+      "‏IMF در نشست بانکوک پیش‌بینی کرد رشد جهانی ۳٫۱٪ در ۲۰۲۶",
+      "‏این پیش‌بینی نشان می‌دهد اقتصاد مقاوم است اما ریسک‌های انرژی، بدهی و هوش مصنوعی می‌تواند فشار ایجاد کند",
+      "‏هوش مصنوعی می‌تواند هم رشد و هم ناپایداری مالی ایجاد کند"
+    ],
+    "body_fa": "‏در نشست سالانه صندوق بین‌المللی پول و بانک جهانی که در بانکوک برگزار شد، مسئولان به هشدار دربارهٔ اقتصاد جهانی آسیب‌پذیر در برابر شوک‌های انرژی، بدهی‌های دولتی و رشد نامتقارن هوش مصنوعی پرداختند. صندوق پیش‌بینی کرد که رشد جهانی در سال ۲۰۲۶ به ۳٫۱٪ خواهد رسید و تا ۲۰۲۷ به ۳٫۴٪ افزایش یابد، در حالی که تورم سرسری به ۴٫۷٪ در این سال می‌رسد. این ارقام نشان می‌دهد که اگرچه اقتصاد کلی مقاوم است، اما اختلاف‌های بین‌المللی در بهره‌برداری از سرمایه‌گذاری‌های هوش مصنوعی و دسترسی به انرژی می‌تواند فشارهای جدی ایجاد کند. بانکداران مرکزی نیز به این نکته اشاره کردند که هزینه‌های سرمایه‌گذاری در مراکز داده، تراشه‌ها و زیرساخت‌های برق می‌تواند فشارهای تورمی را تشدید کند و ریسک ناپایداری مالی را بالا ببرد. علاوه بر این، خطر تشدید تنش‌های ژئوپولیتیکی و تجدید منازعات تجاری به عنوان عوامل نزولی مهم شناخته شد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "پیش‌بینی رشد جهانی",
+    "tag": "IMF",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBCTV18",
+    "url": "https://www.cnbctv18.com/economy/imf-world-bank-energy-shocks-ai-optimism-and-other-key-takeaways-on-the-global-economy-from-thailand-20015502.htm",
+    "clean_url": "https://www.cnbctv18.com/economy/imf-world-bank-energy-shocks-ai-optimism-and-other-key-takeaways-on-the-global-economy-from-thailand-20015502.htm",
+    "image": "https://images.cnbctv18.com/uploads/2026/10/feature-2026-10-d7d4a60765907abe3f56462c62f25e8b.jpg?im=FitAndFill,width=1200,height=675",
+    "timestamp": 1792454340.0,
     "sent_to_telegram": true
   },
   {
@@ -6421,182 +6597,6 @@
     "clean_url": "https://www.reuters.com/world/europe/ukraines-zelenskiy-tells-abc-he-will-organize-elections-if-russia-agrees-60-day-2026-10-11",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791701880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2e7da8d924",
-    "title_fa": "‏اولیور بلومه از قوانین «ساخت در اروپا» حمایت کرد",
-    "title_en": "Volkswagen CEO says transformation is 'shared responsibility' in appeal to EU",
-    "summary": [
-      "‏اولیور بلومه، مدیرعامل Volkswagen ، در نمایشگاه پاریس خودرو از قوانین پیشنهادی «ساخت در اروپا» حمایت کرد.",
-      "‏او خوشنود از توافق جدید اتحادیه اروپا‑چین بود که می‌تواند واردات خودروهای هیبریدی چینی به بلوک را به‌طور چشمگیری کاهش دهد.",
-      "‏بلو eme گفت تحول صنعت خودرو مسئولیتی مشترک است و این سیاست‌ها به رقابت‌پذیری اروپا کمک می‌کند."
-    ],
-    "body_fa": "‏در سخنرانی‌اش در نمایشگاه پاریس خودرو، اولیور بلومه بر لزوم اجرای قوانین «ساخت در اروپا» تأکید کرد و گفت این چارچوب می‌تواند کیفیت و ارزش افزوده محصولات اروپایی را ارتقا دهد. او همچنین از توافق تجاری جدید بین اتحادیه اروپا و چین خوشنود بود که هدفش کاهش واردات خودروهای هیبریدی پلاگین‌دار چینی به بازارهای اروپایی است. بلومه اظهار داشت این اقدام می‌تواند فشار رقابتی بر سازندگان چینی را کاهش داده و فرصت‌های رشد برای شرکت‌های اروپایی از جمله Volkswagen فراهم کند. وی افزود تحول صنعت خودرو باید به‌عنوان مسئولیتی مشترک بین دولت، صنعت و مصرف‌کنندگان در نظر گرفته شود تا اروپا بتواند در برابر رقابت جهانی پایدار بماند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "قوانین تجاری خودرو",
-    "tag": "ساخت-در-اروپا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11/",
-    "clean_url": "https://www.reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791701580.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9781aa4a2e",
-    "title_fa": "‏هوش مصنوعی نقشه رقابت آمریکا و چین را بازنویسی می‌کند",
-    "title_en": "AI Is Redrawing the Map of the US-China Rivalry",
-    "summary": [
-      "‏هوش مصنوعی به‌عنوان عامل جدیدی بر رقابت استراتژیک آمریکا و چین تأثیر می‌گذارد.",
-      "‏این تغییر می‌تواند سیاست‌های اقتصادی و امنیتی دو کشور را بازنگری کند.",
-      "‏تحلیلگران پیش‌بینی می‌کنند سرمایه‌گذاری در فناوری‌های هوش مصنوعی به‌سرعت افزایش خواهد یافت."
-    ],
-    "body_fa": "‏هوش مصنوعی به‌عنوان نیروی محرکه‌ای جدید در رقابت ژئوپلیتیک بین ایالات متحده و چین مطرح شده است. متخصصان بر این باورند که پیشرفت‌های سریع در یادگیری عمیق، رباتیک و پردازش داده‌های بزرگ می‌تواند تعادل قدرت نظامی و اقتصادی را تغییر دهد. چین در حال سرمایه‌گذاری کلان در زیرساخت‌های هوش مصنوعی و ایجاد چارچوب‌های قانونی حمایتی است، در حالی که واشنگتن سعی دارد محدودیت‌های صادراتی و استانداردهای امنیتی سخت‌تری اعمال کند. این تحولات می‌تواند به رقابت بر سر برتری در فناوری‌های نیمه‌رسانا، پردازش کوانتومی و سامانه‌های خودران منجر شود و بازارهای جهانی را تحت تأثیر قرار دهد. در نتیجه، شرکت‌های فناوری بین‌المللی باید استراتژی‌های خود را برای مواجهه با این تغییرات بازنگری کنند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "رقابت آمریکا چین",
-    "tag": "هوش مصنوعی",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/opinion/features/2026-10-11/ai-is-redrawing-the-map-of-the-us-china-rivalry",
-    "clean_url": "https://www.bloomberg.com/opinion/features/2026-10-11/ai-is-redrawing-the-map-of-the-us-china-rivalry",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791694800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ed44eb1e68",
-    "title_fa": "‏هشدار Goldman Sachs از خطر بدهی و اوراق ایتالیا",
-    "title_en": "After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit...",
-    "summary": [
-      "‏ایتالیا ۲۸ میلیارد یورو برای دفاع و انرژی قرض گرفت و کسری ۲۰۲۷ را به ۳.۴٪ و ۲۰۲۸ را به ۳.۲٪ ارتقا داد.",
-      "‏این افزایش کسری فشار بر اوراق دولتی ایتالیا را افزون می‌کند و احتمال افزایش پرمیوم ریسک و گسترش اسپرد نسبت به باندهای آلمان را دارد.",
-      "‏۱۰ ساله اوراق باند ایتالیا امروز ۴.۵۵٪ بود و اسپرد نسبت به باند آلمان حدود ۱۰۸ نقطه پایه است."
-    ],
-    "body_fa": "‏دولت ایتالیا تحت رهبری جورجیا ملونی برنامه بودجه‌ای جدید تصویب کرد که شامل ۲۸ میلیارد یورو قرض برای هزینه‌های دفاعی و انرژی می‌شود. این هزینه‌ها باعث می‌شود هدف کسری مالی ۲۰۲۷ به ۳.۴٪ و هدف ۲۰۲۸ به ۳.۲٪ ارتقا یابد، که بالاتر از پیش‌بینی‌های قبلی است. تحلیل‌گران Goldman Sachs هشدار دادند این افزایش کسری می‌تواند فشار بر اوراق دولتی ایتالیا را افزون کند و پرمیوم ریسک را پیش از انتخابات عمومی که تا دسامبر ۲۰۲۷ برگزار می‌شود، بالا ببرد. در حال حاضر بازده اوراق ۱۰ ساله باند ایتالیا ۴.۵۵٪ است و اسپرد نسبت به باندهای آلمانی حدود ۱۰۸ نقطه پایه می‌باشد. گسترش کسری و احتمال عدم توانایی در کاهش بدهی می‌تواند به گسترش نوسانات در بازارهای اوراق قرضه اروپایی منجر شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بودجه و بدهی",
-    "tag": "ایتالیا",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html",
-    "clean_url": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html",
-    "image": "https://s.yimg.com/bo/24825d52-c4c8-576e-bd14-e2754feb76b6_1791696010537.jpg",
-    "timestamp": 1791694648.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "74f205f5dd",
-    "title_fa": "‏آمریکا بررسی می‌کند پوشش کاخ سفید خلاف قانون ضد انحصار",
-    "title_en": "DOJ says it's investigating whether White House TV pool's coverage halt violated antitrust law",
-    "summary": [
-      "‏DOJ بررسی می‌کند آیا قطع پوشش کاخ سفید توسط استخر تلویزیونی خلاف قانون ضد انحصار است.",
-      "‏این موضوع می‌تواند مرزهای رقابت رسانه‌ای و آزادی مطبوعات را در ایالات متحده تحت فشار قرار دهد.",
-      "‏پس از دعوی CNN ، MS NOW و Politico ، قاضی موقتاً ممنوعیت را لغو کرد و پوشش تلویزیونی از سر گرفته شد."
-    ],
-    "body_fa": "‏دپارتمان عدالت ایالات متحده (DOJ) اعلام کرد که به بررسی احتمال نقض قوانین ضد انحصار توسط استخر تلویزیونی کاخ سفید پرداخته است. این استخر شامل پنج شبکه بزرگ (ABC ، CBS ، CNN ، FOX و NBC) است که پس از ممنوعیت ورود CNN ، MS NOW و Politico به کاخ سفید، پوشش خبری را متوقف کردند. گروه‌های خبری ادعا کردند این تصمیم یک تحریم گروهی است که می‌تواند خلاف قانون باشد. قاضی فدرال پس از شکایت این سه رسانه، ممنوعیت را موقتاً لغو کرد و پوشش تلویزیونی از سر گرفته شد. DOJ می‌خواهد تعیین کند آیا این نوع تحریم رسانه‌ای می‌تواند به عنوان رفتار ضد رقابتی در نظر گرفته شود. این بررسی نشان‌دهنده تنش‌های جاری بین دولت ترامپ و رسانه‌ها و تأثیر آن بر آزادی مطبوعات و قوانین تجاری است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "آزمون ضد انحصار",
-    "tag": "آنتی‌تراست",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/11/doj-investigating-whether-white-house-pool-coverage-halt-violated-law.html",
-    "clean_url": "https://www.cnbc.com/2026/10/11/doj-investigating-whether-white-house-pool-coverage-halt-violated-law.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108392836-1791713198005-gettyimages-2296270600-AFP_C9AK3JJ.jpeg?v=1791713232&w=1920&h=1080",
-    "timestamp": 1791688320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5cde99a9da",
-    "title_fa": "‏اوکراین سومین مرکز داده یاندکس روسیه را هدف حمله کرد",
-    "title_en": "Ukraine Hits Third Russian Yandex Data Hub, Disrupting Services",
-    "summary": [
-      "‏اوکراین سومین مرکز داده یاندکس روسیه را هدف حمله قرار داد و خدمات آن را مختل کرد.",
-      "‏این حمله نشان‌دهندهٔ تشدید جنگ سایبری بین دو کشور و می‌تواند دسترسی به سرویس‌های آنلاین روسیه را تحت‌تأثیر قرار دهد.",
-      "‏یاندکس اعلام کرد که تیم‌های فنی برای بازگرداندن عملکرد سرورها کار می‌کنند."
-    ],
-    "body_fa": "‏اوکراین برای سومین بار به یک مرکز داده یاندکس در خاک روسیه حمله کرد و باعث قطع یا اختلال در سرویس‌های این شرکت شد. این هدف‌گیری نشان می‌دهد که جنگ سایبری بین اوکراین و روسیه در حال تشدید است و می‌تواند دسترسی کاربران روسیه به خدمات آنلاین را تحت فشار قرار دهد. یاندکس به سرعت تیم‌های فنی خود را برای رفع مشکل و بازگرداندن سرویس‌ها به کار گرفت. این رویداد می‌تواند فشار بیشتری بر زیرساخت‌های دیجیتال روسیه وارد کند و نشانگر ادامهٔ استفاده از ابزارهای سایبری در جنگ است.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حملات سایبری",
-    "tag": "Yandex",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-11/ukraine-hits-third-russian-yandex-data-hub-disrupting-services",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-11/ukraine-hits-third-russian-yandex-data-hub-disrupting-services",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791683640.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f87dd9dfb9",
-    "title_fa": "‏Starlink در هند قیمت ارزان برای رقابت با Jio می‌گذارد",
-    "title_en": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
-    "summary": [
-      "‏Elon Musk اعلام کرد Starlink در هند قیمت ارزان خواهد داشت.",
-      "‏هدف این قیمت‌گذاری رقابت مستقیم با سرویس کم‌هزینه Reliance Jio است.",
-      "‏این اعلامیه چند روز پیش از عرضه عمومی بزرگ Jio توسط Mukesh Ambani انجام شد."
-    ],
-    "body_fa": "‏Elon Musk در بیانیه‌ای گفت که سرویس اینترنت ماهواره‌ای Starlink در هند با قیمت ارزان عرضه خواهد شد تا بتواند با سرویس کم‌هزینه Reliance Jio رقابت کند. این تصمیم در حالی مطرح شد که Mukesh Ambani تنها چند روز پیش IPO تاریخی Jio را به بازار عرضه کرد. قیمت دقیق هنوز اعلام نشده اما Musk تأکید کرد هدف جذب کاربران با هزینه پایین است. ورود Starlink به بازار بزرگ هند می‌تواند فشار رقابتی بر Jio و سایر اپراتورها ایجاد کند. در صورت موفقیت، این حرکت می‌تواند نقش مهمی در گسترش دسترسی به اینترنت در مناطق دورافتاده ایندیا داشته باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "اینترنت ماهواره‌ای",
-    "tag": "Starlink",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/musk-vows-affordable-starlink-india-days-before-ambanis-record-jio-ipo-2026-10-11/",
-    "clean_url": "https://www.reuters.com/business/media-telecom/musk-vows-affordable-starlink-india-days-before-ambanis-record-jio-ipo-2026-10-11",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791677460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a4e8d20610",
-    "title_fa": "‏فدرال‌رزرو نرخ بهره را ثابت کرد؛ AI فشار تورمی می‌آورد",
-    "title_en": "Fed Holds Rates While AI Spending Pulls Policy in Two Directions",
-    "summary": [
-      "‏فدرال‌رزرو نرخ بهره را ثابت نگه داشت.",
-      "‏هزینه‌های عظیم AI فشار بر نیروی کار، مواد و تجهیزات را افزایش می‌دهد و تصمیمات پولی را دشوار می‌کند.",
-      "‏BIS پیش‌بینی می‌کند پنج شرکت بزرگ فناوری بیش از 1 تریلیون دلار در پروژه‌های AI تا 2026 سرمایه‌گذاری کنند."
-    ],
-    "body_fa": "‏فدرال‌رزرو این هفته نرخ بهره را ثابت نگه داشت، تصمیمی که به دلیل فشارهای ناشی از هزینه‌های عظیم هوش مصنوعی پیچیده‌تر شده است. سرمایه‌گذاری‌های فوری در دیتاسنترها، سرورهای پیشرفته و زیرساخت‌های برق، تقاضا برای نیروی کار، مواد اولیه و تجهیزات را به شدت افزایش داده‌اند. این تقاضا در کوتاه‌مدت می‌تواند فشارهای تورمی را تشدید کند، در حالی که در بلندمدت هوش مصنوعی می‌تواند بهره‌وری را ارتقا دهد و فشارهای قیمتی را خنک کند. بانک بین‌المللی تسویه حساب‌ها (BIS) در بولتن ژوئیه 2026 اعلام کرد که پنج شرکت بزرگ فناوری بیش از یک تریلیون دلار در پروژه‌های هوش مصنوعی در سال‌های 2025‑2026 هزینه می‌کنند. پژوهش‌های فدرال‌رزرو نشان می‌دهد هزینه‌های ساخت دیتاسنترها در ایالات متحده می‌تواند به بیش از 500 میلیارد دلار در سال 2025 برسد. این ترکیب از سرمایه‌گذاری‌های عظیم و عدم قطعیت دربارهٔ اثرات بهره‌وری، بانک مرکزی را در برابر انتخاب بین سیاست سختگیرانه یا تسهیل‌گر در آینده قرار داده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "briefs",
-    "url": "https://www.briefs.co/news/fed-holds-rates-while-ai-spending-pulls-policy-in-two-direct/",
-    "clean_url": "https://www.briefs.co/news/fed-holds-rates-while-ai-spending-pulls-policy-in-two-direct",
-    "image": "https://www.briefs.co/wp-content/uploads/2026/10/fed-holds-rates-while-ai-spending-pulls-policy-in-two-direct.png",
-    "timestamp": 1791664200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bd463e26e3",
-    "title_fa": "‏ترامپ خواستار تعویض رئیس‌جمهور اوکراین شد",
-    "title_en": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S....",
-    "summary": [
-      "‏ترامپ گفت زمان تعویض رئیس‌جمهور اوکراین رسیده و زلنسکی را مقصر افزایش قیمت دیزل در آمریکا دانست.",
-      "‏این اظهارات می‌تواند تنش‌های سیاسی بین آمریکا، اوکراین و روسیه را تشدید کرده و نگرانی‌های انرژی را افزاش دهد.",
-      "‏او پیش از سفر به تنسی، توافق خرید دیزل از روسیه را برای کاهش قیمت‌ها پیش از انتخابات میانه‌دوره‌ای اعلام کرد."
-    ],
-    "body_fa": "‏دونالد ترامپ روز شنبه اعلام کرد که اوکراین به رهبری جدیدی نیاز دارد و زلنسکی را به‌خاطر عدم پایان جنگ با روسیه و افزایش قیمت دیزل در ایالات متحده سرزنش کرد. او افزود که زلنسکی می‌توانست معاملات متعددی انجام دهد اما هرگز این کار را نکرده است. این اظهارات در حالی مطرح شد که ترامپ روز قبل توافقی برای خرید دیزل از روسیه به منظور کاهش قیمت سوخت پیش از انتخابات میانه‌دوره‌ای امضا کرده بود. مقامات اوکراینی و اروپایی واکنش منفی به این توافق نشان دادند و گفتند این کار به تامین مالی جنگ روسیه کمک می‌کند. ترامپ همچنین گفت اگر در سال ۲۰۲۲ رئیس‌جمهور بود، جنگ اوکراین‑روسیه هرگز آغاز نمی‌شد و اوکراین باید رهبری جدیدی پیدا کند. این بیانیه می‌تواند روابط دیپلماتیک و اقتصادی بین آمریکا، اوکراین و روسیه را تحت تأثیر قرار دهد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "سیاست خارجی",
-    "tag": "ترامپ",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
-    "clean_url": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
-    "image": "https://s.yimg.com/bo/88eff16e-72c4-5db8-8401-7cfd19c98d70_1791660862129.jpg",
-    "timestamp": 1791661393.0,
     "sent_to_telegram": true
   }
 ]
