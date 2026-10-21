@@ -1,5 +1,115 @@
 [
   {
+    "id": "b5f63da47e",
+    "title_fa": "‏شینهان و SBI استیبل‌کوین ین را برای ژاپنی‌ها آزمایش می‌کنند",
+    "title_en": "Japanese visitors could soon pay with yen stablecoins in South Korea under...",
+    "summary": [
+      "‏شرکت شینهان کارت کره‌جنوبی و SBI هولدینگز ژاپن، آزمایش پرداخت با استیبل‌کوین ین برای گردشگران ژاپنی در کره را آغاز کردند.",
+      "‏این پروژه می‌تواند مسیر جدیدی برای تسویه‌حساب‌های تجاری و انتقالات کیف‌پولی مرزی با استفاده از توکن‌های پایدار ایجاد کند.",
+      "‏استیبل‌کوین JPYSC که حدود 20.1 میلیارد ین در گردش دارد، ممکن است در آزمایش مورد استفاده قرار گیرد."
+    ],
+    "body_fa": "‏شرکت شینهان کارت، زیرمجموعه مالی شینهان، با شرکت‌های زیرمجموعه SBI Holdings شامل SBI VC Trade و SBI XDC Network APAC ، آزمایش پرداخت با استیبل‌کوین ین را برای گردشگران ژاپنی در کره‌جنوبی آغاز کرده‌اند. این همکاری به بررسی پرداخت‌های کارتی مرتبط با فروشگاه‌ها و انتقالات کیف‌پولی همتا به همتا برای تسویه‌حساب‌های تجاری مرزی می‌پردازد. اگرچه هنوز زمان‌بندی تجاری مشخصی ندارند، پروژه بخشی از برنامه گسترده شینهان برای گسترش دارایی‌های دیجیتال و همکاری با Visa است. توکن JPYSC ، استیبل‌کوین ین صادر شده توسط SBI Shinsei Trust Bank ، حدود 20.1 میلیارد ین در گردش دارد و ممکن است در این آزمایش به کار رود. این آزمایش می‌تواند نشانگر گسترش استفاده از استیبل‌کوین‌ها در پرداخت‌های بین‌المللی و تقویت زیرساخت‌های مالی دیجیتال باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پرداخت‌های بین‌المللی",
+    "tag": "stablecoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+    "clean_url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+    "image": "https://s.yimg.com/bo/209145c6-dbb3-50d1-852a-b4130287d9dd_1792585711478.jpg",
+    "timestamp": 1792585000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c845fae30a",
+    "title_fa": "‏مایکروسافت بازی ابری را بدون Game Pass به Insiders می‌فروشد",
+    "title_en": "Xbox Insiders Can Now Stream Games by Buying Cloud Playtime Without Game Pass, Introductory Launch Pricing Revealed",
+    "summary": [
+      "‏مایکروسافت به Xbox Insiders خرید زمان بازی ابری بدون Game Pass را داد؛ بسته‌های 10 ، 25 و 50 ساعت به 3.99 ، 7.99 و 11.99 دلار.",
+      "‏این گزینه جدید دسترسی به بازی‌های استریم‌شده را گسترش می‌دهد و منبع درآمدی جداگانه‌ای برای مایکروسافت ایجاد می‌کند.",
+      "‏کاربران می‌توانند رایگان با تبلیغات بازی کنند یا پس از نوامبر ساعت‌های اضافی خریداری نمایند."
+    ],
+    "body_fa": "‏مایکروسافت برای اعضای Xbox Insiders امکان خرید زمان بازی ابری بدون نیاز به اشتراک Game Pass را فراهم کرد. بسته‌های 10 ، 25 و 50 ساعت به ترتیب با قیمت‌های 3.99 ، 7.99 و 11.99 دلار عرضه می‌شوند و شامل پخش بدون تبلیغ، زمان انتظار کوتاه‌تر و کیفیت بالای استریم هستند. علاوه بر این، کاربران می‌توانند به‌صورت رایگان با تبلیغات بازی کنند. این سرویس پیش‌نمایشی قبل از گسترش عمومی در ماه آینده ارائه می‌شود و می‌تواند به گسترش بازار بازی‌های ابری و ایجاد منبع درآمد جدید برای مایکروسافت منجر شود.",
+    "category": "گیم",
+    "subcategory": "سرویس ابری",
+    "tag": "cloud playtime",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/xbox-insiders-can-now-stream-games-by-buying-cloud-playtime-without-game-pass-introductory-launch-pricing-revealed",
+    "clean_url": "https://www.ign.com/articles/xbox-insiders-can-now-stream-games-by-buying-cloud-playtime-without-game-pass-introductory-launch-pricing-revealed",
+    "image": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "timestamp": 1792580340.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fc703809e4",
+    "title_fa": "‏استودیوی BioWare پس از اخراج‌های EA بسته شد",
+    "title_en": "Legendary Game Studio BioWare Shuts Down Following EA Layoffs",
+    "summary": [
+      "‏BioWare پس از اخراج 400 نفر توسط EA ، پس از 30 سال فعالیت، بسته شد.",
+      "‏این تصمیم باعث لغو پروژه اولیه Mass Effect جدید و نشان‌دهنده ادامه تجدید ساختار EA می‌شود.",
+      "‏استودیو بیش از 400 شغل (3 ٪ نیروی کار) را از دست داد."
+    ],
+    "body_fa": "‏استودیوی مشهور BioWare که از سال 1995 فعالیت می‌کرد و به‌خاطر عناوینی چون Baldur’s Gate ، Mass Effect و Dragon Age شناخته می‌شود، امروز پس از اخراج 400 کارمند توسط مالک خود Electronic Arts (EA) بسته شد. این اخراج‌ها که حدود 3 ٪ از نیروی کار استودیوی را شامل می‌شود، بخشی از برنامه تجدید ساختار داخلی EA پس از تبدیل شدن به شرکت خصوصی است. به‌همین دلیل، پروژه در حال توسعه بازی بعدی Mass Effect نیز متوقف شد. بسته شدن BioWare پایان یک دوره بیش از سه دهه برای یکی از تأثیرگذارترین استودیوهای بازی‌سازی جهان است. این اتفاق نشان می‌دهد که حتی استودیوهای بزرگ نیز در برابر فشارهای مالی و استراتژیک می‌توانند دچار کاهش نیرو و تعطیلی شوند.",
+    "category": "گیم",
+    "subcategory": "بسته شدن استودیو",
+    "tag": "BioWare",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "TechPowerUp",
+    "url": "https://www.techpowerup.com/353984/legendary-game-studio-bioware-shuts-down-following-ea-layoffs",
+    "clean_url": "https://www.techpowerup.com/353984/legendary-game-studio-bioware-shuts-down-following-ea-layoffs",
+    "image": "https://www.techpowerup.com/img/keBWlIJeu8F5ARkc.jpg",
+    "timestamp": 1792580280.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "be01708029",
+    "title_fa": "‏متا پیش‌بینی سود 5.75 دلار و درآمد 63.2 میلیارد",
+    "title_en": "Meta earnings live updates: AI spending, ad revenue and stock reaction",
+    "summary": [
+      "‏متا پیش‌بینی سود هر سهم 5.75 دلار و درآمد 63.2 میلیارد دلار برای سه‌ماهه سوم دارد.",
+      "‏این اعداد نشان‌دهنده انتظار بازار برای رشد هوش مصنوعی و تأثیر آن بر تبلیغات است.",
+      "‏سرمایه‌گذاری‌های مرکز داده برای AI می‌تواند هزینه‌های سرمایه‌ای را تا 196.3 میلیارد دلار در 2027 افزایش دهد."
+    ],
+    "body_fa": "‏متا روز چهارشنبه پس از بسته شدن بازار، گزارش سود سه‌ماهه سوم خود را منتشر خواهد کرد. تحلیل‌گران انتظار دارند سود هر سهم 5.75 دلار و درآمد 63.2 میلیارد دلار باشد. این پیش‌بینی‌ها پس از موفقیت ابزار هوش مصنوعی Muse است که در سپتامبر به صدر فروشگاه اپلیکیشن‌های iOS رسید. سرمایه‌گذاری‌های مداوم در مدل‌های پایه و مرکز داده‌ها، باعث شد راهنمایی سرمایه‌گذاری برای 2026 بین 130 تا 145 میلیارد دلار تنظیم شود. در نتیجه، جریان نقدی آزاد در همان دوره به 784 میلیون دلار کاهش یافت، در حالی که پیش‌بینی‌ها هزینه سرمایه‌ای را تا 196.3 میلیارد دلار در 2027 افزایش می‌دهد. تعداد کاربران فعال روزانه متا حدود 3.65 میلیارد پیش‌بینی می‌شود که تقریباً ثابت باقی می‌ماند.",
+    "category": "تکنولوژی",
+    "subcategory": "گزارش مالی",
+    "tag": "Meta",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+    "clean_url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108367421-1790256222248-gettyimages-2296215846-META_CONNECT.jpeg?v=1790802260&w=1920&h=1080",
+    "timestamp": 1792579680.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bc4b4ef8ba",
+    "title_fa": "‏بیت‌کوین ۸۳,۵۰۰ دلاری شد؛ تسلا و SpaceX به ادغام می‌نگرند",
+    "title_en": "Bitcoin advances as SpaceX, Tesla explore a merger holding 30,000 BTC: Crypto...",
+    "summary": [
+      "‏بیت‌کوین به حدود ۸۳,۵۰۰ دلار رسید، بالاترین سطح هفتگی، پس از رشد سهام فناوری آسیایی.",
+      "‏تسلا و SpaceX کمیته‌های ویژه‌ای برای بررسی ادغام تشکیل دادند که بیش از ۳۰,۰۰۰ بیت‌کوین (۲.۵ میلیارد دلار) را ترکیب می‌کند.",
+      "‏زِکش پس از اعلام تاریخ ارتقا در نوامبر، حدود ۱۱٪ رشد کرد."
+    ],
+    "body_fa": "‏بیت‌کوین در روز چهارشنبه به حدود ۸۳,۵۰۰ دلار رسید که بالاترین سطح هفتگی آن بود. این افزایش پس از بازگشت قوی سهام فناوری آسیایی و بهبود ریسک‌پذیری در بازارهای جهانی رخ داد. در همین زمان، ایلان ماسک به‌عنوان مدیرعامل تسلا و SpaceX اعلام کرد که دو شرکت کمیته‌های ویژه‌ای برای بررسی امکان ادغام تشکیل داده‌اند. ادغام پیشنهادی می‌تواند بیش از ۳۰,۰۰۰ بیت‌کوین، معادل حدود ۲.۵ میلیارد دلار، را در ترازنامه‌های مشترک ترکیب کند. این خبر باعث شد اندیس‌های رمزارزی مانند CoinDesk 100 و زِکش به‌طور قابل‌توجهی رشد کنند؛ زِکش پس از تعیین تاریخ ارتقا در نوامبر حدود ۱۱٪ افزایش یافت. حجم معاملات آتی رمزارزها نیز ۱۹۰ میلیارد دلار شد که ۱۹٪ افزایش نسبت به روز قبل نشان داد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+    "image": "https://s.yimg.com/bo/7f49e149-03ed-5c79-9ff2-37d242310289_1792580121936.png.cf.jpg",
+    "timestamp": 1792577800.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ba7c8a8694",
     "title_fa": "‏بانک مرکزی هند تمام پیشنهادهای مزایده اوراق خزانه‌داری را رد کرد",
     "title_en": "Indian central bank rejects all bids at treasury bill auction as short-term...",
@@ -110,6 +220,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "af3aa18dfe",
+    "title_fa": "‏ترامپ موقتاً تحریم‌های تجاری روسیه را لغو کرد",
+    "title_en": "Trump Waives Russia-Related Tariffs Weeks After Signing Sanctions Bill, Easing...",
+    "summary": [
+      "‏ترامپ با صدور فرمان اجرایی، موقتاً تحریم‌های تجاری و تعرفه‌های مربوط به روسیه را که قرار بود اعمال شود، لغو کرد.",
+      "‏این تصمیم فشار بر مسکو را کاهش می‌دهد و می‌تواند قیمت‌های انرژی و روابط تجاری ایالات متحده با چین و هند را تحت تأثیر قرار دهد.",
+      "‏می‌تواند روابط بین‌المللی و انتخابات میانی 2026 را نیز تحت فشار قرار دهد."
+    ],
+    "body_fa": "‏در روز جمعه، رئیس‌جمهور دونالد ترامپ با صدور فرمان اجرایی، موقتاً تحریم‌های تجاری و تعرفه‌های ۱۰۰ درصدی مرتبط با روسیه را که طبق قانون «Lindsey O. Graham Sanctioning Russia and Iran Act of 2026» قرار بود اعمال شود، لغو کرد. ترامپ اعلام کرد این معافیت به منافع ملی ایالات متحده خدمت می‌کند و تا زمانی که مقامات عالی‌رتبه دولت تشخیص ندهند اقدامات بیشتری لازم است، ادامه خواهد یافت. این اقدام فشار اقتصادی بر مسکو را کاهش می‌دهد، در حالی که هزینه‌های انرژی در آمریکا در حال افزایش است و قیمت نفت می‌تواند تحت تأثیر این تصمیم قرار گیرد. چین و هند، بزرگ‌ترین خریداران نفت روسیه، که پیشتر نسبت به تعرفه‌های جدید نگرانی‌های خود را ابراز کرده بودند، از این معافیت سود می‌برند. منتقدان از جمله نماینده دموکرات دان بایر، این تصمیم را «تسلیم به پوتین» توصیف کرده و ادعا می‌کنند که هدف آن تضعیف تلاش‌های کنگرنسی علیه اوکراین است. این لغو تحریم‌ها می‌تواند بر مذاکرات تجاری آینده، روابط ژئوپلیتیک و حتی انتخابات میانی 2026 که در آستانه آن هستند، تأثیرگذار باشد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌های تجاری",
+    "tag": "تحریم‌روسی",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Benzinga · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/trump-waives-russia-related-tariffs-094509767.html",
+    "clean_url": "https://finance.yahoo.com/economy/policy/articles/trump-waives-russia-related-tariffs-094509767.html",
+    "image": "https://media.zenfs.com/en/benzinga_79/9e502305a593f4d7c047c9dc4252bb64.jpg",
+    "timestamp": 1792574197.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "43e7983f50",
     "title_fa": "‏یوتیوب ویژگی جدیدی برای محافظت از کانال‌های هک‌شده معرفی کرد",
     "title_en": "YouTube has a new way to protect hacked channels.",
@@ -151,6 +283,50 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Coal-Crisis-Deepens-as-Power-Demand-Surges.html",
     "image": "https://s.yimg.com/bo/04ddca75-1bd4-5c4f-a11f-5c6df68d633a_1792572561480.jpg",
     "timestamp": 1792571739.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e1941a668e",
+    "title_fa": "‏Grayscale ۱۰ صندوق کریپتو را با اشتراک‌های in‑kind گسترش داد",
+    "title_en": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+    "summary": [
+      "‏Grayscale امکان اشتراک in‑kind را برای ۱۰ ETF و تراست دیجیتال از بیت‌کوین تا XRP فعال کرد.",
+      "‏این روش به سرمایه‌گذاران اجازه می‌دهد توکن‌ها را مستقیم برای سهام تعویض کنند، هزینه‌های نگهداری و معامله را کاهش می‌دهد.",
+      "‏حداقل سرمایه‌گذاری‌ها بین ۸۰,۳۰۰ تا ۳۶۴,۸۰۰ دلار است."
+    ],
+    "body_fa": "‏Grayscale به‌تازگی امکان اشتراک in‑kind را برای ده محصول سرمایه‌گذاری دیجیتال شامل Bitcoin Mini Trust ETF ، Ethereum Staking Mini ETF و صندوق‌های مرتبط با Avalanche ، Chainlink ، Dogecoin ، Hyperliquid ، Solana ، Sui ، XRP و Zcash فراهم کرد. این گزینه به سرمایه‌گذاران معتبر اجازه می‌دهد توکن‌های خود را به‌جای فروش برای نقد، مستقیماً در ازای سهام این صندوق‌ها تحویل دهند. حداقل سرمایه‌گذاری برای هر محصول بین حدود ۸۰,۳۰۰ تا ۳۶۴,۸۰۰ دلار تعیین شده است. Grayscale می‌گوید این روش می‌تواند بار خودنگهداری را کاهش داده و هزینه‌های تراکنش را پایین آورد. همچنین دسترسی به حساب‌های کارگزاری و بازنشستگی، استفاده به عنوان وثیقه و ابزارهای مدیریت پرتفوی را برای سرمایه‌گذاران فراهم می‌کند. این گسترش پس از تصویب SEC در ژوئیه ۲۰۲۵ برای ایجاد و بازخرید in‑kind در ETP های کریپتو انجام شد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ETFهای دیجیتال",
+    "tag": "in‑kind",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+    "clean_url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Grayscale.jpg",
+    "timestamp": 1792567500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f6958130f3",
+    "title_fa": "‏Xbox Helix را برای 2028 اعلام کرد؛ هزینه 1200‑1800 دلار",
+    "title_en": "Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800",
+    "summary": [
+      "‏Xbox اعلام کرد پروژه Helix در فصل تعطیلات 2028 راه‌اندازی می‌شود و هزینه‌اش بین 1200 تا 1800 دلار پیش‌بینی شده است.",
+      "‏این کنسول نسل‌بعدی با تمرکز بر کارایی، قیمت مناسب و استفاده از هوش مصنوعی برای بهبود مهندسی هدف دارد.",
+      "‏همچنین Xbox برنامه‌ریزی برای دستگاه دستی جدید و بازنگری Game Pass تا پایان سال آینده دارد."
+    ],
+    "body_fa": "‏Xbox در مصاحبه‌ای با Fortune ، پروژه Helix را که نسل‌بعدی کنسول این شرکت است، برای فصل تعطیلات 2028 اعلام کرد و هزینه‌اش را بین 1200 تا 1800 دلار تخمین زد. این زمان‌بندی نسبت به برنامه قبلی چند ماه جلوتر شده و تیم‌های توسعه تحت فشار برای تسریع کار با استفاده از هوش مصنوعی قرار گرفته‌اند؛ اما شرکت تأکید کرد هوش مصنوعی صرفاً به عنوان ابزار مهندسی به کار می‌رود. Asha Sharma ، مدیرعامل Xbox ، گفت تمرکز بر کارایی، قیمت مناسب و عملکرد است و می‌خواهد گزینه‌های بیشتری برای خرید و بازی به مشتریان بدهد. علاوه بر Helix ، Xbox قصد دارد تا پایان سال آینده یک دستگاه دستی نسل‌بعدی و بازنگری اساسی در سرویس Game Pass با ساختار لایه‌ای برای افزودنی‌های مختلف ارائه دهد. این اقدامات در پس‌زمینه کاهش اشتراک‌کنندگان Game Pass که کمتر از 50 ٪ هدف اولیه است و برنامه‌های تعدیل نیروی انسانی شرکت انجام می‌شود.",
+    "category": "گیم",
+    "subcategory": "کنسول نسل‌بعدی",
+    "tag": "Helix",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800",
+    "clean_url": "https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800",
+    "image": "https://assetsio.gnwcdn.com/xbox-controller-aronpw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1792564680.0,
     "sent_to_telegram": true
   },
   {
@@ -198,6 +374,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "9be778d195",
+    "title_fa": "‏Spotify برنامهٔ خودرو بومی خود را در Audi ها راه‌اندازی کرد",
+    "title_en": "Spotify is busting free of CarPlay with the launch of its first native car app",
+    "summary": [
+      "‏Spotify برنامهٔ بومی خودرو را روی Android Automotive در چند مدل Audi منتشر کرد.",
+      "‏این اپلیکیشن نیاز به اتصال گوشی یا کابل را حذف می‌کند و رقابتی جدی برای CarPlay و Android Auto ایجاد می‌کند.",
+      "‏۳۴٪ کاربران ماهانه و ۷۷٪ مشترکان پریمیوم Spotify در خودروها به موسیقی گوش می‌دهند."
+    ],
+    "body_fa": "‏Spotify روز چهارشنبه برنامهٔ بومی خود را برای خودروها بر پایهٔ سیستم‌عامل Android Automotive معرفی کرد و این نسخهٔ جدید هم‌اکنون در برخی مدل‌های Audi از جمله A6 e‑tron ، Q6 e‑tron ، A5 ، Q5 و A6 در دسترس است. این اپلیکیشن به‌صورت مستقل روی سخت‌افزار اینفوتینمنت خودرو اجرا می‌شود و دیگر نیازی به اتصال گوشی، بلوتوث یا کابل aux نیست. با این کار Spotify کنترل کامل رابط کاربری را در اختیار می‌گیرد و می‌تواند تجربهٔ کاربری منحصر به‌فردی ارائه دهد. اگرچه شرکت هنوز به Apple CarPlay و Android Auto سرمایه‌گذاری می‌کند، اما این گام می‌تواند کاربران را به استفاده مستقیم از سیستم‌عامل خودرو تشویق کند. با توجه به اینکه ۳۴٪ کاربران ماهانه و ۷۷٪ مشترکان پریمیوم Spotify در خودروها به موسیقی گوش می‌دهند، این حرکت می‌تواند سهم شرکت در بازار سرگرمی‌های داخل خودرو را افزایش دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "اپلیکیشن خودرو",
+    "tag": "Spotify",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+    "clean_url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "timestamp": 1792558860.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6e1d850fef",
+    "title_fa": "‏Dogecoin Labs برای گسترش کاربردهای DOGE راه‌اندازی شد",
+    "title_en": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
+    "summary": [
+      "‏Dogecoin Labs با حمایت Dogecoin Foundation و ترکیب MyDoge ، DogeOS و Such App راه‌اندازی شد.",
+      "‏هدف ارتقای کاربرد DOGE در پرداخت‌ها، DeFi و تجارت است که می‌تواند تقاضای واقعی برای این رمزارز را افزایش دهد.",
+      "‏MyDoge بیش از 500,000 کاربر دارد و DogeOS تست‌نت سازگار با EVM را در 30 سپتامبر راه‌اندازی کرد."
+    ],
+    "body_fa": "‏Dogecoin Labs به‌عنوان یک سازمان مستقل تحت حمایت Dogecoin Foundation و رهبری CEO Jordan Jefferson راه‌اندازی شد. این شرکت MyDoge ، DogeOS و Such App را که به‌توالی بیش از 500,000 کاربر و یک تست‌نت عمومی سازگار با EVM دارند، تحت یک سقف واحد قرار می‌دهد. هدف اصلی لابراتوار گسترش کاربردهای DOGE در پرداخت‌های روزمره، تجارت الکترونیک، DeFi ، بازی‌های دیجیتال و سایر محصولات مصرفی است. Jefferson در بیانیه‌ای گفت: «هیچ دارایی دیجیتالی ترکیبی از نقدینگی، جامعه و دسترسی فرهنگی مانند Dogecoin ندارد و پتانسیل آن هنوز به‌طور کامل بهره‌برداری نشده است». در همین حال، تلاش‌های قبلی DOGE برای ورود به مالیات سنتی با چالش‌هایی مانند بسته شدن ETF Dogecoin توسط Bitwise مواجه شد. با تمرکز بر ابزارهای پرداختی مانند فاکتور و QR در فروشگاه‌ها، Dogecoin Labs می‌کوشد تا استفاده واقعی از این رمزارز را در اقتصاد واقعی افزایش دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پروژه‌های اکوسیستم",
+    "tag": "Dogecoin Labs",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
+    "clean_url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/05/20210511_DOGE-SHIBA-SHIB-coin-2.jpg",
+    "timestamp": 1792558440.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b4d2c86f8c",
     "title_fa": "‏شکسته شدن کلیدهای امنیتی شرکت eMudhra اینترنت را به خطر انداخت",
     "title_en": "Internet panics after 8 eMudhra private keys get cracked",
@@ -242,6 +462,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "95b05f92f8",
+    "title_fa": "‏بازی‌های شوتینگ و ورزشی به‌دلیل GTA 6 بازیکن از دست می‌دهند",
+    "title_en": "Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data",
+    "summary": [
+      "‏بررسی Open World نشان داد 69% بازیکنان PC و کنسول قصد دارند GTA 6 را در ماه آینده بازی کنند",
+      "‏به‌همین دلیل بازی‌های شوتینگ و ورزشی مانند Call of Duty و EA Sports FC بیشترین خطر از دست دادن بازیکن را دارند",
+      "‏مشاورهٔ Open World توصیه می‌کند در دورهٔ عرضه GTA 6 به‌روزرسانی‌های بزرگ یا تبلیغات پولی نپردازند"
+    ],
+    "body_fa": "‏داده‌های جدید نشان می‌دهد که 69% بازیکنان PC و کنسول قصد دارند در ماه آینده بازی Grand Theft Auto 6 را تجربه کنند. مشاورهٔ بازی‌سازی Open World با بررسی همپوشانی تاریخی و نیت خرید، بازی‌های شوتینگ رقابتی و عناوین ورزشی مانند Call of Duty ، Battlefield ، Apex Legends ، Fortnite ، EA Sports FC و NBA 2K را به‌عنوان بیشترین ریسک از دست دادن بازیکن شناسایی کرده است. در آمریکا، Sensor Tower تخمین می‌زند که تا 13 اکتبر حدود 6.08 میلیون پیش‌خرید دیجیتال با ارزش 594 میلیون دلار برای GTA 6 ثبت شده است. نتایج نشان می‌دهد بازیکنان بازی‌های رانندگی و حرکت‌محور، سپس کسانی که به جلسات پرریسک و دنیای باز علاقه دارند، بیشترین احتمال جابه‌جایی به GTA 6 را دارند. Open World توصیه می‌کند در دورهٔ عرضه GTA 6 از به‌روزرسانی‌های بزرگ یا تبلیغات پولی خودداری کرده و به‌جای آن فعالیت‌های معمولی را حفظ کنند تا سهم صدا را در بازار حفظ کنند. همچنین پیشنهاد می‌شود تا زمان پذیرش GTA 6 ، تغییرات بازیکن را بر پایهٔ رفتار واقعی پیگیری و برنامه‌ریزی‌های بازگشت را بر این اساس تنظیم کنند.",
+    "category": "گیم",
+    "subcategory": "تحلیل بازار گیم",
+    "tag": "GTA6",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
+    "clean_url": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
+    "image": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1792554780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d25d641e9a",
+    "title_fa": "‏کاندیدای دموکراتیک آمریکا در کرانه باختری بازداشت شد",
+    "title_en": "US Democratic congressional candidate Lander detained by Israeli authorities in West Bank",
+    "summary": [
+      "‏کاندیدای دموکراتیک ایالات متحده، Brad Lander ، توسط مقامات اسرائیلی در کرانه باختری بازداشت شد",
+      "‏این حادثه می‌تواند تنش‌های دیپلماتیک بین آمریکا و اسرائیل را تشدید کند",
+      "‏Lander جز 90 نفری بود که در همان عملیات بازداشت شدند"
+    ],
+    "body_fa": "‏Brad Lander ، هم‌پیمان شهردار نیویورک Zohran Mamdani و نامزد حزب دموکرات برای انتخابات کنگره آمریکا، روز سه‌شنبه توسط نیروهای اسرائیلی در کرانه باختری اشغال‌شده بازداشت شد. این بازداشت در چارچوب عملیات گسترده‌ای بود که حدود 90 نفر را در این منطقه هدف قرار داد. مقامات اسرائیلی هنوز دلایل دقیق بازداشت را اعلام نکرده‌اند، اما این اقدام می‌تواند واکنش‌های دیپلماتیک ایالات متحده را برانگیزد. دولت آمریکا هنوز بیانیه رسمی درباره این موضوع منتشر نکرده، اما انتظار می‌رود که فشارهای سیاسی برای آزادی او افزایش یابد. این رویداد می‌تواند روابط بین‌المللی آمریکا و اسرائیل را تحت فشار قرار دهد و به بحث‌های گسترده‌تری درباره حضور اسرائیل در سرزمین‌های فلسطینی منجر شود.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "روابط آمریکا-اسرائیل",
+    "tag": "Lander",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-democratic-congressional-nominee-lander-detained-by-israeli-authorities-west-2026-10-21/",
+    "clean_url": "https://www.reuters.com/world/us/us-democratic-congressional-nominee-lander-detained-by-israeli-authorities-west-2026-10-21",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792554480.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "8ceec9999c",
     "title_fa": "‏دولت بریتانیا پروژه گاز جکدو را تصویب کرد",
     "title_en": "UK Approves Jackdaw Gas Field as Energy Crisis Deepens",
@@ -261,6 +525,50 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Approves-Jackdaw-Gas-Field-as-Energy-Crisis-Deepens.html",
     "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-21_bj2t5ztnqd.jpg",
     "timestamp": 1792553400.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e255d1b22d",
+    "title_fa": "‏۹۷٪ استودیوهای اروپا و آمریکا از هوش مصنوعی استفاده می‌کنند",
+    "title_en": "Vivrato: 97% of studio leaders use AI in some form during development in EU and North America",
+    "summary": [
+      "‏۹۷٪ رهبران استودیوهای بازی‌سازی در اروپا و آمریکای شمالی گزارش دادند که هوش مصنوعی را در توسعه به کار می‌برند.",
+      "‏این نشان‌دهندهٔ پذیرش گسترده AI در مراحل مختلف تولید، به‌ویژه کدنویسی و مهندسی، است.",
+      "‏استودیوهای اروپایی عمق ادغام AI را 4.2 از 10 ارزیابی کردند، بیش از همتایان آمریکایی."
+    ],
+    "body_fa": "‏Vivrato در گزارشی مبتنی بر 101 مصاحبه با رهبران استودیوهای بازی‌سازی اروپا و آمریکای شمالی بین آوریل و سپتامبر 2026 ، اعلام کرد که 97 ٪ از آن‌ها هوش مصنوعی را در برخی مرحله از توسعه به کار گرفته‌اند. استفاده از AI در نه مرحلهٔ تولید، بیشترین درصد را در کدنویسی و مهندسی (86 ٪) و کارهای عمومی بهره‌وری (83 ٪) داشته است. در زمینهٔ طراحی و نمونه‌سازی، هنر و انیمیشن نیز به ترتیب 68 ٪ و 60 ٪ از استودیوها از AI بهره می‌برند، در حالی که تجزیه و تحلیل داده‌های بازیکن و LiveOps کمتر مورد استفاده قرار می‌گیرد. استودیوهای اروپایی عمق ادغام AI را 4.2 از 10 ارزیابی کردند که نسبت به 3.5 در آمریکای شمالی بالاتر است. بنیان‌گذار و مدیرعامل Vivrato ، Adam Boyes ، گفت تمرکز حالا باید بر روی نحوه استفاده، اثرات واقعی و چالش‌های باقی‌مانده باشد نه صرفاً شناسایی کاربران AI. این نتایج نشان می‌دهد که هوش مصنوعی به‌سرعت به بخشی اساسی از زنجیره تولید بازی تبدیل شده است.",
+    "category": "گیم",
+    "subcategory": "پذیرش هوش مصنوعی",
+    "tag": "AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+    "clean_url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+    "image": "https://assetsio.gnwcdn.com/fotis-fotopoulos-DuHKoV44prg-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1792546800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9662dfe645",
+    "title_fa": "‏شرکت Abbott Laboratories واحد تغذیه‌اش را به‌منظور جداسازی می‌سپارد",
+    "title_en": "Abbott Laboratories to spin off nutrition unit at centre of baby formula lawsuits",
+    "summary": [
+      "‏Abbott Laboratories تصمیم گرفت واحد تغذیه‌ای خود را که در دعواهای فرمولاسیون شیر کودک درگیر است، جدا کند.",
+      "‏این جداسازی می‌تواند تأثیر قابل‌توجهی بر ارزش سهام شرکت و استراتژی‌های بازار داشته باشد.",
+      "‏واحد تغذیه‌ای شامل برندهای شناخته‌شده‌ای مانند Similac است."
+    ],
+    "body_fa": "‏شرکت آمریکایی Abbott Laboratories اعلام کرد قصد دارد واحد تغذیه‌ای خود را که در مرکز دعواهای حقوقی مربوط به فرمول‌های شیر کودک قرار دارد، به‌صورت یک شرکت مستقل جدا کند. این تصمیم پس از فشارهای قانونی و انتقادات عمومی در خصوص فروش شیرهای نوزادان در برخی بازارها اتخاذ شده است. جداسازی می‌تواند به Abbott اجازه دهد تمرکز بیشتری بر روی داروهای تجاری و نوآوری‌های پزشکی داشته باشد و در عین حال ریسک‌های مرتبط با دعاوی قضایی را از ترازنامه اصلی حذف کند. تحلیل‌گران پیش‌بینی می‌کنند این اقدام ممکن است تأثیر مثبت یا منفی بر قیمت سهام Abbott داشته باشد، بسته به نحوه ارزیابی بازار از ارزش واحد تغذیه‌ای پس از جداسازی. همچنین این گام می‌تواند نشانگر تغییر استراتژی بزرگ‌تر در صنعت بهداشت و تغذیه باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "شرکت‌های بزرگ",
+    "tag": "Abbott",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7f407bde-ef26-4914-bcbe-baf858bc81d7?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/7f407bde-ef26-4914-bcbe-baf858bc81d7",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792538760.0,
     "sent_to_telegram": true
   },
   {
@@ -6289,314 +6597,6 @@
     "clean_url": "https://www.fxstreet.com/news/gold-tumbles-as-oil-shock-fuels-us-dollar-rally-and-fed-hike-bets-202610121908",
     "image": "https://s.yimg.com/bo/e0a4ca18-835b-5240-8187-ba1e00964eca_1789703418337.png.cf.jpg",
     "timestamp": 1791831179.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "01ed0c1c1c",
-    "title_fa": "‏بیمه کشتی‌های نفت‌بار دریای سیاه به ۲٫۵ میلیون دلار رسید",
-    "title_en": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million | OilPrice.com",
-    "summary": [
-      "‏هزینه بیمه کشتی‌های حمل نفت در دریای سیاه از ۲۰۰ هزار دلار به ۲٫۵ میلیون دلار افزایش یافت.",
-      "‏این جهش ۱۲٫۵ برابر هزینه‌های حمل‌ونقل را بالا برده و فشار بر قیمت سوخت در بلغارستان را تشدید می‌کند.",
-      "‏افزایش بیمه پس از حملات پهپادی به دو کشتی تجاری در منطقه رخ داد."
-    ],
-    "body_fa": "‏در ماه‌های اخیر هزینه بیمه کشتی‌های حمل نفت در دریای سیاه از حدود ۲۰۰ هزار دلار به ۲٫۵ میلیون دلار برای هر کشتی افزایش یافته است. این افزایش ۱۲٫۵ برابری توسط ایوان سییمونوف، مدیر تجاری ویژه لوکوئل در بلغارستان، به عنوان نتیجهٔ خطرات فزایندهٔ حمل‌ونقل پس از حملات مکرر به کشتی‌ها و زیرساخت‌های بندری توصیف شد. بازار بیمه دریایی لندن نیز در سپتامبر گزارش خطر بالا برای تمام حوضهٔ دریای سیاه را گسترش داد، هرچند مسیرهای داخل آب‌های سرزمینی کشورهای همسایه از این الزام مستثنی هستند. در تاریخ ۶ اکتبر، پهپادها دو کشتی تجاری را هدف قرار دادند؛ کشتی الفا واتان زیر پرچم توگو غرق شد و کشتی ایبل تحت پرچم پالائو آسیب دید، که منجر به نجات تمام ۱۸ خدمه شد. این هزینه‌های اضافی می‌تواند فشار بر قیمت بنزین و دیزل در بلغارستان را افزایش دهد و تصمیم این کشور برای رفع محدودیت‌های صادرات دیزل را تحت تأثیر قرار دهد. با این حال، پالایشگاه برگاس هنوز توانسته است تحویل نفت را حفظ کند و تا پایان دسامبر تأمین سوخت را تضمین کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "بیمه حمل‌ونقل نفت",
-    "tag": "بیمه‌نقلیه",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Black-Sea-Oil-Shipping-Insurance-Costs-Surge-to-25-Million.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Black-Sea-Oil-Shipping-Insurance-Costs-Surge-to-25-Million.html",
-    "image": "https://s.yimg.com/bo/ef2d576e-544e-5c49-bf38-75373224089b_1791827190567.jpg",
-    "timestamp": 1791825536.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3f375133a5",
-    "title_fa": "‏قیمت نفت به دلیل حملات سعودی ۲٪ افزایش یافت",
-    "title_en": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound | OilPrice.com",
-    "summary": [
-      "‏قیمت نفت WTI به ۹۳.۷۸ دلار و برنت به ۱۰۶.۸۰ دلار رسید؛ حدود ۲٪ افزایش یافت.",
-      "‏حملات هوثی به عربستان و تانکرها در تنگه هرمز ریسک عرضه خاورمیانه را بالا برد.",
-      "‏پیش‌بینی OPEC رشد تقاضای جهانی را به ۴۰۰٬۰۰۰ بشکه در روز برای ۲۰۲۶ کاهش داد."
-    ],
-    "body_fa": "‏قیمت نفت خام در صبح دوشنبه به بالاترین سطح دو هفته گذشته رسید؛ WTI به ۹۳.۷۸ دلار و برنت به ۱۰۶.۸۰ دلار ارتقا یافت. این افزایش ۲ درصدی پس از حملات تازه به عربستان سعودی و دو تانکر در نزدیکی تنگه هرمز رخ داد که ریسک‌های عرضه خاورمیانه را دوباره به مرکز توجه بازار آورد. در روز شنبه، حمله هوثی به فرودگاه بین‌المللی ریاض منجر به کشته شدن ۱۳ نفر و زخمی شدن بیش از ۳۰۰ نفر شد و حملات دیگر در روزهای بعدی ادامه یافت. این تحولات می‌تواند بازده صادرات نفت خلیج فارس که در سپتامبر به ۸۱٪ از سطوح پیش از جنگ رسیده بود، تهدید کند؛ در حالی که صادرات نفت خام و کاندنسات به ۹۱٪ بازگشته اما صادرات محصولات تصفیه‌شده تنها ۶۰٪ است. در همین زمان، OPEC پیش‌بینی رشد تقاضای جهانی را برای سال ۲۰۲۶ به ۴۰۰٬۰۰۰ بشکه در روز کاهش داد، که نشان از نگرانی‌های طولانی‌مدت درباره تقاضا دارد. تحلیل‌گران گلدمن‌ساکس قیمت برنت دسامبر را به ۹۰ دلار در هر بشکه ارتقا دادند و بر این باورند که ریسک‌های ژئوپلیتیک فعلی بیش از ۲۰ دلار به قیمت نفت افزوده است. این عوامل می‌توانند نوسانات بازار انرژی را تشدید کرده و بر تصمیمات سرمایه‌گذاران و سیاست‌گذاران جهانی تأثیر بگذارند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت خام",
-    "tag": "نفت",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-2-on-Saudi-Attacks-as-OPEC-Sees-Demand-Rebound.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-2-on-Saudi-Attacks-as-OPEC-Sees-Demand-Rebound.html",
-    "image": "https://s.yimg.com/bo/dd496333-46a1-535b-9c41-f0631902fc27_1783825650736.png.cf.jpg",
-    "timestamp": 1791825536.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cf53640c95",
-    "title_fa": "‏کاهش موجودی زغال‌سنگ در هند باعث قطع برق کارخانه‌ها شد",
-    "title_en": "Small Indian Factories Face Blackouts as Coal Stocks Plunge | OilPrice.com",
-    "summary": [
-      "‏موجودی زغال‌سنگ در نیروگاه‌های هندی به زیر ۲۵٪ رسید و کارخانه‌های کوچک را با قطع برق مواجه کرد.",
-      "‏به دلیل گرمایش شدید و بارندگی کم، تقاضای برق بالا رفته و هزینه انرژی صنایع افزایش یافته است.",
-      "‏در اوت‌پراود، بیش از ۴۰٪ نیروگاه‌های زغال‌سنگی با موجودی بحرانی مواجه شدند."
-    ],
-    "body_fa": "‏موجودی زغال‌سنگ در بسیاری از نیروگاه‌های هندی به سطوح بحرانی سقوط کرده و برخی از آن‌ها کمتر از ۲۵٪ نیاز روزانه خود را دارند. این کمبود همزمان با افزایش تقاضای برق به دلیل هوای گرم و بارندگی کم که منجر به کاهش تولید آب‌برق شده است، فشار بر شبکه انرژی را افزایش داده. به‌ویژه کارخانه‌های کوچک و کارخانه‌های فولاد در ایالت چاتیس‌گار هند، روزانه ۱۰ تا ۱۲ ساعت قطع برق تجربه می‌کنند که تولیدشان را کاهش می‌دهد. ساکنان روستاهای اوت‌پراود نیز با قطعی‌های تا هفت ساعت در روز مواجه شده‌اند. به‌دلیل این قطع‌ها، صنایع مجبور به استفاده از ژنراتورهای گازسوز گران‌قیمت شده و هزینه‌های انرژی‌شان بالا رفته است. داده‌های دولت نشان می‌دهد که در پایان سپتامبر، بیش از ۴۰٪ نیروگاه‌های زغال‌سنگی با موجودی بحرانی بوده‌اند. تحلیل‌گران هشدار می‌دهند که ادامه این وضعیت می‌تواند تولید فولاد و سایر صنایع را تحت فشار قرار داده و اثرات منفی بر رشد اقتصادی هند داشته باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قطعی برق",
-    "tag": "coal",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Small-Indian-Factories-Face-Blackouts-as-Coal-Stocks-Plunge.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Small-Indian-Factories-Face-Blackouts-as-Coal-Stocks-Plunge.html",
-    "image": "https://s.yimg.com/bo/4b96c888-372d-585e-95ea-95bd95267368_1791823899613.jpg",
-    "timestamp": 1791821936.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e5a6b8c91c",
-    "title_fa": "‏سهام انرژی در سه‌ماهه سوم 2026 با رشد ۱۶٫۵٪ پرش کرد",
-    "title_en": "Energy Stocks Soared in Q3 as Fuel Markets Tightened | OilPrice.com",
-    "summary": [
-      "‏سهام بخش انرژی در Q3 2026 با افزایش ۱۶.۵٪ نسبت به سایر بخش‌ها پیشی گرفت.",
-      "‏رشد اصلی به دلیل حاشیه‌های بالای پالایش‌گری بود که با کمبود محصولات نهایی، به‌ویژه دیزل، افزایش یافت.",
-      "‏پالایشگرهای بزرگ مانند Marathon Petroleum ، Phillips 66 و Valero Energy بازدهی بیش از ۵۰٪ ثبت کردند."
-    ],
-    "body_fa": "‏بخش انرژی در سه‌ماهه سوم 2026 با رشد ۱۶.۵٪، که بسیار بالاتر از بازده ۲٪ شاخص S&P 500 بود، به‌سرعت بازگشت. این افزایش به‌طور خاص توسط شرکت‌های پالایش‌گری هدایت شد؛ سه پالایشگر بزرگ مستقل Marathon Petroleum ، Phillips 66 و Valero Energy به‌ترتیب ۵۵.۱٪، ۵۱.۸٪ و ۴۹.۴٪ بازده کسب کردند. به‌طور کلی، شرکت‌های پالایش‌گری متوسط نیز بازدهی بین ۵۰ تا ۸۶٪ را تجربه کردند، در حالی که شرکت‌های یکپارچه نفتی حدود ۲۰٪ و شرکت‌های اکتشاف‑تولید حدود ۱۳٪ رشد داشتند. دلیل اصلی این عملکرد قوی، گسترش حاشیه‌های پالایش (crack spreads) بود که به‌دلیل اختلالات در ظرفیت پالایش روسیه و خاورمیانه و کمبود دیزل، به سطوح تاریخی رسید. علاوه بر این، پالایش‌کنندگان آمریکایی برای تأمین تقاضای بالا به‌کارگیری ظرفیت نزدیک به حداکثر را افزایش دادند. این روند نشان می‌دهد که محدودیت‌های تولید محصولات نهایی، نه فقط عرضه نفت خام، می‌تواند بازار انرژی را تحت تأثیر قرار دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "بازده سهام انرژی",
-    "tag": "پالایش",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/Energy-Stocks-Soared-in-Q3-as-Fuel-Markets-Tightened.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/Energy-Stocks-Soared-in-Q3-as-Fuel-Markets-Tightened.html",
-    "image": "https://s.yimg.com/bo/b2a7e0d6-69f6-5510-ae42-d06081da2559_1791822027491.jpg",
-    "timestamp": 1791821936.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bf8c75ceb5",
-    "title_fa": "‏نیویورک تایمز و اکونومیست به ائتلاف ناشران هوش مصنوعی پیوستند",
-    "title_en": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
-    "summary": [
-      "‏نیویورک تایمز، اکونومیست و بیش از ۴۰ ناشر دیگر در ائتلافی برای جلوگیری از استفاده رایگان محتوا توسط شرکت‌های هوش مصنوعی شرکت کردند.",
-      "‏این اقدام هدف دارد تا از استخراج و آموزش مدل‌های هوش مصنوعی بدون پرداخت حق‌الکپی جلوگیری کند.",
-      "‏همراه با حمایت اتحادیه‌ ناشران اروپا، این ائتلاف فشار بین‌المللی بر شرکت‌های AI را تقویت می‌کند."
-    ],
-    "body_fa": "‏در روز دوشنبه، نیویورک تایمز (NYT.N) و مجله اکونومیست به ائتلافی که بیش از چهل ناشر در آن حضور دارند، پیوستند. این ائتلاف با هدف جلوگیری از استفاده رایگان محتواهای تحت حق‌الکپی توسط شرکت‌های هوش مصنوعی شکل گرفته است. اعضای ائتلاف می‌خواهند قوانین واضحی برای پرداخت حق‌الکپی به ناشران هنگام استفاده از مقالات و داده‌هایشان در آموزش مدل‌های زبانی ایجاد کنند. این حرکت پس از انتقادات گسترده صنعت رسانه نسبت به استخراج داده‌هایشان بدون جبران مالی صورت می‌گیرد. اعضای ائتلاف امیدوارند فشار عمومی و قانونی بتواند شرکت‌های بزرگ فناوری را وادار به مذاکرات منصفانه کند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "کپی‌رایت",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/nyt-economist-among-publishers-joining-coalition-curb-unpaid-ai-use-2026-10-12/",
-    "clean_url": "https://www.reuters.com/legal/litigation/nyt-economist-among-publishers-joining-coalition-curb-unpaid-ai-use-2026-10-12",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791821160.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c518733bf6",
-    "title_fa": "‏مصر عملیات استخراج طلا در صحرای شرقی را اجرا کرد",
-    "title_en": "Africa’s most powerful military launches crackdown on illegal prospecting of Eastern desert gold in a North African nation",
-    "summary": [
-      "‏نیروهای نظامی و پلیس مصر فاز سوم مبارزه با استخراج غیرقانونی طلا در صحرای شرقی را آغاز کردند.",
-      "‏این اقدام برای حفظ حاکمیت ملی و جلوگیری از خروج منابع طبیعی مهم مانند طلا انجام می‌شود.",
-      "‏در پی گزارش‌های حملات هوایی نزدیک مرز جنوب، سوداگران غیرقانونی کشته یا زخمی شدند."
-    ],
-    "body_fa": "‏نیروهای نظامی و پلیس مصر فاز سوم عملیات خود را برای مهار استخراج غیرقانونی طلا در صحرای شرقی آغاز کردند. پیش از شروع، بروشورهای هشداردهنده در مناطق هدف پخش شد تا ساکنان از خطرات احتمالی آگاه شوند. این اقدام بخشی از تلاش گسترده‌تر دولت برای تأکید بر حاکمیت کامل بر سرزمین و حفاظت از منابع طبیعی کشور است. گزارش‌ها حاکی از وقوع حملات هوایی نزدیک مرز جنوب است که منجر به کشته یا زخمی شدن معدن‌کاران غیرقانونی شد و سودان درخواست تحقیق رسمی کرده است. مقامات مصر تأکید کردند روابط صلح‌آمیز با سودان پابرجاست و مردم را به استفاده از منابع خبری رسمی و دوری از شایعات فراخوانده‌اند.",
-    "category": "انرژی و کالا",
-    "subcategory": "استخراج طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Business Insider Africa",
-    "url": "https://africa.businessinsider.com/local/markets/africas-most-powerful-military-launches-crackdown-on-illegal-prospecting-of-desert/w122t0b",
-    "clean_url": "https://africa.businessinsider.com/local/markets/africas-most-powerful-military-launches-crackdown-on-illegal-prospecting-of-desert/w122t0b",
-    "image": "https://ocdn.eu/pulscms-transforms/1/ljbktkpTURBXy9jNWFjZDkwOGVmM2M0ZWEwZDQyNmFiN2EyYjFhNGUxMS5qcGeSlQMAAM0EAM0CQJMFzQSwzQJ2",
-    "timestamp": 1791816060.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "991fc5b4b7",
-    "title_fa": "‏آلبرتسونز برای معامله ناکام کروگر 9 میلیارد دلار می‌خواهد",
-    "title_en": "Albertsons Seeks More Than $9 Billion for Busted Kroger Deal",
-    "summary": [
-      "‏آلبرتسونز اعلام کرد برای خریدی که با کروگر به مشکل خورده بیش از 9 میلیارد دلار طلب می‌کند.",
-      "‏این درخواست می‌تواند فشار بیشتری بر مذاکرات فروش دارایی‌های کروگر وارد کند و ارزش بازار خرده‌فروشی را تحت تأثیر قرار دهد.",
-      "‏اگر توافق نشود، ممکن است فروش به قیمت پایین‌تری انجام شود."
-    ],
-    "body_fa": "‏آلبرتسونز اعلام کرد که برای معامله‌ای که با کروگر به مشکل خورده بیش از 9 میلیارد دلار طلب می‌کند. این مبلغ شامل هزینه‌های قانونی، خسارت‌های احتمالی و ارزش دارایی‌های مورد توافق است. معامله‌ای که پیش از این برای ترکیب دو غول خرده‌فروشی برنامه‌ریزی شده بود، به دلیل مخالفت‌های نظارتی و اختلافات مالی متوقف شد. درخواست آلبرتسونز می‌تواند مذاکرات فروش بخش‌های مختلف کروگر را تحت فشار قرار دهد و قیمت نهایی را کاهش دهد. تحلیل‌گران پیش‌بینی می‌کنند این وضعیت ممکن است نوسان قابل توجهی در سهام هر دو شرکت ایجاد کند و بر چشم‌انداز کلی خرده‌فروشی در ایالات متحده تأثیر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ادغام و تملک",
-    "tag": "Albertsons",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/albertsons-seeks-more-than-9-billion-over-busted-kroger-deal",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-12/albertsons-seeks-more-than-9-billion-over-busted-kroger-deal",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791815280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "26be95749f",
-    "title_fa": "‏Applied Materials فروش خود را با هوش مصنوعی دو برابر می‌کند",
-    "title_en": "Applied Materials Will Double Sales, Not Headcount, Thanks to AI",
-    "summary": [
-      "‏Applied Materials اعلام کرد هدفش دو برابر کردن فروش است.",
-      "‏این رشد از طریق استفاده گسترده هوش مصنوعی خواهد بود، بدون افزایش نیروی کار.",
-      "‏شرکت می‌گوید این استراتژی باعث افزایش حاشیه سود می‌شود."
-    ],
-    "body_fa": "‏Applied Materials در بیانیه‌ای گفت قصد دارد فروش خود را به دلیل به‌کارگیری هوش مصنوعی در محصولات و خدماتش دو برابر کند، در حالی که تعداد کارکنان را ثابت نگه می‌دارد. این رویکرد بر پایه ارتقاء کارایی و کاهش هزینه‌های تولید استوار است و انتظار می‌رود حاشیه سود شرکت را بهبود بخشد. مدیرعامل شرکت افزود که هوش مصنوعی می‌تواند به بهینه‌سازی فرآیندهای تولید نیمه‌هادی و افزایش سرعت نوآوری کمک کند. این برنامه در چارچوب استراتژی کلی شرکت برای رشد پایدار و حفظ رقابت‌پذیری در بازار تجهیزات پیشرفته نیمه‌هادی مطرح شده است.",
-    "category": "تکنولوژی",
-    "subcategory": "شرکت‌های فناوری",
-    "tag": "Applied Materials",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/applied-materials-will-double-sales-not-headcount-thanks-to-ai",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-12/applied-materials-will-double-sales-not-headcount-thanks-to-ai",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791814020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "81812ebf23",
-    "title_fa": "‏تجارت مودی 140 میلیارد دلار به GDP هند اضافه می‌کند",
-    "title_en": "Modi’s Free Trade Push Could Lead to $140 Billion GDP Gain for India",
-    "summary": [
-      "‏دولت هند تحت رهبری مودی طرح تجارت جدیدی را پیش می‌برد که می‌تواند 140 میلیارد دلار به تولید ناخالص داخلی اضافه کند.",
-      "‏این افزایش می‌تواند رشد اقتصادی هند را تقویت کرده و نقش تجاری این کشور را در بازارهای جهانی ارتقا دهد.",
-      "‏برآوردها بر پایهٔ تحلیل‌های اقتصادی مستقل انجام شده‌اند."
-    ],
-    "body_fa": "‏دولت هندی به رهبری نریندر مودی برنامهٔ تجاری جدیدی را معرفی کرده است. طبق برآوردهای اقتصادی، این طرح می‌تواند تا 140 میلیارد دلار به تولید ناخالص داخلی (GDP) کشور اضافه کند. این مقدار معادل حدود 2 درصد رشد سالانهٔ اقتصاد هند می‌شود. اجرای موفق این سیاست می‌تواند صادرات را گسترش داده و سرمایه‌گذاری‌های خارجی را جذب کند. اما تحقق این هدف به موفقیت مذاکرات تجاری با شرکای بین‌المللی و اصلاحات داخلی وابسته است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تجارت آزاد",
-    "tag": "GDP",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/modi-s-free-trade-push-could-lead-to-140-billion-gdp-gain-for-india",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-12/modi-s-free-trade-push-could-lead-to-140-billion-gdp-gain-for-india",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791813600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a30cc677f0",
-    "title_fa": "‏هند در سپتامبر ۴٫۱ میلیارد دلار IPO جذب کرد",
-    "title_en": "Breaking Down India’s Record IPO Month: There Is More Than Meets the Eye",
-    "summary": [
-      "‏در سپتامبر 2026 ، ۳۴ شرکت هندی تقریباً ۳۹٬۳۸۰ کرور روپیه (۴٫۱ میلیارد دلار) از طریق IPO های اصلی جمع‌آوری کردند.",
-      "‏این رکورد در حالی به‌دست آمد که شاخص Nifty 50 ۱۳٪ سقوط کرده و سرمایه‌گذاران خارجی به‌جای خرید سهام موجود، به IPO های جدید متمایل شدند.",
-      "‏IPO بورس ملی (NSE) با جذب ۲۲٬۵۶۱ کرور روپیه دومین بزرگ‌ترین عرضه سال شد اما پس از لیست شدن ۴٪ کاهش یافت."
-    ],
-    "body_fa": "‏در سپتامبر 2026 ، بازار اولیه هندوستان رکورد جدیدی را با جذب حدود ۳۹٬۳۸۰ کرور روپیه (معادل ۴٫۱ میلیارد دلار) از ۳۴ شرکت ایجاد کرد. این افزایش در حالی رخ داد که شاخص Nifty 50 در سال جاری حدود ۱۳٪ کاهش داشته و بازار سهام کلی به‌نظر می‌رسد در وضعیت ضعف باشد. سرمایه‌گذاران خارجی حدود ۵۴٬۵۰۰ کرور روپیه در بازار اولیه سرمایه‌گذاری کردند اما تقریباً ۳۰۰٬۰۰۰ کرور روپیه از بازار ثانویه خارج شدند، نشان‌دهنده تمایل به حمایت از عرضه‌های جدید در حالی که سهام موجود را می‌فروشند. به گفته پراتیک لونکر، مدیرعامل بخش ECM در Axis Capital ، این رفتار نشان می‌دهد که سرمایه‌گذاران خارجی به‌دنبال IPO های بزرگ و با کیفیت هستند و در عین حال نسبت به بازار کلی محتاط‌اند. در عین حال، سرمایه‌گذاران داخلی نقش اصلی را در این رونق خرید ایفا کردند و بیش از نصف سرمایه‌گذاری‌های جدید را تشکیل دادند. بزرگ‌ترین عرضه ماه، IPO بورس ملی (NSE) با جمع‌آوری ۲۲٬۵۶۱ کرور روپیه بود که پس از لیست شدن قیمت آن تا ۴٪ کاهش یافت و حدود ۴۱٬۰۰۰ کرور روپیه ارزش بازار را از دست داد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سرمایه",
-    "tag": "IPO",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "india.entrepreneur.com",
-    "url": "https://india.entrepreneur.com/business-news/breaking-down-indias-record-ipo-month-there-is-more-than-meets-the-eye",
-    "clean_url": "https://india.entrepreneur.com/business-news/breaking-down-indias-record-ipo-month-there-is-more-than-meets-the-eye",
-    "image": "https://www.bing.com/th?id=ONUT.hPiFjd55uLKpSWRwcDGvLQ",
-    "timestamp": 1791812824.660522,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9f0a83eafc",
-    "title_fa": "‏تحریم آمریکا بر ICC حاکمیت فناوری اروپا را تقویت می‌کند",
-    "title_en": "US sanctions on the ICC strengthen the case for European tech sovereignty",
-    "summary": [
-      "‏آمریکا در 9 اکتبر 2026 تحریم‌های جدیدی علیه دادگاه کیفری بین‌المللی (ICC) اعمال کرد و دسترسی آن به سرویس‌های دیجیتال آمریکایی را قطع کرد.",
-      "‏این اقدام نگرانی‌ها دربارهٔ وابستگی اروپا به فناوری‌های آمریکایی مثل آمازون، گوگل و مایکروسافت را تشدید و فشار بر حاکمیت فناوری اروپا را افزایش می‌دهد.",
-      "‏برخی مقامات اروپایی پس از تحریم‌ها به استفاده از نرم‌افزارهای بومی مانند openDesk روی آوردند."
-    ],
-    "body_fa": "‏دولت ترامپ در 9 اکتبر 2026 تحریم‌های جدیدی علیه دادگاه کیفری بین‌المللی (ICC) اعمال کرد و دسترسی این نهاد به ایمیل، کارت‌های پرداخت، سرویس‌های ابری و ابزارهای دیجیتال آمریکایی را مسدود کرد. این تحریم‌ها باعث شد مقامات ICC از حساب‌های مایکروسافت و سایر سرویس‌های آمریکایی محروم شوند. با توجه به اینکه شرکت‌های آمازون، گوگل و مایکروسافت حدود ۷۰ درصد بازار ابری اروپا را در اختیار دارند، این اقدام نگرانی‌های اروپا دربارهٔ وابستگی به فناوری‌های آمریکایی را تشدید کرد. برخی دولت‌ها و نهادهای اروپایی پس از این تحریم‌ها به جای ابزارهای آمریکایی، به نرم‌افزارهای بومی مانند openDesk روی آوردند تا ریسک مشابه را کاهش دهند. این تحریم‌ها می‌تواند فشار جدیدی برای تقویت حاکمیت فناوری در اتحادیه اروپا ایجاد کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های آمریکا",
-    "tag": "تحریم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Cybernews",
-    "url": "https://cybernews.com/tech/icc-sanctions-europe/",
-    "clean_url": "https://cybernews.com/tech/icc-sanctions-europe",
-    "image": "https://www.bing.com/th?id=ONUT.RExIH7_6d0CKf7cnms7aUA",
-    "timestamp": 1791812690.3451607,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c463cfbd4e",
-    "title_fa": "‏بامبل در مذاکرات خرید خصوصی با ارزش یک میلیارد",
-    "title_en": "Healthcare could be AI buildout's biggest winner, says market expert",
-    "summary": [
-      "‏بامبل، برنامهٔ دوستیابی، در مذاکرات پیشرفته برای خرید خصوصی با ارزش یک میلیارد دلار است.",
-      "‏این معامله می‌تواند ساختار مالکیت شرکت را تغییر دهد و تأثیراتی بر بازار فناوری داشته باشد.",
-      "‏منبع Reuters این خبر را تأیید کرد."
-    ],
-    "body_fa": "‏شرکت دوستیابی Bumble که در بورس نیویورک فهرست شده بود، در حال مذاکره برای خرید خصوصی است. بر اساس منابعی که به Reuters اطلاع دادند، ارزش پیشنهادی برای این معامله حدود 1 میلیارد دلار است. این قیمت نسبت به ارزش بازار قبلی شرکت که چندین میلیارد دلار بود، کاهش قابل توجهی نشان می‌دهد. اگر معامله تکمیل شود، سهامداران فعلی Bumble می‌توانند سهام خود را به‌صورت نقدی بفروشند و شرکت به‌صورت خصوصی تحت مالکیت جدیدی ادامه خواهد داد. چنین تغییر ساختاری می‌تواند روند ارزیابی شرکت‌های فناوری مشابه را تحت تأثیر قرار دهد و سرمایه‌گذاران را به بازنگری در استراتژی‌های سرمایه‌گذاری سوق دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "ادغام و خرید",
-    "tag": "Bumble",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/video/watch/idRW959612102026RP1/",
-    "clean_url": "https://www.reuters.com/video/watch/idRW959612102026RP1",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791811620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "962ff80736",
-    "title_fa": "‏عرضه عمومی اولیه Dangote بازارهای سرمایه آفریقا را عمیق‌تر می‌کند",
-    "title_en": "Dangote IPO fever could deepen Africa's capital markets, Citi says",
-    "summary": [
-      "‏شرکت نایجریه‌ای Dangote برنامه‌ریزی کرده است تا IPO واحد پالایشگاهی عظیم خود را اجرا کند",
-      "‏این IPO می‌تواند حجم سرمایه‌گذاری و عمق بازارهای مالی آفریقا را به‌طور قابل‌توجهی افزایش دهد",
-      "‏بانک سرمایه‌گذاری Citi پیش‌بینی کرد که این حرکت جذب سرمایه‌گذاران بین‌المللی را تسریع می‌کند"
-    ],
-    "body_fa": "‏شرکت نایجریه‌ای Dangote برنامه‌ریزی کرده است تا یک عرضه عمومی اولیه (IPO) برای واحد پالایشگاهی عظیم خود برگزار کند. این طرح سرمایه‌گذاری حدود 22 میلیارد دلار را در بر می‌گیرد و هدف جذب سرمایه‌گذاران داخلی و خارجی است. تحلیل‌گران Citi معتقدند این IPO می‌تواند نقدینگی و عمق بازارهای سرمایه در سراسر قاره آفریقا را بهبود بخشد. افزایش فعالیت‌های بورسی می‌تواند فرصت‌های جدیدی برای شرکت‌های منطقه‌ای فراهم کند و به‌ویژه در بخش‌های زیرساختی و انرژی اثرگذار باشد. در صورت موفقیت، این رویداد می‌تواند الگوی دیگری برای شرکت‌های بزرگ آفریقایی در جذب سرمایه‌های بین‌المللی باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سرمایه",
-    "tag": "Dangote",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/dangote-ipo-fever-could-deepen-africas-capital-markets-citi-says-2026-10-12/",
-    "clean_url": "https://www.reuters.com/world/africa/dangote-ipo-fever-could-deepen-africas-capital-markets-citi-says-2026-10-12",
-    "image": "https://s.yimg.com/bo/18d17868-bfc0-5aa1-9d91-8322250ec184_1791812597361.jpg",
-    "timestamp": 1791811135.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "210d081732",
-    "title_fa": "‏سهم بازار گوشی‌های هوشمند Apple افزایش یافت",
-    "title_en": "Apple gains smartphone share as stock nears record high",
-    "summary": [
-      "‏افزایش سهم شرکت Apple در بازار گوشی‌های هوشمند ارزش سهام این غول فناوری را به نزدیکی سقف تاریخی رساند.",
-      "‏بانک JPMorgan هدف قیمتی سهام این شرکت را به دلیل چشم‌انداز مثبت افزایش داده است.",
-      "‏توسعه محصولات خانه هوشمند با ادغام هوش مصنوعی Siri از دلایل این رشد به شمار می‌رود."
-    ],
-    "body_fa": "‏سهام شرکت Apple هم‌زمان با رشد سهم این شرکت در بازار جهانی گوشی‌های هوشمند، به نزدیکی رکورد تاریخی خود رسیده است. کارشناسان بانک JPMorgan با اشاره به عملکرد قوی این شرکت، قیمت هدف سهام آن را افزایش دادند. این روند صعودی تحت تاثیر استقبال از محصولات جدید و تقویت موقعیت رقابتی شرکت شکل گرفته است. شرکت Apple علاوه بر بازار موبایل، در حال گسترش حضور خود در حوزه دستگاه‌های خانه هوشمند با استفاده از توانایی‌های هوش مصنوعی دستیار صوتی Siri است. تحلیل‌گران بازار انتظار دارند این نوآوری‌ها جریان‌های درآمدی تازه‌ای برای این غول فناوری ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "بازار گوشی‌های هوشمند",
-    "tag": "Apple",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/video/2026/10/12/apple-gains-smartphone-share-as-stock-nears-record-high.html",
-    "clean_url": "https://www.cnbc.com/video/2026/10/12/apple-gains-smartphone-share-as-stock-nears-record-high.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108399816-17918356441791835642-48958745361-1080pnbcnews.jpg?v=1791835643&w=1920&h=1080",
-    "timestamp": 1791810540.0,
     "sent_to_telegram": true
   }
 ]
