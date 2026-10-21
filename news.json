@@ -176,6 +176,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2c6c1aae20",
+    "title_fa": "‏روسیه در پی تعلیق تحریم‌ها توسط Trump معلم آمریکایی را آزاد کرد",
+    "title_en": "Russia Releases US Teacher After Trump Freezes Sanctions",
+    "summary": [
+      "‏دولت روسیه یک معلم بازداشت‌شده آمریکایی را پس از تعلیق تحریم‌ها توسط Donald Trump آزاد کرد.",
+      "‏این اقدام در راستای نرمش دیپلماتیک و کاهش تنش‌ها میان واشنگتن و مسکو انجام شد.",
+      "‏تعلیق تحریم‌ها نشانه رویکرد جدید دولت Donald Trump در قبال مذاکره با روسیه است."
+    ],
+    "body_fa": "‏دولت روسیه یک شهروند و معلم آمریکایی را که در این کشور زندانی بود آزاد کرد. این اقدام بلافاصله پس از آن صورت گرفت که Donald Trump روند اعمال برخی از تحریم‌ها علیه مسکو را به حالت تعلیق درآورد. آزادی این تبعه آمریکایی نشانه‌ای از آغاز گفتگوهای عمل‌گرایانه میان کاخ سفید و کرملین برای کاهش تنش‌های دوجانبه به شمار می‌رود. ناظران بین‌المللی این مبادله دیپلماتیک را نخستین گام ملموس در بازتنظیم مناسبات واشنگتن و مسکو در دوره ریاست‌جمهوری جدید آمریکا ارزیابی می‌کنند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "روابط روسیه و آمریکا",
+    "tag": "تحریم روسیه",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-21/russia-frees-us-teacher-during-witkoff-talks-after-trump-appeal",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-21/russia-frees-us-teacher-during-witkoff-talks-after-trump-appeal",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792560120.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b4d2c86f8c",
     "title_fa": "‏شکسته شدن کلیدهای امنیتی شرکت eMudhra اینترنت را به خطر انداخت",
     "title_en": "Internet panics after 8 eMudhra private keys get cracked",
@@ -195,6 +217,28 @@
     "clean_url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
     "image": "https://s.yimg.com/bo/bdbc9d4c-f719-552e-beb8-fd94d561f554_1792557133423.jpg",
     "timestamp": 1792557339.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "af618cf089",
+    "title_fa": "‏سازمان OCC مقررات جدید پاداش استیبل‌کوین‌ها را نهایی کرد",
+    "title_en": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+    "summary": [
+      "‏دفتر کنترل ارز آمریکا اولین نهادی شد که قوانین نهایی استیبل‌کوین‌ها را ذیل قانون GENIUS تصویب کرد.",
+      "‏صرافی‌های کریپتو برای ادامه برنامه‌های پرداخت سود و پاداش استیبل‌کوین باید مجوزهای جدید نظارتی دریافت کنند.",
+      "‏نهاد OCC اعلام کرد هیچ امتیاز ویژه‌ای برای برنامه‌های پاداش فعلی در نظر گرفته نخواهد شد."
+    ],
+    "body_fa": "‏دفتر کنترل ارز آمریکا موسوم به OCC به عنوان نخستین نهاد ناظر بانکی فدرال، مقررات نهایی مربوط به اجرای قانون GENIUS را برای ناشران استیبل‌کوین منتشر کرد. این قوانین تازه نحوه فعالیت شرکت‌های صادرکننده توکن‌های دلاری و روابط کاری آن‌ها با صرافی‌ها را مشخص می‌کند. بر اساس این مصوبه، صرافی‌هایی که تاکنون به کاربران بابت نگهداری یا استفاده از استیبل‌کوین پاداش می‌دادند، باید برنامه‌های خود را به تایید این نهاد برسانند. نهاد OCC تاکید کرده است که برنامه‌های پاداش فعلی مشمول هیچ استثنایی نمی‌شوند و همگی باید از نو ارزیابی شوند تا مشخص شود با ممنوعیت‌های قانونی پرداخت سود استیبل‌کوین مغایرت دارند یا خیر.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "استیبل‌کوین",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+    "clean_url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c09fd387e07e818d3495ad2fd02c4cd3d460094-6000x3376.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1792555140.0,
     "sent_to_telegram": true
   },
   {
@@ -6553,50 +6597,6 @@
     "clean_url": "https://www.cnbc.com/video/2026/10/12/apple-gains-smartphone-share-as-stock-nears-record-high.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108399816-17918356441791835642-48958745361-1080pnbcnews.jpg?v=1791835643&w=1920&h=1080",
     "timestamp": 1791810540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f5a73b4cae",
-    "title_fa": "‏بازده ۱۰‑ساله آمریکا به بالاترین دهه رسید؛ فرصت بازگشت A‑Share",
-    "title_en": "Global Liquidity Inflection Point Confirmed: U.S. Treasury Yields Surge, A-Share Short-Term Rebound Window Emerges",
-    "summary": [
-      "‏بازده اوراق ۱۰‑ساله آمریکا به 5.24‑5.31 ٪ رسید، بالاترین سطح در بیش از دو دهه",
-      "‏این افزایش نشانگر نقطه عطف نقدینگی جهانی است و فشار بر دارایی‌های پرخطر را تقویت می‌کند",
-      "‏تحلیل‌گران پیش‌بینی می‌کنند بازده‌های بالاتر می‌تواند پنجره کوتاه‌مدت برای بازگشت سهام A‑Share چین ایجاد کند"
-    ],
-    "body_fa": "‏داده‌های اخیر نشان می‌دهد که جریان‌های نقدینگی جهانی در اواخر 2025 به اوج رسیده و از آن پس به کاهش ادامه داده‌اند، در حالی که کل نقدینگی حدود 196.6 تریلیون دلار باقی مانده است. در همین دوره، بازده اوراق ۱۰‑ساله خزانه‌داری آمریکا به بازه 5.24 ٪ تا 5.31 ٪ صعود کرده که بالاترین سطح در بیش از دو دهه است و فشار بر دارایی‌های پرخطر را افزایشت می‌دهد. تحلیل‌گران این نقطه عطف را نتیجهٔ یک چرخه بازپرداخت با سررسید متوسط پنج تا شش سال می‌دانند که باعث انتقال سرمایه از بخش مالی به بخش واقعی می‌شود. این انتقال منجر به «تنگ‌نقش» نقدینگی در بازارهای مالی می‌شود و پیش‌بینی می‌شود که حدود نه ماه پس از اوج نقدینگی، رشد واقعی اقتصاد تسریع یابد و تصحیحی در بازار سهام رخ دهد. به‌ویژه در چین، این فشار می‌تواند یک پنجره کوتاه‌مدت برای بازگشت سهام A‑Share ایجاد کند، چرا که سرمایه‌گذاران به دنبال فرصت‌های ارزش‌گذاری مجدد هستند. در مجموع، افزایش بازده‌های بلندمدت بیشتر ناشی از رشد سریع تولید ناخالص داخلی اسمی است تا اضطراب بدهی، که نشانگر یک دورهٔ تورم‌پذیری و سیاست‌های پولی سختگیرانه‌تر می‌باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نقدینگی جهانی",
-    "tag": "نقدینگی",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "finance.biggo",
-    "url": "https://finance.biggo.com/news/71e78e5c-0aee-45f5-8e0f-81c141a940f2",
-    "clean_url": "https://finance.biggo.com/news/71e78e5c-0aee-45f5-8e0f-81c141a940f2",
-    "image": "https://img.biggo.com/y1f2sofec4skL2NkYwxjDbqUGhzBWQ4Yc9JelhwljK0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMTAvNzFlNzhlNWMtMGFlZS00NWY1LThlMGYtODFjMTQxYTk0MGYyXzE3OTE4MDg2ODBfZGVmYXVsdC53ZWJw.jpg",
-    "timestamp": 1791808440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1b6e68aabe",
-    "title_fa": "‏Ledger هک شد؛ ۹۳ میلیون سرقت، ۱۰ میلیون USDT مسدود",
-    "title_en": "Tether freezes $10M in USDT linked to $93M CryptoBilis Ledger exploit",
-    "summary": [
-      "‏حدود ۹۳ میلیون دلار از کیف‌پول‌های متصل به دستگاه‌های Ledger که توسط فروشنده CryptoBilis فروخته شده بود، سرقت شد.",
-      "‏این سرقت بزرگ باعث شد Tether ۱۰ میلیون دلار USDT مرتبط را مسدود کند و نگرانی‌ها درباره امنیت کیف‌پول‌های سخت‌افزاری را تشدید کرد.",
-      "‏Ledger یک ایمپلنت سخت‌افزاری غیرمجاز را در حداقل یک دستگاه کشف کرد و کاربران را به تعویض دستگاه و عبارت بازیابی جدید دعوت کرد."
-    ],
-    "body_fa": "‏تحقیقات نشان می‌دهد حدود ۹۳ تا ۹۴٫۵ میلیون دلار از کیف‌پول‌های متصل به دستگاه‌های Ledger که توسط فروشندهٔ آسیای جنوب‑شرقی CryptoBilis عرضه شده بود، توسط هکرها به سرقت رفته است. شرکت Ledger یک ایمپلنت سخت‌افزاری غیرمجاز را در حداقل یک دستگاه کشف کرده و اعلام کرد که تحقیقات هنوز ادامه دارد. در واکنش به سرقت، صرافی Tether ۱۰ میلیون دلار USDT مرتبط با این تراکنش‌ها را مسدود کرد؛ این اقدام نشان می‌دهد استیبل‌کوین‌ها می‌توانند توکن‌های مشکوک را بلاک کنند. تحلیل‌گران بلاکچین می‌گویند حدود ۸۱ میلیون دلار هنوز روی زنجیره قابل ردیابی است و برخی وجوه از طریق Tornado Cash و Zcash منتقل شده‌اند. Ledger کاربران CryptoBilis را توصیه کرد که دستگاه‌های استفاده‌نشده را فعال نکنند و دارایی‌های خود را به دستگاه جدید با عبارت بازیابی تازه منتقل کنند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "سرقت کیف‌پول",
-    "tag": "Ledger",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-    "clean_url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-    "image": "https://s.yimg.com/bo/1c7d8598-12c0-5e26-ba7e-b5f3dbebdad9_1791807859370.jpg",
-    "timestamp": 1791808305.0,
     "sent_to_telegram": true
   }
 ]
