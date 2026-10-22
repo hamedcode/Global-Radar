@@ -1,5 +1,159 @@
 [
   {
+    "id": "0c5c7a791b",
+    "title_fa": "‏سهم Meta پس از سقوط 7 ٪ به دلیل AI",
+    "title_en": "A lesson from poker tells us not to fold on Meta after its earnings sell-off. Here’s why",
+    "summary": [
+      "‏سهم‌های Meta پس از گزارش سود سه ماهه با کاهش 7 ٪ معامله شدند",
+      "‏تحلیل‌گران نگران هزینه‌های هوش مصنوعی و احتمال انتشار سهام کلاس C هستند",
+      "‏اگر این سهام منتشر شود، سود هر سهم ممکن است رقیق شود"
+    ],
+    "body_fa": "‏متا نتایج قوی سه ماهه خود را اعلام کرد اما نگرانی‌ها درباره هزینه‌های هوش مصنوعی باعث سقوط 7 ٪ سهام شد. شرکت قصد دارد سهام جدید کلاس C بدون حق رأی ایجاد کند که می‌تواند برای سهامداران فعلی رقیق‌سازی مالی ایجاد کند. سندهای امنیتی نشان می‌دهد این اقدام ممکن است برای تأمین مالی زیرساخت‌های AI در سال‌های آینده استفاده شود. در عین حال، جریان نقدی آزاد در سه ماهه سوم به منفی رفت و این فشار مالی را افزوده است. با این وجود، بخش اصلی کسب‌وکار متا همچنان رشد قوی دارد و ارزش‌گذاری فعلی سهام نسبت به توانایی‌های آینده‌اش ارزان به نظر می‌رسد، که برای خریداران فرصت ایجاد می‌کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تحلیل سهام فناوری",
+    "tag": "Meta",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/22/meta-stock-why-were-staying-bullish-after-the-post-earnings-sell-off.html",
+    "clean_url": "https://www.cnbc.com/investingclub/2026/10/22/meta-stock-why-were-staying-bullish-after-the-post-earnings-sell-off.html",
+    "image": "https://www.bing.com/th?id=ONUT.RZ78yDSQ7pUWa1y8r1FIvA",
+    "timestamp": 1792702717.7734513,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a5546d7447",
+    "title_fa": "‏Newmont سود سه‌ماهه را با قیمت بالای طلا افزایش داد",
+    "title_en": "Newmont beats quarterly profit estimates on higher gold prices",
+    "summary": [
+      "‏شرکت Newmont در سه‌ماهه سوم سودی بالاتر از پیش‌بینی تحلیلگران ثبت کرد.",
+      "‏این افزایش به دلیل رشد قیمت جهانی طلا حاصل شد و می‌تواند بازار طلا و سهام استخراج‌کنندگان را تحت تأثیر قرار دهد.",
+      "‏همچنین شرکت پیش‌بینی کرد که سود سالانه در سال آینده نیز در سطح بالا باقی بماند."
+    ],
+    "body_fa": "‏شرکت Newmont ، بزرگ‌ترین استخراج‌کننده طلا در جهان، نتایج مالی سه‌ماهه سوم را منتشر کرد و اعلام کرد که سود خالص این دوره بالاتر از انتظار تحلیلگران بوده است. این عملکرد مثبت به‌دلیل افزایش قیمت طلا در بازارهای جهانی حاصل شد. درآمد شرکت نیز به‌دلیل فروش بیشتر طلا رشد کرد، اگرچه هزینه‌های عملیاتی ثابت ماند. Newmont علاوه بر این، پیش‌بینی کرد که سود سالانه در سال آینده نیز در سطحی مشابه یا بالاتر باقی بماند و برنامه‌های سرمایه‌گذاری در پروژه‌های جدید را ادامه دهد. این نتایج می‌تواند فشار خرید بر طلا را تقویت کند و واکنش مثبت سرمایه‌گذاران به سهام شرکت‌های استخراج طلا ایجاد کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "استخراج طلا",
+    "tag": "Newmont",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/newmont-beats-quarterly-profit-estimates-higher-gold-prices-2026-10-22/",
+    "clean_url": "https://www.reuters.com/business/newmont-beats-quarterly-profit-estimates-higher-gold-prices-2026-10-22",
+    "image": "https://s.yimg.com/bo/e3d831aa-c37e-563f-b28f-71c9738f991a_1792701997506.jpg",
+    "timestamp": 1792701240.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "df42a3a8fe",
+    "title_fa": "‏سهام Moderna پس از افشای داده‌های واکسن سرطان ۲۵٪ سقوط کرد",
+    "title_en": "Moderna shares plunge after leak of partial cancer vaccine data despite positive...",
+    "summary": [
+      "‏سهام Moderna تا ۲۵٪ در یک روز پس از افشای داده‌های جزئی واکسن سرطان کاهش یافت",
+      "‏داده‌ها نشان داد ترکیب واکسن با Keytruda خطر عود یا مرگ را ۴۲٪ کاهش می‌دهد، که می‌تواند درمان‌های نوین سرطان را شکل دهد",
+      "‏تحلیل‌گران گفتند واکنش شدید بازار ناشی از انتظارات بیش از حد است"
+    ],
+    "body_fa": "‏در روز پنجشنبه، پس از انتشار بخشی از نتایج فاز ۳ واکسن شخصی‌سازی‌شده سرطان شرکت Moderna که با Merck همکاری می‌کند، سهام این شرکت تا ۲۵٪ سقوط کرد. داده‌های کامل که بعداً منتشر شد، نشان داد ترکیب این واکسن به نام intismeran autogene با داروی ایمونوتراپی Keytruda خطر عود یا مرگ در بیماران ملانوما را ۴۲٪ و خطر گسترش به نقاط دوردست یا مرگ را ۳۸٪ نسبت به Keytruda تنها کاهش می‌دهد. همچنین ۸۲٪ بیماران دریافت‌کننده ترکیب، دو سال پس از درمان بدون عود بیماری باقی ماندند، در مقابل ۷۰٪ در گروه کنترل. اگرچه نتایج مثبت هستند، تحلیل‌گران معتقدند سقوط شدید سهام ناشی از انتظارات بیش از حد سرمایه‌گذاران نسبت به داده‌های اولیه بوده است. این واکسن می‌تواند مسیر درمان‌های هدفمند در سایر انواع سرطان‌ها را باز کند و برای Moderna منبع درآمد مهمی پس از واکسن‌های کووید‑۱۹، آنفولانزا و RSV باشد. سهام Merck نیز حدود ۱٪ کاهش یافت، در حالی که این شرکت تا کنون سال جاری ۴۱٪ رشد داشته است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سهام دارویی",
+    "tag": "Moderna",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+    "clean_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+    "image": "https://s.yimg.com/bo/33ce627d-9743-5d1f-b637-104f22fceddd_1792694738541.jpg",
+    "timestamp": 1792695061.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9162dfa46a",
+    "title_fa": "‏دادخواست علیه ترامپ به‌خاطر سودهای غیرقانونی کریپتو",
+    "title_en": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    "summary": [
+      "‏یک دادخواست فدرال ادعا می‌کند ترامپ و شرکت خانوادگی‌اش بیش از ۲ میلیارد دلار از معاملات کریپتو با امارات دریافت کرده‌اند.",
+      "‏این پرونده می‌تواند فشار سیاسی و نظارتی بر بازارهای دیجیتال را افزایش دهد.",
+      "‏دعوا شامل خرید ۴۹٪ سهام World Liberty به‌قیمت ۵۰۰ میلیون دلار و خرید ۲ میلیارد دلار استیبل‌کوین است."
+    ],
+    "body_fa": "‏یک دادخواست فدرال در دادگاه ایالات متحده واشنگتن علیه دونالد ترامپ و شرکت خانوادگی‌اش World Liberty Financial تنظیم شد. شاکی، جِی بنجامین گرینبرگ، سهامدار سابق Circle Internet Group ، ادعا می‌کند این شرکت بیش از ۲ میلیارد دلار از معاملات مرتبط با ارزهای دیجیتال با امارات دریافت کرده که نقض بند امولمنت‌های خارجی قانون اساسی است. به‌طور خاص، یک سرمایه‌گذاری تحت حمایت شیخ طاهنون بن زاید آل‌نهایی، ۴۹٪ سهام World Liberty را به‌قیمت ۵۰۰ میلیون دلار خرید و پس از آغاز ریاست‌جمهوری ترامپ، او به‌صورت غیرمستقیم میلیون‌ها دلار دریافت کرد. علاوه بر آن، همان صندوق سرمایه‌گذاری در سال گذشته ۲ میلیارد دلار استیبل‌کوین USD1 شرکت را خریداری کرده تا ارزش دارایی‌های ترامپ را افزایش دهد. وکیل شاکی می‌گوید هدف دعوا، متوقف کردن این فساد و بازگرداندن سودها به مالیات‌گذاران آمریکایی است. در حالی که کاخ سفید ادعا می‌کند هیچ تضاد منافع وجود ندارد، این پرونده می‌تواند نظارت بر فعالیت‌های کریپتو و روابط بین‌المللی را تشدید کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قضایای مالی",
+    "tag": "امولمنت",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+    "clean_url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+    "image": "https://s.yimg.com/bo/f38ea5cd-1982-587c-8e71-8f73a7640354_1792688721741.jpg",
+    "timestamp": 1792687861.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "14a1af7a83",
+    "title_fa": "‏بانک مرکزی ایرلند به Coinbase 3.25 میلیون یورو جریمه کرد",
+    "title_en": "Central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+    "summary": [
+      "‏بانک مرکزی ایرلند به Coinbase Ireland 3.25 میلیون یورو جریمه کرد",
+      "‏جریمه به دلیل نقص در حفاظت از وجوه مشتریان و وابستگی بیش از حد به شرکت مادر آمریکا است",
+      "‏خطاهای کدگذاری باعث کمبود 0.54 ٪ در حساب حفاظتی در 2023 و نیمه اول 2024 شد"
+    ],
+    "body_fa": "‏بانک مرکزی ایرلند (CBI) روز پنجشنبه اعلام کرد که به Coinbase Ireland 3.25 میلیون یورو (معادل 3.6 میلیون دلار) جریمه اعمال کرده است. این جریمه به دلیل عدم رعایت الزامات حفاظت از وجوه مشتریان و عدم داشتن چارچوب مناسب برای مدیریت خدمات برون‌سپاری صادر شد. نهاد نظارتی اشاره کرد که Coinbase Ireland به‌طور بیش از حد به شرکت مادر خود در ایالات متحده به عنوان ارائه‌دهنده خدمات وابسته بوده و سیستم‌ها و کنترل‌های کافی برای اطمینان از تأمین مالی حساب حفاظتی نداشته است. شرکت Coinbase نیز اعلام کرد که خطاهای کدگذاری منجر به کمبود متوسط 0.54 ٪ در حساب حفاظتی در سال 2023 و نیمه اول 2024 شد، اما هیچ مشتری‌ایی خسارت مالی نداشته یا دسترسی به وجوه خود را از دست نداده است. این جریمه پس از جریمه 21.4 میلیون یورویی که در سال 2025 به Coinbase Europe برای نقص در مبارزه با پولشویی اعمال شد، می‌آید. این اقدام نظارتی می‌تواند فشار بیشتری بر صرافی‌های رمزارزی برای بهبود ساختارهای حفاظتی و شفافیت مالی ایجاد کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "جریمه نظارتی",
+    "tag": "Coinbase",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+    "clean_url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+    "image": "https://s.yimg.com/bo/a19ab341-d3f7-5d37-900b-a6ed50b83bfa_1791643041558.jpg",
+    "timestamp": 1792684261.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a0bdfbdfc5",
+    "title_fa": "‏Fireblocks خرید توسط Visa را رد کرد",
+    "title_en": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+    "summary": [
+      "‏Fireblocks گفت شایعه خرید توسط Visa نادرست است.",
+      "‏این خبر به دلیل ارزش پیشنهادی 2.5 میلیارد دلاری و تأثیر احتمالی بر بازار کریپتو اهمیت دارد.",
+      "‏Fireblocks در 2022 با جذب 550 میلیون دلار به ارزش 8 میلیارد دلاری ارزیابی شد."
+    ],
+    "body_fa": "‏Fireblocks اعلام کرد شایعه‌ای مبنی بر مذاکرات خرید توسط Visa نادرست است و هیچ توافقی وجود ندارد. این شایعه توسط Axios با استناد به منابع ناشناس منتشر شد، اما شرکت فوراً آن را رد کرد. در سال 2022 این شرکت 550 میلیون دلار جذب سرمایه کرد و به ارزش 8 میلیارد دلار ارزیابی شد، در حالی که پیشنهاد خرید 2.5 میلیارد دلاری می‌توانست ارزش آن را به‌طور قابل‌توجهی کاهش دهد. همچنین شایعاتی درباره خرید Fireblocks توسط Coinbase نیز مطرح شد که این شرکت نیز رد کرد. Visa هنوز نظری در این باره نداده است. این رد شایعه می‌تواند نوسانات کوتاه‌مدت در بازارهای کریپتو را محدود کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ادغام و تملک",
+    "tag": "Fireblocks",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+    "clean_url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+    "image": "https://s.yimg.com/bo/1e0c614b-0cb3-5de6-b233-7550f87b3ad2_1792680816695.jpg",
+    "timestamp": 1792680661.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7bef755b21",
+    "title_fa": "‏استیبل‌کوین‌ها به‌سرعت در پرداخت‌های شرکتی جای می‌گیرند",
+    "title_en": "Crypto for Advisors: Stablecoins are ready for prime time",
+    "summary": [
+      "‏۱۸٪ شرکت‌ها استیبل‌کوین را در تولید به کار بردند، دو برابر سهم سال قبل.",
+      "‏این نشان می‌دهد بازار از آزمایش به اجرای واقعی می‌رسد و پرداخت‌های بین‌المللی را تسریع می‌کند.",
+      "‏۶۹٪ بانک‌ها قصد دارند خدمات استیبل‌کوین را در دو سال آینده ارائه دهند."
+    ],
+    "body_fa": "‏نظرسنجی 2026 EY‑Parthenon که ۵۲۱ تصمیم‌گیرنده مالی و شرکتی را شامل می‌شود، نشان می‌دهد ۱۸٪ شرکت‌ها استیبل‌کوین را در تولید به کار برده‌اند، دو برابر درصد سال قبل. توکن‌سازی سپرده‌ها نیز با ۱۵٪ پذیرش در حال رشد است. در مجموع ۶۹٪ بانک‌ها یا خدمات استیبل‌کوین ارائه می‌دهند یا قصد راه‌اندازی آن را در دو سال آینده دارند؛ ۴۹٪ نیز توکن‌سازی سپرده‌ها را برنامه‌ریزی کرده‌اند. بیشترین استفاده برای پرداخت‌های بین‌المللی B2B است که ۵۰‑۵۳٪ پاسخ‌دهندگان به این کاربرد پرداخته‌اند. دلایل اصلی این گرایش شامل سرعت پردازش، هزینه‌های کمتر ارزی و کاهش هزینه‌های بانکی واسطه‌ای است. این تحولات نشان می‌دهد بازار پرداخت‌های بلاکچینی از مرحله آزمایشی به یکپارچه‌سازی واقعی در زنجیره‌های مالی می‌رسد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پذیرش استیبل‌کوین",
+    "tag": "stablecoins",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+    "clean_url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+    "image": "https://s.yimg.com/bo/1a5df15a-79ab-58ac-a531-2201b2923c3d_1792682255073.jpg",
+    "timestamp": 1792680661.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "008a337c56",
     "title_fa": "‏Comcast سود سه‌ماهه را فراتر از انتظار رساند",
     "title_en": "Comcast beats earnings expectations as media revenue offsets weakness in...",
@@ -19,6 +173,72 @@
     "clean_url": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
     "image": "https://s.yimg.com/bo/d20aedfb-9c51-56d9-8606-f85017764f9f_1792670658965.jpg",
     "timestamp": 1792669205.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c40e6ca63b",
+    "title_fa": "‏قیمت بیت‌کوین زیر ۸۲٬۰۰۰ دلار افت کرد؛ DeFi پیشتاز کاهش",
+    "title_en": "DeFi tokens lead crypto lower as bitcoin (BTC) price gives up Wednesday’s surge",
+    "summary": [
+      "‏قیمت بیت‌کوین زیر ۸۲٬۰۰۰ دلار افت کرد و تا ۲٫۹٪ کاهش یافت پس از بازگشت از اوج چهارشنبه.",
+      "‏کاهش باعث شد توکن‌های DeFi حدود ۶٪ سقوط کنند، چرا که تردیدهای جدید درباره هزینه‌های هوش مصنوعی بازارهای سهام را فشار داد.",
+      "‏ETF های بیت‌کوین در سه روز اول بیش از ۱ میلیارد دلار جذب کردند و حجم معاملات مشتقات رمزارز ۱۹٪ افزایش یافت."
+    ],
+    "body_fa": "‏بیت‌کوین روز چهارشنبه زیر ۸۲٬۰۰۰ دلار سقوط کرد و تا ۲٫۹٪ کاهش یافت، پس از اینکه اوج نزدیک ۸۴٬۸۰۰ دلاری‌اش به سرعت بازگشت. این افت همزمان با کاهش شاخص‌های سهام، به‌ویژه نازداک ۱۰۰ و بازارهای آسیایی، رخ داد که ناشی از تردیدهای تازه درباره هزینه‌های هوش مصنوعی پس از گزارش‌های مالی تسلا و متا بود. توکن‌های DeFi به‌ویژه تحت فشار قرار گرفتند؛ شاخص DeFi حدود ۵٫۶٪ و کل بازار رمزارزها حدود ۳٫۲٪ کاهش یافت. اتریوم نیز ۲٫۶٪ کاهش یافت و به حدود ۲٬۴۰۰ دلار رسید. در عین حال، ETF های بیت‌کوین در سه روز اول بیش از ۱ میلیارد دلار جذب سرمایه کردند و حجم معاملات مشتقات رمزارز ۱۹٪ رشد کرد، اگرچه نوسان بازدهی (open interest) کاهش یافت. این تحرک نشان می‌دهد که سرمایه‌گذاران در حال بسته کردن موقعیت‌های قبلی هستند و فشار فروش در بازار رمزارزها ادامه دارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+    "image": "https://s.yimg.com/bo/321f5cea-62bb-5b25-ab26-6ef6a82d0014_1792666891663.png.cf.jpg",
+    "timestamp": 1792666261.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5d4f121dcc",
+    "title_fa": "‏دومینانس بیت‌کوین به 60 ٪ رسید؛ آل‌کوین‌ها کاهش یافتند",
+    "title_en": "Crypto traders seek shelter in bitcoin (BTC) as altcoins slide, ETF flows...",
+    "summary": [
+      "‏دومینانس بیت‌کوین به 60 ٪ رسید در حالی که قیمت آن زیر 82,000 دلار افتاد و آل‌کوین‌ها بیش از 5 ٪ کاهش یافتند",
+      "‏این نشان می‌دهد سرمایه‌گذاران در شرایط نوسان بازار به بیت‌کوین به‌عنوان پناهگاه امن‌تر روی می‌آورند",
+      "‏کارشناسان به نوسان جریان‌های ETF و سیگنال‌های فدرال‌رزرو هشدار دادند"
+    ],
+    "body_fa": "‏نرخ سهم بیت‌کوین از کل بازار کریپتو به 60 ٪ رسید که بالاترین مقدار از ماه مه است. در همین زمان، قیمت بیت‌کوین زیر 82,000 دلار ماند و اکثر آل‌کوین‌ها مانند اتریوم، XRP و سولانا کاهش یافتند، در حالی که فقط ZEC بیش از 10 ٪ رشد کرد. شاخص‌های مختلف رمزارزهای کوچک نیز با کاهش 2.5 تا 5 درصد مواجه شدند. تحلیل‌گران می‌گویند بازار در انتظار یک محرک جدید است و وضعیت کلان‌اقتصادی همچنان تأثیرگذار است. ویراستاران هشدار دادند که جریان‌های ETF هنوز ناپایدار است و سرمایه‌گذاران باید از دنبال‌کردن نوسان‌های کوتاه‌مدت خودداری کنند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "دومینانس بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+    "clean_url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+    "image": "https://s.yimg.com/bo/228f695a-c3cb-5c8c-ba26-9eb3b4268ff5_1792669290998.png.cf.jpg",
+    "timestamp": 1792666261.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4d7ecb9c04",
+    "title_fa": "‏تسکری قانون ممنوع کردن خریداران بزرگ مسکن را اعلام کرد",
+    "title_en": "Treasury Unveils Rule to Ban Large Investors From Homebuying",
+    "summary": [
+      "‏تسکری مالیاتی قانونی جدید برای ممنوع کردن سرمایه‌گذاران بزرگ از خرید مسکن معرفی کرد.",
+      "‏این اقدام می‌تواند تقاضا برای خریداران خانوادگی را تقویت کرده و فشار بر قیمت مسکن را کاهش دهد.",
+      "‏قانون شامل محدودیت خرید برای سرمایه‌گذاران با دارایی‌های بیش از ۲ میلیون دلار است."
+    ],
+    "body_fa": "‏وزارت خزانه‌داری ایالات متحده قانون جدیدی را اعلام کرد که سرمایه‌گذاران بزرگ را از خرید مسکن مسدود می‌کند. هدف این اقدام افزایش دسترسی خانوارهای متوسط به خانه و کاهش فشار بر قیمت‌هاست. بر اساس قانون، افرادی که دارایی‌های خالصشان بیش از ۲ میلیون دلار است، نمی‌توانند بیش از یک واحد مسکونی خریداری کنند. این محدودیت‌ها پس از دوره مشاوره عمومی و بررسی اثرات بازار مسکن تصویب شد. کارشناسان انتظار دارند این سیاست به تدریج به بهبود تعادل عرضه‑تقاضا در بازار مسکن منجر شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قوانین مسکن",
+    "tag": "سرمایه‌گذاران",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/treasury-unveils-rules-banning-large-investors-from-buying-homes",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-22/treasury-unveils-rules-banning-large-investors-from-buying-homes",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792665060.0,
     "sent_to_telegram": true
   },
   {
@@ -63,6 +283,28 @@
     "clean_url": "https://finance.yahoo.com/technology/articles/exclusive-tsmc-seeks-factory-equipment-081513993.html",
     "image": "https://media.zenfs.com/en/reuters.com/eb04abd81c43fb6627918a57570e3b7a.jpg",
     "timestamp": 1792661943.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bc3b5fa698",
+    "title_fa": "‏Ofgem توافق حفظ ظرفیت گاز از اروپا را تصویب کرد",
+    "title_en": "Ofgem Approves Deal to Keep UK Gas Import Capacity From Europe",
+    "summary": [
+      "‏Ofgem توافقی برای حفظ ظرفیت انتقال گاز از طریق خطوط بین‌المللی بریتانیا‑بلژیک امضا کرد.",
+      "‏این اقدام به‌منظور حفظ انعطاف‌پذیری واردات گاز در زمان تقاضای شدید، به‌ویژه در زمستان‌های سرد، مهم است.",
+      "‏ملاحظات هزینه‌ها تحت مشاوره تا نوامبر 2026 بررسی می‌شود."
+    ],
+    "body_fa": "‏بازرس انرژی بریتانیا، Ofgem ، توافقی را با Interconnector Limited برای تقویت توانایی واردات گاز از طریق خط بین‌المللی بریتانیا‑بلژیک تصویب کرد. این مسیرها که به‌صورت دوطرفه می‌توانند گاز را منتقل کنند، در سال‌های اخیر به‌دلیل کاهش مشوق‌های تجاری و محدودیت‌های فنی ظرفیتشان کاهش یافته است. Ofgem تأکید کرد که این خطوط در زمان‌های اوج تقاضا، به‌ویژه در زمستان‌های سرد، گزینه‌ای مهم برای تأمین امنیت انرژی هستند. regulator همچنین مشاوره‌ای تا 20 نوامبر 2026 برای تعیین مکانیزم هزینه‌های این ظرفیت باز کرده است. این تصمیم در کنار تأیید میدانی جدید Jackdaw ، نشان‌دهنده تلاش بریتانیا برای حفظ انعطاف‌پذیری و تاب‌آوری سیستم گاز است.",
+    "category": "انرژی و کالا",
+    "subcategory": "زیرساخت گاز",
+    "tag": "گاز",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ofgem-Approves-Deal-to-Keep-UK-Gas-Import-Capacity-From-Europe.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Ofgem-Approves-Deal-to-Keep-UK-Gas-Import-Capacity-From-Europe.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_65rujdeipt.jpg",
+    "timestamp": 1792657800.0,
     "sent_to_telegram": true
   },
   {
@@ -220,6 +462,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "8821587405",
+    "title_fa": "‏سو‌فی توکن‌سازی سپرده ۴٫۴٪ با بیمه FDIC را راه‌اندازی کرد",
+    "title_en": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+    "summary": [
+      "‏سو‌فی محصول جدید SOFIE را معرفی کرد؛ سپرده توکن‌سازی با بهره ۴٫۴٪ سالیانه و بیمه FDIC.",
+      "‏این محصول اولین توکن‌سازی سپرده توسط بانک ملی آمریکا است و امکان تبدیل ۱ به ۱ به استیبل‌کوین SoFiUSD را می‌دهد.",
+      "‏سپرده‌ها تا زمان تبدیل بهره می‌گیرند و تحت پوشش بیمه FDIC تا سقف قانونی باقی می‌مانند."
+    ],
+    "body_fa": "‏سو‌فی تکنولوژیز (NASDAQ: SOFI) امروز توکن‌سازی سپرده‌ای به نام SOFIE را معرفی کرد که بهره سالیانه 4.4% دارد و تحت پوشش بیمه FDIC قرار می‌گیرد. هر SOFIE برابر یک دلار سپرده در بانک سو‌فی است و مشتریان می‌توانند آن را به استیبل‌کوین SoFiUSD با نرخ 1:1 تبدیل کنند تا به‌سرعت رمزارز خرید یا انتقال دهند. این اولین بار است که یک بانک ملی ایالات متحده به‌صورت مستقیم به مصرف‌کنندگان توکن‌سازی سپرده ارائه می‌دهد، که می‌تواند نقش بانک‌ها در اکوسیستم دیجیتال را گسترش دهد. سو‌فی اعلام کرد برنامه دارد تا نوامبر این توکن‌ها را برای تمام اعضای بخش کریپتو خود فعال کند. این حرکت پس از معرفی خدمات تجارت رمزارز در نوامبر 2025 و راه‌اندازی استیبل‌کوین SoFiUSD در ماه قبل صورت گرفته و نشان‌دهنده استراتژی گسترده‌تری برای ترکیب خدمات بانکی سنتی و دارایی‌های دیجیتال است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "محصولات مالی",
+    "tag": "SOFIE",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+    "clean_url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-18.43.15.png",
+    "timestamp": 1792645200.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a245b262cd",
+    "title_fa": "‏دون فیدهای داده‌های تجاری زنجیره‌ای را راه‌اندازی کرد",
+    "title_en": "Dune launches onchain trading data feeds as tokenized markets expand",
+    "summary": [
+      "‏دون فیدهای داده‌های تجاری زنجیره‌ای زمان واقعی را برای بیش از 200 پلتفرم در 12 شبکه راه‌اندازی کرد",
+      "‏این سرویس به صندوق‌های سرمایه‌گذاری، سازندگان بازار و کارگزاران امکان پیگیری قیمت‌های لحظه‌ای در بازارهای توکنیزه را می‌دهد",
+      "‏حجم معاملات درون‌زنجیره‌ای حدود 25 ٪ کل حجم اسپات رمزارزها را تشکیل می‌دهد"
+    ],
+    "body_fa": "‏دون، شرکت تحلیل‌گر داده‌های رمزارز، فیدهای داده‌های تجاری زنجیره‌ای زمان واقعی را برای بیش از 200 صحنه در 12 شبکه از جمله Solana ، Ethereum ، Base ، BNB Chain و X Layer معرفی کرد. این فیدهای اسپات حدود یک ثانیه پس از اجرا، اطلاعات معاملات را ارائه می‌دهند و فیدهای perpetual نیز معاملات Hyperliquid و Lighter را پوشش می‌دهند. شرکت می‌گوید این ابزارها به صندوق‌های سرمایه‌گذاری، سازندگان بازار و کارگزاران اجازه می‌دهد قیمت‌گذاری در زنجیره را همانند بازارهای لیست‌شده دنبال کنند. رونق تجارت درون‌زنجیره‌ای پس از اعطای معافیت پنج‌ساله توسط SEC برای توکنیزه‌سازی سهام‌های آمریکایی، به‌ویژه با برنامه OKXICE برای لیست 63 سهم توکنیزه در X Layer ، باعث شد که حدود 25 ٪ از حجم کل معاملات اسپات رمزارزها را تشکیل دهد. فریدریک هاگا، هم‌بنیان‌گذار و مدیرعامل دون، افزود: «اکنون با گسترش فیدهای زمان واقعی و داده‌های مرجع غنی، هرکسی می‌تواند با وضوح و اطمینان در مورد ابزارهای معامله‌شده و قیمت‌های آن‌ها عمل کند».",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "داده‌های بازار رمزارز",
+    "tag": "داده‌زنجیره‌ای",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+    "clean_url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-11.20.33.png",
+    "timestamp": 1792645200.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "fa5c3b6368",
     "title_fa": "‏کاهش ۲۲٪ مشاغل فناوری و مالی برای جوانان بریتانیایی",
     "title_en": "Young Brits See Tech and Finance Jobs Plunge 22% in Three Years",
@@ -286,6 +572,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "81c9e56347",
+    "title_fa": "‏هزینه‌های سوختی هواپیماهای آمریکا با افزایش بلیت جبران نمی‌شود",
+    "title_en": "US airlines struggle to offset soaring fuel costs with big fare hikes",
+    "summary": [
+      "‏هواپیماهای آمریکایی با هزینه‌های سرسام‌آور سوخت مواجه‌اند",
+      "‏افزایش قیمت بلیت‌ها نتوانست این هزینه‌ها را جبران کند",
+      "‏این فشار می‌تواند سودآوری شرکت‌های هواپیمایی را کاهش دهد"
+    ],
+    "body_fa": "‏شرکت‌های هواپیمایی ایالات متحده وارد سه‌ماهه آخر سال می‌شوند در حالی که ترافیک مسافران نسبتاً پایدار است. اما هزینه‌های سوخت به‌سرعت افزایش یافته‌اند و حتی با افزایش چشمگیر کرایه بلیت‌ها، هنوز نتوانسته‌اند این هزینه‌ها را جبران کنند. به‌دلیل این عدم تعادل، حاشیه سود شرکت‌ها تحت فشار قرار گرفته و پیش‌بینی می‌شود که برخی از آن‌ها برای حفظ سودآوری، قیمت بلیت‌ها را بیشتر افزایش دهند. این وضعیت می‌تواند بر سهام هواپیمایی‌ها و شاخص‌های مرتبط با انرژی تأثیر منفی بگذارد و نگرانی‌های سرمایه‌گذاران را درباره هزینه‌های عملیاتی در سال آینده تشدید کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "هزینه سوخت هواپیما",
+    "tag": "سوخت",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/american-airlines-forecasts-2026-loss-fuel-costs-outpace-fare-gains-2026-10-22/",
+    "clean_url": "https://www.reuters.com/business/american-airlines-forecasts-2026-loss-fuel-costs-outpace-fare-gains-2026-10-22",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792641900.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5db86bcc80",
+    "title_fa": "‏تجارت‌گران کریپتو ارزش IPO جیو را 110 میلیارد دلار می‌سنجند",
+    "title_en": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+    "summary": [
+      "‏تجارت‌گران کریپتو ارزش IPO شرکت Reliance Jio را حدود 110 میلیارد دلار برآورد کردند.",
+      "‏این قیمت‌گذاری از طریق قرارداد دائمی JIOUSDT در Bitget انجام شد و 4.4 میلیون دلار حجم معامله داشت.",
+      "‏اگر IPO به تعویق یا تغییر قیمت بیفتد، ارزش‌گذاری می‌تواند به‌سرعت نوسان کند."
+    ],
+    "body_fa": "‏تجارت‌گران کریپتو با استفاده از قرارداد دائمی JIOUSDT در صرافی Bitget ، ارزش شرکت Jio Platforms را حدود 110 میلیارد دلار تخمین زدند. این مقدار حدود 3.8 ٪ بالاتر از حداکثر ارزش‌گذاری 106 میلیارد دلاری است که توسط باند قیمتی بالایی IPO اعلام شده بود. قرارداد که از 14 اکتبر در دسترس است، تا کنون حدود 369,000 واحد JIO یا معادل 4.4 میلیون دلار حجم معامله داشته است. این ابزار به معامله‌گران امکان می‌دهد پیش از شروع معاملات عمومی سهام، با اهرم قیمت‌گذاری انجام دهند، اگرچه هیچ حق رأی یا سودی به همراه ندارد. چون IPO جیو بزرگ‌ترین عرضه عمومی هند است و هدف جمع‌آوری حدود 302 میلیارد روپیه است، این نوع قیمت‌گذاری می‌تواند نشانگر علاقه‌مندی سرمایه‌گذاران به دارایی‌های دیجیتال باشد. اما اگر عرضه به تعویق یا تغییر قیمت بیفتد، ارزش‌گذاری مبتنی بر قرارداد می‌تواند به‌سرعت نوسان کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت‌گذاری پیش‌عرضه",
+    "tag": "Jio IPO",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1792639080.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "5d0384a018",
     "title_fa": "‏Polymarket و Kalshi پنج میلیون دلار به احزاب سیاسی دادند",
     "title_en": "Polymarket, Kalshi expand political donations as firms face state, federal scrutiny",
@@ -305,6 +635,28 @@
     "clean_url": "https://www.reuters.com/business/finance/polymarket-kalshi-expand-political-donations-firms-face-state-federal-scrutiny-2026-10-22",
     "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792638420.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "945ec6f6fa",
+    "title_fa": "‏قیمت بیت‌کوین به 81,800 دلار سقوط کرد",
+    "title_en": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
+    "summary": [
+      "‏بیت‌کوین پس از رسیدن به نزدیک 85,000 دلار، به حدود 81,800 دلار افتاد.",
+      "‏این نوسان ۲٪ باعث شد حدود 431,000,000 دلار در مایع‌سازی موقعیت‌ها از دست برود.",
+      "‏بزرگ‌ترین ضرر 11.8,000,000 دلاری توسط Binance ثبت شد."
+    ],
+    "body_fa": "‏بیت‌کوین در روز چهارشنبه از نزدیک 85,000 دلار به حدود 81,800 دلار کاهش یافت، یعنی یک نوسان حدود 3,000 دلاری در کمتر از ۲۴ ساعت. در این بازه حدود 431,000,000 دلار مایع‌سازی شد؛ 173,000,000 دلار از این مبلغ به ضرر فروشندگان کوتاه‌مدت در حین صعود و 210,000,000 دلار به ضرر خریداران طولانی‌مدت در حین نزول تعلق داشت. بزرگ‌ترین ضرر تک‌تکه یک موقعیت طولانی‌مدت به ارزش 11.8,000,000 دلار در صرافی Binance بود. سایر رمزارزها نیز تحت فشار قرار گرفتند؛ HYPE 4.5 ٪، DOGE نزدیک 4 ٪ و SOL 3 ٪ کاهش یافتند، در حالی که XMR 11 ٪ رشد کرد. در بازار سهام، futures شاخص Nasdaq 100 1.1 ٪ کاهش یافتند، چرا که تسلا پیش‌بینی هزینه‌های خود را کاهش داد و Lam Research چشم‌انداز ضعیفی ارائه کرد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+    "clean_url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c1207234187eec24c854f3bc5f7ffcb31d22c07-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1792637640.0,
     "sent_to_telegram": true
   },
   {
@@ -6245,358 +6597,6 @@
     "clean_url": "https://www.wsj.com/world/uk/boes-pill-skeptical-four-rate-rises-needed-to-tame-inflation-a1b840a2",
     "image": "https://s.yimg.com/bo/3767db37-3cf2-573c-a2ca-39b6b01535aa_1791969226451.jpg",
     "timestamp": 1791959809.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "29243f495c",
-    "title_fa": "‏Polygon خرید Coinme را تکمیل کرد؛ پرداخت در ۴۸ ایالت",
-    "title_en": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
-    "summary": [
-      "‏Polygon Labs خرید Coinme را تکمیل کرد و با 37 مجوز انتقال پول در ۴۸ ایالت آمریکا پوشش پرداخت‌های منظم شد.",
-      "‏این گام به Open Money Stack امکان ارائه خدمات پرداخت و حقوق و دستمزد با استیبل‌کوین در سراسر آمریکا را می‌دهد.",
-      "‏همزمان شرکت‌های Tazapay ، Mesh ، Toku و Kira اولین مشتریان این پلتفرم هستند."
-    ],
-    "body_fa": "‏Polygon Labs در روز چهارشنبه اعلام کرد که خرید شرکت Coinme را نهایی کرده و به این ترتیب 37 مجوز انتقال پول ایالتی و 11 معافیت مرتبط را به دست آورده است. این خرید بخشی از معامله ترکیبی 250 میلیون دلاری است که در ژانویه برای خرید Coinme و شرکت زیرساخت کیف پول Sequence اعلام شد. با افزودن این مجوزها، پلتفرم Open Money Stack می‌تواند خدمات پرداخت منظم را در 48 ایالت آمریکا، از دریافت تا پرداخت نهایی، ارائه دهد. اولین مشتریان این سرویس شامل Tazapay ، Mesh ، Toku و Kira هستند که از آن برای پرداخت‌های مرزی، افزودن درگاه‌های ورودی به کیف پول‌ها و حقوق و دستمزد با استیبل‌کوین استفاده می‌کنند. Polygon تا به حال بیش از 3 تریلیون دلار حجم انتقال استیبل‌کوین را ثبت کرده و این ادغام می‌تواند نقش آن را در بازارهای مالی دیجیتال تقویت کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ادغام و تملک",
-    "tag": "Polygon-Coinme",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-14-at-14.47.06.png",
-    "timestamp": 1791957600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "289f0a979f",
-    "title_fa": "‏DriveWealth از استیبل‌کوین RLUSD ریپل برای تسویه‌حساب استفاده می‌کند",
-    "title_en": "DriveWealth to use Ripple's RLUSD for stablecoin settlement, cross-border payments",
-    "summary": [
-      "‏DriveWealth قرارداد همکاری با Ripple را برای استفاده از استیبل‌کوین RLUSD در تسویه‌حساب و پرداخت‌های فرامرزی امضا کرد.",
-      "‏این اقدام امکان تأمین نقدینگی ۲۴ ساعته برای حساب‌های امانت مشتریان و تبدیل سریع به پول نقد را فراهم می‌کند.",
-      "‏همکاری ابتدا در اروپا آغاز شده و به زودی به ایالات متحده گسترش می‌یابد."
-    ],
-    "body_fa": "‏DriveWealth با Ripple به توافق رسیده تا استیبل‌کوین RLUSD را برای تسویه‌حساب و پرداخت‌های فرامرزی به بستر XRP Ledger اضافه کند. این یکپارچه‌سازی به مشتریان این کارگزاری امکان می‌دهد حساب‌های امانت خود را به‌صورت ۲۴ ساعته با استیبل‌کوین تأمین مالی کنند و در زمان نزدیک به لحظه به پول نقد تبدیل نمایند. ابتدا این سرویس در اروپا فعال می‌شود و پس از آن به بازار ایالات متحده گسترش می‌یابد. این همکاری بخشی از برنامه Ripple برای گسترش استفاده مؤسسه‌ای از استیبل‌کوین‌هاست و نشان‌دهنده رشد زیرساخت‌های مالی دیجیتال در سطح جهانی است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "استیبل‌کوین",
-    "tag": "RLUSD",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_Ripple_News_3.jpg",
-    "timestamp": 1791957600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "26799178ae",
-    "title_fa": "‏داده‌های CPI سپتامبر منتشر شد؛ بانک آمریکا جریمه ۱٫۲ میلیارد",
-    "title_en": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
-    "summary": [
-      "‏گزارش CPI سپتامبر امروز منتشر می‌شود؛ اقتصاددانان پیش‌بینی می‌کنند قیمت‌ها ۰٫۶٪ ماهانه و ۳٫۶٪ سالانه افزایش یابد.",
-      "‏این آخرین داده تورم پیش از انتخابات میانی است و می‌تواند جهت‌گیری سیاست‌های پولی و واکنش بازارها را شکل دهد.",
-      "‏بانک آمریکا پس از جریمه ۱٫۲ میلیارد دلاری سود هر سهمش ۱۷ سنت کاهش یافت و سهامش بیش از ۴٪ در پیش‌بازار سقوط کرد."
-    ],
-    "body_fa": "‏امروز داده‌های شاخص قیمت مصرف‌کننده (CPI) سپتامبر منتشر می‌شود که اقتصاددانان دوجو آن را ۰٫۶٪ افزایش ماهانه و ۳٫۶٪ سالانه پیش‌بینی کرده‌اند. این آخرین گزارش تورمی پیش از انتخابات میانی است و به‌ویژه به دلیل فشارهای قیمتی ناشی از هزینه‌های انرژی، که از آغاز جنگ ایران در فوریه تشدید شده‌اند، مورد توجه قرار گرفته. رئیس فدرال رزرو نیویورک، جان ویلیامز، پیش از انتشار داده‌ها اعلام کرد که نیروهای کاهش تورم فعال هستند و احتمالاً نیازی به افزایش نرخ بهره تا سال ۲۰۲۷ نخواهد بود. در همین حین، بانک آمریکا اعلام کرد که به دلیل جریمه ۱٫۲ میلیارد دلاری وزارت خزانه‌داری آمریکا برای نقض قوانین ضدپولشویی و تحریم‌ها، سود خالص سه‌ماهه‌اش ۱۷ سنت به ازای هر سهم کاهش یافته و سهامش بیش از ۴٪ در پیش‌بازار افت کرده است. در مقابل، مورگان استنلی نتایج مالی بهتر از انتظار را گزارش داد و درآمدهای معاملاتی سهام خود را بیش از ۹۰۰ میلیون دلار بالاتر از پیش‌بینی‌ها اعلام کرد. بازارهای سهام پس از این اخبار به‌صورت کلی آرام باقی مانده‌اند و سرمایه‌گذاران منتظر واکنش‌های بعدی به داده‌های CPI و تحولات بانکی هستند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "داده‌های تورم",
-    "tag": "CPI",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
-    "clean_url": "https://www.cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
-    "timestamp": 1791956220.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "fe37b061fb",
-    "title_fa": "‏بیت‌کوین به‌سوی ۸۴٬۰۰۰ دلار می‌رود پس از نظر ویلیامز",
-    "title_en": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-    "summary": [
-      "‏بیت‌کوین حدود ۸۳٬۹۰۰ دلار شد، نزدیک به ۸۴٬۰۰۰ دلار.",
-      "‏این افزایش پس از اظهارات رئیس نیویورک فدرال رزرو مبنی بر عدم نیاز به افزایش نرخ بهره تا ۲۰۲۷ بود که دلار را تضعیف کرد.",
-      "‏زِکَش نزدیک به ۷٪ رشد کرد و سولانا، دوج‌کوین و اتریوم نیز افزایشی دو تا سه درصدی داشتند."
-    ],
-    "body_fa": "‏بیت‌کوین در صبح آسیا حدود ۸۳٬۹۰۰ دلار معامله می‌شد، نزدیک به سطح ۸۴٬۰۰۰ دلاری که پیش از این دیده نشده بود. این حرکت ناشی از اظهارات جان ویلیامز، رئیس فدرال رزرو نیویورک، بود که گفت تا سال ۲۰۲۷ نیازی به افزایش نرخ بهره نیست و این باعث تضعیف دلار شد. کاهش ارزش دلار به نفع دارایی‌های دیجیتال شد و شاخص S&P 500 نیز کمی بازگشت کرد. در میان رمزارزها، زِکَش نزدیک به ۷٪ رشد کرد و سولانا، دوج‌کوین و اتریوم به ترتیب ۲٫۵٪ و ۲٪ افزایش یافتند. تحلیل‌گران معتقدند اگر گزارش تورم ایالات متحده امروز سرد باشد، بیت‌کوین می‌تواند به ۸۵٬۰۰۰ دلار نزدیک شود. در عین حال، سهام شرکت‌های چپ‌ساز کره‌ای مانند سامسونگ الکترونیک و اس‌کی هیونیکس پس از پنج روز نزول، بازگشت کردند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-    "clean_url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-    "image": "https://s.yimg.com/bo/2e5c8f82-9ad5-5a08-afb6-9a29e0593202_1791950669635.png.cf.jpg",
-    "timestamp": 1791949009.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cf83c1acf5",
-    "title_fa": "‏رایندگان میشیگان خواستار پایان جنگ تجاری ترامپ شدند",
-    "title_en": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
-    "summary": [
-      "‏مایک راجرز، نامزد سنا از میشیگان، در تبلیغی خواستار پایان تعرفه‌های ترامپ و جنگ ایران شد",
-      "‏این تغییر موضع در میشیگان، جایی که تجارت با کانادا 80 میلیارد دلار سالانه دارد، می‌تواند سرنوشت کنترل سنا را تحت‌تاثیر قرار دهد",
-      "‏در حالی که دموکرات عبد‌السید پیشی ۴ درصدی از نظرسنجی‌ها دارد"
-    ],
-    "body_fa": "‏مایک راجرز، نامزد جمهوری‌خواه سنا از میشیگان، در تبلیغی که در ۷ اکتبر پخش شد، از پایان تعرفه‌های تجاری که توسط دونالد ترامپ اعمال شد و از پایان جنگ در ایران خواستار شد. او در این تبلیغ به‌وضوح اشاره کرد که کانادا دشمن میشیگان نیست و باید جنگ تعرفه‌ای با این کشور پایان یابد. این موضع‌گیری در میشیگان، جایی که سالانه حدود ۸۰ میلیارد دلار تجارت با انتاریو دارد و ۲۳.۲ میلیارد دلار صادرات به کانادا، می‌تواند به‌ویژه برای صنایع خودروسازی و کشاورزی حساس باشد. تغییر استراتژی راجرز نشان می‌دهد که بسیاری از جمهوری‌خواهان برای حفظ پایه رأی‌دار در انتخابات عمومی، از سیاست‌های ترامپ فاصله می‌گیرند. نظرسنجی‌های FiftyPlusOne نشان می‌دهد دموکرات عبد‌السید حدود چهار درصد پیشی دارد، در حالی که گزارش Cook Political Report رقابت را تساوی می‌داند. این مسابقه که می‌تواند تعادل سنا را تعیین کند، نشانگر تنش‌های داخلی حزب جمهوری‌خواه در مواجهه با سیاست‌های تجاری و خارجی ترامپ است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "انتخابات سنا",
-    "tag": "تاریف",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
-    "clean_url": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108398687-1791981682345-108398687-1791817928144-gettyimages-2299449626-_s013570_2mrg5c2b.jpg?v=1791981697&w=1920&h=1080",
-    "timestamp": 1791948600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "97b149ae21",
-    "title_fa": "‏بانک آف آمریکا گزارش سه ماهه خود را منتشر می‌کند",
-    "title_en": "Bank of America is set to report third-quarter earnings – here’s what the Street expects",
-    "summary": [
-      "‏بانک آف آمریکا قرار است گزارش سود سه ماهه سوم را پیش از افتتاح بازار منتشر کند.",
-      "‏این گزارش پس از جریمه ۱٫۲ میلیارد دلاری وزارت خزانه‌داری و پیش‌بینی سود هر سهم ۱٫۱۰ دلار توسط وال استریت اهمیت دارد.",
-      "‏تحلیل‌گران انتظار دارند درآمد خالص به‌دلیل جریمه ۱۷ سنت در هر سهم کاهش یابد."
-    ],
-    "body_fa": "‏بانک آف آمریکا قرار است گزارش سود سه ماهه سوم خود را پیش از افتتاح بازار روز چهارشنبه منتشر کند. این انتشار تنها یک روز پس از اعمال جریمه ۱٫۲ میلیارد دلاری توسط وزارت خزانه‌داری آمریکا صورت می‌گیرد که سود خالص هر سهم را ۱۷ سنت کاهش داد. این جریمه باعث شده سرمایه‌گذاران و تحلیل‌گران به توانمندی مدیریت ریسک ماینیهان، مدیرعامل بانک، بیشتر توجه کنند. برآوردهای وال استریت برای سود هر سهم ۱٫۱۰ دلار و درآمد کل ۳۰٫۶۹ میلیارد دلار است. همچنین پیش‌بینی می‌شود درآمد بهره خالص ۱۶٫۵۳ میلیارد دلار و معاملات ثابت‌درآمدی ۳ میلیارد دلار و سهام ۲٫۸ میلیارد دلار باشد. در حالی که بانک‌های دیگر مانند JPMorgan Chase و Goldman Sachs نتایج متفاوتی ارائه دادند، انتظار می‌رود نتایج بانک آف آمریکا تأثیر قابل‌توجهی بر شاخص‌های بانکی داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "گزارش‌های مالی بانک‌ها",
-    "tag": "Bank of America",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "clean_url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108250555-1767974377302-gettyimages-2201916861-_d6a3281_18br2qz5.jpeg?v=1767974405&w=1920&h=1080",
-    "timestamp": 1791947700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "83a866227e",
-    "title_fa": "‏سازمان ESA خواست Anbernic به فهرست بازارهای آمریکا اضافه شود",
-    "title_en": "ESA flags retro console maker Anbernic for inclusion on US government's Notorious Market List",
-    "summary": [
-      "‏سازمان ESA درخواست افزودن سازنده کنسول‌های رترو Anbernic به فهرست بازارهای بدنام آمریکا را کرد",
-      "‏این اقدام به دلیل پیش‌بارگذاری صدها هزار بازی غیرقانونی در دستگاه‌های این شرکت است که فروش قانونی را تهدید می‌کند",
-      "‏Anbernic پیش از این به دلیل تعرفه‌ها از ارسال به آمریکا خودداری کرده بود"
-    ],
-    "body_fa": "‏سازمان نرم‌افزارهای سرگرمی (ESA) در گزارشی به دولت آمریکا پیشنهاد داد که شرکت چینی Anbernic به فهرست بازارهای بدنام (Notorious Market List) اضافه شود. این فهرست توسط دفتر نماینده تجاری ایالات متحده (USTR) منتشر می‌شود و بازارهایی را که به‌طور گسترده در تقلب‌های علامت تجاری و کپی‌رایت مشارکت دارند، شناسایی می‌کند. ESA ادعا می‌کند دستگاه‌های دستی Anbernic که بازی‌های رترو از نینتندو، پلی‌استیشن و سگا را شبیه‌سازی می‌کنند، با کارت‌های حافظه پیش‌بارگذاری شده حاوی هزاران نسخه غیرمجاز عرضه می‌شوند. این کارت‌ها امکان بازی فوری بدون خرید قانونی را فراهم می‌آورند و به‌نظر ESA باعث دور زدن تدابیر حفاظتی فناوری و کاهش فروش قانونی می‌شوند. علاوه بر خسارت مالی برای ناشران، ESA به خطرات امنیتی، حریم خصوصی و عدم امکان اعمال محدودیت‌های ایمنی برای کودکان اشاره کرد. Anbernic پیش از این به دلیل تعرفه‌های جدید از ارسال به ایالات متحده خودداری کرده بود، اما این درخواست نشان می‌دهد که نگرانی‌های صنعت بازی‌سازی نسبت به این نوع پخش‌های غیرقانونی در حال تشدید است.",
-    "category": "گیم",
-    "subcategory": "کپی‌رایت بازی",
-    "tag": "Anbernic",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
-    "clean_url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
-    "image": "https://assetsio.gnwcdn.com/anbernic-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1791946740.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9f711efc3a",
-    "title_fa": "‏بیت‌کوین از 84 ٬ 000 دلار به 81 ٬ 950 دلار سقوط کرد",
-    "title_en": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-    "summary": [
-      "‏بیت‌کوین از نزدیک 84 ٬ 000 دلار به حدود 81 ٬ 950 دلار افتاد.",
-      "‏کاهش قیمت پس از انتشار داده‌های تورم سپتامبر آمریکا رخ داد و فشار بر دارایی‌های ریسک‌پذیر را نشان داد.",
-      "‏در همان زمان، بازده اوراق 10‑ساله آمریکا به 5.23 ٪ رسید و شاخص‌های Nasdaq و S&P 500 نیز کاهش یافتند."
-    ],
-    "body_fa": "‏قیمت بیت‌کوین پس از نزدیک شدن به رکورد 84 ٬ 000 دلاری، در طول ۲۴ ساعت گذشته ۱٫۵٪ کاهش یافت و به حدود 81 ٬ 950 دلار رسید. این افت همزمان با انتشار داده‌های تورم سپتامبر آمریکا بود که نشان داد قیمت‌ها بالاتر از انتظار بوده‌اند. بازده اوراق قرضه 10‑ساله آمریکا پس از کوتاه‌مدت صعود به 5.335 ٪، به 5.23 ٪ بازگشت و به پایین‌ترین سطح روز محدود شد. سهام‌های فناوری، سازندگان مسکن و بخش مالی نیز تحت فشار قرار گرفتند؛ Nasdaq ۱٫۶٪ و S&P 500 حدود ۱٫۰۵٪ کاهش یافتند. این تحرکات نشان می‌دهد بازارهای ریسک‌پذیر در برابر فشارهای ناشی از نرخ بهره بالاتر حساس می‌شوند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-    "clean_url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/797ef81169c7c1187767036de7aaa493b4483220-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-    "timestamp": 1791945840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7b85c383f4",
-    "title_fa": "‏Ubisoft 70 نفر را برکنار کرد؛ RedLynx بسته شد",
-    "title_en": "Ubisoft Cuts 70 Staff From Skull and Bones Dev, Shuts Down Trials Studio RedLynx",
-    "summary": [
-      "‏Ubisoft Singapore 70 نفر از تیم توسعه بازی Skull and Bones را برکنار کرد.",
-      "‏این اقدام بخشی از برنامه کاهش هزینه‌های شرکت است و استودیوی فنلاندی RedLynx را نیز منجر به بسته شدن با حدود 52 نیروی کار شد.",
-      "‏Ubisoft تاکید کرد استودیوی سنگاپور همچنان نقش مهمی در تولید جهانی دارد."
-    ],
-    "body_fa": "‏Ubisoft در یک بیانیه اعلام کرد 70 نفر از تیم توسعه بازی Skull and Bones در استودیوی سنگاپور برکنار شده‌اند؛ این تعداد حدود یک‌پنجم کل پرسنل این استودیو را تشکیل می‌دهد. در همین زمان، استودیوی فنلاندی RedLynx که پیشتر به خاطر سری بازی‌های Trials شناخته می‌شد، بسته شد و حدود 52 شغل از بین رفت. این دو اقدام بخشی از برنامهٔ گستردهٔ شرکت برای کاهش هزینه‌ها و تمرکز بر عناوین اصلی است. Ubisoft تاکید کرد که استودیوی سنگاپور همچنان نقش کلیدی در زنجیرهٔ تولید جهانی دارد و به ادامهٔ پروژه‌های دیگر می‌پردازد. این تغییرات نشان‌دهندهٔ فشارهای مالی و نیاز به بهینه‌سازی ساختار در صنعت بازی‌های ویدئویی است.",
-    "category": "گیم",
-    "subcategory": "استخدام و اخراج",
-    "tag": "Ubisoft layoffs",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
-    "clean_url": "https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
-    "image": "https://assets-prd.ignimgs.com/2026/10/14/skull-1791970800085.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "timestamp": 1791945600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "03c50d9f42",
-    "title_fa": "‏استارتاپ‌های فضایی رکورد 20.8 میلیارد دلاری جذب سرمایه کردند",
-    "title_en": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
-    "summary": [
-      "‏استارتاپ‌های فضایی در سه‌ماهه سوم 20.8 میلیارد دلار سرمایه جذب کردند",
-      "‏این رکورد نشان‌دهنده افزایش سرمایه‌گذاری در ارائه‌دهندگان پرتاب و زیرساخت‌های ساخت است",
-      "‏سرمایه‌گذاران به‌ویژه بر تولیدکنندگان و خدمات زیرساختی متمرکز شدند"
-    ],
-    "body_fa": "‏طبق گزارش Reuters ، استارتاپ‌های فعال در حوزه فضا در سه‌ماهه سوم سال جاری رکورد تاریخی 20.8 میلیارد دلار جذب سرمایه کردند. این سرمایه‌گذاری‌ها عمدتاً به شرکت‌های ارائه‌دهنده خدمات پرتاب، تولید قطعات و سایر زیرساخت‌های فضایی اختصاص یافت. نسبت به دوره‌های قبلی، میزان جذب سرمایه به‌طور قابل‌توجهی افزایش یافته و نشان‌دهنده اعتماد سرمایه‌گذاران به رشد بازار فضا است. این جریان می‌تواند سرعت توسعه سامانه‌های ماهواره‌ای، سفرهای تجاری فضایی و فناوری‌های مرتبط را تسریع کند. تحلیل‌گران پیش‌بینی می‌کنند که ادامه این روند می‌تواند فرصت‌های جدیدی برای صنایع مرتبط و زنجیره تأمین جهانی ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "استارتاپ‌های فضایی",
-    "tag": "فضا",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/space-startups-secure-record-208-billion-funding-infrastructure-bets-surge-2026-10-14/",
-    "clean_url": "https://www.reuters.com/legal/transactional/space-startups-secure-record-208-billion-funding-infrastructure-bets-surge-2026-10-14",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791943320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "db9e44c921",
-    "title_fa": "‏بانک مرکزی فیلیپین اقدام نظارتی جدی علیه Coins.ph می‌کند",
-    "title_en": "Coins.ph, Philippines' largest crypto exchange, faces central bank regulatory...",
-    "summary": [
-      "‏صرافی Coins.ph ، بزرگ‌ترین صرافی رمزارز فیلیپین، با بیش از ۱۸ میلیون کاربر، تحت تهدید لغو مجوز بانک مرکزی قرار گرفت.",
-      "‏دلیل این اقدام، ارائه خدمات به پلتفرم‌های شرط‌بندی خارج از کشور است که ۷۵‑۸۰٪ نقدینگی پزو‑به‑استیبل‌کوین را در فیلیپین کنترل می‌کند.",
-      "‏این تصمیم می‌تواند «زمین‌لرزه» در اکوسیستم رمزارز این کشور ایجاد کند."
-    ],
-    "body_fa": "‏صرافی Coins.ph که بیش از ۱۸ میلیون کاربر دارد و حدود ۵۰ میلیون دلار حجم معاملات روزانه، حدود ۷۵ تا ۸۰ درصد نقدینگی پزو به استیبل‌کوین را در فیلیپین در اختیار دارد، امروز با خطر لغو مجوز از سوی بانک مرکزی مواجه شد. مقامات بانک مرکزی به این دلیل اقدام کرده‌اند که این صرافی به پلتفرم‌های شرط‌بندی خارج از کشور خدمات می‌داد، که خلاف قوانین مالی کشور است. پیش از این، محدودیت‌هایی بر واریزهای انجام‌شده از طریق کیف‌پول اصلی DCPay Philippines اعمال شده بود. علاوه بر این، چندین کارمند ارشد در بخش‌های نظارت و مبارزه با پولشویی این سال از شرکت رفتند. شرکت اعلام کرد که وجوه کاربران امن است و همچنان به فعالیت تحت مجوز بانک مرکزی ادامه می‌دهد، اما احتمال لغو مجوز می‌تواند بازار رمزارز فیلیپین را به‌طور قابل‌توجهی تحت فشار قرار دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "نظارت مالی",
-    "tag": "Coins.ph",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-    "clean_url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-    "image": "https://s.yimg.com/bo/6c176485-6bed-51fe-8d86-f2a25af5f115_1791940574834.jpg",
-    "timestamp": 1791938209.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "332ca5a0fd",
-    "title_fa": "‏بازده اوراق خزانه آمریکا کمی کاهش یافت",
-    "title_en": "U.S. Treasury yields inch lower as investors await key inflation report",
-    "summary": [
-      "‏بازده اوراق ۱۰‑ساله خزانه آمریکا ۲ پایه نقطه به ۵٫۱۹۵٪ کاهش یافت",
-      "‏سرمایه‌گذاران این حرکت را پیش از انتشار گزارش CPI سپتامبر دنبال می‌کنند",
-      "‏پیش‌بینی‌ها نشان می‌دهد تورم ماهانه ۰٫۶٪ و سالانه ۳٫۶٪ خواهد بود"
-    ],
-    "body_fa": "‏در روز چهارشنبه، بازده اوراق خزانه آمریکا کمی کاهش یافت؛ بازده اوراق ۱۰‑ساله به ۵٫۱۹۵٪ و ۳۰‑ساله به ۵٫۵۴۹٪ رسید. این کاهش پیش از انتشار گزارش شاخص قیمت مصرف‌کننده (CPI) سپتامبر رخ داد که انتظار می‌رود ماهانه ۰٫۶٪ و سالانه ۳٫۶٪ افزایش یابد. بازده اوراق ۲‑ساله نیز ۲ پایه نقطه به ۴٫۷۷۲٪ افت کرد. تحلیل‌گران Deutsche Bank خاطرنشان کردند که این داده‌ها تنها دو هفته پیش از تصمیم‌گیری فدرال رزرو درباره نرخ بهره است و هر گونه شگفتی می‌تواند روایت بازار را پیش از جلسه بعدی تغییر دهد. علاوه بر CPI ، بازارها منتظر گزارش‌های PPI ، فروش خرده‌فروشی و درخواست‌های بیکاری هستند که روز پنجشنبه منتشر می‌شوند.",
-    "category": "انرژی و کالا",
-    "subcategory": "بازار اوراق قرضه",
-    "tag": "بازده",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-    "clean_url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108363664-1789568653143-gettyimages-2295586446-mms19542_jxkyebnq.jpeg?v=1789568741&w=1920&h=1080",
-    "timestamp": 1791937200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e3970d4688",
-    "title_fa": "‏IMF پیش‌بینی رشد جهانی را به ۳٫۱٪ کاهش داد",
-    "title_en": "IMF warns global economy is running out of room to absorb shocks at Bangkok meetings",
-    "summary": [
-      "‏IMF در اجلاس بانکوک پیش‌بینی رشد جهانی را به ۳٫۱٪ برای سال ۲۰۲۶ کاهش داد.",
-      "‏این کاهش نشان‌دهنده فشارهای ناشی از جنگ، بدهی بالا و ریسک‌های هوش مصنوعی است و می‌تواند سیاست‌های مالی و پولی را تحت تأثیر قرار دهد.",
-      "‏گزارش سه ریسک کلیدی شامل فشارهای انرژی، تمرکز زنجیره تأمین AI و بدهی عمومی را نیز برجسته کرد."
-    ],
-    "body_fa": "‏در اجلاس سالانه ۲۰۲۶ صندوق بین‌المللی پول و بانک جهانی در بانکوک، سلوانا تنریرو، مشاور اقتصادی و مدیر تحقیقات IMF ، چشم‌انداز اقتصادی جهان را ارائه کرد. بر اساس آخرین گزارش «World Economic Outlook»، رشد اقتصاد جهانی برای سال جاری ۳٫۱٪ پیش‌بینی می‌شود که نسبت به سال گذشته ۰٫۴ درصد کاهش دارد. تورم سرسری نیز در سال جاری ۴٫۷٪ و تا سال ۲۰۲۷ به ۴٫۱٪ کاهش می‌یابد. تنریرو دو نیروی مخالف را نامید: شوک منفی عرضه ناشی از جنگ‌ها و افزایش قیمت انرژی، و شوک مثبت تقاضا به‌دلیل سرمایه‌گذاری شدید در هوش مصنوعی. او سه ریسک اصلی را برجسته کرد: فشارهای انرژی و کالاها که می‌توانند رشد را به ۲٫۵٪ برسانند، تمرکز زنجیره تأمین AI در چند کشور و شرکت برتر، و بدهی عمومی بالا همراه با هزینه‌های بالای استقراض. برای مقابله، IMF توصیه کرد کشورها سیاست‌های مالی سختگیرانه‌تر اتخاذ کنند و بانک‌های مرکزی نرخ‌های بهره را در سطح مناسب نگه دارند. این هشدارها می‌تواند تصمیم‌گیری‌های سیاست‌گذاری در سطوح ملی و بین‌المللی را تحت تأثیر قرار داده و بازارهای مالی را به‌دقت تحت نظر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "پیش‌بینی رشد",
-    "tag": "IMF",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Pattaya Mail",
-    "url": "https://www.pattayamail.com/thailandnews/imf-warns-global-economy-is-running-out-of-room-to-absorb-shocks-at-bangkok-meetings-568293",
-    "clean_url": "https://www.pattayamail.com/thailandnews/imf-warns-global-economy-is-running-out-of-room-to-absorb-shocks-at-bangkok-meetings-568293",
-    "image": "https://www.pattayamail.com/wp-content/uploads/2026/10/t-01-IMF-warns-global-economy-is-running-out-of-room-to-absorb-shocks-at-Bangkok-meetings.jpg",
-    "timestamp": 1791932400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "83ebcf5efb",
-    "title_fa": "‏دیوان عالی آمریکا دعوی نظارتی Dogecoin الون ماسک را می‌پذیرد",
-    "title_en": "Supreme Court agrees to hear watchdog lawsuit seeking records on Elon Musk’s DOG...",
-    "summary": [
-      "‏دیوان عالی ایالات متحده تصمیم گرفت دعوی نظارتی برای دسترسی به اسناد توییت‌های الون ماسک درباره Dogecoin را بررسی کند.",
-      "‏این پرونده می‌تواند چارچوب قانونی نظارت بر رمزارزها و مسئولیت‌های شرکت‌های فناوری را تغییر دهد.",
-      "‏اگر دادگاه به نفع ناظر باشد، دسترسی به سوابق مشابه برای سایر افراد تاثیرگذار در بازارهای رمزارزی گسترش می‌یابد."
-    ],
-    "body_fa": "‏دیوان عالی ایالات متحده اعلام کرد که دعوی یک نهاد نظارتی برای دریافت اسناد دولتی مرتبط با توییت‌های الون ماسک درباره Dogecoin را بررسی خواهد کرد. این دعوی که سال گذشته دیوان عالی حکم خود را برای محدود کردن دستور دادگاه ناحیه‌ای مبنی بر ارائه اسناد صادر کرده بود، اکنون به مرحله تجدیدنظر رسیده است. ناظر ادعا می‌کند که توییت‌های ماسک تأثیر قابل‌توجهی بر قیمت Dogecoin داشته و نیاز به شفافیت دارد. اگر دیوان عالی به نفع ناظر حکم کند، می‌تواند پیشینه‌ای برای دسترسی به سوابق مشابه در موارد دیگر ایجاد کند و نظارت بر رمزارزها را تقویت کند. این تصمیم به‌ویژه برای شرکت‌های فناوری و بازارهای رمزارزی که تحت نظارت قانونی بیشتری قرار می‌گیرند، اهمیت دارد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "قضایای ایالات متحده",
-    "tag": "Dogecoin",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/supreme-court-elon-musk-doge-e04914af1491ed395e54efc783e0f19d",
-    "clean_url": "https://apnews.com/article/supreme-court-elon-musk-doge-e04914af1491ed395e54efc783e0f19d",
-    "image": "https://s.yimg.com/bo/0ae2070a-74bb-5ca8-ab49-20e4256141bf_1791529498866.jpg",
-    "timestamp": 1791923809.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "11a0916e8d",
-    "title_fa": "‏صادرات چین 36 ٪ افزایش یافت؛ حمل‌ونقل هوش مصنوعی رونق گرفت",
-    "title_en": "China’s exports surge 36% as AI-related shipments boom",
-    "summary": [
-      "‏صادرات چین در ماه اخیر 36% رشد کرد، بزرگ‌ترین افزایش سالانه.",
-      "‏این رشد به‌دلیل افزایش شدید ارسال‌های مرتبط با هوش مصنوعی است.",
-      "‏افزایش می‌تواند رقابت فناوری جهانی را تقویت و تراز تجاری چین را بهبود بخشد."
-    ],
-    "body_fa": "‏داده‌های گمرکی نشان می‌دهد که صادرات کل چین در سه ماه اخیر 36 درصد افزایش یافته است. بخش عمده این رشد مربوط به کالاهای مرتبط با هوش مصنوعی مانند چیپ‌های پردازشگر، روبات‌ها و تجهیزات داده‌کاوی است. تحلیل‌گران بر این باورند که این افزایش نشان‌دهنده پیشرفت سریع چین در زنجیره تأمین فناوری پیشرفته است. تقویت صادرات AI می‌تواند به چین کمک کند تا سهم بازارهای پیشرفته مانند ایالات متحده و اروپا را افزایش دهد. این تحولات ممکن است فشارهای تجاری موجود را تشدید کرده و سیاست‌های حمایت‌گرانه دیگر کشورها را در زمینه فناوری تحت تأثیر قرار دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "صادرات چین",
-    "tag": "صادرات",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791921060.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7c6fbbe4b8",
-    "title_fa": "‏قیمت طلا به زیر ۴۱۵۰ دلار سقوط کرد",
-    "title_en": "Gold slides on US yields surge ahead of CPI | FXStreet",
-    "summary": [
-      "‏قیمت طلا به ۴۱۵۷ دلار رسید و ۰٫۳۷٪ کاهش یافت",
-      "‏کاهش به دلیل افزایش بازده اوراق خزانه‌داری آمریکا پیش از انتشار CPI",
-      "‏همزمان نفت WTI به بالای ۹۴ دلار ارتقا یافت"
-    ],
-    "body_fa": "‏قیمت طلا (XAU/USD) در روز سه‌شنبه به ۴۱۵۷ دلار رسید و نسبت به روز قبل ۰٫۳۷ درصد کاهش یافت. این افت به دلیل صعود بازده اوراق قرضه ۱۰ ساله آمریکا به ۵٫۲۲۳ درصد بود که فشار بر دلار ایجاد کرد. داده‌های اخیر بازار کار نشان داد که متوسط تغییرات استخدام ADP کمی کاهش یافت و فروش خانه‌های موجود در سپتامبر ۱٫۵ درصد رشد کرد. با این حال، سرمایه‌گذاران به انتشار شاخص قیمت مصرف‌کننده (CPI) در روز چهارشنبه و اظهارات فدرال رزرو برای پیش‌بینی احتمال افزایش نرخ بهره توجه دارند. قیمت نفت خام WTI نیز به دلیل تنش‌های خلیج فارس به بالای ۹۴ دلار رسید. این تحولات نشان می‌دهد که نوسانات طلا به شدت به سیاست‌های پولی آمریکا و تحولات ژئوپلیتیک وابسته است.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/gold-slides-on-us-yields-surge-ahead-of-cpi-202610131742",
-    "clean_url": "https://www.fxstreet.com/news/gold-slides-on-us-yields-surge-ahead-of-cpi-202610131742",
-    "image": "https://s.yimg.com/bo/f027ce38-82b7-542e-a714-a6f2a414951e_1790255730890.jpg",
-    "timestamp": 1791914295.0,
     "sent_to_telegram": true
   }
 ]
