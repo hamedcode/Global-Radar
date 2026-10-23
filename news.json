@@ -22,6 +22,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "f00df7a00e",
+    "title_fa": "‏دولت Trump تعرفه 50 درصدی برخی کالاهای کانادا را لغو کرد",
+    "title_en": "Trump removes 50% tariffs on Canadian products to try to boost to Maine companies",
+    "summary": [
+      "‏ایالات متحده تعرفه 50 درصدی روی برخی محصولات کشاورزی و جنگل‌داری کانادا را لغو می‌کند.",
+      "‏این تصمیم با هدف کاهش فشار بر شرکت‌های ایالت Maine و حمایت از جمهوری‌خواهان شمالی اتخاذ شده است.",
+      "‏این معافیت می‌تواند تا حدی از شدت تنش‌های تجاری اخیر میان واشنگتن و اتاوا بکاهد."
+    ],
+    "body_fa": "‏دولت آمریکا قصد دارد تعرفه‌های سنگین 50 درصدی بر برخی از محصولات کشاورزی و چوب وارداتی از کانادا را حذف کند. این تصمیم با هدف حمایت اقتصادی از کسب‌وکارهای ایالت Maine و کمک به سناتور Susan Collins و دیگر نمایندگان جمهوری‌خواه ایالت‌های شمالی صورت می‌گیرد. اعمال این عوارض گمرکی سنگین باعث افزایش شدید هزینه‌ها و ایجاد مشکل در زنجیره تامین کارخانه‌های آمریکایی هم‌مرز با کانادا شده بود. کارشناسان معتقدند این عقب‌نشینی محدود می‌تواند گامی برای مهار تنش‌های تجاری فزاینده میان دو شریک بزرگ اقتصادی در آمریکای شمالی باشد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تجارت بین‌الملل و تعرفه",
+    "tag": "تعرفه",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-expected-remove-50-tariffs-some-canadian-agricultural-forestry-goods-wsj-2026-10-23/",
+    "clean_url": "https://www.reuters.com/business/us-expected-remove-50-tariffs-some-canadian-agricultural-forestry-goods-wsj-2026-10-23",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792753500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "539e94ab93",
     "title_fa": "‏موسک می‌گوید همه چیز درباره ادغام SpaceX‑Tesla گفته شد",
     "title_en": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
@@ -6575,28 +6597,6 @@
     "clean_url": "https://www.reuters.com/world/india/india-says-first-phase-us-trade-deal-finalised-2026-10-15",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792033020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ed7f9ba024",
-    "title_fa": "‏اوفیس Comptroller محدودیت‌های بانکی بر دارایی‌های دیجیتال را کاهش داد",
-    "title_en": "OCC says major banks are easing digital asset restrictions, with limits",
-    "summary": [
-      "‏اوفیس Comptroller گزارش داد که بانک‌های بزرگ آمریکا محدودیت‌های خود بر شرکت‌های دارایی دیجیتال را کاهش دادند",
-      "‏این می‌تواند دسترسی این شرکت‌ها به خدمات بانکی را بهبود بخشد و رشد صنعت کریپتو را تسهیل کند",
-      "‏همچنین برخی محدودیت‌ها همچنان باقی مانده و تصمیمات بیشتر بر ریسک شهرتی است"
-    ],
-    "body_fa": "‏اوفیس Comptroller در گزارشی منتشر شده در ۱۴ اکتبر، بررسی خود را از نه بانک ملی بزرگ ایالات متحده شامل JPMorgan Chase ، Bank of America ، Citibank ، Wells Fargo ، U.S. Bank ، Capital One ، PNC Bank ، TD Bank و BMO Bank ارائه داد. این بررسی دوره‌ای از سال ۲۰۲۰ تا سپتامبر ۲۰۲۵ شامل بررسی نزدیک به ۱۰۰,۰۰۰ شکایت و حدود ۴۲۰,۰۰۰ صفحه اسناد بانکی بود. نتایج نشان داد که این بانک‌ها به دلایل ریسک مالی‌جرم و به‌ویژه خطر پولشویی، سیاست‌های محدودکننده‌ای برای شرکت‌های دارایی دیجیتال اعمال کرده‌اند، اما بسیاری از این محدودیت‌ها به‌تازگی در چارچوب بازنگری‌های داخلی کاهش یافته‌اند. با این حال، برخی محدودیت‌ها همچنان باقی مانده و مقامات نظارتی به دشواری در تعیین دقیق میزان «دِبنکینگ» در سیستم بانکی اشاره کردند. این گزارش پس از فرمان اجرایی آگوست ۲۰۲۵ رئیس‌جمهور ترامپ برای مقابله با اعمال محدودیت‌های ناعادلانه بانکی منتشر شد و نشان‌دهنده تغییر رویکرد نسبت به ریسک شهرتی نسبت به ریسک واقعی مالی است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین بانکی",
-    "tag": "OCC",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/",
-    "clean_url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/15054008/library-occ-says-major-banks-are-easing-digital-asset-restrictio-800x450.png",
-    "timestamp": 1792032000.0,
     "sent_to_telegram": true
   }
 ]
