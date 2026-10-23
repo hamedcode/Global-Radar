@@ -22,6 +22,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "539e94ab93",
+    "title_fa": "‏موسک می‌گوید همه چیز درباره ادغام SpaceX‑Tesla گفته شد",
+    "title_en": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+    "summary": [
+      "‏موسک اعلام کرد درباره ادغام احتمالی SpaceX و Tesla تمام نکات گفته شد.",
+      "‏این موضوع پس از گزارش سود Tesla و سقوط سهام هر دو شرکت، بازارها را نگران کرده.",
+      "‏هر دو شرکت کمیته ویژه‌ای برای بررسی معامله تشکیل داده‌اند."
+    ],
+    "body_fa": "‏در تماس با سهامداران تسلا، ایلان ماسک گفت درباره احتمال ادغام با اسپیس‌اکس همه چیز را گفته است و دیگر به این موضوع پرداخته نخواهد شد. پیش از این، در گزارش سه ماهه سوم اسپیس‌اکس، ماسک تأیید کرد که دو شرکت کمیته‌های ویژه‌ای برای بررسی یک ترکیب رسمی تشکیل داده‌اند و این ایده را «ایده خوبی» می‌داند. این گفتگوها پس از انتشار نتایج مالی تسلا که شامل کاهش درآمد خودروسازی و افت شدید در بخش انرژی بود، رخ داد و باعث شد سهام تسلا ۳٪ کاهش یابد و تا کنون سالانه ۱۷٪ افت داشته باشد. در همین زمان، سهام اسپیس‌اکس ۹٪ سقوط کرد و به زیر قیمت افتتاحیهٔ خود پس از عرضه عمومی اولیه بازگشت. تحلیل‌گران ویلیام بلیر معتقدند هدف ماسک از ادغام، کنترل بیشتر است تا تقویت واقعی کسب‌وکارها و هنوز فرصت‌های مادی واضحی برای ترکیب رسمی دیده نمی‌شود.",
+    "category": "تکنولوژی",
+    "subcategory": "ادغام شرکت‌ها",
+    "tag": "ادغام",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+    "clean_url": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+    "image": "https://s.yimg.com/bo/cdee53cb-0c86-529c-ada4-f75423f07d74_1792754374938.jpg",
+    "timestamp": 1792753084.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2dca41a10a",
+    "title_fa": "‏بیت‌کوین بالای 81,000 دلار می‌ماند؛ نفت شش ماه اوج",
+    "title_en": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+    "summary": [
+      "‏بیت‌کوین بالای 81,000 دلار ثابت شد",
+      "‏این سطح نشان‌دهنده ادامه فشار خرید و تأثیر مثبت بر بازارهای رمزارز است",
+      "‏همزمان قیمت نفت به بالاترین سطح شش ماهه رسید"
+    ],
+    "body_fa": "‏بیت‌کوین در روز جمعه بالای 81,000 دلار ایستاد و از سقوط اخیر جلوگیری کرد. در همین زمان، قیمت نفت خام به بالاترین سطح شش ماهه خود رسید. این تحرکات در حالی رخ داد که بازده اوراق قرضه 10‑ساله ایالات متحده پس از سقوط 19 پایه نقطه‌ای روز قبل، 4.3 پایه نقطه به 4.994 درصد افزایش یافت و بازده دو ساله نیز 6 پایه نقطه به 4.695 درصد رسید. بازارهای سهام مانند Nasdaq و S&P 500 تقریباً ثابت مانده‌اند و اختلاف اوراق فرانسه نسبت به آلمان تغییر چندانی نکرده است. هفته آینده جلسه سیاست‌گذاری فدرال رزرو برگزار می‌شود و سرمایه‌گذاران به‌طور گسترده انتظار دارند نرخ بهره اصلی بدون تغییر باقی بماند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+    "image": "https://s.yimg.com/bo/e562d70b-7073-5ac5-88c9-b73b3bf2bc0b_1792774948935.png.cf.jpg",
+    "timestamp": 1792753084.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "acf1482dc2",
+    "title_fa": "‏Dow ۵۰۰ افت؛ خاورمیانه نفت را به ۱۱۷ دلار برد",
+    "title_en": "The Dow drops 500 points as fears of renewed Middle East fighting send oil soaring",
+    "summary": [
+      "‏Dow Jones حدود ۵۰۰ نقطه (۱.۱۵٪) سقوط کرد و به 52,258 رسید.",
+      "‏نگرانی از تشدید درگیری‌های ایالات متحده‑ایران باعث صعود ۴٪ برن‌ت نفت به ۱۱۷ دلار شد و فشار بر دارایی‌های ریسک‌پذیر را افزایش داد.",
+      "‏سرمایه‌گذاران به‌دنبال پناهگاه امن به اوراق قرضه دولتی رفتند؛ بازده ۱۰‑ساله نزدیک ۵٪ شد."
+    ],
+    "body_fa": "‏روز جمعه، شاخص Dow Jones Industrial Average حدود ۵۰۰ نقطه یا ۱.۱۵ درصد سقوط کرد و به 52,258 رسید. این افت به‌دلیل نگرانی‌های تازه از تشدید درگیری‌های میان ایالات متحده، اسرائیل و ایران بود که باعث صعود نزدیک ۴ درصدی قیمت نفت برنت به ۱۱۷ دلار در هر بشکه شد. افزایش قیمت نفت فشار بیشتری بر دارایی‌های پرخطر وارد کرد و باعث شد سرمایه‌گذاران به اوراق قرضه دولتی پناه ببرند؛ بازده ۱۰‑ساله نزدیک ۵ درصد شد. در همین زمان، بازارهای فناوری نیز تحت فشار قرار گرفتند؛ پس از گزارش‌های قبلی درباره هزینه‌های سرمایه‌ای هوش مصنوعی، سهام شرکت‌های بزرگی مانند Tesla و Meta دچار نوسان شد. علاوه بر این، شاخص‌های S&P 500 و Nasdaq 100 نیز به‌طور متناوب تغییرات کوچکی نشان دادند، در حالی که iShares Semiconductor ETF پس از سقوط روز قبل ۱ درصد افزایش یافت. نظرسنجی مصرف‌کننده دانشگاه میشیگان نشان داد که احساسات مصرف‌کنندگان در اکتبر به پایین‌ترین سطح پنج ماهه رسیده است، که نگرانی‌های اقتصادی را تشدید می‌کند. تحلیل‌گران هشدار دادند که ادامه تنش‌های خاورمیانه می‌تواند فشار بر بازارهای جهانی را افزایش داده و نوسانات بیشتری در سهام و کالاها ایجاد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام آمریکا",
+    "tag": "نفت",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/stock-market-dow-selloff-oil-prices-iran-war-2026-10",
+    "clean_url": "https://www.businessinsider.com/stock-market-dow-selloff-oil-prices-iran-war-2026-10",
+    "image": "https://i.insider.com/6adb7bfeab741a2ebdf10b96?width=1200&format=jpeg",
+    "timestamp": 1792751100.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9232ae6fc6",
     "title_fa": "‏HKEX دو شاخص هوش مصنوعی و نیمه‌رسانا راه‌اندازی کرد",
     "title_en": "HKEX launches AI and semiconductor indexes, licenses AI index in China",
@@ -110,6 +176,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2c18f423bf",
+    "title_fa": "‏مایکروسافت تصمیم به بسته شدن استودیوی Arkane می‌گیرد",
+    "title_en": "Beloved game studio's fate looks grim after Xbox abandons it",
+    "summary": [
+      "‏مایکروسافت قصد دارد استودیوی Arkane را که در لیون مستقر است، پیش از یافتن خریدار ببندد.",
+      "‏این تصمیم باعث نگرانی اتحادیه‌های کارگری و خطر لغو بازی Marvel’s Blade می‌شود.",
+      "‏مهلت یافتن خریدار تا 13 نوامبر تعیین شده و مذاکرات اخراجی به سختی پیش می‌رود."
+    ],
+    "body_fa": "‏مایکروسافت در برنامهٔ «ریست» خود برای Xbox ، که شامل بیش از 3000 اخراج تا سال 2027 است، اعلام کرد قصد دارد استودیوی Arkane Studios را ببندد. چون این استودیو در لیون فرانسه مستقر است، شرکت مجبور به رعایت قوانین کار فرانسوی شد و نمی‌تواند بلافاصله آن را تعطیل کند. به همین دلیل، مایکروسافت و Arkane دورهٔ مشاورهٔ سه‌ماهه‌ای را آغاز کردند که در آن مایکروسافت باید خریدار جدیدی برای استودیو پیدا کند و برنامهٔ حفاظت از شغل‌ها را با اتحادیه‌ها مذاکره کند. بر اساس گزارش Le Monde ، مهلت یافتن خریدار تا 13 نوامبر است و مذاکرات برنامهٔ اخراج به سختی پیش می‌رود. اتحادیه‌های کارگری، از جمله Printemps Écologique و اتحادیهٔ کارگران ویدئویی فرانسه (STJV)، خواستار تمدید مهلت و اتخاذ تدابیری برای بازگرداندن شغل‌ها هستند. اگر استودیو بسته شود، بازی Marvel’s Blade که در حال تکمیل است، ممکن است هرگز منتشر نشود. اتحادیه‌ها حتی تهدید به دعوی قضایی علیه مایکروسافت کرده‌اند تا توجیه اقتصادی بسته شدن را به چالش بکشند.",
+    "category": "گیم",
+    "subcategory": "استودیوهای بازی",
+    "tag": "Arkane",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Polygon",
+    "url": "https://www.polygon.com/arkane-studios-potential-closure-november-2026-microsoft/",
+    "clean_url": "https://www.polygon.com/arkane-studios-potential-closure-november-2026-microsoft",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/blade-screenshot.png?w=1600&h=900&fit=crop",
+    "timestamp": 1792745100.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a8a6e6c729",
     "title_fa": "‏بانک‌های مرکزی سنگاپور، مالزی و تایلند BLOOM را گسترش دادند",
     "title_en": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
@@ -129,6 +217,28 @@
     "clean_url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-13.23.12.png",
     "timestamp": 1792730340.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d680203a09",
+    "title_fa": "‏قیمت گاز طبیعی اروپا به بالاترین سطح از 2022 رسید",
+    "title_en": "European Natural Gas Prices Surge to Highest Level Since 2022",
+    "summary": [
+      "‏قیمت گاز طبیعی مرجع اروپا (TTF) در صبح جمعه ۳٪ افزایش یافت و به ۱۰۳.۴ دلار/مگاوات‌ساعت رسید.",
+      "‏این افزایش به دلیل محدودیت‌های LNG قطر و کاهش ذخایر قبل از فصل گرمایش است و می‌تواند فشار بر بازار انرژی را افزایند.",
+      "‏ذخایر گاز اتحادیه اروپا تنها حدود ۷۵٪ پر است، حدود ۱۰ درصد کمتر از متوسط پنج‌ساله."
+    ],
+    "body_fa": "‏قیمت مرجع گاز طبیعی اروپا در بازار TTF صبح جمعه با افزایش ۳٪ به ۱۰۳.۴ دلار برای هر مگاوات‌ساعت (حدود ۳۰ دلار برای هر MMBtu) رسید. این صعود به ادامه تنش‌های خاورمیانه که جریان LNG از قطر را محدود کرده و به کاهش موجودی ذخایر گاز قبل از شروع فصل گرمایش منجر شده است. ذخایر گاز اتحادیه اروپا در تاریخ ۲۲ اکتبر تنها ۷۴.۶۲٪ پر بود که حدود ۱۰ درصد کمتر از میانگین پنج‌ساله برای این دوره است. کاهش موجودی ذخایر و نگرانی از حملات حوثی به تأسیسات انرژی سعودی باعث شد قیمت نفت برنت نیز به ۱۱۴ دلار در هر بشکه برسد. تحلیل‌گران ING هشدار دادند که تا نیمه دوم زمستان ممکن است جریان‌های LNG به طور قابل‌توجهی کاهش یابد و قیمت گاز اروپا همچنان حساس به تحولات خلیج فارس باشد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت گاز طبیعی",
+    "tag": "قیمت گاز",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-to-Highest-Level-Since-2022.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-to-Highest-Level-Since-2022.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-23_k1norvipwa.jpg",
+    "timestamp": 1792726200.0,
     "sent_to_telegram": true
   },
   {
@@ -6487,116 +6597,6 @@
     "clean_url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions",
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/15054008/library-occ-says-major-banks-are-easing-digital-asset-restrictio-800x450.png",
     "timestamp": 1792032000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ed54ed4b96",
-    "title_fa": "‏Epic Games لانچر جدید ۴۶٪ سریع‌تر از Steam شد",
-    "title_en": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page",
-    "summary": [
-      "‏Epic Games لانچر بتای جدید خود را معرفی کرد که از حالت سرد تا صفحه فروشگاه ۴۶٪ سریع‌تر از Steam است.",
-      "‏این سرعت بالا می‌تواند تجربه بازیکنان را بهبود دهد و فشار رقابتی بر Steam را افزایش دهد.",
-      "‏لانچر جدید با استفاده از کدگذاری \"vibe\" و هوش مصنوعی بازنویسی شده و حجم ۳۰۰ مگابایت دارد."
-    ],
-    "body_fa": "‏Epic Games لانچر بتای جدیدی را منتشر کرد که ادعا می‌کند از حالت سرد تا صفحه فروشگاه ۴۶٪ سریع‌تر از Steam است و در بازگشت از سینی سیستم ۱۴٪ زمان کمتری می‌گیرد. این نسخه جدید با حجم تنها ۳۰۰ مگابایت و کدگذاری «vibe» که به معنای استفاده از هوش مصنوعی در توسعه است، ساخته شده. تیم فنی شرکت می‌گوید کل معماری، شامل شل، مدیر دانلود و کتابخانه، از پایه بازنویسی شده و قابلیت پشتیبانی از Windows ، macOS و نسخهٔ لینوکس را دارد. استفاده از هوش مصنوعی به تیم اجازه داد تا با تیم کوچکتر و زمان کوتاه‌تر ویژگی‌های جدید را پیاده‌سازی کند. این اقدام می‌تواند فشار رقابتی بر Steam را افزایش دهد و تجربهٔ کاربری بازیکنان را بهبود بخشد.",
-    "category": "گیم",
-    "subcategory": "پلتفرم بازی",
-    "tag": "Epic",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
-    "clean_url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
-    "image": "https://assetsio.gnwcdn.com/epic-games-launcher_kTybhO5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1792031700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "aac116993a",
-    "title_fa": "‏اوکراین آتش‌بس را نقض کرد و پالایشگاه روسیه هدف گرفت",
-    "title_en": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
-    "summary": [
-      "‏اوکراین با پهپاد و موشک به پالایشگاه نفتی روسیه حمله کرد",
-      "‏این اقدام پس از اعلام احساس خیانت زلنسکی از سوی ترامپ، تنش‌ها را تشدید کرد",
-      "‏حمله می‌تواند تأثیرات قابل‌توجهی بر بازارهای انرژی جهانی داشته باشد"
-    ],
-    "body_fa": "‏اوکراین امروز با پرتاب پهپاد و موشک به یک پالایشگاه نفتی در روسیه حمله کرد و به این ترتیب تعهد قبلی به آتش‌بس را لغو نمود. حمله چند دقیقه پس از اظهارات ولودیمیر زلنسکی بود که احساس خیانت از جانب دونالد ترامپ را پس از مذاکرات انرژی بیان کرد. این اقدام به سرعت واکنش‌های بین‌المللی را برانگیخت و نگرانی‌ها درباره تشدید درگیری در جبهه‌های انرژی را افزایش داد. کارشناسان هشدار دادند که هرگونه اختلال در تأمین نفت روسیه می‌تواند نوسانات شدید در قیمت‌های جهانی انرژی ایجاد کند. روسیه هنوز پاسخی رسمی به این حمله نداده است، اما احتمال پاسخ نظامی متقابل را از سوی مسلحین مسلح می‌دانند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "شکست آتش‌بس",
-    "tag": "پالایشگاه",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Associated Press News",
-    "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
-    "clean_url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792030440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "66f289e4df",
-    "title_fa": "‏فیوچرز Nasdaq ۱٪ سقوط کرد؛ ریزش AI ادامه دارد",
-    "title_en": "Nasdaq futures dive 1% as AI rout deepens on debt concerns",
-    "summary": [
-      "‏فیوچرز Nasdaq بیش از ۱٪ کاهش یافت",
-      "‏به دلیل نگرانی از بدهی‌ها و افزایش نرخ بهره، سرمایه‌گذاران از سهام هوش مصنوعی فروشتند",
-      "‏این ریزش می‌تواند فشار بیشتری بر بازارهای فناوری وارد کند"
-    ],
-    "body_fa": "‏فیوچرز Nasdaq در روز پنجشنبه بیش از یک درصد کاهش یافت. این افت در پی ریزش گسترده سهام مرتبط با هوش مصنوعی رخ داد. سرمایه‌گذاران نگران این هستند که افزایش نرخ بهره توانایی شرکت‌ها برای تأمین مالی پروژه‌های AI را محدود کند. به‌علاوه، نگرانی‌های مربوط به بدهی‌های بالای این شرکت‌ها فشار فروش را تشدید کرد. تحلیل‌گران پیش‌بینی می‌کنند این روند می‌تواند به کاهش ارزش کل بازارهای فناوری منجر شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "Nasdaq",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15/",
-    "clean_url": "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792027320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c4b61caf8d",
-    "title_fa": "‏سودهای TSMC به‌دلیل تقاضای هوش مصنوعی افزایش یافت",
-    "title_en": "Chipmaker TSMC profits surge amid relentless AI demand",
-    "summary": [
-      "‏سود خالص شرکت TSMC در سه ماهه اخیر به‌طور چشمگیری رشد کرد",
-      "‏این افزایش به‌واسطه تقاضای بی‌وقفه برای تراشه‌های هوش مصنوعی بود",
-      "‏افزایش سود می‌تواند سرمایه‌گذاران را به سمت سهام این تولیدکننده جذب کند"
-    ],
-    "body_fa": "‏شرکت پیشرو در ساخت تراشه‌های نیمه‌رسانا، TSMC ، گزارش داد که سود خالص خود را در دوره مالی اخیر به‌طور قابل توجهی افزایش داده است. این رشد عمدتاً ناشی از تقاضای مستمر و رو به رشد برای پردازنده‌های مخصوص هوش مصنوعی است که در مراکز داده و سرورهای پیشرفته استفاده می‌شوند. تقاضای شدید این نوع تراشه‌ها باعث شد تا سفارشات جدید به سرعت افزایش یابد و ظرفیت تولید شرکت به حداکثر برسد. نتایج مثبت مالی می‌تواند باعث جذب سرمایه‌گذاران به سهام TSMC شود و فشار خرید بر روی بازارهای فناوری را تقویت کند. این تحولات نشان می‌دهد که تقاضای هوش مصنوعی به‌عنوان یک محرک کلیدی برای رشد شرکت‌های نیمه‌رسانا تبدیل شده است.",
-    "category": "تکنولوژی",
-    "subcategory": "نیمه‌رسانا",
-    "tag": "TSMC",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792021500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "47ae64a82b",
-    "title_fa": "‏تورم بالا می‌رود، سهام می‌نرند",
-    "title_en": "Inflation Runs Hot, Stocks Go Cold",
-    "summary": [
-      "‏تورم در ماه اخیر به سطوح بالاتر از پیش‌بینی رسید.",
-      "‏این افزایش باعث سقوط شاخص‌های سهام شد و نگرانی‌های بازار را تشدید کرد.",
-      "‏بانک Bank of America نتایج ضعیفی اعلام کرد؛ بانک‌های سرمایه‌گذاری از رونق AI سود زیادی کسب کردند."
-    ],
-    "body_fa": "‏در ماه اخیر، نرخ تورم به سرعت افزایش یافت و از پیش‌بینی‌های اقتصاددانان فراتر رفت. این فشار قیمتی باعث شد شاخص‌های اصلی سهام به‌طور قابل‌توجهی کاهش یابند و سرمایه‌گذاران نگرانی‌های بیشتری درباره رشد اقتصادی نشان دهند. بانک Bank of America نیز گزارش مالی خود را منتشر کرد که نتایج ضعیف و کمتر از انتظار نشان می‌داد. در مقابل، بانک‌های سرمایه‌گذاری بزرگ به دلیل تقاضای فزاینده برای خدمات هوش مصنوعی، درآمدهای چشمگیری از این حوزه کسب کردند. این ترکیب از تورم بالا، افت بازار سهام و نتایج متفاوت بانک‌ها نشانگر نوسانات قابل توجهی در محیط اقتصادی است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "تورم و بازارهای مالی",
-    "tag": "تورم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a",
-    "clean_url": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a",
-    "image": "https://s.yimg.com/bo/50f2a56c-78f6-5b67-b21c-535252aba65e_1792011208145.jpg",
-    "timestamp": 1792009266.0,
     "sent_to_telegram": true
   }
 ]
