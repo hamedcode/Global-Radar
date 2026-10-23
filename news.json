@@ -1,5 +1,27 @@
 [
   {
+    "id": "f10def2be0",
+    "title_fa": "‏هواپیماها با بلیت‌های گران‌تر، از کاهش مسافران راضی‌اند",
+    "title_en": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+    "summary": [
+      "‏قیمت بلیت‌ها در سپتامبر بیش از 22 ٪ نسبت به سال گذشته افزایش یافت و تعداد مسافران هواپیماها کاهش یافت.",
+      "‏شرکت‌های هواپیمایی به جای پر کردن کامل صندلی‌ها، تمرکز خود را بر افزایش درآمد هر مسافر گذاشته‌اند.",
+      "‏قیمت جت‌فویل دو برابر شد و هزینه‌های اصلی هواپیمایی را تشکیل می‌دهد."
+    ],
+    "body_fa": "‏در سال جاری تعداد مسافرانی که از ایستگاه‌های امنیتی عبور می‌کنند برای اولین بار از سال 2020 کاهش یافته است، اما بلیت‌ها به دلیل افزایش شدید قیمت جت‌فویل بیش از 22 ٪ نسبت به سال گذشته گران‌تر شده‌اند. شرکت‌های بزرگ آمریکایی مانند American Airlines و Southwest Airlines اعلام کردند که هدف اصلی آن‌ها به‌دست آوردن درآمد بالاتر از هر مسافر است نه پر کردن کامل هواپیماها؛ به‌طوری‌که بارگیری هواپیماها به 83.4 ٪ کاهش یافت. قیمت جت‌فویل در سواحل خلیج آمریکا به 4.63 دلار در هر گالن رسیده و این هزینه بزرگ‌ترین هزینه پس از نیروی کار برای خطوط هوایی است. با این حال، مدیران این شرکت‌ها می‌گویند که افزایش کرایه‌ها و حتی هزینه‌های جدید مانند باری برای چمدان‌های چک‌شده، انتظارات درآمدی آن‌ها را برآورده کرده است. این استراتژی نشان می‌دهد که خطوط هوایی حاضرند به‌جای تمرکز بر تعداد مسافر، بر حاشیه سود هر بلیت تمرکز کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "صنعت هواپیمایی",
+    "tag": "قیمت بلیت",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+    "clean_url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+    "image": "https://s.yimg.com/bo/dc3d8eb2-defe-540a-96cb-18260a0e19e2_1792758322338.jpg",
+    "timestamp": 1792758412.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9232ae6fc6",
     "title_fa": "‏HKEX دو شاخص هوش مصنوعی و نیمه‌رسانا راه‌اندازی کرد",
     "title_en": "HKEX launches AI and semiconductor indexes, licenses AI index in China",
@@ -85,6 +107,28 @@
     "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026",
     "image": "https://s.yimg.com/bo/2bccb280-c69c-52f2-b08e-f202bb2b9ea9_1778669768852.jpg",
     "timestamp": 1792747881.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a8a6e6c729",
+    "title_fa": "‏بانک‌های مرکزی سنگاپور، مالزی و تایلند BLOOM را گسترش دادند",
+    "title_en": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+    "summary": [
+      "‏بانک‌های مرکزی سنگاپور، مالزی و تایلند به ابتکار BLOOM برای پرداخت‌های مرزی با استیبل‌کوین‌ها پیوستند.",
+      "‏این گسترش همکاری شامل Ripple ، Visa ، Mastercard و سایر نهادهای مالی است و می‌تواند روش‌های تسویه‌حساب بین‌المللی را تغییر دهد.",
+      "‏تمرکز بر سازگاری شبکه‌ها، احراز هویت و بررسی تحریم‌هاست."
+    ],
+    "body_fa": "‏بانک مرکزی سنگاپور (MAS) اعلام کرد که بانک‌های مرکزی مالزی (Bank Negara Malaysia) و تایلند (Bank of Thailand) به ابتکار BLOOM به عنوان اعضای سیاست‌گذار پیوستند. BLOOM که مخفف Borderless, Liquid, Open, Online, Multi-currency است، به بررسی استفاده از استیبل‌کوین‌های تنظیم‌شده و سپرده‌های بانکی توکنیزه برای پرداخت‌های مرزی می‌پردازد. در این پروژه، شرکت‌های فناوری مالی مانند Ripple ، Visa ، Mastercard ، Circle ، Coinbase و JPMorgan نیز مشارکت دارند. هدف اصلی ایجاد سازگاری بین شبکه‌های مختلف، اعمال کنترل‌های هویتی، بررسی تحریم‌ها و تسهیل تسویه‌حساب‌های بزرگ بین‌المللی است. این گسترش نشان‌دهنده تمایل بانک‌های مرکزی آسیا به پذیرش پول دیجیتال و ممکن است مسیر پذیرش گسترده‌تر استیبل‌کوین‌ها در نظام مالی جهانی را هموار کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پروژه‌های استیبل‌کوین",
+    "tag": "BLOOM",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-13.23.12.png",
+    "timestamp": 1792730340.0,
     "sent_to_telegram": true
   },
   {
@@ -6553,50 +6597,6 @@
     "clean_url": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a",
     "image": "https://s.yimg.com/bo/50f2a56c-78f6-5b67-b21c-535252aba65e_1792011208145.jpg",
     "timestamp": 1792009266.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b3550335bc",
-    "title_fa": "‏نظرسنجی Fed فشارهای قیمتی را با افزایش هزینه سوخت تشدید می‌کند",
-    "title_en": "Fed survey shows price pressures intensifying amid rise in fuel costs",
-    "summary": [
-      "‏نظرسنجی Fed نشان داد فشارهای قیمتی به دلیل رشد هزینه سوخت افزایش یافت",
-      "‏این می‌تواند تورم آمریکا را تشدید کرده و سیاست‌های پولی را تحت فشار قرار دهد",
-      "‏بازار کار همچنان در وضعیت کم‌استخدامی و کم‌اخراجی باقی مانده است"
-    ],
-    "body_fa": "‏یک نظرسنجی جدید از سوی Fed نشان داد که فشارهای قیمتی در ایالات متحده در حال تشدید است، به‌ویژه پس از افزایش هزینه سوخت. در عین حال، بازار کار همچنان در حالت کم‌استخدامی و کم‌اخراجی باقی مانده و نشانه‌ای از رکود جزئی است. این ترکیب از تورم رو به رشد و بازار کار ساکن می‌تواند فشار بر فدرال‌رزرو برای تغییر نرخ بهره ایجاد کند. تحلیل‌گران بر این باورند که داده‌های اخیر ممکن است مسیر سیاست‌های پولی را به سمت سخت‌گیری بیشتر سوق دهد. در نتیجه، سرمایه‌گذاران به دقت واکنش‌های بازار به این اطلاعات را دنبال می‌کنند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "تورم و سوخت",
-    "tag": "تورم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/fed-survey-shows-price-pressures-intensifying-amid-rise-fuel-costs-2026-10-14/",
-    "clean_url": "https://www.reuters.com/business/fed-survey-shows-price-pressures-intensifying-amid-rise-fuel-costs-2026-10-14",
-    "image": "https://s.yimg.com/bo/12ae9adb-d7d4-5e8e-bde4-4fdda508fc85_1791814475263.jpg",
-    "timestamp": 1792000746.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "eaf597be3d",
-    "title_fa": "‏IMF آمریکا و چین را به اصلاح مالی فراخواند",
-    "title_en": "IMF Urges U.S. to Cut Deficits as Bond Yields Surge, Tells China to Move Away...",
-    "summary": [
-      "‏IMF در نشست بانکوک، آمریکا را به کاهش کسری بودجه و چین را به کاهش وابستگی به صادرات دعوت کرد",
-      "‏این هشدار با افزایش نرخ بهره اوراق دولتی همزمان است و می‌تواند فشار بر بازارهای مالی جهانی را تشدید کند",
-      "‏Georgieva گفت تاخیر در اصلاحات مالی می‌تواند هزینه‌های بهره را بالا ببرد"
-    ],
-    "body_fa": "‏در نشست سالانه صندوق بین‌المللی پول و بانک جهانی در بانکوک، مدیرعامل IMF کریستالینا جورجیوا آمریکا را به اتخاذ تدابیر مالی برای کاهش کسری بودجه و چین را به کاهش وابستگی به صادرات و تقویت تقاضای داخلی فراخواند. او تأکید کرد که رشد اقتصادی به تنهایی نمی‌تواند بدهی‌های کلان آمریکا را به سرعت کاهش دهد و با توجه به افزایش نرخ بهره اوراق دولتی، فشار بر هزینه‌های بدهی‌ها بالا می‌رود. وزیر خزانه‌داری ایالات متحده، اسکات بسنت، که در این نشست حضور نداشت، به‌نظر می‌رسد تحت فشار انتخاباتی برای حفظ سیاست‌های مالی فعلی باشد. گزارش اخیر IMF درباره مانیتور مالی نشان می‌دهد که تأخیر در اصلاحات مالی می‌تواند هزینه‌های بهره را به‌طور قابل‌توجهی افزایش دهد و به خدمات عمومی آسیب برساند. برای چین، صندوق پیشنهاد کرد که با کاهش مازاد تجاری تاریخی و تقویت مصرف داخلی، تعادل ساختاری بهبود یابد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست مالی",
-    "tag": "IMF",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "International Business Times · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/policy/articles/imf-urges-u-cut-deficits-173714695.html",
-    "clean_url": "https://finance.yahoo.com/economy/policy/articles/imf-urges-u-cut-deficits-173714695.html",
-    "image": "https://media.zenfs.com/en/international_business_times_990/1fd37f3b32b558486078dc21f741828a.jpg",
-    "timestamp": 1792000744.0,
     "sent_to_telegram": true
   }
 ]
