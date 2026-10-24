@@ -1,5 +1,115 @@
 [
   {
+    "id": "bef274b99a",
+    "title_fa": "‏در حمله مسلحانه به روستای تارابای نیجریه، ۴۰ کشته شدند",
+    "title_en": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International...",
+    "summary": [
+      "‏حداقل ۴۰ نفر در یک حمله مسلحانه به روستای تارابای ایالت تارابا در نیجریه کشته شدند.",
+      "‏این قتل‌عام نشان‌دهنده تشدید ناامنی در شمال‌شرقی نیجریه و نگرانی‌های بین‌المللی دربارهٔ گسترش خشونت است.",
+      "‏سازمان عفو بین‌الملل این رویداد را به عنوان نقض جدی حقوق بشر محکوم کرد."
+    ],
+    "body_fa": "‏امروز گروهی مسلح به روستای کوچکی در ایالت تارابای شمال‌شرقی نیجریه حمله کردند و حداقل ۴۰ نفر را کشته‌اند. این حمله که به‌نظر می‌رسد توسط باندهای مسلح یا شبه‌نظامی انجام شده، باعث تخریب خانه‌ها و فرار ساکنان شد. سازمان عفو بین‌الملل پس از دریافت گزارش‌ها، این قتل‌عام را نقض جدی حقوق بشر اعلام کرد و خواستار تحقیق مستقل شد. این رویداد نشان می‌دهد که ناامنی در نواحی شمال‌شرقی نیجریه، که پیش از این با حملات گروه‌های تروریستی بوبو هارام و باندهای مسلح مواجه بوده، همچنان تشدید می‌شود. دولت نیجریه وعده داده است که نیروهای امنیتی را برای مهار این گروه‌ها تقویت کند، اما چالش‌های امنیتی و کمبود منابع مانع از پیشگیری مؤثر می‌شود.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات مسلحانه",
+    "tag": "نایجریه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/gunmen-kill-least-40-people-northeastern-nigeria-amnesty-international-says-2026-10-24/",
+    "clean_url": "https://www.reuters.com/world/africa/gunmen-kill-least-40-people-northeastern-nigeria-amnesty-international-says-2026-10-24",
+    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
+    "timestamp": 1792868621.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cbab26db48",
+    "title_fa": "‏مالکان ثروتمند بیت‌کوین به وام و سود می‌پردازند",
+    "title_en": "Bitcoin’s wealthy holders are moving from trading to private banking, Xapo CEO s...",
+    "summary": [
+      "‏مالکان ثروتمند بیت‌کوین دارایی‌های خود را به عنوان وثیقه وام می‌گیرند و از پس‌اندازهای دلاری سود بیت‌کوینی دریافت می‌کنند.",
+      "‏این تغییر نشان‌دهندهٔ رشد خدمات بانکی خصوصی برای رمزارزها و تقاضای بالای سرمایه‌گذاران برای درآمد و بازده است.",
+      "‏Xapo با هزینهٔ عضویت سالانه ۱۰۰۰ دلار، ذخیره‌سازی سوئیسی و دسترسی به وام و سرمایه‌گذاری‌های بیت‌کوین را فراهم می‌کند."
+    ],
+    "body_fa": "‏به گفتهٔ Seamus Rocca ، مدیرعامل Xapo Bank ، دارندگان بزرگ بیت‌کوین به‌تدریج از معامله‌گری به خدمات بانکی خصوصی روی می‌آورند. مشتریان این بانک در گبرالتار، بیت‌کوین خود را به‌عنوان وثیقه برای دریافت وام استفاده می‌کنند و همچنین از حساب‌های پس‌انداز دلاری بهره‌مند می‌شوند که سود به‌صورت بیت‌کوین پرداخت می‌شود. این رویکرد به سرمایه‌گذاران امکان می‌دهد نقدینگی لازم را بدون فروش دارایی‌های دیجیتال به‌دست آورند و در عین حال در طول زمان بیت‌کوین بیشتری جمع‌آوری کنند. Xapo با هزینهٔ عضویت سالانه ۱۰۰۰ دلار، ترکیبی از بانکداری دلاری، نگهداری امن بیت‌کوین در انبارهای سوئیسی و دسترسی به محصولات وام و سرمایه‌گذاری ارائه می‌دهد. این تحول نشان می‌دهد که بازار رمزارزها به مرحلهٔ بلوغ رسیده و تقاضا برای ابزارهای مالی پیشرفته در حال افزایش است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "خدمات مالی رمزارز",
+    "tag": "وام",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+    "clean_url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+    "image": "https://s.yimg.com/bo/cab3ee76-5a2b-5b24-85cc-86fe1d9a2030_1792865422771.jpg",
+    "timestamp": 1792849841.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8548eef20c",
+    "title_fa": "‏بولا تینوبو کمپین انتخاباتی خود را در نیجریه آغاز کرد",
+    "title_en": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition",
+    "summary": [
+      "‏بولا تینوبو برای دوره دوم ریاست جمهوری خود در نیجریه کمپین انتخاباتی را آغاز کرد.",
+      "‏این حرکت در میانه بحران هزینه‌های زندگی و تفرقه در جبهه مخالفان صورت می‌گیرد، که می‌تواند نوسانات سیاسی و اقتصادی منطقه‌ای را تشدید کند.",
+      "‏مخالفان تقسیم شده بین احزاب مختلف و گروه‌های نخبگان، توانایی متحد کردن رأی‌دهندگان را محدود می‌کند."
+    ],
+    "body_fa": "‏رئیس‌جمهور نیجریه بولا تینوبو رسماً کمپین انتخاباتی برای دوره دوم خود را آغاز کرد. این تصمیم در حالی صورت می‌گیرد که کشور با بحران شدید هزینه‌های زندگی مواجه است و تورم به سطوح بالایی رسیده است. جبهه مخالفان نیز به دلیل اختلافات داخلی بین احزاب و گروه‌های نخبگان به‌طور قابل‌توجهی تفرقه دارد. این تفرقه توانایی متحد کردن رأی‌دهندگان را کاهش می‌دهد و پیش‌بینی‌های انتخابی را پیچیده می‌کند. اگر تینوبو باز هم به قدرت برسد، سیاست‌های اقتصادی‌اش می‌تواند تأثیر مستقیم بر ثبات مالی و امنیت منطقه‌ای داشته باشد. در عین حال، انتخابات نیجریه به عنوان بزرگ‌ترین انتخابات در آفریقای غربی، توجه بین‌المللی را به خود جلب کرده است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "انتخابات نایجریه",
+    "tag": "Tinubu",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/nigeria-election-tinubu-president-opposition-fdc2c405ddcf1b9e47bb805586be366e",
+    "clean_url": "https://apnews.com/article/nigeria-election-tinubu-president-opposition-fdc2c405ddcf1b9e47bb805586be366e",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792845180.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e6221d718d",
+    "title_fa": "‏دروپ‌های اوکراینی به تگلایات روسیه صدمات جدی وارد کردند",
+    "title_en": "Russia says drone attack damages Togliatti facilities, Ukraine says...",
+    "summary": [
+      "‏در تگلایات، شهر صنعتی روسیه، چندین کارخانه توسط پهپادهای شلیک‌شده تخریب شدند.",
+      "‏این حمله به گزارش روسیه، تولید خودروهای AvtoVAZ را مختل کرده و تنش‌های روسیه‑اوکراین را تشدید می‌کند.",
+      "‏اوکراین ادعا کرد که مسئول این عملیات بوده و هدف زیرساخت‌های نظامی بود."
+    ],
+    "body_fa": "‏در روز دوشنبه، شهر صنعتی تگلایات در روسیه مورد حملهٔ پهپادی قرار گرفت. به گزارش مقامات روسی، چندین کارخانه از جمله کارخانهٔ خودروسازی AvtoVAZ که بزرگ‌ترین تولیدکنندهٔ خودرو در کشور است، آسیب‌های جدی دیدند. آسیب‌ها شامل تخریب بخش‌های تولیدی و زیرساخت‌های انرژی بوده و احتمالاً تولید خودروها را برای چند هفته مختل می‌کند. وزیر دفاع روسیه این حمله را «عملیاتی تخریبی» توصیف کرد و مسئولیت آن را به نیروهای اوکراین نسبت داد. از سوی دیگر، نهادهای نظامی اوکراین اعلام کردند که این عملیات توسط نیروهای ویژهٔ خود انجام شده و هدف زیرساخت‌های نظامی روسیه بوده. این رخداد می‌تواند فشار اقتصادی بر صنعت خودروسازی روسیه را افزایش دهد و تنش‌های نظامی میان مسلحین دو کشور را تشدید کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات هوایی",
+    "tag": "دروپ",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-2026-10-24/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-2026-10-24",
+    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
+    "timestamp": 1792839041.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4b083b67cb",
+    "title_fa": "‏تظاهرات پاریس به خشونت کشید؛ آمریکا تنش با ایران آماده",
+    "title_en": "Paris Protests Turn Violent, US Prepares for Iran Escalation",
+    "summary": [
+      "‏تظاهرات در پاریس به درگیری‌های مسلحانه تبدیل شد",
+      "‏ایالات متحده اعلام کرد برای مواجهه با تشدید تنش‌های احتمالی با ایران آماده می‌شود",
+      "‏این تحولات می‌تواند بر روابط بین‌المللی و بازارهای جهانی اثر بگذارد"
+    ],
+    "body_fa": "‏در پاریس تظاهراتی که به دلیل مسائل داخلی برگزار شد، به سرعت به درگیری‌های مسلحانه تبدیل گشت و نیروهای پلیس با استفاده از گاز اشک‌آور و توپ‌های آب به کنترل وضعیت پرداختند. در همین حین، مقامات ایالات متحده اعلام کردند که برای مواجهه با احتمال تشدید تنش‌های نظامی با ایران، آماده‌سازی‌های لازم را در حال انجام دارند. این اظهارات شامل افزایش حضور نظامی در خلیج فارس و بررسی گزینه‌های واکنش سریع می‌شود. کارشناسان هشدار دادند که ترکیب این دو رویداد می‌تواند نوساناتی در بازارهای مالی و تغییراتی در سیاست‌های خارجی ایجاد کند. در ادامه، دولت فرانسه نیز نسبت به حفظ امنیت شهر و جلوگیری از گسترش خشونت‌ها اقدام می‌کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "تنش‌های بین‌المللی",
+    "tag": "پاریس",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/audio/2026-10-24/protests-turn-violent-in-paris-us-prepares-for-iran-escalation",
+    "clean_url": "https://www.bloomberg.com/news/audio/2026-10-24/protests-turn-violent-in-paris-us-prepares-for-iran-escalation",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792838640.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9ec22d82d8",
     "title_fa": "‏اندونزی صادرات گاز لوله‌ای به سنگاپور را ۹٪ کاهش داد",
     "title_en": "Indonesia cuts pipeline gas exports to Singapore by about 9%",
@@ -41,6 +151,28 @@
     "clean_url": "https://www.reuters.com/science/spacexs-satellite-connection-renewed-over-400-kmh-ukraines-defence-minister-says-2026-10-24",
     "image": "https://s.yimg.com/bo/1ecdfe20-b0bc-5a7b-9112-6a67bb38c0ce_1792830210820.jpg",
     "timestamp": 1792828054.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a446571db7",
+    "title_fa": "‏سهام Berkshire Hathaway به رکورد تاریخی جدید رسید",
+    "title_en": "Berkshire shares shake the Buffett blues with new all-time highs",
+    "summary": [
+      "‏سهام کلاس A برکشیر هاثوی به 820,500 دلار و کلاس B به 546.97 دلار بسته شد.",
+      "‏این رکورد نشان‌دهنده بازگشت سرمایه‌گذاران پس از سقوط پس از اعلام استعفای بافت است و عملکرد برتر نسبت به شاخص‌های اصلی.",
+      "‏پس از کاهش 15 ٪، سهام در ماه جاری 18 ٪ رشد کرده و نسبت به S&P 500 پیشی گرفته است."
+    ],
+    "body_fa": "‏پس از تقریباً ۱۸ ماه کاهش، سهام Berkshire Hathaway به بالاترین سطح تاریخی خود رسید؛ کلاس A به 820,500 دلار و کلاس B به 546.97 دلار بسته شدند. این رشد پس از اعلام استعفای ناگهانی وارن بافت به عنوان مدیرعامل در جلسه سهامداران 2025 رخ داد که ابتدا باعث افت ۱۴٪ سود عملیاتی سه ماهه اول شد. تحلیل‌گران همچون Brian Meredith از UBS معتقدند فرهنگ و استراتژی شرکت تحت رهبری جدید Greg Abel بدون تغییر باقی می‌ماند. سرمایه‌گذاران نگران از دست رفتن «پریمیوم بافت» بودند، اما پس از کاهش ۱۴٫۳٪ در کلاس A و تقریباً ۱۵٪ در کلاس B ، سهام در ماه جاری ۱۸٪ افزایش یافت. این عملکرد باعث شد که سود سالانه Berkshire نسبت به شاخص S&P کمتر از چهار درصد اختلاف داشته باشد و نسبت به شاخص‌های فناوری و AI که در حال افت هستند، برتری نشان دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "Berkshire",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+    "clean_url": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108140589-1746452074826-108140589-17462990522025-05-03t185121z_880885241_rc2iaeab02cu_rtrmadp_0_berkshire-buffett.jpg?v=1754407778&w=1920&h=1080",
+    "timestamp": 1792820880.0,
     "sent_to_telegram": true
   },
   {
@@ -151,6 +283,28 @@
     "clean_url": "https://www.reuters.com/legal/government/key-dates-latest-slump-us-ukrainian-ties-2026-10-24",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792811580.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "866f393f06",
+    "title_fa": "‏پلیس فرانسه برای مهار تظاهرات در پاریس ۷۰٬۰۰۰ نفر را به کار گرفت",
+    "title_en": "Violence flares in Paris after largely peaceful protests across France",
+    "summary": [
+      "‏وزیر کشور فرانسه برای مهار تظاهرات در سرتاسر کشور ۷۰٬۰۰۰ نیروی پلیس اعزام کرد.",
+      "‏این تعداد ۱۰٬۰۰۰ نفر بیشتر از تظاهرات ۱۷ اکتبر است و نشان‌دهنده نگرانی دولت از حفظ نظم است.",
+      "‏در برخی شهرها تخریب و غارت رخ داد که توانایی دولت در کنترل وضعیت را زیر سؤال برد."
+    ],
+    "body_fa": "‏وزیر کشور فرانسه پس از انتشار گسترده تظاهرات در سراسر کشور، ۷۰٬۰۰۰ نفر نیروی پلیس را به‌کار گرفت؛ این رقم ۱۰٬۰۰۰ نفر بیشتر از تعداد نیروهایی است که در تظاهرات ۱۷ اکتبر برای مقابله با تخریب و غارت به کار رفته بودند. این اقدام نشان‌دهنده نگرانی دولت از توانایی حفظ نظم عمومی است و در پاریس به‌ویژه به‌خاطر درگیری‌های مسلحانه و تخریب اموال، نگرانی‌های بیشتری ایجاد کرده است. مقامات اعلام کردند که هدف اصلی جلوگیری از گسترش خشونت و حفظ امنیت شهروندان است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "ناآرامی‌های داخلی",
+    "tag": "پروتستان",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/france-mounts-huge-security-operation-protesters-prepare-march-2026-10-24/",
+    "clean_url": "https://www.reuters.com/world/europe/france-mounts-huge-security-operation-protesters-prepare-march-2026-10-24",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792809420.0,
     "sent_to_telegram": true
   },
   {
@@ -6443,160 +6597,6 @@
     "clean_url": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792092360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8a2a8aa75d",
-    "title_fa": "‏مذاکرات برای پایان اعتصاب در معدن مس شیلی بی‌نتیجه ماند",
-    "title_en": "No breakthrough in talks at Antofagasta's striking Centinela copper mine, unions...",
-    "summary": [
-      "‏مذاکرات میان شرکت Antofagasta Minerals و دو اتحادیه کارگری در معدن مس Centinela در شیلی بدون دستیابی به توافق متوقف شد.",
-      "‏تداوم اعتصاب در این معدن بزرگ می‌تواند عرضه جهانی مس را با اختلال و نوسان قیمت مواجه کند.",
-      "‏کارگران به شرایط دستمزد و مزایا معترض هستند و فعلاً زمان مشخصی برای دور جدید گفت‌وگوها اعلام نشده است."
-    ],
-    "body_fa": "‏مذاکرات میان مدیران شرکت Antofagasta Minerals و نمایندگان دو اتحادیه کارگری در معدن مس Centinela در کشور شیلی بدون رسیدن به توافق متوقف شد. کارگران این معدن در اعتراض به شرایط مزدی و بسته‌های پیشنهادی دست به اعتصاب زده‌اند و رایزنی‌های میانجی‌گرانه اخیر نیز نتوانسته اختلافات را حل کند. شیلی بزرگ‌ترین تولیدکننده مس در جهان است و ادامه توقف فعالیت در این معدن بزرگ می‌تواند زنجیره تأمین جهانی این فلز سرخ را دچار چالش کند. با وجود اصرار اتحادیه‌ها بر مطالبات خود، شرکت اعلام کرده که پیشنهادات ارائه‌شده منصفانه بوده است. فعالان بازار فلزات تحولات این اعتصاب را به‌دقت زیر نظر دارند، چرا که تداوم آن می‌تواند محرک رشد قیمت جهانی مس شود.",
-    "category": "انرژی و کالا",
-    "subcategory": "فلزات پایه و مس",
-    "tag": "مس",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/world-at-work/no-breakthrough-talks-antofagastas-striking-centinela-copper-mine-unions-say-2026-10-15/",
-    "clean_url": "https://www.reuters.com/business/world-at-work/no-breakthrough-talks-antofagastas-striking-centinela-copper-mine-unions-say-2026-10-15",
-    "image": "https://s.yimg.com/bo/23ea8baf-9b9e-513f-8a4b-75c4375a6a43_1792085908087.jpg",
-    "timestamp": 1792084747.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d7439402e6",
-    "title_fa": "‏دستور محدود کردن Starshield اوکراین از کاخ سفید صادر شد",
-    "title_en": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-    "summary": [
-      "‏دستور داخلی کاخ سفید برای محدود کردن استفاده اوکراین از سامانه ماهواره‌ای Starshield صادر شد",
-      "‏این تصمیم می‌تواند توان ارتباطی میدانی و عملیات پهپادی اوکراین را تحت فشار قرار دهد",
-      "‏منبع‌ها می‌گویند این اقدام برای جلوگیری از ریسک‌های امنیتی انجام شده"
-    ],
-    "body_fa": "‏دو مقام آمریکایی و یک مقام غربی اعلام کردند که دستور محدود کردن سامانه ماهواره‌ای Starshield که اوکراین برای ارتباطات میدانی و عملیات پهپادی استفاده می‌کند، از داخل کاخ سفید صادر شده است. این سامانه نقش مهمی در برقراری ارتباطات امن و کنترل پهپادها در جبهه دارد. مقامات گفتند این تصمیم به دلایل امنیتی و جلوگیری از گسترش ریسک‌های نظامی اتخاذ شده است. محدود شدن دسترسی اوکراین به Starshield می‌تواند توان عملیاتی آن در جنگ جاری را کاهش دهد و نشان‌دهنده تغییر در سیاست حمایت نظامی ایالات متحده است. این خبر نشان می‌دهد که واشنگتن ممکن است در مواجهه با فشارهای بین‌المللی یا داخلی، رویکرد خود را نسبت به کمک‌های نظامی به اوکراین بازنگری کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حمایت نظامی اوکراین",
-    "tag": "Starshield",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/",
-    "clean_url": "https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792080420.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0ee90ef837",
-    "title_fa": "‏پیتَر ریس به عنوان رئیس محتوا Netflix منصوب شد",
-    "title_en": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-    "summary": [
-      "‏بلا باجاریا از سمت رئیس محتوا در Netflix استعفا داد و پیتَر ریس جایگزین او شد",
-      "‏این تغییر پس از اخراج ۶٪ نیروی کار می‌تواند استراتژی تولید و برنامه‌های ورزشی Netflix را شکل دهد",
-      "‏ریس پیش از این در Disney و 21st Century Fox مسئولیت‌های کلان داشت"
-    ],
-    "body_fa": "‏Netflix روز پنج‌شنبه اعلام کرد که پیتَر ریس، کارگردان پیشین Disney ، از ۲۶ اکتبر به عنوان رئیس محتوا شرکت منصوب می‌شود. ریس پیش از این بر کانال‌های کابلی Disney ، برنامه‌های خبری و پوشش رویدادهای ورزشی بزرگ نظارت داشت و در 21st Century Fox و Fox Searchlight Pictures نیز نقش‌های کلیدی ایفا کرده بود. او جایگزین بلا باجاریا می‌شود که پس از نزدیک به ده سال خدمت، به ویژه در استراتژی ورزشی زنده، شرکت را ترک می‌کند. این انتصاب همزمان با اخراج حدود ۱٬۰۰۰ نفر، معادل ۶٪ نیروی کار Netflix ، صورت گرفت. سهام این شرکت تا کنون بیش از ۲۰٪ در سال جاری کاهش یافته اما در معاملات پس از بسته شدن بازار تغییر چندانی نداشت. نتایج مالی سه ماهه بعدی شرکت در روز سه‌شنبه منتشر خواهد شد.",
-    "category": "تکنولوژی",
-    "subcategory": "مدیریت محتوا",
-    "tag": "Netflix",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-    "clean_url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108245941-1766777565238-gettyimages-2239632506-Netflixs__A_House_of_Dynamite_Premiere.jpeg?v=1789589587&w=1920&h=1080",
-    "timestamp": 1792076220.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "83ae343a07",
-    "title_fa": "‏کونسورسیوم کوانتومی اروپا از یکنواخت‌سازی کنترل‌های صادراتی می‌طلبد",
-    "title_en": "Export controls must not stifle quantum innovation, QuIC warns",
-    "summary": [
-      "‏کونسورسیوم کوانتومی اروپا (QuIC) در یک برگه موقعیتی خواستار هماهنگ‌سازی مجوزهای صادراتی در اتحادیه اروپا شد.",
-      "‏عدم یکنواختی مجوزها مانع رشد شرکت‌های کوانتومی و تجاری‌سازی فناوری‌های نوین می‌شود.",
-      "‏این پیشنهاد به ارزیابی مقررات دو‑استفاده (EU 2021/821) توسط کمیسیون اروپا کمک می‌کند."
-    ],
-    "body_fa": "‏کونسورسیوم کوانتومی اروپا (QuIC) در یک برگه موقعیتی تأکید کرد که تفاوت‌های ملی در صدور مجوزهای صادراتی، مانع پیشرفت شرکت‌های کوانتومی در بازار واحد اروپا شده است. این ناهماهنگی باعث تأخیر در تجاری‌سازی فناوری‌های محاسبه، ارتباط و حسگری کوانتومی می‌شود و به‌ویژه برای شرکت‌های کوچک و متوسط خطرناک است. QuIC پیشنهاد می‌کند که قوانین دو‑استفاده (Regulation (EU) 2021/821) به‌صورت یکسان در تمام کشورهای عضو اجرا شود و روابط تجاری با شرکای معتبر از طریق تبادل مجوزهای ساده‌تر تقویت گردد. همچنین بر نیاز به راهنمایی واضح برای انتقال فناوری‌های ناملموس مانند محاسبهٔ کوانتومی از راه دور و الگوریتم‌های مستقل تأکید شد. هدف نهایی، ایجاد چارچوبی پیش‌بینی‌پذیر و متناسب با اندازهٔ شرکت‌هاست تا نوآوری در حوزهٔ کوانتوم در اروپا تسریع یابد.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین صادراتی",
-    "tag": "کوانتوم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "quantumzeitgeist",
-    "url": "https://quantumzeitgeist.com/quic-export-controls-must-stifle-quantum/",
-    "clean_url": "https://quantumzeitgeist.com/quic-export-controls-must-stifle-quantum",
-    "image": "https://www.bing.com/th?id=ONUT.NSOCFeKJshmMv7AhKdgu7Q",
-    "timestamp": 1792075014.8366137,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5aa8f00353",
-    "title_fa": "‏اوکراین مراکز داده روسیه را خاموش کرد",
-    "title_en": "Ukraine knocked out Russian data centers. The shutdown revealed how fragile their digital infrastructure is",
-    "summary": [
-      "‏اوکراین با یک حمله موفق، چند مرکز داده بزرگ روسیه را از کار انداخت",
-      "‏این اقدام نشان داد زیرساخت‌های دیجیتال روسیه چقدر آسیب‌پذیر است",
-      "‏حمله می‌تواند خدمات اینترنتی و مالی کشور را مختل کند"
-    ],
-    "body_fa": "‏اوکراین در جریان جنگ جاری با روسیه، یک حمله سایبری هدفمند به یکی از شرکت‌های بزرگ فناوری روسیه انجام داد. این حمله باعث قطع عملکرد چند مرکز داده کلیدی این شرکت شد و سرویس‌های آنلاین مرتبط را برای ساعت‌ها از دسترس خارج کرد. مسئولین اوکراین اعلام کردند این عملیات تنها با یک نفوذ موفق به دست آمد و نشان‌دهنده ضعف ساختار دیجیتال روسیه است. کارشناسان فناوری اطلاعات افزودند که چنین حملات می‌توانند به سرعت خدمات اینترنتی، بانکی و ارتباطی را در مقیاس وسیع مختل کنند. این رویداد احتمالاً فشار بین‌المللی برای تقویت دفاع سایبری روسیه را افزایش خواهد داد و نشانگر گسترش میدان جنگ به فضای دیجیتال است. در عین حال، این اقدام می‌تواند به تحریم‌های بیشتر علیه شرکت‌های فناوری روسیه منجر شود.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حملات سایبری",
-    "tag": "حمله‌سایبری",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Popular Mechanics on MSN",
-    "url": "https://www.msn.com/en-us/news/other/ukraine-knocked-out-russian-data-centers-the-shutdown-revealed-how-fragile-their-digital-infrastructure-is/ar-AA2ej1YI?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-us/news/other/ukraine-knocked-out-russian-data-centers-the-shutdown-revealed-how-fragile-their-digital-infrastructure-is/ar-AA2ej1YI",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792074958.6022518,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8dfe69ab7c",
-    "title_fa": "‏MSCI اندونزی را از شاخص‌های بازارهای نوظهور حذف می‌کند",
-    "title_en": "Indonesia gets a 'wake-up call' as MSCI prepares to expel it from global indexes",
-    "summary": [
-      "‏MSCI اعلام کرد اندونزی دیگر شایستگی وضعیت \"بازار نوظهور\" را ندارد و قصد دارد آن را از شاخص‌های جهانی حذف کند",
-      "‏این تصمیم می‌تواند سرمایه‌گذاری‌های خارجی را کاهش داده و فشار بر ارز روپیه و بازار سهام اندونزی ایجاد کند",
-      "‏اندونزی باید اصلاحات ساختاری برای بازگشت به شاخص‌های نوظهور انجام دهد"
-    ],
-    "body_fa": "‏سازنده شاخص‌های جهانی MSCI اعلام کرد که بازار سهام اندونزی دیگر معیارهای لازم برای حفظ وضعیت \"بازار نوظهور\" را برآورده نمی‌کند و برنامه دارد این کشور را از مجموعه شاخص‌های مورد پیگیری سرمایه‌گذاران جهانی حذف کند. این اقدام ناشی از مشکلات مداوم در نقدینگی، حاکمیت شرکتی و شفافیت بازار است که باعث کاهش جذابیت برای سرمایه‌گذاران خارجی شده است. حذف از شاخص‌های MSCI می‌تواند باعث خروج سرمایه‌های بین‌المللی، فشار بر ارز روپیه و کاهش ارزش شاخص بورس اندونزی شود. دولت اندونزی در واکنش به این هشدار، وعده اصلاحات ساختاری و بهبود معیارهای بازار را داده تا بتواند دوباره به شاخص‌های نوظهور بازگردد. کارشناسان پیش‌بینی می‌کنند که این تصمیم در کوتاه‌مدت نوسانات قابل توجهی در بازارهای منطقه‌ای ایجاد خواهد کرد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای سهام",
-    "tag": "MSCI",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/msci-weighs-downgrading-indonesia-standalone-market-status-2026-10-15/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/msci-weighs-downgrading-indonesia-standalone-market-status-2026-10-15",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792073880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c697426325",
-    "title_fa": "‏نقل‌ونقل نفت کشتی‑به‑کشتی در سواحل غربی هند رشد کرد",
-    "title_en": "Ship-to-Ship Oil Transfers Surge Off India’s West Coast | OilPrice.com",
-    "summary": [
-      "‏۸۲ محموله معادل ۶۸۰,۰۰۰ بشکه در روز در خلیج کوچت هند منتقل شد.",
-      "‏این تراکم انتقال‌های STS نزدیک تنگه هرمز باعث جابه‌جایی مسیرها به شرق و افزایش ریسک حمل‌ونقل می‌شود.",
-      "‏صادرات نفت خلیج به بازارهای آسیایی برای حفظ جریان، حتی با خطرات مسیر، به این مناطق جدید روی می‌آورد."
-    ],
-    "body_fa": "‏به دلیل شلوغی شدید در مناطق STS نزدیک تنگه هرمز، انتقال‌های کشتی‑به‑کشتی نفت به سمت خلیج کوچت در غرب هند گسترش یافته است. در ماه سپتامبر، ۸۲ محموله معادل حدود ۶۸۰,۰۰۰ بشکه در روز توسط کشتی‌های بزرگ‌تر در این خلیج منتقل شد. این روند نشان می‌دهد که ظرفیت مناطق STS در فجره (امارات) و سوهار (عمان) به حد اشباع رسیده و تولیدکنندگان خلیج برای حفظ صادرات به آسیا به مسیرهای دورتر روی می‌آورند. وارالکا پانت، تحلیلگر ارشد Vortexa ، اشاره کرد ریسک اصلی نه در خود انتقال STS بلکه در خروج نفت از سمت غرب هرمز به این مناطق است. قیمت‌های نفت خاورمیانه نیز به دلیل این ریسک‌ها تنظیم شده؛ برای مثال عراق تخفیف‌های ۳۴.۵۰ و ۳۷ دلار برای بارهای باسره ارائه داده است. این تغییر مسیر می‌تواند تأثیراتی بر قیمت‌های جهانی داشته باشد و نشانگر محدودیت‌های حمل‌ونقل در تنگه هرمز است.",
-    "category": "انرژی و کالا",
-    "subcategory": "حمل‌ونقل نفت",
-    "tag": "STS",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ship-to-Ship-Oil-Transfers-Surge-Off-Indias-West-Coast.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Ship-to-Ship-Oil-Transfers-Surge-Off-Indias-West-Coast.html",
-    "image": "https://s.yimg.com/bo/1c315aa4-8e57-5bf4-83ca-d84d8ff591c7_1792068326852.jpg",
-    "timestamp": 1792067080.0,
     "sent_to_telegram": true
   }
 ]
