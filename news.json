@@ -110,6 +110,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2f2434f824",
+    "title_fa": "‏اسرائیل به‌سراغ رمزارزها می‌رود تا تحریم‌ها را دور بزند",
+    "title_en": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+    "summary": [
+      "‏نتانیاهو اعلام کرد اسرائیل به فکر استفاده از رمزارزهاست تا در صورت تحریم‌های مالی اقدام کند",
+      "‏این تصمیم می‌تواند نقش رمزارزها را در دور زدن تحریم‌های بین‌المللی تقویت کند",
+      "‏پیشنهاد دولت ممکن است بازارهای رمزارز را تحت فشار قرار دهد"
+    ],
+    "body_fa": "‏نقش نخست‌وزیر اسرائیل، بنی نتانیاهو، در مصاحبه‌ای اعلام شد که کشور در صورت مواجهه با تحریم‌های جدید، به استفاده از رمزارزها فکر می‌کند. این ایده می‌تواند شامل ایجاد یک ارز دیجیتال ملی یا بهره‌گیری از ارزهای موجود برای تراکنش‌های بین‌المللی باشد. چنین گامی می‌تواند به اسرائیل امکان دور زدن محدودیت‌های مالی را بدهد و در عین حال توجه جهانیان را به نقش رمزارزها در سیاست‌های ژئوپلیتیک جلب کند. اگر دولت اسرائیل به این مسیر ادامه دهد، ممکن است مقررات جدیدی برای استفاده از رمزارزها در سطح ملی تدوین شود و تأثیر قابل‌توجهی بر بازارهای جهانی داشته باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سیاست‌گذاری دولتی",
+    "tag": "Israel crypto",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792813980.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "64625be03a",
     "title_fa": "‏روابط آمریکا و اوکراین پس از تابستان داغ سرد شد",
     "title_en": "Key dates in the latest slump in US-Ukrainian ties",
@@ -173,6 +195,28 @@
     "clean_url": "https://www.reuters.com/world/us/trump-foreign-policy-hits-voters-pocketbook-imperiling-republicans-midterms-2026-10-24",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792806360.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c8a723baa1",
+    "title_fa": "‏اتحادیه عربی-سعودی موشک‌های بالستیک حوثی را رهگیری کرد",
+    "title_en": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities",
+    "summary": [
+      "‏اتحادیهٔ عربی-سعودی موشک‌های بالستیک حوثی را که به شهرهای مکه، جده، طائف و ینبوع هدف داشتند، رهگیری کرد.",
+      "‏این رویداد امنیت شهرهای مقدس را تقویت کرده و فشار بر حوثی‌ها را نشان می‌دهد.",
+      "‏دفاع مدنی عربستان هشدارهای موقت برای مکه و جده صادر کرد."
+    ],
+    "body_fa": "‏عربستان سعودی در روز شنبه اعلام کرد که نیروهای دفاع مدنی توانستند موشک‌های بالستیک حوثی را که به سمت شهرهای مکه، جده، طائف و ینبوع پرتاب شده بودند، رهگیری کنند. این موشک‌ها توسط ائتلاف عربی-سعودی شناسایی و در مسیر پرواز قطع شدند و هیچ خسارتی به زیرساخت‌ها وارد نشد. هشدارهای موقت برای شهرهای مقدس صادر شد تا مردم از خطر احتمالی آگاه شوند. این رویداد نشان می‌دهد که توان دفاع هوایی عربستان در برابر تهدیدات حوثی‌ها همچنان قوی است و فشار نظامی بر این گروه را ادامه می‌دهد. در عین حال، این حمله می‌تواند تنش‌های منطقه‌ای را تشدید کند، چرا که حوثی‌ها به حمایت ایران وابسته‌اند. تحلیلگران پیش‌بینی می‌کنند که این نوع حملات ممکن است به ادامهٔ درگیری‌های یمن منجر شود.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "امنیت خاورمیانه",
+    "tag": "موشک",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/saudi-civil-defense-says-danger-passed-after-brief-alerts-mecca-jeddah-taif-2026-10-24/",
+    "clean_url": "https://www.reuters.com/world/middle-east/saudi-civil-defense-says-danger-passed-after-brief-alerts-mecca-jeddah-taif-2026-10-24",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792805640.0,
     "sent_to_telegram": true
   },
   {
@@ -6553,50 +6597,6 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Ship-to-Ship-Oil-Transfers-Surge-Off-Indias-West-Coast.html",
     "image": "https://s.yimg.com/bo/1c315aa4-8e57-5bf4-83ca-d84d8ff591c7_1792068326852.jpg",
     "timestamp": 1792067080.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1f9256277c",
-    "title_fa": "‏قیمت Bitcoin پس از سقوط بورس آسیا به کانال 80,000 دلار بازگشت",
-    "title_en": "Bitcoin rebounds from near $80,000 as Kospi plunges 8%, with altcoins falling...",
-    "summary": [
-      "‏قیمت Bitcoin پس از افت موقت تا نزدیکی 80,000 دلار به محدوده 81,200 دلار بازگشت.",
-      "‏سقوط 8 درصدی شاخص Kospi کره جنوبی و داده‌های تورمی به افت شدید آلت‌کوین‌ها منجر شد.",
-      "‏موج ریزش اخیر باعث لیکویید شدن نزدیک به 1 میلیارد دلار قرارداد آتی کریپتو شد."
-    ],
-    "body_fa": "‏بازار کریپتو هم‌زمان با افت سنگین بازارهای سهام آسیا دچار تلاطم شد و قیمت Bitcoin برای مدتی کوتاه تا نزدیکی 80,000 دلار کاهش یافت، اما خریداران وارد عمل شدند و قیمت را به بالای 81,200 دلار رساندند. شاخص بورس کره جنوبی موسوم به Kospi با ریزش 8 درصدی مواجه شد و توقف خودکار معاملات را فعال کرد، در حالی که فیوچرز شاخص Nasdaq 100 نیز نزدیک به 1 درصد افت کرد. آلت‌کوین‌ها فشار فروش بسیار سنگین‌تری را تحمل کردند و بیشتر رمزارزهای بازار با کاهش ارزش روبه‌رو شدند. انتشار داده‌های تورمی داغ‌تر از حد انتظار در آمریکا عامل اصلی این موج منفی بود و انتظارات نرخ بهره را دستخوش تغییر کرد. در پی این شوک نزولی در بازارهای مالی، نزدیک به 1 میلیارد دلار از موقعیت‌های معاملاتی تعهدی در بازار کریپتو طی 24 ساعت لیکویید شد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "تحولات بازار کریپتو",
-    "tag": "بیت‌کوین",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-    "clean_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-    "image": "https://s.yimg.com/bo/499ee56b-15aa-50c3-b8b1-30e369fc58e6_1792062387624.png.cf.jpg",
-    "timestamp": 1792060409.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b89e6163f0",
-    "title_fa": "‏TotalEnergies پیش‌بینی سود فوق‌العاده در سه‌ماهه سوم",
-    "title_en": "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar |...",
-    "summary": [
-      "‏TotalEnergies گفت حاشیه پالایش در اروپا در سه‌ماهه سوم به 33.20 دلار در هر بشکه رسید، تقریباً سه برابر سه‌ماهه قبل.",
-      "‏این افزایش حاشیه باعث رشد 2 میلیارد دلاری جریان نقدی پالایش و شیمی و پیش‌بینی سود فوق‌العاده برای شرکت می‌شود.",
-      "‏همچنین قیمت LNG تا 20 ٪ افزایش یافت و تجارت گاز و مایع‌گاز نیز سودآوری را تقویت می‌کند."
-    ],
-    "body_fa": "‏TotalEnergies در به‌روزرسانی تجاری خود اعلام کرد که حاشیه پالایش در اروپا در سه‌ماهه سوم به 33.20 دلار در هر بشکه رسیده است، که تقریباً سه برابر دوره قبلی و چهار برابر سال گذشته است. این افزایش حاشیه باعث رشد 2 میلیارد دلاری جریان نقدی بخش پالایش و شیمی نسبت به سه‌ماهه دوم شده و شرکت انتظار دارد سود فوق‌العاده‌ای را گزارش کند. شرکت همچنین گفت که توانسته است با افزایش 10 ٪ ظرفیت پالایش، حاشیه‌های تاریخی را در اروپا و جهان به‌طور کامل جذب کند. فعالیت‌های تجاری نفتی نیز در این دوره به‌صورت ثابت ادامه داشته و انتظار سودهای تجاری قوی را دارد. علاوه بر این، بخش LNG با افزایش 20 ٪ قیمت متوسط گاز مایع و تقاضای پیش‌بینی‌شده برای زمستان، سودآوری خود را به‌طور قابل‌توجهی ارتقا داده است. نتایج کامل سه‌ماهه سوم در 29 اکتبر منتشر خواهد شد، همان روزی که Shell نیز گزارش مالی خود را ارائه می‌دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "سودهای پالایشی",
-    "tag": "TotalEnergies",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Eyes-Massive-Profit-Windfall-as-Refining-Margins-Soar.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Eyes-Massive-Profit-Windfall-as-Refining-Margins-Soar.html",
-    "image": "https://s.yimg.com/bo/a995986f-deea-5337-8bbc-9dfcb385ce3d_1792061195870.jpg",
-    "timestamp": 1792059880.0,
     "sent_to_telegram": true
   }
 ]
