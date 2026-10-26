@@ -1,5 +1,27 @@
 [
   {
+    "id": "6ffd011935",
+    "title_fa": "‏توسعه‌دهنده سابق GitHub پلتفرم جدیدی برای هوش مصنوعی راه‌اندازی کرد",
+    "title_en": "GitHub’s former CEO launched a competing platform for AI agents.",
+    "summary": [
+      "‏توماس دوهمکه پلتفرم Entire را برای میزبانی کد و تعامل با هوش مصنوعی راه‌اندازی کرد.",
+      "‏این سرویس به‌جای درخواست‌های pull ، ویژگی “Trails” با ارزیابی‌های سفارشی توسط عوامل هوش مصنوعی ارائه می‌دهد.",
+      "‏پلتفرم به‌صورت غیرمتمرکز طراحی شده و می‌تواند روند توسعه نرم‌افزار را با هوش مصنوعی تسهیل کند."
+    ],
+    "body_fa": "‏توماس دوهمکه، مدیرعامل پیشین GitHub ، پلتفرم جدیدی به نام Entire را به‌صورت رسمی معرفی کرد. Entire یک سرویس میزبانی کد غیرمتمرکز است که به‌طور خاص برای کار با عوامل هوش مصنوعی طراحی شده است. در این پلتفرم، درخواست‌های pull با ویژگی “Trails” جایگزین شده‌اند؛ این قابلیت ارزیابی‌های سفارشی را بر هر بار ارسال کد توسط هوش مصنوعی انجام می‌دهد. این ارزیابی‌ها به‌صورت امتیازدهی توسط عوامل هوش مصنوعی انجام می‌شود و به تیم‌ها امکان نظارت دقیق‌تر بر کیفیت کد می‌دهد. پلتفرم با هدف تسهیل همکاری بین توسعه‌دهندگان و هوش مصنوعی و ارائه یک محیط باز و توزیع‌شده برای پروژه‌های نرم‌افزاری ایجاد شده است. اگرچه هنوز در مراحل اولیه است، ورود Entire می‌تواند رقابتی برای GitHub ایجاد کند و مسیر جدیدی برای ادغام هوش مصنوعی در توسعه نرم‌افزار باز کند.",
+    "category": "تکنولوژی",
+    "subcategory": "پلتفرم کدگذاری",
+    "tag": "Entire",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018817/githubs-former-ceo-launched-a-competing-platform-for-ai-agents",
+    "clean_url": "https://www.theverge.com/ai-artificial-intelligence/1018817/githubs-former-ceo-launched-a-competing-platform-for-ai-agents",
+    "image": "https://s.yimg.com/bo/86d1a589-5f0f-5265-83fb-6d39ac7340ec_1791458910632.png.cf.jpg",
+    "timestamp": 1793040928.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9835f105fc",
     "title_fa": "‏سهام جهانی پیش از هفته پرچالش بانک‌های مرکزی رشد یافت",
     "title_en": "World stocks gain ahead of 'formidable' week for risk; oil prices ease",
@@ -85,6 +107,50 @@
     "clean_url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
     "image": "https://s.yimg.com/bo/92a7bf7c-c2df-59e3-baf0-a32ce50b088f_1793025702923.jpg",
     "timestamp": 1793025339.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2a8ef16ff4",
+    "title_fa": "‏مصر به سیزی اجازه حمایت نظامی از عربستان را داد",
+    "title_en": "Egypt approves military support for Saudi Arabia, a key Gulf power, as Houthi attacks intensify",
+    "summary": [
+      "‏پارلمان مصر به سیزی اجازه داد تا در صورت درخواست عربستان، کمک نظامی ارائه دهد.",
+      "‏این تصمیم با تشدید حملات حوثی‌ها و تهدید مسیر باب‌ال‌مندب که برای تجارت جهانی و درآمد کانال سوئز حیاتی است، اهمیت دارد.",
+      "‏مصر پیش از این از مشارکت مستقیم در جنگ‌های خارجی خودداری می‌کرد."
+    ],
+    "body_fa": "‏پارلمان مصر به درخواست رئیس‌جمهور عبد الفتاح السیسی، اختیار کامل برای اتخاذ هر اقدام لازم جهت کمک به عربستان سعودی در مقابل حوثی‌های یمن را صادر کرد. این تصمیم پس از درخواست رسمی السیسی برای دریافت مجوز حمایت نظامی در صورت درخواست ریاض اتخاذ شد. حوثی‌ها با پیشروی در باب‌ال‌مندب، مسیر کلیدی دریایی به کانال سوئز و تجارت جهانی را تهدید می‌کنند که برای اقتصاد مصر اهمیت فراوان دارد. اگرچه مصر پیش از این از درگیری‌های نظامی خارج از مرز خودداری کرده بود، این اقدام نشانگر تغییر استراتژیک در سیاست امنیتی منطقه‌ای است. وزیر امور خارجه مصر نیز اعلام کرد که به‌طور جدی به پیوستن به پیمان دفاعی منطقه‌ای میان عربستان، پاکستان و ترکیه فکر می‌کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "امنیت خاورمیانه",
+    "tag": "حمایت نظامی مصر",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Business Insider Africa",
+    "url": "https://africa.businessinsider.com/local/lifestyle/egypt-approves-military-support-for-saudi-arabia-a-key-gulf-power-as-houthi-attacks/xvx3e7j",
+    "clean_url": "https://africa.businessinsider.com/local/lifestyle/egypt-approves-military-support-for-saudi-arabia-a-key-gulf-power-as-houthi-attacks/xvx3e7j",
+    "image": "https://ocdn.eu/pulscms-transforms/1/MF4ktkpTURBXy9mNDM2Yjg1OTBmOTQ1ZDg0MTE2Nzc5NzIzMzk4YmZiZC5wbmeSlQMAFc0B4M0BDpMFzQSwzQJ2",
+    "timestamp": 1793019960.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "92a87bb36c",
+    "title_fa": "‏شرکت هوش مصنوعی Anthropic برای عرضه اولیه سهام اقدام کرد",
+    "title_en": "AI giant Anthropic files for blockbuster IPO",
+    "summary": [
+      "‏Anthropic ، سازنده Claude ، پرونده S‑1 برای IPO نوامبر را ثبت کرد؛ درآمد نیمه‌سال 2026 برابر 16.3 میلیارد دلار است.",
+      "‏این عرضه می‌تواند ارزش‌گذاری بین 1.5 تا 2 تریلیون دلار ایجاد کند و سهام شرکت‌های چیپ‌ساز مانند Nvidia را ارتقا دهد.",
+      "‏سرمایه‌گذاری نقدی Anthropic به 112.4 میلیارد دلار می‌رسد و خطرات هوش مصنوعی در سند خطرها ذکر شده است."
+    ],
+    "body_fa": "‏Anthropic ، شرکت پیشرو در زمینه هوش مصنوعی و سازنده مدل Claude ، پرونده S‑1 خود را برای عرضه اولیه عمومی (IPO) در نوامبر ثبت کرد. طبق این سند، درآمد شش ماهه اول 2026 برابر 16.3 میلیارد دلار بوده اما با زیان خالص 80.7 میلیارد دلار مواجه است. تحلیل‌گران ارزش‌گذاری شرکت را بین 1.5 تا 2 تریلیون دلار تخمین می‌زنند و ممکن است قیمت‌گذاری در 19 یا 20 نوامبر انجام شود. این خبر باعث رشد پیش‌سازهای سهام شرکت‌های چیپ‌ساز مانند Nvidia (+1.4 ٪)، Broadcom (+1.5 ٪) و Micron (+2.3 ٪) در معاملات پیش‌بازار شد. Anthropic در پایان ژوئن 112.4 میلیارد دلار نقدینگی و 19.3 میلیارد دلار سرمایه‌گذاری کوتاه‌مدت داشته و انتظار دارد هزینه‌های زیرساختی آینده فشار بر جریان نقدی ایجاد کند. سند خطرها هشدار می‌دهد که هوش مصنوعی پیشرفته در صورت عدم نظارت مناسب می‌تواند خطرات وجودی برای بشریت به‌وجود آورد. در صرافی Hyperliquid ، قراردادهای مشتقه Anthropic پس از اعلام پرونده نوسان شد و در حدود 1,980 دلار معامله شد.",
+    "category": "تکنولوژی",
+    "subcategory": "عرضه اولیه هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+    "clean_url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+    "image": "https://s.yimg.com/bo/4f5c9757-4e95-5bfc-8e47-611697c4e902_1791679708662.jpg",
+    "timestamp": 1793019327.0,
     "sent_to_telegram": true
   },
   {
@@ -195,6 +261,28 @@
     "clean_url": "https://www.fxstreet.com/news/gold-consolidates-near-4-000-as-recovery-remains-fragile-ahead-of-fed-decision-202610261105",
     "image": "https://s.yimg.com/bo/e0a4ca18-835b-5240-8187-ba1e00964eca_1792300048146.png.cf.jpg",
     "timestamp": 1793012728.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dd3e64ee24",
+    "title_fa": "‏اپل مشکل صفحه نمایش داخلی iPhone Duo را تأیید کرد",
+    "title_en": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
+    "summary": [
+      "‏iPhone Duo با شکست داخلی صفحه نمایش و خط روشن گزارش شد",
+      "‏اپل اعلام کرد که تعداد کمی از دستگاه‌ها تحت تأثیر است و تعویض از طریق AppleCare امکان‌پذیر است",
+      "‏مشکل در دستگاه‌های با نقص خاص و در برخی فروشگاه‌ها بلافاصله تعویض شد"
+    ],
+    "body_fa": "‏کاربران iPhone Duo پس از خرید، گزارش کردند که صفحه نمایش داخلی دستگاه به‌سرعت ترک می‌خورد و خط روشن از مرکز به سمت راست می‌آید. اپل در بیانیه‌ای به Bloomberg و 9to5Mac اعلام کرد که از این مشکل آگاه است و تنها تعداد کمی از واحدها تحت تأثیر قرار گرفته‌اند. شرکت توصیه می‌کند کاربران متاثر با AppleCare تماس بگیرند تا دستگاه تعویض شود. اپل افزود که اکثر دستگاه‌ها این نقص را ندارند و مشکل بلافاصله پس از باز کردن درب‌چین ظاهر می‌شود. iFixit در تجزیه و تحلیل خود نشان داد که فشار صفحه‌نمایش بر میله مرکزی می‌تواند باعث شکستگی شود. این مشکل در اوایل عرضه رخ داده و ممکن است بر پذیرش اولیه iPhone Duo اثر بگذارد.",
+    "category": "تکنولوژی",
+    "subcategory": "گوشی‌های هوشمند",
+    "tag": "iPhone Duo",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+    "clean_url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "timestamp": 1793010540.0,
     "sent_to_telegram": true
   },
   {
@@ -6508,94 +6596,6 @@
     "clean_url": "https://see.news/brent-crude-surges-above-110-amid-global-supply-fears",
     "image": "https://i2.wp.com/see.news/images/2022/03/6230323d4236046fa8517c29.jpg?resize=768,432&quality=72&strip=all&ssl=1",
     "timestamp": 1792271700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0550da63e0",
-    "title_fa": "‏غول سرمایه‌گذاری SoftBank در حال مذاکره برای خرید Allied Universal است",
-    "title_en": "SoftBank in Early Talks to Buy Allied Universal",
-    "summary": [
-      "‏گروه SoftBank مذاکرات اولیه‌ای را برای خرید شرکت امنیتی Allied Universal آغاز کرد.",
-      "‏ارزش این معامله در صورت توافق نهایی حدود 18 میلیارد دلار برآورد می‌شود.",
-      "‏این توافق می‌تواند نشانه‌ای از بازگشت این شرکت ژاپنی به خریدهای بزرگ باشد."
-    ],
-    "body_fa": "‏گروه سرمایه‌گذاری ژاپنی SoftBank مذاکرات اولیه‌ای را برای خرید شرکت خدمات امنیتی Allied Universal آغاز کرده است. بر اساس گزارش‌های اولیه، ارزش این شرکت در صورت نهایی شدن توافق می‌تواند به حدود 18 میلیارد دلار برسد. شرکت Allied Universal یکی از بزرگ‌ترین ارائه‌دهندگان خدمات نگهبانی و راهکارهای امنیتی در سطح جهان به شمار می‌رود. این گفتگوها همچنان در مراحل ابتدایی هستند و هنوز رسیدن به توافق قطعی قطعی نیست. موفقیت این قرارداد می‌تواند یکی از بزرگ‌ترین تصاحب‌های تجاری SoftBank در سال‌های اخیر را رقم بزند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ادغام و تملک",
-    "tag": "SoftBank",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66",
-    "clean_url": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66",
-    "image": "https://s.yimg.com/bo/34636c0d-2baf-52d8-8f15-567d2d58aae1_1792262680158.jpg",
-    "timestamp": 1792259611.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8091d62281",
-    "title_fa": "‏ونزوئلا ۷۶ میلیارد دلار سرمایه‌گذاری نفتی پنج ساله پیش‌بینی کرد",
-    "title_en": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
-    "summary": [
-      "‏ونزوئلا اعلام کرد که در پنج سال آینده نزدیک به ۷۶ میلیارد دلار در بخش نفت سرمایه‌گذاری خواهد کرد.",
-      "‏این سرمایه‌گذاری می‌تواند تولید نفت را افزایش داده و نقش ونزوئلا را در بازار جهانی تقویت کند.",
-      "‏طرح شامل مشارکت‌های بین‌المللی و به‌روزرسانی زیرساخت‌های استخراج است."
-    ],
-    "body_fa": "‏وزارت نفت ونزوئلا برنامه‌ای برای جذب تقریباً ۷۶ میلیارد دلار سرمایه در دوره پنج ساله آینده ارائه داد. هدف اصلی این بودجه، ارتقاء ظرفیت استخراج و پردازش نفت، به‌ویژه در میادین که تحت تحریم‌ها و کاهش تولید قرار گرفته‌اند. دولت قصد دارد با شرکت‌های بین‌المللی همکاری کند و زیرساخت‌های قدیمی را به‌روز سازد. افزایش سرمایه‌گذاری می‌تواند تولید روزانه نفت را به سطوح قبلی نزدیک کند و سهم ونزوئلا در بازار جهانی را تقویت نماید. این اقدام همچنین می‌تواند جریان‌های ارزی مثبت به اقتصاد کشور وارد کرده و فشارهای مالی ناشی از تحریم‌ها را کمی کم کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "سرمایه‌گذاری نفت",
-    "tag": "سرمایه‌گذاری",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792259280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "adf30df3d2",
-    "title_fa": "‏سهم‌های هوش مصنوعی سقوط کردند؛ تورم گرم‌تر از پیش",
-    "title_en": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-    "summary": [
-      "‏شاخص Nasdaq با کاهش ۴.۵٪ در هفته، پس از سقوط سهام هوش مصنوعی، به پایین‌ترین سطح هفتگی خود رسید.",
-      "‏داده‌های تورم مصرف‌کننده که ۳.۷٪ سالانه بود، نگرانی‌ها درباره ادامه نرخ‌های بهره بالا را تقویت کرد.",
-      "‏سرمایه‌گذاران به بخش‌های بهداشتی، کالاهای اساسی و بانک‌ها روتیشن کردند."
-    ],
-    "body_fa": "‏فروش شدید سهام مرتبط با هوش مصنوعی باعث کاهش ۴.۵٪ هفتگی Nasdaq شد و رکورد نزولی بدترین هفته این شاخص از ژوئن را ثبت کرد. در همین زمان، داده‌های CPI ماه سپتامبر نشان داد که تورم مصرف‌کننده ۳.۷٪ سالانه و بالاتر از پیش‌بینی ۳.۶٪ بوده و PPI نیز ۱.۳٪ ماهانه رشد کرد که احتمال ادامه نرخ‌های بهره بالا توسط فدرال‌رزرو را افزایش می‌دهد. این فشارهای تورمی به ویژه در بخش‌های فناوری که به سرمایه‌گذاری سنگین برای زیرساخت‌های AI نیاز دارند، نگرانی ایجاد کرده است. به‌جای این، سرمایه‌گذاران به سمت بانک‌ها، بهداشت و کالاهای اساسی روتیشن کردند؛ Dow Jones ۰.۷٪ رشد یافت. مدیرعامل Broadcom ، Hock Tan ، هشدار داد که دسترسی به سرمایه می‌تواند محدودیت اصلی بعدی برای صنعت باشد. در واکنش به این شرایط، برخی سرمایه‌گذاران مانند ما به تنوع‌سازی پرتفوی پرداخته و در سهام‌های مصرفی و بانکی موقعیت‌های جدیدی باز کردند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-    "clean_url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-    "image": "https://s.yimg.com/bo/d4099ae8-df03-5247-81b0-4cef46afd8de_1792161021114.jpg",
-    "timestamp": 1792251826.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3e73cec9d4",
-    "title_fa": "‏وزیر خارجه اوکراین شهر اوِلِشکی را تله مرگ می‌نامد",
-    "title_en": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents",
-    "summary": [
-      "‏وزیر خارجه اوکراین، اندری سیبیها، اعلام کرد شهر اوِلِشکی تحت اشغال روسیه به تله مرگ تبدیل شده و ساکنان آن گرسنه‌اند.",
-      "‏این ادعا می‌تواند فشار بین‌المللی برای افزایش کمک‌های انسانی و تحریم‌های بیشتر علیه روسیه را تقویت کند.",
-      "‏شهر اوِلِشکی در ناحیه خِرْکِنو، نزدیک دنیپر، بیش از ۲۵ هزار نفر جمعیت دارد."
-    ],
-    "body_fa": "‏وزیر خارجه اوکراین، اندری سیبیها، روز شنبه گفت شهر اوِلِشکی که تحت کنترل نیروهای روسی است، به \"تله مرگ\" تبدیل شده و ساکنان آن با گرسنگی مواجه‌اند. او افزود که دسترسی به غذا، آب و داروها به شدت محدود شده و بسیاری از خانوارها به مرگ نزدیک شده‌اند. این اظهارات در پس‌زمینهٔ ادامهٔ جنگ در ناحیه خِرْکِنو و فشارهای بین‌المللی برای افزایش کمک‌های بشردوستانه مطرح شد. سیبیها از جامعه جهانی خواست تا با ارسال کمک‌های اضطراری و اعمال تحریم‌های سخت‌تر به روسیه، وضعیت انسانی را بهبود بخشد. سازمان‌های بین‌المللی همچون سازمان ملل و صلیب سرخ نیز به این وضعیت واکنش نشان داده و درخواست دسترسی برای ارزیابی دقیق‌تر کرده‌اند. اگرچه روسیه ادعا می‌کند که شرایط در شهر تحت کنترل است، اما گزارش‌های مستقل نشان از بحران انسانی جدی دارد. این موضوع می‌تواند به تشدید فشارهای دیپلماتیک و اقتصادی علیه روسیه منجر شود.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "جنگ اوکراین",
-    "tag": "Oleshky",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/ukrainian-foreign-minister-says-russian-held-town-is-death-trap-with-starving-2026-10-17/",
-    "clean_url": "https://www.reuters.com/world/ukrainian-foreign-minister-says-russian-held-town-is-death-trap-with-starving-2026-10-17",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792240140.0,
     "sent_to_telegram": true
   }
 ]
