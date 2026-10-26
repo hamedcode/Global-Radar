@@ -1,5 +1,49 @@
 [
   {
+    "id": "9835f105fc",
+    "title_fa": "‏سهام جهانی پیش از هفته پرچالش بانک‌های مرکزی رشد یافت",
+    "title_en": "World stocks gain ahead of 'formidable' week for risk; oil prices ease",
+    "summary": [
+      "‏سهام و اوراق قرضه جهانی روز دوشنبه افزایش یافتند.",
+      "‏سرمایه‌گذاران هفته‌ای پرچالش شامل نشست‌های بانک‌های مرکزی و گزارش‌های سودآوری شرکت‌ها را زیر نظر دارند.",
+      "‏این دوره می‌تواند اعتماد به رشد هوش مصنوعی را محک بزند."
+    ],
+    "body_fa": "‏سهام و اوراق قرضه در بازارهای جهانی روز دوشنبه افزایش یافتند. این رشد در حالی رخ داد که سرمایه‌گذاران چشم به هفته‌ای پرچالش دوختند که شامل نشست‌های مهم بانک‌های مرکزی و انتشار گزارش‌های سودآوری شرکت‌های بزرگ می‌شود. تصمیمات نرخ بهره و ارزیابی‌های عملکرد شرکت‌ها می‌تواند جهت‌گیری بازارهای مالی را تحت تأثیر قرار دهد. علاوه بر این، اعتماد به رونق هوش مصنوعی که به عنوان عامل اصلی رشد اقتصادی شناخته می‌شود، در این دوره مورد آزمون قرار خواهد گرفت. تحلیل‌گران انتظار دارند نوساناتی در بازارهای سهام به‌ویژه در بخش فناوری مشاهده شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازارهای سهام جهانی",
+    "tag": "سهام",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.msn.com/en-us/news/other/world-stocks-gain-ahead-of-formidable-week-for-risk-oil-prices-ease/ar-AA2g5NrP",
+    "clean_url": "https://www.msn.com/en-us/news/other/world-stocks-gain-ahead-of-formidable-week-for-risk-oil-prices-ease/ar-AA2g5NrP",
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2g5SGe.img?w=800&h=533&m=4&q=79",
+    "timestamp": 1793029163.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "debdce57c6",
+    "title_fa": "‏بانک Morgan Stanley وزن سهام Lockheed Martin را ارتقا داد",
+    "title_en": "Lockheed Martin will surge nearly 40% after new Pentagon deal, says Morgan...",
+    "summary": [
+      "‏بانک Morgan Stanley وزن سهام Lockheed Martin را به overweight ارتقا داد و هدف قیمتی 835 دلار را اعلام کرد",
+      "‏این تصمیم پس از توافق ۱۰ ساله برای تولید F‑35 با وزارت دفاع آمریکا است و احتمال رشد 38 ٪ سهام را نشان می‌دهد",
+      "‏تحلیل‌گران می‌گویند این قرارداد ریسک‌های بودجه‌ای F‑35 را کاهش می‌دهد"
+    ],
+    "body_fa": "‏بانک Morgan Stanley وزن سهام Lockheed Martin را از equal weight به overweight ارتقا داد. این بانک هدف قیمتی سهام را از 690 دلار به 835 دلار افزایش داد که نشان‌دهنده پتانسیل رشد حدود 38 درصد از بسته شدن جمعه است. ارتقا پس از امضای چارچوب ۱۰ ساله با وزارت دفاع ایالات متحده برای ادامه تولید جنگنده مخفی F‑35 Lightning II صورت گرفت. تحلیل‌گر Kristine Liwag می‌گوید این قرارداد ریسک‌های مالی مرتبط با برنامه F‑35 را به‌طور قابل‌توجهی کاهش می‌دهد و رشد میانه‌سال موشک‌ها و سیستم‌های کنترل آتش را پیش‌بینی می‌کند. این خبر باعث شد سهام شرکت در روزهای اخیر حدود 7 درصد افزایش یابد و تا کنون در سال 2026 بیش از 25 درصد رشد کرده است. سرمایه‌گذاران دیگر نیز با توجه به همکاری‌های جدید Lockheed با شرکت‌های فناوری دفاعی مانند Hadrian ، به پایداری و رشد بلندمدت این سهام امید دارند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "قرارداد دفاعی",
+    "tag": "Lockheed",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/lockheed-martin-will-surge-nearly-40percent-after-new-pentagon-deal-says-morgan-stanley.html",
+    "clean_url": "https://www.cnbc.com/2026/10/26/lockheed-martin-will-surge-nearly-40percent-after-new-pentagon-deal-says-morgan-stanley.html",
+    "image": "https://s.yimg.com/bo/1dcc2034-f277-5a83-ba59-65fd78ee7e59_1783311206448.jpg",
+    "timestamp": 1793013502.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "aa15efebee",
     "title_fa": "‏متا 35 میلیارد دلاری سهام برای هوش مصنوعی عرضه کرد",
     "title_en": "Meta launches $35 billion stock offering to fund AI expansion",
@@ -110,6 +154,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "6be64bdcd7",
+    "title_fa": "‏NBA با CFTC توافق کرد؛ NFL از مشارکت خودداری کرد",
+    "title_en": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+    "summary": [
+      "‏NBA با CFTC توافق اطلاعاتی برای بازارهای پیش‌بینی امضا کرد و با Kalshi و Polymarket شریک شد.",
+      "‏این گام به رسمیت شناختن شرط‌بندی دیجیتال توسط لیگ‌های بزرگ کمک می‌کند و رقابت با NFL که رد کرده است را نشان می‌دهد.",
+      "‏NFL اعلام کرد قوانین شرط‌بندی ایالتی بر بازارهای پیش‌بینی حاکم باشد."
+    ],
+    "body_fa": "‏کمیسیون معاملات آتی آمریکا (CFTC) برای اولین بار با لیگ بسکتبال حرفه‌ای آمریکا (NBA) تفاهم‌نامه‌ای برای به اشتراک‌گذاری داده‌های مربوط به بازارهای پیش‌بینی امضا کرد. این توافق‌نامه به NBA اجازه می‌دهد تا با پلتفرم‌های پیشرو Kalshi و Polymarket به عنوان صرافی‌های منتخب همکاری کند. هدف ایجاد چارچوبی است که در عین حفظ یکپارچگی شرط‌بندی، فرصت‌های جدیدی برای تعامل با هواداران فراهم آورد. لیگ‌های دیگر مانند MLB و NHL پیش از این نیز چنین توافقاتی با CFTC داشته‌اند. در مقابل، لیگ فوتبال ملی (NFL) به صراحت از این همکاری‌ها دوری کرده و خواستار اعمال قوانین شرط‌بندی ایالتی بر این نوع معاملات است. این اختلاف نشانگر جدال قانونی سراسری بین دولت فدرال و ایالت‌ها بر سر حوزه‌ی شرط‌بندی دیجیتال است. پیشرفت NBA می‌تواند مسیر پذیرش گسترده‌تر بازارهای پیش‌بینی را هموار کند، در حالی که مخالفت NFL ممکن است محدودیت‌های قانونی بیشتری ایجاد کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "بازارهای پیش‌بینی",
+    "tag": "NBA",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+    "clean_url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/366e421dc20482413b56aebe36de11d10a00a62c-3875x2583.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.252&fp-y=0.3717&w=1200&h=675&q=75",
+    "timestamp": 1793005140.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "fba1b5eb51",
     "title_fa": "‏قیمت بالای نفت، فشار بر بازار سهام هند",
     "title_en": "India's Stock Market Feels the Heat From High Oil Prices | OilPrice.com",
@@ -129,6 +195,50 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Stock-Market-Feels-the-Heat-From-High-Oil-Prices.html",
     "image": "https://s.yimg.com/bo/5b070f1a-0e4d-54b0-8263-1af27e9ff74b_1793004932682.jpg",
     "timestamp": 1793003551.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0d85d70348",
+    "title_fa": "‏شرکت Anthropic با رشد درآمد، هزینه‌های محاسبه را بالا می‌برد",
+    "title_en": "Inside Anthropic’s IPO Filing: Soaring Revenue and Rising Computing Costs",
+    "summary": [
+      "‏شرکت Anthropic در سند S‑1 خود اعلام کرد که درآمدش به سرعت رشد کرده و به چند صد میلیون دلار رسیده است.",
+      "‏این رشد با افزایش چشمگیر هزینه‌های محاسبه برای مدل‌های هوش مصنوعی همراه است که می‌تواند سودآوری را تحت فشار قرار دهد.",
+      "‏سند همچنین فهرستی از ریسک‌های سرمایه‌گذاری، از جمله هزینه‌های زیرساختی و رقابت شدید، را فهرست می‌کند."
+    ],
+    "body_fa": "‏شرکت Anthropic که پشت مدل زبانی Claude قرار دارد، در سند S‑1 خود اعلام کرد که درآمدش در سال مالی اخیر به سرعت رشد کرده و به چند صد میلیون دلار رسیده است. این رشد نشان‌دهنده تقاضای فزاینده برای خدمات هوش مصنوعی این شرکت است. با این حال، Anthropic هشدار داد که هزینه‌های محاسبه برای آموزش و اجرای مدل‌های بزرگ به‌طور قابل‌توجهی در حال افزایش است. هزینه‌های زیرساختی و مصرف انرژی بالا می‌تواند حاشیه سود را تحت فشار قرار دهد و برای سرمایه‌گذاران ریسک محسوب شود. سند همچنین فهرستی از ریسک‌های دیگر از جمله رقابت شدید در بازار هوش مصنوعی، وابستگی به تأمین‌کنندگان سخت‌افزار و عدم قطعیت‌های نظارتی ارائه می‌کند. این اطلاعات نشان می‌دهد که اگرچه Anthropic با رشد درآمدی چشمگیر مواجه است، اما مسیر سودآوری آن با چالش‌های هزینه‌ای و رقابتی همراه است.",
+    "category": "تکنولوژی",
+    "subcategory": "عرضه اولیه هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/video/inside-anthropics-ipo-filing-soaring-revenue-and-rising-computing-costs/AA760D63-D498-4B3F-A72E-66BCFD8B6F57",
+    "clean_url": "https://www.wsj.com/video/inside-anthropics-ipo-filing-soaring-revenue-and-rising-computing-costs/AA760D63-D498-4B3F-A72E-66BCFD8B6F57",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793001600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b95b880c7c",
+    "title_fa": "‏شرکت Side با خرید Roboto حضور چین را گسترش داد",
+    "title_en": "Side expands presence in China, opens new studio and acquires art outsourcing provider Roboto Entertainment",
+    "summary": [
+      "‏شرکت Side استودیوی جدیدی در چنگدو افتتاح کرد و شرکت آرت Roboto Entertainment را خریداری کرد.",
+      "‏این گسترش به‌ویژه در بازار بزرگ چین که سال گذشته بیش از 50 میلیارد دلار ارزش داشت، اهمیت دارد.",
+      "‏سرپرست جدید، Andrea Cordella ، به‌عنوان مدیر استودیوی چنگدو منصوب شد."
+    ],
+    "body_fa": "‏شرکت Side ، ارائه‌دهنده خدمات بازی‌سازی، حضور خود در چین را با افتتاح استودیوی جدید در چنگدو و خرید شرکت آرت Roboto Entertainment تقویت کرد. شرکت Roboto که از سال 2014 توسط Andrea Cordella تأسیس شده و در زمینهٔ ساخت محیط و جهان‌سازی برای بازی‌های AAA و AA فعال است، به‌عنوان بخشی از Side به‌کار گرفته می‌شود. سرپرست جدید، Andrea Cordella ، به‌عنوان سرپرست جهانی هنر در Side و مدیر استودیوی چنگدو منصوب شد تا تیم‌های این دفتر را با دفاتر دیگر در شانگهای، آمریکا، اروپا و آسیا هماهنگ کند. این گام در بازاری است که در سال گذشته برای اولین بار ارزش بیش از 50 میلیارد دلار را پشت سر گذاشت و پیش‌بینی می‌شود تا سال 2026 به 53.9 میلیارد دلار برسد. گسترش حضور در چین نشان‌دهنده استراتژی منطقه‌ای Side برای بهره‌برداری از رشد بازیکنان چین که تا 2030 به 769 میلیون می‌رسد، است.",
+    "category": "گیم",
+    "subcategory": "گسترش در چین",
+    "tag": "Side",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment",
+    "clean_url": "https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment",
+    "image": "https://assetsio.gnwcdn.com/side_Q5xVjua.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1792999980.0,
     "sent_to_telegram": true
   },
   {
@@ -264,6 +374,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0643666cc9",
+    "title_fa": "‏سهام وال‌استریت با ثبت IPO شرکت Anthropic صعود کرد",
+    "title_en": "Wall St rises as Anthropic's IPO filing sharpens focus on AI trade",
+    "summary": [
+      "‏شرکت Anthropic برای عرضه عمومی سهام (IPO) درخواست داد و این خبر بازارهای آمریکا را به‌سوی صعود سوق داد.",
+      "‏این حرکت سرمایه‌گذاران را در حوزه هوش مصنوعی متمرکز کرد، در حالی که هفته با گزارش‌های سودآوری شرکت‌ها و تصمیم نرخ بهره فدرال‌رزرو همراه است.",
+      "‏صعود اولیه شاخص S&P 500 نشان از تمایل بازار به ریسک‌پذیری دارد."
+    ],
+    "body_fa": "‏شرکت Anthropic ، یکی از رقبای پیشرو در زمینه هوش مصنوعی، پرونده‌ای برای عرضه عمومی سهام (IPO) به سازمان‌های نظارتی آمریکا ارائه داد. این خبر باعث شد که بازارهای سهام آمریکا، به‌ویژه شاخص S&P 500 ، در صبح دوشنبه با افزایش آغاز کنند. سرمایه‌گذاران به‌دنبال فرصت‌های جدید در بخش هوش مصنوعی بودند و این IPO توجه آن‌ها را به خود جلب کرد. همزمان، هفته تجاری با انتشار گزارش‌های سودآوری شرکت‌های بزرگ و تصمیم فدرال‌رزرو درباره نرخ بهره همراه است که می‌تواند نوسانات بیشتری ایجاد کند. تحلیل‌گران پیش‌بینی می‌کنند اگر Anthropic بتواند در بازار عمومی موفق شود، ممکن است فشار بر سایر شرکت‌های AI برای تسریع در برنامه‌های عمومی‌سازی افزایش یابد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازارهای مالی",
+    "tag": "IPO",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-stock-futures-edge-up-oil-falls-heading-into-earnings-barrage-2026-10-26/",
+    "clean_url": "https://www.reuters.com/business/us-stock-futures-edge-up-oil-falls-heading-into-earnings-barrage-2026-10-26",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792983720.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9447390078",
     "title_fa": "‏شرکت OPay برای ۳۶۶ میلیون دلار در نیویورک IPO می‌کند",
     "title_en": "Nigeria-focused OPay seeks $366 million in New York IPO at $4.4 billion valuation as Standard Bank commits up to $200 million",
@@ -305,6 +437,28 @@
     "clean_url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
     "image": "https://s.yimg.com/bo/2cc5399b-e697-5179-9b31-2993153d171a_1792970558635.jpg",
     "timestamp": 1792967551.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "339d867227",
+    "title_fa": "‏قیمت بیت‌کوین زیر ۸۰٬۰۰۰ دلار افت کرد",
+    "title_en": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+    "summary": [
+      "‏بیت‌کوین حدود ۷۹٬۸۰۰ دلار شد و زیر ۸۰٬۰۰۰ دلار سقوط کرد.",
+      "‏معامله‌گران پیش از نشست فدرال رزرو ریسک را کاهش دادند، که می‌تواند نقدینگی رمزارزها را فشار دهد.",
+      "‏ایتر و XRP نیز به ترتیب حدود ۳٪ و ۳٪ کاهش یافتند."
+    ],
+    "body_fa": "‏بیت‌کوین در صبح دوشنبه آسیایی به حدود ۷۹٬۸۰۰ دلار سقوط کرد و برای اولین بار زیر ۸۰٬۰۰۰ دلار قرار گرفت. این افت تقریباً ۲٪ است و همزمان با کاهش ریسک سرمایه‌گذاران پیش از نشست فدرال رزرو در روز چهارشنبه رخ داد. معامله‌گران به دنبال نشانه‌ای از احتمال افزایش نرخ بهره در دسامبر هستند که می‌تواند نقدینگی را محدود کند و فشار بیشتری بر رمزارزها و سهام وارد کند. در همین زمان، ایتر به حدود ۲٬۳۰۰ دلار و XRP به ۱٫۲۸ دلار سقوط کردند؛ سایر توکن‌های اصلی نیز بین ۱ تا ۲٪ کاهش یافتند. جف می، مدیر عملیات صرافی BTSE ، گفت انتظار می‌رود فدرال رزرو این هفته نرخ را تغییر ندهد اما هر اشاره‌ای به افزایش در دسامبر می‌تواند بازارهای ریسک‌پذیر را تحت فشار قرار دهد. علاوه بر این، فروش سهام فناوری در آسیا و کاهش هدف گلدمن ساکس برای کوسپی کره جنوبی نیز به تضعیف احساسات مثبت کمک کرد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+    "clean_url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f7711f978a2d69fe002fffabb76faa6278fb0b5e-1512x844.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "timestamp": 1792964220.0,
     "sent_to_telegram": true
   },
   {
@@ -6442,160 +6596,6 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-10-17/egypt-ready-to-defend-saudi-arabia-if-needed-sisi-says",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792213980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e7e9f32711",
-    "title_fa": "‏تجمعات گسترده در شهرهای فرانسه به‌خاطر افزایش قیمت‌ها برگزار شد",
-    "title_en": "Tear gas, clashes hit French cities in cost-of-living protests",
-    "summary": [
-      "‏ده‌ها هزار نفر در شهرهای مختلف فرانسه در روز شنبه علیه افزایش قیمت‌ها راهپیمایی کردند",
-      "‏اعتراضات شامل دانشجویان، کارگران و فعالان Yellow Vest بود و به درگیری‌های پلیس و استفاده از گاز اشک‌آور منجر شد",
-      "‏این ناآرامی‌ها می‌تواند فشار بر سیاست‌گذاران برای کنترل تورم و هزینه‌های زندگی را افزایش دهد"
-    ],
-    "body_fa": "‏در روز شنبه، انتظار می‌رفت که ده‌ها هزار نفر در شهرهای مختلف فرانسه به‌هم پیوندند تا نسبت به افزایش شدید قیمت‌ها اعتراض کنند. شرکت‌کنندگان شامل دانشجویان، اعضای اتحادیه‌های کارگری و برخی از فعالان جنبش Yellow Vest بودند. پلیس برای مهار تظاهرات از گاز اشک‌آور و گره‌کشی استفاده کرد که منجر به درگیری‌های خشونت‌آمیز شد. برخی از مراکز تجاری و ایستگاه‌های حمل‌ونقل عمومی مورد تخریب قرار گرفت. این اعتراضات نشان‌دهنده نارضایتی عمیق نسبت به هزینه‌های زندگی است و می‌تواند فشار بر دولت فرانسه برای اتخاذ سیاست‌های حمایتی یا تنظیم قیمت‌ها را افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند که این ناآرامی‌ها ممکن است تأثیر کوتاه‌مدتی بر بازارهای مالی اروپا داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ناآرامی هزینه زندگی",
-    "tag": "قیمت",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/students-trade-unions-yellow-vests-set-protest-across-france-2026-10-17/",
-    "clean_url": "https://www.reuters.com/world/students-trade-unions-yellow-vests-set-protest-across-france-2026-10-17",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792213440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "21beea16ee",
-    "title_fa": "‏هزینه‌های بهره آمریکا به رکورد یک تریلیون دلار رسید",
-    "title_en": "US Interest Costs Hit Record $1 Trillion, Risking Debt Snowball",
-    "summary": [
-      "‏هزینه‌های بهره دولت آمریکا برای سال مالی به اولین بار یک تریلیون دلار رسید.",
-      "‏این رقم تاریخی نشان‌دهنده فشار افزایشی بدهی و خطر افزایش بار مالی بر بودجه فدرال است.",
-      "‏تحلیل‌گران هشدار می‌دهند که این روند می‌تواند نرخ بهره را بالا برده و رشد اقتصادی را تضعیف کند."
-    ],
-    "body_fa": "‏دولت ایالات متحده برای سال مالی جاری هزینه‌های بهره بدهی عمومی را به یک تریلیون دلار رسانده که برای اولین بار در تاریخ به این سطح می‌رسد. این رقم نشان‌دهنده افزایش بار مالی بر بودجه فدرال است و می‌تواند فشار بر تصمیم‌گیری‌های هزینه‌ای و مالیاتی را تقویت کند. کارشناسان مالی بیان می‌کنند که هزینه‌های بهره بالا می‌تواند باعث کاهش فضای مالی برای سرمایه‌گذاری‌های عمومی و خصوصی شود. در صورت ادامه این روند، احتمال افزایش نرخ بهره توسط فدرال رزرو برای کنترل تورم و حفظ اعتبار مالی وجود دارد که می‌تواند رشد اقتصادی را تحت فشار قرار دهد. این وضعیت همچنین خطر «برف‌نقلیه» بدهی را تقویت می‌کند، به‌طوری‌که بدهی‌های جدید به‌سرعت به هزینه‌های بهره اضافه می‌شوند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بدهی عمومی",
-    "tag": "هزینه بهره",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-17/us-interest-costs-hit-record-1-trillion-risking-debt-snowball",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-17/us-interest-costs-hit-record-1-trillion-risking-debt-snowball",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792213200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3e05234735",
-    "title_fa": "‏تراکنش دیزل ترامپ با روسیه فشار تحریم‌ها را کاهش داد",
-    "title_en": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble f...",
-    "summary": [
-      "‏ترامپ توافقی با پوتین برای صادرات 4.8 میلیون تن دیزل روسیه امضا کرد",
-      "‏این معامله فشار تحریم‌ها را کم می‌کند و وحدت غرب را تضعیف می‌کند، در حالی که تأثیر مالی کمی دارد",
-      "‏برآوردها نشان می‌دهد تا 1.25 میلیارد دلار درآمد صادراتی در سه ماه اول ممکن است ایجاد شود"
-    ],
-    "body_fa": "‏دولت ترامپ با روسیه توافق کرد تا 4.8 میلیون تن دیزل به بازارهای جهانی عرضه شود؛ این مقدار معادل حدود ده روز تقاضای داخلی آمریکا یا یک روز تقاضای جهانی است. کارشناسان می‌گویند این حجم کوچک تأثیری بر قیمت جهانی دیزل نخواهد داشت، اما کاهش فشار تحریم‌ها به روسیه می‌تواند وحدت غرب را در قبال اوکراین تضعیف کند. برآوردها نشان می‌دهد بخش اولیهٔ 1.8 میلیون تن می‌تواند تا 1.25 میلیارد دلار درآمد صادراتی در سه ماه اول ایجاد کند، که تنها حدود 0.07 درصد از درآمدهای فدرال روسیه است. بنابراین، منافع مالی برای مسکو کم است، اما سود سیاسی از کاهش تحریم‌ها و نشان دادن توانایی استخراج امتیاز از واشنگتن برای پوتین قابل توجه است. این توافق در پیش‌زمینهٔ انتخابات میانی آمریکا و با نزدیک شدن به زمستان، فشار بر اوکراین برای تأمین سوخت و هزینه‌های اقتصادی را افزایش می‌دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "دیزل و تحریم‌ها",
-    "tag": "دیزل",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-    "clean_url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-    "image": "https://s.yimg.com/bo/f4bed2ef-9520-59ee-a3b3-326febef7cc6_1791100580723.png.cf.jpg",
-    "timestamp": 1792212226.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "46216a697c",
-    "title_fa": "‏تونس‌چی‌ها بزرگ‌ترین تظاهرات سال‌ها را علیه کايس سعيد برگزار کردند",
-    "title_en": "Tunisians stage biggest protest in years against President Saied",
-    "summary": [
-      "‏هزاران نفر در تونس به بزرگ‌ترین تظاهرات سال‌ها علیه رئیس‌جمهور کايس سعيد پیوستند",
-      "‏مقامات این تجمع را به تضعیف دموکراسی و مدیریت نادرست اقتصاد متهم کردند",
-      "‏این اعتراض فشار داخلی بر سیاست‌های سیاست را تقویت می‌کند"
-    ],
-    "body_fa": "‏هزاران شهروند تونس در روز شنبه به خیابان‌ها آمدند و بزرگ‌ترین تظاهرات سال‌ها را علیه رئیس‌جمهور کايس سعيد برگزار کردند. معترضان او را متهم به تضعیف نهادهای دموکراتیک و مدیریت نادرست بحران اقتصادی کردند. این تجمع که در شهرهای اصلی از جمله تونس، سوس و سسیل رخ داد، نشان از نارضایتی عمیق نسبت به سیاست‌های اقتصادی و سیاسی دولت دارد. مقامات امنیتی سعی کردند تجمع را کنترل کنند اما گزارش‌ها حاکی از برخوردهای محدود است. این رویداد می‌تواند فشار داخلی بر سعيد را افزایش داده و بر روند اصلاحات سیاسی و اقتصادی در تونس تأثیر بگذارد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "اعتراضات سیاسی",
-    "tag": "Tunisia",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/tunisians-stage-biggest-protest-years-against-president-saied-2026-10-17/",
-    "clean_url": "https://www.reuters.com/business/media-telecom/tunisians-stage-biggest-protest-years-against-president-saied-2026-10-17",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792210560.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d0ff391dd3",
-    "title_fa": "‏افزایش قیمت سوخت درآمد ۲.۹ میلیارد دلاری استرداد تعرفه Walmart را خنثی می‌کند",
-    "title_en": "Walmart sees current diesel prices wiping out $2.9 billion tariff refund by end of 2027, Deutsche Bank says.",
-    "summary": [
-      "‏گزارش جدید Deutsche Bank نشان می‌دهد افزایش قیمت گازوئیل کل سود ۲.۹ میلیارد دلاری Walmart از استرداد تعرفه‌ها را تا سال 2027 از بین می‌برد.",
-      "‏جهش هزینه‌های حمل‌ونقل و سوخت فشار تورمی جدیدی بر مصرف‌کنندگان تحمیل کرده و دوباره قیمت کالاها را افزایش می‌دهد.",
-      "‏مدیران Walmart پیش‌بینی می‌کنند تورم در سال 2027 بین 0.5 تا 1 درصد دیگر افزایش یابد."
-    ],
-    "body_fa": "‏بانک Deutsche Bank پس از دیدار با مدیر مالی Walmart اعلام کرد افزایش مداوم بهای گازوئیل تمام منافع حاصل از استرداد تعرفه‌های گمرکی به ارزش ۲.۹ میلیارد دلار را از بین خواهد برد. این هزینه‌های سنگین سوخت هم به‌طور مستقیم از طریق ناوگان حمل‌ونقل و هم به‌شکل غیرمستقیم از سمت تامین‌کنندگان، فشار مضاعفی بر قیمت نهایی کالاها وارد می‌کند. شرکت Walmart پیش‌تر بخش عمده این مبالغ بازگشتی را برای کاهش قیمت و ارائه تخفیف به مشتریان اختصاص داده بود، اما اکنون انتظار می‌رود نرخ تورم کالاها در سال 2027 بین نیم تا یک درصد دیگر جهش کند. سخنگوی Walmart تاکید کرده است که این غول خرده‌فروشی تلاش می‌کند اثر افزایش هزینه‌های سوخت را مهار کند، هرچند برخی تخفیف‌های فعلی موقتی هستند. تحلیل‌گران بر این باورند که ضربه هزینه‌های انرژی بر سایر رقبا حتی شدیدتر خواهد بود و زنجیره تامین کارآمد Walmart همچنان مزیت قیمتی نسبی آن را حفظ خواهد کرد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "خرده‌فروشی و انرژی",
-    "tag": "تورم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/walmart-says-higher-fuel-costs-will-offset-tariff-refund-benefit-2026-10",
-    "clean_url": "https://www.businessinsider.com/walmart-says-higher-fuel-costs-will-offset-tariff-refund-benefit-2026-10",
-    "image": "https://i.insider.com/6ad27200adb77227909a6817?width=1200&format=jpeg",
-    "timestamp": 1792209180.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "45d9b7e771",
-    "title_fa": "‏افت بازار اوراق قرضه باعث مهار تورم در اروپا می‌شود",
-    "title_en": "ECB's Lagarde says bond selloff will slow inflation",
-    "summary": [
-      "‏افزایش بازدهی اوراق قرضه و سخت‌تر شدن استقراض، سرعت رشد اقتصادی و تورم منطقه یورو را کاهش می‌دهد.",
-      "‏این شرایط هزینه‌های تامین مالی را بالا برده و تاب‌آوری مصرف‌کنندگان را در برابر جهش بهای سوخت محدود می‌کند.",
-      "‏سیاست‌گذاران ارشد بانک مرکزی اروپا از احتمال افزایش دوباره نرخ بهره در نشست ماه دسامبر خبر می‌دهند."
-    ],
-    "body_fa": "‏رئیس بانک مرکزی اروپا، Christine Lagarde ، اعلام کرد که موج فروش اوراق قرضه و جهش بازدهی آن‌ها باعث افزایش هزینه‌های استقراض و در نتیجه کند شدن رشد اقتصادی و تورم در حوزه یورو خواهد شد. بازدهی اوراق بدهی در سراسر جهان طی هفته‌های اخیر جهش یافته و کشورهایی نظیر فرانسه به دلیل نگرانی‌های مربوط به بدهی‌های سنگین بیشترین ضربه را متحمل شده‌اند. به گفته Christine Lagarde ، این انقباض مالی پیش‌بینی‌نشده جذب شوک ناشی از افزایش بهای سوخت حاصل از درگیری‌های نظامی مرتبط با ایران را برای خانوارها دشوارتر می‌کند. بانک مرکزی اروپا در چهار ماه گذشته دو بار نرخ بهره را بالا برده و بازارها در انتظار افزایش مجدد نرخ به 2.75 درصد در نشست دسامبر هستند. از سوی دیگر، چهره‌های کلیدی این نهاد نظیر Joachim Nagel از Bundesbank تاکید کردند که مهار پایدار تورم نیازمند هوشیاری مداوم و احتمالاً اتخاذ سیاست‌های انقباضی بیشتر خواهد بود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی اروپا",
-    "tag": "بانک مرکزی اروپا",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/ecbs-lagarde-says-bond-selloff-will-slow-inflation.html",
-    "clean_url": "https://www.cnbc.com/2026/10/17/ecbs-lagarde-says-bond-selloff-will-slow-inflation.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108424294-1792234077387-gettyimages-2299750374-THAILAND_IMF_WORLD_BANK.jpeg?v=1792234097&w=1920&h=1080",
-    "timestamp": 1792209120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8b40a55a9e",
-    "title_fa": "‏اختلاف توتنوا و ترمپ، حمایت کی‌یف را به خطر انداخت",
-    "title_en": "Trump-Zelenskiy rift threatens vital support for Kyiv",
-    "summary": [
-      "‏هفته‌ای پرتنش بین ترمپ و توتنوا باعث تهدید قطع حمایت‌های اطلاعاتی آمریکا برای اوکراین شد.",
-      "‏این کشمکش می‌تواند توان نظامی کی‌یف را تضعیف کند و به روسیه امکان تأمین مالی جنگ از طریق معامله دیزل بدهد.",
-      "‏تحولات این ریسک‌ها فشار بین‌المللی بر واشنگتن را برای حفظ حمایت‌ها افزایش می‌دهد."
-    ],
-    "body_fa": "‏در هفته‌ای پرتنش، روابط بین رئیس‌جمهور پیشین آمریکا دونالد ترمپ و رئیس‌جمهور اوکراین ولادیمیر توتنوا دچار اختلاف شد. واشنگتن به تهدید قطع حمایت‌های اطلاعاتی برای کی‌یف اشاره کرد، که می‌تواند توان نظامی اوکراین را به‌طور قابل‌توجهی کاهش دهد. همزمان، گزارشی مبنی بر معامله دیزل بین روسیه و یک شرکت غربی منتشر شد که می‌تواند منبع مالی جدیدی برای جنگ مسلحانه مسکو فراهم کند. این تحولات نه تنها روابط دیپلماتیک دو کشور را تحت فشار قرار می‌دهد، بلکه پیامدهای اقتصادی و امنیتی گسترده‌ای برای منطقه دارد. تحلیل‌گران هشدار می‌دهند که ادامه این کشمکش می‌تواند حمایت‌های نظامی و مالی غرب برای اوکراین را تهدید کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "روابط آمریکا-اوکراین",
-    "tag": "توتنوا",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/trump-zelenskiy-rift-threatens-vital-support-kyiv-2026-10-17/",
-    "clean_url": "https://www.reuters.com/world/europe/trump-zelenskiy-rift-threatens-vital-support-kyiv-2026-10-17",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792206180.0,
     "sent_to_telegram": true
   }
 ]
