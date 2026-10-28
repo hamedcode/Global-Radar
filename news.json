@@ -1,5 +1,71 @@
 [
   {
+    "id": "e70d093ac7",
+    "title_fa": "‏فدرال رزرو نرخ بهره را ثابت کرد",
+    "title_en": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "summary": [
+      "‏فدرال رزرو تصمیم گرفت نرخ بهره اصلی را ثابت نگه دارد",
+      "‏این تصمیم همراه با اعلام تغییرات در روند جلسات FOMC و ابراز نظرات مخالفان بود",
+      "‏یکی از اعضای کمیته، لیسا کوک، برای اولین بار رأی مخالف داد"
+    ],
+    "body_fa": "‏فدرال رزرو روز چهارشنبه تصمیم گرفت نرخ بهره اصلی خود را ثابت نگه دارد، تصمیمی که پیش‌بینی‌های بازار را تأیید کرد. در کنفرانس خبری، رئیس کمیته کیون وارش اعلام کرد که در سال 2027 یکی از جلسات FOMC بدون رأی‌گیری و بیانیه پس از جلسه برگزار خواهد شد و تعداد جلسات استراتژیک به دو افزایش می‌یابد. این تغییر باعث می‌شود فرصت‌های تنظیم نرخ بهره به شش جلسه در سال محدود شود، مگر در موارد اضطراری. همچنین دو عضو کمیته، لیسا کوک و بث هماک، برای اولین بار رأی مخالف به تصمیم ثابت‌کردن نرخ دادند و احتمالاً بیانیه‌ای توضیحی ارائه خواهند کرد. وارش به نقش هوش مصنوعی در رشد اقتصادی اشاره کرد و گفت این فناوری یکی از عوامل تقویت‌کننده گسترش است. علاوه بر این، زمان کنفرانس خبری کوتاه شد و پرسش‌های خبرنگاران به یک سؤال محدود شد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "نرخ بهره",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+    "clean_url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+    "image": "https://s.yimg.com/bo/a4b469dc-fe12-51f9-a869-1b909988258e_1793224216880.jpg",
+    "timestamp": 1793223077.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "761d734535",
+    "title_fa": "‏سهم‌های بزرگ پس از ساعت معامله نوسان کردند Alphabet Microsoft",
+    "title_en": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Chipotle,...",
+    "summary": [
+      "‏سهم‌های Alphabet 9 ٪ کاهش یافت، Microsoft 2 ٪ رشد کرد و Chipotle بیش از 5 ٪ افزایش یافت پس از گزارش‌های سود سه‌ماهه.",
+      "‏این نوسانات نشان‌دهنده واکنش بازار به نتایج متفاوت شرکت‌های فناوری و مصرفی، از جمله نقدینگی منفی Alphabet و رشد Azure مایکروسافت.",
+      "‏علاوه بر این، ServiceNow 15 ٪ و Fortinet 25 ٪ سقوط کردند."
+    ],
+    "body_fa": "‏در معاملات پس از ساعت بازار، سهام چند شرکت بزرگ نوسان شدیدی نشان دادند. سهم Alphabet 9 ٪ کاهش یافت پس از انتشار گزارش سه‌ماهه که جریان نقدی آزاد منفی 9.07 میلیارد دلار و درآمد جستجوی اصلی کمتر از انتظار بود. در مقابل، Microsoft 2 ٪ رشد کرد؛ درآمد فصلی 92.28 میلیارد دلار که بالاتر از پیش‌بینی 90.69 میلیارد دلار بود و سود هر سهم 4.89 دلار، همچنین رشد 48 ٪ Azure را نشان داد. Chipotle Mexican Grill نیز بیش از 5 ٪ صعود کرد، چون فروش فروشگاه‌های مشابه در سه‌ماهه سوم 2.1 ٪ رشد کرد که بالاتر از پیش‌بینی 1.5 ٪ بود. در عین حال، ServiceNow 15 ٪ و Fortinet به ترتیب 15 ٪ و 25 ٪ سقوط کردند؛ ServiceNow سود تنظیم‌شده 1 دلار در مقابل پیش‌بینی 1.02 دلار و Fortinet حاشیه ناخالص 79.6 ٪ که کمتر از 80.1 ٪ مورد انتظار بود. سایر شرکت‌ها مانند Align Technology و Sprouts Farmers Market نیز با کاهش‌های جزئی مواجه شدند، در حالی که Ford پس از سود بهتر از انتظار اما کمی کمتر از پیش‌بینی درآمد، نزدیک 2 ٪ افت داشت.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش سود شرکت‌ها",
+    "tag": "سهم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-after-hours-googl-msft-cmg-now.html",
+    "clean_url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-after-hours-googl-msft-cmg-now.html",
+    "image": "https://s.yimg.com/bo/760581da-bc72-506f-8c74-05fe24a2e964_1789543222833.jpg",
+    "timestamp": 1793221757.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0d484e121e",
+    "title_fa": "‏Phillips 66 سود رکوردی 5.6 میلیارد دلاری ثبت کرد",
+    "title_en": "Phillips 66 Posts Record $5.6 Billion Profit as Refining Margins Soar |...",
+    "summary": [
+      "‏Phillips 66 در سه ماهه سوم 2025 سود خالص 5.62 میلیارد دلاری گزارش داد",
+      "‏سود فوق‌العاده به‌دلیل حاشیه‌های پالایش بالا و اختلالات تأمین سوخت خاورمیانه و روسیه حاصل شد",
+      "‏حاشیه پالایش به 38 دلار در هر بشکه رسید و شرکت 2.8 میلیارد دلار به سهامداران بازگرداند"
+    ],
+    "body_fa": "‏شرکت Phillips 66 در گزارش مالی سه ماهه سوم 2025 ، سود خالص 5.62 میلیارد دلاری را اعلام کرد که بیش از 40 برابر سود سال قبل است. این افزایش به‌دلیل رشد حاشیه‌های پالایش به رکورد 38 دلار در هر بشکه و بهره‌برداری 98 درصدی از واحدهای پالایشی حاصل شد. اختلالات در صادرات سوخت خاورمیانه و خسارت به زیرساخت‌های پالایشی روسیه عرضه جهانی دیزل و محصولات نفتی را محدود کرد و تقاضا برای پالایشگاه‌های آمریکایی را تقویت کرد. Phillips 66 همچنین 2.8 میلیارد دلار به‌صورت سود نقدی و بازخرید سهام به سهامداران بازگرداند و بدهی خالص خود را به 12.7 میلیارد دلار کاهش داد. برنامه گسترش واحد Coastal Bend نیز برای رسیدن به ظرفیت 350,000 بشکه در روز تا اوایل 2027 ادامه دارد.",
+    "category": "انرژی و کالا",
+    "subcategory": "سودهای پالایش",
+    "tag": "Phillips66",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Company-News/Phillips-66-Posts-Record-56-Billion-Profit-as-Refining-Margins-Soar.html",
+    "clean_url": "https://oilprice.com/Company-News/Phillips-66-Posts-Record-56-Billion-Profit-as-Refining-Margins-Soar.html",
+    "image": "https://s.yimg.com/bo/b20a60e0-a525-5ddd-927c-a45c7cd11905_1793216722941.jpg",
+    "timestamp": 1793217317.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "5f8126ba1d",
     "title_fa": "‏وزارت بهداشت آمریکا فروش موقت پپتیدهای غیرمجاز را مجاز می‌کند",
     "title_en": "US health department to allow temporary sale of some unapproved peptides",
@@ -66,6 +132,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1d8e44d3f3",
+    "title_fa": "‏وزیر خزانه‌داری آمریکا احتمال افزایش مجدد نرخ بهره را رد نکرد",
+    "title_en": "Bessent says ‘not necessarily’ a mistake if the Fed hikes again",
+    "summary": [
+      "‏وزیر خزانه‌داری آمریکا اعلام کرد افزایش دوباره نرخ بهره توسط فدرال‌رزرو لزوماً یک اشتباه سیاست‌گذاری نخواهد بود.",
+      "‏این اظهارات نشان می‌دهد دولت آمریکا انعطاف بیشتری در برابر سیاست‌های انقباضی نشان می‌دهد.",
+      "‏سخنان Scott Bessent می‌تواند بر انتظارات بازارها درباره تصمیمات بعدی فدرال‌رزرو اثر بگذارد."
+    ],
+    "body_fa": "‏وزیر خزانه‌داری آمریکا، Scott Bessent ، اعلام کرد که افزایش احتمالی نرخ بهره توسط فدرال‌رزرو لزوماً یک اشتباه در سیاست‌گذاری پولی محسوب نمی‌شود. او در گفت‌وگو با شبکه CNBC و در پاسخ به این پرسش که آیا افزایش مجدد نرخ‌ها خطا خواهد بود، تأکید کرد که چنین برداشتی لزوماً درست نیست. این موضع‌گیری در شرایطی مطرح می‌شود که فعالان بازارهای مالی به دقت جهت‌گیری‌های پولی و استقلال بانک مرکزی آمریکا را زیر نظر دارند. این اظهارات نشان می‌دهد که تیم اقتصادی دولت جدید آمریکا در صورت تداوم فشارهای تورمی، مخالفتی قطعی با ادامه انقباض پولی نخواهد داشت. بازارهای جهانی معمولاً چنین اظهاراتی از سوی مقامات ارشد اقتصادی را به عنوان نشانه‌ای از احتمال حفظ سیاست‌های سخت‌گیرانه تعبیر می‌کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی آمریکا",
+    "tag": "فدرال‌رزرو",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/video/2026/10/28/bessent-says-not-necessarily-a-mistake-if-the-fed-hikes-again.html",
+    "clean_url": "https://www.cnbc.com/video/2026/10/28/bessent-says-not-necessarily-a-mistake-if-the-fed-hikes-again.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108477070-1793223128075-1793223005936-bessentfed_1_.jpg?v=1793223131&w=1920&h=1080",
+    "timestamp": 1793197920.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "72de69a43c",
     "title_fa": "‏ایالات متحده تحریم جدیدی علیه شبکهٔ کلاهبرداری شمال‌کره‌ای اعمال کرد",
     "title_en": "US sanctions North Korean network accused of defrauding businesses",
@@ -110,6 +198,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "17a29a6670",
+    "title_fa": "‏فورد پیش‌بینی‌های خود را ارتقا داد",
+    "title_en": "Ford Lifts Outlook Even as War, Inflation Take Mounting Toll",
+    "summary": [
+      "‏فورد پیش‌بینی سود و فروش خود را ارتقا داد.",
+      "‏این تصمیم نشان‌دهنده توان مقابله با اثرات جنگ و تورم است.",
+      "‏شرکت امید دارد رشد سالانه را حفظ کند."
+    ],
+    "body_fa": "‏شرکت خودروسازی فورد اعلام کرد که پیش‌بینی‌های مالی خود را برای دوره آینده ارتقا داده است، حتی با وجود فشارهای ناشی از جنگ‌های جاری و افزایش تورم. این افزایش چشم‌انداز نشان می‌دهد که فورد توانسته است استراتژی‌های هزینه‌ای و زنجیره تأمین خود را به گونه‌ای تنظیم کند که اثرات منفی این عوامل را کاهش دهد. شرکت انتظار دارد که فروش خودروهای خود در بازارهای اصلی رشد کند و حاشیه سود را بهبود بخشد. این خبر می‌تواند برای سرمایه‌گذاران خودروسازی و بازارهای سهام اثر مثبت داشته باشد و نشان‌دهنده انعطاف‌پذیری بخش خودرو در برابر نوسانات اقتصادی است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "پیش‌بینی شرکت‌ها",
+    "tag": "Ford",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/ford-raises-outlook-even-as-war-inflation-exact-mounting-toll",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-28/ford-raises-outlook-even-as-war-inflation-exact-mounting-toll",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793195460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ac2c98c3d1",
+    "title_fa": "‏دادگاه درخواست توقف جستجوی رای‌دهندگان غیرشهروندی دولت ترامپ را کرد",
+    "title_en": "Lawsuit seeks to block Trump administration effort to find noncitizen voters",
+    "summary": [
+      "‏یک دادخواست برای مسدود کردن برنامه دولت ترامپ جهت استقرار صدها بازرس به منظور شناسایی رای‌دهندگان غیرشهروندی ارائه شد.",
+      "‏این اقدام ادعا می‌کند که شهروندان طبیعی‌سازی‌شده را به‌صورت غیرقانونی تهدید و تحت فشار قرار می‌دهد.",
+      "‏دعاوی مشابه قبلاً به دادگاه‌های فدرال ارجاع شده‌اند."
+    ],
+    "body_fa": "‏یک گروه حقوقی در دادگاه فدرال ایالات متحده درخواست توقف برنامه دولت ترامپ را کرده که قصد دارد صدها بازرس را برای شناسایی رای‌دهندگان غیرشهروندی اعزام کند. این طرح به‌عنوان تهدید غیرقانونی به شهروندان طبیعی‌سازی‌شده توصیف می‌شود و ممکن است آن‌ها را تحت فشار قرار دهد. دادخواهان می‌گویند این اقدام نقض حقوق اساسی و قوانین مهاجرتی است. در پرونده استدلال می‌شود که برنامه بدون مجوز قانونی اجرا می‌شود و به آزادی‌های مدنی آسیب می‌رساند. اگر دادگاه به نفع دادخواهان حکم کند، دولت ترامپ مجبور به بازنگری یا لغو این برنامه می‌شود.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "قضایای انتخاباتی",
+    "tag": "انتخابات",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/lawsuit-seeks-block-trump-administration-effort-find-noncitizen-voters-2026-10-28/",
+    "clean_url": "https://www.reuters.com/legal/government/lawsuit-seeks-block-trump-administration-effort-find-noncitizen-voters-2026-10-28",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793194140.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1305c680fb",
     "title_fa": "‏DTCC سرویس توکن‌سازی سهام و ETF ها را راه‌اندازی کرد",
     "title_en": "Wall Street giant DTCC launches tokenization for stocks, ETFs and U.S....",
@@ -132,6 +264,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "c5ecbc1fec",
+    "title_fa": "‏هکر اطلاعات شخصی ۴۰٬۰۰۰ کارمند DHS را سرقت کرد",
+    "title_en": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "summary": [
+      "‏هکر با نام کاربری Department of Peace ، بیش از ۴۰٬۰۰۰ رکورد پرسنل DHS شامل نام، ایمیل و شماره تلفن را به‌صورت آنلاین منتشر کرد.",
+      "‏این نشت اطلاعات حساس، شامل مأموران CBP ، ICE و CISA است و می‌تواند خطرات امنیتی جدی ایجاد کند.",
+      "‏داده‌ها از سیستم تک‌ورودی Okta استخراج شده‌اند."
+    ],
+    "body_fa": "‏هکری با نام کاربری Department of Peace به‌دست‌آمدن اطلاعات شخصی بیش از ۴۰٬۰۰۰ کارمند وزارت امنیت داخلی ایالات متحده را ادعا کرد و این داده‌ها را به‌صورت عمومی در اینترنت بارگذاری کرد. رکوردها شامل نام، عنوان شغلی، ایمیل، شماره تلفن همراه و مکان دفتر کار افراد است که در بخش‌های مختلفی از جمله گمرک و حفاظت مرزی (CBP)، مهاجرت و اجرای قانون (ICE) و آژانس امنیت سایبری (CISA) مشغول به کار هستند. هکر گفته است این اطلاعات را از سیستم تک‌ورودی Okta که برای ورود به شبکه مرکزی DHS استفاده می‌شود، استخراج کرده. این نشت دومین نفوذ به DHS در سال جاری است و پس از سرقت اسناد قراردادهای بخش خصوصی توسط همان هکر رخ داده است. انتشار این داده‌ها می‌تواند هدف‌گیری فیزیکی یا سایبری مأموران را تسهیل کند و نگرانی‌های امنیتی گسترده‌ای را برای دولت آمریکا به‌وجود آورد.",
+    "category": "تکنولوژی",
+    "subcategory": "نقض داده‌های دولتی",
+    "tag": "دسترسی",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+    "clean_url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
+    "timestamp": 1793192460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "70e11b962f",
+    "title_fa": "‏Deutsche Telekom ادغام بزرگ با T-Mobile را به تعویق انداخت",
+    "title_en": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
+    "summary": [
+      "‏Deutsche Telekom اعلام کرد ادغام عظیم با T-Mobile ممکن است به تعویق بیفتد.",
+      "‏این تصمیم می‌تواند تأثیر قابل‌توجهی بر بازارهای مخابراتی و ارزش سهام دو شرکت داشته باشد.",
+      "‏گزارش‌ها حاکی از نگرانی‌های نظارتی و هزینه‌های ادغام است."
+    ],
+    "body_fa": "‏Deutsche Telekom اخیراً اعلام کرد که برنامهٔ ادغام با T-Mobile US ممکن است به تعویق بیفتد. این ادغام که ارزش آن حدود ۲۶ میلیارد دلار تخمین زده می‌شود، بزرگ‌ترین ترکیب در صنعت مخابرات اروپا و آمریکا بود. نگرانی‌های نظارتی در ایالات متحده و هزینه‌های پیش‌بینی‌شدهٔ ادغام از دلایل اصلی این تصمیم به شمار می‌روند. اگر ادغام به تعویق بیفتد، سهام Deutsche Telekom و T-Mobile ممکن است تحت فشار بازار قرار گیرند. تحلیل‌گران پیش‌بینی می‌کنند که این تغییر مسیر می‌تواند رقابت در بازارهای 5G و خدمات دیجیتال را تحت تأثیر قرار دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ادغام بزرگ",
+    "tag": "Deutsche Telekom",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793188740.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "58543ecdd3",
     "title_fa": "‏قیمت بیت‌کوین به بالای 81,000 دلار رسید",
     "title_en": "Bitcoin tops $81,000 ahead of Fed decision as memecoins lead altcoin gains",
@@ -151,6 +327,28 @@
     "clean_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
     "image": "https://s.yimg.com/bo/33e6d930-5f97-5edf-9948-df5d31e2098c_1793188609989.png.cf.jpg",
     "timestamp": 1793186187.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dd65bce005",
+    "title_fa": "‏نرخ بهره آمریکا بدون تغییر در محدوده فعلی حفظ شد",
+    "title_en": "Fed holds rates steady despite concerns over inflation",
+    "summary": [
+      "‏بانک مرکزی آمریکا نرخ بهره را مطابق انتظار در محدوده 3.75 تا 4 درصد ثابت نگه داشت.",
+      "‏دو عضو کمیته با تصمیم مخالفت کردند و خواهان افزایش مجدد نرخ بهره برای مهار تورم بودند.",
+      "‏بیانیه رسمی نشست نشان می‌دهد سیاست‌گذاران برای تصمیمات بعدی منتظر دریافت داده‌های اقتصادی بیشتر هستند."
+    ],
+    "body_fa": "‏کمیته بازار باز در فدرال‌رزرو تصمیم گرفت نرخ بهره سیاستی را بدون تغییر در محدوده 3.75 تا 4 درصد حفظ کند. این تصمیم در شرایطی اتخاذ شد که فشارهای تورمی همچنان فراتر از انتظار سیاست‌گذاران باقی مانده است. در جریان این رأی‌گیری، دو نفر از اعضای کمیته شامل Lisa Cook و Beth Hammack مخالفت خود را اعلام کردند و خواستار افزایش 0.25 درصدی نرخ بهره شدند. بیانیه پایانی نشست تأکید کرد که بازگشت تورم به هدف 2 درصدی نیازمند بررسی دقیق‌تر داده‌های آتی خواهد بود. این تصمیم‌گیری هم‌زمان با حساسیت‌های سیاسی نزدیک به انتخابات میان‌دوره‌ای کنگره اتخاذ شده است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی آمریکا",
+    "tag": "نرخ بهره",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+    "clean_url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108363932-1789584332291-gettyimages-2295621873-ah700023_zxearqrl.jpeg?v=1789584398&w=1920&h=1080",
+    "timestamp": 1793185200.0,
     "sent_to_telegram": true
   },
   {
@@ -217,6 +415,28 @@
     "clean_url": "https://www.reuters.com/world/asia-pacific/nasdaq-futures-rise-sk-hynix-boosts-chips-before-fed-decision-earnings-2026-10-28",
     "image": "https://s.yimg.com/bo/0468ff59-e045-5019-8683-b90b5f560a99_1793181310425.jpg",
     "timestamp": 1793180342.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "aedecf509a",
+    "title_fa": "‏سهم مایکروسافت ۴٪ پس از رشد ۴۸٪ Azure",
+    "title_en": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    "summary": [
+      "‏سهم مایکروسافت در معامله پس از ساعت بسته ۴٪ افزایش یافت.",
+      "‏این رشد به دلیل رشد ۴۸٪ درآمد Azure و پیش‌بینی سود و درآمد بالاتر از انتظار بود.",
+      "‏شرکت همچنین ۴۵٫۲ میلیارد دلار هزینه سرمایه‌ای انجام داد و جریان نقدی آزاد را حفظ کرد."
+    ],
+    "body_fa": "‏مایکروسافت در گزارش مالی سه ماهه اول fiscal 2024 ، سود هر سهم ۴٫۸۹ دلار و درآمد ۹۲٫۲۸ میلیارد دلار را اعلام کرد که هر دو بالاتر از پیش‌بینی‌های LSEG بود. این نتایج به رشد ۴۸٪ در بخش Azure ، بزرگ‌ترین کسب‌وکار شرکت، برمی‌گردد. شرکت ۱۹٪ رشد سالانه در کل درآمد گزارش کرد و سرمایه‌گذاری ۴۵٫۲ میلیارد دلاری در دیتاسنترها و تجهیزات، که ۳۰٪ بیشتر از سال قبل است، انجام داد. مایکروسافت پیش‌بینی کرد که درآمد سه ماهه دوم بین ۹۶ تا ۹۷٫۱ میلیارد دلار باشد که با انتظارات بازار هم‌راستا است. با این نتایج، سهام شرکت در معامله پس از ساعت بسته ۴٪ افزایش یافت و نشان داد که تقاضا برای زیرساخت‌های ابری و هوش مصنوعی همچنان قوی است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نتایج مالی",
+    "tag": "Microsoft",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+    "clean_url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108471082-1793218589052-108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793218676&w=1920&h=1080",
+    "timestamp": 1793178000.0,
     "sent_to_telegram": true
   },
   {
@@ -308,6 +528,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "78fce4db33",
+    "title_fa": "‏قانونگذاران آمریکا بانک‌ها را از واردات دیزل روسیه هشدار دادند",
+    "title_en": "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
+    "summary": [
+      "‏قانونگذاران دوجانبه آمریکا به بانک‌ها و بنادر هشدار دادند که واردات دیزل روسیه می‌تواند خلاف قانون باشد.",
+      "‏این اقدام به دلیل تامین مالی جنگ اوکراین توسط مسکو و احتمال پیگردهای قانونی مهم است.",
+      "‏دولت ترامپ قبلاً مجوز عمومی 135 را برای شش ماه صادر کرده بود."
+    ],
+    "body_fa": "‏یک گروه دوجانبه از قانونگذاران ایالات متحده به بانک‌ها، مقامات بنادر و شرکت‌های سوختی نامه‌ای ارسال کردند و آن‌ها را از تسهیل واردات دیزل روسیه منع کردند. این نامه‌ها هشدار دادند که واردات دیزل روسیه می‌تواند قوانین فدرال را نقض کرده و شرکت‌ها را در معرض مسئولیت‌های کیفری و مدنی قرار دهد. قانونگذاران افزودند این واردات به مسکو درآمد می‌دهد که می‌تواند به جنگ اوکراین کمک کند. این اقدام پس از اعلام توافق ترامپ با ولادیمیر پوتین برای تأمین صدها هزار تن دیزل به آمریکا و صدور مجوز عمومی 135 توسط وزارت خزانه‌داری برای شش ماه رخ داد. اگر دموکرات‌ها در انتخابات میانی 2026 کنترل کنگره را به دست بگیرند، می‌توانند تحقیقات گسترده‌ای را آغاز کنند. شرکت‌ها از آن‌ها خواسته شد تا اسناد مربوط به هرگونه معامله یا برنامه‌ریزی برای واردات دیزل روسیه را از 1 سپتامبر ذخیره کنند و تا 28 اکتبر تأیید کنند.",
+    "category": "انرژی و کالا",
+    "subcategory": "تحریم‌های انرژی",
+    "tag": "دیزل روسیه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Lawmakers-Warn-Banks-Against-Trumps-Russian-Diesel-Deal.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/US-Lawmakers-Warn-Banks-Against-Trumps-Russian-Diesel-Deal.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-27_z4h168oa2r.jpg",
+    "timestamp": 1793167200.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "11ce5c39a8",
     "title_fa": "‏سیستم FEC به‌دلیل هک پیش از انتخابات میانی خاموش شد",
     "title_en": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
@@ -374,6 +616,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "ebdf94358e",
+    "title_fa": "‏XRP Ledger پیشنهادی برای ساخت کیف‌پول‌های صفر XRP جهت استیبل‌کوین",
+    "title_en": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+    "summary": [
+      "‏توسعه‌دهندگان XRP Ledger یک تغییر آزمایشی پیشنهاد کردند که امکان ایجاد کیف‌پول‌های بدون XRP را برای پرداخت استیبل‌کوین فراهم می‌کند.",
+      "‏این تغییر به شرکت‌ها اجازه می‌دهد ذخیره‌ساز XRP را برای حساب‌های مشتری و هوش مصنوعی پوشش دهند، بدون نیاز به خرید اولیه XRP توسط کاربران.",
+      "‏اگر اجرا شود، می‌تواند موانع ورود به XRP Ledger را کاهش داده و استفاده از استیبل‌کوین‌ها را گسترش دهد."
+    ],
+    "body_fa": "‏توسعه‌دهندگان اصلی XRP Ledger یک پیشنهاد تغییر آزمایشی ارائه دادند که هدف آن ایجاد کیف‌پول‌های بدون موجودی اولیه XRP است. بر اساس این طرح، شرکت‌ها می‌توانند ذخیره‌ساز XRP را برای حساب‌های مشتریان و حتی حساب‌های هوش مصنوعی تامین کنند، به طوری که کاربران بتوانند مستقیماً با استیبل‌کوین‌ها شروع به تراکنش کنند. این رویکرد نیاز به خرید XRP پیش از استفاده از استیبل‌کوین‌ها را حذف می‌کند و می‌تواند موانع ورود به شبکه را کاهش دهد. اگر این تغییر به‌صورت رسمی پیاده‌سازی شود، انتظار می‌رود جذابیت XRP Ledger برای برنامه‌های مالی و DeFi افزایش یابد. اما همچنان نیاز به بررسی‌های فنی و نظارتی وجود دارد تا اطمینان حاصل شود که پوشش ذخیره‌ساز به‌درستی مدیریت می‌شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "کیف پول دیجیتال",
+    "tag": "XRP",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+    "clean_url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793163180.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "619f769746",
     "title_fa": "‏مالیات بانکی پیشنهادی هیلِی کمتر از انتظارات وام‌دهندگان شد",
     "title_en": "Healey’s Bank Tax Hike Set to Be Less Severe Than Lenders Feared",
@@ -415,6 +679,50 @@
     "clean_url": "https://www.reuters.com/business/finance/fed-officials-not-aligned-weight-financial-conditions-2026-10-28",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793156580.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "64edad57de",
+    "title_fa": "‏دیسنت شگفت‌انگیز لیزا کوک در تصمیم نگه‌داشتن نرخ بهره فدرال‌رزرو",
+    "title_en": "Fed’s Decision Brings Surprise Dissent From Lisa Cook",
+    "summary": [
+      "‏دو مقام فدرال‌رزرو، Beth Hammack و Lisa Cook ، تصمیم نگه‌داشتن نرخ بهره را مخالف شدند.",
+      "‏مخالفت لیزا کوک غیرمنتظره است و می‌تواند نگرانی‌های بازار را دربارهٔ سیاست‌های پولی افزایش دهد.",
+      "‏هاماک به‌عنوان رئیس فدرال‌رزرو کلیولند، مخالفتش پیش‌بینی‌شده بود."
+    ],
+    "body_fa": "‏فدرال‌رزرو روز چهارشنبه تصمیم گرفت نرخ بهره را ثابت نگه دارد. با این حال دو نفر از اعضای هیئت‌مدیره، Beth Hammack و Lisa Cook ، با این تصمیم مخالف رأی دادند. مخالفت Beth Hammack پیش‌بینی می‌شد، چرا که او پیش از این نگرانی‌های مشابهی ابراز کرده بود. اما مخالفت Lisa Cook برای بسیاری شگفت‌انگیز بود؛ او تا به حال در چنین مواردی رأی مخالفی نداشته بود. این دیسنت می‌تواند نشانگر تردیدهای داخلی دربارهٔ مسیر سیاست پولی باشد و به نوسان‌های کوتاه‌مدت در بازارهای مالی منجر شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "دیسنت فدرال‌رزرو",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/fed-s-decision-brings-a-surprising-dissent-from-cook-qAX5ea8aBRlp9NUrGpLV",
+    "clean_url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/fed-s-decision-brings-a-surprising-dissent-from-cook-qAX5ea8aBRlp9NUrGpLV",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793153880.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "03e1f7dbeb",
+    "title_fa": "‏فدرال رزرو سال آینده هفت بار نرخ بهره را می‌سنجد",
+    "title_en": "Fed Will Vote Just Seven Times on Rates Next Year",
+    "summary": [
+      "‏فدرال رزرو تصمیم گرفت در سال 2025 فقط در هفت از هشت جلسه‌اش درباره نرخ بهره رأی کند.",
+      "‏این تغییر نشان‌دهنده تمرکز بر استراتژی کلی پولی است و می‌تواند انتظارات بازار را تحت تأثیر قرار دهد.",
+      "‏سخنران Kevin Warsh این برنامه را در یک مصاحبه توضیح داد."
+    ],
+    "body_fa": "‏فدرال رزرو اعلام کرد که در سال آینده تنها در هفت از هشت جلسه‌اش به تصمیم‌گیری درباره نرخ بهره می‌پردازد و یک جلسه را به بررسی کلی استراتژی پولی اختصاص می‌دهد. این تصمیم توسط Kevin Warsh ، یکی از پیشینان فدرال رزرو، در یک مصاحبه بیان شد. هدف این کار، فراهم کردن فضای بیشتری برای بحث‌های استراتژیک و کاهش نوسانات کوتاه‌مدت در بازار است. تحلیل‌گران بر این باورند که این تغییر می‌تواند انتظارات سرمایه‌گذاران درباره مسیر نرخ بهره را تثبیت کند و به پیش‌بینی‌های اقتصادی کمک کند. در صورت اجرای این برنامه، بازارهای مالی ممکن است واکنش‌های متفاوتی نشان دهند، به‌ویژه در دوره‌های پیش از جلسه‌های تصمیم‌گیری.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "نرخ بهره",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/fed-will-vote-just-seven-times-on-rates-next-year-njiSr0BunGmIjx1KisjN",
+    "clean_url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/fed-will-vote-just-seven-times-on-rates-next-year-njiSr0BunGmIjx1KisjN",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793153880.0,
     "sent_to_telegram": true
   },
   {
@@ -6288,314 +6596,6 @@
     "clean_url": "https://www.businessinsider.com/spacex-starlink-elon-musk-earnings-stocks-shares-trump-accounts",
     "image": "https://i.insider.com/6ad746762428f6b455813e98?width=1200&format=jpeg",
     "timestamp": 1792470660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6b9b236ced",
-    "title_fa": "‏Qualcomm برنامه‌ریزی برای کاهش شغل‌ها در سراسر جهان اعلام کرد",
-    "title_en": "Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
-    "summary": [
-      "‏Qualcomm در یک یادداشت داخلی اعلام کرد که برای بهبود عملکرد، برنامه‌ریزی برای کاهش شغل‌ها در سطح جهانی دارد.",
-      "‏این اقدام می‌تواند بر زنجیره تأمین چیپ‌ستون و بازار کار فناوری اثر داشته باشد.",
-      "‏هنوز تعداد دقیق حذف‌ها مشخص نشده است."
-    ],
-    "body_fa": "‏شرکت Qualcomm ، یکی از بزرگ‌ترین تولیدکنندگان چیپ‌ستون برای گوشی‌های هوشمند، در یک یادداشت داخلی اعلام کرد که برای بهبود عملکرد، برنامه‌ریزی برای کاهش شغل‌ها در سطح جهانی دارد. در این سند، تعداد دقیق موقعیت‌های شغلی که تحت تأثیر قرار می‌گیرند مشخص نشده و Reuters نتوانست مقیاس این کاهش را تعیین کند. Qualcomm هنوز پاسخی به درخواست‌های رسانه‌ها برای توضیح بیشتر نداده است. این تصمیم می‌تواند فشار بیشتری بر بازار کار فناوری و زنجیره تأمین قطعات الکترونیکی وارد کند، به‌ویژه در زمان‌هایی که رقبا نیز با چالش‌های هزینه‌ای مواجه‌اند. اگرچه جزئیات بیشتری در دسترس نیست، تحلیل‌گران انتظار دارند این اقدام نشان‌دهنده تلاش شرکت برای حفظ حاشیه سود در مواجهه با رقابت شدید و هزینه‌های تحقیق و توسعه است.",
-    "category": "تکنولوژی",
-    "subcategory": "کاهش نیروی کار",
-    "tag": "Qualcomm",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-    "clean_url": "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792468320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d2447442a5",
-    "title_fa": "‏قیمت نفت با امید به پیشرفت در خاورمیانه افت کرد",
-    "title_en": "Oil prices fall as traders hope for diplomatic progress in Middle East",
-    "summary": [
-      "‏قیمت نفت خام در روز سه‌شنبه کاهش یافت؛ WTI نوامبر به 102.75 دلار و برنت دسامبر به 108.31 دلار رسید.",
-      "‏کاهش به امید پیشرفت دیپلماتیک بین آمریکا و ایران و کاهش تنش‌های حملات به تانکرها در تنگه هرمز مرتبط است.",
-      "‏تحلیل‌گران اشاره کردند کاهش صادرات خاورمیانه و رفع تحریم‌های ناوگان روسی می‌تواند تقاضای نفت آمریکا را موقتاً افزایش دهد."
-    ],
-    "body_fa": "‏قیمت نفت خام در روز سه‌شنبه کاهش یافت؛ قراردادهای آتی WTI نوامبر به 102.75 دلار و برنت دسامبر به 108.31 دلار رسید. این افت پس از رسیدن به اوج‌های 110.48 دلار برای WTI و 111.99 دلار برای برنت در همان جلسه رخ داد. معامله‌گران این کاهش را به امید پیشرفت دیپلماتیک بین ایالات متحده و ایران و کاهش تنش‌های حملات به تانکرها در تنگه هرمز نسبت دادند. در دو هفته گذشته حداقل ۱۸ کشتی تجاری در این تنگه مورد هدف قرار گرفته‌اند و سپاه پاسداران ایران دو تانکر «غیرقابل‌انطباق» را پس از برخورد با مین‌هایشان به آتش کشید. تحلیل‌گر PVM Oil Associates ، تاماس وارگا، گفت فشارهای صادرات خاورمیانه و رفع تحریم ناوگان سایه روسیه می‌تواند تقاضای نفت آمریکا را موقتاً افزایش دهد. او افزود موجودی‌های تجاری نفتی آمریکا هفته گذشته کاهش یافته و این عوامل می‌توانند نوسان قیمت را ادامه دهند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "نفت",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "clean_url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
-    "timestamp": 1792468080.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bb7a026276",
-    "title_fa": "‏هزینه SpaceX برای هوش مصنوعی به ۱۶٫۴ میلیارد دلار رسید",
-    "title_en": "Earnings Snippet: SpaceX Spending Jumps",
-    "summary": [
-      "‏SpaceX سرمایه‌گذاری در هوش مصنوعی (SI) را به ۱۶٫۴ میلیارد دلار دو برابر کرد.",
-      "‏این مبلغ بیش از هزینه کل سرمایه‌ای کسب‌وکار فضایی شرکت که تنها ۱.۶ میلیارد دلار است.",
-      "‏افزایش هزینه AI می‌تواند رقابت SpaceX در فناوری‌های پیشرفته را تقویت کند."
-    ],
-    "body_fa": "‏شرکت SpaceX هزینه سرمایه‌ای خود را برای بخش هوش مصنوعی که «SI» نامیده می‌شود، به ۱۶٫۴ میلیارد دلار ارتقا داد. این رقم نسبت به دوره قبل بیش از دو برابر شده و نشان‌دهنده تمرکز شدید شرکت بر فناوری‌های هوش مصنوعی است. در مقابل، هزینه سرمایه‌ای بخش فضایی شرکت تنها به ۱٫۶ میلیارد دلار افزایش یافت. این اختلاف نشان می‌دهد که سرمایه‌گذاری AI برای SpaceX از فعالیت‌های فضایی مهم‌تر شده است. این گام می‌تواند به شرکت کمک کند تا در زمینه‌های خودران، پردازش داده‌های ماهواره‌ای و رباتیک پیشرفت‌های چشمگیری داشته باشد. تحلیل‌گران پیش‌بینی می‌کنند این سرمایه‌گذاری می‌تواند رقابت SpaceX را در بازارهای فناوری پیشرفته تقویت کند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "SpaceX",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026/card/gHxmlMusm5kGBfzp0t1s",
-    "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026/card/gHxmlMusm5kGBfzp0t1s",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792465980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b8cc70bf30",
-    "title_fa": "‏رشد سودآوری شرکت‌های اروپایی به بخش‌های جدید گسترش یافت",
-    "title_en": "Europe's earnings boom widens beyond energy and AI",
-    "summary": [
-      "‏شرکت‌های اروپایی در آستانه ثبت یک فصل دیگر از رشد درخشان سودآوری قرار گرفته‌اند.",
-      "‏این جهش سودآوری اکنون از بخش‌های انرژی و مراکز داده فراتر رفته و گسترده‌تر شده است.",
-      "‏گسترش سود به صنایع دیگر نشانه‌ای از تقویت پایه‌های اقتصادی قاره اروپا تلقی می‌شود."
-    ],
-    "body_fa": "‏شرکت‌های اروپایی آماده می‌شوند تا یک فصل دیگر از رشد استثنایی درآمد و سودآوری را به نمایش بگذارند. اگرچه بخش عمده این جهش همچنان مدیون عملکرد قدرتمند شرکت‌های فعال در حوزه انرژی و تأمین‌کنندگان زیرساخت‌های هوش مصنوعی و مراکز داده است، اما نشانه‌های گسترش این رونق به سایر بخش‌ها نیز دیده می‌شود. این تحول حاکی از آن است که پویایی بازار سهام اروپا دیگر صرفاً متکی به چند صنعت خاص نیست. تحلیل‌گران بر این باورند که سرایت سودآوری به سایر صنایع می‌تواند جذابیت سهام اروپایی را برای سرمایه‌گذاران بین‌المللی دوچندان کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بورس اروپا",
-    "tag": "درآمد شرکت‌ها",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/europes-earnings-boom-widens-beyond-energy-ai-2026-10-20/",
-    "clean_url": "https://www.reuters.com/business/finance/europes-earnings-boom-widens-beyond-energy-ai-2026-10-20",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792464480.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4fd6d254c4",
-    "title_fa": "‏FINMA اولین ETF بیت‌کوین اسپات را برای خرده‌فروشان تصویب کرد",
-    "title_en": "Swiss regulator FINMA approves country's first spot bitcoin ETF for retail investors",
-    "summary": [
-      "‏FINMA اولین ETF بیت‌کوین اسپات را برای سرمایه‌گذاران خرده‌فروش در سوئیس تصویب کرد.",
-      "‏این محصول تحت چارچوب صندوق‌های سرمایه‌گذاری سوئیسی است و می‌تواند مسیر پذیرش گسترده‌تر رمزارزها را هموار کند.",
-      "‏FINMA برای این ETF قوانین خاصی درباره نگهداری، ریسک عملیاتی و افشای اطلاعات سرمایه‌گذاران وضع کرده است."
-    ],
-    "body_fa": "‏سازمان نظارت مالی سوئیس (FINMA) اولین صندوق تبادل‌پذیر (ETF) بیت‌کوین اسپات را که مخصوص خرده‌فروشان است، تأیید کرد. این ETF تحت دسته «صندوق‌های دیگر برای سرمایه‌گذاری‌های جایگزین» در قوانین صندوق‌های سرمایه‌گذاری سوئیسی قرار می‌گیرد و به‌جای قوانین معمول تنوع‌پذیری، استثنایی برای بیت‌کوین اعمال شده است. FINMA برای این محصول چارچوب‌های خاصی درباره نگهداری امن، مدیریت ریسک‌های عملیاتی و افشای کامل به سرمایه‌گذاران تعیین کرده است. پیش از این، سوئیس تنها محصولات تبادل‌پذیر مبتنی بر رمزارزهای بدهی (ETP) را ارائه می‌داد که متفاوت از صندوق‌های سرمایه‌گذاری هستند. دیگر ارائه‌دهندگان صندوق نیز درخواست‌های مشابهی برای ETF بیت‌کوین ثبت کرده‌اند. اگرچه ریسک نوسان شدید بیت‌کوین همچنان وجود دارد، این گام می‌تواند مسیر پذیرش گسترده‌تر رمزارزها در بازارهای مالی سنتی را هموار سازد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ETF بیت‌کوین",
-    "tag": "bitcoin ETF",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
-    "clean_url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-20-at-13.01.45.png",
-    "timestamp": 1792454700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6c72382b95",
-    "title_fa": "‏قیمت LNG آسیا به بالای 30 دلار رسید",
-    "title_en": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
-    "summary": [
-      "‏قیمت LNG در بازار اسپات آسیا برای اولین بار از دسامبر 2022 بالای 30 دلار در هر میلیون BTU شد.",
-      "‏این جهش پس از گزارش حمله به تانکر LNG در خلیج عدن و دریای سرخ و نگرانی از ریسک حمل و نقل رخ داد.",
-      "‏قیمت‌های بالاتر ممکن است تقاضای آسیا را کاهش داده و اروپا را مجبور به پرداخت هزینه‌های بیشتر کند."
-    ],
-    "body_fa": "‏قیمت گاز مایع (LNG) در بازار اسپات آسیا برای اولین بار از دسامبر 2022 بالای 30 دلار در هر میلیون BTU شد. این افزایش پس از گزارش حمله به یک تانکر LNG در خلیج عدن و درگیری‌های مشابه در دریای سرخ توسط یک قایق کوچک رخ داد. حملات باعث نگرانی از ادامه جریان انرژی از خاورمیانه شد و احتمال کاهش تحویل‌های طبیعی به آسیا و اروپا را افزایش داد. در عین حال، تقاضای آسیا برای LNG به دلیل قیمت‌های بالا کاهش یافته و برخی کشورهای کم‌ثروت به سوخت زغال‌سنگ روی می‌آورند، در حالی که ذخایر گاز اروپا تنها 74 درصد پر است. این شرایط می‌تواند فشار بر قیمت‌های جهانی انرژی را تا فصل سرد تقویت کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت LNG آسیا",
-    "tag": "LNG",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Prices-Surge-Past-30-as-Middle-East-Shipping-Risks-Escalate.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Prices-Surge-Past-30-as-Middle-East-Shipping-Risks-Escalate.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-20_uorundjypt.jpg",
-    "timestamp": 1792454400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f6593c6429",
-    "title_fa": "‏IMF و بانک جهانی رشد جهانی را ۳٫۱٪ پیش‌بینی کردند",
-    "title_en": "IMF-World Bank meetings: Energy shocks, AI optimism, and other key takeaways on global economy",
-    "summary": [
-      "‏IMF در نشست بانکوک پیش‌بینی کرد رشد جهانی ۳٫۱٪ در ۲۰۲۶",
-      "‏این پیش‌بینی نشان می‌دهد اقتصاد مقاوم است اما ریسک‌های انرژی، بدهی و هوش مصنوعی می‌تواند فشار ایجاد کند",
-      "‏هوش مصنوعی می‌تواند هم رشد و هم ناپایداری مالی ایجاد کند"
-    ],
-    "body_fa": "‏در نشست سالانه صندوق بین‌المللی پول و بانک جهانی که در بانکوک برگزار شد، مسئولان به هشدار دربارهٔ اقتصاد جهانی آسیب‌پذیر در برابر شوک‌های انرژی، بدهی‌های دولتی و رشد نامتقارن هوش مصنوعی پرداختند. صندوق پیش‌بینی کرد که رشد جهانی در سال ۲۰۲۶ به ۳٫۱٪ خواهد رسید و تا ۲۰۲۷ به ۳٫۴٪ افزایش یابد، در حالی که تورم سرسری به ۴٫۷٪ در این سال می‌رسد. این ارقام نشان می‌دهد که اگرچه اقتصاد کلی مقاوم است، اما اختلاف‌های بین‌المللی در بهره‌برداری از سرمایه‌گذاری‌های هوش مصنوعی و دسترسی به انرژی می‌تواند فشارهای جدی ایجاد کند. بانکداران مرکزی نیز به این نکته اشاره کردند که هزینه‌های سرمایه‌گذاری در مراکز داده، تراشه‌ها و زیرساخت‌های برق می‌تواند فشارهای تورمی را تشدید کند و ریسک ناپایداری مالی را بالا ببرد. علاوه بر این، خطر تشدید تنش‌های ژئوپولیتیکی و تجدید منازعات تجاری به عنوان عوامل نزولی مهم شناخته شد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "پیش‌بینی رشد جهانی",
-    "tag": "IMF",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBCTV18",
-    "url": "https://www.cnbctv18.com/economy/imf-world-bank-energy-shocks-ai-optimism-and-other-key-takeaways-on-the-global-economy-from-thailand-20015502.htm",
-    "clean_url": "https://www.cnbctv18.com/economy/imf-world-bank-energy-shocks-ai-optimism-and-other-key-takeaways-on-the-global-economy-from-thailand-20015502.htm",
-    "image": "https://images.cnbctv18.com/uploads/2026/10/feature-2026-10-d7d4a60765907abe3f56462c62f25e8b.jpg?im=FitAndFill,width=1200,height=675",
-    "timestamp": 1792454340.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "faed7dbc93",
-    "title_fa": "‏بازارهای وال‌استریت پس از طوفان هوش مصنوعی کمی ریکاوری کردند",
-    "title_en": "Trading day: AI storm abates",
-    "summary": [
-      "‏سهام‌های فناوری هوش مصنوعی پس از سقوط شدید، امروز در وال‌استریت بازگشتند و شاخص‌ها کمی ارتقا یافتند",
-      "‏این بازگشت نشان می‌دهد فشارهای ناشی از انتظارات نادرست AI کاهش یافته و سرمایه‌گذاران به سبدهای متنوع بازگشته‌اند",
-      "‏شاخص S&P 500 حدود 0.4 ٪ رشد کرد، در حالی که سهام Nvidia و AMD پس از افت قبلی کاهش شدیدی را تجربه کردند"
-    ],
-    "body_fa": "‏در روز دوشنبه، پس از هفته‌ای پرنوسان به‌دلیل انتظارات بیش از حد از هوش مصنوعی، وال‌استریت کمی ریکاوری کرد. شاخص S&P 500 حدود 0.4 ٪ افزایش یافت و Dow Jones نیز حدود 0.3 ٪ رشد کرد. سهام‌های مرتبط با AI مانند Nvidia و AMD که روزهای پیش با کاهش‌های دو رقمی مواجه بودند، امروز با کاهش کمتر یا حتی کمی صعودی معامله شدند. تحلیل‌گران می‌گویند فشارهای ناشی از گزارش‌های مالی نامطلوب و انتظارات غیرواقعی در حال کاهش است و سرمایه‌گذاران به تدریج به سبدهای متنوع بازمی‌گردند. این آرامش نسبی می‌تواند مسیر کوتاه‌مدت بازار را تثبیت کند، اما ریسک‌های ناشی از نوسانات فناوری همچنان باقی است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters on MSN",
-    "url": "https://www.msn.com/en-us/money/economy/trading-day-ai-storm-abates/ar-AA2fBmvi?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-us/money/economy/trading-day-ai-storm-abates/ar-AA2fBmvi",
-    "image": "https://www.bing.com/th?id=ONUT.eadfUruX4OXnf5vzptM77w",
-    "timestamp": 1792446759.595351,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d42f4259ef",
-    "title_fa": "‏مالیات‌های جدید بودجه، ریسک بانک‌های بریتانیایی را افزایش می‌دهند",
-    "title_en": "Barclays in the line of fire: Budget tax hikes will put UK banks at risk, warns Alex Brummer",
-    "summary": [
-      "‏مالیات‌های پیشنهادی در بودجه جدید، فشار مالی بر بانک‌های بریتانیایی مانند Barclays ایجاد می‌کند.",
-      "‏آلکس برامر هشدار می‌دهد این افزایش مالیات می‌تواند ریسک‌های اعتباری و سودآوری بانک‌ها را بالا ببرد.",
-      "‏وزیر مالی جان هیلی برای جلوگیری از نشت اطلاعات بودجه، تدابیر امنیتی سخت‌گیرانه‌ای به سبک نظامی اتخاذ کرده است."
-    ],
-    "body_fa": "‏وزیر مالی بریتانیا، جان هیلی، پس از نشت اطلاعات بودجه در پاییز گذشته، دفاع‌های «نظامی‑سبک» برای محافظت از جزئیات مالی جدید به کار گرفته است. در این بودجه، افزایش مالیات‌های مختلف از جمله مالیات بر شرکت‌ها و مالیات بر خدمات مالی پیش‌بینی شده که می‌تواند فشار بر سودآوری بانک‌های بزرگ را افزایش دهد. تحلیل‌گر مالی آلکس برامر می‌گوید این تغییرات مالیاتی بانک‌های بریتانیایی، به‌ویژه Barclays ، را در معرض ریسک‌های اعتباری بیشتری قرار می‌دهد. او افزود که هزینه‌های بالاتر می‌تواند توانایی بانک‌ها در اعطای وام و جذب سرمایه را تحت فشار قرار دهد. این هشدارها می‌تواند واکنش‌های منفی در بازارهای سهام و اوراق قرضه بانکی بریتانیا ایجاد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "مالیات و بانک‌ها",
-    "tag": "مالیات",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "This is Money on MSN",
-    "url": "https://www.msn.com/en-us/money/economy/barclays-in-the-line-of-fire-budget-tax-hikes-will-put-uk-banks-at-risk-warns-alex-brummer/ar-AA2fANcZ?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-us/money/economy/barclays-in-the-line-of-fire-budget-tax-hikes-will-put-uk-banks-at-risk-warns-alex-brummer/ar-AA2fANcZ",
-    "image": "https://www.bing.com/th?id=ONUT.UCGcxp4t97Hq4UpJqyGnLA",
-    "timestamp": 1792446519.2436337,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7449180b0c",
-    "title_fa": "‏هکرها به پلتفرم OpenCode نفوذ کردند و هزینه‌های کاربران را افزایش دادند",
-    "title_en": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts | ...",
-    "summary": [
-      "‏هکرها به OpenCode Console دست یافتند و کلیدهای API 1.4 ٪ کاربران را به سرقت بردند",
-      "‏این نفوذ باعث شارژهای غیرمجاز تا بیش از 1000 دلار شد و خطر حملات سایبری مبتنی بر هوش مصنوعی را برجسته کرد",
-      "‏OpenAI ، Anthropic و Google کلیدهای فاش‌شده را مسدود و برای کاربران بازپرداخت انجام دادند"
-    ],
-    "body_fa": "‏OpenCode ، ابزار متن‌باز کدنویسی هوش مصنوعی، اعلام کرد که دیروز شب سامانه قدیمی‌اش مورد حمله هکرها قرار گرفته و 1.4 ٪ کاربران کنسول آنلاین آن که کلیدهای API خود را در آن ذخیره کرده بودند، تحت تاثیر قرار گرفتند. شرکت توضیح داد این حمله به شکل یک «حمله تقطیر» بزرگ بوده و منجر به استفاده غیرمجاز از کلیدها برای تولید خروجی‌های حجیم شد. توسعه‌دهندگان پس از دریافت هشدارهای هزینه‌ای، گزارش کردند که شارژهای غیرمجاز تا صدها دلار و در برخی موارد بیش از 1000 دلار بر روی حساب‌هایشان ثبت شده است. OpenAI ، Anthropic و Google بلافاصله کلیدهای فاش‌شده را مسدود کردند و برای جبران هزینه‌های کاربران اقدام به بازپرداخت کردند. تیم OpenCode نیز گفت در حال بازگرداندن هزینه‌های غیرمجاز است و برای 48 ساعت متوالی با استفاده از ابزارهای دفاعی هوش مصنوعی سعی در مقابله با حمله داشته‌اند.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "OpenCode",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "clean_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-    "image": "https://s.yimg.com/bo/034c20b9-fd97-5388-a5e8-af62153ae4cf_1792439059702.jpg",
-    "timestamp": 1792439121.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "58b122e5fa",
-    "title_fa": "‏پتر شِیف: نقره پس از تورم گرم ۶٫۵٪ افت کرد",
-    "title_en": "Why Schiff’s Inflation Hedge Case Faces a Rate Reality Check",
-    "summary": [
-      "‏نقره ۶٫۵٪ در یک روز ۱۴ اکتبر ۲۰۲۶ سقوط کرد، در حالی که طلا تنها ۱٫۵٪ کاهش یافت.",
-      "‏این افت نشان داد که واکنش نرخ بهره فدرال می‌تواند اثر تورمی را خنثی کند، که برای سرمایه‌گذاران دارایی‌های واقعی مهم است.",
-      "‏شِیف پیشنهاد می‌کند که نقره، معدن، انرژی و کشاورزی به‌عنوان پوشش تورمی انتخاب شوند."
-    ],
-    "body_fa": "‏در روز ۱۴ اکتبر ۲۰۲۶، نقره پس از انتشار داده‌های CPI گرم در آمریکا ۶٫۵٪ در یک جلسه کاهش یافت، در حالی که طلا تنها ۱٫۵٪ افت کرد. این حرکت نشان داد که انتظارات افزایش نرخ بهره فدرال می‌تواند حتی در حضور فشارهای تورمی، قیمت دارایی‌های حفاظتی را تحت فشار قرار دهد. پیتر شِیف، که به‌عنوان حامی طلا شناخته می‌شود، همچنان بر این باور است که دارایی‌های واقعی مانند نقره، معدن، انرژی و کشاورزی می‌توانند در مقابل تورم طولانی‌مدت محافظت کنند. او استدلال می‌کند که این سرمایه‌گذاری‌ها بر پایه اعتبار بدهی‌های دولتی و نه داده‌های ماهانه هستند و انتظار دارد تورم بین ۱۰ تا ۱۵ سال آینده پایدار بماند. صندوق بین‌المللی پول پیش‌بینی کرده است که تورم سرسری جهانی در سال ۲۰۲۶ حدود ۴٫۷٪ و در ۲۰۲۷ به ۴٫۱٪ کاهش یابد، که بخش عمده آن ناشی از قیمت‌های انرژی و غذاست. با این حال، نوسان قیمت نفت بر اثر دو جنگ جاری و پیش‌بینی‌های جدید گلدمن ساکس برای برنت (از ۸۵ تا ۹۰ دلار) نشان می‌دهد که ریسک‌های عرضه هنوز می‌توانند بازدهی این دارایی‌ها را تحت تأثیر قرار دهند.",
-    "category": "انرژی و کالا",
-    "subcategory": "سرمایه‌گذاری کالا",
-    "tag": "تورم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "discoveryalert.com",
-    "url": "https://discoveryalert.com/analysis/inflation-hedge-investments-schiff-gold-silver-october-2026/",
-    "clean_url": "https://discoveryalert.com/analysis/inflation-hedge-investments-schiff-gold-silver-october-2026",
-    "image": "https://media.discoveryalert.com/inflation-hedge-investments-silver-gold-selloff.jpg",
-    "timestamp": 1792439076.4528608,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cf352828c7",
-    "title_fa": "‏ایران حمله به کشتی‌ها در هرمز نفت را بالا برد",
-    "title_en": "Iran Just Pulled Off a Strategic Master Stroke in the Strait of Hormuz — and Donald Trump’s Dream of Low Oil Prices is Gone",
-    "summary": [
-      "‏ایران در ماه جاری حدود ۲۰ کشتی را در تنگه هرمز هدف قرار داد و یکی را غرق کرد.",
-      "‏این حملات می‌تواند قیمت نفت را قبل از انتخابات میانی آمریکا بالا برد و فشار سیاسی ایجاد کند.",
-      "‏در عین حال نیروی دریایی آمریکا توانست جریان نفت را به ۷۰٪ ظرفیت پیش‌جنگ برگرداند."
-    ],
-    "body_fa": "‏ایران این ماه حدود ۲۰ کشتی را در تنگه هرمز هدف قرار داد و یکی را غرق کرد، که مطابق گزارش UK Maritime Trade Operations است. هدف این حملات افزایش قیمت نفت پیش از انتخابات میانی ایالات متحده است، چرا که هزینه بنزین برای رأی‌دهندگان آمریکایی حساس است. نیروی دریایی آمریکا با حضور روزانه هواپیماهای جنگنده، پهپادها و نیروهای ویژه توانست کنترل نسبی آبراه را حفظ کند و جریان نفت را به حدود ۷۰٪ ظرفیت پیش‌جنگ برگرداند. این وضعیت نشان می‌دهد که تنش‌های ژئوپلیتیک می‌تواند به سرعت بازار انرژی را تحت فشار قرار دهد و پیامدهای سیاسی مهمی برای ترامپ به همراه داشته باشد. علاوه بر حملات به کشتی‌ها، ایران اقدامات دفاعی جدیدی در اطراف تأسیسات هسته‌ای حساس خود انجام داده است. اگرچه آمریکا قصد مداخله نظامی گسترده‌ای پیش از انتخابات ندارد، اما احتمال هدف قرار گرفتن این تأسیسات در آینده وجود دارد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "نفت و انرژی",
-    "tag": "نفت",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "nationalsecurityjournal",
-    "url": "https://nationalsecurityjournal.org/iran-just-pulled-off-a-strategic-master-stroke-in-the-strait-of-hormuz-and-donald-trumps-dream-of-low-oil-prices-is-gone/",
-    "clean_url": "https://nationalsecurityjournal.org/iran-just-pulled-off-a-strategic-master-stroke-in-the-strait-of-hormuz-and-donald-trumps-dream-of-low-oil-prices-is-gone",
-    "image": "https://www.bing.com/th?id=ONUT.T81nmGh0KSD6kNTPlU_OeQ",
-    "timestamp": 1792438289.7375586,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "996db150db",
-    "title_fa": "‏استارتاپ Town پس از چهار ماه به ارزش یونیکورن رسید",
-    "title_en": "AI assistant startup Town nabs unicorn valuation four months after launch |...",
-    "summary": [
-      "‏استارتاپ هوش مصنوعی Town پس از چهار ماه راه‌اندازی، ارزش یونیکورن 1.08 میلیارد دلاری کسب کرد",
-      "‏این پس از جذب 108 میلیون دلار در دور سری B توسط Forerunner Ventures و Menlo Ventures ، نشانگر سرعت رشد بازار دستیارهای AI است",
-      "‏Townie می‌تواند با ابزارهای ایمیل، تقویم و سیستم‌های کاری دیگر ارتباط برقرار کند و اطلاعات را به‌صورت خودکار به‌روزرسانی می‌کند"
-    ],
-    "body_fa": "‏استارتاپ هوش مصنوعی Town که دو سال پیش در سانفرانسیسکو تأسیس شد، پس از تنها چهار ماه عرضه عمومی، به ارزش یونیکورن 1.08 میلیارد دلار رسید. این شرکت امروز دور سری B خود را با جذب 108 میلیون دلار تکمیل کرد که توسط Forerunner Ventures و Menlo Ventures رهبری و همچنین مشارکت Andreessen Horowitz ، Serena Ventures و First Round Capital بود. Town به کسب‌وکارها یک دستیار هوشمند به نام Townie ارائه می‌دهد که می‌تواند به ایمیل‌ها، تقویم‌ها و سایر سیستم‌های کاری متصل شود و حتی با یکدیگر اطلاعات تأییدشده را به اشتراک بگذارند. به‌تازگی این دستیارها می‌توانند به‌صورت خودکار با به‌روزرسانی‌های جدید کسب‌وکار هماهنگ شوند و حتی با مشتریان بیرونی تعامل داشته باشند. این رشد سریع نشان می‌دهد که تقاضا برای راهکارهای هوش مصنوعی سازمانی در حال افزایش است و سرمایه‌گذاران به سرعت به این حوزه تمایل نشان می‌دهند.",
-    "category": "تکنولوژی",
-    "subcategory": "استارتاپ هوش مصنوعی",
-    "tag": "Town",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-    "clean_url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
-    "image": "https://s.yimg.com/bo/be6ec595-0901-5205-8512-1df5cf24b079_1792433905148.jpg",
-    "timestamp": 1792431921.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b15888ecb0",
-    "title_fa": "‏هکرها داده‌های میلیون‌ها دانش‌آموز کالیفرنیا را دزدیدند",
-    "title_en": "Hackers stole millions of California students’ data in a breach.",
-    "summary": [
-      "‏هکرها اطلاعات شخصی میلیون‌ها دانش‌آموز کالیفرنیا را از Educational Testing Services کپی کردند.",
-      "‏این نفوذ می‌تواند تمام دانش‌آموزان سه سال تحصیلی گذشته را تحت تأثیر قرار دهد و نگرانی‌های حریم‌خصوصی را برانگیزد.",
-      "‏وزارت آموزش کالیفرنیا هنوز جزئیات دقیق را منتشر نکرده است."
-    ],
-    "body_fa": "‏لوس آنجلس تایمز گزارش داد که هکرها به سامانه Educational Testing Services ، یکی از شرکای آزمون‌گیری ایالتی، دسترسی پیدا کرده و داده‌های شخصی دانش‌آموزان کالیفرنیا را کپی کردند. اطلاعات سرقت‌شده شامل نام، آدرس، تاریخ تولد، جزئیات جمعیتی، وضعیت ناتوانی و سایر داده‌های حساس است. وزارت آموزش کالیفرنیا اعلام کرد این نفوذ می‌تواند تمام دانش‌آموزان ثبت‌نام‌شده در سه سال تحصیلی گذشته را تحت تأثیر قرار دهد. این حادثه نگرانی‌های جدی دربارهٔ امنیت داده‌های آموزشی و حفاظت از حریم‌خصوصی دانش‌آموزان ایجاد کرده است. مقامات هنوز جزئیات دقیق نحوهٔ نفوذ و برنامهٔ پاسخگویی را منتشر نکرده‌اند، اما انتظار می‌رود تحقیقات گسترده‌ای برای شناسایی منبع حمله و جلوگیری از تکرار آن انجام شود.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "دیتابریچ",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1013803/hackers-stole-millions-of-california-students-data-in-a-breach",
-    "clean_url": "https://www.theverge.com/tech/1013803/hackers-stole-millions-of-california-students-data-in-a-breach",
-    "image": "https://s.yimg.com/bo/86d1a589-5f0f-5265-83fb-6d39ac7340ec_1791458910632.png.cf.jpg",
-    "timestamp": 1792427415.0,
     "sent_to_telegram": true
   }
 ]
