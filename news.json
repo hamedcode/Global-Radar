@@ -1,5 +1,27 @@
 [
   {
+    "id": "1c77bc1df4",
+    "title_fa": "‏مدیرعامل Borsa Istanbul در جریان تحقیقات یک صندوق بازداشت شد",
+    "title_en": "Borsa Istanbul general manager detained in fund investigation, Anadolu Agency...",
+    "summary": [
+      "‏پلیس ترکیه Korkmaz Enes Ergun ، مدیرعامل Borsa Istanbul را در جریان تحقیقات مرتبط با یک صندوق مالی بازداشت کرد.",
+      "‏این اقدام قضایی شوک جدیدی به ساختار نظارتی بازار سرمایه ترکیه و اعتبار نهادهای مالی آن وارد می‌کند.",
+      "‏هنوز جزئیات کامل اتهامات این مقام ارشد مالی به صورت رسمی اعلام نشده است."
+    ],
+    "body_fa": "‏مقامات امنیتی و قضایی ترکیه Korkmaz Enes Ergun ، مدیرعامل بورس Borsa Istanbul را در جریان یک پرونده تحقیقاتی مربوط به یک صندوق مالی بازداشت کردند. طبق گزارش رسانه‌های محلی از جمله Anadolu Agency ، این بازداشت به دنبال بررسی تخلفات و فعالیت‌های مشکوک مالی انجام شده است. دستگیری بالاترین مقام اجرایی بازار سهام ترکیه واکنش‌ها و نگرانی‌های متعددی را در میان فعالان بازار و سرمایه‌گذاران داخلی ایجاد کرده است. هنوز بیانیه رسمی از سوی هیئت‌مدیره بورس در خصوص این بازداشت و وضعیت ادامه مدیریت مجموعه صادر نشده است. این تحول حقوقی در شرایطی رخ می‌دهد که بازارهای مالی ترکیه تلاش می‌کنند اعتماد سرمایه‌گذاران خارجی را دوباره جلب کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام بین‌الملل",
+    "tag": "بورس ترکیه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/borsa-istanbul-general-manager-detained-fund-investigation-anadolu-agency-says-2026-10-31/",
+    "clean_url": "https://www.reuters.com/world/middle-east/borsa-istanbul-general-manager-detained-fund-investigation-anadolu-agency-says-2026-10-31",
+    "image": "https://s.yimg.com/bo/ccf53e40-aee5-55fb-a04a-268c8cecdb3d_1793479108366.jpg",
+    "timestamp": 1793472102.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "91772500c5",
     "title_fa": "‏نفت از تنگه هرمز به سطح پیش‌درگیری بازگشت؛ ایران استثنا",
     "title_en": "Oil flows through Strait of Hormuz have normalized except for Iranian exports, Scott Bessent notes",
@@ -6573,28 +6595,6 @@
     "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
     "clean_url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
     "image": "https://s.yimg.com/bo/1e0c614b-0cb3-5de6-b233-7550f87b3ad2_1792680816695.jpg",
-    "timestamp": 1792680661.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7bef755b21",
-    "title_fa": "‏استیبل‌کوین‌ها به‌سرعت در پرداخت‌های شرکتی جای می‌گیرند",
-    "title_en": "Crypto for Advisors: Stablecoins are ready for prime time",
-    "summary": [
-      "‏۱۸٪ شرکت‌ها استیبل‌کوین را در تولید به کار بردند، دو برابر سهم سال قبل.",
-      "‏این نشان می‌دهد بازار از آزمایش به اجرای واقعی می‌رسد و پرداخت‌های بین‌المللی را تسریع می‌کند.",
-      "‏۶۹٪ بانک‌ها قصد دارند خدمات استیبل‌کوین را در دو سال آینده ارائه دهند."
-    ],
-    "body_fa": "‏نظرسنجی 2026 EY‑Parthenon که ۵۲۱ تصمیم‌گیرنده مالی و شرکتی را شامل می‌شود، نشان می‌دهد ۱۸٪ شرکت‌ها استیبل‌کوین را در تولید به کار برده‌اند، دو برابر درصد سال قبل. توکن‌سازی سپرده‌ها نیز با ۱۵٪ پذیرش در حال رشد است. در مجموع ۶۹٪ بانک‌ها یا خدمات استیبل‌کوین ارائه می‌دهند یا قصد راه‌اندازی آن را در دو سال آینده دارند؛ ۴۹٪ نیز توکن‌سازی سپرده‌ها را برنامه‌ریزی کرده‌اند. بیشترین استفاده برای پرداخت‌های بین‌المللی B2B است که ۵۰‑۵۳٪ پاسخ‌دهندگان به این کاربرد پرداخته‌اند. دلایل اصلی این گرایش شامل سرعت پردازش، هزینه‌های کمتر ارزی و کاهش هزینه‌های بانکی واسطه‌ای است. این تحولات نشان می‌دهد بازار پرداخت‌های بلاکچینی از مرحله آزمایشی به یکپارچه‌سازی واقعی در زنجیره‌های مالی می‌رسد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پذیرش استیبل‌کوین",
-    "tag": "stablecoins",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-    "clean_url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-    "image": "https://s.yimg.com/bo/1a5df15a-79ab-58ac-a531-2201b2923c3d_1792682255073.jpg",
     "timestamp": 1792680661.0,
     "sent_to_telegram": true
   }
