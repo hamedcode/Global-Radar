@@ -1,5 +1,27 @@
 [
   {
+    "id": "1a99e376d8",
+    "title_fa": "‏طلا و نقره به‌دلیل نگرانی‌های AI و نفت افت کردند",
+    "title_en": "Metals brace for US payrolls and tech earnings as crude tracks geopolitical risk",
+    "summary": [
+      "‏قیمت طلا 3 ٪ و نقره 9 ٪ در هفته کاهش یافت",
+      "‏کاهش به دلیل نگرانی از هزینه‌های AI و فشارهای ژئوپلیتیک بر نفت",
+      "‏قیمت نفت به‌سوی اوج شش‌ماهه پیش رفت"
+    ],
+    "body_fa": "‏در هفته منتهی به 30 اکتبر، طلا به 3,875 دلار اونس و نقره به 49 دلار اونس سقوط کردند؛ نقره برای اولین بار در 11 ماه زیر 50 دلار رفت. این افت‌ها ناشی از تردیدهای سرمایه‌گذاران درباره هزینه‌های سرمایه‌گذاری در هوش مصنوعی و فشارهای ژئوپلیتیک در خلیج فارس و ایران بود که باعث افزایش قیمت نفت شد. دلار با رشد جزئی بسته شد اما زیر سطح 102 باقی ماند؛ افزایش قیمت نفت توقعات سیاست‌های پولی سفت‌تر را تقویت کرد. بازارهای سهام نیز به دلیل نتایج ناامیدکننده فناوری و نگرانی از بازده سرمایه‌گذاری AI ، حدود 1 تا 2 درصد کاهش یافتند. به‌طور کلی، فشارهای تورمی و رشد اقتصادی قوی‌تر از پیش‌بینی، مسیر احتمالاً یک بار دیگر افزایش نرخ بهره فدرال رزرو را باز می‌کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "فلزات و نفت",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Moneycontrol",
+    "url": "https://www.moneycontrol.com/news/business/commodities/metals-brace-for-us-payrolls-and-tech-earnings-as-crude-tracks-geopolitical-risk-14065517.html",
+    "clean_url": "https://www.moneycontrol.com/news/business/commodities/metals-brace-for-us-payrolls-and-tech-earnings-as-crude-tracks-geopolitical-risk-14065517.html",
+    "image": "https://images.moneycontrol.com/static-mcnews/2024/09/20240906033445_stock-market-pexels-.jpg",
+    "timestamp": 1793533920.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "dda38991a1",
     "title_fa": "‏Binance برداشت بیت‌کوین را به‌صورت مرحله‌ای از سرگیری کرد",
     "title_en": "BTC news: Binance begins phased withdrawals starting with bitcoin",
@@ -22,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "78422d822a",
+    "title_fa": "‏کالیفرنیا طرح مالیات 5 ٪ بر میلیاردرها را به رای می‌گذارد",
+    "title_en": "Prop 40 explained: California votes on taxing billionaires",
+    "summary": [
+      "‏کالیفرنیا پیشنهاد مالیات یک‌بار 5 ٪ بر میلیاردرهای ایالتی را برای جمع‌آوری حدود 100 میلیارد دلار تصویب می‌کند.",
+      "‏درآمد هدف برای پوشش کاهش بودجه بهداشت است و مخالفان می‌گویند ممکن است ثروتمندان را به خارج از ایالت بکشاند.",
+      "‏زاکربرگ و سرگئی برین از این مالیات انتقاد کرده و ممکن است محل سکونت خود را تغییر دهند."
+    ],
+    "body_fa": "‏کالیفرنیا در انتخابات میانی روز سه‌شنبه به رای‌گیری یک طرح مالیاتی جدید به نام Proposition 40 می‌پردازد. این طرح مالیات یک‌بار 5 ٪ بر ثروت میلیاردرهای ایالتی را اعمال می‌کند و هدف جمع‌آوری حدود 100 میلیارد دلار برای جبران کاهش بودجه بهداشت است. حامیان می‌گویند 90 ٪ این درآمد به برنامه‌های بهداشتی اختصاص می‌یابد، در حالی که مخالفان، از جمله سرگئی برین و مارک زاکربرگ، هشدار می‌دهند این مالیات می‌تواند ثروتمندان را به ترک کالیفرنیا وادار کند. برخی گروه‌های بهداشتی نیز می‌گویند طرح فاقد تضمین‌های کافی برای استفاده صحیح از منابع است. نظرسنجی اخیر نشان می‌دهد حدود 42 ٪ از رای‌دهندگان از این طرح حمایت می‌کنند، در حالی که 50 ٪ مخالفند؛ حمایت جوانان به‌ویژه زیر 30 سال بالاتر است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "مالیات بر میلیاردرها",
+    "tag": "مالیات میلیاردر",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/video/watch/idRW469931102026RP1/",
+    "clean_url": "https://www.reuters.com/video/watch/idRW469931102026RP1",
+    "image": "https://ajo.prod.reuters.tv/api/v2/img/6ae772c7e4b06575ec3c2d15-1793554295623?height=1200&width=1200&quality=80&smart=true",
+    "timestamp": 1793524440.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "59a0e7f381",
     "title_fa": "‏بحران برق زامبیا به‌دلیل وام‌های بزرگ چینی به‌وجود آمد",
     "title_en": "Ambitions financed by China's megabanks triggered Zambia crisis",
@@ -41,6 +85,72 @@
     "clean_url": "https://asiatimes.com/2026/10/ambitions-financed-by-chinas-mega-banks-triggered-zambia-crisis",
     "image": "https://i.ytimg.com/vi/SIdVaia1KPo/hqdefault.jpg",
     "timestamp": 1793524440.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "198083f814",
+    "title_fa": "‏صرافی Binance پس از هک، ۳٫۶۴ میلیارد دلار خروج داشت",
+    "title_en": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+    "summary": [
+      "‏صرافی Binance پس از بازگشایی برداشت‌ها، ۳٫۶۴ میلیارد دلار خروج خالص ثبت کرد.",
+      "‏این مقدار ۲٫۱٪ دارایی‌های صرافی است و نشان‌دهنده فشار نقدینگی پس از هک بزرگ است.",
+      "‏صرافی Binance قول داد گزارش به‌روز اثبات ذخایر را دوشنبه منتشر کند."
+    ],
+    "body_fa": "‏صرافی Binance اعلام کرد که پس از بازگشایی امکان برداشت‌ها، ۳٫۶۴ میلیارد دلار خروج خالص تجربه کرده است که معادل ۲٫۱٪ از کل دارایی‌هایش می‌شود. حجم برداشت‌ها پس از یک افزایش ناگهانی کاهش یافته و نشان‌دهنده آرام شدن فشار نقدینگی است. این خروج‌ها در پی هک بزرگ پیشین صرافی رخ داده و نگرانی‌های سرمایه‌گذاران را برانگیخته است. Binance همچنین وعده داده است که گزارش به‌روز اثبات ذخایر را در دوشنبه منتشر کند تا شفافیت بیشتری برای کاربران فراهم شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "نقدینگی صرافی",
+    "tag": "Binance",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+    "clean_url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793521980.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "def42649d2",
+    "title_fa": "‏هکرهای کره‌شمالی ۲۴۲ میلیون دلار بایننس را Tron شستشو دادند",
+    "title_en": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+    "summary": [
+      "‏هکرهای کره‌شمالی ۲۴۲ میلیون دلار سرقت‌شده از بایننس را از طریق بلاکچین Tron منتقل کردند.",
+      "‏این پول‌ها عمدتاً توسط Relay و THORChain به آدرس‌های دیگر خروج یافت؛ فشار فدرال‌رزرو و FBI برای مسدودسازی آن‌هاست.",
+      "‏Symbiosis اعلام کرد فیلترهایش حفره‌هایی دارد و هنوز تصمیمی درباره مسدودسازی آدرس‌ها نگرفته است."
+    ],
+    "body_fa": "‏هکرهای مرتبط با دولت کره‌شمالی حدود ۲۴۲ میلیون دلار از بایننس را دزدیدند و برای شستشوی پول از زنجیره بلاکچین Tron استفاده کردند. بر اساس گزارش تحلیل‌گران، بیشترین بخش این وجوه توسط پروتکل‌های Relay و THORChain به آدرس‌های خارج از Tron منتقل شد. FBI فهرستی از آدرس‌های مشکوک را منتشر کرده و از THORChain خواست تا این حساب‌ها را مسدود کند، اما این پلتفرم هنوز پاسخی نداده است. در همین حین، سرویس Symbiosis اذعان کرد که سامانهٔ بررسی تراکنش‌هایش دارای نقص‌هایی است و قادر به شناسایی کامل این عملیات نیست. این رویداد نشان می‌دهد که حتی زیرساخت‌های غیرمتمرکز می‌توانند در حملات بزرگ مالی مورد سوءاستفاده قرار گیرند و فشار نظارتی بر پروتکل‌های DeFi را افزایش می‌دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سرقت رمزارز",
+    "tag": "THORChain",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+    "clean_url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793521980.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0d5844eebb",
+    "title_fa": "‏حمله به محموله LNG پاکستان در هرمز با تأیید ایران",
+    "title_en": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+    "summary": [
+      "‏محموله LNG پاکستان در نزدیکی تنگه هرمز مورد حمله قرار گرفت.",
+      "‏این حمله با تأیید ایران گزارش شد و می‌تواند مسیر حمل و نقل گاز مایع را مختل کند.",
+      "‏خطرات برای بازارهای انرژی و تنش‌های منطقه‌ای را افزایش می‌دهد."
+    ],
+    "body_fa": "‏یک محموله LNG متعلق به پاکستان در نزدیکی تنگه هرمز مورد حمله قرار گرفت. منابع خبری اعلام کردند که این اقدام با تأیید مقامات ایرانی انجام شده است. تنگه هرمز به عنوان یکی از مهم‌ترین مسیرهای عبور گاز مایع و نفت در جهان شناخته می‌شود و هر اختلالی در آن می‌تواند تأثیرات گسترده‌ای بر بازارهای انرژی داشته باشد. این حادثه احتمالاً باعث افزایش نگرانی‌های سرمایه‌گذاران در بخش انرژی و ارتقای تنش‌های ژئوپلیتیک در منطقه می‌شود. مقامات پاکستان و شرکت‌های حمل‌ونقل در حال بررسی گزینه‌های جایگزین برای ادامه مسیرهای حمل‌ونقل هستند.",
+    "category": "انرژی و کالا",
+    "subcategory": "حمل و نقل انرژی",
+    "tag": "LNG",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793515680.0,
     "sent_to_telegram": true
   },
   {
@@ -88,6 +198,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0da8bed0a7",
+    "title_fa": "‏ایلان ماسک هشدار داد: هک‌های هوش مصنوعی در کریپتو",
+    "title_en": "Elon Musk Issues Serious Hack Warning Amid Bitcoin And Crypto Price Crash Fear",
+    "summary": [
+      "‏ایلان ماسک اعلام کرد که هک‌های آینده در بازارهای رمزارزی توسط هوش مصنوعی پیشرفته انجام خواهد شد.",
+      "‏این هشدار پس از حمله 6.3 میلیارد دلاری به بایننس و نگرانی از سقوط قیمت بیت‌کوین منتشر شد.",
+      "‏اگر این هک‌ها رخ دهند، می‌توانند نوسان شدید و کاهش اعتماد سرمایه‌گذاران را به دنبال داشته باشند."
+    ],
+    "body_fa": "‏ایلان ماسک در بیانیه‌ای هشدار داد که هک‌های آینده در حوزه رمزارزها توسط عوامل هوش مصنوعی پیشرفته و برای منافع شخصی خود انجام خواهد شد. او این هشدار را پس از افشای حمله‌ای به بایننس با خسارت تخمینی 6.3 میلیارد دلار و نگرانی‌های گسترده درباره سقوط قیمت بیت‌کوین مطرح کرد. ماسک بیان کرد که استفاده از الگوریتم‌های خودآموز و ربات‌های خودکار می‌تواند به هکرها امکان دسترسی سریع به کیف پول‌های دیجیتال و تبادل‌های بزرگ را بدهد. این پیش‌بینی می‌تواند باعث افزایش اضطراب سرمایه‌گذاران و نوسان شدید در بازارهای رمزارزی شود. تحلیل‌گران هشدار می‌دهند که اگر چنین حملات هوش مصنوعی رخ دهد، ممکن است به کاهش اعتماد به صرافی‌ها و فشار بیشتر بر تنظیم‌کنندگان منجر شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "امنیت سایبری",
+    "tag": "هک",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/digital-assets/2026/11/01/elon-musk-issues-serious-warning-as-massive-hack-drives-fresh-bitcoin-and-crypto-price-crash-fears/",
+    "clean_url": "https://www.forbes.com/sites/digital-assets/2026/11/01/elon-musk-issues-serious-warning-as-massive-hack-drives-fresh-bitcoin-and-crypto-price-crash-fears",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793512680.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "edaa49a431",
     "title_fa": "‏ایران و قطر مذاکرات برای پایان جنگ آمریکا‑اسرائیل برگزار کردند",
     "title_en": "Iran, Qatari mediators hold third day of talks to end U.S.-Iran war",
@@ -107,6 +239,28 @@
     "clean_url": "https://www.cnbc.com/2026/11/01/iranian-negotiators-in-qatar-to-continue-talks-to-end-war-reuters.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108497266-1793539401653-gettyimages-2301617123-AFP_D4F36DJ.jpeg?v=1793539420&w=1920&h=1080",
     "timestamp": 1793510940.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "517e133c1a",
+    "title_fa": "‏بنگلادش برای رفع ناآرامی کارگران پوشاک، هیئت دستمزد تشکیل می‌دهد",
+    "title_en": "Bangladesh sets up wage board as garment workers' unrest shuts factories",
+    "summary": [
+      "‏بنگلادش روز یکشنبه هیئت دستمزد برای بررسی حقوق کارگران صنعت پوشاک تشکیل می‌کند.",
+      "‏این اقدام پس از بسته شدن ده‌ها کارخانه و درگیری‌های پلیس‑کارگران، فشار بر اقتصاد صادراتی کشور را افزایش می‌دهد.",
+      "‏پیش‌بینی می‌شود دستمزدها افزایش یابد تا از تشدید ناآرامی جلوگیری شود."
+    ],
+    "body_fa": "‏دولت بنگلادش تصمیم گرفته روز یکشنبه هیئت دستمزد ملی برای بازنگری حقوق کارگران صنعت پوشاک تشکیل دهد. این اقدام پس از آنکه تظاهرات کارگران در شهرهای مختلف منجر به بسته شدن بیش از دو ده کارخانه و درگیری‌های خونین با پلیس شد، اتخاذ شد. صنعت پوشاک بنگلادش که حدود ۸۰ درصد صادرات کشور و بیش از ۴ میلیون شاغل دارد، به شدت تحت فشار این ناآرامی‌ها قرار گرفته است. کارگران خواستار افزایش دستمزدهای پایه به حداقل 22,000 تومان در روز هستند تا هزینه‌های زندگی روزافزون را پوشش دهند. مقامات اعلام کردند هیئت دستمزد شامل نمایندگان کارفرمایان، کارگران و دولت خواهد بود و هدفش یافتن راه‌حلی توافقی برای جلوگیری از گسترش ناآرامی‌هاست. تحلیل‌گران هشدار می‌دهند که در صورت عدم رفع سریع این مشکلات، ممکن است سفارشات بین‌المللی به کشورهای رقیب منتقل شود و رشد اقتصادی بنگلادش تحت تأثیر قرار گیرد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "دستمزد کارگران",
+    "tag": "پوشاک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/bangladesh-form-wage-board-after-garment-protests-shut-factories-2026-11-01/",
+    "clean_url": "https://www.reuters.com/business/world-at-work/bangladesh-form-wage-board-after-garment-protests-shut-factories-2026-11-01",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793509500.0,
     "sent_to_telegram": true
   },
   {
@@ -132,6 +286,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "6594b1ac64",
+    "title_fa": "‏حملات هوایی اسرائیل هشت فلسطینی را در غزه کشته‌اند",
+    "title_en": "Israeli strikes kill eight people in Gaza",
+    "summary": [
+      "‏حملات هوایی اسرائیل در غزه دو هدف را هدف قرار داد و حداقل هشت فلسطینی، از جمله پنج افسر پلیس، کشته شدند.",
+      "‏این رویداد می‌تواند تنش‌های منطقه‌ای را تشدید کند و واکنش‌های بین‌المللی را به دنبال داشته باشد.",
+      "‏به گزارش رسانه‌های حامی حماس، این حملات توسط نیروهای اسرائیلی انجام شد."
+    ],
+    "body_fa": "‏در روز یکشنبه، نیروهای نظامی اسرائیل دو حمله هوایی جداگانه در نوار غزه انجام دادند. طبق گزارش‌های پزشکی و وزارت داخلی تحت کنترل حماس، این حملات حداقل هشت فلسطینی را کشتند. از میان کشته‌شدگان، پنج نفر افسر پلیس بودند که نشان‌دهنده هدف‌گیری نیروهای امنیتی است. این رویداد پس از افزایش تنش‌های قبلی در مرزهای غزه و اسرائیل رخ داد. تحلیل‌گران پیش‌بینی می‌کنند این تشدید ممکن است واکنش‌های بین‌المللی و فشارهای دیپلماتیک بیشتری را به دنبال داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "تشدید درگیری غزه",
+    "tag": "غزه",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-eight-people-gaza-medics-say-2026-11-01/",
+    "clean_url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-eight-people-gaza-medics-say-2026-11-01",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793507160.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "26ccc0af1d",
     "title_fa": "‏هوش مصنوعی Meta را تقویت و Google را تهدید کرد",
     "title_en": "Why AI is boosting Meta's ad business while hurting Google search",
@@ -151,6 +327,28 @@
     "clean_url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108497472-1793543323692-gettyimages-2231576298-AA_27082025_2388287.jpeg?v=1793543337&w=1920&h=1080",
     "timestamp": 1793505600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cf3a70a2c9",
+    "title_fa": "‏شرکت BYD چین ششمین ماه متوالی رشد فروش را ثبت کرد",
+    "title_en": "China's BYD extends sales growth streak on strong exports",
+    "summary": [
+      "‏شرکت BYD در اکتبر ششمین ماه متوالی رشد فروش خود را اعلام کرد.",
+      "‏این رشد به‌دلیل تقاضای قوی در بازارهای خارجی است که کمبود تقاضای داخلی را جبران می‌کند.",
+      "‏قیمت‌گذاری شدید داخلی و رقابت شدید باعث شد BYD به صادرات تکیه کند."
+    ],
+    "body_fa": "‏شرکت BYD ، سازنده بزرگ خودروهای برقی چین، در ماه اکتبر ششمین ماه متوالی افزایش فروش خود را گزارش داد. این رشد در حالی رخ داد که تقاضای داخلی به دلیل کاهش خرید مصرف‌کنندگان و رقابت شدید قیمتی، ضعیف باقی مانده است. برای جبران این ضعف، BYD به‌طور فزاینده‌ای به بازارهای خارجی روی آورده و صادرات خود را گسترش داده است. افزایش فروش در خارج از کشور نشان می‌دهد که شرکت توانسته است با ارائه مدل‌های مقرون‌به‌صرفه و جذب مشتریان بین‌المللی، فشارهای داخلی را خنثی کند. این روند می‌تواند به تثبیت موقعیت BYD در رقابت جهانی خودروهای برقی کمک کرده و فشار بر رقبای داخلی را افزایش دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "خودروهای برقی",
+    "tag": "BYD",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/chinas-byd-extends-sales-growth-streak-strong-exports-2026-11-01/",
+    "clean_url": "https://www.reuters.com/business/autos-transportation/chinas-byd-extends-sales-growth-streak-strong-exports-2026-11-01",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793504280.0,
     "sent_to_telegram": true
   },
   {
@@ -195,6 +393,28 @@
     "clean_url": "https://www.reuters.com/legal/government/democratic-wins-would-shift-congress-trade-debate-fall-short-us-tariff-rollbacks-2026-11-01",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793502300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c75573838b",
+    "title_fa": "‏صربستان بانک مورد حمایت روس‌ها را تعطیل کرد",
+    "title_en": "Serbia shuts down bank favoured by Russians",
+    "summary": [
+      "‏صربستان بانک محبوب روس‌ها را به‌طور ناگهانی بسته کرد.",
+      "‏این اقدام می‌تواند روابط مالی روسیه با بالکان و فشارهای بین‌المللی را تقویت کند.",
+      "‏بانک حدود ۲ میلیارد یورو دارایی داشت و حساب‌های روسی را مدیریت می‌کرد."
+    ],
+    "body_fa": "‏به گزارش Financial Times ، مقامات صربستان بانک X را که به‌طور گسترده‌ای توسط سرمایه‌گذاران روسی استفاده می‌شد، به دلیل نگرانی‌های مرتبط با ارتباطات مالی با روسیه و احتمال نقض تحریم‌ها بسته‌اند. این تصمیم توسط بانک مرکزی صربستان و نهادهای نظارتی مالی اتخاذ شد. بسته شدن بانک می‌تواند دسترسی روس‌ها به سیستم بانکی صربستان را محدود کند و فشارهای بین‌المللی بر بلقان را افزایش دهد. همچنین، این اقدام ممکن است تأثیر کوتاه‌مدتی بر نقدینگی بازارهای مالی داخلی داشته باشد، هرچند اثرات گسترده‌تری بر اقتصاد کل کشور پیش‌بینی نمی‌شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانک‌داری",
+    "tag": "بانک",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce?syn-25a6b1a6=1",
+    "clean_url": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793494920.0,
     "sent_to_telegram": true
   },
   {
@@ -6376,226 +6596,6 @@
     "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026",
     "image": "https://s.yimg.com/bo/2bccb280-c69c-52f2-b08e-f202bb2b9ea9_1778669768852.jpg",
     "timestamp": 1792747881.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2c18f423bf",
-    "title_fa": "‏مایکروسافت تصمیم به بسته شدن استودیوی Arkane می‌گیرد",
-    "title_en": "Beloved game studio's fate looks grim after Xbox abandons it",
-    "summary": [
-      "‏مایکروسافت قصد دارد استودیوی Arkane را که در لیون مستقر است، پیش از یافتن خریدار ببندد.",
-      "‏این تصمیم باعث نگرانی اتحادیه‌های کارگری و خطر لغو بازی Marvel’s Blade می‌شود.",
-      "‏مهلت یافتن خریدار تا 13 نوامبر تعیین شده و مذاکرات اخراجی به سختی پیش می‌رود."
-    ],
-    "body_fa": "‏مایکروسافت در برنامهٔ «ریست» خود برای Xbox ، که شامل بیش از 3000 اخراج تا سال 2027 است، اعلام کرد قصد دارد استودیوی Arkane Studios را ببندد. چون این استودیو در لیون فرانسه مستقر است، شرکت مجبور به رعایت قوانین کار فرانسوی شد و نمی‌تواند بلافاصله آن را تعطیل کند. به همین دلیل، مایکروسافت و Arkane دورهٔ مشاورهٔ سه‌ماهه‌ای را آغاز کردند که در آن مایکروسافت باید خریدار جدیدی برای استودیو پیدا کند و برنامهٔ حفاظت از شغل‌ها را با اتحادیه‌ها مذاکره کند. بر اساس گزارش Le Monde ، مهلت یافتن خریدار تا 13 نوامبر است و مذاکرات برنامهٔ اخراج به سختی پیش می‌رود. اتحادیه‌های کارگری، از جمله Printemps Écologique و اتحادیهٔ کارگران ویدئویی فرانسه (STJV)، خواستار تمدید مهلت و اتخاذ تدابیری برای بازگرداندن شغل‌ها هستند. اگر استودیو بسته شود، بازی Marvel’s Blade که در حال تکمیل است، ممکن است هرگز منتشر نشود. اتحادیه‌ها حتی تهدید به دعوی قضایی علیه مایکروسافت کرده‌اند تا توجیه اقتصادی بسته شدن را به چالش بکشند.",
-    "category": "گیم",
-    "subcategory": "استودیوهای بازی",
-    "tag": "Arkane",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Polygon",
-    "url": "https://www.polygon.com/arkane-studios-potential-closure-november-2026-microsoft/",
-    "clean_url": "https://www.polygon.com/arkane-studios-potential-closure-november-2026-microsoft",
-    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/blade-screenshot.png?w=1600&h=900&fit=crop",
-    "timestamp": 1792745100.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a8a6e6c729",
-    "title_fa": "‏بانک‌های مرکزی سنگاپور، مالزی و تایلند BLOOM را گسترش دادند",
-    "title_en": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-    "summary": [
-      "‏بانک‌های مرکزی سنگاپور، مالزی و تایلند به ابتکار BLOOM برای پرداخت‌های مرزی با استیبل‌کوین‌ها پیوستند.",
-      "‏این گسترش همکاری شامل Ripple ، Visa ، Mastercard و سایر نهادهای مالی است و می‌تواند روش‌های تسویه‌حساب بین‌المللی را تغییر دهد.",
-      "‏تمرکز بر سازگاری شبکه‌ها، احراز هویت و بررسی تحریم‌هاست."
-    ],
-    "body_fa": "‏بانک مرکزی سنگاپور (MAS) اعلام کرد که بانک‌های مرکزی مالزی (Bank Negara Malaysia) و تایلند (Bank of Thailand) به ابتکار BLOOM به عنوان اعضای سیاست‌گذار پیوستند. BLOOM که مخفف Borderless, Liquid, Open, Online, Multi-currency است، به بررسی استفاده از استیبل‌کوین‌های تنظیم‌شده و سپرده‌های بانکی توکنیزه برای پرداخت‌های مرزی می‌پردازد. در این پروژه، شرکت‌های فناوری مالی مانند Ripple ، Visa ، Mastercard ، Circle ، Coinbase و JPMorgan نیز مشارکت دارند. هدف اصلی ایجاد سازگاری بین شبکه‌های مختلف، اعمال کنترل‌های هویتی، بررسی تحریم‌ها و تسهیل تسویه‌حساب‌های بزرگ بین‌المللی است. این گسترش نشان‌دهنده تمایل بانک‌های مرکزی آسیا به پذیرش پول دیجیتال و ممکن است مسیر پذیرش گسترده‌تر استیبل‌کوین‌ها در نظام مالی جهانی را هموار کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پروژه‌های استیبل‌کوین",
-    "tag": "BLOOM",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-    "clean_url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-13.23.12.png",
-    "timestamp": 1792730340.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d680203a09",
-    "title_fa": "‏قیمت گاز طبیعی اروپا به بالاترین سطح از 2022 رسید",
-    "title_en": "European Natural Gas Prices Surge to Highest Level Since 2022",
-    "summary": [
-      "‏قیمت گاز طبیعی مرجع اروپا (TTF) در صبح جمعه ۳٪ افزایش یافت و به ۱۰۳.۴ دلار/مگاوات‌ساعت رسید.",
-      "‏این افزایش به دلیل محدودیت‌های LNG قطر و کاهش ذخایر قبل از فصل گرمایش است و می‌تواند فشار بر بازار انرژی را افزایند.",
-      "‏ذخایر گاز اتحادیه اروپا تنها حدود ۷۵٪ پر است، حدود ۱۰ درصد کمتر از متوسط پنج‌ساله."
-    ],
-    "body_fa": "‏قیمت مرجع گاز طبیعی اروپا در بازار TTF صبح جمعه با افزایش ۳٪ به ۱۰۳.۴ دلار برای هر مگاوات‌ساعت (حدود ۳۰ دلار برای هر MMBtu) رسید. این صعود به ادامه تنش‌های خاورمیانه که جریان LNG از قطر را محدود کرده و به کاهش موجودی ذخایر گاز قبل از شروع فصل گرمایش منجر شده است. ذخایر گاز اتحادیه اروپا در تاریخ ۲۲ اکتبر تنها ۷۴.۶۲٪ پر بود که حدود ۱۰ درصد کمتر از میانگین پنج‌ساله برای این دوره است. کاهش موجودی ذخایر و نگرانی از حملات حوثی به تأسیسات انرژی سعودی باعث شد قیمت نفت برنت نیز به ۱۱۴ دلار در هر بشکه برسد. تحلیل‌گران ING هشدار دادند که تا نیمه دوم زمستان ممکن است جریان‌های LNG به طور قابل‌توجهی کاهش یابد و قیمت گاز اروپا همچنان حساس به تحولات خلیج فارس باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت گاز طبیعی",
-    "tag": "قیمت گاز",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-to-Highest-Level-Since-2022.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-to-Highest-Level-Since-2022.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-23_k1norvipwa.jpg",
-    "timestamp": 1792726200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0d5a11a527",
-    "title_fa": "‏سودهای فصلی شرکت‌های نفتی با حاشیه‌های رکوردی پالایشگاه‌ها درخشید",
-    "title_en": "Oil Majors’ Quarterly Earnings in Spotlight With Refineries Set to Gain",
-    "summary": [
-      "‏شرکت‌های بزرگ نفتی در حال آماده‌سازی گزارش‌های سود فصلی خود هستند",
-      "‏بازارهای سوخت جهانی به شدت سفت شده‌اند و حاشیه‌های پالایش به بالاترین سطح تاریخ رسیده‌اند",
-      "‏این شرایط می‌تواند سودهای پالایشگاهی را به‌طور قابل‌توجهی افزایش دهد"
-    ],
-    "body_fa": "‏شرکت‌های بزرگ نفتی مانند ExxonMobil ، Chevron و BP در آستانه انتشار نتایج مالی فصلی خود قرار دارند. در ماه‌های اخیر، بازارهای سوخت جهانی به دلیل کاهش موجودی‌های ذخیره و تقاضای قوی، به شدت سفت شده‌اند. این فشارها حاشیه‌های پالایش را به بالاترین سطوح تاریخی رسانده است، که برای پالایشگاه‌های این شرکت‌ها سودآوری فوق‌العاده‌ای به ارمغان می‌آورد. به‌دلیل این حاشیه‌های رکوردی، انتظار می‌رود سودهای پالایشگاهی در گزارش‌های سه‌ماهه به‌طور قابل‌توجهی افزایش یابد. تحلیل‌گران بازار انرژی این روند را به عنوان نشانه‌ای از ادامه فشار بر قیمت‌های بنزین و دیزل در کوتاه‌مدت می‌دانند. این تحولات می‌تواند بر قیمت نفت خام جهانی و تصمیمات سرمایه‌گذاران در بخش انرژی تأثیرگذار باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "سودهای پالایشگاهی",
-    "tag": "پالایش",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/business/energy-oil/oil-majors-quarterly-earnings-in-spotlight-with-refineries-set-to-gain-539ddc3a",
-    "clean_url": "https://www.wsj.com/business/energy-oil/oil-majors-quarterly-earnings-in-spotlight-with-refineries-set-to-gain-539ddc3a",
-    "image": "https://images.wsj.net/im-27438930/social",
-    "timestamp": 1792725120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3b9c1b64f1",
-    "title_fa": "‏سهام Kering پس از کاهش ۶٪ فروش گوچی سقوط کرد",
-    "title_en": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
-    "summary": [
-      "‏سهام Kering پس از کاهش ۶٪ فروش گوچی در سه ماهه سوم سال جاری به‌طور قابل‌توجهی افت کرد.",
-      "‏این افت نشان‌دهنده تداوم فشار بر بازارهای لوکس، به‌ویژه در چین، و تردیدها درباره بهبود گروه است.",
-      "‏فروش کل گروه Kering در این دوره ۱٪ کاهش یافت و به ۳٫۳۴۵ میلیارد یورو رسید."
-    ],
-    "body_fa": "‏سهام شرکت فرانسوی Kering ، مادر برندهای لوکس از جمله Gucci ، پس از انتشار نتایج فروش سه ماهه سوم، به‌صورت چشمگیری سقوط کرد. گروه اعلام کرد که فروش کلی بین ژوئیه و سپتامبر سال جاری ۱٪ کاهش یافته و به ۳٫۳۴۵ میلیارد یورو رسیده است. این کاهش عمدتاً به دلیل افت ۶٪ فروش Gucci بوده که نزدیک به نیمی از درآمد کل Kering را تشکیل می‌دهد. کاهش فروش Gucci به فشارهای اقتصادی بر مشتریان آرمان‌گرای مد، به‌ویژه در چین، نسبت داده می‌شود. تحلیل‌گران هشدار دادند این روند می‌تواند روند بهبود مالی گروه را به تعویق بیندازد و نگرانی‌ها درباره توانایی بازگشت به رشد را تشدید کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "Gucci",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc",
-    "clean_url": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc",
-    "image": "https://images.wsj.net/im-75370382/social",
-    "timestamp": 1792723380.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7f7548b975",
-    "title_fa": "‏آیفون دو، اولین گوشی تاشو اپل در چین عرضه شد",
-    "title_en": "Apple's folding iPhone Duo launches in China",
-    "summary": [
-      "‏در فروشگاه بزرگ اپل شانگهای، مشتریان برای دریافت آیفون دو، اولین گوشی تاشوی اپل، صف کشیدند.",
-      "‏این عرضه نشان‌دهنده گسترش اپل به بازار چین با محصول نوآورانه است.",
-      "‏قیمت اولیه این مدل هنوز اعلام نشده است."
-    ],
-    "body_fa": "‏جمعه ۲۳ اکتبر، مشتریان در فروشگاه بزرگ اپل شانگهای برای دریافت سفارش‌های خود از آیفون دو، اولین گوشی تاشوی این شرکت، صف کشیدند. آیفون دو با صفحه نمایش تاشو و طراحی دوگانه، گامی مهم برای اپل در رقابت با سامسونگ و سایر تولیدکنندگان گوشی‌های تاشو محسوب می‌شود. این محصول به‌صورت رسمی در چین عرضه شد و نشان‌دهنده تمرکز اپل بر بازار بزرگ آسیایی است. اگرچه قیمت دقیق هنوز اعلام نشده، انتظار می‌رود که در رده بالای بازار گوشی‌های پرچم‌دار قرار گیرد. تحلیل‌گران پیش‌بینی می‌کنند حضور اپل در بخش تاشو می‌تواند سهم بازار این دسته را در چین افزایش دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "گوشی‌های هوشمند",
-    "tag": "iPhoneDuo",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/video/watch/idRW247123102026RP1/",
-    "clean_url": "https://www.reuters.com/video/watch/idRW247123102026RP1",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792723140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9b00181a53",
-    "title_fa": "‏سود Eni 125 ٪ افزایش یافت و سود سهامداران رشد کرد",
-    "title_en": "Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts",
-    "summary": [
-      "‏Eni سود خالص سه ماهه 2026 را به 3.14 میلیارد دلار ارتقا داد، یعنی رشد 125 ٪ نسبت به سال قبل.",
-      "‏این افزایش به دلیل تولید بالاتر نفت و گاز و حاشیه‌های پالایشگاهی فوق‌العاده است و باعث پرداخت سود فوق‌العاده 1.46 میلیارد دلار شد.",
-      "‏شرکت برنامه خرید سهام خود را 12 ٪ افزایش داد و به 4.26 میلیارد دلار رسید."
-    ],
-    "body_fa": "‏گروه انرژی ایتالیایی Eni اعلام کرد که سود خالص تنظیم‌شدهٔ سه ماههٔ 2026 به 3.14 میلیارد دلار (2.8 میلیارد یورو) رسیده است، که نسبت به سال گذشته 125 ٪ افزایش یافته. این رشد به‌دلیل افزایش 4 ٪ در تولید نفت و گاز و به‌خصوص جهش حاشیه‌های پالایشگاهی از 8.9 دلار به 28.1 دلار در هر بشکه بوده است. در نتیجه، شرکت تصمیم گرفته است تا در دسامبر سود فوق‌العادهٔ 1.46 میلیارد دلار به سهامداران پرداخت کند. همچنین برنامهٔ خرید سهام خود را 12 ٪ گسترش داده و به 4.26 میلیارد دلار (3.8 میلیارد یورو) رسیده است. این اقدامات نشان‌دهندهٔ اعتماد Eni به ادامهٔ روند مثبت بازار کالاها و پیش‌بینی عملکرد قوی در سال کامل است.",
-    "category": "انرژی و کالا",
-    "subcategory": "سود نفت و گاز",
-    "tag": "Eni",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Enis-Profits-Soar-125-as-Refining-Boom-Fuels-Massive-Investor-Payouts.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Enis-Profits-Soar-125-as-Refining-Boom-Fuels-Massive-Investor-Payouts.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-23_snbqhwji2z.jpg",
-    "timestamp": 1792722540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9b60193c0c",
-    "title_fa": "‏بانک مرکزی سوئد دوباره بحث e‑krona را زنده کرد",
-    "title_en": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-    "summary": [
-      "‏بانک مرکزی سوئد خواستار بازنگری در طرح e‑krona شد و خطر کاهش تقاضای کرون از استیبل‌کوین‌های خارجی و یورو دیجیتال را هشدار داد.",
-      "‏اگر پول نقد دیجیتال نشود، کرون ممکن است در مقابل ابزارهای پرداخت دیجیتال مرزی کمتر رقابتی شود.",
-      "‏اجرای e‑krona حداقل پنج سال زمان می‌برد و می‌تواند در قطعی‌های برق یا مخابرات به‌عنوان پرداخت آفلاین عمل کند."
-    ],
-    "body_fa": "‏بانک مرکزی سوئد (Riksbank) در نامه‌ای به قانون‌گذاران، ضرورت بازنگری در طرح e‑krona را مطرح کرد و هشدار داد که استیبل‌کوین‌های خارجی و احتمال ورود یورو دیجیتال می‌توانند تقاضای کرون را کاهش دهند. این بانک معتقد است که ارائه پول دیجیتال مرکزی به مردم، برای حفظ کنترل پولی و ثبات مالی ضروری است، به‌ویژه با کاهش شدید استفاده از نقد در سوئد که تنها 5 ٪ خریدها به‌صورت نقدی انجام می‌شود. اگر کرون به‌صورت دیجیتال در دسترس نباشد، ممکن است در مقابل ابزارهای پرداخت دیجیتال مرزی که راحت‌تر و سریع‌تر هستند، توان رقابتی خود را از دست بدهد. Riksbank خواستار شروع کار قانون‌گذاری زودتر است، چرا که توسعه e‑krona حداقل پنج سال زمان می‌برد. این طرح می‌تواند به‌عنوان گزینه پشتیبان در زمان قطع برق یا مخابرات، امکان پرداخت آفلاین را فراهم کند. سوئد همچنین می‌تواند از زیرساخت یورو دیجیتال، که ممکن است تا 2029 راه‌اندازی شود، بهره‌برداری کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پول دیجیتال",
-    "tag": "e-krona",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-    "clean_url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/07c0b01c52b8b1c0aac2e6f37d5be148567cc67b-1920x1280.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-    "timestamp": 1792720620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1b8b42a268",
-    "title_fa": "‏Intel موقتاً از ممنوعیت ربات‌های خارجی معاف شد",
-    "title_en": "Intel just got a temporary waiver from the foreign robot ban.",
-    "summary": [
-      "‏Intel برای یک سال مجوز تغییر سخت‌افزار ربات‌های خودکار در کارخانه‌های نیمه‌رسانا دریافت کرد",
-      "‏این معافیت به دلیل عدم وجود جایگزین داخلی و زمان طولانی تعویض ربات‌ها ضروری است",
-      "‏FCC این تصمیم را برای ادامه تولید در فابریک‌های Intel تصویب کرد"
-    ],
-    "body_fa": "‏Intel درخواست مجوز موقت برای به‌روزرسانی سخت‌افزاری ربات‌های «Automatic Guided Vehicles» که به‌مدت دو دهه در تأسیسات نیمه‌رسانای این شرکت استفاده می‌شوند، کرد. فدراسیون مخابرات (FCC) این درخواست را پذیرفت و اجازه داد تا ربات‌ها برای یک سال آینده تغییرات فنی دریافت کنند. شرکت اعلام کرد جایگزین‌های داخلی برای این ربات‌ها وجود ندارد و تعویض کامل آن‌ها می‌تواند سال‌ها طول بکشد. این معافیت به Intel امکان می‌دهد تا خطوط تولید خود را بدون وقفه ادامه دهد و از اختلالات احتمالی در زنجیره تأمین نیمه‌رسانا جلوگیری کند. تصمیم FCC می‌تواند پیش‌نمونه‌ای برای سایر شرکت‌های فناوری باشد که در مواجهه با محدودیت‌های مشابه به دنبال راه‌حل‌های موقت هستند.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین و مقررات",
-    "tag": "Intel",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1017328/intel-just-got-a-temporary-waiver-from-the-foreign-robot-ban",
-    "clean_url": "https://www.theverge.com/policy/1017328/intel-just-got-a-temporary-waiver-from-the-foreign-robot-ban",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-    "timestamp": 1792720620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6f237a1916",
-    "title_fa": "‏اپراتور انرژی بریتانیا خطر کمبود برق زمستانی را رد کرد",
-    "title_en": "UK Rules Out Winter Energy Shortages as Gas Prices Soar",
-    "summary": [
-      "‏اپراتور ملی سیستم انرژی (NESO) گفت در زمستان خطر قطع برق یا گاز وجود ندارد.",
-      "‏اما قیمت‌های گاز و برق به ترتیب ۱۸۰٪ و ۱۲۰٪ افزایش یافته‌اند که هزینه‌های انرژی را بالا می‌برد.",
-      "‏NESO پیش‌بینی می‌کند تا مارس ۵.۵ گیگاوات برق اضافه داشته باشد، اما ژانویه حساس‌ترین ماه است."
-    ],
-    "body_fa": "‏اپراتور ملی سیستم انرژی بریتانیا (NESO) در پیش‌بینی اولیه زمستان گفت خطر قطع برق یا گاز وجود ندارد. این سازمان انتظار دارد بین ۳۱ اکتبر و ۳۱ مارس سال آینده، ۵.۵ گیگاوات برق اضافی تولید شود که ۸.۸٪ بالاتر از حداکثر تقاضا است. با این حال، NESO هشدار داد که عوامل خارجی مانند تولید برق در اروپا، تحولات بازار گاز و وضعیت آب و هوا می‌توانند وضعیت را تحت تأثیر قرار دهند و ژانویه حساس‌ترین ماه است. قیمت‌های گاز و برق در بریتانیا به ترتیب ۱۸۰٪ و ۱۲۰٪ نسبت به فوریه افزایش یافته‌اند، که هزینه‌های انرژی را به شدت بالا برده است. کاهش تولید داخلی گاز و وابستگی بیشتر به واردات، به‌ویژه از طریق خطوط لوله به بلژیک، این ریسک را تشدید کرده است. اگرچه ذخایر گاز در اروپا حدود ۷۰٪ پر است و برداشت‌ها آغاز شده، اما NESO معتقد است که تأمین برق برای کل زمستان تضمین شده است، هرچند هزینه‌ها بالا خواهد بود.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت گاز",
-    "tag": "گاز",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Rules-Out-Winter-Energy-Shortages-as-Gas-Prices-Soar.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Rules-Out-Winter-Energy-Shortages-as-Gas-Prices-Soar.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-23_pwm17rz8km.jpg",
-    "timestamp": 1792719000.0,
     "sent_to_telegram": true
   }
 ]
