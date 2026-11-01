@@ -1,5 +1,137 @@
 [
   {
+    "id": "dda38991a1",
+    "title_fa": "‏Binance برداشت بیت‌کوین را به‌صورت مرحله‌ای از سرگیری کرد",
+    "title_en": "BTC news: Binance begins phased withdrawals starting with bitcoin",
+    "summary": [
+      "‏Binance برداشت بیت‌کوین مشتریان را پس از هک 6.3 میلیارد دلاری آغاز کرد",
+      "‏این اقدام نشان‌دهنده بازگشت اعتماد به صرافی بزرگ و می‌تواند نوسانات بازار رمزارزها را کاهش دهد",
+      "‏برداشت‌ها به‌صورت تدریجی و با محدودیت‌های اولیه انجام می‌شود"
+    ],
+    "body_fa": "‏پس از وقوع یک هک تاریخی که حدود 6.3 میلیارد دلار از صندوق‌های Binance را به خطر انداخت، این صرافی بزرگ جهانی تصمیم گرفت برداشت‌های مشتریان را دوباره فعال کند. اولین مرحله این بازگشت، برداشت بیت‌کوین است و به‌صورت تدریجی و با محدودیت‌های اولیه اجرا می‌شود. Binance اعلام کرد که سیستم‌های امنیتی و کنترل‌های داخلی را تقویت کرده و نظارت بیشتری بر تراکنش‌ها اعمال می‌کند. این اقدام می‌تواند به بهبود اعتماد کاربران و کاهش فشار فروش در بازار رمزارزها منجر شود، هرچند برخی ناظران هنوز نگرانی‌های مربوط به امنیت دارایی‌ها را مطرح می‌کنند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پلتفرم تبادل",
+    "tag": "Binance",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+    "image": "https://s.yimg.com/bo/73b0ded8-60ce-5377-bbb2-42b2426792c6_1793531253163.jpg",
+    "timestamp": 1793530917.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8f3e4b0567",
+    "title_fa": "‏پیروزی دموکرات‌ها در کنگره تجارت آمریکا را تغییر می‌دهد",
+    "title_en": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks",
+    "summary": [
+      "‏دموکرات‌ها کنترل کنگره را به‌دست آوردند و مباحث تجاری را تغییر می‌دهند.",
+      "‏این تغییر منجر به برگزاری جلسات نظارتی و رأی‌های نمادین برای کاهش تعرفه‌های ترامپ می‌شود.",
+      "‏اما انتظار بازگشت کامل تعرفه‌ها یا تغییر اساسی در سیاست تجاری نیست."
+    ],
+    "body_fa": "‏نتایج انتخابات روز سه‌شنبه نشان داد که دموکرات‌ها کنترل مجلس نمایندگان و سنا را به‌دست می‌آورند. این تغییر می‌تواند مباحث تجاری ایالات متحده را بازنگری کند؛ به‌ویژه با برگزاری جلسات نظارتی گسترده و رأی‌های نمادین برای کاهش تعرفه‌های اعمال‌شده توسط دونالد ترامپ. با این حال، کارشناسان می‌گویند احتمال بازگشت کامل یا حذف این تعرفه‌ها کم است و سیاست تجاری آمریکا به‌صورت کلی تغییر اساسی نخواهد کرد. این تحولات می‌تواند بر مذاکرات تجاری آینده و روابط تجاری آمریکا با شرکای بین‌المللی تأثیر بگذارد، اما اثر فوری و گسترده‌ای بر بازارهای جهانی ندارد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "سیاست تجاری ایالات متحده",
+    "tag": "تجارت",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/democratic-wins-would-shift-congress-trade-debate-fall-short-us-tariff-rollbacks-2026-11-01/",
+    "clean_url": "https://www.reuters.com/legal/government/democratic-wins-would-shift-congress-trade-debate-fall-short-us-tariff-rollbacks-2026-11-01",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793502300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6724d57ad6",
+    "title_fa": "‏نقش کره شمالی در هک صرافی Binance رسماً تایید شد",
+    "title_en": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community...",
+    "summary": [
+      "‏پلیس فدرال آمریکا اعلام کرد هکرهای وابسته به کره شمالی پشت حمله بزرگ به صرافی Binance بوده‌اند.",
+      "‏این گزارش نشان‌دهنده ادامه استفاده پیونگ‌یانگ از سرقت رمزارزها برای دور زدن تحریم‌های بین‌المللی است.",
+      "‏نهادهای امنیتی با انتشار صدها آدرس بلاکچین، از فعالان جامعه DeFi خواستند این دارایی‌ها را مسدود کنند."
+    ],
+    "body_fa": "‏پلیس فدرال آمریکا رسماً تایید کرد که هکرهای وابسته به کره شمالی مسئول حمله گسترده به صرافی Binance بوده‌اند. نهادهای امنیتی در این اطلاعیه صدها آدرس بلاکچین مرتبط با مهاجمان را فهرست کرده و از جامعه DeFi خواستند هرگونه تعامل با آن‌ها را متوقف کنند. شرکت تحلیل داده‌های بلاکچین Chainalysis نیز اعلام کرد که هکرها در تلاشند تا مبالغ مسروقه را از طریق میکسرهای رمزارزی و پروتکل‌های مختلف پولشویی کنند. پیونگ‌یانگ سال‌هاست که از طریق تیم‌های هکری خود، سرقت رمزارزها را به یکی از منابع اصلی تامین مالی و دور زدن تحریم‌ها تبدیل کرده است. این اقدام FBI فشارها بر پلتفرم‌های غیرمتمرکز مالی را برای اعمال نظارت‌های سخت‌گیرانه‌تر و ردیابی وجوه غیرقانونی به شدت افزایش می‌دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "امنیت و جرایم سایبری",
+    "tag": "Binance",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+    "clean_url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+    "image": "https://s.yimg.com/bo/486e6f80-de09-5731-b5be-eafce9559ae4_1792551994718.jpg",
+    "timestamp": 1793494917.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "04909710bf",
+    "title_fa": "‏Xiaomi در اکتبر بیش از ۵۰٬۰۰۰ خودرو الکتریکی تحویل داد",
+    "title_en": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
+    "summary": [
+      "‏Xiaomi در اکتبر بیش از ۵۰٬۰۰۰ خودرو الکتریکی به مشتریان تحویل داد",
+      "‏این رقم بالاترین تحویل ماهانه این سال برای شرکت است و نشانگر سرعت افزایش تولید تا هدف ۲۰۲۶ است",
+      "‏تحویل‌های بیشتر می‌تواند سهم Xiaomi را در بازار خودروهای الکتریکی چین افزایش دهد"
+    ],
+    "body_fa": "‏شرکت چینی Xiaomi اعلام کرد که در ماه اکتبر بیش از ۵۰٬۰۰۰ خودرو الکتریکی به مشتریان تحویل داده است؛ این عدد بالاترین میزان تحویل ماهانه این سال برای این شرکت محسوب می‌شود. Xiaomi در سال ۲۰۲۲ وارد بازار خودروهای الکتریکی شد و هدف دارد تا سال ۲۰۲۶ به تولید حدود ۲ میلیون واحد در سال برسد. برای دستیابی به این هدف، شرکت در حال گسترش خطوط تولید و افزایش ظرفیت کارخانه‌های خود در چین است. افزایش تحویل‌ها نشان می‌دهد که تقاضا برای مدل‌های اولیه Xiaomi ، به‌ویژه مدل‌های Mi EV ، در حال رشد است. این پیشرفت می‌تواند رقابت در بازار خودروهای الکتریکی چین را تشدید کرده و سهم Xiaomi را در این بخش افزایش دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "خودروهای الکتریکی",
+    "tag": "Xiaomi",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-2026-11-01/",
+    "clean_url": "https://www.reuters.com/world/china/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-2026-11-01",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793493720.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "43b980dc07",
+    "title_fa": "‏شکست حقوقی شرکت هوش مصنوعی SpaceX در پرونده آلودگی هوا",
+    "title_en": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+    "summary": [
+      "‏دادگاه فدرال درخواست شرکت SpaceXAI برای رد شکایت زیست‌محیطی را نپذیرفت.",
+      "‏این شکایت به دلیل استفاده از توربین‌های گازی بدون مجوز برای دیتاسنترها مطرح شده است.",
+      "‏فعالان مدنی نگران خطرات آلودگی هوا برای سلامت ساکنان محلی هستند."
+    ],
+    "body_fa": "‏یک قاضی فدرال در ایالت Mississippi درخواست بخش هوش مصنوعی شرکت SpaceX به رهبری Elon Musk را برای رد شکایت زیست‌محیطی نپذیرفت تا این پرونده وارد مراحل بعدی شود. این شکایت توسط نهاد مدنی NAACP و گروه‌های حامی محیط‌زیست تنظیم شده و ادعا می‌کند این شرکت با نصب و راه‌اندازی 27 توربین گازی بدون دریافت مجوزهای قانونی، قانون هوای پاک فدرال را نقض کرده است. این توربین‌ها برای تأمین برق دیتاسنترهای عظیم هوش مصنوعی با نام Colossus در منطقه Memphis به کار گرفته شده‌اند و اعتراضات گسترده ساکنان محلی را به همراه داشته‌اند. وکلای شرکت استدلال کرده بودند که این تجهیزات متحرک هستند و معاف از مجوز به شمار می‌روند، اما دادگاه این ادعاها را کاملاً رد کرد. فعالان محیط‌زیست تأکید دارند که آلاینده‌های ناشی از این تأسیسات سلامت عمومی و کیفیت زندگی جامعه محلی را به خطر انداخته است.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی و حقوقی",
+    "tag": "هوش مصنوعی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+    "clean_url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+    "image": "https://s.yimg.com/bo/7feeb96d-4163-5108-b753-953fa3e3b33b_1793473886244.jpg",
+    "timestamp": 1793473316.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "140ca27fe0",
+    "title_fa": "‏وزیران خارجه G20 جلسه آتلانتا را بدون توافق پایان دادند",
+    "title_en": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+    "summary": [
+      "‏وزیران خارجه G20 پس از دو روز مذاکرات در آتلانتا به توافقی در مسائل امنیتی کلیدی نرسیدند.",
+      "‏عدم انتشار بیانیه مشترک نشان می‌دهد اختلافات، به‌ویژه درباره جنگ روسیه‑اوکراین، می‌تواند تأثیر منفی بر زنجیره‌های تأمین و روابط تجاری داشته باشد.",
+      "‏رابینو تأکید کرد که حفظ امنیت تنگه هرمز برای رشد اقتصادی ضروری است."
+    ],
+    "body_fa": "‏وزیران خارجه G20 در آتلانتا پس از دو روز مذاکرات به توافقی در مسائل امنیتی کلیدی نرسیدند. به‌دلیل اختلافات، به‌ویژه درباره جنگ روسیه با اوکراین، گروه بیانیه مشترک منتشر نکرد و به جای آن بیانیه رئیس‌جمهور را منتشر خواهد کرد. مارکو روبیویو، وزیر امور خارجه ایالات متحده، گفت مذاکرات اولین روز «بسیار سازنده» بود و در کنار آن نشست‌های فرعی با استرالیا، هند و ژاپن درباره زنجیره‌های تأمین و آزادی ناوبری در تنگه هرمز و آب‌های چین برگزار شد. روبیویو تأکید کرد که امنیت تنگه هرمز و باب‌ال‌مندب برای تجارت جهانی حیاتی است و باید زنجیره‌های مواد معدنی بحرانی تقویت شوند. عدم توافق نشان می‌دهد حضور کشورهای درگیر در جنگ‌ها، مانند روسیه و اوکراین، مانع اتخاذ موضع یکپارچه می‌شود و می‌تواند بر ثبات اقتصادی و تجاری جهانی اثر بگذارد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "مذاکرات G20",
+    "tag": "G20",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html",
+    "clean_url": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html",
+    "image": "https://s.yimg.com/bo/c8fc91de-8370-556e-ae94-87a0a3c04705_1793474238145.jpg",
+    "timestamp": 1793473316.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1c77bc1df4",
     "title_fa": "‏مدیرعامل Borsa Istanbul در جریان تحقیقات یک صندوق بازداشت شد",
     "title_en": "Borsa Istanbul general manager detained in fund investigation, Anadolu Agency...",
@@ -6464,138 +6596,6 @@
     "clean_url": "https://oilprice.com/Company-News/Valero-Q3-Earnings-Surge-Sixfold-to-68-Billion-on-Refining-Boom.html",
     "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_s5lnoad4rc.jpg",
     "timestamp": 1792699260.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "fc6f2a8ec1",
-    "title_fa": "‏چین‌لینک با LG CNS برای گسترش استیبل‌کوین‌های وون همکاری می‌کند",
-    "title_en": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
-    "summary": [
-      "‏چین‌لینک و LG CNS برای توسعه استیبل‌کوین‌های وون در کره جنوبی همکاری کردند",
-      "‏این همکاری می‌تواند زیرساخت‌های داده و تعامل زنجیره‌ای را برای توکن‌سازی و توزیع وسیع‌تر این ارزها فراهم کند",
-      "‏همزمان، LG CNS زیرساخت‌های Cross‑Chain چین‌لینک را در پلتفرم‌های دیجیتال مؤسسات کره‌ای یکپارچه می‌کند"
-    ],
-    "body_fa": "‏چین‌لینک با LG CNS ، بخش فناوری اطلاعات گروه LG ، برای پیشبرد زیرساخت‌های استیبل‌کوین‌های وون در کره جنوبی همکاری کرد. این دو شرکت قصد دارند با ترکیب داده‌های زنجیره‌ای و قابلیت‌های Cross‑Chain چین‌لینک، کاربرد و توزیع این ارزهای دیجیتال را در میان بیش از 11 میلیون کاربر واجد شرایط گسترش دهند. بازار رمزارزهای کره جنوبی حدود 68 میلیارد دلار ارزش دارد و هنوز چارچوب قانونی واضحی برای انتشار تجاری استیبل‌کوین‌های محلی ندارد. دولت کره در حال تدوین «قانون دارایی دیجیتال پایه» است که می‌تواند قوانین لازم برای استیبل‌کوین‌های وون را تعیین کند. LG CNS نیز زیرساخت‌های چین‌لینک را در پلتفرم‌های دیجیتال مؤسسات مالی کره‌ای ادغام خواهد کرد تا امکان توکن‌سازی اوراق بهادار و خدمات مالی نوین فراهم شود. این همکاری می‌تواند نقش مهمی در تسریع ورود کره به عصر توکن‌سازی و ارتقای زیرساخت‌های مالی دیجیتال ایفا کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پارتنرشیپ فناوری",
-    "tag": "stablecoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/chainlink_lgcns_won_stablecoin_1920x1080.jpg",
-    "timestamp": 1792696920.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "812325c8d7",
-    "title_fa": "‏Anthropic قرارداد راه‌اندازی مشاوره‌گری در اروپا را امضا کرد",
-    "title_en": "Anthropic strikes deal to launch European consultancy",
-    "summary": [
-      "‏Anthropic قرارداد جدیدی برای راه‌اندازی مشاوره‌گری هوش مصنوعی در اروپا امضا کرد.",
-      "‏این گام می‌تواند دسترسی شرکت‌های اروپایی به فناوری‌های پیشرفته AI را تسهیل کند.",
-      "‏شرکت قصد دارد خدمات مشاوره‌ای را به صنایع مختلف ارائه دهد."
-    ],
-    "body_fa": "‏Anthropic ، شرکت پیشرو در حوزه هوش مصنوعی، با یک شریک اروپایی یا به‌صورت مستقل، به راه‌اندازی مشاوره‌گری در اروپا پرداخته است. هدف این مشاوره‌گری کمک به شرکت‌ها در به‌کارگیری مدل‌های زبانی بزرگ و ابزارهای AI است. این اقدام نشان‌دهنده گسترش حضور Anthropic در بازار اروپا و رقابت با دیگر ارائه‌دهندگان AI مانند OpenAI و Google می‌باشد. خدمات مشاوره‌ای شامل ارزیابی نیازها، پیاده‌سازی و آموزش خواهد شد. در نتیجه، پذیرش فناوری‌های AI در صنایع اروپایی می‌تواند سرعت بگیرد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی مشاوره",
-    "tag": "Anthropic",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792695840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "df42a3a8fe",
-    "title_fa": "‏سهام Moderna پس از افشای داده‌های واکسن سرطان ۲۵٪ سقوط کرد",
-    "title_en": "Moderna shares plunge after leak of partial cancer vaccine data despite positive...",
-    "summary": [
-      "‏سهام Moderna تا ۲۵٪ در یک روز پس از افشای داده‌های جزئی واکسن سرطان کاهش یافت",
-      "‏داده‌ها نشان داد ترکیب واکسن با Keytruda خطر عود یا مرگ را ۴۲٪ کاهش می‌دهد، که می‌تواند درمان‌های نوین سرطان را شکل دهد",
-      "‏تحلیل‌گران گفتند واکنش شدید بازار ناشی از انتظارات بیش از حد است"
-    ],
-    "body_fa": "‏در روز پنجشنبه، پس از انتشار بخشی از نتایج فاز ۳ واکسن شخصی‌سازی‌شده سرطان شرکت Moderna که با Merck همکاری می‌کند، سهام این شرکت تا ۲۵٪ سقوط کرد. داده‌های کامل که بعداً منتشر شد، نشان داد ترکیب این واکسن به نام intismeran autogene با داروی ایمونوتراپی Keytruda خطر عود یا مرگ در بیماران ملانوما را ۴۲٪ و خطر گسترش به نقاط دوردست یا مرگ را ۳۸٪ نسبت به Keytruda تنها کاهش می‌دهد. همچنین ۸۲٪ بیماران دریافت‌کننده ترکیب، دو سال پس از درمان بدون عود بیماری باقی ماندند، در مقابل ۷۰٪ در گروه کنترل. اگرچه نتایج مثبت هستند، تحلیل‌گران معتقدند سقوط شدید سهام ناشی از انتظارات بیش از حد سرمایه‌گذاران نسبت به داده‌های اولیه بوده است. این واکسن می‌تواند مسیر درمان‌های هدفمند در سایر انواع سرطان‌ها را باز کند و برای Moderna منبع درآمد مهمی پس از واکسن‌های کووید‑۱۹، آنفولانزا و RSV باشد. سهام Merck نیز حدود ۱٪ کاهش یافت، در حالی که این شرکت تا کنون سال جاری ۴۱٪ رشد داشته است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سهام دارویی",
-    "tag": "Moderna",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-    "clean_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-    "image": "https://s.yimg.com/bo/33ce627d-9743-5d1f-b637-104f22fceddd_1792694738541.jpg",
-    "timestamp": 1792695061.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9162dfa46a",
-    "title_fa": "‏دادخواست علیه ترامپ به‌خاطر سودهای غیرقانونی کریپتو",
-    "title_en": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-    "summary": [
-      "‏یک دادخواست فدرال ادعا می‌کند ترامپ و شرکت خانوادگی‌اش بیش از ۲ میلیارد دلار از معاملات کریپتو با امارات دریافت کرده‌اند.",
-      "‏این پرونده می‌تواند فشار سیاسی و نظارتی بر بازارهای دیجیتال را افزایش دهد.",
-      "‏دعوا شامل خرید ۴۹٪ سهام World Liberty به‌قیمت ۵۰۰ میلیون دلار و خرید ۲ میلیارد دلار استیبل‌کوین است."
-    ],
-    "body_fa": "‏یک دادخواست فدرال در دادگاه ایالات متحده واشنگتن علیه دونالد ترامپ و شرکت خانوادگی‌اش World Liberty Financial تنظیم شد. شاکی، جِی بنجامین گرینبرگ، سهامدار سابق Circle Internet Group ، ادعا می‌کند این شرکت بیش از ۲ میلیارد دلار از معاملات مرتبط با ارزهای دیجیتال با امارات دریافت کرده که نقض بند امولمنت‌های خارجی قانون اساسی است. به‌طور خاص، یک سرمایه‌گذاری تحت حمایت شیخ طاهنون بن زاید آل‌نهایی، ۴۹٪ سهام World Liberty را به‌قیمت ۵۰۰ میلیون دلار خرید و پس از آغاز ریاست‌جمهوری ترامپ، او به‌صورت غیرمستقیم میلیون‌ها دلار دریافت کرد. علاوه بر آن، همان صندوق سرمایه‌گذاری در سال گذشته ۲ میلیارد دلار استیبل‌کوین USD1 شرکت را خریداری کرده تا ارزش دارایی‌های ترامپ را افزایش دهد. وکیل شاکی می‌گوید هدف دعوا، متوقف کردن این فساد و بازگرداندن سودها به مالیات‌گذاران آمریکایی است. در حالی که کاخ سفید ادعا می‌کند هیچ تضاد منافع وجود ندارد، این پرونده می‌تواند نظارت بر فعالیت‌های کریپتو و روابط بین‌المللی را تشدید کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قضایای مالی",
-    "tag": "امولمنت",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-    "clean_url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-    "image": "https://s.yimg.com/bo/f38ea5cd-1982-587c-8e71-8f73a7640354_1792688721741.jpg",
-    "timestamp": 1792687861.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "14a1af7a83",
-    "title_fa": "‏بانک مرکزی ایرلند به Coinbase 3.25 میلیون یورو جریمه کرد",
-    "title_en": "Central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-    "summary": [
-      "‏بانک مرکزی ایرلند به Coinbase Ireland 3.25 میلیون یورو جریمه کرد",
-      "‏جریمه به دلیل نقص در حفاظت از وجوه مشتریان و وابستگی بیش از حد به شرکت مادر آمریکا است",
-      "‏خطاهای کدگذاری باعث کمبود 0.54 ٪ در حساب حفاظتی در 2023 و نیمه اول 2024 شد"
-    ],
-    "body_fa": "‏بانک مرکزی ایرلند (CBI) روز پنجشنبه اعلام کرد که به Coinbase Ireland 3.25 میلیون یورو (معادل 3.6 میلیون دلار) جریمه اعمال کرده است. این جریمه به دلیل عدم رعایت الزامات حفاظت از وجوه مشتریان و عدم داشتن چارچوب مناسب برای مدیریت خدمات برون‌سپاری صادر شد. نهاد نظارتی اشاره کرد که Coinbase Ireland به‌طور بیش از حد به شرکت مادر خود در ایالات متحده به عنوان ارائه‌دهنده خدمات وابسته بوده و سیستم‌ها و کنترل‌های کافی برای اطمینان از تأمین مالی حساب حفاظتی نداشته است. شرکت Coinbase نیز اعلام کرد که خطاهای کدگذاری منجر به کمبود متوسط 0.54 ٪ در حساب حفاظتی در سال 2023 و نیمه اول 2024 شد، اما هیچ مشتری‌ایی خسارت مالی نداشته یا دسترسی به وجوه خود را از دست نداده است. این جریمه پس از جریمه 21.4 میلیون یورویی که در سال 2025 به Coinbase Europe برای نقص در مبارزه با پولشویی اعمال شد، می‌آید. این اقدام نظارتی می‌تواند فشار بیشتری بر صرافی‌های رمزارزی برای بهبود ساختارهای حفاظتی و شفافیت مالی ایجاد کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "جریمه نظارتی",
-    "tag": "Coinbase",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-    "clean_url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-    "image": "https://s.yimg.com/bo/a19ab341-d3f7-5d37-900b-a6ed50b83bfa_1791643041558.jpg",
-    "timestamp": 1792684261.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a0bdfbdfc5",
-    "title_fa": "‏Fireblocks خرید توسط Visa را رد کرد",
-    "title_en": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-    "summary": [
-      "‏Fireblocks گفت شایعه خرید توسط Visa نادرست است.",
-      "‏این خبر به دلیل ارزش پیشنهادی 2.5 میلیارد دلاری و تأثیر احتمالی بر بازار کریپتو اهمیت دارد.",
-      "‏Fireblocks در 2022 با جذب 550 میلیون دلار به ارزش 8 میلیارد دلاری ارزیابی شد."
-    ],
-    "body_fa": "‏Fireblocks اعلام کرد شایعه‌ای مبنی بر مذاکرات خرید توسط Visa نادرست است و هیچ توافقی وجود ندارد. این شایعه توسط Axios با استناد به منابع ناشناس منتشر شد، اما شرکت فوراً آن را رد کرد. در سال 2022 این شرکت 550 میلیون دلار جذب سرمایه کرد و به ارزش 8 میلیارد دلار ارزیابی شد، در حالی که پیشنهاد خرید 2.5 میلیارد دلاری می‌توانست ارزش آن را به‌طور قابل‌توجهی کاهش دهد. همچنین شایعاتی درباره خرید Fireblocks توسط Coinbase نیز مطرح شد که این شرکت نیز رد کرد. Visa هنوز نظری در این باره نداده است. این رد شایعه می‌تواند نوسانات کوتاه‌مدت در بازارهای کریپتو را محدود کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ادغام و تملک",
-    "tag": "Fireblocks",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-    "clean_url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-    "image": "https://s.yimg.com/bo/1e0c614b-0cb3-5de6-b233-7550f87b3ad2_1792680816695.jpg",
-    "timestamp": 1792680661.0,
     "sent_to_telegram": true
   }
 ]
