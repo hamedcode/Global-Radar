@@ -1,5 +1,49 @@
 [
   {
+    "id": "fdaa987fb9",
+    "title_fa": "‏توسعه‌دهنده بزرگ‌ترین مرکز دادهٔ استرالیا برنامهٔ راه‌اندازی را پس از ممانعت مقامات تنظیم‌کننده لغو کرد",
+    "title_en": "EXCLUSIVE: Australian outback data centre pulls timeline after regulator stalls",
+    "summary": [
+      "‏شرکت سازنده یکی از بزرگ‌ترین مراکز دادهٔ استرالیا تاریخ شروع پروژه را پس از تأخیر در صدور مجوزهای نظارتی لغو کرد",
+      "‏این تأخیر می‌تواند رشد زیرساخت‌های دیجیتال و سرمایه‌گذاری در منطقهٔ دوردست استرالیا را تحت‌تأثیر قرار دهد",
+      "‏پروژه با سرمایه‌گذاری چند میلیارد دلاری و ایجاد هزاران شغل برنامه‌ریزی شده بود"
+    ],
+    "body_fa": "‏شرکت توسعه‌دهندهٔ مرکز دادهٔ بزرگ در دل بیابان استرالیا، پس از اینکه مقامات تنظیم‌کننده فرآیند صدور مجوزها را به تعویق انداخت، هدف زمان‌بندی اولیهٔ راه‌اندازی را لغو کرد. این مرکز داده قرار بود با ظرفیت چندین مگابایت در ثانیه، خدمات ابری و ذخیره‌سازی پیشرفته را برای شرکت‌های بین‌المللی فراهم کند. تأخیر در دریافت مجوزها نه تنها هزینه‌های پروژه را افزایش می‌دهد، بلکه برنامه‌های توسعهٔ زیرساخت‌های دیجیتال در این منطقه را به تعویق می‌اندازد. سرمایه‌گذاران بزرگ، که انتظار داشتند از این زیرساخت جدید بهره‌برداری کنند، اکنون با عدم قطعیت مواجه هستند. این اتفاق می‌تواند روند جذب سرمایه‌گذاری‌های فناوری در استرالیا را تحت فشار قرار دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "مرکز داده",
+    "tag": "داده‌مرکز",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/australian-outback-data-centre-pulls-timeline-after-regulator-stalls-2026-11-01/",
+    "clean_url": "https://www.reuters.com/world/australian-outback-data-centre-pulls-timeline-after-regulator-stalls-2026-11-01",
+    "image": "https://s.yimg.com/bo/2849dc35-be68-53bc-af3d-cb7864179848_1793567779034.jpg",
+    "timestamp": 1793567086.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "54c343c5bb",
+    "title_fa": "‏پایان مأموریت صلح‌پیمایشی ۳۵ ساله سازمان ملل در صحرای غربی",
+    "title_en": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says",
+    "summary": [
+      "‏مأموریت صلح‌پیمایشی سازمان ملل در صحرای غربی پس از ۳۵ سال به پایان رسید.",
+      "‏این تصمیم می‌تواند تأثیر مهمی بر ثبات منطقه و روابط مراکش و پلیساریو داشته باشد.",
+      "‏رئیس سازمان ملل اعلام کرد که پایان مأموریت پس از توافق‌های جدید صورت می‌گیرد."
+    ],
+    "body_fa": "‏سازمان ملل اعلام کرد که مأموریت صلح‌پیمایشی در صحرای غربی پس از ۳۵ سال فعالیت به پایان می‌رسد. این مأموریت که پس از جنگ ۱۹۷۵ بین مراکش و جبهه آزادی‌بخش پلیساریو آغاز شد، نقش نظارتی و حفاظتی در مناطق مرزی ایفا می‌کرد. رئیس سازمان ملل گفت پایان عملیات پس از توافق‌های جدید بین طرفین و حمایت جامعه بین‌المللی صورت گرفته است. این تغییر می‌تواند فضای سیاسی حساس در شمال آفریقا را تحت تأثیر قرار دهد و احتمال بروز تنش‌های جدید یا مذاکرات صلحی را افزایش دهد. همچنین، پایان حضور نیروهای بین‌المللی ممکن است فشارهای داخلی بر هر دو طرف را تقویت کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "سیاست خاورمیانه",
+    "tag": "Western Sahara",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/un-peacekeeping-mission-western-sahara-ends-after-35-years-un-chief-says-2026-11-01/",
+    "clean_url": "https://www.reuters.com/world/africa/un-peacekeeping-mission-western-sahara-ends-after-35-years-un-chief-says-2026-11-01",
+    "image": "https://s.yimg.com/bo/ff5093ed-68e0-5ae6-81dd-041690f4c662_1793565871331.jpg",
+    "timestamp": 1793564806.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1a99e376d8",
     "title_fa": "‏طلا و نقره به‌دلیل نگرانی‌های AI و نفت افت کردند",
     "title_en": "Metals brace for US payrolls and tech earnings as crude tracks geopolitical risk",
@@ -19,6 +63,50 @@
     "clean_url": "https://www.moneycontrol.com/news/business/commodities/metals-brace-for-us-payrolls-and-tech-earnings-as-crude-tracks-geopolitical-risk-14065517.html",
     "image": "https://images.moneycontrol.com/static-mcnews/2024/09/20240906033445_stock-market-pexels-.jpg",
     "timestamp": 1793533920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ff332023f4",
+    "title_fa": "‏یوتوا بر سر انتخابات دوم بلغارستان پیروز شد",
+    "title_en": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president",
+    "summary": [
+      "‏نتایج نظرسنجی خروجی نشان می‌دهد ایلیانا یوتوا حدود 52 ٪ رای در دور دوم انتخابات ریاست‌جمهوری بلغارستان به دست آورده است",
+      "‏این پیروزی نخستین رئیس‌جمهور زن منتخب بلغارستان را رقم می‌زند و مسیر پرو‑غربی کشور را تقویت می‌کند",
+      "‏او حمایت رده‌بالای حزب پیشرو بلغارستان را که روابط نزدیک با روسیه دارد، دریافت کرده است"
+    ],
+    "body_fa": "‏نظرسنجی‌های خروجی در روز یکشنبه نشان دادند ایلیانا یوتوا حدود 52 درصد رای در دور دوم انتخابات ریاست‌جمهوری بلغارستان به دست آورده است. رقیب او، آندری گیوروف که توسط احزاب اصلاح‌طلب و طرفدار غرب حمایت می‌شود، حدود 44 درصد حمایت دارد. اگر نتایج رسمی این ارقام را تأیید کند، یوتوا اولین رئیس‌جمهور زن منتخب این کشور خواهد شد. پیروزی او به حزب پیشرو بلغارستان که روابط نزدیک با مسکو دارد و در انتخابات پارلمانی اخیر اکثریت مطلق کسب کرد، قدرت اجرایی را در دست خواهد گرفت. این تمرکز قدرت می‌تواند مانع ایجاد تعادل مؤسسات نظارتی شود و مسیر پرو‑غربی بلغارستان را در چارچوب ناتو و اتحادیه اروپا تقویت کند. یوتوا اعلام کرد که برای تصمیم‌گیری مستقل و گفت‌وگوی ملی، به دنبال توافق صلح‌جویانه میان اوکراین و روسیه است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "انتخابات ریاست جمهوری",
+    "tag": "یوتوا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/01/exit-polls-suggest-yotova-to-become-bulgarias-first-female-president.html",
+    "clean_url": "https://www.cnbc.com/2026/11/01/exit-polls-suggest-yotova-to-become-bulgarias-first-female-president.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108498847-1793562241575-gettyimages-2302491330-AA_01112026_3021023.jpeg?v=1793562255&w=1920&h=1080",
+    "timestamp": 1793533620.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "26eef4b4b7",
+    "title_fa": "‏اداره ترامپ حکومت بدون کنگره را پس از پیروزی دموکرات‌ها طرح کرد",
+    "title_en": "Trump White House maps path to govern without Congress if Democrats win",
+    "summary": [
+      "‏اداره ترامپ برنامه‌ای برای ادامه اجرای سیاست‌ها از طریق قدرت اجرایی بدون نیاز به کنگره در صورت پیروزی دموکرات‌ها آماده می‌کند.",
+      "‏این طرح می‌تواند تعادل قوا را در واشنگتن تغییر دهد و اثرات قابل‌توجهی بر سیاست‌های داخلی و بازارهای جهانی داشته باشد.",
+      "‏منابع داخلی دولت برای این برنامه شامل استفاده از امضای فرمان‌های اضطراری و قوانین موجود است."
+    ],
+    "body_fa": "‏اداره ترامپ در مواجهه با احتمال پیروزی دموکرات‌ها در انتخابات آینده، طرحی برای ادامه اجرای برنامه‌های خود از طریق قدرت اجرایی بدون وابستگی به کنگره تدوین کرده است. این برنامه شامل استفاده از فرمان‌های اضطراری، اعمال مقررات موجود و بهره‌گیری از اختیارات رئیس‌جمهور برای پیشبرد سیاست‌های کلیدی می‌شود. مقامات سفیدخانه می‌گویند این مسیر به حفظ دستاوردهای اقتصادی و امنیتی دولت کمک خواهد کرد. کارشناسان هشدار می‌دهند که چنین رویکردی می‌تواند تنش‌های سیاسی را در واشنگتن تشدید کرده و اثرات نامطلوبی بر بازارهای مالی داشته باشد. در صورت اجرا، این استراتژی ممکن است الگوی جدیدی برای حاکمیت بدون نظارت کنگره در ایالات متحده ایجاد کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "سیاست داخلی آمریکا",
+    "tag": "اجرائیه",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-white-house-maps-path-govern-without-congress-if-democrats-win-2026-11-01/",
+    "clean_url": "https://www.reuters.com/legal/government/trump-white-house-maps-path-govern-without-congress-if-democrats-win-2026-11-01",
+    "image": "https://s.yimg.com/bo/f9d329a8-65f4-5d3d-ad18-3696346e2428_1793531918353.jpg",
+    "timestamp": 1793532166.0,
     "sent_to_telegram": true
   },
   {
@@ -6508,94 +6596,6 @@
     "clean_url": "https://www.businessinsider.com/stock-market-dow-selloff-oil-prices-iran-war-2026-10",
     "image": "https://i.insider.com/6adb7bfeab741a2ebdf10b96?width=1200&format=jpeg",
     "timestamp": 1792751100.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9232ae6fc6",
-    "title_fa": "‏HKEX دو شاخص هوش مصنوعی و نیمه‌رسانا راه‌اندازی کرد",
-    "title_en": "HKEX launches AI and semiconductor indexes, licenses AI index in China",
-    "summary": [
-      "‏HKEX دو شاخص جدید برای هوش مصنوعی و نیمه‌رسانا راه‌اندازی کرد",
-      "‏این شاخص‌ها سرمایه‌گذاران را به فرصت‌های رشد در این صنایع مهم هدایت می‌کند",
-      "‏شاخص هوش مصنوعی همچنین در چین تحت مجوز رسمی قرار گرفت"
-    ],
-    "body_fa": "‏Hong Kong Exchanges and Clearing (HKEX) دو شاخص جدید با تمرکز بر هوش مصنوعی و نیمه‌رسانا معرفی کرد. این شاخص‌ها بر پایه معیارهای عملکردی شرکت‌های پیشرو در هر دو حوزه ساخته شده‌اند و هدفشان ارائه یک معیار شفاف برای سرمایه‌گذاران است. علاوه بر این، شاخص هوش مصنوعی توسط مقامات چینی به‌صورت رسمی مجوز دریافت کرد و می‌تواند در بازارهای چین نیز معامله شود. راه‌اندازی این شاخص‌ها نشان‌دهنده رشد تقاضا برای ابزارهای مالی مرتبط با فناوری‌های پیشرفته است و می‌تواند جریان سرمایه به این بخش‌ها را تقویت کند. تحلیل‌گران پیش‌بینی می‌کنند که حضور HKEX در این حوزه می‌تواند نقش مهمی در جذب سرمایه‌گذاران بین‌المللی داشته باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "شاخص‌های بورس",
-    "tag": "هوش مصنوعی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/hkex-launches-ai-semiconductor-indexes-licenses-ai-index-china-2026-10-23/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/hkex-launches-ai-semiconductor-indexes-licenses-ai-index-china-2026-10-23",
-    "image": "https://s.yimg.com/bo/b5eb4058-cac0-556b-9ad5-1bbfa707a9a9_1791178211593.jpg",
-    "timestamp": 1792749921.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "430ca31e7c",
-    "title_fa": "‏کمیسیون اروپا تحقیق ضد انحصاری در زنجیره تأمین صنعت کاغذ علیه Omya را آغاز کرد",
-    "title_en": "EU opens antitrust investigation in paper industry supply chain",
-    "summary": [
-      "‏کمیسیون اروپا تحقیق ضد انحصاری علیه شرکت سوئیسی Omya در زنجیره تأمین صنعت کاغذ باز کرد",
-      "‏این اقدام می‌تواند رقابت و قیمت‌های مواد اولیه کاغذ را در اتحادیه اروپا تحت تأثیر قرار دهد",
-      "‏تحقیقات درباره قیمت‌گذاری و تقسیم بازار بین تولیدکنندگان صورت می‌گیرد"
-    ],
-    "body_fa": "‏کمیسیون اروپا روز جمعه اعلام کرد که تحقیق ضد انحصاری علیه شرکت سوئیسی Omya ، تولیدکننده مواد معدنی صنعتی مورد استفاده در صنعت کاغذ، آغاز کرده است. این بررسی بر ادعای تبانی در قیمت‌گذاری و تقسیم بازار مواد اولیه مانند کربنات کلسیم متمرکز است. کمیسیون قراردادها، ساختار قیمت‌ها و سهم بازار Omya را مورد ارزیابی قرار خواهد داد. در صورت اثبات تخلف، ممکن است جریمه‌ای تا 10 ٪ از گردش مالی جهانی شرکت اعمال شود و تغییراتی در شیوه‌های تجاری ایجاد گردد. این اقدام نشان‌دهنده تشدید نظارت اتحادیه اروپا بر بازارهای مواد خام است و می‌تواند بر هزینه‌های تولید کاغذ در اروپا تأثیر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قوانین ضد انحصار",
-    "tag": "Omya",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/eu-opens-antitrust-investigation-paper-industry-supply-chain-2026-10-23/",
-    "clean_url": "https://www.reuters.com/world/eu-opens-antitrust-investigation-paper-industry-supply-chain-2026-10-23",
-    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
-    "timestamp": 1792748901.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6424624813",
-    "title_fa": "‏سهام ولوو پس از فروپاشی فروش در چین سقوط کرد",
-    "title_en": "Volvo Shares Crash as China Sales Collapse",
-    "summary": [
-      "‏سهام ولوو پس از کاهش شدید فروش در چین به‌سرعت افت کرد.",
-      "‏این سقوط نشان‌دهندهٔ بدتر شدن محیط کسب‌وکار در بزرگ‌ترین بازار خودرو برای شرکت است.",
-      "‏مدیرعامل Hakan Samuelsson گفت شرایط پیش‌بینی‌شده کمتر از واقعیت بوده."
-    ],
-    "body_fa": "‏سهام شرکت Volvo Car پس از اعلام فروپاشی فروش در چین به‌سرعت کاهش یافت. چین بزرگ‌ترین بازار این شرکت است و کاهش فروش در این کشور نشان‌دهندهٔ فشارهای جدی بر محیط کسب‌وکار است. هاکان ساموئلسون، مدیرعامل ولوو، بیان کرد که وضعیت تجاری بدتر از انتظارات اولیه بوده. این رویداد باعث نگرانی سرمایه‌گذاران در بخش خودروسازی اروپا شد و احتمالاً فشارهای بیشتری بر قیمت سهام شرکت‌های خودروساز دیگر وارد می‌کند. تحلیل‌گران پیش‌بینی می‌کنند که ولوو برای جبران این افت، باید استراتژی‌های جدیدی در چین اجرا کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "فروش خودرو در چین",
-    "tag": "Volvo",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/volvo-shares-crash-as-china-sales-collapse-uk3FO01HKWgtbN83HnKB",
-    "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/volvo-shares-crash-as-china-sales-collapse-uk3FO01HKWgtbN83HnKB",
-    "image": "https://s.yimg.com/bo/d22108e6-8c9b-5c2f-ac28-41475164d9c4_1792749996531.png.cf.jpg",
-    "timestamp": 1792747941.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a85261edfc",
-    "title_fa": "‏قیمت نفت به بالاترین سطح ماهانه در پی تنش خاورمیانه",
-    "title_en": "Stock Market Today: Oil Prices Highest in Five Months as Mideast Tensions Rise,...",
-    "summary": [
-      "‏قیمت نفت برنت به 5 ماه گذشته رسید و به بالاترین سطح ماهانه صعود کرد.",
-      "‏افزایش ناشی از نگرانی‌ها درباره تشدید مناقشهٔ ایالات متحده و ایران است که می‌تواند بازارهای جهانی را تحت فشار قرار دهد.",
-      "‏در عین حال، سهام هوش مصنوعی پس از سقوط دیروز، در پیش‌فروش‌های صبحگاهی تثبیت می‌شود."
-    ],
-    "body_fa": "‏قیمت نفت برنت امروز به 5 ماه گذشته رسید و به بالاترین سطح ماهانهٔ خود صعود کرد. این افزایش به دلیل نگرانی‌های گسترده از تشدید مناقشهٔ بین ایالات متحده و ایران است که آمریکا نیروهای بیشتری به خاورمیانه اعزام کرده است. ایران هشدار داده است در صورت ادامهٔ حملات هوایی آمریکا و اسرائیل، به هدف‌های غیرنظامی در کشورهای همسایه حمله خواهد کرد. بالا رفتن قیمت نفت می‌تواند فشار بر تورم جهانی وارد کند و بازارهای انرژی را تحت تأثیر قرار دهد. در عین حال، پس از فروش گستردهٔ سهام هوش مصنوعی دیروز، قراردادهای مرتبط با Nasdaq‑100 در پیش‌فروش‌های صبحگاهی تثبیت شده‌اند و برخی شرکت‌های AI مانند CoreWeave و neocloud بازدهی مثبت نشان می‌دهند. همچنین، SK Hynix برنامهٔ عرضه اولیه عمومی (IPO) کسب‌وکار حافظهٔ خود در آمریکا را لغو کرد که نشانگر فشارهای موجود در بخش فناوری است.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "نفت",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026",
-    "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026",
-    "image": "https://s.yimg.com/bo/2bccb280-c69c-52f2-b08e-f202bb2b9ea9_1778669768852.jpg",
-    "timestamp": 1792747881.0,
     "sent_to_telegram": true
   }
 ]
