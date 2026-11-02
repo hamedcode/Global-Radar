@@ -1,5 +1,49 @@
 [
   {
+    "id": "7211819b9c",
+    "title_fa": "‏فدرال‌رزرو تصمیم گرفت دفعات رأی‌گیری نرخ بهره را کاهش دهد",
+    "title_en": "Fed will vote on rates less often. What that could mean for borrowers",
+    "summary": [
+      "‏فدرال‌رزرو برنامه‌اش را برای کاهش تعداد جلسات رأی‌گیری نرخ بهره در دو سال آینده اعلام کرد",
+      "‏این تغییر ممکن است زمان کاهش هزینه‌های وام برای مصرف‌کنندگان را طولانی‌تر کند",
+      "‏کارشناسان هشدار دادند که با کمتر شدن جلسات، نرخ‌های کارت‌کریده و وام مسکن ممکن است به‌سرعت تنظیم نشوند"
+    ],
+    "body_fa": "‏فدرال‌رزرو پس از ثابت نگه داشتن نرخ بهره پایه در هفته گذشته، برنامه‌ای برای کاهش تعداد رأی‌گیری‌های نرخ بهره در دو سال آینده اعلام کرد. بر اساس این طرح، تعداد جلسات تصمیم‌گیری از هشت جلسه در سال 2026 به شش جلسه در سال 2028 کاهش می‌یابد و در برخی جلسات بدون رأی یا بیانیه پس از جلسه برگزار می‌شود. کارشناسان هشدار می‌دهند این کاهش دفعات می‌تواند باعث شود مصرف‌کنندگان برای مدت طولانی‌تری با هزینه‌های وام بالا مواجه شوند. به‌ویژه نرخ‌های متغیر کارت‌کریده که به نرخ پایه (prime) وابسته‌اند، ممکن است به‌سرعت کاهش نیابند. مؤسسات مالی نیز به‌دلیل ریسک‌های پیش‌آمدی، حتی در صورت ثابت ماندن نرخ پایه، تمایل به افزایش جزئی نرخ‌های خود دارند. این تغییر ممکن است تصمیم‌گیری‌های مربوط به خرید مسکن، بازپرداخت وام یا تأمین مالی کسب‌وکارها را تحت تأثیر قرار دهد، چرا که فرصت‌های تنظیم نرخ‌های فدرال‌رزرو کمتر می‌شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "نرخ بهره",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+    "clean_url": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+    "image": "https://s.yimg.com/bo/a4b469dc-fe12-51f9-a869-1b909988258e_1793224216880.jpg",
+    "timestamp": 1793637994.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f9f7aa7769",
+    "title_fa": "‏هک ۴۰ میلیون دلاری صرافی Mercado Bitcoin را متوقف کرد",
+    "title_en": "Mercado bitcoin hit by $40 million hack across 10 blockchains",
+    "summary": [
+      "‏صرافی برزیلی Mercado Bitcoin حدود ۴۰ میلیون دلار را در هکی روی ۱۰ بلاکچین از دست داد",
+      "‏این هک بزرگ باعث توقف واریز و برداشت‌ها شد و نگرانی‌های امنیتی در بازار کریپتو را تشدید کرد",
+      "‏هکرها به کیف‌پول‌های متعدد در زنجیره‌های مختلف دست یافتند"
+    ],
+    "body_fa": "‏صرافی برزیلی Mercado Bitcoin اعلام کرد که پس از کشف هکی به ارزش حدود ۴۰ میلیون دلار، عملیات واریز و برداشت متوقف شده است. این حمله به کیف‌پول‌های کاربران در حداقل ده بلاکچین مختلف انجام شد و باعث از دست رفتن دارایی‌های دیجیتال شد. شرکت به سرعت اقدامات اضطراری برای مسدود کردن تراکنش‌ها و بررسی خسارت‌ها به کار گرفت. این هک یکی از بزرگ‌ترین حملات چندزنجیره‌ای در تاریخ کریپتو محسوب می‌شود و نگرانی‌ها درباره امنیت پلتفرم‌های مبادله‌ای را افزایش داده است. مقامات نظارتی برزیل نیز در حال بررسی این حادثه هستند و کاربران صرافی از صبر و پیگیری وضعیت مالی خود دعوت شده‌اند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "هک و امنیت",
+    "tag": "هک",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+    "clean_url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+    "image": "https://s.yimg.com/bo/affe0117-5f3c-5bbb-85f9-0d398267e274_1791623437111.jpg",
+    "timestamp": 1793634394.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "fbf0182a12",
     "title_fa": "‏وال استریت سرکوب FinTwit را به‌دلیل ترس از ربات‌های هوش مصنوعی تشدید کرد",
     "title_en": "Wall Street Escalates FinTwit Crackdown as AI Copycat Fears Grow",
@@ -110,6 +154,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2f2042d10c",
+    "title_fa": "‏شرکت Anthropic پیش‌فروش IPO خود را به دلیل انتخابات تنظیم می‌کند",
+    "title_en": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
+    "summary": [
+      "‏شرکت Anthropic در آستانه عرضه عمومی اولیه، اثر احتمالی انتخابات آمریکا بر بازار هوش مصنوعی را بررسی می‌کند.",
+      "‏این موضوع برای سرمایه‌گذاران مهم است چون می‌تواند ارزش‌گذاری و تقاضای سرمایه در حوزه AI را تحت تأثیر قرار دهد.",
+      "‏همزمان، بحث‌های گسترده‌ای درباره مقررات هوش مصنوعی در ایالات متحده ادامه دارد."
+    ],
+    "body_fa": "‏شرکت Anthropic که یکی از پیشروهای هوش مصنوعی است، در حال آماده‌سازی عرضه عمومی اولیه (IPO) خود می‌باشد. مدیران این شرکت اعلام کردند که نتایج انتخابات ریاست‌جمهوری آمریکا می‌تواند تأثیر قابل‌توجهی بر محیط‌زیست قانونی و سرمایه‌گذاری در حوزه AI داشته باشد. به‌خصوص، سیاست‌های احتمالی در زمینه مقررات داده‌ها و حمایت‌های دولتی می‌تواند تقاضای سرمایه‌گذاران را تغییر دهد. به همین دلیل، Anthropic برنامه‌های مالی خود را طوری تنظیم می‌کند که در صورت تغییرات سیاسی، بتواند به‌سرعت واکنش نشان دهد. تحلیل‌گران بازار نیز این رویداد را به‌عنوان یک عامل مهم برای ارزیابی ارزش‌گذاری شرکت‌های هوش مصنوعی پیش از عرضه عمومی می‌دانند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793613780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8aaf7af01a",
+    "title_fa": "‏ایران کشتی باریغ را دور تنگه هرمز هدف گرفت",
+    "title_en": "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
+    "summary": [
+      "‏حملهٔ ایرانی به یک کشتی باریغ (تگ) در فاصله صدها مایل از تنگه هرمز رخ داد.",
+      "‏این حمله نشان‌دهندهٔ تشدید خطرات برای تمام انواع کشتی‌ها در مسیر نفتی است و می‌تواند ترافیک دریایی را مختل کند.",
+      "‏کشتی هدف، تگ‌استفاده‌ای اماراتی Selat Storm بود که پس از ضربه جزئی غرق شد."
+    ],
+    "body_fa": "‏حمله‌ای که به‌نظر می‌رسد توسط نیروهای ایرانی انجام شده، یک تگ‌استفاده‌ای اماراتی به نام Selat Storm را در فاصله صدها مایل شمال‌غربی شبه‌جزیره موسندام، در نزدیکی تنگه هرمز، هدف گرفت. این کشتی حدود 1300 تن وزن مایع دارد و پس از برخورد با پرتابه، جزئیات گزارش‌ها نشان می‌دهد که به‌تدریج غرق شد. این دومین حملهٔ مشابه به یک تگ در این منطقه از اکتبر است؛ پیشتر تگ هلندی‑پرچم JIF Barracuda نیز هدف شد. افزایش تعداد تگ‌های اضطراری برای کشتی‌های آسیب‌دیده، احتمال هدف قرار گرفتن آن‌ها را بالا برده و نگرانی‌ها دربارهٔ امنیت مسیرهای نفتی را تشدید می‌کند. ایران اعلام کرده است که در صورت پذیرش شرایطش، مسیر تنگه هرمز را در دو روز باز می‌کند، اما این شرایط شامل جبران خسارت و خروج تمام نیروهاست. این رویداد می‌تواند فشار بر قیمت نفت و برنامه‌های حمل‌ونقل دریایی را افزایش دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "حمله به کشتی",
+    "tag": "حمله ایرانی",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Rare-Iranian-Strike-On-Vessel-Hundreds-Of-Miles-From-Strait-Of-Hormuz.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/Rare-Iranian-Strike-On-Vessel-Hundreds-Of-Miles-From-Strait-Of-Hormuz.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-02_y0zvuf89ww.jpg",
+    "timestamp": 1793613600.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "bd6a3c8ddb",
     "title_fa": "‏نفت عراق از ترکیه ۵۰۰,۰۰۰ بشکه در روز صادر شد",
     "title_en": "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd | OilPrice.com",
@@ -129,6 +217,28 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Exports-via-Turkey-Surge-to-500000-Bpd.html",
     "image": "https://s.yimg.com/bo/3cb721dd-f43a-52aa-8e05-96f7e97a19a0_1793614521688.jpg",
     "timestamp": 1793613065.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1719202298",
+    "title_fa": "‏انتخابات میانی آمریکا مذاکرات بودجه و بدهی را تعویق می‌اندازد",
+    "title_en": "Budget, debt ceiling negotiations on deck as midterms could create divided federal government",
+    "summary": [
+      "‏انتخابات میانی ایالات متحده می‌تواند باعث ایجاد دولت تقسیم‌شده و به تعویق افتادن مذاکرات بودجه و سقف بدهی شود.",
+      "‏این وضعیت می‌تواند فشار بر تصمیمات مالی و نرخ بهره را افزایش دهد و نوسان بازارهای مالی را تشدید کند.",
+      "‏کارشناسان اشاره می‌کنند که نتیجه انتخابات می‌تواند مسیر سیاست‌های مالی سال 2027 را تعیین کند."
+    ],
+    "body_fa": "‏در برنامه «Squawk on the Street» میگان کاسلا از CNBC به بررسی تأثیرات انتخابات میانی ایالات متحده بر مذاکرات بودجه و سقف بدهی پرداخته است. اگر نتایج انتخابات منجر به تشکیل کنگره‌ای تقسیم‌شده شود، احتمالاً توافق بر سر قانون بودجه سالانه و افزایش سقف بدهی به تعویق خواهد افتاد. این تعویق می‌تواند فشار بر تصمیمات مالی فدرال رزرو و بازارهای اوراق قرضه دولتی را افزایش دهد. علاوه بر این، عدم قطعیت در مورد سقف بدهی ممکن است نوسانات نرخ بهره و ارزش دلار را تشدید کند. تحلیل‌گران هشدار می‌دهند که این وضعیت می‌تواند به نوسان شدید در بازارهای سهام و اوراق قرضه منجر شود. در نهایت، نتایج انتخابات می‌تواند مسیر سیاست‌های مالی دولت آمریکا را تا سال 2027 شکل دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بودجه و بدهی",
+    "tag": "midterms",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/video/2026/11/02/budget-debt-ceiling-negotiations-on-deck-as-midterms-could-create-divided-federal-government.html",
+    "clean_url": "https://www.cnbc.com/video/2026/11/02/budget-debt-ceiling-negotiations-on-deck-as-midterms-could-create-divided-federal-government.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108504889-17936381771793638175-49391517275-1080pnbcnews.jpg?v=1793638177&w=1920&h=1080",
+    "timestamp": 1793610600.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +264,116 @@
     "sent_to_telegram": true
   },
   {
+    "id": "b89f4e6c31",
+    "title_fa": "‏راه‌اندازی توکن‌سازی DTCC پذیرش را سرعت می‌بخشد",
+    "title_en": "DTCC's tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+    "summary": [
+      "‏DTCC سرویس توکن‌سازی مجاز خود را راه‌اندازی کرد.",
+      "‏این سرویس می‌تواند پذیرش توکن‌سازی را تسریع کند و به Securitize کمک کند.",
+      "‏StoneX رتبه خرید برای سهام SECZ را حفظ کرده است."
+    ],
+    "body_fa": "‏DTCC ، شرکت پیشرو در تسویه و کلیرینگ، سرویس توکن‌سازی مبتنی بر مجوز خود را معرفی کرد. این سرویس برای بازارهای مختلفی طراحی شده و متفاوت از پلتفرم عمومی بلاکچین Securitize است. تحلیل‌گران StoneX معتقدند این اقدام می‌تواند سرعت پذیرش توکن‌سازی دارایی‌ها را افزایش دهد و به رشد Securitize کمک کند. به همین دلیل، آن‌ها رتبه خرید برای سهام Securitize (نماد SECZ) را حفظ کرده‌اند. این خبر نشان می‌دهد که نهادهای سنتی مالی به تدریج به فناوری‌های توکن‌سازی روی می‌آورند و می‌تواند مسیر پذیرش گسترده‌تر را هموار سازد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "توکن‌سازی مالی",
+    "tag": "DTCC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+    "clean_url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793609580.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0198447f28",
+    "title_fa": "‏قیمت نفت به‌دلیل مذاکرات آمریکا‑ایران ۷٪ سقوط کرد",
+    "title_en": "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy",
+    "summary": [
+      "‏قیمت برنت به 105.60 دلار و WTI به 96.92 دلار رسید؛ تقریباً ۷٪ کاهش یافت.",
+      "‏کاهش به‌دلیل اعلام تمایل آمریکا و ایران به دیپلماسی و احتمال بازگشایی تنگه هرمز بود.",
+      "‏این سقوط خطرپریمیوم ژئوپلیتیک حدود ۲۷ دلار در هر بشکه را حذف کرد."
+    ],
+    "body_fa": "‏قیمت نفت در روز دوشنبه نزدیک ۷٪ سقوط کرد؛ برنت به 105.60 دلار و نفت خام آمریکا (WTI) به 96.92 دلار رسید. این افت پس از اظهارات رئیس‌جمهور ایران مبنی بر اعطای اختیار به مذاکرات صلحی و اعلام وزیر خارجه ایران درباره امکان بازگشایی سریع تنگه هرمز در صورت توافق آمریکا رخ داد. وزیر امور خارجه آمریکا نیز گفت تمایل به راه‌حل دیپلماتیک دارد و تصمیمی برای حملات جدید اتخاذ نشده است. تحلیل‌گران بر این باورند که پریمیوم خطر ژئوپلیتیک که حدود ۲۷ دلار در هر بشکه بود، به‌سرعت از بین می‌رود. هفت تولیدکننده OPEC+، از جمله عربستان و روسیه، هدف تولید دسامبر را ثابت نگه داشتند. این تحولات می‌تواند نوسانات بازار انرژی را کاهش داده و پیش‌بینی‌های قیمت را برای ماه‌های آینده تحت تأثیر قرار دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت نفت",
+    "tag": "نفت",
+    "urgency": 8,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-7-as-US-and-Iran-Signal-Room-for-Diplomacy.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-7-as-US-and-Iran-Signal-Room-for-Diplomacy.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-02_fhb9wjhykk.jpg",
+    "timestamp": 1793608500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6972d48118",
+    "title_fa": "‏امارات خروج از اوپک، صادرات نفت را افزایش داد",
+    "title_en": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event",
+    "summary": [
+      "‏امارات پس از خروج از اوپک، صادرات نفت خود را افزایش داد و این را در کنفرانس ADIPEC اعلام کرد",
+      "‏افزایش صادرات نشان می‌دهد رفع سهمیه‌های اوپک می‌تواند عرضه جهانی نفت را تقویت کند",
+      "‏همایش ADIPEC که بزرگ‌ترین رویداد انرژی جهان است، امروز در ابوظبی آغاز شد"
+    ],
+    "body_fa": "‏امارات متحده عربی شش ماه پس از خروج رسمی از اوپک، امروز میزبان همایش ADIPEC شد؛ یکی از بزرگ‌ترین همایش‌های انرژی جهان. در این رویداد، مقامات امارات به حضورکنندگان اعلام کردند که صادرات نفت کشور پس از آزاد شدن از سهمیه‌های اوپک به‌طور قابل‌توجهی افزایش یافته است. این رشد نشان می‌دهد که حذف محدودیت‌های تولید می‌تواند عرضه جهانی نفت را گسترش دهد و فشار بر قیمت‌ها را کاهش دهد. کارشناسان بر این باورند که این تحولات می‌تواند تعادل جدیدی در بازار نفت بین‌المللی ایجاد کند و نقش امارات را به‌عنوان یک صادرکننده مستقل تقویت نماید.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "صادرات نفت",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/freed-opec-quotas-uae-says-oil-exports-have-risen-it-hosts-industry-event-2026-11-02/",
+    "clean_url": "https://www.reuters.com/business/energy/freed-opec-quotas-uae-says-oil-exports-have-risen-it-hosts-industry-event-2026-11-02",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793606100.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f473a9275b",
+    "title_fa": "‏Anthropic درآمد سه ماهه را به 17 میلیارد دلار رساند",
+    "title_en": "Anthropic's amended IPO paperwork reveals soaring Q3 revenue and a stunning compute bill",
+    "summary": [
+      "‏Anthropic در سند اصلاح‌شده S‑1 اعلام کرد که در سه‌ماهه سوم 17 میلیارد دلار درآمد کسب کرده است.",
+      "‏این رشد با هزینهٔ محاسباتی 5 میلیارد دلاری همراه شد که منجر به زیان عملیاتی 567 میلیون دلاری شد.",
+      "‏شرکت همچنین 895 میلیارد دلار هزینهٔ متعهد برای زیرساخت تا سال 2030 را اعلام کرد."
+    ],
+    "body_fa": "‏Anthropic در روز دوشنبه نسخهٔ اصلاح‌شدهٔ فرم S‑1 خود را که پیش‌زمینهٔ عرضه عمومی اولیه‌اش است، ارائه داد. در این سند، شرکت اعلام کرد که در سه‌ماههٔ سوم سال مالی، تقریباً 17 میلیارد دلار درآمد داشته که نسبت به سه‌ماههٔ قبلی بیش از 5 میلیارد دلار افزایش یافته و تقریباً 12 برابر رشد سالانه نشان می‌دهد. با این حال، هزینهٔ محاسباتی مورد نیاز برای گسترش مدل‌های هوش مصنوعی باعث شد تا زیان عملیاتی به 567 میلیون دلار برسد، در حالی که در سه‌ماههٔ دوم سود عملیاتی 974 میلیون دلار گزارش شده بود. شرکت توضیح داد این زیان عمدتاً به دلیل 5 میلیارد دلار هزینهٔ محاسباتی تحت تعهدات کوتاه‌مدت است که هزینهٔ بالاتری نسبت به قراردادهای چندساله دارد. علاوه بر این، Anthropic حدود 895 میلیارد دلار هزینهٔ متعهد برای زیرساخت و محاسبه تا سال 2030 ، که تقریباً نیمی از آن تا پایان سال 2030 پیش‌بینی می‌شود، افشا کرد. هزینه‌های محاسباتی در سه‌ماههٔ سوم به 9.9 میلیارد دلار رسید که نسبت به سال قبل چهار برابر افزایش یافته است. اگرچه شرکت هنوز محدودهٔ قیمت IPO یا تعداد سهام را اعلام نکرده، این افشاگری‌ها نشان‌دهندهٔ چالش‌های هزینه‌ای عظیم در رقابت هوش مصنوعی است.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "هوش‌مصنوعی",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
+    "clean_url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
+    "image": "https://i.insider.com/6ae8a1cdf3bee449b3d2a2ad?width=1200&format=jpeg",
+    "timestamp": 1793605020.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7490496e88",
+    "title_fa": "‏شرکت Omen AI خرید Aquatic Labs را تکمیل کرد",
+    "title_en": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "summary": [
+      "‏شرکت Omen AI شرکت Aquatic Labs را به‌قیمت 16 میلیون دلار نقد و سهام خریداری کرد.",
+      "‏این ادغام حسگرهای زمان‌واقعی برای نظارت بر آب خنک‌کننده مراکز داده AI را بهبود می‌دهد و مصرف آب را کاهش می‌دهد.",
+      "‏هدف Omen نصب حسگرها روی 1 گیگاوات چیپ تا 2027 و صرفه‌جویی در هزینه‌های خاموشی است."
+    ],
+    "body_fa": "‏شرکت Omen AI پس از جذب 31 میلیون دلار در دوره Series A ، شرکت رقیب Aquatic Labs را به‌قیمت 16 میلیون دلار نقد و سهام خریداری کرد. این دو استارتاپ هر دو حسگرهای زمان‌واقعی برای تجزیه و تحلیل مایع خنک‌کننده داده‌مرکزها توسعه می‌دادند؛ حسگر Omen عناصر شیمیایی را شناسایی می‌کرد و حسگر Aquatic اسیدیت را اندازه‌گیری می‌نمود. ترکیب این فناوری‌ها امکان ارائه تصویری جامع از وضعیت آب خنک‌کننده را فراهم می‌کند و فرآیند تست چندروزه را به‌صورت خودکار جایگزین می‌سازد. این شرکت قصد دارد این حسگرها را برای چیپ‌های با توان 250 تا 300 مگاوات تا پایان سال و برای مجموع 1 گیگاوات تا سال 2027 عرضه کند. این گام می‌تواند هزینه‌های خاموشی ناشی از مشکلات سیستمی آب را کاهش داده و مصرف آب مراکز داده‌های هوش مصنوعی را به‌طور قابل‌توجهی بهبود بخشد.",
+    "category": "تکنولوژی",
+    "subcategory": "حسگرهای آب",
+    "tag": "OmenAI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "clean_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
+    "timestamp": 1793602800.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b6acec583f",
     "title_fa": "‏خروج ۶۴۳ میلیون دلاری از ETF های بیت‌کوین در جمعه",
     "title_en": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
@@ -173,6 +393,28 @@
     "clean_url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/38d30fc1824fe6912461d5945a73ef3f7d52f5e3-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
     "timestamp": 1793601960.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fa734c826f",
+    "title_fa": "‏Bitmine 8,573 ETH افزود؛ ذخیره‌اش به 6,060,506 ETH رسید",
+    "title_en": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+    "summary": [
+      "‏Bitmine Immersion Technologies 8,573 ETH خریداری کرد و موجودی‌اش به 6,060,506 ETH رسید.",
+      "‏این افزایش بزرگ می‌تواند تأثیر قابل‌توجهی بر عرضه و قیمت ETH داشته باشد.",
+      "‏تحلیل‌گر Tom Lee واکنش بازار به هک Binance را کم‌اهمیت می‌داند."
+    ],
+    "body_fa": "‏شرکت Bitmine Immersion Technologies اعلام کرد که در هفته گذشته 8,573 ETH به خزانه‌اش اضافه کرده و موجودی کل آن به 6,060,506 ETH رسیده است. این تراکنش در زمانیکه قیمت هر ETH حدود 2,261 دلار است، نشان‌دهنده سرمایه‌گذاری قابل‌توجهی در دارایی دیجیتال می‌باشد. افزایش موجودی این حجم می‌تواند فشار فروش یا خرید در بازار را تحت تأثیر قرار دهد و به نوسان قیمت کمک کند. در همین حین، تحلیل‌گر مشهور Tom Lee واکنش بازار به هک اخیر Binance را «کم‌اهمیت» توصیف کرد و اشاره کرد که این رویداد هنوز تأثیر عمیقی بر قیمت‌های کلان نداشته است. این خبر نشان می‌دهد که شرکت‌های استخراج همچنان به گسترش ذخیره‌های خود ادامه می‌دهند و ممکن است نقش مهمی در دینامیک عرضه‌تقاضای ETH ایفا کنند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سرمایه‌گذاری شرکت‌ها",
+    "tag": "ETH",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+    "clean_url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793596140.0,
     "sent_to_telegram": true
   },
   {
@@ -283,6 +525,28 @@
     "clean_url": "https://oilprice.com/Company-News/ADNOC-Approves-Major-UAE-Gas-Development-to-Boost-Domestic-Supply.html",
     "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-02_rkkuc1nxqc.jpg",
     "timestamp": 1793584800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e80ceacb49",
+    "title_fa": "‏Goldman Sachs پیش‌بینی برنت ۱۰۵ دلاری دسامبر را اعلام کرد",
+    "title_en": "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
+    "summary": [
+      "‏Goldman Sachs پیش‌بینی قیمت متوسط نفت برنت را برای دسامبر به 105 دلار ارتقا داد.",
+      "‏این افزایش 17 ٪ نسبت به پیش‌بینی قبلی نشان‌دهنده ریسک‌های بالاتر تأمین امنیت عرضه است.",
+      "‏تحلیل‌گران می‌گویند تنها توافق صلح ایران‑آمریکا می‌تواند فشار قیمت را کاهش دهد."
+    ],
+    "body_fa": "‏تحلیل‌گران کالاهای Goldman Sachs پیش‌بینی قیمت متوسط نفت برنت را برای ماه دسامبر به 105 دلار ارتقا دادند. این مقدار تقریباً 17 ٪ بالاتر از پیش‌بینی قبلی 90 دلاری است و نشان‌دهنده نگرانی‌های افزایشی درباره امنیت عرضه است. در عین حال، گزارش‌ها حاکی از بازگشت جریان‌های نفت خلیج فارس به سطوح پیش‌جنگی یا حتی فراتر از آن است. تحلیل‌گران دیگر مانند ANZ و UBS نیز پیش‌بینی‌های خود را به سمت قیمت‌های بالاتر تنظیم کرده‌اند؛ ANZ بر 105 دلار تا پایان 2026 و UBS بر 110 دلار تا پایان سال جاری. آن‌ها معتقدند تنها راه کاهش مداوم قیمت‌ها، دستیابی به توافق صلحی پایدار بین ایران و ایالات متحده است. اگرچه مذاکرات اخیر ایران و قطر امیدی جزئی ایجاد کرده، اما احتمال رسیدن به توافق تا پایان سال کم به نظر می‌رسد. بازارها همچنین به انتخابات میانی ایالات متحده که فردا برگزار می‌شود، توجه دارند، چرا که نتایج می‌تواند جهت‌گیری‌های سیاسی و انرژی را تحت تأثیر قرار دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "پیش‌بینی قیمت نفت",
+    "tag": "Brent",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Raises-Brent-Oil-Price-Forecast-to-105.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Raises-Brent-Oil-Price-Forecast-to-105.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-02_byuwmhempr.jpg",
+    "timestamp": 1793581200.0,
     "sent_to_telegram": true
   },
   {
@@ -6332,270 +6596,6 @@
     "clean_url": "https://www.reuters.com/business/energy/indonesia-cuts-pipeline-gas-exports-singapore-by-about-9-2026-10-24",
     "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1790498729477.jpg",
     "timestamp": 1792832254.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f7d97d2941",
-    "title_fa": "‏اتصال ماهواره‌ای SpaceX در اوکراین با ۴۰۰‌ک‌م/س بازگشت",
-    "title_en": "SpaceX's satellite connection renewed at over 400 km/h, Ukraine's defence...",
-    "summary": [
-      "‏اتصال اینترنت ماهواره‌ای SpaceX (Starlink) در اوکراین پس از قطع، با سرعت بیش از ۴۰۰ کیلومتر در ساعت دوباره فعال شد.",
-      "‏این بازگشت ارتباطی به نیروهای دفاعی کی‌یف امکان استفاده مستمر از داده‌های حیاتی را می‌دهد.",
-      "‏بازسازی سرویس پس از حملات الکترونیکی روسیه انجام شد."
-    ],
-    "body_fa": "‏شبکه ماهواره‌ای SpaceX که به‌عنوان Starlink شناخته می‌شود، پس از قطع موقت در اوکراین، دوباره فعال شد و سرعت انتقال داده‌ها را به بیش از ۴۰۰ کیلومتر در ساعت ارتقا داد. این بازگشت به‌سرعت توسط تیم‌های فنی SpaceX و مقامات دفاعی کی‌یف انجام شد تا اطمینان حاصل شود که نیروهای نظامی و شهروندان همچنان به اینترنت پرسرعت دسترسی داشته باشند. قطع پیشین به‌احتمال زیاد ناشی از حملات الکترونیکی یا جمل‌گیری‌های روسیه بود. بازگرداندن سرویس به‌سرعت، نقش کلیدی در هماهنگی عملیات نظامی و انتشار اطلاعات در جبهه دارد. این رویداد نشان می‌دهد که فناوری‌های فضایی می‌توانند در جنگ‌های مدرن به‌عنوان زیرساخت حیاتی عمل کنند.",
-    "category": "تکنولوژی",
-    "subcategory": "ارتباطات نظامی",
-    "tag": "Starlink",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/science/spacexs-satellite-connection-renewed-over-400-kmh-ukraines-defence-minister-says-2026-10-24/",
-    "clean_url": "https://www.reuters.com/science/spacexs-satellite-connection-renewed-over-400-kmh-ukraines-defence-minister-says-2026-10-24",
-    "image": "https://s.yimg.com/bo/1ecdfe20-b0bc-5a7b-9112-6a67bb38c0ce_1792830210820.jpg",
-    "timestamp": 1792828054.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a446571db7",
-    "title_fa": "‏سهام Berkshire Hathaway به رکورد تاریخی جدید رسید",
-    "title_en": "Berkshire shares shake the Buffett blues with new all-time highs",
-    "summary": [
-      "‏سهام کلاس A برکشیر هاثوی به 820,500 دلار و کلاس B به 546.97 دلار بسته شد.",
-      "‏این رکورد نشان‌دهنده بازگشت سرمایه‌گذاران پس از سقوط پس از اعلام استعفای بافت است و عملکرد برتر نسبت به شاخص‌های اصلی.",
-      "‏پس از کاهش 15 ٪، سهام در ماه جاری 18 ٪ رشد کرده و نسبت به S&P 500 پیشی گرفته است."
-    ],
-    "body_fa": "‏پس از تقریباً ۱۸ ماه کاهش، سهام Berkshire Hathaway به بالاترین سطح تاریخی خود رسید؛ کلاس A به 820,500 دلار و کلاس B به 546.97 دلار بسته شدند. این رشد پس از اعلام استعفای ناگهانی وارن بافت به عنوان مدیرعامل در جلسه سهامداران 2025 رخ داد که ابتدا باعث افت ۱۴٪ سود عملیاتی سه ماهه اول شد. تحلیل‌گران همچون Brian Meredith از UBS معتقدند فرهنگ و استراتژی شرکت تحت رهبری جدید Greg Abel بدون تغییر باقی می‌ماند. سرمایه‌گذاران نگران از دست رفتن «پریمیوم بافت» بودند، اما پس از کاهش ۱۴٫۳٪ در کلاس A و تقریباً ۱۵٪ در کلاس B ، سهام در ماه جاری ۱۸٪ افزایش یافت. این عملکرد باعث شد که سود سالانه Berkshire نسبت به شاخص S&P کمتر از چهار درصد اختلاف داشته باشد و نسبت به شاخص‌های فناوری و AI که در حال افت هستند، برتری نشان دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "Berkshire",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
-    "clean_url": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108140589-1746452074826-108140589-17462990522025-05-03t185121z_880885241_rc2iaeab02cu_rtrmadp_0_berkshire-buffett.jpg?v=1754407778&w=1920&h=1080",
-    "timestamp": 1792820880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "17b0dbe7a5",
-    "title_fa": "‏کمبود قطعات باعث خرد شدن هواپیماهای جوان می‌شود",
-    "title_en": "Why young airplanes are being torn apart for scrap",
-    "summary": [
-      "‏هواپیماهای تجاری نسبتاً جدید به دلیل کمبود قطعات، زودتر از موعد خرد می‌شوند",
-      "‏این کار باعث فروش قطعات ارزشمند به میلیون دلار و افزایش هزینه‌های هواپیمایی‌ها می‌شود",
-      "‏کمبود موتورهای هواپیما، مهم‌ترین عامل این بحران است"
-    ],
-    "body_fa": "‏برخی از پرکاربردترین هواپیماهای تجاری جهان، سال‌ها یا حتی دهه‌ها زودتر از زمان معمول به‌صورت کامل یا جزئی از بین می‌روند. شرکت‌های هواپیمایی برای به‌دست آوردن قطعات با ارزش که هر کدام می‌توانند میلیون‌ها دلار قیمت داشته باشند، این هواپیماها را جداسازی می‌کنند و بقیه را خرد و بازیافت می‌نمایند. دلیل اصلی این روند، کمبود شدید قطعات کلیدی به‌ویژه موتورهای هواپیماست که هزینه‌های عملیاتی خطوط هوایی را به‌طور مداوم افزایش داده است. CNBC برای بررسی این پدیده به شهر Goodyear در ایالت آریزونا رفت و از مسئولان صنعت و کارشناسان نظرسنجی کرد. این وضعیت نشان می‌دهد که زنجیره تأمین قطعات هواپیمایی به‌عنوان یک نقطه ضعف اساسی در صنعت حمل‌ونقل هوایی تبدیل شده و می‌تواند فشارهای مالی بیشتری بر شرکت‌های هواپیمایی وارد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "صنعت هواپیمایی",
-    "tag": "اسقاط هواپیما",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/video/2026/10/24/why-young-airplanes-are-being-torn-apart-for-scrap.html",
-    "clean_url": "https://www.cnbc.com/video/2026/10/24/why-young-airplanes-are-being-torn-apart-for-scrap.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108452656-carbon_scrap.jpg?v=1792780124&w=1920&h=1080",
-    "timestamp": 1792817880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "fe524e6e2b",
-    "title_fa": "‏اوگوندا عبور به کنیا را محدود کرد؛ کنیا مرگ ابولا",
-    "title_en": "Kenya Records Second Ebola Death as Uganda Restricts Transit",
-    "summary": [
-      "‏کنیا دومین مرگ ناشی از ابولا را ثبت کرد",
-      "‏اوگوندا عبور مسافران به کنیا را محدود کرد و ممکن است تجارت منطقه‌ای را تحت فشار قرار دهد",
-      "‏این رویداد نگرانی‌های بهداشتی و اقتصادی در شرق آفریقا را افزایش داد"
-    ],
-    "body_fa": "‏کنیا دومین مورد مرگ ناشی از بیماری ابولا را گزارش کرد؛ این مرگ در یک بیمارستان محلی رخ داد. در واکنش به شیوع، اوگوندا تصمیم گرفت عبور مسافران و کالاهای مرزی به کنیا را محدود کند. این محدودیت می‌تواند جریان تجاری و مسافری بین دو کشور را مختل کند و فشار اقتصادی بر مناطق مرزی را افزایش دهد. مقامات بهداشتی هر دو کشور در حال تقویت اقدامات پیشگیری و نظارت بر گسترش ویروس هستند. کارشناسان هشدار می‌دهند که گسترش بیماری می‌تواند به بحران‌های بهداشتی و اقتصادی گسترده‌تری منجر شود.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "بهداشت عمومی",
-    "tag": "Ebola",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792816440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "91705237ac",
-    "title_fa": "‏نقش Nvidia به‌عنوان تأمین‌کننده مالی هوش مصنوعی، اولین آزمون فشار",
-    "title_en": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-    "summary": [
-      "‏شرکت Nvidia با اعتبار سرمایه‌گذاری‌اش، 36 میلیارد دلار پشتیبانی neocloud ها و تضمین 105 میلیارد دلار برای دیتاسنتر OpenAI در اوهایو فراهم کرده",
-      "‏اکنون بازارهای اعتباری سفت‌تر شده‌اند و سهام neocloud های CoreWeave ، Nebius و IREN بیش از 30 ٪ سقوط کرده‌اند، که توان مالی Nvidia را به چالش می‌کشد",
-      "‏اگر تقاضای محاسباتی به این انتظارات بلندپروازانه نرسد، خطر پیش‌فرض پروژه‌ها افزایش می‌یابد"
-    ],
-    "body_fa": "‏شرکت Nvidia پس از ساخت تراشه‌های پیشرو در هوش مصنوعی، به‌عنوان تأمین‌کننده مالی برای توسعه‌دهندگان مدل‌های AI و شرکت‌های neocloud عمل می‌کند. بر پایه رتبه اعتباری سرمایه‌گذاری‌اش، 36 میلیارد دلار قرارداد پشتیبانی برای neocloud ها و تضمین تا 105 میلیارد دلار برای دیتاسنتر 10 گیگوات OpenAI در اوهایو ارائه داده است. این تعهدات عمدتاً خارج از ترازنامه هستند و Nvidia تنها در صورت پیش‌فرض شرکای خود ملزم به پرداخت می‌شود. اما با سفت شدن شرایط اعتباری، سهام neocloud های CoreWeave ، Nebius و IREN این ماه بیش از 30 ٪ سقوط کرده و CDS CoreWeave به بالای 11 ٪ رسیده است. تحلیل‌گران هشدار می‌دهند اگر تقاضای محاسباتی به سطح مورد انتظار نرسد، این مدل مالی می‌تواند فشار جدی بر سودآوری Nvidia وارد کند. سهام Nvidia نیز در اکتبر 7.6 ٪ کاهش یافت و به بدترین ماه خود از نوامبر 2025 نزدیک شد.",
-    "category": "تکنولوژی",
-    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
-    "tag": "Nvidia",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-    "clean_url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108450923-1792750261614-gettyimages-2300714363-GERMANY_NVIDIA.jpeg?v=1792750317&w=1920&h=1080",
-    "timestamp": 1792814400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2f2434f824",
-    "title_fa": "‏اسرائیل به‌سراغ رمزارزها می‌رود تا تحریم‌ها را دور بزند",
-    "title_en": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
-    "summary": [
-      "‏نتانیاهو اعلام کرد اسرائیل به فکر استفاده از رمزارزهاست تا در صورت تحریم‌های مالی اقدام کند",
-      "‏این تصمیم می‌تواند نقش رمزارزها را در دور زدن تحریم‌های بین‌المللی تقویت کند",
-      "‏پیشنهاد دولت ممکن است بازارهای رمزارز را تحت فشار قرار دهد"
-    ],
-    "body_fa": "‏نقش نخست‌وزیر اسرائیل، بنی نتانیاهو، در مصاحبه‌ای اعلام شد که کشور در صورت مواجهه با تحریم‌های جدید، به استفاده از رمزارزها فکر می‌کند. این ایده می‌تواند شامل ایجاد یک ارز دیجیتال ملی یا بهره‌گیری از ارزهای موجود برای تراکنش‌های بین‌المللی باشد. چنین گامی می‌تواند به اسرائیل امکان دور زدن محدودیت‌های مالی را بدهد و در عین حال توجه جهانیان را به نقش رمزارزها در سیاست‌های ژئوپلیتیک جلب کند. اگر دولت اسرائیل به این مسیر ادامه دهد، ممکن است مقررات جدیدی برای استفاده از رمزارزها در سطح ملی تدوین شود و تأثیر قابل‌توجهی بر بازارهای جهانی داشته باشد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "سیاست‌گذاری دولتی",
-    "tag": "Israel crypto",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792813980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "64625be03a",
-    "title_fa": "‏روابط آمریکا و اوکراین پس از تابستان داغ سرد شد",
-    "title_en": "Key dates in the latest slump in US-Ukrainian ties",
-    "summary": [
-      "‏پس از روابط گرم بین دونالد ترامپ و ولودیمیر زلنسکی در تابستان، تنش‌ها در هفته‌های اخیر تشدید شد.",
-      "‏این فروپاشی می‌تواند حمایت‌های نظامی و مالی آمریکا به اوکراین را تحت‌تأثیر قرار دهد و بر روند جنگ روسیه‑اوکراین اثر بگذارد.",
-      "‏تحلیل‌گران نگران عمیق‌تر شدن شکاف بین دو کشور در میان ادامه درگیری هستند."
-    ],
-    "body_fa": "‏در اواخر تابستان 2023 ، روابط میان رئیس‌جمهور ایالات متحده دونالد ترامپ و رئیس‌جمهور اوکراین ولودیمیر زلنسکی بهبود یافت و ترامپ وعده افزایش کمک‌های نظامی به کیف را داد. اما از اوایل ماه‌های پاییز، تنش‌ها به سرعت بالا رفت؛ ترامپ بارها درخواست بررسی‌های مالی در اوکراین را مطرح کرد و در چندین مصاحبه از ادامه حمایت‌های نظامی انتقاد کرد. در اوایل نوامبر، دولت آمریکا بستهٔ کمک 22 میلیارد دلاری به اوکراین را به تعویق انداخت و زلنسکی به واشنگتن سفر کرد تا از این تصمیم جلوگیری کند، اما مذاکرات به بن‌بست رسید. این سرد شدن روابط باعث نگرانی در میان حامیان اوکراین شد که ممکن است فشار نظامی روسیه بر کیف تقویت شود. تحلیل‌گران پیش‌بینی می‌کنند اگر این روند ادامه یابد، تأمین سلاح‌های پیشرفته و بودجهٔ انسانی اوکراین به خطر خواهد افتاد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "روابط آمریکا-اوکراین",
-    "tag": "تشنج",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/key-dates-latest-slump-us-ukrainian-ties-2026-10-24/",
-    "clean_url": "https://www.reuters.com/legal/government/key-dates-latest-slump-us-ukrainian-ties-2026-10-24",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792811580.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "866f393f06",
-    "title_fa": "‏پلیس فرانسه برای مهار تظاهرات در پاریس ۷۰٬۰۰۰ نفر را به کار گرفت",
-    "title_en": "Violence flares in Paris after largely peaceful protests across France",
-    "summary": [
-      "‏وزیر کشور فرانسه برای مهار تظاهرات در سرتاسر کشور ۷۰٬۰۰۰ نیروی پلیس اعزام کرد.",
-      "‏این تعداد ۱۰٬۰۰۰ نفر بیشتر از تظاهرات ۱۷ اکتبر است و نشان‌دهنده نگرانی دولت از حفظ نظم است.",
-      "‏در برخی شهرها تخریب و غارت رخ داد که توانایی دولت در کنترل وضعیت را زیر سؤال برد."
-    ],
-    "body_fa": "‏وزیر کشور فرانسه پس از انتشار گسترده تظاهرات در سراسر کشور، ۷۰٬۰۰۰ نفر نیروی پلیس را به‌کار گرفت؛ این رقم ۱۰٬۰۰۰ نفر بیشتر از تعداد نیروهایی است که در تظاهرات ۱۷ اکتبر برای مقابله با تخریب و غارت به کار رفته بودند. این اقدام نشان‌دهنده نگرانی دولت از توانایی حفظ نظم عمومی است و در پاریس به‌ویژه به‌خاطر درگیری‌های مسلحانه و تخریب اموال، نگرانی‌های بیشتری ایجاد کرده است. مقامات اعلام کردند که هدف اصلی جلوگیری از گسترش خشونت و حفظ امنیت شهروندان است.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "ناآرامی‌های داخلی",
-    "tag": "پروتستان",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/france-mounts-huge-security-operation-protesters-prepare-march-2026-10-24/",
-    "clean_url": "https://www.reuters.com/world/europe/france-mounts-huge-security-operation-protesters-prepare-march-2026-10-24",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792809420.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "95b63ec47b",
-    "title_fa": "‏کیم جونگ اون از پل دانگ‌دونگ به چین سفر کرد",
-    "title_en": "North Korea's Kim Jong Un visits China via Dandong bridge, South Korean official says",
-    "summary": [
-      "‏رهبر کره شمالی کیم جونگ اون با استفاده از پل جدید دانگ‌دونگ به چین وارد شد",
-      "‏این بازدید می‌تواند روابط چین‑کره شمالی را تقویت کند و تأثیرات ژئوپلیتیکی منطقه‌ای را تحت‌نظر بگذارد",
-      "‏سازمان‌های بین‌المللی و سئو به این حرکت واکنش نشان خواهند داد"
-    ],
-    "body_fa": "‏رهبر کره شمالی کیم جونگ اون روز شنبه از شهر دانگ‌دونگ در مرز چین وارد شد. او از طریق پل جدیدی که به تازگی افتتاح شده و مسیر مستقیم بین دو کشور را فراهم می‌کند، به چین سفر کرد. این سفر که توسط خبرگزاری یونهاب کره جنوبی گزارش شد، نشان‌دهنده تمایل پی‌گیرانه پیروان کیم به تقویت روابط با پایتخت پسر چین است. این دیدار می‌تواند به تعمیق همکاری‌های اقتصادی و نظامی میان دو کشور منجر شود و در پیگیری مذاکرات هسته‌ای و تحریم‌ها نقش مهمی ایفا کند. تحلیل‌گران پیش‌بینی می‌کنند که چین ممکن است از این فرصت برای نشان دادن حمایت سیاسی خود نسبت به شمال استفاده کند. در عین حال، واکنش‌های واشنگتن و سئو به این حرکت با دقت دنبال خواهد شد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "دیپلماسی شمال‌کره",
-    "tag": "کیم‌جونگ‑اون",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/north-koreas-kim-jong-un-arrives-dandong-china-yonhap-says-2026-10-24/",
-    "clean_url": "https://www.reuters.com/world/china/north-koreas-kim-jong-un-arrives-dandong-china-yonhap-says-2026-10-24",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792807980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "71462e5167",
-    "title_fa": "‏سیاست خارجی ترامپ هزینه‌ساز می‌شود و جمهوری‌خواهان را تهدید می‌کند",
-    "title_en": "Trump foreign policy hits voters in the pocketbook, imperiling Republicans in midterms",
-    "summary": [
-      "‏سیاست خارجی ترامپ به مسأله هزینه زندگی تبدیل شد",
-      "‏این مسأله می‌تواند رأی‌دهندگان میانه‌دوره را به سمت دموکرات‌ها سوق دهد",
-      "‏نتیجه‌اش ممکن است موقعیت جمهوری‌خواهان در انتخابات 2026 را تضعیف کند"
-    ],
-    "body_fa": "‏سیاست خارجی معمولاً در انتخابات میانی آمریکا نقش تعیین‌کننده‌ای ندارد، اما این بار رویکرد ترامپ به امور جهانی به مسأله هزینه زندگی برای مردم تبدیل شده است. افزایش قیمت‌ها و فشارهای اقتصادی ناشی از این سیاست‌ها، نگرانی‌های مالی رای‌دهندگان را برانگیخته و می‌تواند تمایل آن‌ها را به تغییر سمت سیاسی تغییر دهد. تحلیل‌گران پیش‌بینی می‌کنند که این مسأله می‌تواند حمایت از جمهوری‌خواهان را در انتخابات میانی کاهش دهد و به نفع دموکرات‌ها باشد. در صورت ادامه این روند، موقعیت جمهوری‌خواهان در انتخابات 2026 ممکن است به‌طور قابل‌توجهی تضعیف شود.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "انتخابات میانی آمریکا",
-    "tag": "ترمپ",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/trump-foreign-policy-hits-voters-pocketbook-imperiling-republicans-midterms-2026-10-24/",
-    "clean_url": "https://www.reuters.com/world/us/trump-foreign-policy-hits-voters-pocketbook-imperiling-republicans-midterms-2026-10-24",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792806360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c8a723baa1",
-    "title_fa": "‏اتحادیه عربی-سعودی موشک‌های بالستیک حوثی را رهگیری کرد",
-    "title_en": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities",
-    "summary": [
-      "‏اتحادیهٔ عربی-سعودی موشک‌های بالستیک حوثی را که به شهرهای مکه، جده، طائف و ینبوع هدف داشتند، رهگیری کرد.",
-      "‏این رویداد امنیت شهرهای مقدس را تقویت کرده و فشار بر حوثی‌ها را نشان می‌دهد.",
-      "‏دفاع مدنی عربستان هشدارهای موقت برای مکه و جده صادر کرد."
-    ],
-    "body_fa": "‏عربستان سعودی در روز شنبه اعلام کرد که نیروهای دفاع مدنی توانستند موشک‌های بالستیک حوثی را که به سمت شهرهای مکه، جده، طائف و ینبوع پرتاب شده بودند، رهگیری کنند. این موشک‌ها توسط ائتلاف عربی-سعودی شناسایی و در مسیر پرواز قطع شدند و هیچ خسارتی به زیرساخت‌ها وارد نشد. هشدارهای موقت برای شهرهای مقدس صادر شد تا مردم از خطر احتمالی آگاه شوند. این رویداد نشان می‌دهد که توان دفاع هوایی عربستان در برابر تهدیدات حوثی‌ها همچنان قوی است و فشار نظامی بر این گروه را ادامه می‌دهد. در عین حال، این حمله می‌تواند تنش‌های منطقه‌ای را تشدید کند، چرا که حوثی‌ها به حمایت ایران وابسته‌اند. تحلیلگران پیش‌بینی می‌کنند که این نوع حملات ممکن است به ادامهٔ درگیری‌های یمن منجر شود.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "امنیت خاورمیانه",
-    "tag": "موشک",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/saudi-civil-defense-says-danger-passed-after-brief-alerts-mecca-jeddah-taif-2026-10-24/",
-    "clean_url": "https://www.reuters.com/world/middle-east/saudi-civil-defense-says-danger-passed-after-brief-alerts-mecca-jeddah-taif-2026-10-24",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792805640.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6d7d7e3eef",
-    "title_fa": "‏نفت و ریسک‌ها مسیر 55,000 داو جونس را تهدید می‌کنند",
-    "title_en": "Dow Jones Forecast: Oil and Earnings Risks Test the Path to 55,000",
-    "summary": [
-      "‏قیمت نفت بالا و افزایش بازده اوراق خزانه‌داری، فشار بر شاخص داو جونس را افزایش داد",
-      "‏این عوامل می‌توانند مسیر صعودی به 55,000 نقطه را به خطر اندازند",
-      "‏تغییرات تعرفه‌های کانادا توسط ترامپ تنها تسکین جزئی برای برخی شرکت‌ها فراهم می‌کند"
-    ],
-    "body_fa": "‏قیمت نفت برنت به بالای 113 دلار رسیده و احتمال ادامه روند صعودی را دارد، در حالی که بازده اوراق 10‑ساله خزانه‌داری آمریکا نیز بالا مانده است. این دو عامل حاشیه سود شرکت‌های آمریکایی را تحت فشار قرار می‌دهند و نگرانی‌ها درباره توانایی آنها برای توجیه هزینه‌های هوش مصنوعی را تقویت می‌کند. ترامپ دستور حذف تعرفه 50 ٪ برای برخی واردات کانادایی را صادر کرده اما به‌همین‌زمان محصولات دیگر را به لیست تعرفه‌دار اضافه کرده که اثر تسکین را محدود می‌کند. تحلیل‌گران معتقدند سطح حمایت 50,000 برای داو جونس حیاتی است و حفظ آن برای ادامه روند صعودی ضروری است. در صورت شکست این سطح، احتمال بازگشت به سطوح پایین‌تر و کاهش اعتماد سرمایه‌گذاران افزایش می‌یابد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "Dow Jones",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "FX Empire",
-    "url": "https://www.fxempire.com/forecasts/article/dow-jones-forecast-oil-and-earnings-risks-test-the-path-to-55000-1640153",
-    "clean_url": "https://www.fxempire.com/forecasts/article/dow-jones-forecast-oil-and-earnings-risks-test-the-path-to-55000-1640153",
-    "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/dow-jones-industrial-average-neutral-04.jpg?width=1201",
-    "timestamp": 1792805220.0,
     "sent_to_telegram": true
   }
 ]
