@@ -1,5 +1,159 @@
 [
   {
+    "id": "317d48c018",
+    "title_fa": "‏هکرها با مصاحبه و AI Binance ، ۶٫۳ میلیارد سرقت شد",
+    "title_en": "Binance says hackers used fake job interviews and an internal AI tool to pull...",
+    "summary": [
+      "‏شرکت Binance اعلام کرد هکرها با استفاده از مصاحبه شغلی تقلبی و ابزار هوش مصنوعی داخلی، ۶٫۳ میلیارد دلار از کیف پول‌های خود سرقت کردند.",
+      "‏این حمله که توسط واحد هکری شمال‌کره‌ای «TraderTraitor» انجام شد، از یک تبلیغ مخرب گوگل و مصاحبه‌های جعلی برای نفوذ استفاده کرد.",
+      "‏شرکت Binance گفت ابزار MPC کیف پول‌های گرم را محافظت می‌کرد، اما به دلیل عدم وجود کلید خصوصی منفرد، تراکنش‌های غیرمجاز دو ساعت ادامه یافت."
+    ],
+    "body_fa": "‏شرکت Binance در گزارشی جزئیات سرقت بزرگ ۶٫۳ میلیارد دلاری را که توسط یک واحد هکری شمال‌کره‌ای به نام «TraderTraitor» انجام شد، منتشر کرد. هکرها ابتدا با یک تبلیغ مخرب در گوگل یک نصب‌کننده دستکاری‌شده را به یک توسعه‌دهنده عرضه کردند و سپس با برگزاری مصاحبه‌های شغلی تقلبی، اعتماد مهندسان را جلب کردند. پس از دانلود یک تکلیف مصاحبه جعلی که در واقع بدافزار بود، ابزار هوش مصنوعی داخلی Binance به دست مهاجمان افتاد و دسترسی به کیف پول‌های گرم فراهم شد. به دلیل استفاده از فناوری Multi‑Party Computation (MPC) در کیف پول گرم، هیچ کلید خصوصی منفردی برای متوقف کردن تراکنش‌های غیرمجاز وجود نداشت و حمله به مدت دو ساعت ادامه یافت. شرکت Binance اعلام کرد تا به امروز ۵۷ مورد تهدید سایبری مرتبط با شمال‌کره را شناسایی و مسدود کرده و اقدامات امنیتی خود را تقویت کرده است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سرقت بزرگ",
+    "tag": "سرقت",
+    "urgency": 9,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+    "clean_url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+    "image": "https://s.yimg.com/bo/b31aefe0-2d8e-5aca-87bb-69755a8009ff_1793744252292.jpg",
+    "timestamp": 1793743429.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fa62e42be1",
+    "title_fa": "‏آفریقا بانک انرژی 5 میلیارد دلاری را راه‌اندازی کرد",
+    "title_en": "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat | OilPrice.com",
+    "summary": [
+      "‏آفریقا بانک انرژی 5 میلیارد دلاری را برای تأمین مالی پروژه‌های نفت و گاز تأسیس کرد.",
+      "‏این اقدام در حالی است که سرمایه‌گذاران غربی از قاره عقب‌نشینی می‌کنند و نیاز سالانه 200 میلیارد دلاری انرژی را پوشش می‌دهد.",
+      "‏منطقه زیرصحرایی به‌سرعت جمعیت‌اش سه برابر می‌شود و تقاضای انرژی تا 2035 سه‌برابر خواهد شد."
+    ],
+    "body_fa": "‏آفریقا برای پوشش نیاز سالانه 200 میلیارد دلاری به انرژی، به‌خصوص در میان 600 میلیون نفر بدون برق، به سرمایه‌گذاری عظیم نیاز دارد. غربی‌ها در این دوره از سرمایه‌گذاری در قاره عقب‌نشینی می‌کنند؛ سرمایه‌گذاری در نفت و گاز از 68 میلیارد دلار در 2016 به حدود 37 میلیارد دلار در 2025 کاهش یافته است. در پاسخ، بانک صادرات-واردات آفریقا (Afreximbank) و سازمان تولیدکنندگان نفت آفریقا (APPO) بانک انرژی آفریقا را با سرمایه 5 میلیارد دلار راه‌اندازی کردند. این بانک هدف دارد پروژه‌های نفت و گاز را که به‌دلیل کمبود منابع مالی به تأمین‌کنندگان بین‌المللی جذب نمی‌شوند، تأمین کند. با این حال، قاره با معضل سه‌گانه انرژی – قابلیت اطمینان، قیمت مناسب و پایداری – مواجه است و برای رسیدن به هدف افزایش ظرفیت تولید برق ده‌برابر تا 2065 به سرمایه‌گذاری‌های کلان نیاز دارد. در عین حال، آفریقا دارای 60 درصد پتانسیل خورشیدی جهان است اما تنها 1 درصد از ظرفیت نصب شده را دارد، که نشان‌دهنده فرصت‌های بزرگ برای پروژه‌های انرژی پاک است.",
+    "category": "انرژی و کالا",
+    "subcategory": "سرمایه‌گذاری انرژی",
+    "tag": "Africa Energy Bank",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Africa-Launches-5-Billion-Energy-Bank-as-Western-Lenders-Retreat.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/Africa-Launches-5-Billion-Energy-Bank-as-Western-Lenders-Retreat.html",
+    "image": "https://s.yimg.com/bo/18cf2eb4-6f4b-597d-9000-ab78b9f2a812_1793744447820.jpg",
+    "timestamp": 1793743189.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "006e1e8dac",
+    "title_fa": "‏قاضی فدرال برنامه ترمپ برای اخراج افغان‌های بازداشت‌شده را متوقف کرد",
+    "title_en": "Federal judge temporarily blocks Trump plan to deport detained Afghans to...",
+    "summary": [
+      "‏قاضی فدرال نیویورک برنامه ترمپ برای اخراج افغان‌های بازداشت‌شده را موقتاً متوقف کرد",
+      "‏این تصمیم مانع بازگشت هزاران افغان که در آمریکا در بازداشت هستند، می‌شود و واکنش‌های سیاسی و حقوقی را برانگیخته است",
+      "‏قاضی به این دلیل حکم داد که اجرای برنامه بدون بررسی کامل حقوقی خطر نقض قوانین بین‌المللی دارد"
+    ],
+    "body_fa": "‏یک قاضی فدرال در دادگاه نیویورک حکم موقت صادر کرد که برنامهٔ دولت ترامپ برای اخراج افغان‌های بازداشت‌شده از ایالات متحده را متوقف می‌کند. این برنامه که قصد داشت هزاران مهاجر افغان را به افغانستان بازگرداند، با مخالفت گروه‌های حقوق بشر و وکلای مهاجران مواجه شده بود. قاضی در حکم خود اشاره کرد که اجرای فوری این طرح بدون بررسی کامل قانونی می‌تواند قوانین بین‌المللی حفاظت از پناهندگان را نقض کند. به‌دنبال این تصمیم، دولت ترامپ اعلام کرد که به بررسی مجدد معیارهای اخراج می‌پردازد و برخی از پرونده‌ها به تعلیق می‌افتند. این حکم موقت می‌تواند تأثیر قابل‌توجهی بر روند بازگشت مهاجران افغان و سیاست‌های مهاجرتی آمریکا داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "مهاجرت بین‌المللی",
+    "tag": "افغان‌ها",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/afghans-deportation-pakistan-trump-immigration-a419fbb329b96480d806d9ffbd52ccb4",
+    "clean_url": "https://apnews.com/article/afghans-deportation-pakistan-trump-immigration-a419fbb329b96480d806d9ffbd52ccb4",
+    "image": "https://s.yimg.com/bo/5f1cbd4a-cc63-529f-b0b1-27d831c87ae7_1793488478763.jpg",
+    "timestamp": 1793742469.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5789343cfb",
+    "title_fa": "‏هکرهای شمال‌کره با تقلب 6.3 میلیارد رمزارز از Binance دزدیدند",
+    "title_en": "Researchers warned of North Korean hacking tactics years before record $6.3B...",
+    "summary": [
+      "‏هکرهای شمال‌کره با استفاده از پروفایل‌های تقلبی و پیشنهاد شغلی، مهندسی نرم‌افزار Binance را فریب دادند و 6.3 میلیارد دلار رمزارز را سرقت کردند.",
+      "‏این سرقت رکوردی باعث شد Binance برداشت‌های مشتریان را متوقف کند و نگرانی‌های جهانی درباره امنیت رمزارزها و تأمین مالی رژیم شمال‌کره را تشدید کند.",
+      "‏FBI و محققان بلاکچین هکرهای شمال‌کره را مسئول این سرقت بزرگ اعلام کردند."
+    ],
+    "body_fa": "‏Binance تأیید کرد که هکرهای شمال‌کره با تظاهر به استخدام‌کنندگان، یک مهندس نرم‌افزار کیف پول را فریب داده و نرم‌افزار مخرب را روی لپ‌تاپ او نصب کردند. این دسترسی اولیه به شبکه Binance اجازه داد هکرها به ابزارهای داخلی دسترسی پیدا کنند و با استفاده از اعتبارهای سرقت‌شده، به دو مهندس دیگر نفوذ کنند. در نهایت، آن‌ها به سیستمی که کنترل میلیاردها دلار رمزارز را داشت دست یافتند و در هفته گذشته حدود 6.3 میلیارد دلار رمزارز را به سرقت بردند. پس از کشف حمله، Binance برداشت‌های مشتریان را در تمام پلتفرم‌های خود متوقف کرد و گفت ابزارهای امنیتی داخلی نتوانستند بدافزار را شناسایی کنند. FBI و تیم‌های تحقیقاتی بلاکچین هکرهای شمال‌کره را مقصر این سرقت بزرگ اعلام کرده‌اند. این حادثه نشان می‌دهد که حملات مهندسی اجتماعی طولانی‌مدت همچنان تهدید جدی برای صرافی‌های دیجیتال و امنیت مالی بین‌المللی است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سرقت رمزارز بزرگ",
+    "tag": "Binance",
+    "urgency": 9,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+    "clean_url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist",
+    "image": "https://s.yimg.com/bo/6e202f03-bee0-5ccd-a9a8-f496a1a0527b_1793736765671.webp",
+    "timestamp": 1793734429.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "09409e3c6e",
+    "title_fa": "‏Fal استارتاپ ارزشش را به ۱۶ میلیارد دو برابر کرد",
+    "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges |...",
+    "summary": [
+      "‏استارتاپ AI inference Fal 1.3 میلیارد دلار جذب سرمایه کرد و ارزش‌گذاریش به 16 میلیارد دلار رسید.",
+      "‏این رشد نشان‌دهنده تقاضای شدید برای خدمات inference مدل‌های هوش مصنوعی، به‌ویژه مدل‌های منبع باز است.",
+      "‏Fal سالانه بیش از 800 میلیون دلار درآمد داشته و حاشیه سودش به‌دلیل هزینه‌های محاسباتی کم است."
+    ],
+    "body_fa": "‏Fal ، استارتاپ سانفرانسیسکو مستقر در زمینه میزبانی و اجرای مدل‌های ویدئویی، تصویری و صوتی هوش مصنوعی، در دور جدید سرمایه‌گذاری 1.3 میلیارد دلاری جذب کرد. این سرمایه‌گذاری توسط Bessemer Venture Partners رهبری شد و Nvidia ، Sound Ventures و T. Rowe Price نیز مشارکت کردند. پس از این دور، ارزش Fal به 16 میلیارد دلار دو برابر شد، در حالی که در آوریل فقط 8 میلیارد دلار ارزش داشت. شرکت اعلام کرد که در مجموع 1.65 میلیارد دلار در دورهای Series E و F جمع‌آوری کرده و درآمد سالیانه خود را به بیش از 800 میلیون دلار رسانده است. رشد سریع Fal نشانگر تقاضای فزاینده برای خدمات inference است که مدل‌های پیش‌آموزش‌دیده را برای تولید خروجی اجرا می‌کنند، به‌ویژه برای مشتریانی که از مدل‌های منبع باز استفاده می‌کنند. با این حال، حاشیه‌های سود این شرکت به دلیل هزینه بالای خرید یا اجاره توان محاسباتی محدود است. Fal در سال 2021 توسط Burkay Gur ، پیشین رهبر یادگیری ماشین Coinbase و مهندس Oracle ، و Gorkem Yurtseven ، پیشین توسعه‌دهنده Amazon ، تأسیس شد.",
+    "category": "تکنولوژی",
+    "subcategory": "استارتاپ هوش مصنوعی",
+    "tag": "Fal",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "clean_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+    "image": "https://s.yimg.com/bo/d700db3d-0b49-5036-81b8-d7ca81055e04_1793735379164.webp",
+    "timestamp": 1793734429.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "79c07cd0b3",
+    "title_fa": "‏حمله‌های زمینی حوثی به مرزهای عربستان آغاز شد",
+    "title_en": "Houthi Fighters Launch Ground Incursions Into Saudi Arabia | OilPrice.com",
+    "summary": [
+      "‏حوثی‌ها در ماه‌های اخیر به‌صورت حملات زمینی به پست‌های مرزی عربستان سعودی نفوذ کردند.",
+      "‏این تشدید خطر امنیتی می‌تواند بر تدارکات انرژی، رویدادهای بین‌المللی و هزینه‌های اقتصادی عربستان تاثیر بگذارد.",
+      "‏همچنین مسابقات جام آسیا که در عربستان برگزار می‌شد به دلیل این تحولات به سال 2027 موکول شد."
+    ],
+    "body_fa": "‏گزارش‌های تازه از رسانه‌های خاورمیانه نشان می‌دهد که حوثی‌ها در ماه‌های اخیر به‌صورت حملات زمینی به پست‌های مرزی عربستان سعودی در بخش کوهستانی جنوب‑غربی این کشور دست زده‌اند. این حملات، که به‌عنوان «تجاوزهای کوچک‌مقیاس» توصیف شده‌اند، شامل تصرف اسلحه‌های سبک و تجهیزات نظارتی مخصوص نیروهای مرزی عربستان می‌شود. یک مقام غربی و عربی که از جزئیات این عملیات مطلع است، به Middle East Eye گفت که این تجاوزها در اواخر اکتبر نیز رخ داده‌اند. در همین حین، عربستان به‌طور مداوم موشک‌ها و پهپادهای پرتاب‌شده از یمن را رهگیری می‌کند و رویدادهای بین‌المللی بزرگ در این کشور به دلیل تهدیدهای مداوم لغو یا به تعویق می‌افتند. به‌عنوان مثال، کنفدراسیون فوتبال آسیا تصمیم گرفت مسابقات جام آسیا را تا اواخر 2027 به دلیل «شرایط استثنایی منطقه‌ای» به تعویق بیندازد. این تشدید درگیری می‌تواند تأثیرات قابل‌توجهی بر بازارهای نفت، هزینه‌های اقتصادی عربستان و امنیت منطقه‌ای داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات زمینی حوثی",
+    "tag": "حوثی",
+    "urgency": 8,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Houthi-Fighters-Launch-Ground-Incursions-Into-Saudi-Arabia.html",
+    "clean_url": "https://oilprice.com/Geopolitics/Middle-East/Houthi-Fighters-Launch-Ground-Incursions-Into-Saudi-Arabia.html",
+    "image": "https://s.yimg.com/bo/c3a4b02f-3012-5cf7-bb0f-24bed5889b34_1793737842108.jpg",
+    "timestamp": 1793734429.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "68a72e9343",
+    "title_fa": "‏نتایج انتخابات تگزاس فشار بر تجارت هوش مصنوعی می‌آورد",
+    "title_en": "Texas race results could kick AI trade while it's already down",
+    "summary": [
+      "‏انتخابات حاکمیتی و سنا در تگزاس با ریسک‌پذیری داده‌سنتری مواجه شد؛ 27% گیکوات ساعت دیتاسنترهای ایالات متحده از این ایالت می‌آید.",
+      "‏نتایج می‌تواند فشار بر تجارت هوش مصنوعی و شاخص Nasdaq 100 را که 10% از رکورد قبلی سقوط کرده، افزایش دهد.",
+      "‏متوقف کردن صدور مجوزهای دیتاسنتر توسط گابرت ابوت نگرانی‌های رای‌دهندگان درباره آب و برق را تشدید کرده است."
+    ],
+    "body_fa": "‏انتخابات فرماندار و سنا در تگزاس به عنوان نقطه فشار برای تجارت هوش مصنوعی شناخته می‌شود. گابرت ابوت برای چهارمین دوره خود نامزد شده و رقیب دموکرات جینا هینوجوسا و لیبرال پات دیگزون است؛ در سنا جیمز تالاریکو و کن پکسون به تساوی می‌رسند. برآوردهای Wells Fargo نشان می‌دهد 27% گیکوات ساعت دیتاسنترهای ایالات متحده از تگزاس می‌آید و ابوت در سپتامبر صدور مجوزهای دیتاسنتر را متوقف کرد. نظرسنجی دانشگاه هوستون نشان می‌دهد بیش از 80% رای‌دهندگان نگران تأثیر بر آب و برق هستند. تحلیل‌گران می‌گویند پیروزی دموکرات‌ها می‌تواند فشار منفی بر تجارت AI و شاخص Nasdaq 100 که 10% از رکورد قبلی سقوط کرده، ایجاد کند. در کوتاه‌مدت این نتایج می‌تواند نوسان بیشتری در بازارهای مرتبط با هوش مصنوعی و نیمه‌نقلیه‌ها ایجاد کند.",
+    "category": "تکنولوژی",
+    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
+    "tag": "انتخابات تگزاس",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/texas-election-could-pressure-ai-data-center-trade.html",
+    "clean_url": "https://www.cnbc.com/2026/11/03/texas-election-could-pressure-ai-data-center-trade.html",
+    "image": "https://s.yimg.com/bo/bce8280f-246f-5de0-9253-ff7a9f60ee05_1793737481736.jpg",
+    "timestamp": 1793734429.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "d2babca032",
     "title_fa": "‏قیمت‌های بالای نفت نتوانست مشکلات اساسی Aramco را حل کند",
     "title_en": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems |...",
@@ -132,6 +286,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "194a893cc8",
+    "title_fa": "‏جاستین سان درخواست تحریم علیه World Liberty Financial کرد",
+    "title_en": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE...",
+    "summary": [
+      "‏جاستین سان، بنیان‌گذار Tron ، در دادگاهی ایالات متحده علیه World Liberty Financial که به دونالد ترامپ مرتبط است، درخواست تحریم کرد.",
+      "‏او ادعا می‌کند این شرکت تا چند ماه پس از شروع دعوا، روابط خود با امارات را فاش نکرده است.",
+      "‏این پرونده می‌تواند تأثیراتی بر روابط مالی و رمزارزی بین آمریکا و خاورمیانه داشته باشد."
+    ],
+    "body_fa": "‏جاستین سان، مؤسس بلاکچین Tron ، در دادگاهی در ایالات متحده علیه World Liberty Financial که به دونالد ترامپ ارتباط دارد، اقدام به درخواست تحریم کرده است. سان مدعی است که این شرکت تا ماه‌ها پس از آغاز دعوا، ارتباطات تجاری خود با امارات متحده عربی را مخفی نگه داشته است. او این عدم شفافیت را نقض قوانین مالی و ریسک‌پذیری برای سرمایه‌گذاران می‌داند. درخواست تحریم شامل مسدود کردن حساب‌های مالی و ممنوعیت انجام تراکنش‌های بین‌المللی برای World Liberty می‌شود. این پرونده می‌تواند فشار بیشتری بر روی شرکت‌های رمزارزی برای افشای روابط بین‌المللی‌شان ایجاد کند و نگرانی‌های نظارتی را در ایالات متحده تشدید نماید.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قضایای مالی",
+    "tag": "Justin Sun",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+    "clean_url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+    "image": "https://s.yimg.com/bo/f67c456c-3b11-5e1b-aeca-00ce4ac4a03e_1793726554208.jpg",
+    "timestamp": 1793723629.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "101b0c1a6f",
+    "title_fa": "‏کره‌ جنوبی امنیت مالی را با مقام سایبری پیشنهاد می‌کند",
+    "title_en": "Citing Binance hack, South Korea weighs single cybersecurity czar across finance...",
+    "summary": [
+      "‏وزیر مالی کره‌ جنوبی، لی، پس از هک Binance ، ایجاد مقام واحد سایبری برای نظارت بر بخش مالی را پیشنهاد کرد.",
+      "‏این اقدام می‌تواند نظارت را متمرکز کند و امنیت سامانه‌های مالی و صرافی‌های رمزارزی را بهبود بخشد.",
+      "‏اگر اجرایی شود، ممکن است سایر کشورها نیز به‌سوی ایجاد نهادهای مشابه حرکت کنند."
+    ],
+    "body_fa": "‏پس از هک بزرگ صرافی Binance که نگرانی‌های امنیتی را در سطح جهانی برانگیخت، لی وزیر مالی کره‌ جنوبی اعلام کرد که نظارت بر امنیت سایبری در بخش مالی به‌صورت پراکنده است. او پیشنهاد داد یک مقام واحد سایبری برای تمام نهادهای مالی ایجاد شود تا بتوانند به‌صورت هماهنگ به تهدیدات دیجیتال پاسخ دهند. این نهاد می‌تواند قوانین و استانداردهای امنیتی یکپارچه‌ای برای بانک‌ها، شرکت‌های فین‌تک و صرافی‌های رمزارزی تعیین کند. هدف اصلی، جلوگیری از حوادث مشابه و افزایش اعتماد سرمایه‌گذاران به بازارهای مالی است. اگر این طرح تصویب شود، ممکن است سایر کشورها نیز برای تقویت زیرساخت‌های سایبری خود به‌سوی مدل مشابه حرکت کنند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین سایبری مالی",
+    "tag": "سایبرسکیوریتی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+    "clean_url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+    "image": "https://s.yimg.com/bo/1681fec5-cd5a-54fd-b61d-f57e1bfe3f08_1793725527631.jpg",
+    "timestamp": 1793723629.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "da529422de",
+    "title_fa": "‏Amazon ، Tesla و SpaceX به اعتراض‌های توکن‌سازی سهام OKX‑ICE پیوستند",
+    "title_en": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline loo...",
+    "summary": [
+      "‏شرکت‌های Amazon ، Tesla و SpaceX به فهرست اعتراض‌ها به توکن‌سازی سهام OKX‑ICE اضافه شدند",
+      "‏این اعتراض‌ها می‌تواند پیشرفت پروژه توکن‌سازی 56 شرکت را به خطر بیندازد",
+      "‏حدود 80 ٪ از سهام‌های اولیه انتخاب‌شده در این طرح حضور دارند"
+    ],
+    "body_fa": "‏پلتفرم توکن‌سازی سهام مشترک OKX و ICE قصد دارد سهام‌های واقعی را به صورت توکن‌های دیجیتال در بلاکچین عرضه کند. برای استفاده از نام و نمادهای این شرکت‌ها، باید موافقت آن‌ها گرفته شود؛ اما تا کنون 56 شرکت، از جمله Amazon ، Tesla و SpaceX ، اعتراض خود را ثبت کرده‌اند. این اعتراض‌ها تقریباً 80 ٪ از سهام‌های اولیه‌ای که در طرح گنجانده شده بود را شامل می‌شود. مهلت ثبت اعتراض‌ها در حال نزدیک شدن است و اگر تعداد اعتراض‌ها بالا بماند، راه‌اندازی این سرویس ممکن است به تعویق بیفتد. OKX اعلام کرده است که با نهادهای مربوطه در گفتگوست تا راه‌حل‌های ممکن را بررسی کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "توکن‌سازی سهام",
+    "tag": "OKX",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+    "clean_url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+    "image": "https://s.yimg.com/bo/e24d9169-abf2-5880-ae83-8587f87f75f0_1792524372781.jpg",
+    "timestamp": 1793723629.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "4c88393ced",
     "title_fa": "‏دیزنی برنامه‌ریزی کرد برای حذف چند هزار شغل",
     "title_en": "Disney plans several thousand layoffs, asks some managers to cut costs by up to...",
@@ -198,6 +418,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "b7d2eae213",
+    "title_fa": "‏Liquid پس از سرقت ۳۲۰ میلیون توکن‌های BTC را پشتوانه کرد",
+    "title_en": "Liquid’s bitcoin (BTC) IOUs are fully backed again after a $320 million exploit",
+    "summary": [
+      "‏Liquid با انتقال نهایی ۲۵۰ بیت‌کوین، خلأ ناشی از حفره امنیتی ۳۲۰ میلیونی را پر کرد",
+      "‏این کار توکن‌های BTC (IOU) این پلتفرم را دوباره به‌صورت کامل پشتوانه می‌کند",
+      "‏بازگشت اعتماد به Liquid می‌تواند تاثیر مثبت بر بازارهای جانبی بیت‌کوین داشته باشد"
+    ],
+    "body_fa": "‏در سپتامبر ۲۰۲۴، پلتفرم Liquid به دلیل یک باگ امنیتی حدود ۳۲۰ میلیون دلار بیت‌کوین از دست داد و توکن‌های BTC (IOU) خود را به‌طور کامل پشتوانه نداشت. پس از ماه‌ها بررسی و جبران خسارت، در ماه نوامبر ۲۵۰ بیت‌کوین دیگر به شبکه منتقل شد تا خلأ مالی بسته شود. این انتقال نهایی باعث شد تمام توکن‌های BTC صادر شده توسط Liquid دوباره به‌صورت کامل پشتوانه شوند. بازگشت کامل پشتوانه‌گذاری می‌تواند به بهبود اعتماد کاربران و سرمایه‌گذاران در این پلتفرم منجر شود و فشار کمتری بر بازارهای جانبی بیت‌کوین وارد کند. این رویداد نشان‌دهنده اهمیت سرعت واکنش در مواجهه با حوادث امنیتی بزرگ در حوزه رمزارزهاست.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "امنیت",
+    "tag": "Liquid",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+    "image": "https://s.yimg.com/bo/37a8d505-46de-518b-b434-8973dde58e11_1791478888020.jpg",
+    "timestamp": 1793705629.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "524eb67483",
+    "title_fa": "‏پروژه ETHGas بازار مالی وال‌استریت را به اتریوم عمومی می‌آورد",
+    "title_en": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block...",
+    "summary": [
+      "‏ETHGas قصد دارد با فروش پیش‌پرداخت فضای بلاک، سرمایه‌گذاران وال‌استریت را به شبکه عمومی اتریوم جذب کند.",
+      "‏این مدل جدید می‌تواند نقدینگی برای اعتبارسنجان فراهم کند، اما در حال حاضر برای عدم اجرای تعهدات جریمه مالی وجود ندارد.",
+      "‏این ابهام می‌تواند ریسک سرمایه‌گذاران را افزایش دهد."
+    ],
+    "body_fa": "‏پروژه ETHGas قصد دارد با فروش پیش‌پرداخت فضای بلاک به سرمایه‌گذاران، رویکردی شبیه بازارهای وال‌استریت را به زنجیره عمومی اتریوم وارد کند. این روش به اعتبارسنجان (validators) امکان می‌دهد تا پیشاپیش درآمدهای آینده خود را به خریداران بفروشند و به این ترتیب نقدینگی لازم برای عملیات خود را تأمین کنند. اما در حال حاضر، اعتبارسنجانی که نتوانند تعهدات خود را اجرا کنند، تحت هیچ جریمه مالی قرار نمی‌گیرند، که می‌تواند ریسک برای خریداران ایجاد کند. تیم ETHGas می‌گوید با ایجاد مکانیزم‌های نظارتی و قراردادهای هوشمند می‌خواهند این خلا را پر کنند. اگر موفق شوند، این مدل می‌تواند به جذب سرمایه‌گذاری‌های بزرگ به اکوسیستم اتریوم کمک کند و تأثیر قابل‌توجهی بر تأمین مالی لایه‌1 داشته باشد. در عین حال، عدم وجود جریمه‌های قوی ممکن است مانع پذیرش گسترده این محصول شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "مالی و سرمایه‌گذاری",
+    "tag": "ETHGas",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+    "clean_url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+    "image": "https://s.yimg.com/bo/7449a264-5ae2-5e5e-ac05-be069a062f27_1791524001770.jpg",
+    "timestamp": 1793705629.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "60e33bc829",
     "title_fa": "‏پیروزی دمکرات‌ها در انتخابات میانی می‌تواند سهام را فشار دهد",
     "title_en": "Midterm elections could jolt stocks if Democrats sweep Congress",
@@ -217,6 +481,28 @@
     "clean_url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
     "image": "https://s.yimg.com/bo/38256698-15d6-5b8c-9198-47019f734877_1793706765285.jpg",
     "timestamp": 1793704683.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a1928c16ee",
+    "title_fa": "‏تتر 150,000 بیت‌کوین به ارزش 11.5 میلیارد دلار نگه داشته است",
+    "title_en": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+    "summary": [
+      "‏تتر 150,000 بیت‌کوین به ارزش 11.5 میلیارد دلار در تراز خود دارد.",
+      "‏این حجم بزرگ می‌تواند تأثیر قابل‌توجهی بر عرضه بیت‌کوین و قیمت‌های بازار داشته باشد.",
+      "‏جزئیات محل نگهداری این بیت‌کوین‌ها توسط شرکت اعلام نشده است."
+    ],
+    "body_fa": "‏مدیرعامل تتر، Paolo Ardoino ، اعلام کرد که شرکت 150,000 بیت‌کوین به ارزش حدود 11.5 میلیارد دلار در تراز خود دارد. این بیت‌کوین‌ها خارج از ذخایر USDT هستند و به‌نظر می‌رسد بخشی از سرمایه‌گذاری‌های شرکت می‌باشند. محل دقیق نگهداری این دارایی‌ها فاش نشده و سوالاتی درباره شفافیت ایجاد می‌کند. حضور چنین مقدار بزرگی بیت‌کوین در تراز تتر می‌تواند نگرانی یا اطمینان بازار را تحت تأثیر قرار دهد، به‌ویژه در زمان نوسانات قیمت. تحلیل‌گران ممکن است این گام را نشانه‌ای از تقویت توان مالی تتر یا استراتژی سرمایه‌گذاری جدید ببینند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "استیبل‌کوین",
+    "tag": "Tether",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+    "clean_url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+    "image": "https://s.yimg.com/bo/41c698e3-4711-545f-ae2b-cad2f270d2d6_1793703036550.jpg",
+    "timestamp": 1793702029.0,
     "sent_to_telegram": true
   },
   {
@@ -371,6 +657,28 @@
     "clean_url": "https://www.yahoo.com/news/articles/war-widens-black-sea-test-063852245.html",
     "image": "https://media.zenfs.com/en/reuters.com/56278e9716ad3180aa92b88cd579663e.jpg",
     "timestamp": 1793686757.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d3eebec9c3",
+    "title_fa": "‏استخراج‌کننده بیت‌کوین Cipher سود 31 میلیون دلاری گزارش داد",
+    "title_en": "BTC news: Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+    "summary": [
+      "‏استخراج‌کننده بیت‌کوین Cipher در سه ماهه سوم 31 میلیون دلار سود خالص ثبت کرد.",
+      "‏این سود با کاهش 63 درصدی درآمد و بهره‌گیری از سود حسابداری 127 میلیون دلاری حاصل شد.",
+      "‏شرکت همزمان به سمت هوش مصنوعی تغییر مسیر داده و این تحول را به عنوان نقطه عطف می‌داند."
+    ],
+    "body_fa": "‏شرکت استخراج بیت‌کوین Cipher در گزارش مالی سه ماهه سوم اعلام کرد که 31 میلیون دلار سود خالص به دست آورده است. در همین دوره، درآمد شرکت 63 درصد کاهش یافت، اما یک سود حسابداری یک‌بار 127 میلیون دلاری به نتایج مالی کمک کرد. این ترکیب باعث شد که با وجود فشارهای بازار استخراج، شرکت توانسته است به سود برسد. Cipher همچنین اعلام کرد که به‌سرعت به فناوری هوش مصنوعی روی می‌آورد و این تغییر استراتژیک را به عنوان گامی مهم برای آینده می‌بیند. این نتایج نشان می‌دهد که حتی در شرایط دشوار، برخی استخراج‌کنندگان می‌توانند با مدیریت مالی هوشمند و نوآوری‌های فنی عملکرد مثبت داشته باشند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "استخراج بیت‌کوین",
+    "tag": "Cipher",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+    "image": "https://s.yimg.com/bo/7e1c68ac-228e-5f44-ae32-02aae8e11ff6_1793695192062.jpg",
+    "timestamp": 1793684029.0,
     "sent_to_telegram": true
   },
   {
@@ -6289,314 +6597,6 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Stock-Market-Feels-the-Heat-From-High-Oil-Prices.html",
     "image": "https://s.yimg.com/bo/5b070f1a-0e4d-54b0-8263-1af27e9ff74b_1793004932682.jpg",
     "timestamp": 1793003551.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0d85d70348",
-    "title_fa": "‏شرکت Anthropic با رشد درآمد، هزینه‌های محاسبه را بالا می‌برد",
-    "title_en": "Inside Anthropic’s IPO Filing: Soaring Revenue and Rising Computing Costs",
-    "summary": [
-      "‏شرکت Anthropic در سند S‑1 خود اعلام کرد که درآمدش به سرعت رشد کرده و به چند صد میلیون دلار رسیده است.",
-      "‏این رشد با افزایش چشمگیر هزینه‌های محاسبه برای مدل‌های هوش مصنوعی همراه است که می‌تواند سودآوری را تحت فشار قرار دهد.",
-      "‏سند همچنین فهرستی از ریسک‌های سرمایه‌گذاری، از جمله هزینه‌های زیرساختی و رقابت شدید، را فهرست می‌کند."
-    ],
-    "body_fa": "‏شرکت Anthropic که پشت مدل زبانی Claude قرار دارد، در سند S‑1 خود اعلام کرد که درآمدش در سال مالی اخیر به سرعت رشد کرده و به چند صد میلیون دلار رسیده است. این رشد نشان‌دهنده تقاضای فزاینده برای خدمات هوش مصنوعی این شرکت است. با این حال، Anthropic هشدار داد که هزینه‌های محاسبه برای آموزش و اجرای مدل‌های بزرگ به‌طور قابل‌توجهی در حال افزایش است. هزینه‌های زیرساختی و مصرف انرژی بالا می‌تواند حاشیه سود را تحت فشار قرار دهد و برای سرمایه‌گذاران ریسک محسوب شود. سند همچنین فهرستی از ریسک‌های دیگر از جمله رقابت شدید در بازار هوش مصنوعی، وابستگی به تأمین‌کنندگان سخت‌افزار و عدم قطعیت‌های نظارتی ارائه می‌کند. این اطلاعات نشان می‌دهد که اگرچه Anthropic با رشد درآمدی چشمگیر مواجه است، اما مسیر سودآوری آن با چالش‌های هزینه‌ای و رقابتی همراه است.",
-    "category": "تکنولوژی",
-    "subcategory": "عرضه اولیه هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/video/inside-anthropics-ipo-filing-soaring-revenue-and-rising-computing-costs/AA760D63-D498-4B3F-A72E-66BCFD8B6F57",
-    "clean_url": "https://www.wsj.com/video/inside-anthropics-ipo-filing-soaring-revenue-and-rising-computing-costs/AA760D63-D498-4B3F-A72E-66BCFD8B6F57",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793001600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b95b880c7c",
-    "title_fa": "‏شرکت Side با خرید Roboto حضور چین را گسترش داد",
-    "title_en": "Side expands presence in China, opens new studio and acquires art outsourcing provider Roboto Entertainment",
-    "summary": [
-      "‏شرکت Side استودیوی جدیدی در چنگدو افتتاح کرد و شرکت آرت Roboto Entertainment را خریداری کرد.",
-      "‏این گسترش به‌ویژه در بازار بزرگ چین که سال گذشته بیش از 50 میلیارد دلار ارزش داشت، اهمیت دارد.",
-      "‏سرپرست جدید، Andrea Cordella ، به‌عنوان مدیر استودیوی چنگدو منصوب شد."
-    ],
-    "body_fa": "‏شرکت Side ، ارائه‌دهنده خدمات بازی‌سازی، حضور خود در چین را با افتتاح استودیوی جدید در چنگدو و خرید شرکت آرت Roboto Entertainment تقویت کرد. شرکت Roboto که از سال 2014 توسط Andrea Cordella تأسیس شده و در زمینهٔ ساخت محیط و جهان‌سازی برای بازی‌های AAA و AA فعال است، به‌عنوان بخشی از Side به‌کار گرفته می‌شود. سرپرست جدید، Andrea Cordella ، به‌عنوان سرپرست جهانی هنر در Side و مدیر استودیوی چنگدو منصوب شد تا تیم‌های این دفتر را با دفاتر دیگر در شانگهای، آمریکا، اروپا و آسیا هماهنگ کند. این گام در بازاری است که در سال گذشته برای اولین بار ارزش بیش از 50 میلیارد دلار را پشت سر گذاشت و پیش‌بینی می‌شود تا سال 2026 به 53.9 میلیارد دلار برسد. گسترش حضور در چین نشان‌دهنده استراتژی منطقه‌ای Side برای بهره‌برداری از رشد بازیکنان چین که تا 2030 به 769 میلیون می‌رسد، است.",
-    "category": "گیم",
-    "subcategory": "گسترش در چین",
-    "tag": "Side",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment",
-    "clean_url": "https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment",
-    "image": "https://assetsio.gnwcdn.com/side_Q5xVjua.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1792999980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "880e9c01fa",
-    "title_fa": "‏Undead Labs پس از جدایی از Xbox شفافیت کامل به کارکنان داد",
-    "title_en": "\"It was a pretty harrowing three months\" – Undead Labs head Philip Holt on what happened after Xbox cut the studio loose",
-    "summary": [
-      "‏Xbox استودیو Undead Labs را پس از خرید ۲۰۱۸ واگذار کرد؛ مدیرعامل Philip Holt درباره شوک کارکنان گفت.",
-      "‏او با به‌روزرسانی‌های هفتگی شفافیت ایجاد کرد و در نهایت ناشری برای State of Decay 3 با تاریخ ۲۰۲۷ پیدا شد.",
-      "‏این اتفاق نشان داد که حتی استودیوهای پیش‌درآمد می‌توانند با مدیریت شفاف از بحران عبور کنند."
-    ],
-    "body_fa": "‏در ژوئیه ۲۰۲۶، Xbox اعلام کرد که پنج استودیو از جمله Undead Labs را می‌فروشد؛ این استودیو در سال ۲۰۱۸ توسط مایکروسافت خریداری شده بود. Philip Holt ، مدیرعامل Undead Labs ، گفت که پیش از اعلام عمومی کمی هشدار دریافت کرد اما خبر همچنان برای کارکنان شوک‌آور بود و اضطراب بیکاری و عدم تکمیل State of Decay 3 را به‌وجود آورد. برای کاهش نگرانی‌ها، Holt تصمیم گرفت به‌صورت هفتگی به تمام پرسنل وضعیت را گزارش دهد و گفت این شفافیت باعث تقویت اعتماد متقابل شد. ابتدا به دنبال خریدار بودند و حتی به سرمایه‌گذاران برای تأمین نقدینگی مراجعه کردند، اما به دلیل نبود درآمد، تمرکز به جذب پول ناشر تغییر یافت. سرانجام استودیو توانست با ناشری ناشناس قرارداد امضا کند و بازی را برای سال ۲۰۲۷ برنامه‌ریزی کرد. این تجربه نشان می‌دهد که مدیریت باز و صادقانه می‌تواند حتی در شرایط بحرانی، مسیر پیشرفت پروژه‌های بزرگ را حفظ کند.",
-    "category": "گیم",
-    "subcategory": "استودیوهای بازی",
-    "tag": "Undead Labs",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose",
-    "clean_url": "https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose",
-    "image": "https://assetsio.gnwcdn.com/State-of-Decay_aEweQ7w.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1792996260.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ce0819b49f",
-    "title_fa": "‏قیمت بیت‌کوین نزدیک ۸۰٬۰۰۰ دلار ثابت شد",
-    "title_en": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-    "summary": [
-      "‏بیت‌کوین تقریباً ۸۰٬۴۰۰ دلار در حوالی نیمه‌شب UTC ثابت ماند.",
-      "‏این ثبات پیش از تصمیم فدرال‌رزرو درباره نرخ بهره و کاهش قیمت نفت رخ داد.",
-      "‏شاخص DeFi تنها شاخصی بود که رشد کرد و خروج از ETF ها به ۷۷۲ میلیون دلار رسید."
-    ],
-    "body_fa": "‏بیت‌کوین پس از افت به حدود ۷۹٬۳۰۰ دلار در صبح آسیا، در حدود ۸۰٬۴۰۰ دلار ثابت ماند و از نیمه‌شب UTC تغییر چندانی نکرد. شاخص DeFi تنها شاخصی بود که در میان شاخص‌های CoinDesk رشد نشان داد و توکن‌های Uniswap و ethena افزایش یافتند. فدرال‌رزرو که در سپتامبر نرخ بهره را افزایش داده بود، روز چهارشنبه تصمیم نهایی خود را اعلام می‌کند؛ ابزار FedWatch CME احتمال ۹۰٪ عدم تغییر نرخ را نشان می‌دهد. در همین حین، قیمت نفت خام آمریکا حدود ۱۰۱ دلار و برنت حدود ۱۱۰ دلار کاهش یافت، پس از حضور میانجی‌گران قطری در تهران. جریان خروج سرمایه از ETF های بیت‌کوین به ۷۷۲ میلیون دلار رسید، پس از خروج ۱۳۸ میلیون دلاری در روز جمعه. در بازار مشتقات، نوسان باز (OI) به ۱۳۹٫۹ میلیارد دلار افزایش یافت در حالی که حجم معاملات ۱٫۷۸٪ کاهش یافت.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-    "clean_url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bf9272d06a5476928a866fea961f9bba82e9422-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-    "timestamp": 1792988640.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "dbe47afe61",
-    "title_fa": "‏الجزایر برای حفاظت از منافع انرژی‌اش در نیجر نیرو می‌فرستد",
-    "title_en": "Africa's second-strongest military approves first foreign troop deployment in 53 years to protect $13 billion energy interests in Russia-backed Niger",
-    "summary": [
-      "‏پارلمان الجزایر اولین استقرار نظامی خارج از کشور را از سال 1973 تصویب کرد و نیروهایی به نیجر می‌فرستد.",
-      "‏هدف حفاظت از سرمایه‌گذاری‌های 13 میلیارد دلاری در خط لوله گاز ترانس‑صحرایی و زیرساخت‌های انرژی است.",
-      "‏الجزایر قول داد که نیرویش درگیر نباشد و فقط سایت‌های اقتصادی را امن کند."
-    ],
-    "body_fa": "‏پارلمان الجزایر در ۲۵ اکتبر ۲۰۲۶ تصمیم گرفت برای اولین بار از سال ۱۹۷۳، نیروهای نظامی خود را به نیجر اعزام کند. این استقرار به منظور حفاظت از منافع اقتصادی و انرژی‌الجزایر، به‌ویژه سرمایه‌گذاری‌های ۱۳ میلیارد دلاری در پروژه پیشنهادی خط لوله گاز ترانس‑صحرایی است که گاز نیجریه را از طریق نیجر به الجزایر و سپس به بازارهای اروپایی می‌رساند. مقامات الجزایری تأکید کردند که نیروها درگیر جنگ نخواهند شد و صرفاً مسئول تأمین امنیت زیرساخت‌های اقتصادی خواهند بود. این تصمیم پس از تقویت همکاری نظامی میان الجزایر و نیجر و افزایش روابط نیجر با روسیه اتخاذ شد. همچنین، الجزایر پیش از این چهار هلیکوپتر به نیجر اهدا کرده بود تا روابط دفاعی دو کشور را تقویت کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "استقرار نظامی",
-    "tag": "الجزایر",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Business Insider Africa",
-    "url": "https://africa.businessinsider.com/local/markets/africas-second-strongest-military-approves-first-foreign-troop-deployment-in-53-years/3v2jhle",
-    "clean_url": "https://africa.businessinsider.com/local/markets/africas-second-strongest-military-approves-first-foreign-troop-deployment-in-53-years/3v2jhle",
-    "image": "https://ocdn.eu/pulscms-transforms/1/jysktkuTURBXy8wMzVjOTQ5ZC1mNzMyLTQ3YTMtYWQxZi1jNDc2MWY1NDBmYjEuanBlZ5KVAwDM2M0PAM0IcJMFzQSwzQJ2",
-    "timestamp": 1792987860.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "dedd4b2b8c",
-    "title_fa": "‏فدرال رزرو این هفته نرخ بهره را ثابت می‌گذارد",
-    "title_en": "Roger Ferguson: Fed likely to hold rates this week, but two hikes are necessary to tackle inflation",
-    "summary": [
-      "‏رابرت فِرگوسن، معاون پیشین فدرال رزرو، پیش‌بینی کرد این هفته نرخ بهره ثابت بماند",
-      "‏او افزود برای مهار تورم دو افزایش نرخ در آینده ضروری است",
-      "‏این اظهارات می‌تواند انتظارات بازارهای مالی را تحت تأثیر قرار دهد"
-    ],
-    "body_fa": "‏رابرت فِرگوسن، معاون پیشین فدرال رزرو، در برنامهٔ Squawk Box دربارهٔ نشست دو روزهٔ این هفته بانک مرکزی اظهار کرد که احتمالاً نرخ بهره در این جلسه ثابت می‌ماند. او گفت که برای کاهش فشارهای تورمی دو افزایش نرخ بهره در آینده لازم است. فِرگوسن به وضعیت فعلی اقتصاد اشاره کرد که رشد کند و فشارهای قیمتی همچنان بالا هستند. او افزود که اگرچه بانک مرکزی تمایل به حفظ ثبات کوتاه‌مدت دارد، اما برای رسیدن به هدف تورمی ۲٪ باید سیاست‌های سختگیرانه‌تری اتخاذ شود. این نظرات می‌تواند انتظارات سرمایه‌گذاران را شکل داده و نوسان‌های کوتاه‌مدت در بازارهای سهام و اوراق قرضه را تحریک کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "نرخ بهره",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/video/2026/10/26/roger-ferguson-fed-likely-to-hold-rates-this-week-but-two-hikes-are-necessary-to-tackle-inflation.html",
-    "clean_url": "https://www.cnbc.com/video/2026/10/26/roger-ferguson-fed-likely-to-hold-rates-this-week-but-two-hikes-are-necessary-to-tackle-inflation.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108463556-17930110111793011008-49241174505-1080pnbcnews.jpg?v=1793011011&w=1920&h=1080",
-    "timestamp": 1792986540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b7cf94977d",
-    "title_fa": "‏فدرال‌رزرو احتمالاً نرخ بهره را ثابت نگه می‌دارد",
-    "title_en": "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them",
-    "summary": [
-      "‏فدرال‌رزرو تصمیم گرفته است نرخ بهره را در جلسه آینده ثابت نگه دارد.",
-      "‏این تصمیم به دلیل فشارهای سیاسی پیش‌دست انتخابات میانی و عدم تمایل به شوک ناگهانی بازار است.",
-      "‏حتی با داده‌های تورمی قوی‌تر، احتمال افزایش ناگهانی کاهش یافته است."
-    ],
-    "body_fa": "‏فدرال‌رزرو در جلسه ماه مه تصمیم گرفته است نرخ بهره را همان‌طور که در ماه‌های اخیر ثابت نگه داشته، ادامه دهد. اعضای کمیته با وجود گزارش‌های جدید تورمی که نشانگر فشارهای قیمتی بیشتر هستند، به توصیه صبر و ثبات پایبند هستند. نزدیک شدن به انتخابات میانی در ایالات متحده باعث می‌شود که هرگونه تغییر ناگهانی در سیاست پولی می‌تواند واکنش‌های سیاسی و بازار را تحریک کند. به همین دلیل، حتی اگر داده‌های اقتصادی زمینه‌ای برای افزایش نرخ فراهم کنند، احتمال اجرای یک افزایش ناگهانی کاهش یافته است. این تصمیم می‌تواند به تثبیت بازارهای مالی جهانی کمک کند و فشارهای نقدینگی را در سطوح فعلی حفظ نماید.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "نرخ بهره",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/economy/central-banking/why-the-fed-is-expected-to-hold-rates-steady-despite-a-case-for-raising-them-3761e47f",
-    "clean_url": "https://www.wsj.com/economy/central-banking/why-the-fed-is-expected-to-hold-rates-steady-despite-a-case-for-raising-them-3761e47f",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792985400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "59f8365a22",
-    "title_fa": "‏ترامپ دربارهٔ قیمت بنزین پس از جنگ با ایران گفت",
-    "title_en": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
-    "summary": [
-      "‏ترامپ اعلام کرد که جنگ با ایران باعث افزایش شدید قیمت بنزین و هزینه‌های انرژی شده است.",
-      "‏این موضوع فشار بر حمایت جمهوری‌خواهان در کنگره را افزایش می‌دهد و به انتقادات اقتصادی منجر می‌شود.",
-      "‏ترامپ تلاش می‌کند با سیاست‌های انرژی خود این نگرانی‌ها را کاهش دهد."
-    ],
-    "body_fa": "‏در بیانیه‌ای که به رسانه‌ها ارائه داد، رئیس‌جمهور ایالات متحده دونالد ترامپ گفت که جنگ با ایران که هشت ماه پیش آغاز شد، منجر به افزایش چشمگیر قیمت بنزین و هزینه‌های انرژی در آمریکا شده است. ترامپ افزود که این افزایش قیمت‌ها باعث فشار بر رأی‌دهندگان جمهوری‌خواه و تهدید توانایی حزب برای حفظ اکثریت در کنگره شده است. وی تأکید کرد که دولت باید اقدامات موثری برای کنترل هزینه‌های انرژی اتخاذ کند تا از نارضایتی عمومی جلوگیری شود. به گفته ترامپ، سیاست‌های انرژی قبلی و تحریم‌های اعمال‌شده بر ایران نقش مهمی در این وضعیت داشته‌اند. تحلیل‌گران بر این باورند که این بیانیه می‌تواند به تقویت فشارهای سیاسی بر دولت و تغییر استراتژی‌های اقتصادی منجر شود.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "قیمت انرژی",
-    "tag": "قیمت_بنزین",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Associated Press News",
-    "url": "https://apnews.com/article/trump-oil-gas-prices-midterms-iran-war-0ca3059bb35a0f70e15eb0ccb9c207c5",
-    "clean_url": "https://apnews.com/article/trump-oil-gas-prices-midterms-iran-war-0ca3059bb35a0f70e15eb0ccb9c207c5",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792985100.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4fb960c922",
-    "title_fa": "‏بانک‌های وال‌استریت می‌خواهند دمکرات‌ها از تسهیل سرمایه‌ای حمایت کنند",
-    "title_en": "Why Wall Street banks want Democrats to back their capital relief",
-    "summary": [
-      "‏بانک‌های بزرگ وال‌استریت به‌دنبال کاهش الزامات سرمایه‌ای هستند",
-      "‏برای ماندگار شدن این تسهیل، نیاز به حمایت دمکرات‌ها دارند",
-      "‏این تغییرات می‌تواند ریسک سیستمیک و هزینه‌های وام‌دهی را تحت تأثیر قرار دهد"
-    ],
-    "body_fa": "‏در زیر نظر مقررات‌گذاران جمهوری‌خواه دولت ترامپ، بانک‌های وال‌استریت انتظار دارند قوانین سرمایه‌ای خود را تسهیل کنند. این اقدام می‌تواند فشارهای سرمایه‌ای را کاهش داده و سودآوری بانک‌ها را ارتقا دهد. اما برای اطمینان از دوام این تغییرات، بانک‌ها به حمایت دمکرات‌ها در کنگره نیاز دارند. نمایندگان دمکراتی به‌دلیل نگرانی‌های مربوط به ثبات مالی، هنوز نسبت به این تسهیل محتاط هستند. در نتیجه، بانک‌ها در حال فشار آوردن برای یک توافق دوحزبی هستند تا اصلاحات قانونی به‌صورت پایدار اجرا شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قوانین بانکی",
-    "tag": "سرمایه‌بانکی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/why-wall-street-banks-want-democrats-back-their-capital-relief-2026-10-26/",
-    "clean_url": "https://www.reuters.com/legal/transactional/why-wall-street-banks-want-democrats-back-their-capital-relief-2026-10-26",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792983840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0643666cc9",
-    "title_fa": "‏سهام وال‌استریت با ثبت IPO شرکت Anthropic صعود کرد",
-    "title_en": "Wall St rises as Anthropic's IPO filing sharpens focus on AI trade",
-    "summary": [
-      "‏شرکت Anthropic برای عرضه عمومی سهام (IPO) درخواست داد و این خبر بازارهای آمریکا را به‌سوی صعود سوق داد.",
-      "‏این حرکت سرمایه‌گذاران را در حوزه هوش مصنوعی متمرکز کرد، در حالی که هفته با گزارش‌های سودآوری شرکت‌ها و تصمیم نرخ بهره فدرال‌رزرو همراه است.",
-      "‏صعود اولیه شاخص S&P 500 نشان از تمایل بازار به ریسک‌پذیری دارد."
-    ],
-    "body_fa": "‏شرکت Anthropic ، یکی از رقبای پیشرو در زمینه هوش مصنوعی، پرونده‌ای برای عرضه عمومی سهام (IPO) به سازمان‌های نظارتی آمریکا ارائه داد. این خبر باعث شد که بازارهای سهام آمریکا، به‌ویژه شاخص S&P 500 ، در صبح دوشنبه با افزایش آغاز کنند. سرمایه‌گذاران به‌دنبال فرصت‌های جدید در بخش هوش مصنوعی بودند و این IPO توجه آن‌ها را به خود جلب کرد. همزمان، هفته تجاری با انتشار گزارش‌های سودآوری شرکت‌های بزرگ و تصمیم فدرال‌رزرو درباره نرخ بهره همراه است که می‌تواند نوسانات بیشتری ایجاد کند. تحلیل‌گران پیش‌بینی می‌کنند اگر Anthropic بتواند در بازار عمومی موفق شود، ممکن است فشار بر سایر شرکت‌های AI برای تسریع در برنامه‌های عمومی‌سازی افزایش یابد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای مالی",
-    "tag": "IPO",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/us-stock-futures-edge-up-oil-falls-heading-into-earnings-barrage-2026-10-26/",
-    "clean_url": "https://www.reuters.com/business/us-stock-futures-edge-up-oil-falls-heading-into-earnings-barrage-2026-10-26",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792983720.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9447390078",
-    "title_fa": "‏شرکت OPay برای ۳۶۶ میلیون دلار در نیویورک IPO می‌کند",
-    "title_en": "Nigeria-focused OPay seeks $366 million in New York IPO at $4.4 billion valuation as Standard Bank commits up to $200 million",
-    "summary": [
-      "‏شرکت OPay fintech نیجریه‌محور برای عرضه NY IPO بین ۱۹ تا ۲۱ دلار، تا ۳۶۶ میلیون دلار جذب سرمایه می‌کشد.",
-      "‏این عرضه ارزش شرکت را به ۴.۴ میلیارد دلار می‌رساند و استاندارد بانک تا ۲۰۰ میلیون دلار سرمایه‌گذاری خصوصی می‌کند.",
-      "‏سرمایه‌های جمع‌آوری‌شده برای فناوری، توزیع، محصولات جدید و گسترش بازار استفاده خواهد شد."
-    ],
-    "body_fa": "‏شرکت OPay ، فین‌تک پیشرو در نیجریه، قصد دارد با عرضه ۱۶ میلیون American Depositary Share در بورس نیویورک، بین ۱۹ تا ۲۱ دلار هر سهم، حداکثر ۳۶۶ میلیون دلار جمع‌آوری کند. این عرضه ارزش شرکت را به حدود ۴.۴ میلیارد دلار می‌رساند؛ عددی که بیش از دو برابر ارزیابی ۲ میلیارد دلاری در دورهٔ جذب ۴۰۰ میلیون دلاری سال ۲۰۲۱ است. به‌علاوه، Stanbic Africa Holdings ، زیرمجموعه‌ای از Standard Bank ، موافقت کرده تا حداکثر ۲۰۰ میلیون دلار از طریق یک قرار خصوصی خریداری کند، هرچند این مبلغ تحت محدودیت‌های نظارتی و حداکثر مالکیت ۴.۹۹٪ پس از لیستینگ قرار دارد. دو طرف در ماه اوت یک تفاهم‌نامه برای همکاری در حوزه‌های بانکداری دیجیتال، پرداخت، وام و خدمات تجاری امضا کرده‌اند که می‌تواند دسترسی Standard Bank به شبکه مصرف‌کنندگان و تجار OPay را گسترش دهد. درآمد نیمه‌سال ۲۰۲۶ OPay تقریباً ۹۰٪ در نیجریه تولید شد و شرکت برنامه دارد تا پس از IPO ، بخشی از سهام را در بورس نیجریه نیز فهرست کند. سرمایه‌های جذب‌شده برای توسعه فناوری، گسترش توزیع، معرفی محصولات جدید و امکان خریدهای احتمالی مورد استفاده قرار خواهند گرفت.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "فین‌تک آفریقا",
-    "tag": "OPay IPO",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Business Insider Africa",
-    "url": "https://africa.businessinsider.com/local/markets/nigeria-focused-opay-seeks-dollar366-million-in-new-york-ipo-at-dollar44-billion/nxgmqy6",
-    "clean_url": "https://africa.businessinsider.com/local/markets/nigeria-focused-opay-seeks-dollar366-million-in-new-york-ipo-at-dollar44-billion/nxgmqy6",
-    "image": "https://ocdn.eu/pulscms-transforms/1/9w6ktkqTURBXy9mNzM2NGUxYWQ2MDVhOTg4MDUzMjExN2U3YzQ2NGIyYS5qcGVnkpUDAAHNArjNAYiTBc0EsM0Cdg",
-    "timestamp": 1792971780.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a0fbdc4ec4",
-    "title_fa": "‏قیمت نفت رشد کرد؛ صادرات خلیج فارس افزایش یافت",
-    "title_en": "Oil Prices Rise Despite Middle East Export Recovery | OilPrice.com",
-    "summary": [
-      "‏قیمت نفت در اوایل اکتبر افزایش یافت، در حالی که صادرات نفت از خلیج فارس به 11.7 میلیون بشکه روزانه رسید.",
-      "‏اما حملات به تانکرها در هرمز افزایش یافته و ترافیک کشتی‌های نفتی 27 ٪ کاهش یافت، که نوسان عرضه را تقویت می‌کند.",
-      "‏این تضاد داده‌ها امنیت تأمین نفت خاورمیانه را زیر سؤال می‌برد."
-    ],
-    "body_fa": "‏در اوایل اکتبر، قیمت نفت به دلیل نگرانی‌های تأمین، افزایش یافت، هرچند جریان‌های صادراتی از خلیج فارس بهبود یافته بود. داده‌های Kpler نشان می‌دهد صادرات نفت از خلیج هر روز به‌طور متوسط 11.7 میلیون بشکه شد، که نزدیک به سطح پیش‌جنگی است. در عین حال، حملات ایران به تانکرها در هرمز شدت یافت؛ برآوردها حداقل ۲۵ کشتی را در ۲۰ روز اول ماه هدف قرار داده‌اند. این حملات باعث کاهش ۲۷ درصدی عبور نفت از هرمز به حدود ۱۰.1 میلیون بشکه در روز شد، که کمترین میزان از ژوئیه است. به‌دلیل این تضاد بین افزایش صادرات و کاهش ترافیک کشتی‌ها، بازار نفت هنوز نمی‌تواند اطمینان کامل به ثبات عرضه پیدا کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "نفت",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
-    "clean_url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
-    "image": "https://s.yimg.com/bo/2cc5399b-e697-5179-9b31-2993153d171a_1792970558635.jpg",
-    "timestamp": 1792967551.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "339d867227",
-    "title_fa": "‏قیمت بیت‌کوین زیر ۸۰٬۰۰۰ دلار افت کرد",
-    "title_en": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-    "summary": [
-      "‏بیت‌کوین حدود ۷۹٬۸۰۰ دلار شد و زیر ۸۰٬۰۰۰ دلار سقوط کرد.",
-      "‏معامله‌گران پیش از نشست فدرال رزرو ریسک را کاهش دادند، که می‌تواند نقدینگی رمزارزها را فشار دهد.",
-      "‏ایتر و XRP نیز به ترتیب حدود ۳٪ و ۳٪ کاهش یافتند."
-    ],
-    "body_fa": "‏بیت‌کوین در صبح دوشنبه آسیایی به حدود ۷۹٬۸۰۰ دلار سقوط کرد و برای اولین بار زیر ۸۰٬۰۰۰ دلار قرار گرفت. این افت تقریباً ۲٪ است و همزمان با کاهش ریسک سرمایه‌گذاران پیش از نشست فدرال رزرو در روز چهارشنبه رخ داد. معامله‌گران به دنبال نشانه‌ای از احتمال افزایش نرخ بهره در دسامبر هستند که می‌تواند نقدینگی را محدود کند و فشار بیشتری بر رمزارزها و سهام وارد کند. در همین زمان، ایتر به حدود ۲٬۳۰۰ دلار و XRP به ۱٫۲۸ دلار سقوط کردند؛ سایر توکن‌های اصلی نیز بین ۱ تا ۲٪ کاهش یافتند. جف می، مدیر عملیات صرافی BTSE ، گفت انتظار می‌رود فدرال رزرو این هفته نرخ را تغییر ندهد اما هر اشاره‌ای به افزایش در دسامبر می‌تواند بازارهای ریسک‌پذیر را تحت فشار قرار دهد. علاوه بر این، فروش سهام فناوری در آسیا و کاهش هدف گلدمن ساکس برای کوسپی کره جنوبی نیز به تضعیف احساسات مثبت کمک کرد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-    "clean_url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f7711f978a2d69fe002fffabb76faa6278fb0b5e-1512x844.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-    "timestamp": 1792964220.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8f0802afc6",
-    "title_fa": "‏متا ۹۵ میلیارد دلاری سهام برای هوش مصنوعی عرضه می‌کند",
-    "title_en": "Meta plans $95bn stock offering to bankroll AI expansion",
-    "summary": [
-      "‏متا برنامه‌ریزی کرده ۹۵ میلیارد دلار سهام جدید منتشر کند تا سرمایه‌گذاری در هوش مصنوعی را تامین کند",
-      "‏این اقدام می‌تواند ارزش بازار متا را تقویت کرده و رقابت در حوزه AI را تشدید کند",
-      "‏اگر موفق شود، می‌تواند یکی از بزرگ‌ترین عرضه‌های سهام تاریخ فناوری باشد"
-    ],
-    "body_fa": "‏متا قصد دارد با عرضه سهام جدید به ارزش ۹۵ میلیارد دلار، سرمایه لازم برای گسترش پروژه‌های هوش مصنوعی خود را جمع‌آوری کند. این طرح در پی افزایش هزینه‌های تحقیق و توسعه در زمینه مدل‌های زبانی بزرگ و زیرساخت‌های پردازشی ارائه شده است. عرضه سهام می‌تواند باعث افزایش سرمایه بازار شرکت شود، اما در عین حال فشار بر قیمت هر سهم موجود را به‌وجود آورد. تحلیل‌گران پیش‌بینی می‌کنند این حرکت، متا را در رقابت با شرکت‌های دیگر فناوری مانند Google و Microsoft در حوزه AI تقویت می‌کند. در صورت موفقیت، این بزرگ‌ترین عرضه سهام در تاریخ فناوری محسوب خواهد شد.",
-    "category": "تکنولوژی",
-    "subcategory": "سرمایه‌گذاری فناوری",
-    "tag": "Meta",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792962900.0,
     "sent_to_telegram": true
   }
 ]
