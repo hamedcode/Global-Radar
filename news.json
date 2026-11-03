@@ -1,5 +1,27 @@
 [
   {
+    "id": "8ce3d1858b",
+    "title_fa": "‏بازار سهام به نتایج اپل و انتخابات میانی واکنش می‌دهد",
+    "title_en": "S&P 500 futures are flat as investors weigh Apple earnings; U.S. midterm...",
+    "summary": [
+      "‏سهام اپل پس از پیش‌بینی حاشیه ضعیف و فروش iPad کمتر از انتظار، ۲٪ در معاملات پس از بسته شدن کاهش یافت.",
+      "‏این خبر باعث شد قراردادهای آتی S&P 500 تقریباً ثابت بمانند و سرمایه‌گذاران به انتخابات میانی آمریکا چشم دوخته‌اند.",
+      "‏اوراکل نیز برای توسعه هوش مصنوعی، ۲۰ میلیارد دلار سهام و اوراق قرضه جدید منتشر کرد."
+    ],
+    "body_fa": "‏قراردادهای آتی شاخص S&P 500 در شب دوشنبه تقریباً ثابت ماندند؛ سرمایه‌گذاران در حال ارزیابی گزارش مالی سه ماهه Apple بودند. اپل پس از اعلام پیش‌بینی حاشیه سود پایین‌تر از انتظار و فروش iPad که کمتر از تخمین‌ها بود، سهام خود را ۲٪ در معاملات پس از بسته شدن کاهش داد. در عین حال، قراردادهای آتی Dow Jones ۲۴ امتیاز و Nasdaq‑100 ۰٫۳٪ افزایش یافتند. مارول تکنولوژی پس از اعلام خرید Lumentum در معامله‌ای به ارزش ۱۱۵ میلیارد دلار، سهام خود را ۱۲٪ و Lumentum را ۱۸٪ سقوط داد. اوراکل نیز برنامه‌اش برای فروش ۱۰ میلیارد دلار سهام عادی و ۱۰ میلیارد دلار اوراق قرضه به منظور تأمین مالی گسترش هوش مصنوعی را اعلام کرد که منجر به کاهش ۸٪ سهامش شد. سرمایه‌گذاران در انتظار انتخابات میانی ایالات متحده هستند؛ پیش‌بینی‌ها نشان می‌دهد دمکرات‌ها احتمالاً در سنا برتری خواهند داشت که می‌تواند فشار بر سهام هوش مصنوعی وارد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "Apple",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+    "clean_url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+    "image": "https://s.yimg.com/bo/3a68840d-ca82-5664-8543-abc5c3207ba9_1793662048694.jpg",
+    "timestamp": 1793660959.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b79e7d6b23",
     "title_fa": "‏رکو سود پیش‌بینی را شکست، پیش از خرید فاکس",
     "title_en": "Earnings live updates: Roku posts earnings beat ahead of acquisition by Fox",
@@ -41,6 +63,28 @@
     "clean_url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware",
     "image": "https://s.yimg.com/bo/51bdcf2b-51a5-5d70-90bb-aeb42abdad2d_1793650104490.jpg",
     "timestamp": 1793647733.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "64564b9e00",
+    "title_fa": "‏تجارت‌گران گزینه‌ها پیش از گزارش Apple و Palantir نگران‌اند",
+    "title_en": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
+    "summary": [
+      "‏گزینه‌سازان پیش از گزارش‌های مالی Apple و Palantir حجم بالایی از پوت‌ها خریدند.",
+      "‏این نشان می‌دهد انتظار افت یا نوسان شدید در سهام پس از اعلام سود است.",
+      "‏قیمت پوت‌های Apple به صدک 86 سالانه و Palantir به صدک 97 رسیده است."
+    ],
+    "body_fa": "‏داده‌های Cboe LiveVol نشان می‌دهد تا ظهر دوشنبه حدود 620,000 گزینهٔ Apple معامله شده که 385,000 آن پوت بوده و فقط 64,000 کال خریداری شده‌اند. قیمت پوت‌های Apple به صدک 86 سالانه رسیده، در حالی که کال‌ها در صدک 51 قرار دارند. برای Palantir نیز حجم پوت‌ها بیش از کال‌هاست و قیمت پوت‌ها در صدک 97 سالانه است؛ کال‌ها در صدک 76 هستند. بازارسازان برای Apple حرکت ضمنی حدود 4 ٪ و برای Palantir 11.5 ٪ پیش‌بینی می‌کنند، که هر دو بالاتر از متوسط دو سال گذشته هستند. بزرگ‌ترین معاملهٔ روز Palantir خرید 750 پوت 250‑strike با ارزش 5.1 میلیون دلار بود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازارهای مالی",
+    "tag": "options",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+    "clean_url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+    "image": "https://s.yimg.com/bo/6afd7922-43c0-51cb-af3c-c91654a45be5_1792385543470.jpg",
+    "timestamp": 1793642599.0,
     "sent_to_telegram": true
   },
   {
@@ -88,6 +132,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1db68ad5c8",
+    "title_fa": "‏Nvidia ، Costco و Nike از توکن‌سازی سهام OKX–ICE انصراف دادند",
+    "title_en": "Nvidia (NVDA), Costco (COST), Nike (NKE) join OKX–ICE tokenized stock objections...",
+    "summary": [
+      "‏Nvidia ، Costco و Nike به همراه ۱۶ شرکت دیگر از برنامه توکن‌سازی سهام OKX–ICE انصراف دادند.",
+      "‏این خروج نشان‌دهنده فشار بر پروژه‌های توکن‌سازی سهام و احتمالاً مانع پذیرش گسترده آن‌ها می‌شود.",
+      "‏حدود ۷۰٪ شرکت‌های اولیه نیز تصمیم به عدم مشارکت گرفتند."
+    ],
+    "body_fa": "‏پلتفرم توکن‌سازی سهام OKX–ICE برای ارائه سهام دیجیتالی به سرمایه‌گذاران نیاز به موافقت شرکت‌های منتشرکننده دارد. در هفته اخیر، ۱۹ شرکت بزرگ از جمله Nvidia ، Costco و Nike اعلام کردند که از این برنامه انصراف می‌دهند. این تصمیم‌ها در کنار خروج حدود ۷۰٪ از شرکت‌های اولیه نشان‌دهنده نگرانی‌های قانونی و تجاری درباره توکن‌سازی سهام است. فشارهای ناشی از عدم پذیرش توسط شرکت‌های بزرگ می‌تواند سرعت رشد این نوع دارایی‌های دیجیتال را کاهش دهد و بازارهای کریپتو را تحت تأثیر قرار دهد. در عین حال، این رویداد نشان می‌دهد که همکاری بین صرافی‌های کریپتو و بازارهای سنتی هنوز با موانع مهمی مواجه است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "توکن‌سازی سهام",
+    "tag": "توکن‌سازی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+    "clean_url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+    "image": "https://s.yimg.com/bo/7fb90f46-c1d2-5c34-945e-94ec82938ac6_1793633910082.png.cf.jpg",
+    "timestamp": 1793631799.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0b9786cc95",
+    "title_fa": "‏قیمت طلا پس از انتخابات آمریکا زیر ۴۰۰۰ دلار شد",
+    "title_en": "Gold Investors Rocked by Wipeout, Seek Firmer Footing After Vote",
+    "summary": [
+      "‏قیمت طلا به زیر ۴۰۰۰ دلار رسید و تا کنون بیش از ۸٪ در سال ۲۰۲۶ کاهش یافته است",
+      "‏کاهش ناشی از افزایش بازده واقعی، تقویت دلار و انتظارات افزایش نرخ بهره است",
+      "‏تحلیل‌گران معتقدند پس از انتخابات میانه‌دوره ممکن است طلا دوباره جذاب شود"
+    ],
+    "body_fa": "‏قیمت طلا در اوایل سال ۲۰۲۶ به بالای ۵٬۵۰۰ دلار ارتقا یافت اما امروز زیر ۴٬۰۰۰ دلار معامله می‌شود، یعنی بیش از ۸٪ کاهش سالانه که بدترین ضرر سالانه در بیش از یک دهه است. این افت به دلیل رشد سریع بازده واقعی اوراق قرضه، تقویت دلار و انتظارات بازار برای افزایش نرخ بهره ناشی از رونق هوش مصنوعی و اقتصاد مقاوم است. انتخابات میانه‌دوره ایالات متحده که امروز برگزار شد، می‌تواند روایت اقتصادی را به سمت تورم و بدهی‌های دولتی سوق دهد و طلا را دوباره به عنوان پناهگاه امن برگرداند. اگر نتایج مشابه سال ۲۰۱۹ باشد، ممکن است ضعف فعلی طلا در سال ۲۰۲۷ معکوس شود. تحلیل‌گران به این نکته اشاره کردند که اگر کنگره تحت کنترل دموکرات‌ها باشد، احتمالاً هزینه‌های دولت محدود می‌شود که می‌تواند فشار بر بازده واقعی را کاهش دهد و تقاضای طلا را تقویت کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/gold-investors-rocked-wipeout-seek-150623297.html",
+    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/gold-investors-rocked-wipeout-seek-150623297.html",
+    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/5370e8ad68e079ef6ea2a796dca36f3a.jpg",
+    "timestamp": 1793631795.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1a5db7823e",
     "title_fa": "‏Apple در گزارش ترنوس، درآمد بالا ولی رشد سالانه کمتر",
     "title_en": "Apple beats on quarterly revenue in CEO John Ternus' first earnings report: Live updates",
@@ -129,6 +217,28 @@
     "clean_url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
     "image": "https://image.cnbcfm.com/api/v1/image/103097578-GettyImages-493449710.jpg?v=1762199297&w=1920&h=1080",
     "timestamp": 1793626500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "44a3211b87",
+    "title_fa": "‏نزدیک شدن نازدارک به افت 1.1% پس از فشار فناوری",
+    "title_en": "Markets News, Nov. 2, 2026: Nasdaq Slides as Tech Sell-Off Resumes; Oil Prices...",
+    "summary": [
+      "‏نازدارک 1.1% کاهش یافت و سومین روز پی‌درپی سقوط شد",
+      "‏این افت نشانگر فشار فروش سهام هوش مصنوعی و نگرانی‌های بازار است",
+      "‏همزمان قیمت نفت به 95.80 دلار سقوط کرد و نگرانی‌های جنگ ایران‑امریکا کاهش یافت"
+    ],
+    "body_fa": "‏دوشنبه بازارهای اصلی آمریکا ترکیبی از عملکردهای متفاوت نشان داد؛ نازدارک 1.1% کاهش یافت در حالی که داو 0.4% رشد کرد. این سومین روز پی‌درپی سقوط نازدارک بود و در اکتبر بزرگ‌ترین کاهش یک‑ماه خود را از مارس 2025 تجربه کرده بود. فشار فروش سهام هوش مصنوعی، به‌ویژه پس از نتایج مالی اخیر Alphabet و Intel ، شاخص فناوری S&P 500 را 2.7% پایین آورد. در عین حال، قیمت نفت خام WTI به 95.80 دلار سقوط کرد، چرا که دولت آمریکا اعلام کرد ترجیح می‌دهد به‌صورت مسالمت‌آمیز به بحران خاورمیانه پایان دهد. این کاهش قیمت انرژی باعث شد شاخص انرژی S&P 500 4% کاهش یابد، در حالی که سهام حمل‌ونقل به دلیل قیمت پایین نفت افزایش یافت. سرمایه‌گذاران همچنین منتظر گزارش‌های مالی Apple و Palantir بودند که پس از بسته شدن بازار منتشر می‌شوند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازارهای سهام",
+    "tag": "Nasdaq",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Investopedia · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-rise-132700950.html",
+    "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-rise-132700950.html",
+    "image": "https://media.zenfs.com/en/investopedia_245/74cdbf6a4801b5e5e1aaccb64a8aa8d6.jpg",
+    "timestamp": 1793624595.0,
     "sent_to_telegram": true
   },
   {
@@ -6486,116 +6596,6 @@
     "clean_url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792890900.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7264bca305",
-    "title_fa": "‏رشد سودها به‌طور عمده به ده سهم هوش مصنوعی است",
-    "title_en": "The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks",
-    "summary": [
-      "‏ده شرکت بزرگ، از جمله Nvidia و Micron ، حدود دو‑سوم رشد سودهای کل شرکت‌ها را تشکیل می‌دهند.",
-      "‏این تمرکز نشان می‌دهد که رونق سودها به‌طور عمده به هوش مصنوعی وابسته است و ریسک بازار را افزایش می‌دهد.",
-      "‏اگر تقاضای AI کاهش یابد، ممکن است رشد سودهای کلی کاهش یابد."
-    ],
-    "body_fa": "‏گزارش‌های اخیر نشان می‌دهد که تنها ده شرکت، عمدتاً فعال در حوزه هوش مصنوعی، حدود دو‑سوم کل سودهای شرکتی در ایالات متحده را به خود اختصاص داده‌اند. این شرکت‌ها شامل Nvidia ، Micron و سایر غول‌های چیپ‌ساز AI هستند که در سه‌ماهه اخیر سودهای خود را به‌طور چشمگیری افزایش داده‌اند. تحلیل‌گران هشدار می‌دهند که این تمرکز شدید می‌تواند نشانگر ناپایداری باشد؛ هرگونه کاهش در تقاضای پردازش‌های AI می‌تواند به سرعت بر رشد کلی سودها اثر منفی بگذارد. به‌علاوه، این وضعیت باعث شده است که شاخص‌های بازار به‌طور غیرمتناسبی به عملکرد این سهام حساس شوند. سرمایه‌گذاران ممکن است برای کاهش ریسک، تنوع‌بخشی بیشتری به سبدهای خود اعمال کنند. در مجموع، این وابستگی به تعداد کمی از سهام نشان می‌دهد که رونق سودهای کل بازار ممکن است ناپایدار باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سودهای شرکتی",
-    "tag": "هوش‌مصنوعی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
-    "clean_url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
-    "image": "https://s.yimg.com/bo/33adf0d0-b8f8-5f6f-9ac2-dbde259794cc_1792891178900.jpg",
-    "timestamp": 1792890538.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cab0ddcc39",
-    "title_fa": "‏ساخت نخستین کارخانه خودروسازی Audi در آمریکا اعلام شد",
-    "title_en": "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
-    "summary": [
-      "‏شرکت Audi برای نخستین بار یک کارخانه تولیدی در ایالت Georgia آمریکا احداث می‌کند.",
-      "‏این تصمیم در پی تشدید سیاست‌های تعرفه‌ای Donald Trump و برای جبران کاهش فروش جهانی گرفته شده است.",
-      "‏بازار آمریکا اکنون به کانون اصلی برنامه‌های توسعه این برند لوکس آلمانی تبدیل شده است."
-    ],
-    "body_fa": "‏شرکت خودروسازی آلمانی Audi قصد دارد نخستین کارخانه تولیدی خود در خاک آمریکا را در ایالت Georgia تاسیس کند؛ خبری که توسط Donald Trump اعلام شد. این برند لوکس آلمانی در پی تشدید فشارهای ناشی از تعرفه‌های تجاری آمریکا و راکد ماندن فروش در سایر بازارهای بین‌المللی، نگاه خود را برای رشد به بازار ایالات متحده دوخته است. احداث این واحد تولیدی نشان می‌دهد که سیاست‌های حمایت‌گرایانه و تعرفه‌ای دولت آمریکا توانسته خودروسازان بزرگ اروپایی را به انتقال خطوط تولید و سرمایه‌گذاری مستقیم در خاک این کشور وادار کند. این اقدام استراتژیک به Audi اجازه می‌دهد ضمن دور زدن هزینه‌های گمرکی سنگین، جایگاه رقابتی خود را در بازار خودروهای لوکس آمریکا تقویت کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "صنعت خودرو و تعرفه",
-    "tag": "خودروسازی",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/business/autos/trump-announces-audis-first-ever-u-s-factory-in-georgia-ss-tariffs-bite-7e3220fe",
-    "clean_url": "https://www.wsj.com/business/autos/trump-announces-audis-first-ever-u-s-factory-in-georgia-ss-tariffs-bite-7e3220fe",
-    "image": "https://s.yimg.com/bo/fbba8878-9461-5073-b102-14538b842463_1792890109809.jpg",
-    "timestamp": 1792890538.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6dc1f45bc3",
-    "title_fa": "‏گلدمن ساکس هدف 12‑ماههٔ کوسپی را ۲۵٪ کاهش داد",
-    "title_en": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels",
-    "summary": [
-      "‏گلدمن ساکس هدف قیمت شاخص کوسپی را برای ۱۲ ماه آینده ۲۵٪ پایین‌تر تنظیم کرد.",
-      "‏این کاهش به دلیل فروپاشی معاملات مبتنی بر هوش مصنوعی و نگرانی از نوسانات بازار انجام شد.",
-      "‏تحلیل‌گران پیش‌بینی می‌کنند این تصمیم می‌تواند فشار فروش بر سهام کره جنوبی ایجاد کند."
-    ],
-    "body_fa": "‏گلدمن ساکس در آخرین گزارش خود هدف قیمت ۱۲ ماههٔ شاخص KOSPI کره جنوبی را ۲۵٪ کاهش داد. این تغییر پیش‌بینی پس از آن رخ داد که معاملات مبتنی بر هوش مصنوعی که اخیراً در بازارهای آسیایی گسترش یافته بودند، به‌سرعت از بین رفت و نگرانی‌های جدیدی دربارهٔ نوسانات و کاهش سودآوری شرکت‌های فناوری ایجاد کرد. تحلیل‌گران اشاره کردند که این تصمیم می‌تواند فشار فروش بر سهام‌های کره جنوبی وارد کند و سرمایه‌گذاران را به بازنگری در پرتفوی‌های خود وادار کند. پیش‌بینی قبلی گلدمن ساکس هدف بالاتری برای KOSPI داشت که نشان از تغییر چشم‌انداز اقتصادی منطقه دارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای سهام",
-    "tag": "KOSPI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792888980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0418bad547",
-    "title_fa": "‏بلغارستان در انتخابات ریاست‌جمهوری پس از حملات پهپادی دریای سیاه",
-    "title_en": "Bulgaria votes for president in wake of deadly Black Sea drone strikes",
-    "summary": [
-      "‏بُلگارستان روز یکشنبه برای انتخاب رئیس‌جمهور به رای‌گیری می‌پردازد",
-      "‏انتخابات در پس‌زمینهٔ حملات پهپادی مرگبار روسیه به کشتی‌های تجاری در دریای سیاه برگزار می‌شود",
-      "‏نتیجهٔ این رأی‌گیری می‌تواند موضع‌گیری بلغارستان در سیاست‌های NATO و روابط با روسیه را تحت تأثیر قرار دهد"
-    ],
-    "body_fa": "‏بلغارستان در روز یکشنبه انتخابات ریاست‌جمهوری خود را برگزار می‌کند. این رأی‌گیری پس از حملات پهپادی مرگبار روسیه به کشتی‌های تجاری در دریای سیاه که چندین کشتی را به‌سختی آسیب‌دیده و جان خدمه‌ای را از دست داد، برگزار می‌شود. دو نامزد اصلی، نمایندهٔ حزب محافظه‌کار و یک سیاستمدار مستقل، در این رقابت حضور دارند. نتایج انتخابات می‌تواند جهت‌گیری بلغارستان در چارچوب NATO و روابط اقتصادی‌اش با روسیه را شکل دهد. تحلیل‌گران پیش‌بینی می‌کنند که پیروزی هر یک از نامزدها پیامدهای متفاوتی برای امنیت دریای سیاه و سیاست‌های انرژی منطقه خواهد داشت.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "انتخابات ریاست‌جمهوری",
-    "tag": "بلغارستان",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/bulgaria-votes-president-wake-deadly-black-sea-drone-strikes-2026-10-25/",
-    "clean_url": "https://www.reuters.com/world/bulgaria-votes-president-wake-deadly-black-sea-drone-strikes-2026-10-25",
-    "image": "https://s.yimg.com/bo/9285b797-fe45-5ab9-bf93-e1a1dc68288f_1792887567100.jpg",
-    "timestamp": 1792887278.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5ec0012d1a",
-    "title_fa": "‏حمایت‌کنندگان خسته نتانیاهو هدف کمپین انتخاباتی اسرائیل شدند",
-    "title_en": "Disenchanted Netanyahu supporters are prize of Israel election campaign",
-    "summary": [
-      "‏نظرسنجی‌ها پیش‌بینی می‌کنند ائتلاف راست‌گرا، افراطی‌راست و ارتدوکس نتانیاهو اکثریت خود را از دست بدهد.",
-      "‏این تغییر می‌تواند تعادل سیاسی داخلی اسرائیل و روابط منطقه‌ای را تحت تأثیر قرار دهد.",
-      "‏رقیب اصلی او، گادی ایزینکوت، مسیر واضحی برای تشکیل دولت جدید ندارد."
-    ],
-    "body_fa": "‏نظرسنجی‌های چندین ماهه نشان می‌دهند که ائتلاف نتانیاهو، شامل احزاب راست‌گرا، افراطی‌راست و ارتدوکس، احتمالاً اکثریت خود در کنگره اسرائیل را از دست خواهد داد. در عین حال، گادی ایزینکوت، رقیب میانه‌رو، هنوز راه واضحی برای تشکیل ائتلافی که بتواند دولت را تشکیل دهد، پیدا نکرده است. این عدم قطعیت باعث شده تا حامیان خسته و نارضایتی‌زده نتانیاهو به هدف اصلی کمپین انتخاباتی تبدیل شوند. اگر نتانیاهو نتواند حمایت‌های خود را بازگرداند، ممکن است شاهد تغییرات اساسی در سیاست داخلی و خارجی اسرائیل باشیم. این تحولات می‌تواند تأثیرات مهمی بر روابط آمریکا‑اسرائیل و وضعیت ژئوپلیتیک خاورمیانه داشته باشد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "انتخابات اسرائیل",
-    "tag": "انتخابات",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/disenchanted-netanyahu-supporters-are-prize-israel-election-campaign-2026-10-25/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/disenchanted-netanyahu-supporters-are-prize-israel-election-campaign-2026-10-25",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792886760.0,
     "sent_to_telegram": true
   }
 ]
