@@ -1,5 +1,159 @@
 [
   {
+    "id": "6e118954d1",
+    "title_fa": "‏هزینه هوش مصنوعی در تابستان ثابت ماند؛ IPO Anthropic نزدیک",
+    "title_en": "Ramp data shows AI spending stalling just as Anthropic nears its IPO |...",
+    "summary": [
+      "‏داده‌های Ramp نشان داد هزینه‌های هوش مصنوعی در اوت‑سپتامبر ثابت ماند.",
+      "‏این نشانگر کاهش سرعت رشد درآمد شرکت‌های AI مثل OpenAI و Anthropic است.",
+      "‏قیمت‌گذاری کمتر OpenAI و Anthropic باعث شد هزینه‌ها به رغم حجم توکن‌ها افزایش نیابد."
+    ],
+    "body_fa": "‏بر اساس گزارش جدید Ramp ، هزینه‌های صرف‌شده برای هوش مصنوعی در ماه‌های اوت و سپتامبر تقریباً ثابت مانده است، در حالی که حجم توکن‌های مصرفی افزایش یافته. در مقایسه با ژوئیه که هزینه‌ها ۴۲٪ رشد کرد، رشد هزینه‌ها در این دو ماه تنها ۱٫۵٪ بوده. آرا خرازین، اقتصاددان ارشد Ramp ، اشاره کرد که تقریباً تمام هزینه‌های AI توسط شرکت‌های فناوری با سرمایه‌گذاری خطرپذیر تأمین می‌شود و اگر این هزینه‌ها کاهش یابد، تمام این شرکت‌ها به‌صورت همزمان تحت فشار قرار می‌گیرند. داده‌ها نشان می‌دهد که ۱٪ برتر شرکت‌ها که پیش از این حدود ۱۰٬۰۰۰ دلار هزینه ماهانه به ازای هر کارمند داشتند، کمی کاهش یافته و زیر این سطح رفته‌اند. اگرچه شرکت‌های میان‌رده و ده‌درصد برتر هنوز رشد هزینه دارند، اما این افزایش کافی نیست تا کاهش در بخش برتر را جبران کند. کاهش قیمت‌های API توسط OpenAI و Anthropic ، که به‌عنوان عامل اصلی این رکود شناخته می‌شود، می‌تواند درآمد این شرکت‌ها را تحت فشار قرار دهد، به‌خصوص در زمان نزدیک شدن Anthropic به عرضه اولیه عمومی.",
+    "category": "تکنولوژی",
+    "subcategory": "هزینه هوش مصنوعی",
+    "tag": "هوش‌مصنوعی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "clean_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+    "image": "https://s.yimg.com/bo/820d8f4c-8811-5341-84e5-4671815e8d5d_1793981206027.webp",
+    "timestamp": 1793980556.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "104eddb192",
+    "title_fa": "‏سازمان بورس تایلند اقدام به مسدودسازی Bitget کرد",
+    "title_en": "Thailand moves to block Bitget as crypto exchange's local acquisition faces...",
+    "summary": [
+      "‏سازمان بورس تایلند علیه اپراتور Bitget شکایت کیفری ثبت کرد",
+      "‏این اقدام به دلیل فعالیت بدون مجوز صرافی در کشور است",
+      "‏شکایت می‌تواند مانع از خریداری محلی Bitget و خروج سرمایه‌گذاران شود"
+    ],
+    "body_fa": "‏سازمان بورس و اوراق بهادار تایلند (SEC) علیه شرکت اپراتور Bitget یک شکایت کیفری تقدیم کرد و ادعا کرد این صرافی بدون دریافت مجوز لازم در کشور فعالیت می‌کرد. بر اساس اتهامات، Bitget به‌صورت غیرقانونی خدمات خرید و فروش ارزهای دیجیتال را برای کاربران تایلندی فراهم کرده است. این پرونده می‌تواند مانع از تکمیل خریداری محلی Bitget توسط یک شرکت تایلندی شود و دسترسی کاربران به پلتفرم را محدود کند. اگر دادگاه تصمیم به مسدودسازی بگیرد، احتمالاً تعداد قابل‌توجهی از سرمایه‌گذاران تایلندی مجبور به جابجایی دارایی‌های خود به صرافی‌های دیگر می‌شوند. این اقدام نشان‌دهنده تشدید نظارت regulator ی در منطقه آسیا بر صرافی‌های دیجیتال است و می‌تواند پیامدهای مشابهی برای سایر صرافی‌های بین‌المللی داشته باشد. در نهایت، این خبر می‌تواند فشار بر بازارهای کریپتو در تایلند و حتی در سطح منطقه‌ای را افزایش دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "نظارت بر صرافی",
+    "tag": "Bitget",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+    "clean_url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+    "image": "https://s.yimg.com/bo/bfc5d3be-7ddf-5dc2-847e-c3f68cbe22e4_1793976346435.jpg",
+    "timestamp": 1793976956.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "65b8d62040",
+    "title_fa": "‏تهدیدهای بمب‌گذاری به تلویزیون‌های اروپا برنامه‌ها را مختل کرد",
+    "title_en": "Bomb threats warning 'the clock is ticking' disrupt TV channels across Europe",
+    "summary": [
+      "‏هفته‌پایانی جمعه، تهدیدهای بمب‌گذاری به چندین شبکه تلویزیونی در سراسر اروپا ارسال شد",
+      "‏این پیام‌ها باعث قطع پخش، تغییر برنامه‌ها و افزایش نگرانی امنیتی در کشورهای عضو شد",
+      "‏پلیس‌ها در حال بررسی منبع تهدیدها و افزایش امنیت مراکز پخش هستند"
+    ],
+    "body_fa": "‏در جمعهٔ گذشته، پیام‌های تهدیدی با مضمون «ساعت در حال تیک‌تیک است» به چندین ایستگاه تلویزیونی در کشورهای مختلف اروپا ارسال شد. این پیام‌ها منجر به قطع ناگهانی پخش، تغییر برنامه‌های زنده و اخلال در خدمات پخش شد. مسئولان امنیتی ملی و پلیس‌های محلی به سرعت واکنش نشان دادند و ایستگاه‌ها را برای بررسی خطرات احتمالی تخلیه کردند. هنوز هیچ گروهی مسئولیت این تهدیدها را بر عهده نگرفته و تحقیقات برای شناسایی منبع ادامه دارد. این حادثه نگرانی‌های امنیتی درباره زیرساخت‌های رسانه‌ای را در سطح قاره‌ای افزایش داده است. در عین حال، برخی شبکه‌ها با استفاده از برنامه‌های پیش‌ثبت‌شده به پخش ادامه دادند تا خسارت مالی و اطلاعاتی به حداقل برسد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "تهدید بمب تلویزیونی",
+    "tag": "بمب‌تهدید",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe-2026-11-06/",
+    "clean_url": "https://www.reuters.com/world/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe-2026-11-06",
+    "image": "https://s.yimg.com/bo/a89e764a-ae3b-5380-8a89-50ac3e9f99ab_1793977955919.jpg",
+    "timestamp": 1793976956.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c0c2c42e13",
+    "title_fa": "‏گروه GE Aerospace 12.9 میلیارد دلاری چین را امضا کرد",
+    "title_en": "GE Aerospace says it signs record $12.9 billion deals at China expo",
+    "summary": [
+      "‏شرکت GE Aerospace اعلام کرد که در نمایشگاه چین قراردادهای فروش و خدمات به ارزش 12.9 میلیارد دلار امضا کرد",
+      "‏این قراردادها بزرگ‌ترین معاملات این شرکت در چین هستند و می‌توانند روابط تجاری هوافضای آمریکا‑چین را تقویت کنند",
+      "‏قراردادها شامل موتورهای هواپیماهای تجاری و خدمات پس از فروش می‌شود"
+    ],
+    "body_fa": "‏شرکت GE Aerospace روز جمعه اعلام کرد که در نمایشگاه بین‌المللی هوافضای چین چندین قرارداد فروش و خدمات به مجموع ارزش 12.9 میلیارد دلار به امضا رسانده است. این مبلغ بزرگ‌ترین مقدار معامله‌ای است که این شرکت تاکنون در چین داشته و شامل تأمین موتورهای توربوفن برای هواپیماهای تجاری و ارائه خدمات نگهداری طولانی‌مدت می‌شود. این توافق‌ها نشانگر تمایل چین به به‌روزرسانی ناوگان هوایی خود و همچنین تمایل ایالات متحده به ادامه صادرات فناوری‌های دوگانه‌استفاده تحت مجوزهای موجود است. تحلیل‌گران پیش‌بینی می‌کنند این قراردادها به بهبود درآمد GE Aerospace کمک کرده و رقابت با رقبایی چون Rolls‑Royce و Pratt & Whitney را تشدید می‌کند. در عین حال، این معامله می‌تواند نشانگر کاهش تنش‌های تجاری در بخش هوافضا بین دو کشور باشد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "قراردادهای هوافضا",
+    "tag": "GE Aerospace",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/ge-aerospace-says-it-signs-record-129-billion-deals-china-expo-2026-11-06/",
+    "clean_url": "https://www.reuters.com/world/asia-pacific/ge-aerospace-says-it-signs-record-129-billion-deals-china-expo-2026-11-06",
+    "image": "https://s.yimg.com/bo/47aa8900-8530-52c9-b508-99ff65dab223_1793973944159.jpg",
+    "timestamp": 1793973356.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a6b05ed888",
+    "title_fa": "‏گزارش قوی اشتغال اکتبر، بازده اوراق بالاتر رفت",
+    "title_en": "VIEW Strong October jobs report sends yields higher",
+    "summary": [
+      "‏در اکتبر، تعداد شغل‌های غیرکشاورزی در آمریکا بیش از انتظار افزایش یافت و نرخ بیکاری به 4.1 ٪ رسید.",
+      "‏این نشان‌دهندهٔ استحکام بازار کار است و باعث فشار بر سود اوراق قرضه شد.",
+      "‏بازارهای مالی جهانی پس از انتشار داده‌ها نوسان کردند."
+    ],
+    "body_fa": "‏داده‌های ماه اکتبر نشان دادند که تعداد شغل‌های غیرکشاورزی در ایالات متحده 242,000 شغل افزایش یافت که بیش از پیش‌بینی‌های اقتصاددانان بود. نرخ بیکاری نیز به 4.1 ٪ کاهش یافت، که پایین‌ترین سطح در چندین ماه اخیر است. این نتایج نشان می‌دهد بازار کار آمریکا همچنان مقاوم است و فشار بر افزایش دستمزدها ادامه دارد. به‌دلیل این ارقام، سرمایه‌گذاران به سرعت به اوراق قرضه دولتی نگاه کردند و بازده‌های بلندمدت به‌ویژه اوراق 10 ساله افزایش یافت. تحلیل‌گران پیش‌بینی می‌کنند که این رشد شغلی ممکن است فشار بر فدرال‌رزرو برای ادامهٔ سیاست‌های سفت‌سخت پولی ایجاد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش اشتغال",
+    "tag": "اشتغال",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/view-strong-october-jobs-report-sends-yields-higher-2026-11-06/",
+    "clean_url": "https://www.reuters.com/business/view-strong-october-jobs-report-sends-yields-higher-2026-11-06",
+    "image": "https://s.yimg.com/bo/aa0e7967-ed36-52b3-9670-c32bf8b3abdd_1784811437357.jpg",
+    "timestamp": 1793973356.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "321a2c2424",
+    "title_fa": "‏ایالات متحده در اکتبر ۱۶۵٬۰۰۰ شغل ایجاد کرد",
+    "title_en": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+    "summary": [
+      "‏آمار کارآفرینی آمریکا در اکتبر ۱۶۵٬۰۰۰ شغل افزود",
+      "‏این رقم دو برابر پیش‌بینی ۶۵٬۰۰۰ شغلی بود و می‌تواند فشار بر تورم و بازار سهام را کاهش دهد",
+      "‏داده‌ها امروز توسط دفتر آمار کار منتشر شد"
+    ],
+    "body_fa": "‏دفتر آمار کار ایالات متحده امروز نشان داد که در ماه اکتبر ۱۶۵٬۰۰۰ شغل جدید ایجاد شد، در حالی که پیش‌بینی‌ها تنها ۶۵٬۰۰۰ شغل را پیش‌بینی می‌کردند. این افزایش چشمگیر نشانگر قدرت ادامه‌دار بازار کار آمریکا است و می‌تواند نگرانی‌های تورمی را تا حدی کاهش دهد. با این حال، داده‌های تورمی که امروز منتشر می‌شوند، نقش کلیدی در تعیین مسیر سیاست‌های پولی فدرال‌رزرو خواهند داشت. تحلیل‌گران انتظار دارند این خبر بازار سهام را به سمت صعودی سوق دهد، اما نوسانات کوتاه‌مدت ممکن است به دلیل تردیدهای پیرامون نرخ بهره ادامه یابد. در مجموع، این آمار اشتغال قوی نشانه‌ای از رشد اقتصادی پایدار است، اگرچه چشم‌انداز کلی به‌دست‌آمده از ترکیب چندین شاخص اقتصادی شکل می‌گیرد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "آمار اشتغال",
+    "tag": "اشتغال",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+    "image": "https://s.yimg.com/bo/1a9f7627-5fdf-5f3b-a213-478ad72970ca_1793973516884.png.cf.jpg",
+    "timestamp": 1793973356.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "582f4b8a10",
+    "title_fa": "‏قیمت نفت دسامبر پس از انتخابات آمریکا ۱۱٪ افت کرد",
+    "title_en": "Oil Prices Plunge as U.S. Elections Shake Up the Iran War | OilPrice.com",
+    "summary": [
+      "‏قیمت نفت خام WTI دسامبر از ۱۰۲.۳۹ دلار به ۸۶.۶۵ دلار سقوط کرد؛ کاهش هفتگی ۱۱٫۱٪",
+      "‏این افت به دلیل انتظارات پایان سریع‌تر جنگ با ایران پس از پیروزی دمکرات‌ها در کنگره بود",
+      "‏بازار دیگر نیازی به پرمیوم خطر ناشی از تنگه هرمز نداشت"
+    ],
+    "body_fa": "‏دسامبر ۲۰۲۴، نفت خام WTI با افت هفتگی ۱۱٫۱٪ از ۱۰۲.39 دلار به ۸۶.65 دلار رسید. این سقوط ناشی از حذف بخشی از پرمیوم جنگ بود که پس از نتایج انتخابات میانی ایالات متحده به‌دست آمد. پیروزی دمکرات‌ها در کنگره باعث شد انتظار فشارهای سیاسی برای پایان سریع‌تر درگیری با ایران افزایش یابد و احتمال تشدید جدید کاهش یابد. به‌علاوه، قیمت‌های بالای بنزین که به عنوان یک مسأله سیاسی مهم مطرح بود، فشار بیشتری برای کاهش تنش‌ها ایجاد کرد. به‌دلیل این تحولات، معامله‌گران سودهای قبلی را برداشتند و دیگر تمایلی به نگهداری پرمیوم خطر در تنگه هرمز نداشتند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت نفت",
+    "tag": "نفت",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Plunge-as-US-Elections-Shake-Up-the-Iran-War.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Plunge-as-US-Elections-Shake-Up-the-Iran-War.html",
+    "image": "https://s.yimg.com/bo/eb2426de-150b-5487-ac40-17450e2568a8_1793971008423.jpg",
+    "timestamp": 1793969756.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ebef94ba49",
     "title_fa": "‏ترکیه می‌گوید خط لوله گاز به قبرس ترکی برق می‌رساند",
     "title_en": "Turkey says gas pipeline project with Turkish Cypriots can provide power to...",
@@ -41,6 +195,50 @@
     "clean_url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
     "image": "https://s.yimg.com/bo/800c9ef5-ec8c-5165-932d-e3504edb71d4_1793498191345.jpg",
     "timestamp": 1793968206.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ee0f27c05f",
+    "title_fa": "‏فیوچرز Nasdaq 100 پس از سقوط ۶٪ بهبود نشان داد",
+    "title_en": "Live updates: Nasdaq 100 futures rally points to stock market respite",
+    "summary": [
+      "‏شاخص Nasdaq 100 بیش از ۶٪ سقوط کرد",
+      "‏فیوچرز این شاخص پس از کاهش شدید، با افزایش قیمت نشان از بهبود کوتاه‌مدت بازار داد",
+      "‏این حرکت نشانگر نگرانی‌ها درباره کاهش سرعت پیشرفت هوش مصنوعی است"
+    ],
+    "body_fa": "‏در روز پنج‌شنبه، شاخص فناوری‑محور Nasdaq 100 بیش از ۶٪ کاهش یافت؛ این افت ناشی از نگرانی‌ها دربارهٔ کاهش سرعت پیشرفت هوش مصنوعی بود. در ادامهٔ این سقوط، فیوچرز این شاخص به سمت بالا حرکت کردند و نشان از امکان بهبود کوتاه‌مدت بازار دادند. معامله‌گران به دنبال نشانه‌های بازگشت سرمایه‌گذاری در بخش فناوری هستند. این نوسان نشان می‌دهد که بازار هنوز نسبت به اخبار مرتبط با هوش مصنوعی حساس است. در صورت ادامهٔ این روند، ممکن است فشار فروش بر شاخص کاهش یابد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "Nasdaq",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+    "clean_url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+    "image": "https://s.yimg.com/bo/7c034757-8367-5ef1-8e61-8db787f5f6c2_1791512479030.png.cf.jpg",
+    "timestamp": 1793966156.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "54227f7f96",
+    "title_fa": "‏قیمت طلا به پایین‌ترین سطح یک‌ساله‌اش رسید",
+    "title_en": "Why gold prices are surprisingly low",
+    "summary": [
+      "‏قیمت طلا به پایین‌ترین سطح یک‌ساله‌اش رسید",
+      "‏این کاهش می‌تواند بر سرمایه‌گذاران و بازارهای مالی تأثیر بگذارد",
+      "‏عوامل کاهش شامل تقویت دلار و کاهش تقاضای سرمایه‌گذاری ایمن است"
+    ],
+    "body_fa": "‏قیمت طلا در هفته اخیر به پایین‌ترین سطح یک‌ساله خود رسید. این افت نشان می‌دهد که تقاضای سرمایه‌گذاری ایمن در حال کاهش است. دلایل اصلی شامل تقویت دلار آمریکا، افزایش سود واقعی اوراق قرضه و کاهش انتظارات تورمی می‌شود. کاهش قیمت طلا می‌تواند فشار بر سرمایه‌گذاران ایرانی و جهانی که به طلا به عنوان ذخیره ارزش متکی هستند، ایجاد کند. کارشناسان پیش‌بینی می‌کنند اگر روند تقویت دلار ادامه یابد، قیمت طلا ممکن است فشار بیشتری ببیند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+    "clean_url": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+    "image": "https://s.yimg.com/bo/48fefdfc-8982-515a-86ab-730539ee7013_1793976232441.jpg",
+    "timestamp": 1793966153.0,
     "sent_to_telegram": true
   },
   {
@@ -110,6 +308,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "de684b8564",
+    "title_fa": "‏شرکت World Liberty Financial برنامه خرید مجدد توکن را اعلام کرد",
+    "title_en": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date...",
+    "summary": [
+      "‏شرکت World Liberty Financial برنامه خرید توکن خود را پس از رشد 66 ٪ در سال جاری اعلام کرد.",
+      "‏این اقدام با استفاده از کارمزدهای ذخایر استیبل‌کوین USD1 برای خرید توکن انجام می‌شود.",
+      "‏خرید مجدد می‌تواند فشار خرید را افزایش داده و قیمت توکن را تقویت کند."
+    ],
+    "body_fa": "‏شرکت World Liberty Financial که با حمایت دونالد ترامپ شناخته می‌شود، برنامه خرید مجدد توکن خود را پس از افزایش 66 ٪ قیمت در سال جاری اعلام کرد. این شرکت قصد دارد از کارمزدهای حاصل از ذخایر استیبل‌کوین USD1 برای تأمین مالی خرید توکن استفاده کند. خرید توکن توسط خود پروژه می‌تواند تقاضا را بالا برده و به تثبیت یا ارتقای قیمت کمک کند. این اقدام نشانگر اعتماد تیم مدیریتی به آینده توکن و تلاش برای جذب سرمایه‌گذاران جدید است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "خرید توکن",
+    "tag": "توکن‌خرید",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+    "clean_url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+    "image": "https://s.yimg.com/bo/ad8ad1a1-341a-58f6-8e36-5aa9b0fc94ad_1791926912547.jpg",
+    "timestamp": 1793951756.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "19441d88ed",
     "title_fa": "‏قیمت طلا در دیه‌نتراس 2026 به ۱٫۴۶ لک رسید",
     "title_en": "Dhanteras Gold Price 2026: Gold Price Today, Rates & Outlook",
@@ -129,6 +349,28 @@
     "clean_url": "https://smestreet.in/investments/dhanteras-gold-price-2026-gold-price-today-india-12788750",
     "image": "https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/smstreet/media/media_files/2026/11/06/dhanteras-gold-price-2026-2026-11-06-12-49-44.png",
     "timestamp": 1793949840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6df4cce025",
+    "title_fa": "‏به‌روزرسانی NU7 زکش باعث تسریع پرداخت‌های خصوصی شد",
+    "title_en": "ZEC news: Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+    "summary": [
+      "‏زکش نسخه NU7 را فعال کرد و زمان هدف بین بلوک‌ها را به ۲۵ ثانیه کاهش داد",
+      "‏این به‌روزرسانی سرعت تراکنش‌های خصوصی را بالا می‌برد و بار کاری کیف‌پول‌ها را کم می‌کند",
+      "‏همچنین مقیاس‌پذیری شبکه بهبود یافته و مصرف انرژی کاهش می‌یابد"
+    ],
+    "body_fa": "‏شبکه زکش امروز به‌روزرسانی مهم NU7 را به‌صورت زنده اجرا کرد. این ارتقا زمان هدف بین بلوک‌ها را از حدود ۷۵ ثانیه به ۲۵ ثانیه کاهش می‌دهد و به‌این ترتیب سرعت پردازش تراکنش‌های خصوصی به‌طور چشمگیری بالا می‌رود. علاوه بر این، کار محاسباتی مورد نیاز کیف‌پول‌ها برای پیدا کردن بلوک‌ها به‌طور قابل‌توجهی کاهش می‌یابد، که منجر به صرفه‌جویی در مصرف انرژی و هزینه‌های کاربری می‌شود. به‌روزرسانی NU7 بخشی از برنامهٔ طولانی‌مدت زکش برای بهبود مقیاس‌پذیری و تجربه کاربری است و می‌تواند جذابیت این رمزارز حریم‌خصوصی‌محور را برای کاربران جدید افزایش دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "به‌روزرسانی پروتکل",
+    "tag": "Zcash",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+    "clean_url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+    "image": "https://s.yimg.com/bo/84d070dc-837c-51cb-8d33-e042e7267b90_1791547172310.jpg",
+    "timestamp": 1793940956.0,
     "sent_to_telegram": true
   },
   {
@@ -239,6 +481,28 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-12-Weekly-Loss-Despite-Fresh-Tanker-Attacks.html",
     "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_1uaxnd4aom.jpg",
     "timestamp": 1793916300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "40dc4210de",
+    "title_fa": "‏قیمت طلا بالای ۴٬۰۰۰ دلار شد",
+    "title_en": "Gold price surges back above $4,000",
+    "summary": [
+      "‏قیمت طلا به بالای $4,000 رسید.",
+      "‏این صعود نشان‌دهنده تقاضای بیشتر برای دارایی‌های امن و می‌تواند بر بازارهای مالی تأثیر بگذارد.",
+      "‏سرمایه‌گذاران به دلیل عدم قطعیت‌های اقتصادی به طلا روی می‌آورند."
+    ],
+    "body_fa": "‏قیمت طلا امروز دوباره به بالای $4,000 رسید و از سطح روانی مهمی عبور کرد. این حرکت ناشی از نگرانی‌های سرمایه‌گذاران نسبت به تورم و نوسانات نرخ بهره است. افزایش قیمت طلا معمولاً نشانگر تمایل بازار به دارایی‌های امن در زمان عدم اطمینان است. تحلیل‌گران پیش‌بینی می‌کنند که این روند می‌تواند فشار خرید بر طلا را ادامه دهد و به نوسان‌های دیگر کالاهای ارزشمند منجر شود. در عین حال، سبدهای سرمایه‌گذاری که شامل طلا هستند، ممکن است ارزش خود را افزایش دهند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/analysis/gold-price-surges-back-above-4-000-start-of-a-much-bigger-rally-video-202611052202",
+    "clean_url": "https://www.fxstreet.com/analysis/gold-price-surges-back-above-4-000-start-of-a-much-bigger-rally-video-202611052202",
+    "image": "https://s.yimg.com/bo/89d1b570-534a-5b38-900b-359f701a86a9_1793369076212.jpg",
+    "timestamp": 1793915753.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,270 +6597,6 @@
     "clean_url": "https://www.cnbc.com/video/2026/10/28/bessent-says-not-necessarily-a-mistake-if-the-fed-hikes-again.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108477070-1793223128075-1793223005936-bessentfed_1_.jpg?v=1793223131&w=1920&h=1080",
     "timestamp": 1793197920.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "72de69a43c",
-    "title_fa": "‏ایالات متحده تحریم جدیدی علیه شبکهٔ کلاهبرداری شمال‌کره‌ای اعمال کرد",
-    "title_en": "US sanctions North Korean network accused of defrauding businesses",
-    "summary": [
-      "‏ایالات متحده روز چهارشنبه تحریم‌های مالی علیه شبکه‌ای شمال‌کره‌ای که به کسب‌وکارها کلاهبرداری می‌کرد، اعمال کرد.",
-      "‏این اقدام برای قطع منابع مالی گروه‌های سایبری پناه‌جو شمال‌کره و کاهش تهدیدات اقتصادی‌اش مهم است.",
-      "‏وزارت خزانه‌داری اعلام کرد که این شبکه از طریق فیشینگ و تقلب در پرداخت‌های الکترونیکی میلیاردها دلار به‌دست آورده بود."
-    ],
-    "body_fa": "‏ایالات متحده روز چهارشنبه تحریم‌های مالی جدیدی علیه یک شبکهٔ شمال‌کره‌ای اعمال کرد که به کسب‌وکارهای بین‌المللی کلاهبرداری می‌کرد. وزارت خزانه‌داری گفت این گروه از طریق فیشینگ، تقلب در پرداخت‌های الکترونیکی و سایر روش‌های سایبری میلیاردها دلار به‌دست آورده بود. هدف این تحریم‌ها مسدود کردن دارایی‌های این شبکه و قطع دسترسی آن به سیستم‌های مالی بین‌المللی است. این اقدام در چارچوب فشارهای گسترده‌تر آمریکا بر برنامه‌های هسته‌ای و سایبری شمال‌کره صورت می‌گیرد. کارشناسان بر این باورند که چنین تحریم‌هایی می‌تواند توان مالی گروه‌های سایبری پناه‌جو را محدود کند و خطرات اقتصادی برای شرکت‌های جهانی را کاهش دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های مالی",
-    "tag": "تحریم",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/us-issues-new-north-korea-related-sanctions-2026-10-28/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/us-issues-new-north-korea-related-sanctions-2026-10-28",
-    "image": "https://s.yimg.com/bo/d596b760-1246-54b3-8620-53618b5b1a7e_1788534215395.jpg",
-    "timestamp": 1793196986.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "33c58f98f8",
-    "title_fa": "‏بانک کانادا نرخ بهره کلیدی را افزایش داد؛ احتمال دیگر",
-    "title_en": "Bank of Canada raises key interest rate, says another hike possible",
-    "summary": [
-      "‏بانک کانادا برای اولین بار در بیش از سه سال نرخ بهره کلیدی را به 5.0 ٪ ارتقا داد",
-      "‏این تصمیم باعث تقویت دلار کانادا و فشار بر بازارهای اوراق قرضه و مسکن شد",
-      "‏بانک امکان افزایش‌های بیشتر در ماه‌های آینده را اعلام کرد"
-    ],
-    "body_fa": "‏بانک کانادا روز چهارشنبه نرخ بهره کلیدی خود را برای اولین بار در بیش از سه سال به 5.0 ٪ افزایش داد. این افزایش پس از دوره‌ای طولانی از نگه‌داری نرخ‌ها انجام شد و نشان‌دهنده نگرانی‌های تورمی مداوم است. بانک در بیانیه‌اش گفت که امکان دارد در ماه‌های آینده باز هم نرخ‌ها را بالا ببرد. پس از اعلام تصمیم، دلار کانادا نسبت به سایر ارزها قوی شد و اوراق قرضه دولتی تحت فشار قرار گرفت. تحلیل‌گران پیش‌بینی می‌کنند این اقدام می‌تواند فشار بر بازار مسکن و هزینه‌های استقراض را افزایش دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ بهره",
-    "tag": "بانک کانادا",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/bank-canada-raises-key-interest-rate-says-another-hike-possible-2026-10-28/",
-    "clean_url": "https://www.reuters.com/world/americas/bank-canada-raises-key-interest-rate-says-another-hike-possible-2026-10-28",
-    "image": "https://s.yimg.com/bo/26dbb22e-0f7b-5bc0-9538-c926353795d1_1791048682560.jpg",
-    "timestamp": 1793196986.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "17a29a6670",
-    "title_fa": "‏فورد پیش‌بینی‌های خود را ارتقا داد",
-    "title_en": "Ford Lifts Outlook Even as War, Inflation Take Mounting Toll",
-    "summary": [
-      "‏فورد پیش‌بینی سود و فروش خود را ارتقا داد.",
-      "‏این تصمیم نشان‌دهنده توان مقابله با اثرات جنگ و تورم است.",
-      "‏شرکت امید دارد رشد سالانه را حفظ کند."
-    ],
-    "body_fa": "‏شرکت خودروسازی فورد اعلام کرد که پیش‌بینی‌های مالی خود را برای دوره آینده ارتقا داده است، حتی با وجود فشارهای ناشی از جنگ‌های جاری و افزایش تورم. این افزایش چشم‌انداز نشان می‌دهد که فورد توانسته است استراتژی‌های هزینه‌ای و زنجیره تأمین خود را به گونه‌ای تنظیم کند که اثرات منفی این عوامل را کاهش دهد. شرکت انتظار دارد که فروش خودروهای خود در بازارهای اصلی رشد کند و حاشیه سود را بهبود بخشد. این خبر می‌تواند برای سرمایه‌گذاران خودروسازی و بازارهای سهام اثر مثبت داشته باشد و نشان‌دهنده انعطاف‌پذیری بخش خودرو در برابر نوسانات اقتصادی است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "پیش‌بینی شرکت‌ها",
-    "tag": "Ford",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/ford-raises-outlook-even-as-war-inflation-exact-mounting-toll",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-28/ford-raises-outlook-even-as-war-inflation-exact-mounting-toll",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793195460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ac2c98c3d1",
-    "title_fa": "‏دادگاه درخواست توقف جستجوی رای‌دهندگان غیرشهروندی دولت ترامپ را کرد",
-    "title_en": "Lawsuit seeks to block Trump administration effort to find noncitizen voters",
-    "summary": [
-      "‏یک دادخواست برای مسدود کردن برنامه دولت ترامپ جهت استقرار صدها بازرس به منظور شناسایی رای‌دهندگان غیرشهروندی ارائه شد.",
-      "‏این اقدام ادعا می‌کند که شهروندان طبیعی‌سازی‌شده را به‌صورت غیرقانونی تهدید و تحت فشار قرار می‌دهد.",
-      "‏دعاوی مشابه قبلاً به دادگاه‌های فدرال ارجاع شده‌اند."
-    ],
-    "body_fa": "‏یک گروه حقوقی در دادگاه فدرال ایالات متحده درخواست توقف برنامه دولت ترامپ را کرده که قصد دارد صدها بازرس را برای شناسایی رای‌دهندگان غیرشهروندی اعزام کند. این طرح به‌عنوان تهدید غیرقانونی به شهروندان طبیعی‌سازی‌شده توصیف می‌شود و ممکن است آن‌ها را تحت فشار قرار دهد. دادخواهان می‌گویند این اقدام نقض حقوق اساسی و قوانین مهاجرتی است. در پرونده استدلال می‌شود که برنامه بدون مجوز قانونی اجرا می‌شود و به آزادی‌های مدنی آسیب می‌رساند. اگر دادگاه به نفع دادخواهان حکم کند، دولت ترامپ مجبور به بازنگری یا لغو این برنامه می‌شود.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "قضایای انتخاباتی",
-    "tag": "انتخابات",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/lawsuit-seeks-block-trump-administration-effort-find-noncitizen-voters-2026-10-28/",
-    "clean_url": "https://www.reuters.com/legal/government/lawsuit-seeks-block-trump-administration-effort-find-noncitizen-voters-2026-10-28",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793194140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1305c680fb",
-    "title_fa": "‏DTCC سرویس توکن‌سازی سهام و ETF ها را راه‌اندازی کرد",
-    "title_en": "Wall Street giant DTCC launches tokenization for stocks, ETFs and U.S....",
-    "summary": [
-      "‏DTCC سرویس توکن‌سازی برای سهام، ETF ها و اوراق آمریکا را بر شبکه Canton و زنجیره خصوصی Besu فعال کرد.",
-      "‏این قدم بزرگ می‌تواند زمان تسویه‌حساب و شفافیت بازارهای سرمایه را بهبود بخشد.",
-      "‏JPMorgan ، Citi و دیگر بانک‌ها به‌عنوان اولین کاربران شرکت کردند."
-    ],
-    "body_fa": "‏DTCC ، بزرگ‌ترین مرکز تسویه‌حساب و کلیرینگ وال استریت، سرویس توکن‌سازی سهام، ETF ها و اوراق دولتی آمریکا را بر بستر بلاکچین شبکه Canton و زنجیره خصوصی Besu راه‌اندازی کرد. این پلتفرم امکان ایجاد توکن‌های دیجیتال برای دارایی‌های سنتی را فراهم می‌کند و می‌تواند زمان تسویه‌حساب را از چند روز به چند ثانیه کاهش دهد. JPMorgan ، Citi و چندین مؤسسه مالی دیگر به‌عنوان اولین شرکت‌کنندگان در این سرویس ثبت‌نام کرده‌اند. توکن‌سازی توسط DTCC می‌تواند شفافیت و کارایی بازارهای سرمایه را ارتقا دهد و مسیر پذیرش گسترده‌تر فناوری بلاکچین در نظام مالی را هموار کند. این اقدام نشان‌دهنده تمایل نهادهای مالی سنتی به ترکیب فناوری‌های نوین با زیرساخت‌های موجود است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "توکن‌سازی اوراق",
-    "tag": "DTCC",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-    "clean_url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-    "image": "https://s.yimg.com/bo/cb845cf2-b373-5055-b19d-9ba37d075bbb_1791887534892.jpg",
-    "timestamp": 1793193387.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c5ecbc1fec",
-    "title_fa": "‏هکر اطلاعات شخصی ۴۰٬۰۰۰ کارمند DHS را سرقت کرد",
-    "title_en": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-    "summary": [
-      "‏هکر با نام کاربری Department of Peace ، بیش از ۴۰٬۰۰۰ رکورد پرسنل DHS شامل نام، ایمیل و شماره تلفن را به‌صورت آنلاین منتشر کرد.",
-      "‏این نشت اطلاعات حساس، شامل مأموران CBP ، ICE و CISA است و می‌تواند خطرات امنیتی جدی ایجاد کند.",
-      "‏داده‌ها از سیستم تک‌ورودی Okta استخراج شده‌اند."
-    ],
-    "body_fa": "‏هکری با نام کاربری Department of Peace به‌دست‌آمدن اطلاعات شخصی بیش از ۴۰٬۰۰۰ کارمند وزارت امنیت داخلی ایالات متحده را ادعا کرد و این داده‌ها را به‌صورت عمومی در اینترنت بارگذاری کرد. رکوردها شامل نام، عنوان شغلی، ایمیل، شماره تلفن همراه و مکان دفتر کار افراد است که در بخش‌های مختلفی از جمله گمرک و حفاظت مرزی (CBP)، مهاجرت و اجرای قانون (ICE) و آژانس امنیت سایبری (CISA) مشغول به کار هستند. هکر گفته است این اطلاعات را از سیستم تک‌ورودی Okta که برای ورود به شبکه مرکزی DHS استفاده می‌شود، استخراج کرده. این نشت دومین نفوذ به DHS در سال جاری است و پس از سرقت اسناد قراردادهای بخش خصوصی توسط همان هکر رخ داده است. انتشار این داده‌ها می‌تواند هدف‌گیری فیزیکی یا سایبری مأموران را تسهیل کند و نگرانی‌های امنیتی گسترده‌ای را برای دولت آمریکا به‌وجود آورد.",
-    "category": "تکنولوژی",
-    "subcategory": "نقض داده‌های دولتی",
-    "tag": "دسترسی",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-    "clean_url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
-    "timestamp": 1793192460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "70e11b962f",
-    "title_fa": "‏Deutsche Telekom ادغام بزرگ با T-Mobile را به تعویق انداخت",
-    "title_en": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
-    "summary": [
-      "‏Deutsche Telekom اعلام کرد ادغام عظیم با T-Mobile ممکن است به تعویق بیفتد.",
-      "‏این تصمیم می‌تواند تأثیر قابل‌توجهی بر بازارهای مخابراتی و ارزش سهام دو شرکت داشته باشد.",
-      "‏گزارش‌ها حاکی از نگرانی‌های نظارتی و هزینه‌های ادغام است."
-    ],
-    "body_fa": "‏Deutsche Telekom اخیراً اعلام کرد که برنامهٔ ادغام با T-Mobile US ممکن است به تعویق بیفتد. این ادغام که ارزش آن حدود ۲۶ میلیارد دلار تخمین زده می‌شود، بزرگ‌ترین ترکیب در صنعت مخابرات اروپا و آمریکا بود. نگرانی‌های نظارتی در ایالات متحده و هزینه‌های پیش‌بینی‌شدهٔ ادغام از دلایل اصلی این تصمیم به شمار می‌روند. اگر ادغام به تعویق بیفتد، سهام Deutsche Telekom و T-Mobile ممکن است تحت فشار بازار قرار گیرند. تحلیل‌گران پیش‌بینی می‌کنند که این تغییر مسیر می‌تواند رقابت در بازارهای 5G و خدمات دیجیتال را تحت تأثیر قرار دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ادغام بزرگ",
-    "tag": "Deutsche Telekom",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793188740.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "58543ecdd3",
-    "title_fa": "‏قیمت بیت‌کوین به بالای 81,000 دلار رسید",
-    "title_en": "Bitcoin tops $81,000 ahead of Fed decision as memecoins lead altcoin gains",
-    "summary": [
-      "‏بیت‌کوین بالای 81,400 دلار معامله شد، در حالی که توکن میم‌کوین «pepe» رشد چشمگیری داشت.",
-      "‏این صعود پیش از تصمیم‌گیری فدرال‌رزرو درباره نرخ بهره رخ داد و می‌تواند نوسانات بازارهای مالی را تحت‌تاثیر قرار دهد.",
-      "‏سهام‌های چیپ آسیایی نیز همزمان افزایش یافتند."
-    ],
-    "body_fa": "‏بیت‌کوین در معاملات صبح امروز به بیش از 81,400 دلار رسید، که بالاترین سطح تاریخی خود را می‌شکند. این حرکت در حالی رخ داد که بازارهای آسیایی، به‌ویژه سهام‌های مرتبط با تولید چیپ، افزایش یافتند. توکن میم‌کوین «pepe» که با تم قورباغه شناخته می‌شود، بیش از 30 درصد رشد کرد و به عنوان پیشرو در میان آل‌کوین‌ها ظاهر شد. تحلیل‌گران اشاره می‌کنند این صعود می‌تواند ناشی از انتظار سرمایه‌گذاران برای تصمیم فدرال‌رزرو درباره نرخ بهره باشد. تصمیم فدرال‌رزرو که در روزهای آینده اعلام می‌شود، می‌تواند جهت‌گیری بازارهای رمزارزها و دارایی‌های ریسک‌پذیر را تعیین کند. در صورت اعلام نرخ بهره پایین‌تر، احتمال ادامه رشد بیت‌کوین و سایر رمزارزها وجود دارد. در مقابل، افزایش نرخ می‌تواند فشار فروش را به‌وجود آورد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "بیت‌کوین",
-    "urgency": 9,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-    "clean_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-    "image": "https://s.yimg.com/bo/33e6d930-5f97-5edf-9948-df5d31e2098c_1793188609989.png.cf.jpg",
-    "timestamp": 1793186187.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "dd65bce005",
-    "title_fa": "‏نرخ بهره آمریکا بدون تغییر در محدوده فعلی حفظ شد",
-    "title_en": "Fed holds rates steady despite concerns over inflation",
-    "summary": [
-      "‏بانک مرکزی آمریکا نرخ بهره را مطابق انتظار در محدوده 3.75 تا 4 درصد ثابت نگه داشت.",
-      "‏دو عضو کمیته با تصمیم مخالفت کردند و خواهان افزایش مجدد نرخ بهره برای مهار تورم بودند.",
-      "‏بیانیه رسمی نشست نشان می‌دهد سیاست‌گذاران برای تصمیمات بعدی منتظر دریافت داده‌های اقتصادی بیشتر هستند."
-    ],
-    "body_fa": "‏کمیته بازار باز در فدرال‌رزرو تصمیم گرفت نرخ بهره سیاستی را بدون تغییر در محدوده 3.75 تا 4 درصد حفظ کند. این تصمیم در شرایطی اتخاذ شد که فشارهای تورمی همچنان فراتر از انتظار سیاست‌گذاران باقی مانده است. در جریان این رأی‌گیری، دو نفر از اعضای کمیته شامل Lisa Cook و Beth Hammack مخالفت خود را اعلام کردند و خواستار افزایش 0.25 درصدی نرخ بهره شدند. بیانیه پایانی نشست تأکید کرد که بازگشت تورم به هدف 2 درصدی نیازمند بررسی دقیق‌تر داده‌های آتی خواهد بود. این تصمیم‌گیری هم‌زمان با حساسیت‌های سیاسی نزدیک به انتخابات میان‌دوره‌ای کنگره اتخاذ شده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی آمریکا",
-    "tag": "نرخ بهره",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-    "clean_url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108363932-1789584332291-gettyimages-2295621873-ah700023_zxearqrl.jpeg?v=1789584398&w=1920&h=1080",
-    "timestamp": 1793185200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c11fdf9973",
-    "title_fa": "‏بانک Itau اولین بانک برزیلی که کارگزاری رمزارز رسمی شد",
-    "title_en": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under n...",
-    "summary": [
-      "‏بانک Itau Unibanco عملیات خرید‑فروش و نگهداری رمزارزها را به بانک مرکزی اعلام کرد",
-      "‏این اولین بانک بزرگ برزیل است که کارگزاری رمزارز را تحت قوانین جدید رسمی می‌کند",
-      "‏این گام می‌تواند پذیرش رمزارزها را در بازار مالی برزیل گسترش دهد"
-    ],
-    "body_fa": "‏Itau Unibanco روز سه‌شنبه فعالیت‌های خرید‑فروش و نگهداری رمزارزهای خود را به بانک مرکزی برزیل گزارش داد. این بانک بزرگ برزیلی اولین مؤسسه مالی است که کارگزاری رمزارز را تحت چارچوب قانونی جدید ثبت کرده است. قوانین جدید بانک مرکزی به مؤسسات مالی اجازه می‌دهد تا خدمات رمزارزی را به‌صورت رسمی و تحت نظارت ارائه دهند. اقدام Itau می‌تواند مسیر پذیرش گسترده‌تر رمزارزها در بازار مالی برزیل را هموار سازد و سایر بانک‌ها را به دنبال کردن این مسیر ترغیب کند. این تحویل رسمی نشانگر پیشرفت مهمی در یکپارچه‌سازی دارایی‌های دیجیتال با نظام بانکی است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین رمزارز",
-    "tag": "Itau",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-    "clean_url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-    "image": "https://s.yimg.com/bo/3569e219-664e-5874-9aee-6c6c9f8657dc_1793182835788.jpg",
-    "timestamp": 1793182587.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "be04c7d533",
-    "title_fa": "‏کاتی هوچول قانون چت‌بات هوش مصنوعی کودکان را امضا کرد",
-    "title_en": "NY Governor Kathy Hochul signs law banning harmful AI chatbot features for kids.",
-    "summary": [
-      "‏گورنور نیویورک کاتی هوچول قانون جدیدی برای محدود کردن ویژگی‌های خطرناک چت‌بات‌های هوش مصنوعی در برابر زیر ۱۸ سال امضا کرد",
-      "‏قانون شرکت‌های AI را ملزم می‌کند تا از تظاهر به انسان، تمجید، پرسش‌های عاطفی ناخواسته و تشویق به راز نگه‌داری با کودکان جلوگیری کنند",
-      "‏شرکت‌ها باید سن کاربران را تأیید کنند و حداقل یک گزینه غیرمستند شناسایی سنی ارائه دهند"
-    ],
-    "body_fa": "‏کاتی هوچول، فرماندار ایالت نیویورک، قانون جدیدی را تصویب کرد که چت‌بات‌های هوش مصنوعی را از نمایش هویت انسانی به کاربران زیر ۱۸ سال منع می‌کند. این قانون همچنین گفتگوهای نامناسب شامل تمجید، پرسش‌های عاطفی ناخواسته و تشویق به مخفی‌کردن رازها را برای کودکان محدود می‌سازد. شرکت‌های فناوری ملزم به تأیید سن کاربران هستند و باید حداقل یک روش شناسایی سنی غیرمستند (غیر وابسته به مدارک دولتی) فراهم کنند. پیش از این، شهردار نیویورک زهران ممدانی استفاده از هوش مصنوعی را برای دانش‌آموزان دبستانی ممنوع کرده بود. هدف این اقدامات محافظت از کودکان در برابر تأثیرات منفی هوش مصنوعی و ایجاد چارچوب قانونی واضح برای شرکت‌های AI است.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین هوش مصنوعی",
-    "tag": "چت‌بات",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1020112/ny-governor-kathy-hochul-signs-law-banning-harmful-ai-chatbot-features-for-kids",
-    "clean_url": "https://www.theverge.com/ai-artificial-intelligence/1020112/ny-governor-kathy-hochul-signs-law-banning-harmful-ai-chatbot-features-for-kids",
-    "image": "https://s.yimg.com/bo/74d8684d-2a90-5a06-8f96-1b389f2812ea_1793182336234.jpg",
-    "timestamp": 1793182587.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b17baf2ef1",
-    "title_fa": "‏آینده‌سازهای Nasdaq پیش از تصمیم فدرال‌رزرو با رشد سهام حافظه‌چپ SK Hynix صعود کردند",
-    "title_en": "Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings",
-    "summary": [
-      "‏آینده‌سازهای Nasdaq در روز چهارشنبه افزایش یافتند.",
-      "‏افزایش به دلیل رشد سهام حافظه‌چپ پس از اعلام برنامه تقویت تولید توسط SK Hynix بود.",
-      "‏این حرکت پیش از تصمیم‌گیری فدرال‌رزرو و گزارش‌های مالی شرکت‌ها رخ داد."
-    ],
-    "body_fa": "‏آینده‌سازهای Nasdaq در صبح چهارشنبه رشد مثبت نشان دادند. این صعود به‌دست‌آمده از افزایش قیمت سهام شرکت‌های حافظه‌چپ بود که پس از اعلام SK Hynix برنامه‌ای برای گسترش تولید حافظه‌های جدید منتشر کرد. سرمایه‌گذاران این خبر را نشانه‌ای از تقاضای قوی برای قطعات نیمه‌رسانا می‌دانند. بازارهای جهانی همچنان منتظر تصمیم فدرال‌رزرو درباره نرخ بهره هستند که می‌تواند جهت‌گیری کلی سهام را تعیین کند. علاوه بر این، فصل گزارش‌های مالی شرکت‌های فناوری نیز آغاز شده و می‌تواند نوسانات بیشتری به بازار وارد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "شاخص‌های بورس",
-    "tag": "Nasdaq",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/nasdaq-futures-rise-sk-hynix-boosts-chips-before-fed-decision-earnings-2026-10-28/",
-    "clean_url": "https://www.reuters.com/world/asia-pacific/nasdaq-futures-rise-sk-hynix-boosts-chips-before-fed-decision-earnings-2026-10-28",
-    "image": "https://s.yimg.com/bo/0468ff59-e045-5019-8683-b90b5f560a99_1793181310425.jpg",
-    "timestamp": 1793180342.0,
     "sent_to_telegram": true
   }
 ]
