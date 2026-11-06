@@ -242,6 +242,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "f3aa311fae",
+    "title_fa": "‏دادگاه عالی آمریکا پرونده داوری ورشکستگی Goldman Sachs را می‌شنود",
+    "title_en": "Supreme Court to Hear Goldman Sachs’ Bankruptcy Arbitration Bid",
+    "summary": [
+      "‏دادگاه عالی آمریکا تصمیم گرفت درخواست Goldman Sachs برای ارجاع دعوی ورشکستگی به داوری را بررسی کند.",
+      "‏این تصمیم می‌تواند پیش‌شرط‌های داوری در پرونده‌های مالی بزرگ را تغییر داده و بر روند حل و فصل بدهی‌ها اثر بگذارد.",
+      "‏قضیه به دلیل تأثیر بر قوانین ورشکستگی و بازارهای سرمایه‌گذاری مورد توجه است."
+    ],
+    "body_fa": "‏دادگاه عالی ایالات متحده اعلام کرد که پرونده‌ای را که در آن Goldman Sachs درخواست ارجاع دعوی ورشکستگی به داوری دارد، بررسی خواهد کرد. این درخواست در پی دعوای حقوقی مرتبط با یک پرونده ورشکستگی بزرگ مطرح شد که بانک به دنبال محدود کردن هزینه‌های حقوقی خود است. اگر دادگاه موافقت کند، می‌تواند پیش‌شرط‌های داوری در پرونده‌های مالی مشابه را تغییر داده و امکان حل و فصل سریع‌تر اما کمتر شفاف را فراهم کند. این تصمیم برای سایر مؤسسات مالی که در پرونده‌های ورشکستگی شرکت دارند، پیامدهای مهمی دارد. کارشناسان بازار به این نکته اشاره کردند که هر گونه تغییر در قوانین داوری می‌تواند بر قیمت‌گذاری اوراق بدهی و استراتژی‌های سرمایه‌گذاری تأثیر بگذارد. در نهایت، تاریخ دقیق برگزاری جلسه هنوز مشخص نشده است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قضایای مالی",
+    "tag": "GoldmanSachs",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/supreme-court-to-hear-goldman-sachs-bankruptcy-arbitration-bid",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-06/supreme-court-to-hear-goldman-sachs-bankruptcy-arbitration-bid",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793963460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7254994d25",
+    "title_fa": "‏مری دیلی فدرال رزرو احتمال افزایش نرخ بهره را گفت",
+    "title_en": "Daly says Fed rate hike likely, despite 'painful' tech-stock dive",
+    "summary": [
+      "‏مری دیلی، رئیس بانک فدرال رزرو سانفرانسیسکو، گفت احتمال افزایش نرخ بهره وجود دارد.",
+      "‏این اظهارات می‌تواند فشار بر بازارهای سهام، به‌ویژه سهام فناوری، را تشدید کند.",
+      "‏او افزود که این تصمیم برای کاهش تورم بالا ضروری است."
+    ],
+    "body_fa": "‏مری دیلی، رئیس بانک فدرال رزرو سانفرانسیسکو، روز جمعه اعلام کرد که فدرال رزرو احتمالاً باید نرخ بهره را برای مهار تورم بالا بیشتر افزایش دهد. او گفت این اقدام ضروری است حتی اگر باعث فشار شدید بر سهام فناوری شود که اخیراً با سقوط قابل‌توجهی مواجه شده‌اند. دیلی افزود که سیاست‌گذاران باید به‌دقت تعادل بین کنترل قیمت‌ها و جلوگیری از آسیب به بازارهای مالی را در نظر بگیرند. این اظهارات می‌تواند انتظارات سرمایه‌گذاران را دربارهٔ مسیر نرخ بهره در ماه‌های آینده شکل دهد و نوسانات بیشتری در بازارهای سهام و اوراق قرضه ایجاد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نرخ بهره",
+    "tag": "Fed",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/daly-says-fed-rate-hike-likely-despite-painful-tech-stock-dive-2026-11-06/",
+    "clean_url": "https://www.reuters.com/business/daly-says-fed-rate-hike-likely-despite-painful-tech-stock-dive-2026-11-06",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793961120.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "7f07efbc60",
     "title_fa": "‏بیت‌کوین ۷۶٬۰۰۰ دلار شد پس از خروج ۴۳۰ میلیون ETF ها",
     "title_en": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
@@ -261,6 +305,28 @@
     "clean_url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
     "image": "https://s.yimg.com/bo/7109ea31-bcfe-5429-ae97-fed3711b68a9_1791609928127.jpg",
     "timestamp": 1793960046.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "49f9573b0f",
+    "title_fa": "‏ریچارد نیل متعهد به لغو تعرفه‌های ناعادلانه شد",
+    "title_en": "Top US House Democrat on trade issues committed to reversing 'unjustified' tariffs",
+    "summary": [
+      "‏ریچارد نیل، نماینده دموکرات، گفت قصد دارد تعرفه‌های ناعادلانه را لغو کند.",
+      "‏این می‌تواند روابط تجاری آمریکا را بهبود داده و فشار بر شرکای تجاری را کاهش دهد.",
+      "‏او انتظار می‌رود ریاست کمیته مالیات و تجارت را دوباره به عهده بگیرد."
+    ],
+    "body_fa": "‏ریچارد نیل، نماینده دموکرات و پیش‌بینی‌شده برای بازگشت به ریاست کمیته مالیات و تجارت مجلس نمایندگان، روز جمعه اعلام کرد که متعهد به لغو تعرفه‌های «ناعادلانه» است. او گفت این اقدام برای اصلاح سیاست‌های تجاری آمریکا و کاهش تنش‌های تجاری با کشورهای هدف ضروری است. نیل افزود که کمیته راهنمایی‌های جدیدی برای بازنگری تعرفه‌های اعمال‌شده به کالاهای وارداتی ارائه خواهد داد. این تغییر می‌تواند فشار بر صنایع داخلی را کاهش داده و روابط تجاری بین‌المللی را تسهیل کند. تحلیل‌گران پیش‌بینی می‌کنند که این حرکت ممکن است بازارهای مالی را تحت تأثیر قرار دهد، به‌ویژه در بخش‌های وابسته به تجارت خارجی.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "سیاست تجاری",
+    "tag": "تعرفه‌ها",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/top-us-house-democrat-trade-issues-committed-reversing-unjustified-tariffs-2026-11-06/",
+    "clean_url": "https://www.reuters.com/legal/government/top-us-house-democrat-trade-issues-committed-reversing-unjustified-tariffs-2026-11-06",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793958060.0,
     "sent_to_telegram": true
   },
   {
@@ -352,6 +418,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "777911ac30",
+    "title_fa": "‏گزارش قوی اشتغال، فدرال‌رزرو را به افزایش نرخ دسامبر می‌رساند",
+    "title_en": "Solid Jobs Report Leaves Inflation, Markets to Settle Fed’s December Call",
+    "summary": [
+      "‏گزارش اشتغال آمریکا نشان داد رشد قوی با افزایش 250,000 شغل در ماه گذشته.",
+      "‏این داده‌ها فشار برای افزایش نرخ بهره فدرال‌رزرو در دسامبر ایجاد می‌کند و بازارها را برای تصمیم‌گیری آماده می‌کند.",
+      "‏اگر فروش گسترده هوش مصنوعی ادامه یابد، ممکن است فشار بر نرخ‌ها کاهش یابد."
+    ],
+    "body_fa": "‏گزارش اخیر بازار کار ایالات متحده نشان داد که در ماه گذشته 250,000 شغل جدید اضافه شده‌اند که نشانگر رشد قوی اقتصادی است. این افزایش اشتغال باعث شد تورم همچنان در سطحی بالا باقی بماند و فشار برای رفع آن از سوی فدرال‌رزرو افزایش یابد. تحلیل‌گران بر این باورند که داده‌های مثبت بازار کار احتمالاً منجر به افزایش نرخ بهره در جلسه دسامبر خواهد شد. بازارهای مالی نیز با این پیش‌فرض تنظیم می‌شوند و انتظار دارند فدرال‌رزرو تصمیمی برای رفع نرخ‌ها اتخاذ کند. با این حال، اگر فروش گسترده سهام مرتبط با هوش مصنوعی ادامه یابد، ممکن است فشار بر سیاست پولی کمی کاهش یابد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش اشتغال",
+    "tag": "فدرال‌رزرو",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/economy/central-banking/solid-jobs-report-leaves-inflation-markets-to-settle-feds-december-call-7738799e",
+    "clean_url": "https://www.wsj.com/economy/central-banking/solid-jobs-report-leaves-inflation-markets-to-settle-feds-december-call-7738799e",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793949660.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "6df4cce025",
     "title_fa": "‏به‌روزرسانی NU7 زکش باعث تسریع پرداخت‌های خصوصی شد",
     "title_en": "ZEC news: Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
@@ -415,6 +503,28 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Carbon-Emissions-Plunge-31-as-Oil-Demand-Slumps.html",
     "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_em9vdfgckx.jpg",
     "timestamp": 1793925900.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "457a68edf8",
+    "title_fa": "‏بانک مرکزی نیجریه قوانین صدور استیبل‌کوین را تصویب کرد",
+    "title_en": "Nigeria's central bank introduces stablecoin licensing rules, bans algorithmic versions",
+    "summary": [
+      "‏بانک مرکزی نیجریه از 5 نوامبر قوانین جدید برای صدور استیبل‌کوین‌ها اجرا کرد",
+      "‏قوانین تمام فعالیت‌های دارایی‌های دیجیتال داخل کشور را پوشش می‌دهد و نسخه‌های الگوریتمی را ممنوع می‌کند",
+      "‏این اقدام می‌تواند استفاده از استیبل‌کوین‌های پشتیبانی‌شده توسط ارزهای واقعی را تشویق کند"
+    ],
+    "body_fa": "‏بانک مرکزی نیجریه در تاریخ 5 نوامبر قوانین جدیدی برای صدور و نظارت بر استیبل‌کوین‌ها به اجرا گذاشت. این مقررات بر تمام فعالیت‌های دارایی‌های دیجیتال که در داخل کشور انجام می‌شود یا بر کاربران نیجریه تأثیر می‌گذارد، اعمال می‌شود. به‌ویژه، نسخه‌های الگوریتمی استیبل‌کوین به طور کامل ممنوع شده‌اند. هدف اصلی این اقدام حفظ ثبات سیستم مالی و جلوگیری از ریسک‌های ناشی از ارزهای دیجیتال ناپایدار است. انتظار می‌رود این قوانین باعث تشویق استفاده از استیبل‌کوین‌های پشتیبانی‌شده توسط ارزهای واقعی و ارتقای شفافیت در بازارهای کریپتو در نیجریه شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین استیبل‌کوین",
+    "tag": "stablecoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793925240.0,
     "sent_to_telegram": true
   },
   {
@@ -6487,116 +6597,6 @@
     "clean_url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-after-hours-googl-msft-cmg-now.html",
     "image": "https://s.yimg.com/bo/760581da-bc72-506f-8c74-05fe24a2e964_1789543222833.jpg",
     "timestamp": 1793221757.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0d484e121e",
-    "title_fa": "‏Phillips 66 سود رکوردی 5.6 میلیارد دلاری ثبت کرد",
-    "title_en": "Phillips 66 Posts Record $5.6 Billion Profit as Refining Margins Soar |...",
-    "summary": [
-      "‏Phillips 66 در سه ماهه سوم 2025 سود خالص 5.62 میلیارد دلاری گزارش داد",
-      "‏سود فوق‌العاده به‌دلیل حاشیه‌های پالایش بالا و اختلالات تأمین سوخت خاورمیانه و روسیه حاصل شد",
-      "‏حاشیه پالایش به 38 دلار در هر بشکه رسید و شرکت 2.8 میلیارد دلار به سهامداران بازگرداند"
-    ],
-    "body_fa": "‏شرکت Phillips 66 در گزارش مالی سه ماهه سوم 2025 ، سود خالص 5.62 میلیارد دلاری را اعلام کرد که بیش از 40 برابر سود سال قبل است. این افزایش به‌دلیل رشد حاشیه‌های پالایش به رکورد 38 دلار در هر بشکه و بهره‌برداری 98 درصدی از واحدهای پالایشی حاصل شد. اختلالات در صادرات سوخت خاورمیانه و خسارت به زیرساخت‌های پالایشی روسیه عرضه جهانی دیزل و محصولات نفتی را محدود کرد و تقاضا برای پالایشگاه‌های آمریکایی را تقویت کرد. Phillips 66 همچنین 2.8 میلیارد دلار به‌صورت سود نقدی و بازخرید سهام به سهامداران بازگرداند و بدهی خالص خود را به 12.7 میلیارد دلار کاهش داد. برنامه گسترش واحد Coastal Bend نیز برای رسیدن به ظرفیت 350,000 بشکه در روز تا اوایل 2027 ادامه دارد.",
-    "category": "انرژی و کالا",
-    "subcategory": "سودهای پالایش",
-    "tag": "Phillips66",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Company-News/Phillips-66-Posts-Record-56-Billion-Profit-as-Refining-Margins-Soar.html",
-    "clean_url": "https://oilprice.com/Company-News/Phillips-66-Posts-Record-56-Billion-Profit-as-Refining-Margins-Soar.html",
-    "image": "https://s.yimg.com/bo/b20a60e0-a525-5ddd-927c-a45c7cd11905_1793216722941.jpg",
-    "timestamp": 1793217317.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5f8126ba1d",
-    "title_fa": "‏وزارت بهداشت آمریکا فروش موقت پپتیدهای غیرمجاز را مجاز می‌کند",
-    "title_en": "US health department to allow temporary sale of some unapproved peptides",
-    "summary": [
-      "‏وزارت بهداشت آمریکا به‌صورت موقت اجازه ترکیب و فروش برخی پپتیدهای غیرمجاز را به داروخانه‌ها و پزشکان داد",
-      "‏این تصمیم می‌تواند دسترسی به درمان‌های نوظهور را تسهیل کند و بازار دارویی را تحت تأثیر قرار دهد",
-      "‏قوانین جدید تا زمان بررسی نهایی توسط FDA اعتبار دارد"
-    ],
-    "body_fa": "‏آژانس غذا و داروی آمریکا (FDA) تصمیم گرفته است تا به‌صورت موقت به داروخانه‌ها و پزشکان اجازه دهد که برخی پپتیدهای هنوز تأیید نشده را ترکیب و به بیماران ارائه کنند. این اقدام به‌عنوان راه‌حلی برای رفع نیازهای درمانی فوری در شرایط خاصی که گزینه‌های درمانی موجود کافی نیستند، معرفی شد. استفاده از این پپتیدها فقط تحت نظارت دقیق و برای دوره‌ای محدود مجاز خواهد بود. FDA می‌خواهد پس از جمع‌آوری داده‌های بالینی اولیه، تصمیم نهایی درباره تأیید نهایی یا رد این ترکیبات بگیرد. این تغییر می‌تواند پیشرفت‌های سریع‌تر در حوزه داروهای نوین را تسهیل کند، اما نگرانی‌هایی درباره ایمنی و اثربخشی نیز به‌وجود آورده است.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین دارویی",
-    "tag": "پپتید",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/us-health-department-allow-temporary-sale-some-unapproved-peptides-2026-10-28/",
-    "clean_url": "https://www.reuters.com/legal/litigation/us-health-department-allow-temporary-sale-some-unapproved-peptides-2026-10-28",
-    "image": "https://s.yimg.com/bo/7fb5c917-f38c-58f7-8b34-99ceeb18db01_1779364754843.jpg",
-    "timestamp": 1793202026.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2260c7ea5b",
-    "title_fa": "‏شاخص S&P500 شش روز متوالی پس از تصمیمات فدرال‌رزرو کاهش یافت",
-    "title_en": "Fed Days Have Been Downers Lately",
-    "summary": [
-      "‏S&P500 در شش روز متوالی که فدرال‌رزرو نرخ بهره را اعلام کرد، سقوط کرد.",
-      "‏این دومین دوره طولانی‌ترین نزول از سال 1994 است و نشان‌دهنده حساسیت بازار به سیاست‌های پولی است.",
-      "‏امروز در معاملات صبحانه حدود 0.2 ٪ افزایش یافت."
-    ],
-    "body_fa": "‏طبق تحلیل‌های Bespoke ، شاخص S&P500 در شش روز متوالی که فدرال‌رزرو تصمیمات نرخ بهره خود را اعلام کرده، کاهش یافته است؛ این دوره دومین طولانی‌ترین رکورد نزولی از سال 1994 به شمار می‌آید. این روند نشان می‌دهد سرمایه‌گذاران به‌طور مداوم به واکنش‌های پولی این بانک مرکزی حساس هستند. امروز، با وجود این سابقه نزولی، شاخص در حوالی ساعت‌های اولیه معامله حدود 0.2 ٪ افزایش یافت و نشانگر نوسان محدود در روز جاری است. این وضعیت می‌تواند برای تصمیم‌گیرندگان بازار و سرمایه‌گذاران مهم باشد، زیرا نشان‌دهندهٔ تأثیر مستقیم سیاست‌های پولی بر عملکرد بازار سهام است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "شاخص S&P500",
-    "tag": "S&P500",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/fed-days-have-been-downers-lately-RQMyMdK8o9SrEdL32Dij",
-    "clean_url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/fed-days-have-been-downers-lately-RQMyMdK8o9SrEdL32Dij",
-    "image": "https://s.yimg.com/bo/02b53b41-31c9-55e8-a94c-387c89fd4a39_1790505440345.jpg",
-    "timestamp": 1793201426.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c39eb7c44b",
-    "title_fa": "‏بودجه جدید بریتانیا هزینه‌های انرژی را کاهش داد",
-    "title_en": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-    "summary": [
-      "‏وزیر مالی جان هیلی اولین بودجه خود را با حذف هزینه ثابت گاز و تمدید تخفیف برق برای خانوارها اعلام کرد",
-      "‏این اقدامات برای کاهش فشار هزینه‌های زندگی و حمایت از خانواده‌ها در برابر تورم ۳٫۵٪ هدف‌گذاری شده‌اند",
-      "‏بودجه همچنین شامل افزایش هزینه دفاع، سرمایه‌گذاری در هوش مصنوعی و حمایت از کسب‌وکارهای کوچک است"
-    ],
-    "body_fa": "‏جان هیلی، وزیر مالی بریتانیا، در اولین بودجه‌اش هزینه ثابت گاز خانگی را حذف کرد و تخفیف برق را تا ژوئیه ۲۰۲۷ برای میلیون‌ها خانوار تمدید کرد. علاوه بر این، هر خانوار در چهار طبقه مالیاتی پایین‌امتیاز، چک ۱۰۰ پوندی دریافت می‌کند که مجموع هزینه این بخش ۲٫۶ میلیارد پوند است. نرخ تورم سالانه به ۳٫۵٪ رسیده و حداقل دستمزد ۳٫۹٪ افزایش یافت؛ در عین حال دولت قصد دارد هزینه‌های رفاهی را از طریق اصلاحات بازنشستگی و مزایای بیماری کاهش دهد. بودجه همچنین ۱۵ میلیون پوند برای کتاب‌های کودکان، ۲۵۰ میلیون پوند برای مسکن اول و ۱۰۰ میلیون پوند برای کاهش بی‌خانمانی اختصاص می‌دهد. بخش دفاعی و پروژه‌های هوش مصنوعی نیز با سرمایه‌گذاری‌های جدید تقویت می‌شوند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بودجه مالی",
-    "tag": "بودجه",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-    "clean_url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-    "image": "https://s.yimg.com/bo/3e642cd0-1cca-5e34-9142-69cea94062f8_1792230806387.jpg",
-    "timestamp": 1793200586.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1d8e44d3f3",
-    "title_fa": "‏وزیر خزانه‌داری آمریکا احتمال افزایش مجدد نرخ بهره را رد نکرد",
-    "title_en": "Bessent says ‘not necessarily’ a mistake if the Fed hikes again",
-    "summary": [
-      "‏وزیر خزانه‌داری آمریکا اعلام کرد افزایش دوباره نرخ بهره توسط فدرال‌رزرو لزوماً یک اشتباه سیاست‌گذاری نخواهد بود.",
-      "‏این اظهارات نشان می‌دهد دولت آمریکا انعطاف بیشتری در برابر سیاست‌های انقباضی نشان می‌دهد.",
-      "‏سخنان Scott Bessent می‌تواند بر انتظارات بازارها درباره تصمیمات بعدی فدرال‌رزرو اثر بگذارد."
-    ],
-    "body_fa": "‏وزیر خزانه‌داری آمریکا، Scott Bessent ، اعلام کرد که افزایش احتمالی نرخ بهره توسط فدرال‌رزرو لزوماً یک اشتباه در سیاست‌گذاری پولی محسوب نمی‌شود. او در گفت‌وگو با شبکه CNBC و در پاسخ به این پرسش که آیا افزایش مجدد نرخ‌ها خطا خواهد بود، تأکید کرد که چنین برداشتی لزوماً درست نیست. این موضع‌گیری در شرایطی مطرح می‌شود که فعالان بازارهای مالی به دقت جهت‌گیری‌های پولی و استقلال بانک مرکزی آمریکا را زیر نظر دارند. این اظهارات نشان می‌دهد که تیم اقتصادی دولت جدید آمریکا در صورت تداوم فشارهای تورمی، مخالفتی قطعی با ادامه انقباض پولی نخواهد داشت. بازارهای جهانی معمولاً چنین اظهاراتی از سوی مقامات ارشد اقتصادی را به عنوان نشانه‌ای از احتمال حفظ سیاست‌های سخت‌گیرانه تعبیر می‌کنند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی آمریکا",
-    "tag": "فدرال‌رزرو",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/video/2026/10/28/bessent-says-not-necessarily-a-mistake-if-the-fed-hikes-again.html",
-    "clean_url": "https://www.cnbc.com/video/2026/10/28/bessent-says-not-necessarily-a-mistake-if-the-fed-hikes-again.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108477070-1793223128075-1793223005936-bessentfed_1_.jpg?v=1793223131&w=1920&h=1080",
-    "timestamp": 1793197920.0,
     "sent_to_telegram": true
   }
 ]
