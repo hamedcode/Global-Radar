@@ -1,5 +1,71 @@
 [
   {
+    "id": "daa232a0ff",
+    "title_fa": "‏دیو وهنر، مسئول استراتژی متا، به Fireworks می‌پیوندد",
+    "title_en": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup...",
+    "summary": [
+      "‏دیو وهنر، مسئول استراتژی متا، پس از ۱۴ سال خدمت به استارتاپ AI Fireworks می‌پیوندد",
+      "‏این انتقال نشان‌دهنده رقابت شدید برای استعدادهای AI و می‌تواند رشد Fireworks را سرعت بخشد",
+      "‏Fireworks که در جولای به ارزش ۱۷.5 میلیارد دلار ارزیابی شد، به‌زودی ممکن است برای ۳۰‑۴۰ میلیارد دلار جذب سرمایه کند"
+    ],
+    "body_fa": "‏دیو وهنر، مسئول استراتژی متا، روز جمعه اعلام کرد که برای پیوستن به استارتاپ چهار ساله AI به نام Fireworks به عنوان مدیر مالی (CFO) می‌رود. Fireworks یک پلتفرم inference و آموزش مدل‌های باز است که در جولای به ارزش ۱۷.5 میلیارد دلار در دور سری D ارزیابی شد و توسط سرمایه‌گذاران بزرگی همچون Nvidia و Sequoia Capital پشتیبانی می‌شود. وهنر که از سال ۲۰۱۲ در متا مشغول به کار بوده و از ۲۰۱۴ تا ۲۰۲۲ به عنوان CFO شرکت خدمت کرده، در بیانیه‌ای از جاویر اولیوان، معاون اجرایی متا، به‌خاطر رهبری‌اش در دوران رشد پیچیده شرکت تشکر شد. مدیرعامل Fireworks ، لین چیائو، گفت هدف شرکت ارائه راه‌حل‌های عملی برای نیازهای مشتریان است و وهنر را به‌دلیل تمرکز بر فناوری AI به‌عنوان تحول‌گر اصلی می‌بیند. این استارتاپ اخیراً گزارشی از یک حادثه امنیتی جزئی منتشر کرد که دسترسی غیرمجاز به متغیرهای محیطی محدود شده بود، اما هیچ دسترسی به مدل‌ها یا داده‌های مشتریان شناسایی نشد. شرکت در حال بررسی امکان جذب سرمایه جدید با ارزش‌گذاری ۳۰‑۴۰ میلیارد دلار است.",
+    "category": "تکنولوژی",
+    "subcategory": "انتقال مدیران ارشد",
+    "tag": "Dave Wehner",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+    "clean_url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+    "image": "https://s.yimg.com/bo/e863bb89-1599-596a-be83-04d35a359678_1794075155038.jpg",
+    "timestamp": 1794073905.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2a26e3579b",
+    "title_fa": "‏بندرهای لس آنجلس و لانگ بیچ مذاکرات را تمدید کردند",
+    "title_en": "Employers, watchmen at California ports extend contract talks",
+    "summary": [
+      "‏کارفرمایان و اتحادیه کارگری بندرهای لس آنجلس و لانگ بیچ مذاکرات قرارداد را یک هفته تمدید کردند",
+      "‏این تمدید خطر بروز اعتصاب را حفظ می‌کند و می‌تواند جریان کالاهای وارداتی به آمریکا و زنجیره تأمین جهانی را مختل کند",
+      "‏مذاکرات پیشین به دلیل اختلاف در دستمزد و ساعات کاری به بن‌بست رسیده بود"
+    ],
+    "body_fa": "‏گروه کارفرمایان بندرهای لس آنجلس و لانگ بیچ و اتحادیه بین‌المللی کارگران بندر (ILWU) مذاکرات قرارداد کار را یک هفته دیگر به تعویق انداختند. مهلت قبلی که برای رسیدن به توافق تعیین شده بود، در پایان این هفته منقضی می‌شد. اختلافات اصلی حول دستمزد، ساعات کاری و شرایط استخدامی است که در مذاکرات پیشین به بن‌بست رسیده بود. ادامه این مذاکرات خطر بروز اعتصاب گسترده را زنده نگه می‌دارد که می‌تواند ترافیک کالاهای وارداتی به ایالات متحده و زنجیره تأمین جهانی را به‌طور قابل‌توجهی مختل کند. مقامات دولتی و شرکت‌های حمل‌ونقل به دنبال یافتن راه‌حل سریع هستند تا از اثرات منفی بر تجارت بین‌المللی جلوگیری شود.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "مذاکرات کارگری",
+    "tag": "ILWU",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/employers-watchmen-california-ports-extend-contract-talks-2026-11-07/",
+    "clean_url": "https://www.reuters.com/business/world-at-work/employers-watchmen-california-ports-extend-contract-talks-2026-11-07",
+    "image": "https://s.yimg.com/bo/0726e4cf-0dc3-53b0-a1bb-7986a14d80bc_1794062917994.jpg",
+    "timestamp": 1794061245.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0e3170f186",
+    "title_fa": "‏سهام Berkshire Hathaway در مقابل نگرانی‌های AI ۵٪ رشد کرد",
+    "title_en": "Berkshire shares surge as Wall Street swoons amid AI fears",
+    "summary": [
+      "‏سهام Berkshire Hathaway با رشد بیش از 5 ٪ در هفته گذشته صعود کرد.",
+      "‏این افزایش در حالی بود که شاخص S&P 500 و Nasdaq به‌طور قابل‌توجهی سقوط کردند و سرمایه‌گذاران به دارایی‌های ایمن روی آوردند.",
+      "‏شرکت با خرید بازپس‌گیری سهام به‌مقدار 9.6 میلیارد دلار و سرمایه‌گذاری در Alphabet ، اما نگرانی‌ها درباره هزینه‌های مراکز داده AI تاثیرگذار بود."
+    ],
+    "body_fa": "‏سهام Berkshire Hathaway در این هفته بیش از 5 ٪ افزایش یافت و از شاخص S&P 500 که حدود 2.7 ٪ سقوط کرده بود پیشی گرفت. این حرکت در واکنش به فروش گسترده سهام فناوری و نگرانی‌ها درباره هزینه‌های سنگین مراکز داده هوش مصنوعی بود. Berkshire در سه روز اخیر سه بسته بسته شدن رکوردی ثبت کرد و اکنون 5.8 درصد پیشی شاخص اصلی دارد. شرکت خرید بازپس‌گیری سهام را در سه‌ماهه گذشته به 9.6 میلیارد دلار دو برابر کرد، در حالی که سود عملیاتی کمی کاهش یافت. علی‌رغم این، Berkshire همچنان سرمایه‌گذاری قابل‌توجهی در Alphabet دارد؛ در پایان ژوئن تقریباً 106 میلیون سهم (شامل 28.6 میلیون سهم خرید مستقیم) به ارزش حدود 10 میلیارد دلار در اختیار دارد. این ترکیب از عملکرد قوی سهام و نگرانی‌های بازار نسبت به AI باعث جلب توجه سرمایه‌گذاران شد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "Berkshire",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+    "clean_url": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+    "image": "https://s.yimg.com/bo/33c331d4-c079-5465-9a48-3bd8031ee2b6_1784149889185.jpg",
+    "timestamp": 1794054045.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "4f4b0fe1cd",
     "title_fa": "‏دموکرات‌ها کنترل کنگره آمریکا را به دست گرفتند",
     "title_en": "The Week in Breakingviews: After the deluge",
@@ -44,6 +110,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2da98e17ab",
+    "title_fa": "‏Binance Kaiser Ng را ترک کرد؛ Justin Yek CFO شد",
+    "title_en": "Binance Says Kaiser Ng Leaving, Names Justin Yek New CFO",
+    "summary": [
+      "‏Binance اعلام کرد Kaiser Ng از سمت CFO کناره‌گیری کرد",
+      "‏شرکت Justin Yek را به عنوان CFO جدید معرفی کرد",
+      "‏این تغییر ممکن است استراتژی مالی و نظارتی صرافی را تحت تأثیر قرار دهد"
+    ],
+    "body_fa": "‏Binance ، بزرگ‌ترین صرافی رمزارز جهان، خبر داد که Kaiser Ng از سمت مدیر مالی (CFO) خود کناره‌گیری کرده است. شرکت جستین Yek را به عنوان جایگزین او معرفی کرد. این تغییر مدیریتی بدون توضیح رسمی درباره دلایل رخ داد. جایگزینی CFO می‌تواند بر سیاست‌های هزینه‌ای، برنامه‌های توسعه محصول و تعاملات نظارتی صرافی تأثیر بگذارد. بازارهای رمزارز به‌سرعت واکنش نشان دادند و برخی تحلیل‌گران انتظار دارند این تصمیم نشانگر تغییر در استراتژی مالی Binance باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "تغییرات اجرایی",
+    "tag": "Binance",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/binance-says-kaiser-ng-leaving-names-justin-yek-new-cfo",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-07/binance-says-kaiser-ng-leaving-names-justin-yek-new-cfo",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794044460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "849b4ef919",
+    "title_fa": "‏پلتفرم‌ها به هکران Binance پولشویی میلیاردها دلار را میسر می‌کنند",
+    "title_en": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
+    "summary": [
+      "‏هکرهای کره‌شمالی از طریق پلتفرم‌های رمزی، میلیاردها دلار سرقت‌شده از Binance را شستشو می‌دهند.",
+      "‏این موضوع نگرانی‌های جدی برای قانون‌گذاران و نهادهای نظارتی در حوزه رمزارزها ایجاد می‌کند.",
+      "‏توسعه‌دهندگان برخی پلتفرم‌ها اعلام کردند که نمی‌توانند این جریان را متوقف کنند."
+    ],
+    "body_fa": "‏هکرهای کره‌شمالی پس از نفوذ به سامانه Binance ، میلیاردها دلار رمزارز را به حساب‌های مختلف منتقل کردند. این وجوه از طریق پلتفرم‌های رمزی ناشناخته شستشو می‌شود و قانون‌گذاران را در برابر این پولشویی بزرگ به چالش می‌کشد. برخی از توسعه‌دهندگان این پلتفرم‌ها اذعان کردند که ابزارهای کنترلی کافی برای مسدود کردن این جریان ندارند. نهادهای نظارتی بین‌المللی به دنبال راهکارهای جدید برای پیگیری و مسدودسازی این عملیات هستند و فشار بر صرافی‌ها برای بهبود نظارت افزایش یافته است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پولشویی",
+    "tag": "Binance",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737",
+    "clean_url": "https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794042000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d36ccfc26a",
+    "title_fa": "‏ETF های بیت‌کوین در 2026 به خروج سرمایه منفی رفتند",
+    "title_en": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+    "summary": [
+      "‏هفته گذشته، 12 صندوق اسپات بیت‌کوین آمریکا مجموعاً 1.28 میلیارد دلار خروج سرمایه داشتند",
+      "‏این خروج سرمایه، بدترین هفته از ژوئن است و نشان‌دهنده فشار بازار کریپتو است",
+      "‏همچنین ETF های اتر، سولانا و Hyperliquid نیز به روند خروج هفتگی پیوستند"
+    ],
+    "body_fa": "‏در هفتهٔ گذشته، 12 صندوق اسپات بیت‌کوین ثبت‌شده در ایالات متحده مجموعاً 1.28 میلیارد دلار خروج سرمایه تجربه کردند که بدترین دورهٔ خروج از ژوئن است. این جریان باعث شد تا این صندوق‌ها تا کنون در سال جاری 914.1 میلیون دلار از ارزش خود را از دست بدهند. علاوه بر بیت‌کوین، صندوق‌های ETF اتر، سولانا و Hyperliquid نیز به‌طور مداوم خروج سرمایه داشته و روند نزولی هفتگی خود را ادامه دادند. این خروج‌های گسترده نشان می‌دهد که سرمایه‌گذاران در بازار کریپتو به‌دنبال کاهش ریسک یا انتظار کاهش قیمت‌ها هستند. تحلیل‌گران هشدار می‌دهند که چنین فشارهای خروجی می‌تواند نقدینگی کلی بازار را تحت فشار قرار دهد و نوسانات قیمت را تشدید کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ETF خروج سرمایه",
+    "tag": "bitcoin_etf",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+    "clean_url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794041160.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "2b9300ec82",
     "title_fa": "‏ترامپ اعلام کرد آمریکا ضربه‌های کوچک به جزیره قشم زد",
     "title_en": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
@@ -63,6 +195,28 @@
     "clean_url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
     "image": "https://s.yimg.com/bo/1fec60a7-e1c5-5a6f-bffb-b8a6b59427bf_1794038246447.jpg",
     "timestamp": 1794038120.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "95acbbc5db",
+    "title_fa": "‏شلیک‌گر پنج کشته و بیش از ده زخمی در کراکوف",
+    "title_en": "Six people killed by Polish gunman in Krakow's main square",
+    "summary": [
+      "‏پنج نفر در تیراندازی در میدان اصلی کراکوف کشته شدند",
+      "‏بیش از ده نفر نیز زخمی شدند و امنیت شهر به چالش کشیده شد",
+      "‏پلیس تحقیقات برای شناسایی هویت تیرانداز را آغاز کرده است"
+    ],
+    "body_fa": "‏پلیس لهستان اعلام کرد که در روز شنبه در میدان اصلی شهر کراکوف، یک تیرانداز مسلح به حداقل پنج نفر کشته و بیش از ده نفر را زخمی کرده است. این حمله در ساعت اوایل بعدازظهر رخ داد و جمعیت زیادی که در بازار حضور داشتند را هدف قرار داد. مقامات فوراً به محل حادثه شتافتند و خدمات اورژانسی به مصدومان رسید. هویت تیرانداز هنوز مشخص نشده و پلیس تحقیقات را برای تعیین انگیزه و جزئیات ادامه می‌دهد. این حادثه نگرانی‌های امنیتی را در سطح ملی و اروپایی افزایش داده است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حمله مسلحانه",
+    "tag": "کراکوف",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07/",
+    "clean_url": "https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794035280.0,
     "sent_to_telegram": true
   },
   {
@@ -260,6 +414,28 @@
     "clean_url": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794020760.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7c43ff4cb8",
+    "title_fa": "‏پس از شکست میانه‌دوره، Vance برند 2028 خود را می‌سازد",
+    "title_en": "After midterm rout, Vance tries to build his own 2028 brand",
+    "summary": [
+      "‏سناتور جمهوری‌خواه JD Vance پس از شکست رپبلیکان در انتخابات میانه‌دوره، استراتژی جدیدی برای خود اتخاذ کرد",
+      "‏او کمتر درباره دونالد ترامپ صحبت کرد و بیشتر به مسائلی که می‌خواهد برند سیاسی 2028 خود را شکل دهد، پرداخته است",
+      "‏این حرکت می‌تواند رقابت داخلی جمهوری‌خواهان را برای نامزدی 2028 تغییر دهد"
+    ],
+    "body_fa": "‏پس از شکست رپبلیکان در انتخابات میانه‌دورهٔ 2022 که منجر به کاهش چشمگیر تعداد نمایندگان شد، سناتور جمهوری‌خواه JD Vance به دنبال بازگرداندن موقعیت حزب است. در این دورهٔ فشار، Vance استراتژی خود را تغییر داد و کمتر دربارهٔ رئیس‌جمهور پیشین دونالد ترامپ صحبت کرد. او به جای تمرکز بر شخصیت‌های سیاسی، به مسائلی چون اقتصاد، بهداشت و امنیت ملی پرداخته و سعی کرد تصویری مستقل از ترامپ ارائه دهد. Vance اعلام کرد که قصد دارد برند سیاسی خود را برای انتخابات ریاست‌جمهوری 2028 شکل دهد و به عنوان گزینه‌ای تازه برای رپبلیکان مطرح شود. تحلیل‌گران می‌گویند این گام می‌تواند رقابت داخلی حزب را بازنگری کند و حمایت‌های جدیدی را جذب کند. اگر Vance موفق به جذب پایهٔ رأی‌گیری شود، می‌تواند تعادل قدرت در سیاست آمریکا و روابط بین‌المللی را تحت تأثیر قرار دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "انتخابات 2028 آمریکا",
+    "tag": "Vance",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/after-midterm-rout-vance-tries-build-his-own-2028-brand-2026-11-07/",
+    "clean_url": "https://www.reuters.com/world/us/after-midterm-rout-vance-tries-build-his-own-2028-brand-2026-11-07",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794020580.0,
     "sent_to_telegram": true
   },
   {
@@ -6420,182 +6596,6 @@
     "clean_url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
     "image": "https://s.yimg.com/bo/a6bbbc37-e52a-5298-84dd-6325255b48ca_1783450640232.jpg",
     "timestamp": 1793290622.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b50161a760",
-    "title_fa": "‏Anthropic خطرهای زنجیره تأمین را در سند IPO نشان داد",
-    "title_en": "Anthropic’s IPO Prospectus Documents Tremendous Supply Chain Risks",
-    "summary": [
-      "‏شرکت Anthropic سند S‑1 خود را در ۲۶ اکتبر منتشر کرد و خطرهای جدی زنجیره تأمین را فهرست کرد.",
-      "‏این خطرها شامل کمبود قطعات پیشرفته، پیش‌بینی نادرست تقاضا و تعهدات بزرگ خرید محاسبه برای دیتاسنترهاست.",
-      "‏Anthropic متعهد به صرف بیش از ۱۰۰ میلیارد دلار برای AWS و ۳۰ میلیارد دلار برای Azure در ده سال آینده است."
-    ],
-    "body_fa": "‏شرکت Anthropic در ۲۶ اکتبر سند S‑1 خود را که پیش‌نیاز عرضه عمومی است، منتشر کرد. در این سند، شرکت خطرهای جدی زنجیره تأمین را که می‌تواند بر توانایی تولید هوش مصنوعی پیشرفته اثر بگذارد، تشریح کرده است. از جمله این خطرها می‌توان به پیش‌بینی دشوار تقاضا، کمبود قطعات پیشرفته برای دیتاسنترها و تأثیر تعرفه‌ها و مقررات اشاره کرد. Anthropic برای حفظ موقعیت رهبری خود در زمینه AI ، متعهد به سرمایه‌گذاری‌های کلان در ساخت دیتاسنترها و خرید ظرفیت محاسباتی شده است. به‌طور خاص، این شرکت بیش از ۱۰۰ میلیارد دلار برای استفاده از فناوری‌های AWS و ۳۰ میلیارد دلار برای ظرفیت Azure در طول ده سال آینده تعهد داده است. همچنین، برنامه‌ریزی برای صرف حدود ۴۵ میلیارد دلار در ساخت یک دیتاسنتر در ایالت ویرجینیا در شش سال آینده دارد. این تعهدات بزرگ باعث می‌شود که هزینه‌های نقدی Anthropic در کوتاه‌مدت بسیار بالاتر از درآمدهای مبتنی بر مصرف باشد و ریسک‌های مالی قابل توجهی ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Forbes · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-prospectus-documents-tremendous-143550370.html",
-    "clean_url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-prospectus-documents-tremendous-143550370.html",
-    "image": "https://media.zenfs.com/en/forbes_contributor_845/b1fecc796b315f6ea6a15cda14ed290e.jpg",
-    "timestamp": 1793286118.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "751fae2220",
-    "title_fa": "‏بنیان‌گذار Binance اعلام کرد صرافی ممکن است هک شده باشد",
-    "title_en": "Binance Founder CZ Says Exchange ‘May Have Been Hacked’",
-    "summary": [
-      "‏بنیان‌گذار Binance ، CZ ، گفت احتمال هک شدن صرافی وجود دارد",
-      "‏این خبر می‌تواند نوسان شدید در بازارهای رمزارز و نگرانی از امنیت دارایی‌ها ایجاد کند",
-      "‏Binance هنوز جزئیات یا میزان خسارت را منتشر نکرده است"
-    ],
-    "body_fa": "‏چانگ‌پنگ ژائو (CZ)، بنیان‌گذار صرافی بزرگ رمزارز Binance ، اعلام کرد که ممکن است این پلتفرم مورد نفوذ هکرها قرار گرفته باشد. او گفت هنوز اطلاعات دقیق در دست نیست و تیم فنی در حال بررسی است. این ادعا می‌تواند باعث نگرانی سرمایه‌گذاران و نوسان شدید قیمت‌های رمزارزها شود، به‌ویژه چون Binance یکی از بزرگ‌ترین صرافی‌های جهان است. در صورت تأیید هک، ممکن است کاربران به دنبال انتقال دارایی‌های خود به صرافی‌های دیگر باشند. بازارهای جهانی رمزارز به‌سرعت واکنش نشان می‌دهند و نظارت‌کنندگان به دنبال هرگونه جزئیات بیشتر هستند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "هک صرافی",
-    "tag": "Binance",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793284980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "44bd01ad70",
-    "title_fa": "‏بایننس در بزرگ‌ترین هک رمزارزی ۵.۷ میلیارد دلاری خسارت کرد",
-    "title_en": "Binance loses $5.7 billion in largest crypto hack to date",
-    "summary": [
-      "‏بایننس حدود ۵.۷ میلیارد دلار را در بزرگ‌ترین هک رمزارزی تاریخ از دست داد.",
-      "‏این حادثه باعث سقوط قیمت بیت‌کوین، اتریوم و بایننس کوین شد.",
-      "‏بازارهای رمزارزی پس از آن با کاهش ۲ تا ۳ درصدی مواجه شدند."
-    ],
-    "body_fa": "‏بایننس اعلام کرد که در یک حمله سایبری بزرگ، حدود ۵.۷ میلیارد دلار ارزش رمزارزها از کیف‌های سرد خود سرقت شد. این هک که بزرگ‌ترین سرقت در تاریخ رمزارزها محسوب می‌شود، باعث شد قیمت بیت‌کوین به زیر ۷۹ هزار دلار و اتریوم به زیر ۲۲۵۰ دلار سقوط کند. بایننس به سرعت اعلام کرد که تیم امنیتی در حال بررسی حادثه است و کاربران را از برداشت‌های اضطراری منع کرده است. کارشناسان هشدار دادند این اتفاق می‌تواند اعتماد سرمایه‌گذاران به صرافی‌های متمرکز را تحت فشار قرار دهد و نوسانات بیشتری در بازار ایجاد کند. در عین حال، برخی مقامات نظارتی به بررسی قوانین ضدپولشویی و امنیتی صرافی‌ها پرداخته‌اند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "هک و امنیت",
-    "tag": "Binance",
-    "urgency": 9,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-    "clean_url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793283120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c82f7effd7",
-    "title_fa": "‏ایالات متحده واردات سه شرکت ژنومیک چینی را ممنوع کرد",
-    "title_en": "US Bans Imports From Three Chinese Genomics Firms",
-    "summary": [
-      "‏ایالات متحده واردات سه شرکت بزرگ ژنومیک چینی را به دلیل ادعای استفاده از کار اجباری در سین‌کیانگ ممنوع کرد",
-      "‏این تصمیم می‌تواند زنجیره تأمین تجهیزات ژنتیکی را تحت فشار قرار دهد و تنش‌های تجاری آمریکا-چین را تشدید کند",
-      "‏شرکت‌های مورد نظر BGI Genomics ، MGI Tech و Shenzhen BGI Technology به فهرست Uyghur Forced Labor Prevention Act اضافه شدند"
-    ],
-    "body_fa": "‏روز چهارشنبه، وزارت امنیت داخلی آمریکا سه شرکت بزرگ ژنومیک چینی را به فهرست Uyghur Forced Labor Prevention Act افزود و واردات کالاهای مرتبط با آن‌ها را ممنوع کرد. این شرکت‌ها شامل BGI Genomics Co. Ltd., MGI Tech Co. Ltd. و Shenzhen BGI Technology Co. Ltd. (معروف به BGI Group) هستند که به‌دلیل alleged ارتباط با کار اجباری اویغورها در استان سین‌کیانگ مورد انتقاد قرار گرفته‌اند. فهرست شدن در این لیست به این معنی است که گمرک آمریکا کالاهای تولید یا مرتبط با این شرکت‌ها را به‌صورت پیش‌فرض به‌عنوان محصول کار اجباری می‌داند و ورودشان به آمریکا ممنوع می‌شود، مگر اینکه واردکنندگان بار دیگر اثبات کنند. این اقدام در چارچوب فشارهای تجاری گسترده‌تر آمریکا علیه چین برای مقابله با نقض حقوق بشر در سین‌کیانگ است. چین این ادعاها را رد کرده و می‌گوید این تحریم‌ها بی‌اساس هستند. ممنوعیت می‌تواند تأثیر قابل‌توجهی بر بازارهای ژنومیک جهانی داشته باشد و تنش‌های اقتصادی دو کشور را تشدید کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های تجاری",
-    "tag": "BGI",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Hoodline",
-    "url": "https://hoodline.com/2026/10/us-blacklists-three-chinese-genomics-giants-over-xinjiang-forced-labor-ties/",
-    "clean_url": "https://hoodline.com/2026/10/us-blacklists-three-chinese-genomics-giants-over-xinjiang-forced-labor-ties",
-    "image": "https://s.yimg.com/bo/c1619a85-f693-50b8-a30c-7b5d21ef27ed_1793282010773.jpg",
-    "timestamp": 1793282517.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8e27414bcf",
-    "title_fa": "‏ترامپ تعارفۀ برای Audi و کارخانه ۴ میلیارد دلاری جورجیا",
-    "title_en": "US promises tariff relief in talks with Audi on Georgia plant, sources say",
-    "summary": [
-      "‏دولت ترامپ تعارفۀ گمرکی برای Audi به منظور ساخت کارخانه ۴ میلیارد دلاری در جورجیا وعده داد.",
-      "‏این اقدام می‌تواند هزینه‌های تولید را کاهش داده و سرمایه‌گذاری بزرگ خودروسازی را در ایالات متحده تقویت کند.",
-      "‏منبع‌ها گفتند مذاکرات هنوز در مرحله اولیه است."
-    ],
-    "body_fa": "‏دولت ترامپ در مذاکراتی با Audi تعارفۀ گمرکی را برای کارخانهٔ جدید این شرکت در ایالت جورجیا وعده داد. این کارخانه با هزینهٔ حدود ۴ میلیارد دلاری قرار است خطوط مونتاژ خودروهای لوکس را در آمریکا راه‌اندازی کند. هدف اصلی این تعارف، کاهش هزینه‌های واردات قطعات و جذب سرمایه‌گذاری بزرگ خودروسازی به داخل کشور است. منابعی که در این مذاکرات شرکت داشته‌اند، گفتند این توافق هنوز در مرحلهٔ اولیه است و جزئیات دقیق تعارفۀ گمرکی هنوز نهایی نشده. اگر اجرا شود، می‌تواند رقابت داخلی را تقویت کرده و نقش آمریکا را در زنجیره تأمین خودروسازی جهانی ارتقا دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "سرمایه‌گذاری خودروسازی",
-    "tag": "Audi",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/us-promises-tariff-relief-talks-with-audi-georgia-plant-sources-say-2026-10-29/",
-    "clean_url": "https://www.reuters.com/business/autos-transportation/us-promises-tariff-relief-talks-with-audi-georgia-plant-sources-say-2026-10-29",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793281800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d3edc0ade1",
-    "title_fa": "‏دونالد گلوور کارگردان و بازیگر سریال زنده‌پخش PUBG در نتفلیکس",
-    "title_en": "PUBG is Getting a Live-Action Series on Netflix Written, Directed by, and Starring Donald Glover",
-    "summary": [
-      "‏دونالد گلوور کارگردان و بازیگر سریال زنده‌پخش PUBG برای نتفلیکس شد",
-      "‏این پروژه می‌تواند حضور بازی را در حوزه سرگرمی‌های اصلی تقویت کند",
-      "‏برادرش استیفن گلوور هم به‌عنوان نویسنده و تهیه‌کننده مشارکت دارد"
-    ],
-    "body_fa": "‏کروفتون، شرکت مالک PUBG ، اعلام کرد که یک سریال زنده‌پخش بر پایه بازی ساخته می‌شود. این سریال توسط دونالد گلوور، هنرمند Grammy‑برنده و بازیگر مشهور، نوشته، کارگردانی و در آن بازی می‌کند. برادرش استیفن گلوور به عنوان هم‌نویس و تهیه‌کننده اجرایی نیز در پروژه حضور دارد. دیگر تهیه‌کنندگان اجرایی شامل مایکل شافر (NEON TV)، فام یودورجی (Gilga) و تیم‌های Taeseok Jang و Sujin Lee (LV3H) هستند. هدف کرافتون گسترش IP به «محتوای سرگرمی اصلی» است و LV3H به توسعه و تولید سریال کمک می‌کند.",
-    "category": "گیم",
-    "subcategory": "سریال تلویزیونی",
-    "tag": "PUBG",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover",
-    "clean_url": "https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover",
-    "image": "https://assets-prd.ignimgs.com/2026/10/29/donald-glover-to-direct-star-in-pubg-series-netflix-1793301671634.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "timestamp": 1793276580.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d7b466fa1c",
-    "title_fa": "‏Strategy درآمد ۱۹٫۵ میلیارد دلاری در سه‌ماهه سوم اعلام کرد",
-    "title_en": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
-    "summary": [
-      "‏Strategy درآمد ۱۹٫۵ میلیارد دلاری در سه‌ماهه سوم گزارش داد",
-      "‏سهامداران ترجیحی تغییر به سود روزانه را تصویب کردند",
-      "‏این تغییر می‌تواند نقدینگی سهامداران را افزایش دهد"
-    ],
-    "body_fa": "‏شرکت Strategy اعلام کرد که در سه‌ماهه سوم سال مالی جاری، درآمد خالص ۱۹٫۵ میلیارد دلار به دست آورده است. این رقم نسبت به دوره مشابه سال گذشته رشد قابل توجهی داشته و نشان‌دهنده عملکرد قوی شرکت در زمینه‌های اصلی‌اش است. در همین هفته، دارندگان سهام ترجیحی با نمادهای STRC ، STRF ، STRK و STRD تصمیم به تغییر سیاست توزیع سود گرفتند و موافقت کردند که سودها به‌صورت روزانه محاسبه و پرداخت شوند. این تغییر می‌تواند برای سرمایه‌گذاران جذاب باشد، زیرا امکان دریافت نقدینگی سریع‌تر را فراهم می‌کند. تحلیل‌گران انتظار دارند این اقدام به جذب سرمایه‌گذاران جدید و حمایت از قیمت سهام کمک کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "گزارش مالی",
-    "tag": "درآمد",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793275200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a9eaf35dc4",
-    "title_fa": "‏بانک دیجیتال Nubank برای ورود به بازار آمریکا برنامه دارد",
-    "title_en": "Nubank, Latin America's largest digital bank, is turning its eyes toward the US — where foreign rivals have failed",
-    "summary": [
-      "‏Nubank ، بزرگ‌ترین بانک دیجیتال لاتین، با نام Nu به‌سرعت در ایالات متحده فعالیت می‌کند.",
-      "‏این گسترش پس از شکست‌های N26 و Monzo می‌تواند رقابت در بخش بانکی دیجیتال آمریکا را تغییر دهد.",
-      "‏Nubank پیش از این در مکزیک و کلمبیا حضور یافت و هدفش ساده‌سازی خدمات مالی برای مصرف‌کنندگان است."
-    ],
-    "body_fa": "‏Nubank ، بزرگ‌ترین بانک دیجیتال در آمریکای لاتین، اعلام کرد که با نام Nu وارد بازار ایالات متحده خواهد شد. این گام پس از راه‌اندازی شعبه‌ای در سپتامبر و گسترش به مکزیک و کلمبیا در سال 2021 صورت می‌گیرد. بنیان‌گذار و مدیرعامل کریستینا جونکیرا معتقد است که مصرف‌کنندگان آمریکایی به‌دنبال تجربه‌های مالی ساده، شفاف و بدون هزینه هستند. او اشاره کرد که دریافت حساب بانکی در آمریکا هنوز «به‌طور شگفت‌آوری سخت» است و بانک‌های سنتی نیاز به حضور فیزیکی دارند. Nubank قصد دارد با ارائه اپلیکیشن موبایلی کم‌هزینه و بدون کارت فیزیکی، این مشکل را حل کند. ورود این بانک دیجیتال به آمریکا پس از شکست‌های مشابه N26 و Monzo می‌تواند رقابت در بخش فین‌تک را تشدید کند. در صورت موفقیت، این گسترش می‌تواند الگوی جدیدی برای بانک‌های دیجیتال در بازارهای پیشرفته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بانک دیجیتال",
-    "tag": "Nubank",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/ceo-nubank-talks-expansion-into-the-us-2026-10",
-    "clean_url": "https://www.businessinsider.com/ceo-nubank-talks-expansion-into-the-us-2026-10",
-    "image": "https://i.insider.com/6ae38d879bdea7d1607d2d25?width=1200&format=jpeg",
-    "timestamp": 1793274120.0,
     "sent_to_telegram": true
   }
 ]
