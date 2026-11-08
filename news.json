@@ -88,6 +88,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "73c8bfba66",
+    "title_fa": "‏سقوط رئیس‌جمهور پاراگوئه پس از فروپاشی بانک دیجیتال Ueno",
+    "title_en": "How a digital bank’s collapse toppled Paraguay’s president",
+    "summary": [
+      "‏بانک دیجیتال Ueno که حدود نیمی از جمعیت پاراگوئه را جذب کرده بود، به فجایع مالی منجر شد و حساب‌های مردم را از دست داد.",
+      "‏این سقوط مالی باعث اعتراضات گسترده و فشار بر رئیس‌جمهور شد که نهایتاً منجر به استعفای او گردید.",
+      "‏دولت اکنون به جبران خسارات و تقویت نظارت بر نظام بانکی می‌پردازد."
+    ],
+    "body_fa": "‏بانک دیجیتال Ueno برای سال‌ها به عنوان موفقیتی بومی شناخته می‌شد و حدود نیمی از جمعیت پاراگوئه را به خود جذب کرده بود. اما در ماه‌های اخیر، مشکلات نقدینگی و عدم توانایی در بازپرداخت سپرده‌ها باعث شد تا بانک به سرعت سقوط کند و میلیون‌ها دلار از پس‌انداز مردم از بین برود. این بحران مالی به سرعت به اعتراضات خیابانی تبدیل شد و فشارهای سیاسی بر رئیس‌جمهور ساندیگو پنا افزایش یافت. در پی این فشارها، رئیس‌جمهور در نهایت استعفا داد و مجلس به دنبال تشکیل دولت انتقالی است. دولت موقت اعلام کرده است که برنامه‌ای برای جبران خسارات متضرران و تقویت نظارت بر مؤسسات مالی ارائه خواهد داد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "بحران سیاسی",
+    "tag": "Ueno",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/how-digital-banks-collapse-toppled-paraguays-president-2026-11-08/",
+    "clean_url": "https://www.reuters.com/business/finance/how-digital-banks-collapse-toppled-paraguays-president-2026-11-08",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794142740.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "658da8ea3b",
+    "title_fa": "‏حمله پهپادی تولید گاز در میدانی کردستان را متوقف کرد",
+    "title_en": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
+    "summary": [
+      "‏یک پهپاد به میدانی گاز بزرگ Khor Mor در کردستان عراق حمله کرد و تولید را متوقف کرد.",
+      "‏این توقف می‌تواند عرضه گاز منطقه را کاهش داده و نوسان قیمت‌های انرژی را تشدید کند.",
+      "‏میدان Khor Mor یکی از بزرگ‌ترین منابع گاز در کردستان است."
+    ],
+    "body_fa": "‏در روز یکشنبه، یک پهپاد به میدانی گاز Khor Mor در منطقه کردستان عراق حمله کرد و به‌دلیل آسیب‌های وارده، تولید گاز در این میدانی که یکی از بزرگ‌ترین منابع گاز در این منطقه محسوب می‌شود، متوقف شد. دو منبع امنیتی این حمله را تأیید کردند و گفتند که عملیات به‌سرعت انجام شد. توقف تولید می‌تواند تأثیر قابل‌توجهی بر عرضه گاز داخلی کردستان داشته باشد و ممکن است فشار بر قیمت‌های انرژی در بازارهای منطقه‌ای را افزایش دهد. این میدانی که برای برنامه‌های صادرات گاز به ترکیه و دیگر کشورهای همسایه مهم است، به‌صورت موقت از کار افتاده و مقامات محلی در حال ارزیابی خسارات هستند. ادامهٔ تولید وابسته به سرعت تعمیرات و بازگشت امنیت به این منطقه خواهد بود.",
+    "category": "انرژی و کالا",
+    "subcategory": "حمله پهپادی",
+    "tag": "KhorMor",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/",
+    "clean_url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794142020.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0cd6d72299",
+    "title_fa": "‏پژوهشگران علت نوسان منظم یک‌دقیقه‌ای شبکه‌های برق جهان را کشف کردند",
+    "title_en": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+    "summary": [
+      "‏در شبکه‌های برق جهان، هر 60 ثانیه یک افت کوچک فرکانس به‌صورت همزمان ثبت شد.",
+      "‏این پدیده می‌تواند به خاموشی یا آسیب به توربین‌های هیدروپاور منجر شود، لذا شناسایی علت برای پایداری شبکه حیاتی است.",
+      "‏پژوهشگران علت را به رزونانس مکانیکی توربین‌های آب‌برقی که با ساعت داخلی هماهنگ است نسبت دادند."
+    ],
+    "body_fa": "‏سال‌ها پژوهشگران شبکه‌های برق را به‌دنبال نوسانات منظم فرکانس هر 60 ثانیه در سرتاسر جهان می‌گرفتند. این افت‌های کوچک، اگر به‌درستی مدیریت نشوند، می‌توانند منجر به خاموشی‌های گسترده یا آسیب به تجهیزات، به‌ویژه توربین‌های هیدروپاور، شوند. دیرک ویت‌هائوت، پژوهشگر مرکز Forschungszentrum Jülich آلمان، به‌همراه تیمش به‌دنبال منبع این پدیده گشتند. پس از مدلسازی سیستم‌های کنترل نیروگاه‌های آب‌برقی و بررسی رزونانس مکانیکی، دریافتند که تنها شرایطی می‌تواند هر دقیقه یک بار به‌صورت دقیق رخ دهد. آنها به این نتیجه رسیدند که یک ساعت داخلی یا زمان‌ساز مشابه در عملکرد توربین‌ها نقش دارد و باعث همزمانی دقیق نوسان می‌شود. برای تأیید فرضیه، بیش از 80 متر سنج کیفیت برق هوشمند در محوطهٔ Jülich نصب شد که نشان داد رزونانس ساعت‌دار منبع اصلی نوسانات است.",
+    "category": "تکنولوژی",
+    "subcategory": "پایداری انرژی",
+    "tag": "نوسان فرکانس",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+    "clean_url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800",
+    "timestamp": 1794141000.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a6108b3e1d",
     "title_fa": "‏اروپایی‌ها هفته آینده در ابوظبی به مذاکرات اوکراین می‌پیوندند",
     "title_en": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
@@ -132,6 +198,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "008615a670",
+    "title_fa": "‏دموکرات‌ها پس از پیروزی میانی، به بررسی ترامپ می‌پردازند",
+    "title_en": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+    "summary": [
+      "‏دموکرات‌ها پس از کسب اکثریت در مجلس و سنا، برنامهٔ بررسی ادارات ترامپ و شرکت‌های مرتبط را اعلام کردند.",
+      "‏این اقدام می‌تواند فشار سیاسی و نظارتی بر اقتصاد آمریکا و صنایع فناوری، رمزارز و بازارهای پیش‌بینی ایجاد کند.",
+      "‏وکیل عمومی جدید، تاد بلانچ، تهدید به بررسی متقابل قانونگذاران کرد."
+    ],
+    "body_fa": "‏دموکرات‌ها پس از برتری در انتخابات میانی سه‌شنبه، که حداقل ۵۴ صندلی در سنا و ۲۵۴ صندلی در مجلس نمایندگان را تضمین کرد، توانستند کنترل کمیته‌ها و قدرت احضار را در ژانویه به دست گیرند. آنها اعلام کردند که قصد دارند ادارات ترامپ و شرکت‌هایی که با دولت او همکاری داشته‌اند را به‌دقت بررسی کنند. سناتور الیزابت وارن، رئیس جدید کمیته بانکداری سنا، هشدار داد که اگر شرکت‌ها با تقلب به خانواده‌های آمریکایی سود رسانده‌اند، با تحقیقات جدی مواجه خواهند شد. آقای تاد بلانچ، وکیل عمومی که توسط سنا به‌تازگی تأیید شد، در پاسخ به این برنامه‌ها گفت ممکن است تحقیقات متقابل علیه اعضای کنگره آغاز کند. این تهدید او پس از اظهارات سناتور الیسا اسلاتکین دربارهٔ دلسرد کردن جوانان از کار در دولت ترامپ مطرح شد. اگر این روند ادامه یابد، می‌تواند فشار سیاسی و نظارتی بر صنایع فناوری، رمزارز و بازارهای پیش‌بینی ایجاد کند و تأثیراتی بر اقتصاد آمریکا داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "انتخابات میانی آمریکا",
+    "tag": "تحقیقات ترامپ",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+    "clean_url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108371190-1790875285117-gettyimages-2297526177-senate_banking_040_100126.jpeg?v=1790875308&w=1920&h=1080",
+    "timestamp": 1794135420.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "90b0804bdb",
     "title_fa": "‏پروتستان‌های فرانسه در چهارمین آخر هفته به خیابان‌ها آمدند",
     "title_en": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight...",
@@ -173,6 +261,28 @@
     "clean_url": "https://www.reuters.com/world/g7-ministers-discuss-recent-cyber-attacks-italy-says-2026-11-08",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794128280.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3b8ac45e97",
+    "title_fa": "‏Web3Auth 5.6 میلیون دلار کیف‌پول Keplr را نجات داد",
+    "title_en": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+    "summary": [
+      "‏Web3Auth با استفاده از یک نقص، 5.6 میلیون دلار از کیف‌پول‌های در معرض خطر Keplr به آدرس‌های امن منتقل کرد.",
+      "‏این اقدام باعث جلوگیری از سرقت توسط هکرها شد و حدود 12 کیف‌پول بازیابی‌کننده اکنون این مبلغ را نگه می‌دارند.",
+      "‏می‌توان گفت این نمونه نشان‌دهنده اهمیت واکنش سریع در برابر آسیب‌پذیری‌های کیف‌پول‌های وب۳ است."
+    ],
+    "body_fa": "‏تیم Web3Auth متعلق به Consensys اعلام کرد که با بهره‌گیری از یک نقص امنیتی، کلیدهای خصوصی کاربران کیف‌پول Keplr را در معرض خطر قرار داده بود. برای جلوگیری از سرقت، این تیم مبلغی معادل 5.6 میلیون دلار را از کیف‌پول‌های آسیب‌دیده به آدرس‌های امن منتقل کرد. این انتقال توسط 12 کیف‌پول بازیابی‌کننده انجام شد که هم‌اکنون تمام مبلغ را در خود نگه می‌دارند. اقدام Web3Auth نشان می‌دهد که واکنش سریع می‌تواند خسارات ناشی از آسیب‌پذیری‌های وب۳ را به حداقل برساند. این حادثه همچنین به جامعه کریپتو هشدار می‌دهد که نظارت مستمر بر امنیت کیف‌پول‌ها ضروری است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "امنیت کیف‌پول",
+    "tag": "Web3Auth",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+    "clean_url": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794124320.0,
     "sent_to_telegram": true
   },
   {
@@ -6486,116 +6596,6 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-bonds-leap-ai-024810978.html",
     "image": "https://media.zenfs.com/en/reuters.com/27091cf9908288e71930dbad30f0913c.jpg",
     "timestamp": 1793380451.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "afc832594e",
-    "title_fa": "‏ناغل هشدار: اقدام قاطع در صورت خروج تورم از هدف",
-    "title_en": "ECB's Nagel signals decisive action if inflation drifts from target",
-    "summary": [
-      "‏ناغل، رئیس بانک مرکزی اروپا، گفت تورم مصرف‌کننده دوباره شتاب گرفته و ممکن است در هفته‌های آینده افزایش یابد.",
-      "‏او افزود اگر انتظارات تورمی از هدف ۲٪ دور شود، ECB تصمیم قاطع برای رفع فشارهای قیمتی خواهد گرفت.",
-      "‏تصمیمات آینده ممکن است در دسامبر با افزایش نرخ بهره همراه شود."
-    ],
-    "body_fa": "‏جوآچیم ناغل، رئیس بانک مرکزی اروپا، در مصاحبه‌ای با بلومبرگ اعلام کرد که قیمت‌های مصرف‌کننده دوباره شتاب گرفته‌اند و در هفته‌های آینده ممکن است ادامه یابد. او تأکید کرد که انتظارات تورمی میان‌مدت باید به‌طور محکم بر هدف ۲٪ ثابت بمانند. پس از تصمیم پنج‌شنبه برای ثابت نگه داشتن نرخ بهره پس از دو افزایش قبلی، ناغل گفت این تصمیم آسان نبود و نظارت دقیق بر روند قیمت‌ها ادامه خواهد یافت. لاغارد، رئیس بانک، پیش از تصمیم‌گیری درباره افزایش نرخ در این ماه بحث کرده بود، اما نهایتاً به تعلیق اقدام شد. ناغل افزود اگر فشارهای انرژی ادامه یابد و تورم به هدف نرسد، بانک مرکزی اروپا ممکن است در دسامبر دوباره نرخ‌ها را افزایش دهد. این هشدار باعث شده است تا دارایی‌های حساس به نرخ بهره در اروپا تحت فشار قرار گیرند و سرمایه‌گذاران به دنبال نشانه‌های واضح‌تری برای تصمیم‌گیری هستند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی اروپا",
-    "tag": "ECB",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "briefs",
-    "url": "https://www.briefs.co/news/ecb-s-nagel-signals-decisive-action-if-inflation-drifts-from/",
-    "clean_url": "https://www.briefs.co/news/ecb-s-nagel-signals-decisive-action-if-inflation-drifts-from",
-    "image": "https://www.briefs.co/wp-content/uploads/2026/10/ecb-s-nagel-signals-decisive-action-if-inflation-drifts-from.png",
-    "timestamp": 1793373660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4c426ead64",
-    "title_fa": "‏این‌تل با بزرگ‌ترین سقوط روزانه‌اش در بازار مواجه شد",
-    "title_en": "The Week the Cracks in the AI Trade Grew Deeper",
-    "summary": [
-      "‏این‌تل در یک روز کاهش قیمت تاریخی را تجربه کرد",
-      "‏این سقوط نشان‌دهنده نگرانی سرمایه‌گذاران از تجارت هوش مصنوعی است",
-      "‏سهم این‌تل حدود 10 درصد کاهش یافت"
-    ],
-    "body_fa": "‏این‌تل امروز با بزرگ‌ترین کاهش روزانه‌اش مواجه شد؛ قیمت سهام این شرکت بیش از 10 درصد سقوط کرد. این افت شدید ناشی از اضطراب سرمایه‌گذاران نسبت به تجارت هوش مصنوعی و فشارهای رقابتی بر تولیدکنندگان چیپ‌های AI است. تحلیل‌گران می‌گویند که انتظارات بالای بازار برای عملکرد AI این‌تل نتوانستند به واقعیت بپیوندند. این رویداد باعث نوسان گسترده در شاخص‌های فناوری و نگرانی‌های بیشتر درباره رشد سودآوری شرکت‌های نیمه‌رسانا شد. در پی این سقوط، سرمایه‌گذاران به دنبال فرصت‌های جایگزین در بخش‌های دیگر فناوری می‌گردند.",
-    "category": "تکنولوژی",
-    "subcategory": "سهام فناوری",
-    "tag": "Intel",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f",
-    "clean_url": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793369280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c68c2fca17",
-    "title_fa": "‏ترامپ بررسی لغو تحریم‌های RDIF ، صندوق مخفی پوتین",
-    "title_en": "Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’ | OilPrice.com",
-    "summary": [
-      "‏ایالات متحده تحت رهبری ترامپ به رفع تحریم‌های صندوق سرمایه‌گذاری مستقیم روسیه (RDIF) فکر می‌کند.",
-      "‏این اقدام می‌تواند جریان سرمایه‌گذاری آمریکا به پروژه‌های تحت کنترل کرملین را باز کند و فشار اقتصادی بر اوکراین را کاهش دهد.",
-      "‏کرملین گفت مذاکرات دربارهٔ این موضوع در حال ادامه است."
-    ],
-    "body_fa": "‏چهار روز پس از آغاز حملهٔ تمام‌عیار روسیه به اوکراین، واشنگتن و متحدانش تحریم‌های مالی گسترده‌ای علیه بانک مرکزی روسیه و صندوق سرمایه‌گذاری مستقیم روسیه (RDIF) اعمال کردند. حالا مقامات آمریکایی به رهبری دونالد ترامپ بررسی می‌کنند که آیا می‌توان این تحریم‌ها را برای RDIF لغو کرد. کرملین و مشاورانش، از جمله یوری اوشاکوف، اعلام کردند مذاکرات دربارهٔ رفع تحریم‌ها در جریان است. کارشناسان آمریکایی هشدار دادند که رفع تحریم‌ها می‌تواند سرمایه‌گذاری‌های آمریکا را به پروژه‌های نزدیک به پوتین هدایت کرده و حمایت مالی اوکراین را تضعیف کند. صندوق RDIF که از سال ۲۰۱۱ به عنوان وسیله‌ای برای جذب سرمایه‌گذاری‌های استراتژیک به شرکت‌های روسی عمل می‌کند، منبع مهمی از پول برای کرملین به شمار می‌آید. اگر تصمیم به رفع تحریم‌ها گرفته شود، می‌تواند فشار اقتصادی بین‌المللی بر روسیه را کاهش داده و تأثیراتی بر بازارهای انرژی و جریان‌های مالی جهانی داشته باشد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های مالی",
-    "tag": "تحریم",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Geopolitics/Europe/Trump-Considers-Lifting-Sanctions-on-Putins-Slush-Fund.html",
-    "clean_url": "https://oilprice.com/Geopolitics/Europe/Trump-Considers-Lifting-Sanctions-on-Putins-Slush-Fund.html",
-    "image": "https://s.yimg.com/bo/715c1040-8d56-5a66-96ee-c23fff649f83_1793371106487.jpg",
-    "timestamp": 1793367729.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "51b4150054",
-    "title_fa": "‏چین تصمیم به اعمال کنترل‌های صادراتی هوش مصنوعی می‌گیرد",
-    "title_en": "AI Export Controls Foisted On China Come Back To The Haunt The U.S.",
-    "summary": [
-      "‏چین برنامه دارد کنترل‌های صادراتی هوش مصنوعی مشابه ایالات متحده را اجرا کند.",
-      "‏این اقدام می‌تواند سهم بازار چیپ‌های AI Nvidia در چین را به‌طور چشمگیری کاهش دهد و رقابت فناوری را تشدید کند.",
-      "‏این سیاست نشانگر بازگشت تجارت به حالت جنگ اقتصادی بین دو قدرت بزرگ است."
-    ],
-    "body_fa": "‏چین اعلام کرد که قصد دارد کنترل‌های صادراتی هوش مصنوعی را که از سال 2022 توسط دولت‌های ترامپ و بایدن اعمال شده‌اند، در داخل کشور تکرار کند. هدف این سیاست حفظ فناوری‌های پیشرفته در داخل مرزها و محدود کردن دسترسی رقبای خارجی، به‌ویژه ایالات متحده، است. بر اساس گزارش Reuters ، این تصمیم باعث می‌شود شرکت‌های چینی به جای خرید چیپ‌های AI از Nvidia ، AMD و Intel ، به تولید داخلی و فروش داخلی متکی شوند. در سال 2024 ، Nvidia بیش از 60% از بازار چیپ‌های هوش مصنوعی چین را در اختیار داشت که با این اقدام احتمالاً به‌سرعت کاهش خواهد یافت. وزیر تجارت آمریکا Gina Raimondo پیش‌تر اعلام کرده بود که چین نباید به نیمه‌نهایی‌های پیشرفته دسترسی داشته باشد، اما این سیاست چین می‌تواند فشار اقتصادی دوطرفه را تشدید کند. تحلیل‌گران هشدار می‌دهند که این گام می‌تواند زنجیره تأمین جهانی هوش مصنوعی را مختل کرده و رقابت فناوری را به‌سختی‌تری تبدیل کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "کنترل‌های صادراتی هوش مصنوعی",
-    "tag": "صادرات هوش مصنوعی",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Forbes · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/technology/ai/articles/ai-export-controls-foisted-china-130030561.html",
-    "clean_url": "https://finance.yahoo.com/technology/ai/articles/ai-export-controls-foisted-china-130030561.html",
-    "image": "https://media.zenfs.com/en/forbes_contributor_845/f5bea9d88158ff5ada1d365c7d9667de.jpg",
-    "timestamp": 1793364127.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7709aace21",
-    "title_fa": "‏ایالات متحده ۵۰۰ موشک Patriot به اوکراین را تصویب کرد",
-    "title_en": "US approves $2.1 billion Patriot missile sale to Ukraine",
-    "summary": [
-      "‏دولت آمریکا فروش ۵۰۰ موشک Patriot PAC‑3 به اوکراین را به ارزش ۲.۱ میلیارد دلار تصویب کرد.",
-      "‏این معامله بزرگ نظامی به تقویت دفاع هوایی اوکراین در جنگ با روسیه کمک می‌کند.",
-      "‏قیمت تخمینی این فروش ۲.۱ میلیارد دلار است."
-    ],
-    "body_fa": "‏وزارت خارجه ایالات متحده روز جمعه فروش ۵۰۰ موشک Patriot PAC‑3 به اوکراین را با هزینه تخمینی ۲.۱ میلیارد دلار تأیید کرد. این سلاح‌های پیشرفته می‌توانند توان دفاع هوایی اوکراین را در برابر حملات موشکی روسیه به‌طور قابل‌توجهی افزایش دهند. تصمیم آمریکا نشان‌دهنده ادامه حمایت نظامی قوی این کشور از کی‌وی است و می‌تواند فشار دیپلماتیک بر مسکو را افزون کند. واکنش روسیه هنوز اعلام نشده اما انتظار می‌رود انتقادات شدیدی به این انتقال سلاح داشته باشد. این معامله علاوه بر تأثیر نظامی، پیامدهای اقتصادی و ژئوپلیتیکی مهمی برای روابط بین‌المللی دارد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "فروش سلاح پیشرفته",
-    "tag": "Patriot",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/us-approves-21-billion-patriot-missile-sale-ukraine-2026-10-30/",
-    "clean_url": "https://www.reuters.com/business/aerospace-defense/us-approves-21-billion-patriot-missile-sale-ukraine-2026-10-30",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793362980.0,
     "sent_to_telegram": true
   }
 ]
