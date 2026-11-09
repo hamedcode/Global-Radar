@@ -1,5 +1,93 @@
 [
   {
+    "id": "5cd12aaa3b",
+    "title_fa": "‏الیزابت وارن ریاست کمیته بانکی سنا را به عهده می‌گیرد",
+    "title_en": "Elizabeth Warren set to take over the Senate banking committee. Here's what she...",
+    "summary": [
+      "‏الیزابت وارن به‌سرپرستی کمیته بانکی سنا منصوب شد.",
+      "‏او قصد دارد هزینه‌های زندگی، محدودیت‌های صادرات چیپ‌های هوش مصنوعی به چین و نظارت بر بازارهای پیش‌بینی را تنظیم کند.",
+      "‏این برنامه‌ها می‌توانند قوانین مالی و فناوری را تحت تأثیر قرار دهند."
+    ],
+    "body_fa": "‏سناتور الیزابت وارن، نمایندهٔ ماساچوست، به‌زودی ریاست کمیتهٔ بانکی، مسکن و امور شهری سنا را بر عهده می‌گیرد. او برنامهٔ خود را برای مقابله با هزینهٔ زندگی شامل محدود کردن نرخ بهره کارت‌های اعتباری، افزایش ساخت مسکن ارزان و کاهش بدهی‌های پزشکی، مصرفی و دانشجویی اعلام کرده است. وارن همچنین قصد دارد صادرات چیپ‌های پیشرفتهٔ هوش مصنوعی به چین را سخت‌تر کند و چارچوب‌های نظارتی برای هوش مصنوعی داخلی تدوین نماید. در کنار این‌ها، او می‌خواهد نظارت بر بازارهای پیش‌بینی را تقویت کند و از شرکت‌های مانند Kalshi و Polymarket اطلاعاتی دربارهٔ حفاظت‌های انتخاباتی طلب کند. با پیروزی گستردهٔ دمکرات‌ها در انتخابات میانی، این کمیته توانایی تنظیم دستور کار قانون‌گذاری و احضار اسناد از شرکت‌های فناوری و وال‌استریت را خواهد داشت. این اقدامات می‌توانند تأثیر قابل‌توجهی بر سیاست‌های مالی، فناوری و بازارهای سرمایه‌گذاری داشته باشند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نظارت بانکی",
+    "tag": "بانکداری",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+    "clean_url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+    "image": "https://s.yimg.com/bo/23d784e4-466f-5770-9d64-fd7b31fffcdb_1794254072056.jpg",
+    "timestamp": 1794252865.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4e44984a29",
+    "title_fa": "‏مقامات فرانسه معتقدند ایران پشت هک یخچال‌های هوشمند است",
+    "title_en": "EXCLUSIVE: French officials suspect Iran is behind refrigerator hacks, sources...",
+    "summary": [
+      "‏هک‌های گسترده‌ی یخچال‌های هوشمند در فرانسه توسط هکرهای وابسته به دولت ایران انجام شد",
+      "‏این حمله امنیت دیجیتال مصرف‌کنندگان را به خطر انداخت و روابط سایبری فرانسه‑ایران را تشدید می‌کند",
+      "‏برخی دستگاه‌ها برای ساعت‌ها از کار افتادند و داده‌های شخصی کاربران در معرض خطر بود"
+    ],
+    "body_fa": "‏مقامات فرانسوی اعلام کردند که هکرهای وابسته به دولت ایران مسئول حملات سایبری به یخچال‌های هوشمند در کشور هستند. این حملات باعث از کار افتادن دستگاه‌ها و دسترسی احتمالی به داده‌های شخصی کاربران شد. آژانس ملی امنیت سایبری فرانسه (ANSSI) به بررسی منبع نفوذ پرداخته و مصرف‌کنندگان را نسبت به به‌روزرسانی‌های امنیتی هشدار داده است. این رویداد نشان می‌دهد که عملیات‌های دولتی می‌توانند هدف دستگاه‌های اینترنت اشیا را در سطح اروپا انتخاب کنند و می‌تواند روابط تجاری و دیپلماتیک بین فرانسه و ایران را تحت فشار قرار دهد. ایران تاکنون حضور خود را در این حمله رد کرده است.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "هک",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/",
+    "clean_url": "https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09",
+    "image": "https://s.yimg.com/bo/bae2ddc7-567f-58a3-b5f3-1f3c77b018e9_1794240501542.jpg",
+    "timestamp": 1794240325.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b33b950aec",
+    "title_fa": "‏هکرهای کره‌شمالی با میم‌کوین‌ها پولشویی می‌کنند",
+    "title_en": "North Korean hackers are creating memecoins to wash loot from $6.3 billion...",
+    "summary": [
+      "‏هکرهای کره‌شمالی با شش میم‌کوین خودساخته 117,000 توکن NEAR به ارزش حدود 430,000 دلار را شستند",
+      "‏این نشان می‌دهد که گروه‌های سایبری دولتی از رمزارزهای نوظهور برای پنهان‌سازی درآمدهای هک‌گری استفاده می‌کنند",
+      "‏مبلغ شست‌وشو بخشی از 6.3 میلیارد دلار سرقت‌شده توسط این هکرهاست"
+    ],
+    "body_fa": "‏هکرهای کره‌شمالی شش میم‌کوین تازه ساخته را برای شست‌وشوی 117,000 توکن NEAR به ارزش تقریباً 430,000 دلار به کار گرفتند. این توکن‌ها به‌صورت خودکار و بدون نظارت بر بستر Near Protocol ایجاد شده بودند. عملیات شست‌وشو بخشی از سرقت کلی 6.3 میلیارد دلار است که این گروه‌های سایبری در سال‌های اخیر به‌دست آورده‌اند. استفاده از میم‌کوین‌های نوپا نشان می‌دهد که مجرمان دیجیتال به‌سرعت به ابزارهای جدید رمزارزی روی می‌آورند تا ردیابی مالی را دشوارتر کنند. این رویداد نگرانی‌های نظارتی را دربارهٔ پولشویی در فضای رمزارزها تشدید می‌کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پولشویی دیجیتال",
+    "tag": "memecoin",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+    "clean_url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+    "image": "https://s.yimg.com/bo/e9a6809a-94a5-563e-8983-530fa12b78aa_1794203925543.jpg",
+    "timestamp": 1794236726.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2e77261b5c",
+    "title_fa": "‏بریتانیا تحریم‌های جدیدی علیه بانک‌های اسرائیل اعمال می‌کند",
+    "title_en": "The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
+    "summary": [
+      "‏تحریم‌های جدید بریتانیا هدف بانک‌های اسرائیل و صنعت مالی جزیره کیمن است",
+      "‏این اقدام می‌تواند روابط مالی بین لندن و مرکز مالی کیمن را تحت فشار قرار دهد و اثرات اقتصادی گسترده‌ای داشته باشد",
+      "‏تحریم‌ها احتمالاً به کاهش جذب سرمایه‌گذاری در کیمن منجر خواهد شد"
+    ],
+    "body_fa": "‏دولت بریتانیا اعلام کرد که قصد دارد تحریم‌های مالی جدیدی علیه بانک‌های اسرائیل اعمال کند. این تحریم‌ها شامل محدود کردن دسترسی این بانک‌ها به سیستم‌های مالی بین‌المللی و مسدود کردن دارایی‌هایشان می‌شود. بر این اساس، مقامات مالی بریتانیا هشدار دادند که این اقدامات می‌تواند به‌طور مستقیم بر صنعت خدمات مالی در جزیره کیمن، که تحت حاکمیت بریتانیا است، تأثیر بگذارد. کیمن به‌عنوان یکی از بزرگ‌ترین مراکز مالی آفشور، به شدت به فعالیت‌های بانکی و سرمایه‌گذاری خارجی وابسته است؛ بنابراین تحریم‌ها ممکن است جریان‌های سرمایه را به‌سختی محدود کند. تحلیل‌گران پیش‌بینی می‌کنند این گام می‌تواند فشارهای دیپلماتیک بر اسرائیل را افزایش دهد و روابط تجاری میان بریتانیا و کیمن را تحت فشار قرار دهد. در عین حال، این تصمیم نشان‌دهنده تمایل لندن به استفاده از ابزارهای مالی برای اعمال سیاست خارجی است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌های مالی",
+    "tag": "تحریم",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/opinion/the-u-k-aims-sanctions-at-israel-hits-the-cayman-islands-f06de832?mod=world_trendingnow_opn_pos1",
+    "clean_url": "https://www.wsj.com/opinion/the-u-k-aims-sanctions-at-israel-hits-the-cayman-islands-f06de832",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794223680.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "95ab4b98c1",
     "title_fa": "‏قیمت برق نوردیک با کمبود آب و گاز بالا می‌رود",
     "title_en": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge |...",
@@ -44,6 +132,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "429af2f9ce",
+    "title_fa": "‏Coinbase مجوز کامل تراست آمریکا را از OCC دریافت کرد",
+    "title_en": "Coinbase gets full U.S. trust charter from federal banking regulator",
+    "summary": [
+      "‏Coinbase از OCC مجوز کامل تراست در ایالات متحده را دریافت کرد",
+      "‏این مجوز به صرافی امکان ارائه خدمات بانکی مشابه به بانک‌ها را می‌دهد و می‌تواند رقابت در بازار کریپتو را تقویت کند",
+      "‏انتظار می‌رود این تصمیم به جذب سرمایه‌گذاران جدید و افزایش اعتماد به رمزارزها منجر شود"
+    ],
+    "body_fa": "‏دفتر Comptroller of the Currency (OCC) وضعیت تراست Coinbase را به سطح کامل ارتقا داد و این صرافی بزرگ آمریکایی را اولین صرافی که چنین مجوزی را دریافت می‌کند، کرد. با این مجوز Coinbase می‌تواند سپرده‌های مشتریان را به‌صورت امانت‌دار نگهداری کرده و خدمات بانکی مشابه به بانک‌ها ارائه دهد، از جمله حساب‌های جاری رمزارزی. این گام مهم نشانگر پیشرفت نظارتی در حوزه رمزارزها در آمریکا است و می‌تواند فشار برای پذیرش گسترده‌تر این دارایی‌ها را افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند که این تصمیم به جذب سرمایه‌گذاران جدید، افزایش حجم تراکنش‌ها و تقویت اعتماد به بازار کریپتو منجر خواهد شد. همچنین این پیشرفت ممکن است سایر صرافی‌ها را به دنبال دریافت مجوزهای مشابه سوق دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "مجوزهای مالی",
+    "tag": "Coinbase",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+    "clean_url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+    "image": "https://s.yimg.com/bo/e86a47a2-3bd0-5d2a-8460-1580bae7eccb_1794220023883.jpg",
+    "timestamp": 1794218726.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cf1d723fa3",
+    "title_fa": "‏قیمت طلا به ۴۱۰۰ دلار نزدیک شد",
+    "title_en": "Gold Rises Toward $4,100 as Weaker Dollar Offsets Expectations of December Fed...",
+    "summary": [
+      "‏قیمت طلا در روز دوشنبه به ۴۰۹۸٫۰۳ دلار در هر اونس رسید.",
+      "‏کاهش ۰٫۴٪ شاخص دلار و انتظارات افزایش نرخ بهره فدرال رزرو این رشد را تقویت کرد.",
+      "‏نقره، پلاتین و پالادیوم نیز به‌طور مشابهی افزایش یافتند."
+    ],
+    "body_fa": "‏قیمت طلا در صبح دوشنبه ۹ نوامبر ۲۰۲۶، ۰٫۷٪ افزایش یافت و به ۴۰۹۸٫۰۳ دلار در هر اونس رسید؛ قراردادهای آتی آمریکا نیز به ۴۱۰۶٫۴۷ دلار رسیدند. این حرکت در پی کاهش ۰٫۴٪ شاخص دلار آمریکا به ۱۰۱٫۸۸ بود که طلا را برای خریداران ارزهای دیگر ارزان‌تر کرد. داده‌های اشتغال آمریکا که نشان داد ۱۶۵٬۰۰۰ شغل جدید اضافه شد، انتظارات بازار را برای افزایش نرخ بهره فدرال رزرو در جلسه دسامبر تقویت کرد. افزایش نرخ بهره می‌تواند تقاضای طلا را کاهش دهد، اما ضعف دلار اثر معکوس داشته و قیمت را بالا برد. علاوه بر طلا، نقره به ۵۲٫۵۶ دلار، پلاتین به ۱٬۵۴۹٫۰۸ دلار و پالادیوم به ۱٬۰۲۹٫۲۵ دلار ارتقا یافتند. این رشد در بازار فلزات گرانبها نشان‌دهنده تعامل پیچیده بین سیاست پولی، ارز و تقاضای سرمایه‌گذاری است.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "InvestorsHub · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-toward-4-100-100711794.html",
+    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-toward-4-100-100711794.html",
+    "image": "https://media.zenfs.com/en/investorshub_458/da73d9e7598f5e64b7a8489538f331f3.png.cf.jpg",
+    "timestamp": 1794218723.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "99e9d429ed",
+    "title_fa": "‏جیمز گان و پیتر سافرن از DC Studios برکنار شدند",
+    "title_en": "James Gunn and Peter Safran are out in another DC Studios shakeup, Skydance appoints Jeremy Latchman",
+    "summary": [
+      "‏جیمز گان و پیتر سافرن پس از چهار سال رهبری DC Studios از سمت خود کناره‌گیری کردند.",
+      "‏این تغییر پس از خرید Skydance از Warner Bros. و می‌تواند مسیر فیلم‌ها و بازی‌های آینده دسی را تغییر دهد.",
+      "‏جرمی لچمن به عنوان سرپرست جدید گروه فیلم‌سازی Skydance منصوب شد."
+    ],
+    "body_fa": "‏گروه Skydance Motion Picture در روز دوشنبه اعلام کرد که جیمز گان و پیتر سافرن پس از چهار سال مدیریت DC Studios از سمت خود برمی‌گردند. این تصمیم در پی تکمیل خرید Skydance از Warner Bros. و ادغام آن با استودیوهای دسی اتخاذ شد. گان و سافرن در دوران حضورشان چندین فیلم و پروژه بازی‌سازی مهم را نظارت کردند. جرمی لچمن به عنوان سرپرست جدید گروه فیلم‌سازی Skydance منصوب شد تا مسیر خلاقانه و تجاری دسی را هدایت کند. این تغییر ممکن است بر برنامه‌های تولیدی آینده، از جمله فیلم‌های سینمایی و عناوین بازی‌های ویدئویی، تأثیر بگذارد.",
+    "category": "گیم",
+    "subcategory": "تغییرات رهبری",
+    "tag": "DC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/dc-studios-james-gunn-skydance-9e9885f9ee047a1289153c68eb395a0d",
+    "clean_url": "https://apnews.com/article/dc-studios-james-gunn-skydance-9e9885f9ee047a1289153c68eb395a0d",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794217440.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "fc6c75db61",
     "title_fa": "‏چین تعلیق صادرات مواد نادر را تا ژانویه تمدید کرد",
     "title_en": "China extends suspension of new rare earth controls until January",
@@ -63,6 +217,94 @@
     "clean_url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09",
     "image": "https://s.yimg.com/bo/8715c927-5af3-51fc-89bf-5bfcf0c7d716_1788535037221.jpg",
     "timestamp": 1794216055.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "dc046793aa",
+    "title_fa": "‏اوبر سرویس پارکینگ را در ۱۵ شهر آمریکا راه‌اندازی کرد",
+    "title_en": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+    "summary": [
+      "‏اوبر سرویس رزرو و پرداخت پارکینگ را در ۱۵ شهر آمریکا فعال کرد و به شبکه ۱۳٬۰۰۰ گاراژ SpotHero دسترسی پیدا کرد.",
+      "‏این سرویس به مسافران شاغل امکان ترکیب رانندگی شخصی با استفاده از اوبر را می‌دهد و زیرساخت روباتاکسی‌ها را تقویت می‌کند.",
+      "‏اعضای Uber One می‌توانند ۱۰٪ اعتبار برای رزروهای پارکینگ دریافت کنند."
+    ],
+    "body_fa": "‏اوبر روز دوشنبه سرویس جدیدی برای رزرو و پرداخت پارکینگ در شهرهای بزرگ ایالات متحده معرفی کرد. این سرویس پس از خرید برنامهٔ SpotHero در فوریه راه‌اندازی شد و به شرکت دسترسی به بیش از ۱۳٬۰۰۰ گاراژ، پارکینگ و خدمات والِت در بیش از ۴۰۰ شهر می‌دهد. در ابتدا این سرویس در ۱۵ شهر از جمله نیویورک، لس آنجلس، شیکاگو و سانفرانسیسکو فعال می‌شود و برای رانندگان شخصی طراحی شده است. اوبر قصد دارد این مکان‌های پارک را برای شرکت‌های خودران شریک خود به عنوان نقاط استیجینگ و انتظار استفاده کند تا مسافت‌های بدون مسافر و ترافیک کاهش یابد. اعضای برنامهٔ Uber One می‌توانند برای رزروهای پارکینگ تا ۱۰٪ اعتبار دریافت کنند که بعدها برای سفرهای اوبر یا سفارشات Uber Eats قابل استفاده است. این گام بخشی از استراتژی اوبر برای ایجاد یک اکوسیستم یک‌پارچه شامل حمل‌ونقل، تحویل غذا، اجاره خودرو و در آینده روباتاکسی‌هاست.",
+    "category": "تکنولوژی",
+    "subcategory": "پارکینگ هوشمند",
+    "tag": "پارکینگ",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+    "clean_url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1200,640",
+    "timestamp": 1794214800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "83d057f6eb",
+    "title_fa": "‏پولشویان هک Binance با توکن‌های سفارشی Elon Musk اقدام کردند",
+    "title_en": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+    "summary": [
+      "‏پس از هک Binance ، لندران‌ها شش توکن موقت شامل نام Elon Musk و میم‌کوین‌های حیوانی ساختند",
+      "‏این توکن‌ها برای مخفی‌کردن فروش NEAR سرقت‌شده استفاده شد و خطرات پولشویی در صرافی‌ها را نشان می‌دهد",
+      "‏این روش مشابه ترفندهای به‌کار رفته پس از هک Bybit در سال 2025 است"
+    ],
+    "body_fa": "‏Elliptic گزارش داد که پس از هک بزرگ صرافی Binance ، گروه‌های پولشویی شش توکن موقت جدید ایجاد کردند. این توکن‌ها شامل نام‌های شناخته‌شده‌ای چون Elon Musk و میم‌کوین‌های حیوانی بودند و به منظور مخفی‌سازی فروش NEAR سرقت‌شده به کار رفتند. با استفاده از این توکن‌های کوتاه‌مدت، جریان‌های مالی پیچیده ساخته شد تا ردیابی تراکنش‌ها برای مقامات دشوار شود. این تاکتیک مشابه روش‌های مورد استفاده پس از هک Bybit در سال 2025 است که نشان‌دهنده تداوم و پیشرفت روش‌های پولشویی در فضای رمزارزهاست. این رویداد نگرانی‌های جدی درباره امنیت صرافی‌های بزرگ و نیاز به نظارت و ابزارهای تحلیل پیشرفته‌تر را تقویت می‌کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "هک و پولشویی",
+    "tag": "Binance",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
+    "clean_url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794211620.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "eccc465b91",
+    "title_fa": "‏نظرسنجی نیویورک فدرال نشان داد نگرانی آمریکایی‌ها از بیکاری افزایش یافت",
+    "title_en": "NY Fed survey finds Americans more worried over future jobless levels",
+    "summary": [
+      "‏در ماه گذشته، نظرسنجی بانک فدرال نیویورک نشان داد که نگرانی آمریکایی‌ها نسبت به وضعیت بیکاری آینده افزایش یافته است.",
+      "‏این افزایش اضطراب می‌تواند انتظارات بازار برای سیاست‌های پولی فدرال رزرو و رفتار مصرف‌کنندگان را تحت تأثیر قرار دهد.",
+      "‏تحلیل‌گران این داده‌ها را نشانه‌ای از فشار احتمالی بر تصمیمات نرخ بهره می‌دانند."
+    ],
+    "body_fa": "‏بانک فدرال رزرو نیویورک در گزارشی که دوشنبه منتشر کرد، نشان داد که در ماه گذشته نگرانی آمریکایی‌ها دربارهٔ سطوح بیکاری آینده افزایش یافته است. بر اساس نظرسنجی، درصد پاسخ‌دهندگانی که پیش‌بینی می‌کردند بیکاری در ماه‌های آینده بالا برود، نسبت به دورهٔ قبلی رشد داشته است. این تغییر در انتظارات بازار کار می‌تواند بر توقعات دربارهٔ سیاست‌های پولی فدرال رزرو، به‌ویژه تصمیم‌گیری دربارهٔ نرخ بهره، تأثیر بگذارد. سرمایه‌گذاران و تحلیل‌گران ممکن است این داده‌ها را نشانه‌ای از فشارهای احتمالی بر اقتصاد و نیاز به حفظ یا افزایش نرخ بهره درک کنند. به‌علاوه، افزایش اضطراب مصرف‌کنندگان می‌تواند رفتار هزینه‌کردی را محدود کند و رشد اقتصادی را تحت فشار قرار دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار کار",
+    "tag": "بیکاری",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/ny-fed-survey-finds-americans-more-worried-over-future-jobless-levels-2026-11-09/",
+    "clean_url": "https://www.reuters.com/business/ny-fed-survey-finds-americans-more-worried-over-future-jobless-levels-2026-11-09",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794211320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d240602cbf",
+    "title_fa": "‏NHTSA به بررسی عبور روبات‌تاکسی Waymo از اتوبوس‌های مدرسه می‌پردازد",
+    "title_en": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+    "summary": [
+      "‏Waymo پس از به‌روزرسانی نرم‌افزاری، روبات‌تاکسی‌های خود را که به‌طور غیرقانونی از اتوبوس‌های مدرسه عبور می‌دادند، ادامه داد.",
+      "‏NHTSA یک «پرس‌وجو بازخوانی» باز کرد تا اثر بخشی اصلاحات نرم‌افزاری را ارزیابی کند.",
+      "‏این حوادث در آتلانتا و آستین ثبت شد و مدارس محلی حداقل پنج مورد را گزارش کردند."
+    ],
+    "body_fa": "‏حدود یک سال پیش Waymo نرم‌افزار خودران‌های روبات‌تاکسی را به‌روزرسانی کرد و پس از گزارش‌های متعدد از عبور غیرقانونی این خودروها از اتوبوس‌های مدرسه، یک فراخوان بازخوانی صادر کرد. اما طبق پرونده‌ای که NHTSA در ۶ نوامبر منتشر کرد، اکثر حوادث پس از اعمال این به‌روزرسانی رخ داده‌اند. سازمان تحقیقات نقص‌های NHTSA یک «پرس‌وجو بازخوانی» برای ارزیابی کافی بودن راه‌حل ارائه شده توسط Waymo راه‌اندازی کرده است. حوادثی که در آتلانتا و آستین ثبت شده‌اند، شامل عبور روبات‌تاکسی از جلوی اتوبوس مدرسه با چراغ قرمز چشمک‌زن و بارگیری کودکان می‌شود. مدیریت Waymo اعلام کرد پس از مارس ۲۰۲۶ هیچ جریمه‌ای دریافت نکرده و بهبودهای قابل‌توجهی در رفتار خودروها نسبت به اتوبوس‌های مدرسه اعمال کرده است. شرکت می‌گوید پس از دریافت نتایج NHTSA ، به اصلاحات بیشتر پرداخته و همکاری خود را در فرآیندهای بازخوانی ادامه خواهد داد.",
+    "category": "تکنولوژی",
+    "subcategory": "خودروهای خودران",
+    "tag": "Waymo",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+    "clean_url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+    "timestamp": 1794209040.0,
     "sent_to_telegram": true
   },
   {
@@ -176,6 +418,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "e6b6fb1daf",
+    "title_fa": "‏پیشنهادات BPM و Paschi پایان دوره خرید بانک‌های ایتالیا",
+    "title_en": "Italy’s Banking Deal Spree Enters Endgame With BPM, Paschi Bids",
+    "summary": [
+      "‏بانک‌های BPM و Paschi پیشنهاد خریدی برای بانک‌های ایتالیایی ارائه دادند.",
+      "‏این مذاکرات می‌تواند ساختار بانکداری ایتالیا و بازارهای مالی اروپا را تغییر دهد.",
+      "‏پذیرش این پیشنهادها به تصویب نهادهای نظارتی بستگی دارد."
+    ],
+    "body_fa": "‏در جریان یک دوره پرشتاب خرید و ادغام بانک‌های ایتالیا، دو بانک BPM و Paschi پیشنهادهای جدی برای خرید برخی از نهادهای مالی ارائه کرده‌اند. این پیشنهادها نشان می‌دهد که فرآیند ادغام بانک‌ها به مرحله نهایی نزدیک شده است. اگر این معاملات نهایی شوند، می‌توانند ترکیب‌های جدیدی در بازار بانکی ایتالیا ایجاد کنند و رقابت را تحت تأثیر قرار دهند. همچنین، این تحولات می‌توانند بر ارزش سهام بانک‌های مرتبط در بورس اروپا تأثیر بگذارند. نهادهای نظارتی هنوز در حال بررسی جزئیات این پیشنهادها هستند و تصمیم نهایی می‌تواند زمان‌بر باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ادغام بانک‌ها",
+    "tag": "BPM",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/italy-s-banking-deal-spree-enters-endgame-with-bpm-paschi-bids",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-09/italy-s-banking-deal-spree-enters-endgame-with-bpm-paschi-bids",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794197640.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "e173f903e0",
     "title_fa": "‏ایران موضع خود را در مقابل نظارت هسته‌ای سخت‌تر کرد",
     "title_en": "Iran Hardens Line Against Nuclear Monitoring in Report to IAEA",
@@ -198,6 +462,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "921e15dc0c",
+    "title_fa": "‏کنگره آمریکا با لایحه جدید، مجوزهای دیتاسنترها را تنظیم می‌کند",
+    "title_en": "US Congress gets first post-'Blue Wave' crack at data centers with permitting bill",
+    "summary": [
+      "‏کنگره آمریکا لایحه‌ای دوحزبی برای تنظیم مجوز دیتاسنترها تصویب کرد",
+      "‏این اقدام در واکنش به نارضایتی عمومی از هزینه‌های برق و فشار بر شبکه انرژی است",
+      "‏لایحه می‌تواند هزینه‌های انرژی را کاهش داده و رشد دیتاسنترها را تحت تأثیر قرار دهد"
+    ],
+    "body_fa": "‏یک لایحهٔ جامع انرژی دوحزبی در کنگره آمریکا به عنوان اولین گام پس از «امواج آبی» برای مقابله با نارضایتی عمومی از هزینه‌های برق و فشار بر شبکه انرژی مطرح شد. این لایحه به‌ویژه به دیتاسنترها می‌پردازد و هدفش ساده‌سازی فرآیندهای مجوزدهی برای این مراکز است تا رشد سریع آن‌ها بدون ایجاد بار اضافی بر زیرساخت‌های برق ادامه یابد. قانونگذاران می‌گویند با تنظیم دقیق‌تر مجوزها می‌توانند هزینه‌های انرژی را برای مصرف‌کنندگان کاهش دهند و همزمان اطمینان حاصل کنند که دیتاسنترها به‌صورت پایدار عمل می‌کنند. اگر لایحه تصویب شود، ممکن است تقاضای برق برای دیتاسنترها به‌طور قابل‌توجهی تحت کنترل قرار گیرد و این امر می‌تواند بر قیمت‌های انرژی و سرمایه‌گذاری در بخش فناوری اطلاعات تأثیر بگذارد. این گام نشان‌دهندهٔ تمایل قانونگذاران به ترکیب سیاست‌های انرژی با نیازهای فناوری نوین است.",
+    "category": "انرژی و کالا",
+    "subcategory": "مجوزهای انرژی",
+    "tag": "دیتاسنتر",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-congress-gets-first-post-blue-wave-crack-data-centers-with-permitting-bill-2026-11-09/",
+    "clean_url": "https://www.reuters.com/legal/litigation/us-congress-gets-first-post-blue-wave-crack-data-centers-with-permitting-bill-2026-11-09",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794196860.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "0f5e97f1d1",
     "title_fa": "‏میتسوی شیمی‌کیمیا با 8.8 میلیارد دلار JSR را خریداری می‌کند",
     "title_en": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
@@ -217,6 +503,50 @@
     "clean_url": "https://www.wsj.com/business/deals/mitsui-chemicals-to-acquire-jsr-with-development-bank-of-japan-for-8-8-billion-578ccd86",
     "image": "https://s.yimg.com/bo/352a10d6-8b41-5010-8b5b-73a83221694e_1794199129821.jpg",
     "timestamp": 1794194457.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9145a87d00",
+    "title_fa": "‏وال‌استریت پس از سقوط نفت بازگشت؛ سهام Nvidia افت شد",
+    "title_en": "Wall St jumps back as oil slide eases inflation worries; Nvidia slumps",
+    "summary": [
+      "‏شاخص‌های اصلی وال‌استریت صبح دوشنبه با افزایش بازگشتند.",
+      "‏کاهش قیمت نفت فشار تورمی را کم کرد و سرمایه‌گذاران را آرام کرد.",
+      "‏سهام Nvidia به دلیل ادامهٔ جنجال پیرامون مدیرعاملش کاهش یافت."
+    ],
+    "body_fa": "‏بازارهای وال‌استریت در روز دوشنبه با افزایش آغاز شدند؛ شاخص‌های Dow Jones ، S&P 500 و Nasdaq هر یک حدود نیم تا یک درصد رشد کردند. این حرکت مثبت پس از کاهش قیمت نفت، به‌ویژه نفت برنت که حدود 4 دلار پایین آمد، رخ داد و نگرانی‌های تورمی را کاهش داد. سرمایه‌گذاران در انتظار روشن شدن جنجال پیرامون مدیرعامل Nvidia ، Jensen Huang ، بودند که اخیراً در مورد سیاست‌های هوش مصنوعی اظهار نظر کرده بود. با این حال، سهام Nvidia حدود 3 درصد سقوط کرد و فشار فروش را ادامه داد. تحلیل‌گران معتقدند که نوسان اخیر بازار بیشتر تحت تأثیر تغییرات قیمت انرژی و واکنش‌های کوتاه‌مدت به اخبار فناوری است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازارهای سهام",
+    "tag": "Nvidia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/wall-st-futures-rise-after-rough-week-nvidia-unsettles-investors-2026-11-09/",
+    "clean_url": "https://www.reuters.com/business/wall-st-futures-rise-after-rough-week-nvidia-unsettles-investors-2026-11-09",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794191700.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b47a4c308e",
+    "title_fa": "‏بافر 50% تجربه دنجن‌های World of Warcraft Forever اعمال شد",
+    "title_en": "World of Warcraft Forever Dungeon Experience Buffed, but There's a Long Way to Go",
+    "summary": [
+      "‏بافر 50% تجربه دنجن‌ها در World of Warcraft Forever روز یکشنبه اعمال شد",
+      "‏این تغییر باعث شد تا زمان سطح‌بالا رفتن در دنجن‌ها بهتر شود، اما هنوز نسبت به Classic کم است",
+      "‏بازیکنان می‌گویند حتی با این افزایش، تجربه فقط یک‌سوم Classic است"
+    ],
+    "body_fa": "‏دسته مدیریت جامعه World of Warcraft Forever ، Kaivax ، در فروم‌های بازی اعلام کرد که تجربهٔ دنجن‌ها به میزان 50% افزایش می‌یابد. این تغییر پس از نارضایتی گستردهٔ بازیکنان نسبت به کاهش شدید تجربه در بتای اولیه صورت گرفت؛ در ابتدا تجربهٔ دنجن‌ها حدود 80% کمتر از نسخهٔ Classic بود. پیش از این، Blizzard در 8 اکتبر تجربه را 20% ارتقا داد، اما اثر قابل‌توجهی نداشت. با این بافر جدید، بازیکنان می‌توانند در هر دنجن یک تا دو سطح پیشرفت کنند، اما هنوز تجربهٔ دریافت‌شده تنها حدود یک‌سوم مقدار Classic است. نظرات جامعه نشان می‌دهد که این گام مثبت است اما هنوز فاصلهٔ زیادی برای رسیدن به تعادل با Classic باقی مانده.",
+    "category": "گیم",
+    "subcategory": "به‌روزرسانی تجربه",
+    "tag": "دنجن",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "pk.ign",
+    "url": "https://pk.ign.com/world-of-warcraft-forever/263837/world-of-warcraft-forever-dungeon-experience-buffed-but-theres-a-long-way-to-go",
+    "clean_url": "https://pk.ign.com/world-of-warcraft-forever/263837/world-of-warcraft-forever-dungeon-experience-buffed-but-theres-a-long-way-to-go",
+    "image": "https://sm.ign.com/t/ign_pk/news/w/world-of-w/world-of-warcraft-forever-dungeon-experience-buffed-but-ther_2md2.1200.jpg",
+    "timestamp": 1794189540.0,
     "sent_to_telegram": true
   },
   {
@@ -6266,336 +6596,6 @@
     "clean_url": "https://www.reuters.com/world/europe/france-braces-fresh-unrest-government-vows-tough-response-2026-10-31",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793433540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "01a65e651f",
-    "title_fa": "‏دیپلمات‌های ایرانی با میانجی‌گران قطری در دوحه ملاقات کردند",
-    "title_en": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-    "summary": [
-      "‏دیپلمات‌های ایرانی در دوحه با میانجی‌گران قطری درباره راه‌حل‌های پایان جنگ خلیج فارس گفت‌وگو کردند",
-      "‏این مذاکرات برای جلوگیری از احتمال حملات جدید آمریکا پس از انتخابات میدترمز حیاتی است",
-      "‏منبعی گفت مذاکرات می‌تواند به کاهش تنش‌های نفتی منجر شود"
-    ],
-    "body_fa": "‏دیپلمات‌های ایرانی روز شنبه در دوحه با میانجی‌گران قطری جلسه‌ای برگزار کردند تا مسیرهای خروج از جنگ در خلیج فارس را بررسی کنند. این مذاکرات در پس‌زمینه تهدید حملات جدید ایالات متحده پس از انتخابات میدترمز انجام می‌شود و هدف اصلی جلوگیری از گسترش درگیری است. قطر به عنوان میانجی سعی دارد فشارهای نظامی را کاهش داده و فضای دیپلماتیک را باز کند. اگر موفق شوند، می‌تواند نوسانات قیمت نفت را مهار کرده و ثبات اقتصادی منطقه‌ای را تقویت کند. در غیر این صورت، خطر تشدید تنش‌ها و تأثیرات منفی بر بازارهای جهانی انرژی افزایش می‌یابد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "مذاکرات خلیج فارس",
-    "tag": "ایران-قطر",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iranian-envoys-meet-qatari-mediators-threat-looms-us-strikes-after-midterms-2026-10-31/",
-    "clean_url": "https://www.reuters.com/world/middle-east/iranian-envoys-meet-qatari-mediators-threat-looms-us-strikes-after-midterms-2026-10-31",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793433420.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2e84595588",
-    "title_fa": "‏کالاس می‌گوید میزبانی پوتین در G20 جنگی‌ها را عادی می‌کند",
-    "title_en": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
-    "summary": [
-      "‏کالاس، وزیر امور خارجه اتحادیه اروپا، گفت میزبانی پوتین در اجلاس G20 می‌تواند جنایات جنگی را عادی کند.",
-      "‏این اظهارات می‌تواند تنش‌های دیپلماتیک را تشدید کند و واکنش‌های بین‌المللی را برانگیزد.",
-      "‏او هشدار داد حضور روسیه ممکن است مشروعیت‌زدایی از اقدامات نظامی او را تقویت کند."
-    ],
-    "body_fa": "‏استونیایی ماریتس کالاس، وزیر امور خارجه اتحادیه اروپا، در بیانیه‌ای اعلام کرد که میزبانی ولادیمیر پوتین در اجلاس G20 می‌تواند به عادی‌سازی جنایات جنگی منجر شود. او به این نکته اشاره کرد که حضور روسیه در این رویداد، به ویژه پس از حملات به اوکراین، می‌تواند مشروعیت‌زدایی از اقدامات نظامی مسلحانه او را تقویت کند. کالاس افزود که این مسأله می‌تواند تنش‌های دیپلماتیک را در سطح جهانی تشدید کند و فشارهای بین‌المللی بر اتحادیه اروپا را افزایش دهد. این اظهارات در زمانیکه کشورهای غربی به دنبال راه‌های جدید برای محاصره روسیه هستند، توجه جهانیان را به خود جلب کرده است.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "روابط بین‌الملل",
-    "tag": "پوتین",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793430660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2aead7c1fb",
-    "title_fa": "‏هکر با تکنیک‌های پیشرفته به داده‌های مشتریان Chainalysis دست یافت",
-    "title_en": "Chainalysis says hacker using 'offensive agentic techniques' accessed its customers' names and emails",
-    "summary": [
-      "‏هکری با هوش مصنوعی به نام‌ها و ایمیل‌های مشتریان Chainalysis دسترسی پیدا کرد",
-      "‏این نفوذ امنیتی نگرانی‌ها درباره حفظ حریم‌خصوصی داده‌های کاربران در صنعت رمزارزها را افزایش می‌دهد",
-      "‏حادثه در حین بررسی پیامدهای هک بزرگ Binance رخ داد"
-    ],
-    "body_fa": "‏شرکت تحلیل‌گر بلاکچین Chainalysis اعلام کرد که هکری با استفاده از تکنیک‌های پیشرفته هوش مصنوعی به اطلاعات مشتریان خود، شامل نام‌ها و ایمیل‌ها، دسترسی پیدا کرده است. این نفوذ در زمان پیگیری پیامدهای هک چند میلیارد دلاری Binance رخ داد. شرکت در حال بررسی جزئیات حمله و ارزیابی میزان خسارت است. این رویداد نگرانی‌ها درباره امنیت داده‌های کاربران در بستر رمزارزها را تشدید می‌کند و ممکن است اعتماد به سرویس‌های تحلیلی را تحت تاثیر قرار دهد. Chainalysis قول داده است که اقدامات حفاظتی بیشتری برای جلوگیری از چنین حملاتی اتخاذ کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "امنیت داده‌ها",
-    "tag": "دسترسی_داده",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
-    "clean_url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793428020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ef726ea2c3",
-    "title_fa": "‏صنعت رمزارزها بیش از ۲۰۰ میلیون دلار برای میانه‌سالی ۲۰۲۶ می‌پردازد",
-    "title_en": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
-    "summary": [
-      "‏صنعت رمزارزها بیش از ۲۰۰ میلیون دلار به سوپراست‌های سیاسی برای انتخابات میانی ۲۰۲۶ آمریکا اختصاص داد",
-      "‏هدف این هزینه‌ها فشار بر کنگره برای تصویب قوانین مطلوب رمزارزها و جلوگیری از محدودیت‌هاست",
-      "‏شرکت Coinbase به تنهایی ۲۵ میلیون دلار به سوپراست Fairshake کمک کرده است"
-    ],
-    "body_fa": "‏بزرگ‌ترین گروه سوپراست‌های تک‌موضوعی در تاریخ ایالات متحده بیش از ۲۰۰ میلیون دلار به کارزارهای کنگره‌ای در دوره انتخابات میانی ۲۰۲۶ اختصاص داده‌اند. این هزینه‌ها که از سوی سازمان‌های مرتبط با رمزارزها انجام می‌شود، هدفشان فشار بر قانون‌گذاران برای تصویب چارچوب‌های مقرراتی مطلوب برای دارایی‌های دیجیتال است؛ مشابه موفقیت ۲۵۰ میلیون دلاری در انتخابات ۲۰۲۴. شبکه Fairshake و سوپراست‌های وابسته به آن از ۳۳ نامزد مجلس نمایندگان، شامل ۱۹ جمهوری‌خواه و ۱۴ دموکرات، حمایت می‌کنند و برای شش نمایندهٔ کلیدی حداقل یک میلیون دلار سرمایه‌گذاری می‌کند. شرکت Coinbase به‌عنوان بزرگ‌ترین دهندهٔ سیاسی، ۲۵ میلیون دلار به Fairshake در سال ۲۰۲۵ اختصاص داده و مدیرعامل آن، Brian Armstrong ، یک میلیون دلار به این سوپراست اهدا کرده است. Ryan VanGrack ، معاون رئیس Coinbase ، گفت هدف نهایی ارتقای سیستم مالی قرن بیست به قرن بیست و یکم است و این مسأله نباید توسط احزاب سیاسی مانع شود. در عین حال، قانون Clarity Act که می‌توانست چارچوبی بای‌پارتیسن برای دارایی‌های دیجیتال فراهم کند، در سنای آمریکا متوقف شده است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "سرمایه‌گذاری سیاسی",
-    "tag": "Crypto spending",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
-    "clean_url": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108469669-1793118395942-gettyimages-2298096962-090a3608_uxr0mcdg.jpeg?v=1793118900&w=1920&h=1080",
-    "timestamp": 1793426580.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "581f22862f",
-    "title_fa": "‏قیمت بنزین در روز انتخابات به بالاترین سطح تاریخ رسید",
-    "title_en": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
-    "summary": [
-      "‏ترامپ وعده داد قیمت بنزین زیر ۲ دلار باشد اما در روز انتخابات قیمت‌ها به ۴.2 دلار رسید",
-      "‏این افزایش ۴۰٪ نسبت به سال گذشته، به حملات آمریکا به ایران و اختلالات در تنگه هرمز مرتبط است",
-      "‏دیزل هم ۷۰٪ رشد کرده و به ۶.32 دلار رسیده است"
-    ],
-    "body_fa": "‏در سخنرانی خود در کلوپ اقتصادی نیویورک، دونالد ترامپ قول داد که در سال اول ریاست‌جمهوری قیمت بنزین را به زیر ۲ دلار برساند. اما پیش‌بینی‌های Patrick De Haan از GasBuddy نشان می‌دهد که در روز انتخابات، متوسط قیمت گاز در ایالات متحده به ۴.2 دلار در هر گالن رسیده است که تقریباً ۴۰٪ بالاتر از سال گذشته است. قیمت دیزل نیز حدود ۷۰٪ افزایش یافته و به ۶.32 دلار در هر گالن رسیده است. این افزایش قیمت‌ها پس از حمله مشترک آمریکا و اسرائیل به ایران در ۲۸ فوریه و واکنش تندره به حملات هجوم به تانکرهای عبوری از تنگه هرمز رخ داده است. تنگه هرمز که مسیر کلیدی حمل و نقل نفت است، به‌دلیل این درگیری‌ها و حملات حوثی‌ها به پالایشگاه‌های سعودی و ضربات اوکراین به پالایشگاه‌های روسیه، با اختلالات شدیدی مواجه شد. ترامپ در یک تجمع در میشیگان تأکید کرد که این هزینه‌های موقت هستند و پس از پایان درگیری‌ها قیمت‌ها به‌سرعت کاهش خواهند یافت. با این حال، پیش‌بینی‌های تاریخی نشان می‌دهد که قیمت‌های سوخت در روزهای انتخابات معمولاً بالاتر از میانگین سالانه هستند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت سوخت",
-    "tag": "قیمت بنزین",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-    "clean_url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108476948-1793221677843-gettyimages-2302435509-kbd11695_irgge0gh.jpeg?v=1793221769&w=1920&h=1080",
-    "timestamp": 1793425740.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "58f6ee4ff1",
-    "title_fa": "‏چهار هواپیما با تخلیه‌شدگان اُلشکی به بلاروس رسید",
-    "title_en": "Evacuees from Oleshky arrive in Belarus on their way to Ukraine",
-    "summary": [
-      "‏چهار هواپیما حاوی ساکنان تخلیه‌شده از شهر اوکراینی اُلشکی به بلاروس فرود آمدند",
-      "‏این حرکت مسیر جدیدی برای پناهندگان از مناطق تحت کنترل روسیه نشان می‌دهد",
-      "‏مقامات اوکراین اعلام کردند که این افراد به زودی به داخل اوکراین بازگردند"
-    ],
-    "body_fa": "‏در تاریخ 31 اکتبر، چهار هواپیما حاوی ساکنان تخلیه‌شده از شهر اوکراینی اُلشکی که تحت کنترل روسیه است، در بلاروس فرود آمدند. این خبر توسط خبرگزاری دولتی بلتا و یک مقام ارشد اوکراینی تأیید شد. تخلیه از اُلشکی نشان می‌دهد که بلاروس به عنوان مسیر عبوری برای پناهندگان از مناطق اشغالی روسیه به کار گرفته می‌شود. مقامات اوکراین گفتند این افراد پس از عبور از بلاروس به سرعت به داخل اوکراین بازگردند. این رویداد می‌تواند نشانگر تغییر در سیاست‌های انسانی و لجستیکی در طول جنگ باشد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "پناهندگان",
-    "tag": "اُلشکی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/video/watch/idRW465631102026RP1/",
-    "clean_url": "https://www.reuters.com/video/watch/idRW465631102026RP1",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793424240.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d483cf57a5",
-    "title_fa": "‏متوسط‌گذاران قطری مذاکرات مستقیم آمریکا‑ایران را در تهران آغاز کردند",
-    "title_en": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-    "summary": [
-      "‏قطر با میانجیگری مذاکراتی در تهران برگزار کرد تا مذاکرات مستقیم آمریکا و ایران از سر گرفته شود.",
-      "‏این تلاش می‌تواند تنش‌های خاورمیانه و مسیرهای نفتی استراتژیک را تحت تأثیر قرار دهد.",
-      "‏ایران وعده پاسخ بدون محدودیت جغرافیایی به هر حمله جدید آمریکا را داد."
-    ],
-    "body_fa": "‏رسانه‌های قطری دیپلمات‌های قطری روز جمعه بیش از 12 ساعت در تهران با مقامات ایرانی نشستند تا راهی برای از سرگیری مذاکرات مستقیم بین واشنگتن و تهران پیدا کنند. ایران اعلام کرد در صورت حمله جدید آمریکا، پاسخی «بدون محدودیت جغرافیایی» خواهد داد. این مذاکرات پس از فروپاشی توافق موقت 17 ژوئن برای توقف درگیری‌ها و پس از اتهامات آمریکا مبنی بر احتمال ادامه حملات پس از انتخابات میانی نوامبر برگزار می‌شود. وزیر خارجه ایران، عباس عراغچی، گفت برنامه‌ای برای ملاقات با مقامات آمریکایی وجود ندارد و سفیران ایرانی به قطر برای ادامه مذاکرات می‌روند. در همین حین، گزارش‌های غیرمستقلی از حملات به کشتی‌های تجاری در تنگه هرمز و یک تانکر نفتی که توسط پروژه ناشناخته‌ای هدف قرار گرفته، منتشر شده است. این تحولات می‌تواند بر قیمت نفت و امنیت مسیرهای حمل‌ونقل دریایی در منطقه تأثیرگذار باشد و نشان‌دهنده ریسک‌های ژئوپلیتیک بالاست.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "مذاکرات دیپلماتیک",
-    "tag": "ایران-آمریکا",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-    "clean_url": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108491532-1793445317575-gettyimages-2302114677-nikoubazl-antiusai261029_npfpi.jpeg?v=1793445335&w=1920&h=1080",
-    "timestamp": 1793423460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "40b41976fc",
-    "title_fa": "‏سوپرپک‌های «پاپ‑آپ» ۶۳۷ میلیون دلار در انتخابات میانی ۲۰۲۶ خرج کردند",
-    "title_en": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-    "summary": [
-      "‏سوپرپک‌های جدیدی به نام «پاپ‑آپ» تا ۲۹ اکتبر حدود 637 میلیون دلار در مسابقات میانی 2026 هزینه کردند.",
-      "‏این هزینه‌ها تقریباً یک‌ششم کل هزینه‌های مستقل در انتخابات مجلس و سناست و نشان‌دهنده رشد سریع سوپرپک‌های دیرهنگام است.",
-      "‏گزارش‌ها نشان می‌دهند رقیبان احزاب دو برابر هزینه می‌گذارند و اطلاعات اهداکنندگان تا بعد از روز انتخابات فاش نمی‌شود."
-    ],
-    "body_fa": "‏در اواخر اکتبر 2026 ، سوپرپک جدیدی به نام Our Heritage Matters ثبت‌نام کرد و تنها پنج روز پس از آن شروع به صرف حدود 1.2 میلیون دلار در ده رقابت مجلس و سنا کرد. تا 29 اکتبر، مجموع هزینه‌های سوپرپک‌های «پاپ‑آپ» که در ده هفته آخر قبل از روز انتخابات تشکیل شده‌اند، به حدود 637 میلیون دلار رسید؛ این مبلغ تقریباً یک‌ششم کل هزینه‌های مستقل در این دوره انتخاباتی است. تعداد این سوپرپک‌های یک‌میلیون‌دولاری نسبت به 2022 چهار برابر شده و هزینه‌هایشان 35 برابر افزایش یافته است. احزاب دو طرف از این روش استفاده می‌کنند، اما سوپرپک‌های مرتبط با جمهوری‌خواهان تقریباً دو برابر هزینه‌های دموکرات‌ها را صرف می‌کنند. متخصصان مالی می‌گویند این ساختار برای به‌دست آوردن زمان بیشتر برای مخفی نگه داشتن هویت اهداکنندگان ایجاد شده است، زیرا گزارش‌های اولیهٔ اهداکنندگان تا پس از روز انتخابات به تأخیر می‌افتد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "مالی انتخابات",
-    "tag": "super PAC",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
-    "clean_url": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108421360-1792180731050-gettyimages-2299995240-AFP_D3JJ2HJ.jpeg?v=1792180796&w=1920&h=1080",
-    "timestamp": 1793422800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "58a262208d",
-    "title_fa": "‏اوکراین پالایشگاه‌های Bashneft را هدف گرفت",
-    "title_en": "Ukraine Strikes Bashneft Refineries as Russia Attacks Power Grid",
-    "summary": [
-      "‏اوکراین به چندین پالایشگاه Bashneft در روسیه حمله کرد.",
-      "‏این اقدام می‌تواند تأثیر قابل‌توجهی بر تأمین انرژی روسیه داشته باشد.",
-      "‏در همان زمان روسیه شبکه برق اوکراین را هدف قرار داد."
-    ],
-    "body_fa": "‏به گزارش بلومبرگ، نیروهای اوکراین در روز اخیر به چندین پالایشگاه شرکت Bashneft در روسیه حمله کردند. این حملات در واکنش به حملات روسیه به شبکه برق اوکراین انجام شد. هدف اصلی این عملیات، تخریب زیرساخت‌های انرژی روسیه و فشار بر اقتصاد انرژی آن است. هر دو طرف ادعا می‌کنند این اقدامات بخشی از پاسخ‌گویی به حملات قبلی است. کارشناسان هشدار می‌دهند که ادامه این تبادل حملات می‌تواند نوسان قیمت نفت و گاز را تشدید کند. وضعیت هنوز در حال بررسی است.",
-    "category": "انرژی و کالا",
-    "subcategory": "نفت و گاز",
-    "tag": "Bashneft",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/ukraine-strikes-bashneft-refineries-as-russia-attacks-power-grid",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-31/ukraine-strikes-bashneft-refineries-as-russia-attacks-power-grid",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793422500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e4cd534c4d",
-    "title_fa": "‏Binance برای مجوز مالزی پس از پنج سال مذاکره می‌کند",
-    "title_en": "Binance in Talks for Malaysia License after Five-Year Absence",
-    "summary": [
-      "‏Binance پس از پنج سال غیبت، مذاکرات برای دریافت مجوز فعالیت در مالزی را آغاز کرده است.",
-      "‏این مجوز می‌تواند حضور رسمی این صرافی بزرگ را در بازار آسیای جنوب‑شرق تقویت کند.",
-      "‏موفقیت در این مذاکرات ممکن است تاثیراتی بر حجم معاملات و رقابت در منطقه داشته باشد."
-    ],
-    "body_fa": "‏Binance ، بزرگ‌ترین صرافی رمزارز جهان، پس از پنج سال عدم حضور در مالزی، مذاکراتی برای دریافت مجوز رسمی آغاز کرده است. این گام نشان‌دهنده تمایل شرکت به بازگشت به بازار جنوب‑شرق آسیا است که پیش از این به دلیل عدم وضوح قوانین، از آن دور شد. مقامات مالی مالزی در حال بررسی درخواست صرافی هستند و اعلام کرده‌اند که شرایط نظارتی جدیدی برای فعالیت‌های رمزارزی اعمال می‌شود. اگر مجوز صادر شود، Binance می‌تواند خدمات خود را به صورت قانونی در این کشور ارائه دهد و احتمالاً حجم معاملات منطقه را افزایش دهد. این توسعه می‌تواند رقابت بین صرافی‌های بین‌المللی را در آسیا تشدید کند و برای سرمایه‌گذاران محلی فرصت‌های جدیدی ایجاد کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "مجوز و نظارت",
-    "tag": "Binance",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793417400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "aad8f13632",
-    "title_fa": "‏قیمت برق آمریکا در میانه‌دوره انتخابات به مسأله سیاسی شد",
-    "title_en": "Power bills and data centers cast rare spotlight on utilities in US midterms",
-    "summary": [
-      "‏قیمت برق در ایالات متحده به‌سرعت افزایش یافت و در انتخابات میانی 2026 به موضوعی داغ سیاسی تبدیل شد",
-      "‏این موضوع باعث فشار بر شرکت‌های خدماتی و بحث درباره هزینه‌های مراکز داده و سیاست‌های انرژی شد",
-      "‏کاندیداهای دو حزب سعی می‌کنند راه‌حل‌های کاهش قبض را به برنامه‌های خود اضافه کنند"
-    ],
-    "body_fa": "‏قیمت برق در آمریکا در سال‌های اخیر به‌سرعت بالا رفت و در انتخابات میانی 2026 به یکی از مهم‌ترین مسائلی که رای‌دهندگان به آن توجه می‌کنند تبدیل شد. افزایش قبض‌ها نه تنها خانه‌های خانوارها را تحت فشار قرار داد، بلکه هزینه‌های مراکز داده بزرگ که به برق فراوانی نیاز دارند را نیز به‌چالش کشید. شرکت‌های خدماتی برق تحت نظارت شدید رسانه‌ها و قانون‌گذاران قرار گرفتند و کاندیداهای دموکرات و جمهوری‌خواه هر دو وعده کاهش هزینه‌های انرژی را به برنامه‌های انتخابی خود افزودند. در عین حال، بحث‌های سیاسی حول تنظیم نرخ‌های برق، سرمایه‌گذاری در انرژی‌های تجدیدپذیر و حمایت از مصرف‌کنندگان ادامه دارد. این تحولات می‌تواند به تغییرات نظارتی و سرمایه‌گذاری‌های جدید در زیرساخت‌های انرژی منجر شود.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت برق",
-    "tag": "electricity",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/power-bills-data-centers-cast-rare-spotlight-utilities-us-midterms-2026-10-31/",
-    "clean_url": "https://www.reuters.com/business/energy/power-bills-data-centers-cast-rare-spotlight-utilities-us-midterms-2026-10-31",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793416140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "67aa0bb392",
-    "title_fa": "‏دوره نهایی مبارزه برای کنترل کنگره آمریکا آغاز شد",
-    "title_en": "US campaign for control of Congress enters final weekend",
-    "summary": [
-      "‏کمپین برای به‌دست گرفتن کنگره آمریکا به آخرین هفته خود رسید.",
-      "‏نتیجهٔ این انتخابات می‌تواند سیاست‌های داخلی و خارجی ایالات متحده، از جمله تحریم‌های ایران، را شکل دهد.",
-      "‏دولت ترامپ در رقابت سنای آلاسکا مداخله قانونی بیشتری انجام داد."
-    ],
-    "body_fa": "‏در آخرین هفتهٔ مبارزه برای به‌دست گرفتن کنگره ایالات متحده، رقابت‌های کلیدی در ایالت‌های میدانی و سنای آلاسکا به اوج رسید. دولت ترامپ برای حمایت از نامزد جمهوری‌خواه در سنای آلاسکا، درخواست‌های قانونی جدیدی برای بررسی نتایج شمارش آرا و محدود کردن نظرسنجی‌های مستقل ارائه داد. این اقدام نشان‌دهندهٔ تمایل دولت به تأثیرگذاری مستقیم بر نتایج انتخابات است. همزمان، تعداد رأی‌دهندگانی که در روزهای اخیر به ثبت نام یا شرکت در رای‌گیری پرداخته‌اند، به بالاترین سطح در چند سال اخیر رسیده است. تحلیل‌گران پیش‌بینی می‌کنند که نتایج این انتخابات می‌تواند ترکیب قدرت در کنگره را تغییر داده و به‌ویژه سیاست‌های خارجی آمریکا، از جمله تحریم‌های جاری علیه ایران، را تحت تأثیر قرار دهد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "انتخابات کنگره آمریکا",
-    "tag": "کنگره",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-campaign-control-congress-enters-final-weekend-2026-10-31/",
-    "clean_url": "https://www.reuters.com/legal/government/us-campaign-control-congress-enters-final-weekend-2026-10-31",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793416080.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a7488462f0",
-    "title_fa": "‏وزراي کواد هند-آسیاپاسی بر تقویت زنجیره‌های تأمین تأکید کردند",
-    "title_en": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions",
-    "summary": [
-      "‏وزراي ایالات متحده، استرالیا، هند و ژاپن در سومین نشست سالانه خود به بررسی تقویت زنجیره‌های تأمین پرداخته‌اند.",
-      "‏آنها محدودیت‌های صادراتی دلخواه را محکوم کرده و سعی در ایجاد چارچوبی برای تجارت آزاد در منطقه دارند.",
-      "‏این هماهنگی می‌تواند فشار بر چین را افزایش دهد و نقش اقتصادی کواد را در اقیانوس هند-پاسی تقویت کند."
-    ],
-    "body_fa": "‏سران وزراي ایالات متحده، استرالیا، هند و ژاپن در سومین جلسهٔ سالانهٔ خود که توسط مارکو روبیوی، وزیر امور خارجهٔ آمریکا، میزبانی شد، به بررسی راهکارهای تقویت زنجیره‌های تأمین در منطقهٔ هند-آسیاپاسی پرداختند. این نشست بخشی از آمادگی برای برگزاری اجلاس بالاترین سطح کواد است که هدفش ایجاد یک چارچوب تجاری مقاوم در برابر محدودیت‌های صادراتی دلخواه است. وزرا به‌ویژه به محدودیت‌های غیرقابل توجیه در حوزهٔ نیمه‌رساناها و مواد کمیاب اشاره کردند و این اقدامات را به‌عنوان تهدیدی برای رشد اقتصادی منطقه شناختند. آنها توافق کردند تا هماهنگی‌های فنی و سیاست‌گذاری را تقویت کرده و اطلاعاتی دربارهٔ زنجیره‌های تأمین حساس به‌اشتراک بگذارند. این حرکت می‌تواند نقش کواد را در تعادل قدرت اقتصادی در مقابل چین تقویت کند و فرصت‌های جدیدی برای تجارت آزاد در منطقه ایجاد نماید.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "زنجیره تأمین",
-    "tag": "Quad",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/rubio-host-meeting-indo-pacific-quad-wrap-up-g20-gathering-2026-10-31/",
-    "clean_url": "https://www.reuters.com/world/china/rubio-host-meeting-indo-pacific-quad-wrap-up-g20-gathering-2026-10-31",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793415720.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b5d4ec4338",
-    "title_fa": "‏آژانس فساد چین، رئیس پیشین Sinopec را بررسی کرد",
-    "title_en": "China Graft Agency Probes Former Sinopec Chairman Fu Chengyu",
-    "summary": [
-      "‏آژانس مبارزه با فساد چین، رئیس پیشین شرکت نفتی Sinopec ، Fu Chengyu ، را تحت تحقیق قرار داد.",
-      "‏این اقدام می‌تواند فشار بر بازارهای انرژی چین و نگرانی‌های سرمایه‌گذاران در سهام Sinopec ایجاد کند.",
-      "‏Fu Chengyu پیش از سال 2020 رئیسی بود که بر استراتژی‌های بین‌المللی شرکت نظارت داشت."
-    ],
-    "body_fa": "‏آژانس مبارزه با فساد چین (انجمن نظارت بر فساد) اعلام کرد که Fu Chengyu ، رئیس پیشین شرکت نفتی Sinopec ، تحت تحقیق قرار گرفته است. این بررسی به ادعای دریافت رشوه و سوءاستفاده از موقعیت شغلی در طول دوره رهبری او مربوط می‌شود. Fu Chengyu که تا سال 2020 رئیسی بود که بر استراتژی‌های بین‌المللی و سرمایه‌گذاری‌های بزرگ Sinopec نظارت داشت، پیش از این در بخش‌های مختلف انرژی فعالیت کرده بود. این خبر می‌تواند نگرانی‌های سرمایه‌گذاران در بازارهای انرژی چین را تشدید کند و احتمالاً فشار فروش بر سهام Sinopec ایجاد نماید. همچنین، این اقدام نشان‌دهنده ادامه سیاست‌های سخت‌گیرانه مبارزه با فساد در چین است که می‌تواند بر سایر شرکت‌های بزرگ دولتی تأثیر بگذارد. اگرچه هنوز جزئیات دقیق اتهامات منتشر نشده، اما نظارت‌های مشابه در گذشته منجر به تغییرات مدیریتی و جریمه‌های مالی قابل توجهی شده‌اند. در نتیجه، این پرونده می‌تواند به نوسان کوتاه‌مدت قیمت نفت و انرژی جهانی دامن بزند.",
-    "category": "انرژی و کالا",
-    "subcategory": "نفت و گاز",
-    "tag": "Sinopec",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-graft-agency-probes-former-sinopec-chairman-fu-chengyu",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-31/china-graft-agency-probes-former-sinopec-chairman-fu-chengyu",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793415540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8aba25618a",
-    "title_fa": "‏بانک انگلستان ممکن است سقف وام‌های پرخطر را افزایش دهد",
-    "title_en": "Bank of England May Raise High-Risk Mortgage Threshold, FT Says",
-    "summary": [
-      "‏بانک انگلستان قصد دارد آستانه وام‌های پرخطر را بالا ببرد، طبق گزارش Financial Times.",
-      "‏این اقدام می‌تواند هزینه وام‌گیری مسکن را تحت فشار قرار دهد و بازار مسکن بریتانیا را تحت تأثیر قرار دهد.",
-      "‏تصمیم نهایی هنوز در دست بررسی است و ممکن است به تغییرات نرخ بهره مرتبط شود."
-    ],
-    "body_fa": "‏بانک انگلستان در حال بررسی افزایش آستانه وام‌های پرخطر است. این پیشنهاد در گزارشی از Financial Times منتشر شد. هدف این است که ریسک وام‌دهی به خریداران مسکن با شرایط نامناسب را کاهش دهد. اگر اجرا شود، ممکن است هزینه وام مسکن برای برخی خریداران افزایش یابد و فشار بر بازار مسکن بریتانیا افزایش یابد. تصمیم نهایی هنوز توسط بانک مرکزی اتخاذ نشده و تحت نظارت مقامات مالی قرار دارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست مسکن",
-    "tag": "وام",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/bank-of-england-may-raise-high-risk-mortgage-threshold-ft-says",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-10-31/bank-of-england-may-raise-high-risk-mortgage-threshold-ft-says",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793413260.0,
     "sent_to_telegram": true
   }
 ]
