@@ -1,5 +1,49 @@
 [
   {
+    "id": "ea87fedfe2",
+    "title_fa": "‏دولت ترامپ تصمیم به ادامه تعرفه‌های تجاری می‌گیرد",
+    "title_en": "White House vows to press ahead with tariffs despite midterm backlash over...",
+    "summary": [
+      "‏دولت ترامپ اعلام کرد که تعرفه‌های تجاری را ادامه خواهد داد.",
+      "‏این تصمیم پس از واکنش منفی رأی‌دهندگان به تورم و هزینه‌های زندگی است.",
+      "‏متقاضیان اقتصادی می‌گویند تعرفه‌ها قیمت‌ها را برای مصرف‌کنندگان افزایش می‌دهد."
+    ],
+    "body_fa": "‏در نشست B20 در واشنگتن، جیم گویِر، مدیر دفتر روابط عمومی کاخ سفید، گفت که تعرفه‌ها ابزاری برای بازسازی تولید داخلی، تأمین زنجیره‌های تأمین و امنیت ملی هستند و این سیاست ادامه خواهد یافت. در همان روز، گری کوهن، مشاور اقتصادی پیشین ترامپ، در مصاحبه‌ای گفت که تعرفه‌ها در واقع مالیات مصرفی برای آمریکایی‌هاست و باعث افزایش قیمت‌ها می‌شود. نظرسنجی‌های اخیر نشان می‌دهد دو‑سوم رأی‌دهندگان معتقدند سیاست‌های تجاری ترامپ به تورم افزوده و ۶۲٪ از آمریکایی‌ها خواستار لغو تعرفه‌ها هستند. داده‌های جدید نشان دادند قیمت مصرف‌کننده در اکتبر ۰.۴٪ رشد کرده و تورم سالانه در سپتامبر به ۳.۷٪ رسیده است، که همچنان بالاتر از هدف ۲٪ فدرال رزرو است. علاوه بر تعرفه‌ها، جنگ با ایران نیز به افزایش هزینه‌های انرژی کمک کرده است. این تضاد بین اهداف تجاری و فشارهای اقتصادی می‌تواند چالش‌های بیشتری برای دولت ترامپ به‌وجود آورد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تعرفه‌های تجاری",
+    "tag": "تعرفه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+    "clean_url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+    "image": "https://s.yimg.com/bo/2fbb3e8a-1ba4-56b2-aab4-9a27c81d2d52_1794343429310.jpg",
+    "timestamp": 1794342797.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "579eb06a14",
+    "title_fa": "‏حملهٔ Houthis به ایستگاه‌های پمپاژ خط شرقی‑غربی سعودی صورت گرفت",
+    "title_en": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West...",
+    "summary": [
+      "‏در روز سه‌شنبه، Houthis موشک‌های متعدد به فرودگاه King Khalid International Airport ، ایستگاه‌های پمپاژ خط شرقی‑غربی و تسهیلات Aramco در عربستان پرتاب کردند.",
+      "‏این حملات می‌توانند صادرات نفت سعودی را مختل کرده و نوسان در بازارهای انرژی ایجاد کنند.",
+      "‏سخنران Houthis سرمایه‌گذاران را به خروج از عربستان هشدار داد؛ دفاع هوایی سعودی چند موشک را نابود کرد."
+    ],
+    "body_fa": "‏در روز سه‌شنبه، Houths موشک‌های متعدلی به فرودگاه King Khalid International Airport ، ایستگاه‌های پمپاژ خط شرقی‑غربی و تسهیلات Aramco در عربستان سعودی پرتاب کردند. سخنران گروه، Yahya Saree ، اعلام کرد که این حملات به هدف‌های استراتژیک شامل تلفات سنگین نیروهای سعودی بوده است. دفاع هوایی عربستان موفق شد چند موشک و یک پهپاد را در استان شرقی سرکوب کند، اما خسارت‌های احتمالی هنوز ارزیابی نشده است. این تهدید مداوم بر زیرساخت‌های نفتی می‌تواند صادرات نفت سعودی را مختل کرده و باعث نگرانی سرمایه‌گذاران بین‌المللی شود. سخنران Houthis سرمایه‌گذاران را به خروج از عربستان هشدار داد و رویدادهای بین‌المللی برنامه‌ریزی‌شده در این کشور به تعویق افتاده‌اند. بدون حمایت نظامی مستقیم از سوی ایالات متحده یا بریتانیا، عربستان با چالش‌های امنیتی جدی روبه‌روست.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "Houthis",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html",
+    "image": "https://s.yimg.com/bo/dd767f29-ccf5-5741-bd4b-57f8cc27214a_1794346849845.jpg",
+    "timestamp": 1794342797.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "5915e65839",
     "title_fa": "‏اُورا شرکت Counsel Health را به‌قیمت 625 میلیون دلار خریداری کرد",
     "title_en": "Oura to acquire AI-native primary care startup Counsel Health for $625M |...",
@@ -19,6 +63,50 @@
     "clean_url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
     "image": "https://s.yimg.com/bo/c4316de6-5da2-5a6a-8805-2812c1493633_1794339464746.jpg",
     "timestamp": 1794339447.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "183d585e1d",
+    "title_fa": "‏سهم‌داران Anthropic هر کدام ۲۵۰ میلیون دلار از IPO می‌گیرند",
+    "title_en": "All 7 Anthropic founders will each cash out about $250M in IPO | TechCrunch",
+    "summary": [
+      "‏هفت بنیان‌گذار Anthropic تصمیم دارند حدود ۲۵۰ میلیون دلار از عرضه اولیه سهام خود دریافت کنند.",
+      "‏این IPO می‌تواند ارزش شرکت را به ۱.۴ تریلیون دلار برساند و تاثیر قابل‌توجهی بر بازار هوش مصنوعی داشته باشد.",
+      "‏سهم‌های کلاس A ، کلاس N و حق رأی‌های ویژه در سند S‑1 به تفصیل شرح داده شد."
+    ],
+    "body_fa": "‏شرکت Anthropic در سند S‑1 خود اعلام کرد که هر یک از هفت بنیان‌گذار، شامل Dario Amodei و Daniela Amodei ، حدود ۳٬۳۸۷٬۳۷۸ سهم می‌فروشند که در صورت قیمت‌گذاری میانگین ۷۴ دلار، تقریباً ۲۵۰ میلیون دلار نقد برای هر نفر به همراه دارد. محدوده اولیه قیمت سهام بین ۷۰ تا ۷۸ دلار تعیین شده است و احتمال قیمت‌گذاری بالاتر نیز وجود دارد. پس از فروش، هر بنیان‌گذار حدود ۳٫۲٪ از سهام کلاس A را در اختیار خواهد داشت که مجموعاً حدود ۲۲٪ از این کلاس را تشکیل می‌دهد، در حالی که با سهام کلاس N و F ، کنترل ۵۱٫۱٪ رأی را حفظ می‌کنند. این عرضه اولیه می‌تواند ارزش Anthropic را به حدود ۱٫۴ تریلیون دلار برساند و نشان‌دهنده رشد سریع شرکت‌های هوش مصنوعی پس از جدایی از OpenAI است. اعضای هیئت مدیره مانند Reed Hastings و Christopher Liddell نیز قصد خرید سهام به ارزش صدها میلیون دلار دارند.",
+    "category": "تکنولوژی",
+    "subcategory": "عرضه اولیه",
+    "tag": "IPO",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "clean_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+    "image": "https://s.yimg.com/bo/a71b75eb-ae86-5818-84b8-70220e9f6864_1794341512127.jpg",
+    "timestamp": 1794339197.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "431865489c",
+    "title_fa": "‏قیمت طلا به زیر ۴۰۰۰ دلار سقوط کرد؛ بازده اوراق خزانه‌داری آمریکا بالای ۵٪ شد",
+    "title_en": "Gold crashes toward $4,000 as hot US inflation sends Treasury yields above 5% |...",
+    "summary": [
+      "‏طلا در جلسهٔ آمریکایی به زیر ۴۰۰۰ دلار رسید.",
+      "‏این سقوط ناشی از تورم گرم آمریکا و افزایش بازده اوراق خزانه‌داری به بیش از ۵٪ است.",
+      "‏فشار بر سبدهای سرمایه‌گذاری و احتمال ادامه نوسان در بازارهای دیگر."
+    ],
+    "body_fa": "‏قیمت طلا (XAU/USD) در طول جلسهٔ آمریکایی روز سه‌شنبه به زیر ۴۰۰۰ دلار سقوط کرد. این حرکت ناشی از انتشار داده‌های تورمی گرم در ایالات متحده بود که نگرانی‌ها دربارهٔ ادامهٔ فشار بر سیاست‌های پولی فدرال رزرو را افزایش داد. در پی این، بازده اوراق خزانه‌داری آمریکا برای اولین بار به بالای ۵٪ رسید. افزایش نرخ بهره پیش‌بینی‌شده باعث شد سرمایه‌گذاران به سمت دارایی‌های با بازده بالاتر روی آورند و تقاضا برای طلا کاهش یابد. تحلیل‌گران هشدار دادند که اگر تورم بالا بماند، فشار بر قیمت طلا ممکن است ادامه یابد و بازارهای دیگر نیز تحت تأثیر قرار گیرند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/news/gold-crashes-toward-4-000-as-hot-us-inflation-sends-treasury-yields-above-5-202611101815",
+    "clean_url": "https://www.fxstreet.com/news/gold-crashes-toward-4-000-as-hot-us-inflation-sends-treasury-yields-above-5-202611101815",
+    "image": "https://s.yimg.com/bo/e6ef5978-0ff5-58f4-8bb8-b19d20d75a7b_1793352264685.jpg",
+    "timestamp": 1794335594.0,
     "sent_to_telegram": true
   },
   {
@@ -88,6 +176,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "a5d2c154e1",
+    "title_fa": "‏LIV Golf برنامه ورشکستگی را اعلام کرد؛ هدف تصفیه ژانویه",
+    "title_en": "LIV Golf presenta plan de bancarrota y apunta a liquidación en enero",
+    "summary": [
+      "‏LIV Golf روز سه‌شنبه برنامه ورشکستگی تحت فصل 11 دادگاه نیوجرسی را ثبت کرد.",
+      "‏این طرح شامل زمان‌بندی برای جلسه نهایی در 7 ژانویه و هدف نهایی تصفیه شرکت در همان ماه است.",
+      "‏ورشکستگی می‌تواند تأثیر قابل‌توجهی بر قراردادهای پخش و سرمایه‌گذاران لیگ داشته باشد."
+    ],
+    "body_fa": "‏LIV Golf روز سه‌شنبه برنامه ورشکستگی تحت فصل 11 دادگاه نیوجرسی را به‌عنوان طرح رسمی خود ارائه داد. در این طرح، زمان‌بندی پیشنهادی برای برگزاری جلسه نهایی درباره اعلام اطلاعات مالی در 7 ژانویه تعیین شده است. هدف اصلی این برنامه، تصفیه نهایی شرکت در ماه ژانویه همان سال می‌باشد. ورشکستگی این لیگ، که توسط سرمایه‌گذاران سعودی تأمین مالی می‌شود، می‌تواند بر قراردادهای پخش تلویزیونی و مشارکت‌های تجاری آن تأثیر بگذارد. علاوه بر این، طلبکاران و سرمایه‌گذاران انتظار دارند که در فرآیند تصفیه، بدهی‌های معوقه به‌درستی حل شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ورزش مالی",
+    "tag": "LIV Golf",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/liv-golf-bancarrota-capitulo-11-61d0ee8057bb1066a89c4aec703f537a",
+    "clean_url": "https://apnews.com/article/liv-golf-bancarrota-capitulo-11-61d0ee8057bb1066a89c4aec703f537a",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794319860.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "010b9cd1b8",
     "title_fa": "‏بانک‌ها برای کاهش هزینه‌های بالای هوش مصنوعی اقدام می‌کنند",
     "title_en": "Banks seek to rein in soaring AI agent costs, McKinsey says",
@@ -110,6 +220,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "5fe2339a50",
+    "title_fa": "‏شرکت OpenAI استارتاپ مسافرتی Odessia را خریداری کرد",
+    "title_en": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "summary": [
+      "‏شرکت OpenAI استارتاپ هوش مصنوعی مسافرتی Odessia را خریداری کرد.",
+      "‏این اقدام نشان‌دهنده تمرکز OpenAI بر سفر و تقویت ربات‌های برنامه‌ریزی سفر برای کاربران است.",
+      "‏مؤسس Odessia ، Francis Davidson ، پیش از این بنیان‌گذار Sonder بود و به تیم OpenAI پیوست."
+    ],
+    "body_fa": "‏شرکت OpenAI استارتاپ هوش مصنوعی مسافرتی Odessia را خریداری کرد؛ جزئیات مالی اعلام نشده و به نظر می‌رسد این یک acqui‑hire باشد. Odessia که در سال گذشته 6 میلیون دلار سرمایه‌گذاری پیش‌دانه از Sequoia جذب کرده بود، حدود پنج ماه پیش سرویس برنامه‌ریزی سفر خود را راه‌اندازی کرد و به کاربران کمک کرد تا سفرهای با ارزش میلیون‌ها دلاری را برنامه‌ریزی کنند، اما پس از خرید به سرعت تعطیل شد. OpenAI تأیید کرد که Francis Davidson به تیم خود پیوسته و در توسعه محصولات سفر آینده مشارکت خواهد کرد، اگرچه هنوز محصول خاصی اعلام نشده است. سفر یکی از حوزه‌های اصلی استفاده کاربران از ChatGPT است و OpenAI به دنبال ارتقای تجربه‌های مسافرتی در دستیارهای هوش مصنوعی خود است. این خرید نشان می‌دهد که OpenAI به گسترش کاربردهای عملی هوش مصنوعی در صنایع بزرگ مانند گردشگری ادامه می‌دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "ادغام استارتاپ",
+    "tag": "OpenAI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "clean_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
+    "timestamp": 1794316020.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "97947e36ec",
     "title_fa": "‏بیت‌کوین از سهام جدا شد؛ خروج ETF ها و فروش MARA",
     "title_en": "Bitcoin breaks with stocks as ETF outflows mount, MARA sells some BTC: Crypto...",
@@ -129,6 +261,28 @@
     "clean_url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
     "image": "https://s.yimg.com/bo/b06bc188-d0ea-55aa-a210-313f2f4115ba_1794313889207.png.cf.jpg",
     "timestamp": 1794314247.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "937bd2c336",
+    "title_fa": "‏سهم‌های GE Vernova پس از نوشتن ۳٫۷ میلیارد SoftBank سقوط کرد",
+    "title_en": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
+    "summary": [
+      "‏سهم‌های GE Vernova پس از نوشتن ۳٫۷ میلیارد دلار توسط SoftBank سقوط کردند",
+      "‏این سقوط همزمان با افزایش انتظارات رفع نرخ بهره فدرال رزرو پس از CPI گرم شد",
+      "‏بازده اوراق ۱۰‑ساله به ۵٪ برگشت و نوسان بازارها تشدید شد"
+    ],
+    "body_fa": "‏بازارهای سهام روز سه‌شنبه به‌طور گسترده‌ای افت کردند و سودهای دو روز گذشته S&P 500 و Nasdaq را تا بیش از ۲٪ کاهش دادند. داده‌های CPI ماه اکتبر که ۰٫۴٪ بالاتر از انتظار بود، باعث شد انتظارات رفع نرخ بهره فدرال رزرو در جلسه دسامبر به‌طور کامل به ۲۵ پایه‌نقطه افزایش یابد و احتمال ۵۰ پایه‌نقطه را به ۱۲٪ برساند. در همین حین، سهام GE Vernova پس از آنکه SoftBank نوشتن ۳٫۷ میلیارد دلاری مرتبط با استراتژی تجهیزات قدرت برای دیتاسنترهای هوش مصنوعی در ایالت اوهایو اعلام کرد، به‌سختی کاهش یافت. این پروژه که GE Vernova به‌عنوان تأمین‌کننده توربین‌های گاز طبیعی در آن حضور دارد، تحت بازنگری قراردادی قرار گرفته؛ اگرچه SoftBank ادعا کرد که گزارش‌های مربوط به عدم تحویل توربین‌ها نادرست است. در مجموع، ترکیب فشارهای تورمی و نگرانی‌های مربوط به زنجیره تأمین انرژی برای دیتاسنترها، بازار را در وضعیت نوسانی نگه داشته است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "GE Vernova",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
+    "clean_url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/107421610-1717016762050-gettyimages-1663554533-_iss2062_2m4dmgj1.jpeg?v=1762446900&w=1920&h=1080",
+    "timestamp": 1794312120.0,
     "sent_to_telegram": true
   },
   {
@@ -437,6 +591,28 @@
     "clean_url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Ring-drone.jpg?resize=1200,1200",
     "timestamp": 1794288600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "496eb80aae",
+    "title_fa": "‏عراق پرواز تیم فوتبال ایران را تحریم‌های آمریکا مسدود کرد",
+    "title_en": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say",
+    "summary": [
+      "‏عراق پرواز حاوی تیم ملی فوتبال ایران را از فرود در فرودگاه بصره منع کرد.",
+      "‏این تصمیم به تحریم‌های آمریکا علیه خطوط هوایی ایرانی مرتبط است و روابط ورزشی دو کشور را تحت فشار قرار می‌دهد.",
+      "‏مسئولان عراقی اعلام کردند که اجازه فرود برای پروازهای تحت تحریم‌های آمریکا را ندارند."
+    ],
+    "body_fa": "‏سازمان هواپیمایی کشوری عراق، پرواز حاوی تیم ملی فوتبال ایران را از فرود در فرودگاه بصره منع کرد. این اقدام در پی تحریم‌های جدید ایالات متحده علیه شرکت‌های هواپیمایی ایرانی انجام شد. آمریکا به‌تازگی محدودیت‌های شدیدی بر پروازهای هواپیمایی ایران اعمال کرده و از کشورهای همسایه می‌خواهد تا این تحریم‌ها را اجرا کنند. عراقی‌ها گفتند که اجازه فرود برای هر پروازی که تحت تحریم‌های آمریکا باشد، ندارند. منع این پرواز می‌تواند برنامه‌های مسابقات دوستانه یا مسابقات رسمی تیم ایران را مختل کند و تنش‌های ورزشی بین دو کشور را تشدید کند. تحلیل‌گران پیش‌بینی می‌کنند این رویداد تأثیر محدودی بر اقتصاد کلی دارد اما نمادی از فشارهای سیاسی در منطقه است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم هوایی",
+    "tag": "تحریم",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
+    "clean_url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794285900.0,
     "sent_to_telegram": true
   },
   {
@@ -6420,182 +6596,6 @@
     "clean_url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
     "image": "https://i.insider.com/6ae8a1cdf3bee449b3d2a2ad?width=1200&format=jpeg",
     "timestamp": 1793605020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7490496e88",
-    "title_fa": "‏شرکت Omen AI خرید Aquatic Labs را تکمیل کرد",
-    "title_en": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "summary": [
-      "‏شرکت Omen AI شرکت Aquatic Labs را به‌قیمت 16 میلیون دلار نقد و سهام خریداری کرد.",
-      "‏این ادغام حسگرهای زمان‌واقعی برای نظارت بر آب خنک‌کننده مراکز داده AI را بهبود می‌دهد و مصرف آب را کاهش می‌دهد.",
-      "‏هدف Omen نصب حسگرها روی 1 گیگاوات چیپ تا 2027 و صرفه‌جویی در هزینه‌های خاموشی است."
-    ],
-    "body_fa": "‏شرکت Omen AI پس از جذب 31 میلیون دلار در دوره Series A ، شرکت رقیب Aquatic Labs را به‌قیمت 16 میلیون دلار نقد و سهام خریداری کرد. این دو استارتاپ هر دو حسگرهای زمان‌واقعی برای تجزیه و تحلیل مایع خنک‌کننده داده‌مرکزها توسعه می‌دادند؛ حسگر Omen عناصر شیمیایی را شناسایی می‌کرد و حسگر Aquatic اسیدیت را اندازه‌گیری می‌نمود. ترکیب این فناوری‌ها امکان ارائه تصویری جامع از وضعیت آب خنک‌کننده را فراهم می‌کند و فرآیند تست چندروزه را به‌صورت خودکار جایگزین می‌سازد. این شرکت قصد دارد این حسگرها را برای چیپ‌های با توان 250 تا 300 مگاوات تا پایان سال و برای مجموع 1 گیگاوات تا سال 2027 عرضه کند. این گام می‌تواند هزینه‌های خاموشی ناشی از مشکلات سیستمی آب را کاهش داده و مصرف آب مراکز داده‌های هوش مصنوعی را به‌طور قابل‌توجهی بهبود بخشد.",
-    "category": "تکنولوژی",
-    "subcategory": "حسگرهای آب",
-    "tag": "OmenAI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "clean_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
-    "timestamp": 1793602800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f363edfc85",
-    "title_fa": "‏درآمد Anthropic کم شد؛ ریسک‌های پیش از IPO بالا رفت",
-    "title_en": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
-    "summary": [
-      "‏درآمد Anthropic در سه ماهه سوم افزایش یافت اما رشد آن کند شد",
-      "‏این نشان‌دهنده کاهش سریع زیان خالص و افزایش ریسک‌های تأمین مالی قبل از عرضه عمومی است",
-      "‏شرکت در پرونده اصلاح‌شده IPO به SEC این نکات را اعلام کرد"
-    ],
-    "body_fa": "‏در پرونده اصلاح‌شدهٔ IPO که Anthropic به SEC ارائه داد، اعلام شد که درآمد شرکت در سه ماهه سوم سال مالی به‌طور قابل‌توجهی افزایش یافته اما سرعت رشد آن کاهش یافته است. در همین دوره، زیان خالص به‌طور چشمگیری کاهش یافت و به‌نزدیک نقطه سر به سر رسید. با این حال، شرکت هشدار داد که هزینه‌های محاسباتی برای توسعهٔ مدل‌های هوش مصنوعی، فشار مالی جدیدی ایجاد کرده و ریسک‌های تأمین مالی را بالا برده است. این موارد می‌تواند بر ارزیابی سرمایه‌گذاران و قیمت‌گذاری اولیهٔ سهام در زمان عرضه عمومی تأثیر بگذارد. تحلیل‌گران بازار هوش مصنوعی این رویداد را نشانه‌ای از چالش‌های مالی شرکت‌های نوپای AI پیش از ورود به بازارهای عمومی می‌دانند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/",
-    "clean_url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793602200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b6acec583f",
-    "title_fa": "‏خروج ۶۴۳ میلیون دلاری از ETF های بیت‌کوین در جمعه",
-    "title_en": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-    "summary": [
-      "‏در جمعه، ETF های بیت‌کوین ۶۴۳ میلیون دلار خروج سرمایه داشتند",
-      "‏این خروج 63.6 ٪ جریان خالص سالانه را از بین برد و نگرانی‌ها را در بازار کریپتو تشدید کرد",
-      "‏این بزرگ‌ترین خروج روزانه از زمان ژوئن ۲۵ که 696.3 میلیون دلار بود، دوازدهمین بار بود"
-    ],
-    "body_fa": "‏جمعه گذشته، سرمایه‌گذاران در ETF های بیت‌کوین مجموعاً ۶۴۳ میلیون دلار خارج کردند. این خروج باعث شد تا ۶۳.۶٪ از جریان خالص ورودی سالانه حذف شود و سال ۲۰۲۶ به‌ سختی سبز بماند. این میزان، دوازدهمین خروج روزانه بزرگ از زمان آغاز معاملات این صندوق‌ها در ژانویه ۲۰۲۴ است. بزرگ‌ترین خروج پیشین در ۲۵ ژوئن با ۶۹۶.۳ میلیون دلار ثبت شد. چنین خروج‌های سنگین می‌تواند فشار فروش بر قیمت بیت‌کوین را افزایش دهد و نشان‌دهنده نگرانی سرمایه‌گذاران نسبت به بازار است. تحلیل‌گران پیش‌بینی می‌کنند که اگر این روند ادامه یابد، جذب سرمایه جدید برای ETF ها دشوار خواهد شد. در عین حال، این رویداد نشان می‌دهد که جریان‌های سرمایه‌گذاری در کریپتو هنوز بسیار ناپایدار است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "خروج سرمایه ETF",
-    "tag": "BitcoinETF",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-    "clean_url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/38d30fc1824fe6912461d5945a73ef3f7d52f5e3-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-    "timestamp": 1793601960.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "fa734c826f",
-    "title_fa": "‏Bitmine 8,573 ETH افزود؛ ذخیره‌اش به 6,060,506 ETH رسید",
-    "title_en": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
-    "summary": [
-      "‏Bitmine Immersion Technologies 8,573 ETH خریداری کرد و موجودی‌اش به 6,060,506 ETH رسید.",
-      "‏این افزایش بزرگ می‌تواند تأثیر قابل‌توجهی بر عرضه و قیمت ETH داشته باشد.",
-      "‏تحلیل‌گر Tom Lee واکنش بازار به هک Binance را کم‌اهمیت می‌داند."
-    ],
-    "body_fa": "‏شرکت Bitmine Immersion Technologies اعلام کرد که در هفته گذشته 8,573 ETH به خزانه‌اش اضافه کرده و موجودی کل آن به 6,060,506 ETH رسیده است. این تراکنش در زمانیکه قیمت هر ETH حدود 2,261 دلار است، نشان‌دهنده سرمایه‌گذاری قابل‌توجهی در دارایی دیجیتال می‌باشد. افزایش موجودی این حجم می‌تواند فشار فروش یا خرید در بازار را تحت تأثیر قرار دهد و به نوسان قیمت کمک کند. در همین حین، تحلیل‌گر مشهور Tom Lee واکنش بازار به هک اخیر Binance را «کم‌اهمیت» توصیف کرد و اشاره کرد که این رویداد هنوز تأثیر عمیقی بر قیمت‌های کلان نداشته است. این خبر نشان می‌دهد که شرکت‌های استخراج همچنان به گسترش ذخیره‌های خود ادامه می‌دهند و ممکن است نقش مهمی در دینامیک عرضه‌تقاضای ETH ایفا کنند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "سرمایه‌گذاری شرکت‌ها",
-    "tag": "ETH",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
-    "clean_url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793596140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cb4f5e1d4d",
-    "title_fa": "‏حملات در اتیوپی سیستم بهداشتی را به فروپاشی نزدیک می‌کند",
-    "title_en": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says",
-    "summary": [
-      "‏حملات در شمال اتیوپی کشته‌های غیرنظامی را به‌دنبال داشته و سلامت عمومی را تهدید می‌کند",
-      "‏این وضعیت باعث نزدیک شدن به فروپاشی سیستم بهداشتی می‌شود و خطر بحران انسانی را افزایش می‌دهد",
-      "‏سازمان بهداشت جهانی این نگرانی را به‌صورت رسمی اعلام کرد"
-    ],
-    "body_fa": "‏سازمان بهداشت جهانی اعلام کرد که حملات مداوم در شمال اتیوپی کشته‌های غیرنظامی زیادی به‌بار آورده است. این درگیری‌ها سیستم بهداشتی نازک این منطقه را به‌حدی نزدیک کرده‌اند که ممکن است به‌سرعت فروپاشی کند. مسئولان بهداشت هشدار دادند اگر دسترسی به خدمات پزشکی قطع شود، خطر شیوع بیماری‌های واگیردار به‌طور چشمگیری افزایش می‌یابد. نیاز به کمک‌های بین‌المللی برای تأمین دارو، تجهیزات و پرستاران بیش از پیش حس می‌شود. این بحران می‌تواند ناپایداری سیاسی و اقتصادی در اتیوپی و کشورهای همسایه را تشدید کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "بحران انسانی",
-    "tag": "اتیوپی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Associated Press News",
-    "url": "https://apnews.com/article/ethiopia-tedros-tigray-amhara-drone-strikes-violence-70bee2b7fe23dd348c5ac8adf833332a",
-    "clean_url": "https://apnews.com/article/ethiopia-tedros-tigray-amhara-drone-strikes-violence-70bee2b7fe23dd348c5ac8adf833332a",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793595900.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "42f3cb9846",
-    "title_fa": "‏هکرها دمای فریزرهای سوپرمارکت‌های اروپایی را تغییر دادند",
-    "title_en": "More European supermarkets are getting their freezers hacked",
-    "summary": [
-      "‏زنجیره‌های سوپرمارکتی در بلژیک، سوئد، لوکزامبورگ و استونی دماهای یخچال و فریزرشان به‌صورت ناگهانی به 50 درجه سانتی‌گراد ارتقا یافت",
-      "‏این حملات سایبری می‌تواند باعث فاسد شدن مواد غذایی و خسارات میلیون‌ها یورو در زنجیره تأمین غذایی شود",
-      "‏حملات مشابه ماه گذشته به سوپرمارکت‌های فرانسه نیز منجر به فساد گسترده مواد شد"
-    ],
-    "body_fa": "‏در چند کشور اروپایی از جمله بلژیک، سوئد، لوکزامبورگ و استونی، سامانه‌های خنک‌کننده یخچال و فریزرهای سوپرمارکت‌ها به‌صورت ناگهانی دمایشان تا 50 درجه سانتی‌گراد افزایش یافت. شرکت‌های زنجیره‌ای مانند Coop سوئد و Ahold Delhaize هلند اعلام کردند که هکرها به‌صورت غیرمجاز به سیستم‌های کنترل دما دسترسی پیدا کرده‌اند. برخی فروشگاه‌ها این تغییرات را در شب‌هنگام گزارش دادند و به‌سرعت اقدام به تخلیه و بررسی کالاهای فاسد شده کردند. کارشناسان امنیت سایبری هشدار دادند که اتصال اینترنتی این تجهیزات می‌تواند نقطه ضعف جدی برای زنجیره تأمین غذایی باشد و خسارات مالی به‌ارزش میلیون‌ها یورو داشته باشد. این رخداد پس از حمله‌ای مشابه به سوپرمارکت‌های فرانسه در ماه گذشته و اختلالات فریزرهای پایگاه‌های نظامی ایالات متحده رخ داده است.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "هک فریزر",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
-    "clean_url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302707314.jpg?quality=90&strip=all&crop=0%2C11.034963327406%2C100%2C77.930073345187&w=1200",
-    "timestamp": 1793595660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7539072296",
-    "title_fa": "‏بیت‌کوین به‌سوی ۷۹٬۰۰۰ دلار بازگشت",
-    "title_en": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-    "summary": [
-      "‏بیت‌کوین پس از بزرگ‌ترین هک رمزارزها قیمت خود را به حدود ۷۹٬۰۰۰ دلار برگرداند.",
-      "‏این بازگشت نشان می‌دهد بازارهای رمزارز توانستند اثر منفی هک را جذب کنند.",
-      "‏زِکِش (ZEC) پیشرو در میان رمزارزهای اصلی بود و قیمت نفت به‌دلیل گزارش دیپلماتیک کاهش یافت."
-    ],
-    "body_fa": "‏پس از وقوع بزرگ‌ترین هک در تاریخ رمزارزها، بیت‌کوین توانست قیمت خود را از سطح سقوط به حدود ۷۹٬۰۰۰ دلار برگرداند. این حرکت نشان می‌دهد سرمایه‌گذاران توانستند به‌سرعت پس از شوک اولیه، موقعیت‌های خرید را جذب کنند. در همان زمان، زِکِش (ZEC) به‌عنوان پیشرو در میان رمزارزهای اصلی ظاهر شد و قیمت آن نسبت به سایرین رشد بیشتری داشت. بازار نفت نیز به‌دلیل گزارشی مبنی بر تمایل دونالد ترامپ به تمدید دیپلماسی با ایران و نزدیک شدن انتخابات میانی ایالات متحده، کاهش یافت. تحلیل‌گران پیش‌بینی می‌کنند که اگر فشارهای ژئوپلیتیک و هک‌های بزرگ ادامه یابد، نوسان‌های شدید در قیمت رمزارزها ادامه خواهد داشت.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-    "clean_url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793594580.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "79528de14c",
-    "title_fa": "‏استودیوی سازنده یاکوزا پس از قطع سرمایه‌گذاری بسته شد",
-    "title_en": "Yakuza creator's studio officially shuts down after backers desert it",
-    "summary": [
-      "‏استودیوی Nagoshi Studio پس از قطع سرمایه‌گذاری توسط NetEase در 31 اکتبر منحل شد.",
-      "‏هزینهٔ پیش‌بینی‌شدهٔ 7 میلیارد ین برای تکمیل بازی Gang of Dragon باعث شد استودیو نتواند سرمایه‌گذار جدیدی پیدا کند.",
-      "‏این بسته شدن بخشی از روند کاهش سرمایه‌گذاری‌های NetEase در پروژه‌های بین‌المللی است."
-    ],
-    "body_fa": "‏استودیوی Nagoshi Studio که توسط طراح مشهور سری یاکوزا، توشی هیرو ناگوشی تأسیس شده بود، رسماً در 31 اکتبر منحل شد. دلیل اصلی این تصمیم قطع بودجه توسط شرکت چینی NetEase پس از دریافت اطلاعاتی مبنی بر هزینهٔ پیش‌بینی‌شدهٔ 7 میلیارد ین برای تکمیل بازی جدید «Gang of Dragon». این بازی که قرار بود یک درام جنایی سبک یاکوزا با بازیگر ما دونگ‌سئوک در نقش اصلی باشد، نتوانست سرمایه‌گذار جایگزینی پیدا کند. NetEase از سال 2024 به‌صورت فعال به کاهش پرتفوی گیمینگ خود و خروج از سرمایه‌گذاری‌های خارجی پرداخته و استودیوهای متعددی را بسته است. بسته شدن Nagoshi Studio نشانگر چالش‌های مالی برای پروژه‌های بزرگ بازی‌های ویدئویی در بازار جهانی است.",
-    "category": "گیم",
-    "subcategory": "بسته شدن استودیو",
-    "tag": "NagoshiStudio",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Polygon",
-    "url": "https://www.polygon.com/nagoshi-studio-shuts-down-yakuza-gang-of-dragon/",
-    "clean_url": "https://www.polygon.com/nagoshi-studio-shuts-down-yakuza-gang-of-dragon",
-    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/tgas-2025-gang-of-dragon-grimace.png?w=1600&h=900&fit=crop",
-    "timestamp": 1793589900.0,
     "sent_to_telegram": true
   }
 ]
