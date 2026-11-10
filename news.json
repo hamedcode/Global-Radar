@@ -1,5 +1,71 @@
 [
   {
+    "id": "5915e65839",
+    "title_fa": "‏اُورا شرکت Counsel Health را به‌قیمت 625 میلیون دلار خریداری کرد",
+    "title_en": "Oura to acquire AI-native primary care startup Counsel Health for $625M |...",
+    "summary": [
+      "‏اُورا خرید شرکت AI‑native مراقبت اولیه Counsel Health را به مبلغ 625 میلیون دلار اعلام کرد.",
+      "‏این ادغام اُورا را قادر می‌سازد خدمات پزشکی هوشمند را به اپلیکیشن رینگ خود اضافه کند و رشد درآمد را تقویت کند.",
+      "‏اُورا پس از به تعویق انداختن IPO به دلیل عدم قطعیت بازار، به‌سرعت به گسترش حوزه سلامت می‌پردازد."
+    ],
+    "body_fa": "‏اُورا روز دوشنبه اعلام کرد که شرکت Counsel Health ، یک پلتفرم مراقبت اولیه مبتنی بر هوش مصنوعی، را به مبلغ 625 میلیون دلار خریداری می‌کند. این معامله پس از به تعویق انداختن برنامه IPO شرکت به دلیل عدم قطعیت بازار انجام شد. Counsel Health که خدمات مشاوره پزشکی چت‌محور و دسترسی به پزشکان مجوزدار را ارائه می‌دهد، از ژوئن گذشته در اپلیکیشن اُورا یکپارچه شده بود. با این خرید اُورا قصد دارد خدمات پیشگیری، مراقبت حاد و بیماری‌های مزمن را به‌صورت یکپارچه در رینگ هوشمند خود ارائه دهد. مدیرعامل اُورا، Tom Hale ، گفت ترکیب داده‌های بیومتریک اُورا با هوش مصنوعی Counsel می‌تواند مشاوره دقیق‌تر و درمان‌های شخصی‌سازی‌شده فراهم کند. علاوه بر این، اُورا گزارش داد که درآمد سه‌ماهه تا 30 سپتامبر 2023 به 533 میلیون دلار رسیده و سال مالی 2026 حدود 1.75 میلیارد دلار درآمد داشته است. معامله انتظار می‌رود تا پایان 2027 تکمیل شود و Muthu Alagappan به عنوان chief clinical AI officer به تیم اُورا ملحق شود.",
+    "category": "تکنولوژی",
+    "subcategory": "سلامت دیجیتال",
+    "tag": "ادغام",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "clean_url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+    "image": "https://s.yimg.com/bo/c4316de6-5da2-5a6a-8805-2812c1493633_1794339464746.jpg",
+    "timestamp": 1794339447.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "54263285c3",
+    "title_fa": "‏بانک‌های ۲۷۰ میلیون دلار برای استیبل‌کوین Project Faro سرمایه‌گذاری کردند",
+    "title_en": "Goldman Sachs, Citi among banks committing $270 million to U.S. stablecoin...",
+    "summary": [
+      "‏بانک‌های Goldman Sachs ، Citi و دیگران ۲۷۰ میلیون دلار برای استیبل‌کوین جدیدی به نام Project Faro اختصاص دادند.",
+      "‏این پروژه هدف دارد یک استیبل‌کوین دلار‌پایه تحت نظارت ایجاد کند که می‌تواند نقش مهمی در پرداخت‌های دیجیتال ایفا کند.",
+      "‏سرمایه‌گذاری بانک‌ها نشان‌دهنده تمایل مؤسسات مالی سنتی به ورود به بازار رمزارزهاست."
+    ],
+    "body_fa": "‏یک گروه از بانک‌های بزرگ آمریکایی شامل Goldman Sachs و Citi تصمیم گرفتند ۲۷۰ میلیون دلار به سرمایه‌گذاری در پروژه‌ای به نام Project Faro اختصاص دهند. این پروژه قصد دارد یک استیبل‌کوین مبتنی بر دلار با نظارت قانونی راه‌اندازی کند تا در تراکنش‌های دیجیتال و پرداخت‌های بین‌المللی استفاده شود. سرمایه‌گذاری این بانک‌ها نشانگر پذیرش جدی مؤسسات مالی سنتی برای فناوری بلاکچین و رمزارزهاست. Project Faro می‌خواهد با ارائه زیرساخت‌های امن و مطابق با چارچوب‌های نظارتی جدید، رقابتی برای استیبل‌کوین‌های موجود مانند USDC و Tether باشد. انتظار می‌رود این استیبل‌کوین به‌سرعت در سیستم‌های پرداخت بانکی و پلتفرم‌های مالی دیجیتال ادغام شود. موفقیت این طرح می‌تواند مسیر پذیرش گسترده‌تر رمزارزها توسط نهادهای مالی سنتی را هموار کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "استیبل‌کوین پروژه",
+    "tag": "Project Faro",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+    "clean_url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+    "image": "https://s.yimg.com/bo/3041411a-617b-506e-ad36-642eb10e112d_1794233831009.jpg",
+    "timestamp": 1794332247.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5762c5d07b",
+    "title_fa": "‏Anthropic ابزارهای جدید Claude را برای جلسات و تخته‌سفید معرفی کرد",
+    "title_en": "Anthropic launches Claude Meetings to turn workplace discussions into plans and...",
+    "summary": [
+      "‏Anthropic Claude Meetings را به تماس‌های ویدئویی افزود تا در حین گفتگو کارها را برنامه‌ریزی کند.",
+      "‏این ویژگی‌ها به رقبای OpenAI و Meta فشار می‌آورند و می‌توانند نحوهٔ کار تیم‌ها را تغییر دهند.",
+      "‏Claude Whiteboards و Claude Sheets نیز در نسخه بتای برنامه‌های پرداختی در دسترس هستند."
+    ],
+    "body_fa": "‏Anthropic روز سه‌شنبه ابزارهای جدیدی برای محیط کار معرفی کرد که هوش مصنوعی Claude را به تماس‌های ویدئویی می‌پیوندد. قابلیت «Claude Meetings» به تیم‌ها اجازه می‌دهد در حین گفت‌وگو، برنامه‌ریزی، تدوین نکات کلیدی و استخراج اطلاعات از برنامه‌های کاری را به‌صورت زمان واقعی انجام دهند. پس از پایان جلسه، یادداشت‌ها، موارد اقدام و سایر خروجی‌های تولید شده توسط Claude در وب‌سایت claude.ai ذخیره می‌شوند. علاوه بر این، Anthropic «Claude Whiteboards» و «Claude Sheets» را نیز در نسخه بتای برنامه‌های پرداختی ارائه داد که امکان ترسیم تخته‌سفید تعاملی و تبدیل آن به اسناد یا اسلایدها را فراهم می‌کند. این محصولات در ابتدا با Google Meet سازگار هستند و هدفشان رقابت با ابزارهای مشابه OpenAI و Meta برای تبدیل هوش مصنوعی به یک مجموعهٔ اداری جامع است.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Claude Meetings",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "clean_url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+    "image": "https://s.yimg.com/bo/78238e6a-d19d-526e-86c6-291a3f8b1f4f_1794333594738.webp",
+    "timestamp": 1794332247.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "8e979f5917",
     "title_fa": "‏تورم آمریکا اوراق قرضه را ارتقا، سهام را سقوط داد",
     "title_en": "US yields rise, stocks fall as inflation data boosts odds of larger December...",
@@ -44,6 +110,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "97947e36ec",
+    "title_fa": "‏بیت‌کوین از سهام جدا شد؛ خروج ETF ها و فروش MARA",
+    "title_en": "Bitcoin breaks with stocks as ETF outflows mount, MARA sells some BTC: Crypto...",
+    "summary": [
+      "‏قیمت بیت‌کوین امروز نسبت به شاخص‌های سهام خلاف جهت حرکت کرد و خروج‌های ETF ها افزایش یافت.",
+      "‏این روند نشان‌دهنده فشار فروش در بازار کریپتو و کاهش جذابیت صندوق‌های ETF است.",
+      "‏شرکت Marathon Digital (MARA) نیز اعلام کرد بخشی از بیت‌کوین‌های خود را به‌صورت نقدی فروخت."
+    ],
+    "body_fa": "‏در روز 10 نوامبر 2026 ، بیت‌کوین نسبت به شاخص‌های سهام حرکت مخالفی نشان داد. خروج‌های سرمایه‌گذاران از صندوق‌های بیت‌کوین ETF به‌ویژه در ایالات متحده به‌سختی افزایش یافت و حجم خالص خروج‌ها به حدود 2 میلیارد دلار رسید. این خروج‌ها فشار فروش بر قیمت بیت‌کوین ایجاد کرده و باعث شد که ارز دیجیتال از روند صعودی قبلی جدا شود. در همین زمان، Marathon Digital Holdings (MARA) که بزرگ‌ترین ماینرهای بیت‌کوین در آمریکا است، اعلام کرد بخشی از ذخیره بیت‌کوین خود را به‌صورت نقدی فروخته تا تعادل مالی خود را حفظ کند. فروش MARA شامل حدود 5,000 بیت‌کوین بود که ارزش آن در زمان فروش حدود 1.2 میلیارد دلار تخمین زده شد. تحلیل‌گران پیش‌بینی می‌کنند ادامه خروج‌های ETF و فروش‌های مشابه می‌تواند نوسانات بیشتری در بازار کریپتو ایجاد کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "بازار بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+    "clean_url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+    "image": "https://s.yimg.com/bo/b06bc188-d0ea-55aa-a210-313f2f4115ba_1794313889207.png.cf.jpg",
+    "timestamp": 1794314247.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ee3bb9548b",
+    "title_fa": "‏Anthropic برای IPO 41.5 میلیون دلار هزینه حقوقی برنامه‌ریزی کرد",
+    "title_en": "Anthropic has budgeted $41.5 million in legal fees for its IPO",
+    "summary": [
+      "‏Anthropic برای عرضه عمومی خود 41.5 میلیون دلار هزینه حقوقی در نظر گرفت.",
+      "‏این مبلغ، چند برابر متوسط هزینه‌های قانونی شرکت‌های بزرگ است و نشان‌دهنده پیچیدگی‌های IPO های امروزی است.",
+      "‏SpaceX پیش از آن 25.5 میلیون دلار هزینه حقوقی بود که رکورد قبلی را شکست."
+    ],
+    "body_fa": "‏شرکت هوش مصنوعی Anthropic در پرونده S‑1 خود اعلام کرد که برای عرضه عمومی 41.5 میلیون دلار هزینه حقوقی در نظر گرفته است. این رقم، حدود ده برابر متوسط هزینه‌های قانونی شرکت‌های بزرگ (۴.۹ میلیون دلار) است و نشان می‌دهد که شرکت‌های فناوری بزرگ‌تر و پیچیده‌تر به‌سرعت هزینه‌های حقوقی بالاتری می‌پردازند. برای مقایسه، SpaceX در IPO خود ۲۵.۵ میلیون دلار هزینه حقوقی بود که پیش‌تر رکورد را در این زمینه داشت. وکیل‌های خارجی همچون Wilson Sonsini ، Freshfields و Cravath نقش مهمی در این فرآیند ایفا می‌کنند و هزینه‌های آن‌ها بخش عمده‌ای از بودجه را تشکیل می‌دهد. Anthropic همچنین تیم حقوقی داخلی خود را بازسازی کرده؛ الینا لایت به عنوان مشاور حقوقی ارشد منصوب شد و جفری بلیچ به نقش نماینده ویژه بین‌المللی منتقل شد.",
+    "category": "تکنولوژی",
+    "subcategory": "بازار سرمایه",
+    "tag": "هزینه_قانونی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/anthropic-41-million-ipo-legal-fees-wilson-sonsini-2026-11",
+    "clean_url": "https://www.businessinsider.com/anthropic-41-million-ipo-legal-fees-wilson-sonsini-2026-11",
+    "image": "https://i.insider.com/6a8ddef179f11f0a89f908a0?width=1200&format=jpeg",
+    "timestamp": 1794307020.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "364edc9609",
+    "title_fa": "‏بنیان‌گذاران Anthropic سهام ۱۸ میلیارد دلاری را در IPO حفظ کردند",
+    "title_en": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
+    "summary": [
+      "‏هفت بنیان‌گذاران Anthropic سهام ۱۸ میلیارد دلاری خود را با قیمت IPO دارند",
+      "‏هر کدام حدود ۲۵۰ میلیون دلار سهام می‌فروشند اما کنترل رأی‌گیری را حفظ می‌کنند",
+      "‏این اقدام نشان‌دهنده اعتماد بنیان‌گذاران به آینده شرکت است"
+    ],
+    "body_fa": "‏شرکت هوش مصنوعی Anthropic در عرضه اولیه عمومی (IPO) ارزش‌گذاری شد که هر یک از هفت بنیان‌گذار آن سهام با ارزش ۱۸ میلیارد دلار دارند. بر اساس مدارک ثبت‌شده، هر بنیان‌گذار قصد دارد حدود ۲۵۰ میلیون دلار از سهام خود را به فروش برساند. با این فروش، آنها همچنان کنترل رأی‌گیری کامل شرکت را حفظ می‌کنند. این ساختار مالکیتی نشان می‌دهد که بنیان‌گذاران به آینده Anthropic و توانایی‌های فناوری‌اش اطمینان دارند. ارزش‌گذاری بالا و حفظ کنترل توسط بنیان‌گذاران می‌تواند جذابیت سرمایه‌گذاران را در بازارهای فناوری افزایش دهد. همچنین این معامله می‌تواند تأثیر قابل‌توجهی بر روند سرمایه‌گذاری در حوزه هوش مصنوعی داشته باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "عرضه اولیه",
+    "tag": "Anthropic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365",
+    "clean_url": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794304500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1113d4e7c3",
     "title_fa": "‏تورم آمریکا در اکتبر ۰.۴٪ شد، بیش از پیش‌بینی",
     "title_en": "Here's the inflation breakdown for October 2026 — in one chart",
@@ -63,6 +195,28 @@
     "clean_url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108547573-1794323743207-gettyimages-2296482419-_dsc4014.jpeg?v=1794323781&w=1920&h=1080",
     "timestamp": 1794298680.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e696216539",
+    "title_fa": "‏درآمد سه‌ماهه Canaan ۹۰٪ سقوط کرد",
+    "title_en": "Canaan's Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+    "summary": [
+      "‏درآمد سه‌ماهه Canaan به ۱۴٫۵ میلیون دلار کاهش یافت",
+      "‏این کاهش ۹۰٪ به دلیل فروکش فروش سخت‌افزار استخراج بیت‌کوین است",
+      "‏سود عملیاتی شرکت به ۴۲٫۹ میلیون دلار افزایش یافت"
+    ],
+    "body_fa": "‏Canaan گزارش داد که درآمد کل سه‌ماههٔ ۲۰۲۶ به ۱۴٫۵ میلیون دلار رسید که نسبت به سال قبل ۹۰٪ کاهش دارد. درآمد حاصل از فروش تجهیزات استخراج تنها ۴٫۸ میلیون دلار بوده و نسبت به سه‌ماههٔ مشابه سال ۲۰۲۵ ۹۶٪ کاهش یافته است. به‌همین دلیل، زیان عملیاتی شرکت به ۴۲٫۹ میلیون دلار گسترش یافت، در حالی که سال قبل ۲۳٫۹ میلیون دلار بود. این افت شدید نشان‌دهندهٔ کاهش تقاضا برای سخت‌افزار استخراج بیت‌کوین در بازار جهانی است و می‌تواند بر توان هش شبکه و برنامه‌های سرمایه‌گذاری ماینرها تأثیر بگذارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سخت‌افزار استخراج",
+    "tag": "Canaan",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+    "clean_url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794297360.0,
     "sent_to_telegram": true
   },
   {
@@ -176,6 +330,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "12c10bc55c",
+    "title_fa": "‏بازی GTA VI برای Xbox One از ابر عرضه می‌شود",
+    "title_en": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+    "summary": [
+      "‏GTA VI از هفته آینده برای کنسول‌های Xbox One از طریق Xbox Cloud Gaming قابل استریم خواهد شد.",
+      "‏این اولین قدم در شراکت ۱۰ ساله مایکروسافت با Take‑Two است و به کاربران Xbox One امکان بازی بدون ارتقا می‌دهد.",
+      "‏بازی با تنظیمات گرافیکی Xbox Series S با 30fps اجرا می‌شود."
+    ],
+    "body_fa": "‏راستار گیمز اعلام کرد که Grand Theft Auto VI از هفته آینده برای استریم از طریق Xbox Cloud Gaming بر روی کنسول‌های Xbox One در دسترس خواهد بود. این سرویس با استفاده از تنظیمات گرافیکی Xbox Series S بازی را با 30 فریم بر ثانیه اجرا می‌کند، بنابراین کاربران Xbox One بدون نیاز به خرید کنسول‌های نسل جدید می‌توانند بازی را تجربه کنند. این اقدام بخشی از شراکت استراتژیک ۱۰ ساله مایکروسافت با Take‑Two است که مایکروسافت را به اولین پلتفرمی تبدیل می‌کند که GTA VI را به صورت ابری برای Xbox عرضه می‌کند. مایکروسافت همچنین برنامه دارد تا در ماه‌های آینده عناوین دیگری مانند Grand Theft Auto V و Red Dead Redemption 2 را به سرویس ابری اضافه کند. اگرچه مایکروسافت ادعا می‌کند این حق‌الامتیاز انحصاری نیست، اما در عمل برای زمان راه‌اندازی بازی، استریم ابری GTA VI به‌طور انحصاری بر روی کنسول‌های Xbox خواهد بود.",
+    "category": "گیم",
+    "subcategory": "پخش ابری Xbox",
+    "tag": "GTA VI",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+    "clean_url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gta6.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "timestamp": 1794292620.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "33781bfd5d",
+    "title_fa": "‏کرفتون در سه‌ماهه سوم درآمد ۱۱٫۶٪ رشد کرد",
+    "title_en": "Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments",
+    "summary": [
+      "‏کرفتون درآمد سه‌ماهه سوم را ۱۱٫۶٪ به ۹۷۱٫۴ میلیارد وون افزایش داد",
+      "‏سود عملیاتی ۳۵٫۵٪ کاهش یافت ولی موبایل ۳٫۲٪ رشد کرد و کل درآمد سال تا کنون ۵۱٪ بالا رفت",
+      "‏شرکت هوش مصنوعی Raon-1 را معرفی کرد تا هوش بازی‌های خود را تقویت کند"
+    ],
+    "body_fa": "‏کرفتون در گزارش مالی سه‌ماهه سوم سال مالی 2025-2026 ، درآمد خود را ۱۱٫۶٪ به ۹۷۱٫۴ میلیارد وون (حدود ۷۲۵٫۹ میلیون دلار) ارتقا داد. با این حال، سود عملیاتی به دلیل هزینه‌های مرتبط با حضور در Gamescom و سایر فعالیت‌ها، ۳۵٫۵٪ کاهش یافت و به ۲۲۵ میلیارد وون (۱۶۸٫۱ میلیون دلار) رسید. در بخش‌های PC و کنسول، درآمد به ترتیب ۳۲٫۵٪ و ۱۵٫۹٪ کاهش یافت، در حالی که بخش موبایل ۳٫۲٪ رشد کرد و به ۵۰۴٫۳ میلیارد وون (۳۷۵٫۶ میلیون دلار) رسید. در مجموع نه‌ماه اول سال مالی، درآمد ۵۱٪ به ۳٫۶ تریلیون وون (۲٫۶ میلیارد دلار) و سود عملیاتی ۱۴٪ به ۱٫۱ تریلیون وون (۸۱۹٫۴ میلیون دلار) افزایش یافت که هر دو رکورد تاریخی برای این دوره هستند. درآمد IP بازی PUBG ۱۱٪ رشد کرد و تعداد کاربران فعال ماهانه در PC و کنسول به رشد دو رقمی ادامه داد. کریفتون همچنین بر توسعه محتواهای تولید شده توسط کاربران (UGC) و همکاری‌های جدید IP تأکید کرد و بازی Subnautica را پس از ۲۲ روز فروش بیش از پنج میلیون نسخه در دسترسی اولیه معرفی کرد. به‌علاوه، شرکت مدل زبان بزرگ داخلی Raon-1 را که برای بهبود هوش مصنوعی بازی‌ها، به‌ویژه PUBG Ally ، طراحی شده است، معرفی کرد و برنامه دارد این فناوری را به مدل‌های گفتار دوطرفه و سایر حوزه‌های تجاری گسترش دهد.",
+    "category": "گیم",
+    "subcategory": "نتایج مالی",
+    "tag": "Krafton",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments",
+    "clean_url": "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments",
+    "image": "https://assetsio.gnwcdn.com/Image1_KRAFTON-CI-scaled.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1794292020.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a45086e7e0",
     "title_fa": "‏Lego Digital Play استودیوی ForthStar را خریداری کرد",
     "title_en": "Lego Digital Play acquires Golf Clash founders’ ForthStar studio",
@@ -195,6 +393,50 @@
     "clean_url": "https://www.pocketgamer.biz/lego-digital-play-acquires-golf-clash-founders-forthstar-studio",
     "image": "https://media.pocketgamer.biz/images/142123/90218/forthstar-lego-digital-play_l1200.jpg",
     "timestamp": 1794291900.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "15ac165f1c",
+    "title_fa": "‏ناوگان اتحادیه اروپا در خلیج عدن دزدی دریایی تمرین کرد",
+    "title_en": "Exclusive: AP granted rare access to European Union naval patrol fighting piracy...",
+    "summary": [
+      "‏ناوگان اسپانیایی ESPS Santa María در خلیج عدن با تمرین‌های تیراندازی، تهدیدهای دزدی دریایی را شبیه‌سازی کرد.",
+      "‏این تمرین نشان می‌دهد که ناامنی‌های منطقه‌ای در یمن و هورمون باعث افزایش دزدی دریایی و خطر بر تجارت جهانی می‌شود.",
+      "‏Bab el-Mandeb که 12 ٪ تجارت جهان را عبور می‌دهد، تحت فشار این درگیری‌هاست."
+    ],
+    "body_fa": "‏در خلیج عدن، ناو جنگی اسپانیایی ESPS Santa María که پیشتاز عملیات دریایی اتحادیه اروپا (Atalanta) است، تمرین‌های تیراندازی برای مقابله با دزدی دریایی برگزار کرد. چندین نیروی ویژه با اسلحه‌های خودکار و تفنگ‌های نیمه‌خودکار به هدف‌های شبیه‌سازی شده که اندام‌های انسانی را نشان می‌دادند، شلیک کردند. این تمرین‌ها نشان می‌دهد که ناامنی‌های ناشی از جنگ در یمن، درگیری‌های هورمون و حضور حوثی‌های حمایت‌شده توسط ایران، دزدی دریایی را در مسیرهای بحرانی افزایش داده‌اند. Bab el‑Mandeb ، که حدود 12 ٪ تجارت جهانی و یک‌چهارم ترافیک کانتینری را در بر می‌گیرد، به‌عنوان مسیر جایگزین نفت از خلیج فارس به دلیل اختلال در تنگه هرمز، اهمیت بیشتری پیدا کرده است. ناو ۴۰۰۰‑تن و ۴۰ ساله، بیش از ۲۰۰ خدمه، سلاح‌های کالیبر سنگین، توپخانه، تورپیدو و موشک دارد و هلی‌کوپتر و پهپاد خود را برای نظارت هوایی به کار می‌گیرد. افزایش دزدی دریایی می‌تواند هزینه‌های حمل‌ونقل را بالا برده و زنجیره تأمین جهانی را تحت فشار قرار دهد، به‌همین دلیل اتحادیه اروپا حضور نظامی خود را در این منطقه تقویت می‌کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "امنیت دریایی",
+    "tag": "دزدی‌دریایی",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Associated Press · via Yahoo News",
+    "url": "https://www.yahoo.com/news/world/articles/exclusive-ap-joins-eu-naval-053228057.html",
+    "clean_url": "https://www.yahoo.com/news/world/articles/exclusive-ap-joins-eu-naval-053228057.html",
+    "image": "https://media.zenfs.com/en/ap.org/5d0d29b92a81b4ca82416f91696555a6.jpg",
+    "timestamp": 1794289044.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2274e5b7c4",
+    "title_fa": "‏شرکت Ring دو دستگاه رباتیک جدید شامل پهپاد خانگی و ربات تجاری را عرضه کرد",
+    "title_en": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "summary": [
+      "‏شرکت Ring دو دستگاه رباتیک جدید شامل پهپاد امنیتی خانگی و ربات نظارت برای کسب‌وکارها معرفی کرد",
+      "‏این دستگاه‌ها می‌توانند به‌صورت خودکار فضاها را بررسی، ویدیو 2K یا 4K ضبط و در صورت تشخیص انسان هشدار دهند",
+      "‏دستگاه‌ها با هوش مصنوعی AI Pilot و اپلیکیشن Ring یکپارچه می‌شوند"
+    ],
+    "body_fa": "‏شرکت Ring روز سه‌شنبه بخش رباتیک خود را راه‌اندازی کرد و دو محصول جدید معرفی نمود: پهپاد امنیتی خانگی و ربات نظارت تجاری. پهپاد Ring Drone Cam می‌تواند در داخل منزل پرواز کند، به‌صورت خودکار به نقاطی که هشدارهای Ring فعال می‌شود برود و با دوربین 2K و چراغ‌های LED در نور کم تصویر بگیرد. ربات Ring Rover Cam برای کسب‌وکارها طراحی شده و با دوربین 4K ، پرایسکوپ و دوطرفه صدا، مسیرهای پیش‌تعریف‌شده را طی می‌کند و در صورت تشخیص انسان به‌صورت خودکار ضبط می‌کند. هر دو دستگاه از سامانه هوش مصنوعی AI Pilot استفاده می‌کنند که ترکیبی از مدل‌های بینایی، حسگرها و پردازش ابری برای ناوبری خودکار است. این محصولات می‌توانند بازار امنیت خانگی و تجاری را تحت تأثیر قرار دهند و بحث‌های جدیدی درباره حریم خصوصی و رباتیک در منازل ایجاد کنند.",
+    "category": "تکنولوژی",
+    "subcategory": "دستگاه‌های امنیتی",
+    "tag": "Ring",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "clean_url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Ring-drone.jpg?resize=1200,1200",
+    "timestamp": 1794288600.0,
     "sent_to_telegram": true
   },
   {
@@ -242,6 +484,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "17725d1293",
+    "title_fa": "‏سود سه ماهه Q3 eToro ۷۴٪ سقوط کرد",
+    "title_en": "eToro's Q3 profit plunges 74% as weaker crypto trading weighs on earnings",
+    "summary": [
+      "‏سود خالص eToro در سه ماهه سوم سال ۲۰۲۳ به‌ ۷۴٪ کاهش یافت.",
+      "‏حجم معاملات کریپتو ۶۲٪ کاهش یافت و به ۲ میلیون دلار رسید که فشار بر درآمدها را نشان می‌دهد.",
+      "‏شرکت برنامه خرید سهام ۲۵۰ میلیون دلاری برای حمایت از ارزش سهام اعلام کرد."
+    ],
+    "body_fa": "‏شرکت eToro گزارش داد که سود خالص در سه ماهه سوم ۲۰۲۳ نسبت به سال گذشته ۷۴٪ کاهش یافته است. در همین دوره، حجم معاملات کریپتو ۶۲٪ کاهش یافت و به ۲ میلیون دلار رسید. این افت نشان‌دهنده ضعف کلی بازار رمزارزها و کاهش فعالیت کاربران بر روی پلتفرم است. با این وجود، eToro برنامه خرید سهام به ارزش ۲۵۰ میلیون دلار را برای تقویت ارزش سهام خود اعلام کرد. تحلیل‌گران هشدار دادند که این کاهش شدید سود می‌تواند بر ارزیابی شرکت و برنامه‌های گسترش آینده آن تأثیر بگذارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "سود و درآمد",
+    "tag": "eToro",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192",
+    "clean_url": "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794282720.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "401909b773",
     "title_fa": "‏شرکت Anthropic هدف‌گذاری IPO ۶۴٫۴ میلیارد دلاری می‌کند",
     "title_en": "Anthropic Targets $64.4 Billion IPO, Nearing SpaceX’s Record",
@@ -283,6 +547,28 @@
     "clean_url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
     "timestamp": 1794282000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "664c0b79dd",
+    "title_fa": "‏بیت‌کوین به نزدیک‌ترین سطح سه‌ماهه پس از داده‌های تورمی افت کرد",
+    "title_en": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
+    "summary": [
+      "‏بیت‌کوین به نزدیک‌ترین سطح سه‌ماهه خود، حدود 27,000 دلار، پس از انتشار داده‌های تورمی که کمتر از انتظار بود، سقوط کرد.",
+      "‏این افت نشان می‌دهد بازارهای رمزارز به انتظارات نرخ بهره فدرال رزرو حساس هستند و ممکن است نوسان بیشتری داشته باشند.",
+      "‏در عین حال، طلا و نفت نیز به دلیل کاهش تنش‌های ایران کاهش یافتند."
+    ],
+    "body_fa": "‏بیت‌کوین امروز به حدود 27,000 دلار رسید که نزدیک‌ترین سطح سه‌ماهه آن است. این سقوط پس از انتشار داده‌های تورمی ایالات متحده رخ داد که نشان داد تورم کمتر از پیش‌بینی‌ها بوده است. انتظار می‌رود این اطلاعات بازارها را به پیش‌بینی یک افزایش نرخ بهره توسط فدرال رزرو در دسامبر سوق دهد. به همین دلیل، طلا و نفت نیز کاهش یافتند؛ طلا به دلیل کاهش تقاضای پناهگاهی و نفت به دلیل کاهش تنش‌های ایران. تحلیل‌گران هشدار می‌دهند که نوسانات بیت‌کوین می‌تواند تا زمان روشن شدن سیاست‌های پولی ادامه یابد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794278460.0,
     "sent_to_telegram": true
   },
   {
@@ -6310,292 +6596,6 @@
     "clean_url": "https://www.polygon.com/nagoshi-studio-shuts-down-yakuza-gang-of-dragon",
     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/tgas-2025-gang-of-dragon-grimace.png?w=1600&h=900&fit=crop",
     "timestamp": 1793589900.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6530f807b4",
-    "title_fa": "‏ADNOC تصمیم نهایی برای توسعه گاز غیرمتعارف امارات را گرفت",
-    "title_en": "ADNOC Approves Major UAE Gas Development to Boost Domestic Supply",
-    "summary": [
-      "‏ADNOC تصمیم سرمایه‌گذاری نهایی برای پروژه گاز غیرمتعارف Ruwais Diyab با هدف تولید 345 MMscf/d از سال 2029 اتخاذ کرد.",
-      "‏این افزایش عرضه گاز داخلی امارات را تقویت می‌کند، تقاضای صنعتی و برنامه‌های LNG را پشتیبانی کرده و امنیت انرژی منطقه‌ای را بهبود می‌بخشد.",
-      "‏پروژه می‌تواند تا سال 2054 به 1 Bcf/d گسترش یابد و به شبکه ملی گاز متصل می‌شود."
-    ],
-    "body_fa": "‏شرکت ملی نفت ابوظبی (ADNOC) در کنفرانس ADIPEC تصمیم سرمایه‌گذاری نهایی (FID) برای پروژه گاز غیرمتعارف Ruwais Diyab را اعلام کرد. این توسعه زمینی قرار است از سال 2029 روزانه 345 میلیون فوت مکعب گاز خام تولید کند و در طول ۲۵ سال به حداکثر یک میلیارد فوت مکعب در روز گسترش یابد. تولید جدید از طریق خطوط لوله جدید به شبکه ملی گاز امارات متصل می‌شود و تقاضای رو به رشد صنایع داخلی، نیروگاه‌ها و برنامه‌های LNG را تأمین می‌کند. این اولین پروژه بزرگ گاز غیرمتعارف ADNOC است و نشان‌دهنده استفاده از فناوری‌های پیشرفته شامل هوش مصنوعی برای بهینه‌سازی حفاری و بازیابی گاز است. با داشتن حدود ۲۹۸ تریلیون فوت مکعب ذخایر گاز متعارف و ۱۶۰ تریلیون فوت مکعب منابع غیرمتعارف، این پروژه نقش مهمی در تقویت امنیت انرژی امارات و گسترش تجارت گاز بین‌المللی این شرکت دارد.",
-    "category": "انرژی و کالا",
-    "subcategory": "گاز طبیعی",
-    "tag": "ADNOC",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Company-News/ADNOC-Approves-Major-UAE-Gas-Development-to-Boost-Domestic-Supply.html",
-    "clean_url": "https://oilprice.com/Company-News/ADNOC-Approves-Major-UAE-Gas-Development-to-Boost-Domestic-Supply.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-02_rkkuc1nxqc.jpg",
-    "timestamp": 1793584800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e80ceacb49",
-    "title_fa": "‏Goldman Sachs پیش‌بینی برنت ۱۰۵ دلاری دسامبر را اعلام کرد",
-    "title_en": "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
-    "summary": [
-      "‏Goldman Sachs پیش‌بینی قیمت متوسط نفت برنت را برای دسامبر به 105 دلار ارتقا داد.",
-      "‏این افزایش 17 ٪ نسبت به پیش‌بینی قبلی نشان‌دهنده ریسک‌های بالاتر تأمین امنیت عرضه است.",
-      "‏تحلیل‌گران می‌گویند تنها توافق صلح ایران‑آمریکا می‌تواند فشار قیمت را کاهش دهد."
-    ],
-    "body_fa": "‏تحلیل‌گران کالاهای Goldman Sachs پیش‌بینی قیمت متوسط نفت برنت را برای ماه دسامبر به 105 دلار ارتقا دادند. این مقدار تقریباً 17 ٪ بالاتر از پیش‌بینی قبلی 90 دلاری است و نشان‌دهنده نگرانی‌های افزایشی درباره امنیت عرضه است. در عین حال، گزارش‌ها حاکی از بازگشت جریان‌های نفت خلیج فارس به سطوح پیش‌جنگی یا حتی فراتر از آن است. تحلیل‌گران دیگر مانند ANZ و UBS نیز پیش‌بینی‌های خود را به سمت قیمت‌های بالاتر تنظیم کرده‌اند؛ ANZ بر 105 دلار تا پایان 2026 و UBS بر 110 دلار تا پایان سال جاری. آن‌ها معتقدند تنها راه کاهش مداوم قیمت‌ها، دستیابی به توافق صلحی پایدار بین ایران و ایالات متحده است. اگرچه مذاکرات اخیر ایران و قطر امیدی جزئی ایجاد کرده، اما احتمال رسیدن به توافق تا پایان سال کم به نظر می‌رسد. بازارها همچنین به انتخابات میانی ایالات متحده که فردا برگزار می‌شود، توجه دارند، چرا که نتایج می‌تواند جهت‌گیری‌های سیاسی و انرژی را تحت تأثیر قرار دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "پیش‌بینی قیمت نفت",
-    "tag": "Brent",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Raises-Brent-Oil-Price-Forecast-to-105.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Raises-Brent-Oil-Price-Forecast-to-105.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-02_byuwmhempr.jpg",
-    "timestamp": 1793581200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9d24a1f8b2",
-    "title_fa": "‏ثبت‌نام‌های ماهیانه تسلا در شمال اروپا در اکتبر رشد کرد",
-    "title_en": "Tesla's monthly registrations surge in Northern Europe even as Chinese competition rises",
-    "summary": [
-      "‏ثبت‌نام‌های جدید خودروهای تسلا در بازارهای شمال اروپا در اکتبر افزایش یافت.",
-      "‏این رشد نشان‌دهنده ادامه بهبود فروش منطقه‌ای است، حتی با افزایش رقابت چین.",
-      "‏رقابت‌گران چینی مانند BYD و Nio به سرعت در این بازارها حضور می‌یابند."
-    ],
-    "body_fa": "‏در اکتبر 2026 ، ثبت‌نام‌های جدید خودروهای تسلا در چندین بازار شمال اروپا افزایش یافت و روند بهبود فروش منطقه‌ای را ادامه داد. این رشد با وجود فشار فزاینده رقبا از چین، که برندهایی چون BYD و Nio به‌سرعت سهم بازار را می‌طلبند، رخ داد. داده‌های منتشر شده نشان می‌دهد که در برخی کشورها مانند سوئد و دانمارک، ثبت‌نام‌ها نسبت به ماه قبل چند درصد افزایش یافت. تسلا با تمرکز بر مدل‌های Model 3 و Model Y توانست تقاضای مصرف‌کنندگان را جذب کند. این افزایش فروش می‌تواند نشانگر توانایی شرکت در حفظ موقعیت خود در بازارهای پررقابت اروپایی باشد. با این حال، حضور گسترده‌تر خودروهای چینی ممکن است فشار بر حاشیه‌های سود تسلا را در آینده افزایش دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "فروش خودروهای الکتریکی",
-    "tag": "Tesla",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/tesla-registrations-surge-across-northern-europe-october-2026-11-02/",
-    "clean_url": "https://www.reuters.com/business/tesla-registrations-surge-across-northern-europe-october-2026-11-02",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793578500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "fdaa987fb9",
-    "title_fa": "‏توسعه‌دهنده بزرگ‌ترین مرکز دادهٔ استرالیا برنامهٔ راه‌اندازی را پس از ممانعت مقامات تنظیم‌کننده لغو کرد",
-    "title_en": "EXCLUSIVE: Australian outback data centre pulls timeline after regulator stalls",
-    "summary": [
-      "‏شرکت سازنده یکی از بزرگ‌ترین مراکز دادهٔ استرالیا تاریخ شروع پروژه را پس از تأخیر در صدور مجوزهای نظارتی لغو کرد",
-      "‏این تأخیر می‌تواند رشد زیرساخت‌های دیجیتال و سرمایه‌گذاری در منطقهٔ دوردست استرالیا را تحت‌تأثیر قرار دهد",
-      "‏پروژه با سرمایه‌گذاری چند میلیارد دلاری و ایجاد هزاران شغل برنامه‌ریزی شده بود"
-    ],
-    "body_fa": "‏شرکت توسعه‌دهندهٔ مرکز دادهٔ بزرگ در دل بیابان استرالیا، پس از اینکه مقامات تنظیم‌کننده فرآیند صدور مجوزها را به تعویق انداخت، هدف زمان‌بندی اولیهٔ راه‌اندازی را لغو کرد. این مرکز داده قرار بود با ظرفیت چندین مگابایت در ثانیه، خدمات ابری و ذخیره‌سازی پیشرفته را برای شرکت‌های بین‌المللی فراهم کند. تأخیر در دریافت مجوزها نه تنها هزینه‌های پروژه را افزایش می‌دهد، بلکه برنامه‌های توسعهٔ زیرساخت‌های دیجیتال در این منطقه را به تعویق می‌اندازد. سرمایه‌گذاران بزرگ، که انتظار داشتند از این زیرساخت جدید بهره‌برداری کنند، اکنون با عدم قطعیت مواجه هستند. این اتفاق می‌تواند روند جذب سرمایه‌گذاری‌های فناوری در استرالیا را تحت فشار قرار دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "مرکز داده",
-    "tag": "داده‌مرکز",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/australian-outback-data-centre-pulls-timeline-after-regulator-stalls-2026-11-01/",
-    "clean_url": "https://www.reuters.com/world/australian-outback-data-centre-pulls-timeline-after-regulator-stalls-2026-11-01",
-    "image": "https://s.yimg.com/bo/2849dc35-be68-53bc-af3d-cb7864179848_1793567779034.jpg",
-    "timestamp": 1793567086.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "54c343c5bb",
-    "title_fa": "‏پایان مأموریت صلح‌پیمایشی ۳۵ ساله سازمان ملل در صحرای غربی",
-    "title_en": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says",
-    "summary": [
-      "‏مأموریت صلح‌پیمایشی سازمان ملل در صحرای غربی پس از ۳۵ سال به پایان رسید.",
-      "‏این تصمیم می‌تواند تأثیر مهمی بر ثبات منطقه و روابط مراکش و پلیساریو داشته باشد.",
-      "‏رئیس سازمان ملل اعلام کرد که پایان مأموریت پس از توافق‌های جدید صورت می‌گیرد."
-    ],
-    "body_fa": "‏سازمان ملل اعلام کرد که مأموریت صلح‌پیمایشی در صحرای غربی پس از ۳۵ سال فعالیت به پایان می‌رسد. این مأموریت که پس از جنگ ۱۹۷۵ بین مراکش و جبهه آزادی‌بخش پلیساریو آغاز شد، نقش نظارتی و حفاظتی در مناطق مرزی ایفا می‌کرد. رئیس سازمان ملل گفت پایان عملیات پس از توافق‌های جدید بین طرفین و حمایت جامعه بین‌المللی صورت گرفته است. این تغییر می‌تواند فضای سیاسی حساس در شمال آفریقا را تحت تأثیر قرار دهد و احتمال بروز تنش‌های جدید یا مذاکرات صلحی را افزایش دهد. همچنین، پایان حضور نیروهای بین‌المللی ممکن است فشارهای داخلی بر هر دو طرف را تقویت کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "سیاست خاورمیانه",
-    "tag": "Western Sahara",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/un-peacekeeping-mission-western-sahara-ends-after-35-years-un-chief-says-2026-11-01/",
-    "clean_url": "https://www.reuters.com/world/africa/un-peacekeeping-mission-western-sahara-ends-after-35-years-un-chief-says-2026-11-01",
-    "image": "https://s.yimg.com/bo/ff5093ed-68e0-5ae6-81dd-041690f4c662_1793565871331.jpg",
-    "timestamp": 1793564806.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c0b448f9bf",
-    "title_fa": "‏ETF های بیت‌کوین آمریکا روزانه ۶۴۳ میلیون دلار خارج کردند",
-    "title_en": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-    "summary": [
-      "‏ETF های اسپات بیت‌کوین در آمریکا روز جمعه ۶۴۳ میلیون دلار خارج کردند",
-      "‏این بزرگ‌ترین خروج روزانه از ژوئن ۲۵ است و پس از هک ۶.۳ میلیارد دلاری بایننس رخ داد",
-      "‏قیمت بیت‌کوین ۱.۱۷٪ افزایش یافت"
-    ],
-    "body_fa": "‏در روز جمعه، صندوق‌های قابل معامله در بورس (ETF) بیت‌کوین اسپات در ایالات متحده مجموعاً ۶۴۳ میلیون دلار خروج خالص ثبت کردند؛ این رقم بزرگ‌ترین خروج روزانه از ۲۵ ژوئن است. این جریان پس از هک ۶.۳ میلیارد دلاری بایننس در روز پنجشنبه رخ داد که نگرانی‌های سرمایه‌گذاران را برانگیخت. در همان زمان، قیمت بیت‌کوین ۱.۱۷٪ افزایش یافت و نشان داد که بازار همچنان نوسان دارد. خروج سنگین سرمایه از ETF ها می‌تواند فشار فروش بر دارایی‌های دیجیتال را تقویت کند و به نوسان بیشتر قیمت‌ها منجر شود. تحلیل‌گران پیش‌بینی می‌کنند تا زمان روشن شدن جزئیات هک، سرمایه‌گذاران ممکن است به سمت ابزارهای محافظه‌کارانه‌تر حرکت کنند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ETF بیت‌کوین",
-    "tag": "خروج",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
-    "clean_url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bitcoin_binance_1920x1080.png",
-    "timestamp": 1793557500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1a99e376d8",
-    "title_fa": "‏طلا و نقره به‌دلیل نگرانی‌های AI و نفت افت کردند",
-    "title_en": "Metals brace for US payrolls and tech earnings as crude tracks geopolitical risk",
-    "summary": [
-      "‏قیمت طلا 3 ٪ و نقره 9 ٪ در هفته کاهش یافت",
-      "‏کاهش به دلیل نگرانی از هزینه‌های AI و فشارهای ژئوپلیتیک بر نفت",
-      "‏قیمت نفت به‌سوی اوج شش‌ماهه پیش رفت"
-    ],
-    "body_fa": "‏در هفته منتهی به 30 اکتبر، طلا به 3,875 دلار اونس و نقره به 49 دلار اونس سقوط کردند؛ نقره برای اولین بار در 11 ماه زیر 50 دلار رفت. این افت‌ها ناشی از تردیدهای سرمایه‌گذاران درباره هزینه‌های سرمایه‌گذاری در هوش مصنوعی و فشارهای ژئوپلیتیک در خلیج فارس و ایران بود که باعث افزایش قیمت نفت شد. دلار با رشد جزئی بسته شد اما زیر سطح 102 باقی ماند؛ افزایش قیمت نفت توقعات سیاست‌های پولی سفت‌تر را تقویت کرد. بازارهای سهام نیز به دلیل نتایج ناامیدکننده فناوری و نگرانی از بازده سرمایه‌گذاری AI ، حدود 1 تا 2 درصد کاهش یافتند. به‌طور کلی، فشارهای تورمی و رشد اقتصادی قوی‌تر از پیش‌بینی، مسیر احتمالاً یک بار دیگر افزایش نرخ بهره فدرال رزرو را باز می‌کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "فلزات و نفت",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Moneycontrol",
-    "url": "https://www.moneycontrol.com/news/business/commodities/metals-brace-for-us-payrolls-and-tech-earnings-as-crude-tracks-geopolitical-risk-14065517.html",
-    "clean_url": "https://www.moneycontrol.com/news/business/commodities/metals-brace-for-us-payrolls-and-tech-earnings-as-crude-tracks-geopolitical-risk-14065517.html",
-    "image": "https://images.moneycontrol.com/static-mcnews/2024/09/20240906033445_stock-market-pexels-.jpg",
-    "timestamp": 1793533920.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ff332023f4",
-    "title_fa": "‏یوتوا بر سر انتخابات دوم بلغارستان پیروز شد",
-    "title_en": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president",
-    "summary": [
-      "‏نتایج نظرسنجی خروجی نشان می‌دهد ایلیانا یوتوا حدود 52 ٪ رای در دور دوم انتخابات ریاست‌جمهوری بلغارستان به دست آورده است",
-      "‏این پیروزی نخستین رئیس‌جمهور زن منتخب بلغارستان را رقم می‌زند و مسیر پرو‑غربی کشور را تقویت می‌کند",
-      "‏او حمایت رده‌بالای حزب پیشرو بلغارستان را که روابط نزدیک با روسیه دارد، دریافت کرده است"
-    ],
-    "body_fa": "‏نظرسنجی‌های خروجی در روز یکشنبه نشان دادند ایلیانا یوتوا حدود 52 درصد رای در دور دوم انتخابات ریاست‌جمهوری بلغارستان به دست آورده است. رقیب او، آندری گیوروف که توسط احزاب اصلاح‌طلب و طرفدار غرب حمایت می‌شود، حدود 44 درصد حمایت دارد. اگر نتایج رسمی این ارقام را تأیید کند، یوتوا اولین رئیس‌جمهور زن منتخب این کشور خواهد شد. پیروزی او به حزب پیشرو بلغارستان که روابط نزدیک با مسکو دارد و در انتخابات پارلمانی اخیر اکثریت مطلق کسب کرد، قدرت اجرایی را در دست خواهد گرفت. این تمرکز قدرت می‌تواند مانع ایجاد تعادل مؤسسات نظارتی شود و مسیر پرو‑غربی بلغارستان را در چارچوب ناتو و اتحادیه اروپا تقویت کند. یوتوا اعلام کرد که برای تصمیم‌گیری مستقل و گفت‌وگوی ملی، به دنبال توافق صلح‌جویانه میان اوکراین و روسیه است.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "انتخابات ریاست جمهوری",
-    "tag": "یوتوا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/01/exit-polls-suggest-yotova-to-become-bulgarias-first-female-president.html",
-    "clean_url": "https://www.cnbc.com/2026/11/01/exit-polls-suggest-yotova-to-become-bulgarias-first-female-president.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108498847-1793562241575-gettyimages-2302491330-AA_01112026_3021023.jpeg?v=1793562255&w=1920&h=1080",
-    "timestamp": 1793533620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "26eef4b4b7",
-    "title_fa": "‏اداره ترامپ حکومت بدون کنگره را پس از پیروزی دموکرات‌ها طرح کرد",
-    "title_en": "Trump White House maps path to govern without Congress if Democrats win",
-    "summary": [
-      "‏اداره ترامپ برنامه‌ای برای ادامه اجرای سیاست‌ها از طریق قدرت اجرایی بدون نیاز به کنگره در صورت پیروزی دموکرات‌ها آماده می‌کند.",
-      "‏این طرح می‌تواند تعادل قوا را در واشنگتن تغییر دهد و اثرات قابل‌توجهی بر سیاست‌های داخلی و بازارهای جهانی داشته باشد.",
-      "‏منابع داخلی دولت برای این برنامه شامل استفاده از امضای فرمان‌های اضطراری و قوانین موجود است."
-    ],
-    "body_fa": "‏اداره ترامپ در مواجهه با احتمال پیروزی دموکرات‌ها در انتخابات آینده، طرحی برای ادامه اجرای برنامه‌های خود از طریق قدرت اجرایی بدون وابستگی به کنگره تدوین کرده است. این برنامه شامل استفاده از فرمان‌های اضطراری، اعمال مقررات موجود و بهره‌گیری از اختیارات رئیس‌جمهور برای پیشبرد سیاست‌های کلیدی می‌شود. مقامات سفیدخانه می‌گویند این مسیر به حفظ دستاوردهای اقتصادی و امنیتی دولت کمک خواهد کرد. کارشناسان هشدار می‌دهند که چنین رویکردی می‌تواند تنش‌های سیاسی را در واشنگتن تشدید کرده و اثرات نامطلوبی بر بازارهای مالی داشته باشد. در صورت اجرا، این استراتژی ممکن است الگوی جدیدی برای حاکمیت بدون نظارت کنگره در ایالات متحده ایجاد کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "سیاست داخلی آمریکا",
-    "tag": "اجرائیه",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/trump-white-house-maps-path-govern-without-congress-if-democrats-win-2026-11-01/",
-    "clean_url": "https://www.reuters.com/legal/government/trump-white-house-maps-path-govern-without-congress-if-democrats-win-2026-11-01",
-    "image": "https://s.yimg.com/bo/f9d329a8-65f4-5d3d-ad18-3696346e2428_1793531918353.jpg",
-    "timestamp": 1793532166.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "dda38991a1",
-    "title_fa": "‏Binance برداشت بیت‌کوین را به‌صورت مرحله‌ای از سرگیری کرد",
-    "title_en": "BTC news: Binance begins phased withdrawals starting with bitcoin",
-    "summary": [
-      "‏Binance برداشت بیت‌کوین مشتریان را پس از هک 6.3 میلیارد دلاری آغاز کرد",
-      "‏این اقدام نشان‌دهنده بازگشت اعتماد به صرافی بزرگ و می‌تواند نوسانات بازار رمزارزها را کاهش دهد",
-      "‏برداشت‌ها به‌صورت تدریجی و با محدودیت‌های اولیه انجام می‌شود"
-    ],
-    "body_fa": "‏پس از وقوع یک هک تاریخی که حدود 6.3 میلیارد دلار از صندوق‌های Binance را به خطر انداخت، این صرافی بزرگ جهانی تصمیم گرفت برداشت‌های مشتریان را دوباره فعال کند. اولین مرحله این بازگشت، برداشت بیت‌کوین است و به‌صورت تدریجی و با محدودیت‌های اولیه اجرا می‌شود. Binance اعلام کرد که سیستم‌های امنیتی و کنترل‌های داخلی را تقویت کرده و نظارت بیشتری بر تراکنش‌ها اعمال می‌کند. این اقدام می‌تواند به بهبود اعتماد کاربران و کاهش فشار فروش در بازار رمزارزها منجر شود، هرچند برخی ناظران هنوز نگرانی‌های مربوط به امنیت دارایی‌ها را مطرح می‌کنند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پلتفرم تبادل",
-    "tag": "Binance",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-    "clean_url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-    "image": "https://s.yimg.com/bo/73b0ded8-60ce-5377-bbb2-42b2426792c6_1793531253163.jpg",
-    "timestamp": 1793530917.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "78422d822a",
-    "title_fa": "‏کالیفرنیا طرح مالیات 5 ٪ بر میلیاردرها را به رای می‌گذارد",
-    "title_en": "Prop 40 explained: California votes on taxing billionaires",
-    "summary": [
-      "‏کالیفرنیا پیشنهاد مالیات یک‌بار 5 ٪ بر میلیاردرهای ایالتی را برای جمع‌آوری حدود 100 میلیارد دلار تصویب می‌کند.",
-      "‏درآمد هدف برای پوشش کاهش بودجه بهداشت است و مخالفان می‌گویند ممکن است ثروتمندان را به خارج از ایالت بکشاند.",
-      "‏زاکربرگ و سرگئی برین از این مالیات انتقاد کرده و ممکن است محل سکونت خود را تغییر دهند."
-    ],
-    "body_fa": "‏کالیفرنیا در انتخابات میانی روز سه‌شنبه به رای‌گیری یک طرح مالیاتی جدید به نام Proposition 40 می‌پردازد. این طرح مالیات یک‌بار 5 ٪ بر ثروت میلیاردرهای ایالتی را اعمال می‌کند و هدف جمع‌آوری حدود 100 میلیارد دلار برای جبران کاهش بودجه بهداشت است. حامیان می‌گویند 90 ٪ این درآمد به برنامه‌های بهداشتی اختصاص می‌یابد، در حالی که مخالفان، از جمله سرگئی برین و مارک زاکربرگ، هشدار می‌دهند این مالیات می‌تواند ثروتمندان را به ترک کالیفرنیا وادار کند. برخی گروه‌های بهداشتی نیز می‌گویند طرح فاقد تضمین‌های کافی برای استفاده صحیح از منابع است. نظرسنجی اخیر نشان می‌دهد حدود 42 ٪ از رای‌دهندگان از این طرح حمایت می‌کنند، در حالی که 50 ٪ مخالفند؛ حمایت جوانان به‌ویژه زیر 30 سال بالاتر است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "مالیات بر میلیاردرها",
-    "tag": "مالیات میلیاردر",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/video/watch/idRW469931102026RP1/",
-    "clean_url": "https://www.reuters.com/video/watch/idRW469931102026RP1",
-    "image": "https://ajo.prod.reuters.tv/api/v2/img/6ae772c7e4b06575ec3c2d15-1793554295623?height=1200&width=1200&quality=80&smart=true",
-    "timestamp": 1793524440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "59a0e7f381",
-    "title_fa": "‏بحران برق زامبیا به‌دلیل وام‌های بزرگ چینی به‌وجود آمد",
-    "title_en": "Ambitions financed by China's megabanks triggered Zambia crisis",
-    "summary": [
-      "‏کشاورز زامبیایی به دلیل قطع‌های مداوم برق، محصولاتش را از دست داد.",
-      "‏این بحران ناشی از بارگذاری بار وام‌های بزرگ چینی برای پروژه‌های انرژی است.",
-      "‏عدم دسترسی به آب و انرژی، کسب‌وکارهای کوچک را به ورشکستگی نزدیک کرده است."
-    ],
-    "body_fa": "‏در اکتبر 2025 ، کشاورز زامبیایی کاناوانگا نیولَو در مزرعه‌ای 10 هکتاری نزدیک لوساکا با کمبود برق و آب مواجه شد؛ بدون انرژی، نه می‌توانست محصولات سبزیجات را خنک کند و نه می‌توانست دام‌ها را پرورش دهد. این قطع‌های مداوم ناشی از «بارگذاری بار» بود که زسکو، شرکت دولتی برق، برای کاهش فشار شبکه اجرا می‌کرد، اما برنامه‌های زمان‌بندی ناپایدار باعث شد کشاورزان نتوانند برنامه‌ریزی کنند. بحران انرژی زامبیا ریشه در بدهی‌های سنگین این کشور به بانک‌های بزرگ چینی دارد؛ وام‌های عظیم برای پروژه‌های نیروگاهی که به موقع تکمیل نشدند، باعث کاهش توان تولید و افزایش بارگذاری شد. به‌همین دلیل، کشاورزان و صاحبان کسب‌وکارهای کوچک با کاهش تولید، از دست دادن مشتریان و خطر ورشکستگی روبه‌رو هستند. این وضعیت نشان می‌دهد که مشکلات مالی چین در کشورهای در حال توسعه می‌تواند اثرات زنجیره‌ای جدی بر اقتصادهای محلی داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بحران انرژی",
-    "tag": "زامبیا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Asia Times",
-    "url": "https://asiatimes.com/2026/10/ambitions-financed-by-chinas-mega-banks-triggered-zambia-crisis/",
-    "clean_url": "https://asiatimes.com/2026/10/ambitions-financed-by-chinas-mega-banks-triggered-zambia-crisis",
-    "image": "https://i.ytimg.com/vi/SIdVaia1KPo/hqdefault.jpg",
-    "timestamp": 1793524440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "198083f814",
-    "title_fa": "‏صرافی Binance پس از هک، ۳٫۶۴ میلیارد دلار خروج داشت",
-    "title_en": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-    "summary": [
-      "‏صرافی Binance پس از بازگشایی برداشت‌ها، ۳٫۶۴ میلیارد دلار خروج خالص ثبت کرد.",
-      "‏این مقدار ۲٫۱٪ دارایی‌های صرافی است و نشان‌دهنده فشار نقدینگی پس از هک بزرگ است.",
-      "‏صرافی Binance قول داد گزارش به‌روز اثبات ذخایر را دوشنبه منتشر کند."
-    ],
-    "body_fa": "‏صرافی Binance اعلام کرد که پس از بازگشایی امکان برداشت‌ها، ۳٫۶۴ میلیارد دلار خروج خالص تجربه کرده است که معادل ۲٫۱٪ از کل دارایی‌هایش می‌شود. حجم برداشت‌ها پس از یک افزایش ناگهانی کاهش یافته و نشان‌دهنده آرام شدن فشار نقدینگی است. این خروج‌ها در پی هک بزرگ پیشین صرافی رخ داده و نگرانی‌های سرمایه‌گذاران را برانگیخته است. Binance همچنین وعده داده است که گزارش به‌روز اثبات ذخایر را در دوشنبه منتشر کند تا شفافیت بیشتری برای کاربران فراهم شود.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "نقدینگی صرافی",
-    "tag": "Binance",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-    "clean_url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793521980.0,
     "sent_to_telegram": true
   }
 ]
