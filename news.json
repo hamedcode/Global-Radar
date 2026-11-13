@@ -1,5 +1,27 @@
 [
   {
+    "id": "7fc2000da8",
+    "title_fa": "‏بیت‌کوین به ۶۸٬۰۰۰ دلار سقوط کرد؛ IPO Anthropic تکان داد",
+    "title_en": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+    "summary": [
+      "‏بیت‌کوین به ۶۸٬۰۰۰ دلار سقوط کرد.",
+      "‏این افت ناشی از اضطراب بازار پس از عرضه عمومی شرکت Anthropic بود.",
+      "‏تحلیل‌گران ارتباط مستقیم با Nvidia را رد کردند."
+    ],
+    "body_fa": "‏قیمت بیت‌کوین در روز اخیر به ۶۸٬۰۰۰ دلار رسید که نسبت به سطوح قبلی حدود ۷ درصد کاهش یافت. این نوسان به دلیل هیجان‌زدگی اطراف عرضه اولیه سهام شرکت Anthropic و نگرانی‌های سرمایه‌گذاران در بازار رمزارزها رخ داد. تحلیل‌گران تأکید کردند که کاهش قیمت ربط مستقیمی به اخبار Nvidia ندارد و عوامل گسترده‌تر بازار نقش دارند. این سقوط می‌تواند فشار بیشتری بر سرمایه‌گذاران ایرانی که در بیت‌کوین سرمایه‌گذاری دارند وارد کند و نوسانات بیشتری در صرافی‌های داخلی ایجاد کند. در عین حال، برخی کارشناسان پیش‌بینی می‌کنند که پس از تثبیت شرایط، بیت‌کوین ممکن است دوباره به سطوح بالاتر بازگردد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+    "image": "https://s.yimg.com/bo/e80e221f-774d-5f76-b1c2-c1a81ba5aac9_1794596659300.jpg",
+    "timestamp": 1794595201.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "e9db4b9349",
     "title_fa": "‏هیئت‌مدیره Nvidia برای جانشینی Huang به Rene Haas مراجعه کرد",
     "title_en": "Nvidia approached Arm CEO Haas to succeed Huang, FT reports",
@@ -41,6 +63,28 @@
     "clean_url": "https://www.wsj.com/tech/ai/our-new-cybersecurity-reality-if-its-smart-its-hackable-44bcef4e",
     "image": "https://s.yimg.com/bo/a227a4ac-6703-5f05-bf97-e3103e062230_1794590306967.jpg",
     "timestamp": 1794588891.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fe360f2906",
+    "title_fa": "‏کمیته بانکی سنا جلسه نامزدی‌های جدید SEC را برنامه‌ریزی کرد",
+    "title_en": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+    "summary": [
+      "‏کمیته بانکی سنا برای بررسی نامزدی‌های جدید رئیس‌جمهور دونالد ترامپ به SEC جلسه‌ای سریع ترتیب داد.",
+      "‏این گام می‌تواند مسیر تنظیمات جدید برای بازارهای کریپتو و بورس‌های آمریکا را شکل دهد.",
+      "‏جلسه پیش‌بینی می‌شود در هفته آینده برگزار شود."
+    ],
+    "body_fa": "‏کمیته بانکی سنا، که مسئول پیشبرد نامزدی‌های رئیس‌جمهور برای کمیسیون بورس و اوراق بهادار (SEC) است، به سرعت تاریخ جلسه‌ای برای بررسی این نامزدها تعیین کرد. این اقدام پس از درخواست فوری ترامپ برای جایگزینی اعضای SEC انجام شد. hearing پیش‌رو می‌تواند چارچوب نظارتی جدیدی برای رمزارزها و سایر دارایی‌های دیجیتال معرفی کند. تحلیل‌گران پیش‌بینی می‌کنند که هر تصمیمی در این زمینه می‌تواند نوسانات قابل توجهی در قیمت بیت‌کوین و سایر ارزهای دیجیتال ایجاد کند. همچنین، این روند ممکن است بر قوانین معاملاتی در بورس‌های ایالات متحده تأثیر بگذارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "SEC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+    "clean_url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+    "image": "https://s.yimg.com/bo/d86c5154-1ff0-571d-aa55-596319f96ee3_1794590697422.jpg",
+    "timestamp": 1794588001.0,
     "sent_to_telegram": true
   },
   {
@@ -176,6 +220,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0231fdb96f",
+    "title_fa": "‏آمریکا سه باند گواتمالا را گروه تروریستی اعلام کرد",
+    "title_en": "US declares three Guatemalan gangs to be terrorist groups, imposes sanctions",
+    "summary": [
+      "‏آمریکا سه باند گواتمالی را به‌عنوان گروه‌های تروریستی شناساند و تحریم اعمال کرد.",
+      "‏این تصمیم به‌دلیل تأمین مالی خشونت و جرم از طریق قاچاق مواد مخدر اتخاذ شد.",
+      "‏تحریم‌ها می‌توانند فشار بر شبکه‌های جرایمی منطقه‌ای را افزایش دهند."
+    ],
+    "body_fa": "‏دولت ایالات متحده تحت رهبری Trump سه باند گواتمالایی را به‌عنوان گروه‌های تروریستی شناخته و تحریم‌های مالی علیه آن‌ها اعمال کرد. این باندها به‌دلیل تأمین مالی خشونت و جرم از طریق قاچاق مواد مخدر مورد هدف قرار گرفتند. تحریم‌ها شامل مسدودسازی دارایی‌ها و ممنوعیت انجام معاملات مالی با این گروه‌ها می‌شود. هدف اصلی این اقدام، کاهش جریان‌های مالی جرایمی و فشار بر ساختارهای تروریستی در منطقه است. کارشناسان بر این باورند که این تصمیم می‌تواند تأثیر مثبتی بر امنیت مرزهای جنوبی آمریکا داشته باشد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌ها و تروریسم",
+    "tag": "تحریم",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/us-guatemala-terrorism-drugs-rubio-5036440b50789cec893916478bc45471",
+    "clean_url": "https://apnews.com/article/us-guatemala-terrorism-drugs-rubio-5036440b50789cec893916478bc45471",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794571320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c2fb1afec4",
+    "title_fa": "‏عرضه اولیه Anthropic اقتصاد آمریکا را تحت تأثیر می‌گذارد",
+    "title_en": "How Anthropic’s IPO Could Affect the Entire Economy",
+    "summary": [
+      "‏شرکت Anthropic هفته آینده در بورس آمریکا به‌صورت IPO وارد بازار می‌شود.",
+      "‏این عرضه می‌تواند تأثیر گسترده‌ای بر اقتصاد کل کشور داشته باشد.",
+      "‏تحلیل‌گران به رشد سرمایه‌گذاری در هوش مصنوعی و نوسان شاخص‌های سهام اشاره کردند."
+    ],
+    "body_fa": "‏شرکت هوش مصنوعی Anthropic قرار است هفته آینده اولین سهام عمومی خود را در بورس نیویورک به‌صورت IPO عرضه کند. این عرضه که به‌عنوان یکی از بزرگ‌ترین IPO های فناوری در تاریخ شناخته می‌شود، می‌تواند حجم سرمایه‌گذاری در بخش هوش مصنوعی را به‌طور قابل‌توجهی افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند ورود Anthropic به بازار عمومی می‌تواند نوسانات شاخص‌های سهام فناوری را تشدید کند و به‌ویژه شرکت‌های رقیب در این حوزه فشار بیشتری وارد کند. علاوه بر این، حجم بالای سرمایه جذب‌شده می‌تواند به‌صورت غیرمستقیم بر مصرف‌گرایی و هزینه‌های تحقیق و توسعه در اقتصاد کل آمریکا اثر بگذارد. در نهایت، این IPO می‌تواند نشانگر اعتماد سرمایه‌گذاران به فناوری‌های پیشرفته باشد و روند سرمایه‌گذاری در استارتاپ‌های هوش مصنوعی را تقویت کند.",
+    "category": "تکنولوژی",
+    "subcategory": "عرضه اولیه فناوری",
+    "tag": "Anthropic",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/video/how-anthropics-ipo-could-affect-the-entire-economy/298EB8FE-2CF4-4F36-AD5C-9AEFF4EB0A16",
+    "clean_url": "https://www.wsj.com/video/how-anthropics-ipo-could-affect-the-entire-economy/298EB8FE-2CF4-4F36-AD5C-9AEFF4EB0A16",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794570300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "02af6df68a",
+    "title_fa": "‏آغاز Planeswalker از Magic: The Gathering در 2027 روی نتفلیکس",
+    "title_en": "The Magic: The Gathering Animated Series, Planeswalker, Is Finally Coming to Netflix in 2027",
+    "summary": [
+      "‏سریال انیمیشن Planeswalker بر پایه Magic: The Gathering و با محوریت Chandra Nalaar برای اولین بار در سال 2027 به نتفلیکس می‌رسد.",
+      "‏این اعلامیه نشان می‌دهد نتفلیکس به تولید انیمیشن‌های مبتنی بر بازی‌های محبوب ادامه می‌دهد و می‌تواند جامعه بزرگ بازیکنان را جذب کند.",
+      "‏تیم تولید شامل Terry Matalas و Cindy Appel است؛ روسو برادرز در 2021 پروژه را ترک کردند."
+    ],
+    "body_fa": "‏در کنفرانس MagicCon آتلانتا، Wizards of the Coast اعلام کرد که سریال انیمیشن جدیدی به نام Planeswalker بر پایه بازی Magic: The Gathering برای سال 2027 برنامه‌ریزی شده است. این سریال به شخصیت Chandra Nalaar ، یک پلان‌سوار آتش‌پراکنی که به خاطر توانایی‌هایش تعقیب می‌شود، می‌پردازد و داستان او را در میان تهدیدی جهانی و جنگ‌های چندجهانی دنبال می‌کند. نتفلیکس تصمیم گرفته است همانند پروژه‌های قبلی‌اش مثل Castlevania ، این اثر را به صورت انیمیشن ارائه دهد، نه به شکل زنده‌اکشن. پس از خروج کارگردانان روسو برادرز در 2021 ، Terry Matalas به همراه Cindy Appel مسئولیت سرپرستی تولید را بر عهده گرفته‌اند. این اعلامیه نشان می‌دهد که پلتفرم‌های استریمینگ به گسترش محتواهای مبتنی بر بازی‌های ویدئویی ادامه می‌دهند و می‌توانند جامعه بزرگ طرفداران فانتزی و کارت‌ بازی را جذب کنند.",
+    "category": "گیم",
+    "subcategory": "سریال انیمیشن",
+    "tag": "Planeswalker",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/the-magic-the-gathering-show-planeswalker-is-finally-coming-to-netflix-in-2027",
+    "clean_url": "https://www.ign.com/articles/the-magic-the-gathering-show-planeswalker-is-finally-coming-to-netflix-in-2027",
+    "image": "https://assets-prd.ignimgs.com/2026/11/13/magic-the-gathering-planeswalker-netflix-1794601578152.png?width=1280&format=jpg&auto=webp&quality=80",
+    "timestamp": 1794569220.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b83aa3c08a",
     "title_fa": "‏قیمت بیت‌کوین زیر ۷۰٬۰۰۰ دلار افتاد",
     "title_en": "Bitcoin falls below $70,000 as dollar surges and $1.6 billion liquidated",
@@ -195,6 +305,50 @@
     "clean_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
     "image": "https://s.yimg.com/bo/eef33bdc-1e7e-593e-a8a3-acd128f8648e_1794571667048.png.cf.jpg",
     "timestamp": 1794568972.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "80fe6669dc",
+    "title_fa": "‏قضیه حذف اطلاعات IPO Robinhood در دادگاه عالی بررسی می‌شود",
+    "title_en": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
+    "summary": [
+      "‏دادگاه عالی ایالات متحده موافقت کرد که پروندهٔ اعتراض Robinhood به حذف داده‌های مالی میانی در IPO 2021 را بررسی کند",
+      "‏این تصمیم می‌تواند تأثیر قابل‌توجهی بر سهام Robinhood و قوانین افشای اطلاعات در بازارهای مالی داشته باشد",
+      "‏دادگاه 9th Circuit پیش از این دعوی را احیا کرده بود"
+    ],
+    "body_fa": "‏دادگاه عالی ایالات متحده روز جمعه اعلام کرد که پروندهٔ اعتراض Robinhood به حذف اطلاعات مالی میانی در عرضه اولیه سهام (IPO) سال 2021 را بررسی خواهد کرد. Robinhood می‌خواهد حکم دادگاه 9th Circuit که دعوی جمعی سرمایه‌گذاران علیه این شرکت و بانک‌های مشارکت‌کننده مانند Goldman Sachs و J.P. Morgan Securities را احیا کرده بود، لغو شود. دادگاه فدرال سانفرانسیسکو پیش از این دعوی را رد کرده بود، اما دادگاه 9th Circuit آن را دوباره زنده کرد. دولت ترامپ و کمیسیون بورس و اوراق بهادار (SEC) نیز از دادگاه عالی درخواست کردند تا به این تجدیدنظر بپردازد. اگر دادگاه عالی به نفع Robinhood رأی دهد، ممکن است فشار قانونی بر افشای کامل اطلاعات در IPO ها کاهش یابد و قیمت سهام این شرکت تحت تأثیر قرار گیرد. از سوی دیگر، پیروان دعوی معتقدند حذف داده‌های مربوط به عملکرد سه ماهه دوم 2021 ، که پس از عرضه عمومی به کاهش قیمت سهام منجر شد، اطلاعات مهمی را از سرمایه‌گذاران محروم کرده است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "Robinhood",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+    "clean_url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108274141-17727164112026-03-05t033804z_1624129463_rc2zxjae4cms_rtrmadp_0_robinhood-usa.jpeg?v=1772716459&w=1920&h=1080",
+    "timestamp": 1794567660.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cc4e49de68",
+    "title_fa": "‏چیپ‌های ممنوع Nvidia در آموزش مدل‌های پیشرفته چین استفاده شدند",
+    "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+    "summary": [
+      "‏مدل‌های هوش مصنوعی پیشرفته چین با چیپ‌های Blackwell ممنوع از صادرات آموزش دیده‌اند",
+      "‏این نشان می‌دهد کنترل‌های صادراتی آمریکا در مقابل پیشرفت‌های AI چین ناکارآمد بوده و خطر تخلف‌های بزرگ را نشان می‌دهد",
+      "‏همزمان جنسن هوانگ به دلیل رسوایی شخصی و احتمال مسئولیت‌های قانونی از شرکت جدا شد"
+    ],
+    "body_fa": "‏یک پژوهش جدید نشان داد که مدل‌های بزرگ زبان باز منتشر شده توسط شرکت‌های چینی مانند DeepSeek ، Moonshot AI و Ant Group با استفاده از چیپ‌های Blackwell شرکت Nvidia که تحت تحریم صادراتی آمریکا قرار دارند، آموزش دیده‌اند. محقق ویلیام دی‌پو با تحلیل وزن‌های این مدل‌ها، ردپای سخت‌افزار Blackwell را شناسایی کرد و این موضوع را با اظهارات مشاور فناوری کاخ سفید، مایکل کراتسیوس، تأیید کرد. برآوردهای سازمان Epoch AI حاکی از ورود حدود دو میلیون چیپ پیشرفته به چین در سال‌های 2024‑2025 از طریق مسیرهای مخفی، از جمله واردات به مالزی، است. در همین زمان، جنسن هوانگ به دلیل رسوایی شخصی و احتمال مسئولیت‌های قانونی مرتبط با قاچاق چیپ‌ها، از سمت خود در Nvidia کناره‌گیری کرد. این رویدادها نشان می‌دهد که محدودیت‌های صادراتی آمریکا در مقابل پیشرفت‌های هوش مصنوعی چین به چالش کشیده شده و احتمال تحریم‌های سخت‌تر یا اقدامات قانونی جدید را به دنبال دارد.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Nvidia",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "clean_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+    "timestamp": 1794566400.0,
     "sent_to_telegram": true
   },
   {
@@ -220,6 +374,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1b90dcb58b",
+    "title_fa": "‏قیمت بیت‌کوین زیر میانگین 200 هفته‌ای سقوط کرد",
+    "title_en": "Live news: Bitcoin plunges back towards bear market lows, wiping out late summer...",
+    "summary": [
+      "‏بیت‌کوین زیر میانگین 200‑هفته‌ای خود افتاد و به سطوح پایین‌سوقی نزدیک شد",
+      "‏این سقوط با افزایش نرخ بهره و تقویت دلار همزمان شد و فشار بر بازار رمزارزها را افزون کرد",
+      "‏کاهش حدود 12 ٪، سودهای اواخر تابستان را تقریباً از بین برد"
+    ],
+    "body_fa": "‏بیت‌کوین امروز زیر میانگین 200‑هفته‌ای خود سقوط کرد و به سطوح نزدیک به بازار خرسی برگشت. این حرکت نزولی همزمان با رشد نرخ بهره در آمریکا و تقویت دلار رخ داد و باعث شد سرمایه‌گذاران به سمت دارایی‌های امن‌تر روی آورند. قیمت بیت‌کوین حدود 12 ٪ کاهش یافت و تقریباً تمام سودهای به‌دست‌آمده در اواخر تابستان را از بین برد. علاوه بر رمزارزها، شاخص‌های سهام نیز تحت فشار قرار گرفتند و بازارهای جهانی به‌نظر می‌رسد در دوره‌ای از ریسک‌پذیری کمتر قرار دارند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+    "clean_url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+    "image": "https://s.yimg.com/bo/4d9ebd8d-1a1b-5c6a-bd9c-3fae99bf735c_1794583732734.png.cf.jpg",
+    "timestamp": 1794562801.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1f6fc7085c",
     "title_fa": "‏کانادا به Stellantis تهدید به دعوا پس از انتقال Jeep",
     "title_en": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep...",
@@ -239,6 +415,28 @@
     "clean_url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
     "image": "https://s.yimg.com/bo/0ca9924d-eab6-567c-8b25-c5eabc2ca86b_1794564276402.jpg",
     "timestamp": 1794561961.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e6d9cd8941",
+    "title_fa": "‏SEC قوانین افشای دستمزد مدیران را محدود می‌کند",
+    "title_en": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
+    "summary": [
+      "‏SEC تصمیم گرفت افشای دستمزد مدیران اجرایی به سرمایه‌گذاران را محدود کند",
+      "‏این تغییر می‌تواند شفافیت مالی و هزینه‌های گزارش‌دهی شرکت‌ها را تحت تأثیر قرار دهد",
+      "‏قوانین جدید احتمالاً برای شرکت‌های بزرگ آمریکایی اثر قابل‌توجهی خواهد داشت"
+    ],
+    "body_fa": "‏کمیسیون بورس و اوراق بهادار آمریکا (SEC) پیشنهادی برای محدود کردن افشای دستمزد مدیران اجرایی به سرمایه‌گذاران ارائه داد. بر اساس این طرح، شرکت‌ها باید جزئیات بیشتری درباره ساختار جبران خدمات مدیران ارائه کنند و از برخی اصطلاحات مبهم خودداری نمایند. هدف اصلی این اقدام افزایش شفافیت برای سرمایه‌گذاران و کاهش سوءاستفاده‌های احتمالی در تعیین حقوق مدیران است. اگرچه این قوانین می‌توانند هزینه‌های گزارش‌دهی را برای شرکت‌ها بالا ببرند، اما انتظار می‌رود باعث بهبود ارزیابی‌های سرمایه‌گذاران و کاهش نوسانات بازار شود. SEC قصد دارد این تغییرات را در دوره‌های گزارش‌دهی مالی آینده اجرایی کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "حاکمیت شرکتی",
+    "tag": "SEC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794561060.0,
     "sent_to_telegram": true
   },
   {
@@ -308,6 +506,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "7847534a92",
+    "title_fa": "‏OpenAI سرویس ChatGPT Wallet را برای خریدهای هوشمند راه‌اندازی کرد",
+    "title_en": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+    "summary": [
+      "‏شرکت OpenAI سرویس جدید ChatGPT Wallet را معرفی کرد که به هوش‌مصنوعی «dots» امکان خرید برای کاربران می‌دهد.",
+      "‏این قابلیت با همکاری American Express ، Mastercard و Visa توکن‌های پرداخت برای هر تراکنش تولید می‌کند و می‌تواند تجارت مبتنی بر AI را تحول بخشد.",
+      "‏در ابتدا فقط برای مشترکین Pro در آمریکا و بالای ۱۸ سال فعال است."
+    ],
+    "body_fa": "‏شرکت OpenAI جمعه سرویس جدیدی به نام ChatGPT Wallet را معرفی کرد که به «dots»—عامل‌های هوش مصنوعی داخل چت‌جی‌پی‌تی—امکان خرید مستقیم برای کاربران می‌دهد. این ویژگی با مشارکت American Express ، Mastercard و Visa توسعه یافته و به کارت‌داران اجازه می‌دهد تا امتیازها و حفاظت‌های کارت خود را حفظ کنند؛ در عوض، شبکه‌های پرداخت یک توکن پرداخت شامل شماره کارت محدود، کد امنیتی و تاریخ انقضا برای هر تراکنش به عامل می‌دهند. کاربران فقط یک بار اطلاعات کارت خود را وارد می‌کنند، سپس با درخواست از dot برای یافتن کالا و تأیید خرید از طریق یک بررسی امنیتی، خرید انجام می‌شود. OpenAI در ابتدا این سرویس را برای مشترکین Pro در ایالات متحده بالای ۱۸ سال فعال کرده و هنوز درصدی از تراکنش‌ها را دریافت نمی‌کند. این گام نشان‌دهنده تلاش شرکت برای تبدیل هوش مصنوعی به یک پلتفرم تجاری و ایجاد جریان درآمدی جدید در آینده است.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی تجاری",
+    "tag": "ChatGPT",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+    "clean_url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108469835-1793120540409-Screenshot_2026-10-27_at_10008_PM.png?v=1793474850&w=1920&h=1080",
+    "timestamp": 1794553200.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "3f8c2a9853",
     "title_fa": "‏Uber اعلام کرد هکرها اطلاعات گواهینامه رانندگان را دزدیدند",
     "title_en": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
@@ -349,6 +569,28 @@
     "clean_url": "https://www.yahoo.com/news/politics/articles/speaker-johnson-says-congress-developing-143530401.html",
     "image": "https://media.zenfs.com/en/reuters.com/4a1a9af069aa86314ce126b789361ce0.jpg",
     "timestamp": 1794551158.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7208e297a0",
+    "title_fa": "‏بیسنت وزارت تجارت را عدم کنترل صادرات Megaspeed سرزنش کرد",
+    "title_en": "Bessent blames Commerce Dept over lack of export controls for Nvidia partner Megaspeed",
+    "summary": [
+      "‏اسکات بسنت گفت چهار نهاد دولتی مایل به فهرست سیاه کردن شرکت سنگاپوری Megaspeed بودند",
+      "‏اما وزارت تجارت کنترل صادرات لازم را اعمال نکرده و این باعث نگرانی در مورد فناوری Nvidia شد",
+      "‏این موضوع می‌تواند تأثیراتی بر زنجیره تأمین چیپ‌های پیشرفته و روابط تجاری آمریکا داشته باشد"
+    ],
+    "body_fa": "‏اسکات بسنت، وزیر خزانه‌داری آمریکا، اعلام کرد که چهار نهاد دولتی خواستند شرکت سنگاپوری Megaspeed ، شریک اصلی رسوایی Nvidia ، در فهرست سیاه تجاری قرار گیرد. اما وزارت تجارت اقدام به اعمال کنترل‌های صادراتی لازم نکرده است. بسنت این کوتاهی را به وزارت تجارت نسبت داد و گفت که عدم اجرای محدودیت‌ها می‌تواند به انتقال فناوری‌های حساس به کشورهای دیگر منجر شود. این مسئله نگرانی‌ها را درباره زنجیره تأمین چیپ‌های پیشرفته و سیاست‌های تجاری آمریکا برانگیخته است. در صورت اعمال محدودیت‌های سختگیرانه‌تر، ممکن است روابط تجاری بین آمریکا و شرکای آسیایی تحت فشار قرار گیرد.",
+    "category": "تکنولوژی",
+    "subcategory": "قوانین صادرات",
+    "tag": "Megaspeed",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13/",
+    "clean_url": "https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794550620.0,
     "sent_to_telegram": true
   },
   {
@@ -481,6 +723,28 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794536040.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5904786f0f",
+    "title_fa": "‏مدیرعامل Anthropic می‌گوید عرضه اولیه باید کمتر وعده دهد",
+    "title_en": "Anthropic Chief Says He Hopes IPO Will ‘Underpromise and Overdeliver’",
+    "summary": [
+      "‏مدیرعامل Anthropic ، Dario Amodei ، گفت هدف IPO شرکت «کمتر وعده‌دادن و بیشتر ارائه» است.",
+      "‏این رویکرد می‌تواند انتظارات سرمایه‌گذاران را تنظیم کرده و فشار کمتری بر قیمت سهام پس از عرضه ایجاد کند.",
+      "‏شرکت هنوز زمان دقیق IPO را اعلام نکرده است."
+    ],
+    "body_fa": "‏مدیرعامل Anthropic ، Dario Amodei ، در مصاحبه‌ای اعلام کرد که هدف شرکت برای عرضه اولیه سهام (IPO) این است که «کمتر وعده‌ بدهد و بیشتر ارائه کند». به عبارت دیگر، او می‌خواهد انتظارات سرمایه‌گذاران را به‌گونه‌ای تنظیم کند که پس از لیست شدن، عملکرد واقعی شرکت از پیش‌بینی‌ها فراتر رود. این رویکرد می‌تواند به کاهش نوسانات قیمت سهام در روزهای اولیه پس از عرضه کمک کند. Anthropic که در حوزه هوش مصنوعی و مدل‌های زبانی پیشرفته فعالیت می‌کند، در حال حاضر به‌دنبال جذب سرمایه برای گسترش زیرساخت‌ها و توسعه محصولات جدید است. اگرچه تاریخ دقیق IPO هنوز اعلام نشده، اما این اظهارات نشان می‌دهد که شرکت قصد دارد با رویکرد محتاطانه، پذیرش عمومی و سرمایه‌گذاری‌های بزرگ را تضمین کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "IPO",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/anthropic-chief-says-he-hopes-ipo-will-underpromise-and-overdeliver--QcjJ0ZBRMpUk1nqkLOik",
+    "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/anthropic-chief-says-he-hopes-ipo-will-underpromise-and-overdeliver--QcjJ0ZBRMpUk1nqkLOik",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794535920.0,
     "sent_to_telegram": true
   },
   {
@@ -6332,270 +6596,6 @@
     "clean_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
     "timestamp": 1793797800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6033ec8a14",
-    "title_fa": "‏نتیجه انتخابات میانه‌دوره آمریکا فشار تجاری را کاهش داد",
-    "title_en": "Trump's midterm rebuke gives trading partners room to resist",
-    "summary": [
-      "‏انتخابات میانه‌دوره آمریکا به نفع دموکرات‌ها و رد سیاست‌های تجاری ترامپ منجر شد",
-      "‏این تغییر می‌تواند به شرکای تجاری فرصت بدهد تا در مقابل تعرفه‌ها مقاومت کنند",
-      "‏چین و کشورهای آسیایی ممکن است سرمایه‌گذاری‌های وعده‌داده‌شده را بازنگری کنند"
-    ],
-    "body_fa": "‏در انتخابات میانه‌دوره 2024 ، دموکرات‌ها اکثریت هر دو مجلس سنا و نمایندگان را به دست آوردند و به‌صراحت سیاست‌های تجاری محافظه‌کارانه ترامپ را رد کردند. این نتایج می‌تواند فشار بر شرکای تجاری آمریکا را کاهش دهد و به ویژه چین فرصت بیشتری برای مذاکره در چارچوب‌های تجاری بدهد. در آسیا، ژاپن و کره‌جنوبی که قبلاً تعهدات سرمایه‌گذاری 550 و 350 میلیارد دلاری را اعلام کرده بودند، ممکن است این وعده‌ها را بازنگری کنند. اروپا نیز از پیش‌بینی‌پذیری بیشتری در مسائل تجاری بهره‌مند می‌شود، اگرچه برخی نگران ادامه رفتارهای محافظه‌کارانه ترامپ هستند. کارشناسان هشدار می‌دهند که حتی با کاهش فشار، سیاست‌های تعرفه‌ای ممکن است به‌سرعت بازگردند اگر ترامپ در سال‌های باقی‌ماندهٔ ریاست‌جمهوری‌اش تغییر نظر ندهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "سیاست تجاری",
-    "tag": "تجارت",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters · via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/trumps-midterm-rebuke-gives-trading-093400142.html",
-    "clean_url": "https://www.yahoo.com/news/politics/articles/trumps-midterm-rebuke-gives-trading-093400142.html",
-    "image": "https://media.zenfs.com/en/reuters.com/ba712a84fbe7b00ec8f7dddd8e9222ba.jpg",
-    "timestamp": 1793797246.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "42420e03cc",
-    "title_fa": "‏تورم ناحیه یورو به ۴٪ رسید؛ فشار انرژی ادامه دارد",
-    "title_en": "Eurozone Inflation Rises to 4%, Driven by Energy Costs — 3rd Update",
-    "summary": [
-      "‏تورم ناحیه یورو در اکتبر به ۴٪ رسید، دو برابر هدف ۲٪ بانک مرکزی.",
-      "‏افزایش به‌دلیل هزینه‌های انرژی است و احتمالاً موجب افزایش نرخ بهره توسط ECB می‌شود.",
-      "‏قیمت نفت برنت بالای $100 در هر بشکه و گاز طبیعی نیز در ماه اوکتبر صعود کرد."
-    ],
-    "body_fa": "‏آمارهای Eurostat نشان داد که تورم مصرف‌کننده در ناحیه یورو در ماه اکتبر ۴٫۰٪ نسبت به سال گذشته بوده و این رقم بالاتر از هدف ۲٪ بانک مرکزی اروپا است. این افزایش چهارمین افزایش ماهانه پی‌درپی است و از سپتامبر ۲۰۲۳ به بالاترین سطح خود رسیده است. هزینه‌های انرژی نقش اصلی را ایفا کرده‌اند؛ قیمت نفت برنت در اکتبر به بالای $100 در هر بشکه رسیده و قیمت گاز طبیعی نیز به‌طور قابل‌توجهی افزایش یافته است. کارشناسان پیش‌بینی می‌کردند تورم حدود ۳٫۹٪ باشد، بنابراین این رقم کمی بالاتر از انتظار بوده. با توجه به این فشارهای قیمتی، احتمال دارد که بانک مرکزی اروپا پس از نگه داشتن نرخ بهره ثابت در هفته گذشته، دوباره آن را افزایش دهد. در عین حال، اثرات این تورم بر سایر بخش‌ها نسبت به دورهٔ تورمی چهار سال پیش کمتر شد، به‌خصوص در بخش خرده‌فروش‌های غذایی که پس از افزایش شدید در سال ۲۰۲۲، قیمت‌ها کمتر ارتقا یافته‌اند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "تورم و سیاست پولی",
-    "tag": "تورم",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Morningstar",
-    "url": "https://www.morningstar.com/news/dow-jones/202611047435/eurozone-inflation-rises-to-4-driven-by-energy-costs-3rd-update",
-    "clean_url": "https://www.morningstar.com/news/dow-jones/202611047435/eurozone-inflation-rises-to-4-driven-by-energy-costs-3rd-update",
-    "image": "https://s.yimg.com/bo/a362d7f7-f342-59b9-bd36-c01cdbdbf51a_1783067230542.png.cf.jpg",
-    "timestamp": 1793796876.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f620bb432a",
-    "title_fa": "‏AMD سود سه‌ماهه را پیشی گرفت؛ سرور دوبرابر می‌شود",
-    "title_en": "AMD earnings beat the Street. Here's what analysts are saying",
-    "summary": [
-      "‏AMD گزارش مالی سه‌ماهه سوم را با EPS تنظیم‌شده ۲.۰۹ دلار و درآمد ۱۳.۳۸ میلیارد دلار که بالاتر از پیش‌بینی‌ها بود، منتشر کرد.",
-      "‏این نتایج باعث ارتقای هدف قیمت سهام و افزایش ۴٪ پیش‌بازار شد و پیش‌بینی دوبرابر شدن درآمد سرور تا ۲۰۲۷ را تقویت کرد.",
-      "‏تحلیل‌گران به رشد قوی بخش دیتاسنتر و حاشیه سود ۵۵٪ اشاره کردند."
-    ],
-    "body_fa": "‏شرکت Advanced Micro Devices (AMD) نتایج مالی سه‌ماهه سوم خود را منتشر کرد که سود تنظیم‌شده هر سهم ۲.۰۹ دلار و درآمد ۱۳.۳۸ میلیارد دلار را نشان می‌دهد؛ هر دو عدد از پیش‌بینی‌های تحلیل‌گران (۱.۹۵ دلار EPS و ۱۳.۰۹ میلیارد دلار درآمد) پیشی گرفته‌اند. مدیرعامل لیسا سو اعلام کرد درآمد سرور شرکت تا سال ۲۰۲۷ دو برابر خواهد شد و رشد هوش مصنوعی در دیتاسنترها حتی سریع‌تر از پیش‌بینی‌های قبلی خواهد بود. این خبر باعث شد سهام AMD در پیش‌بازار ۴٪ افزایش یابد، پس از کاهش حدود ۲۴٪ در ماه گذشته. تحلیل‌گران Morgan Stanley هدف قیمت سهام را به ۵۵۰ دلار ارتقا دادند و Goldman Sachs نیز هدف ۶۷۵ دلار را با توصیه خرید حفظ کرد. آنها به رشد قوی بخش دیتاسنتر، حاشیه سود ناخالص ۵۵٪ و توانایی AMD در کسب سهم بازار در شرایط زنجیره تأمین محدود اشاره کردند.",
-    "category": "تکنولوژی",
-    "subcategory": "سهم‌های فناوری",
-    "tag": "AMD",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/04/amd-earnings-analysts-ai-growth.html",
-    "clean_url": "https://www.cnbc.com/2026/11/04/amd-earnings-analysts-ai-growth.html",
-    "image": "https://s.yimg.com/bo/e2a5785e-6341-5b91-83f0-a723c66fcacd_1793740716719.jpg",
-    "timestamp": 1793796229.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "069804dc72",
-    "title_fa": "‏هکرها فایل‌ها و ایمیل‌های مشتریان DreamHost را دزدیدند",
-    "title_en": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-    "summary": [
-      "‏هکرها در حمله‌ای چندماهه به DreamHost ، ایمیل‌ها و اطلاعات ورود مشتریان را به‌دست آوردند.",
-      "‏این نفوذ می‌تواند به دسترسی غیرمجاز به حساب‌ها منجر شود و امنیت سرویس‌های میزبانی وب را به خطر اندازد.",
-      "‏شرکت اعلام کرد که تحت 10% از 400,000 مشتری تحت‌تأثیر قرار گرفته‌اند."
-    ],
-    "body_fa": "‏DreamHost تأیید کرد که در یک حمله سایبری چندماهه، هکرها به ایمیل‌ها و اطلاعات ورود مشتریان دست یافتند. این نفوذ از اوت آغاز شد و به هکرها امکان دسترسی به توکن‌های نشست کاربران را داد. شرکت اعلام کرد که آسیب‌پذیری در مدیر فایل DreamHost مورد سوءاستفاده قرار گرفته، اما جزئیات دقیق آن را فاش نکرده است. پس از کشف حمله، DreamHost چند روز سرویس را قطع کرد و برخی گذرواژه‌ها را بازنشانی کرد. تعداد مشتریان تحت تأثیر «به‌مراتب کمتر از 10 ٪» از 400,000 مشتری کل است و شرکت در حال بررسی کامل حادثه می‌باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "دریمو‌هوست",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-    "clean_url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249547675.jpg?w=1024",
-    "timestamp": 1793795760.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6b865360a0",
-    "title_fa": "‏Circle با رشد تراکنش‌های USDC سود پیش‌بینی‌ها را شکست",
-    "title_en": "Circle (CRCL) beats earnings and revenue estimates on soaring USDC transaction...",
-    "summary": [
-      "‏Circle درآمد خالص 226 میلیون دلاری را که 5 ٪ رشد سالانه دارد، اعلام کرد.",
-      "‏این افزایش به دلیل افزایش چشمگیر حجم تراکنش‌های USDC بود و باعث پیشی گرفتن از تخمین‌های تحلیل‌گران شد.",
-      "‏نتایج مثبت می‌تواند تقاضای بازار برای استیبل‌کوین‌ها را تقویت کند."
-    ],
-    "body_fa": "‏شرکت Circle در گزارش مالی سه‌ماهه اخیر، سود خالص 226 میلیون دلاری را اعلام کرد که نسبت به سال گذشته 5 درصد رشد داشته است. درآمد نیز بالاتر از پیش‌بینی‌های تحلیل‌گران بوده و به‌ویژه به دلیل افزایش چشمگیر تراکنش‌های استیبل‌کوین USDC است. حجم تراکنش‌های USDC در این دوره به‌طور قابل‌توجهی افزایش یافت و نقش مهمی در بهبود نتایج مالی ایفا کرد. این عملکرد مثبت می‌تواند اعتماد سرمایه‌گذاران به استیبل‌کوین‌ها را تقویت کند و فشار خرید بر USDC را افزایش دهد. همچنین، نتایج بهتر از انتظار می‌تواند تأثیر مثبتی بر قیمت توکن‌های مرتبط و بازار کلی رمزارزها داشته باشد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "گزارش مالی",
-    "tag": "USDC",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-    "clean_url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-    "image": "https://s.yimg.com/bo/dc690337-052b-52d1-90f1-4182c02cd82b_1791471101938.jpg",
-    "timestamp": 1793795629.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bed2aeff8f",
-    "title_fa": "‏نرخ وام مسکن برای سومین هفته متوالی کاهش یافت",
-    "title_en": "Mortgage rates drop for the third straight week, but homebuyers are still...",
-    "summary": [
-      "‏نرخ وام‌های 30‑ساله ثابت به 7.3 ٪ کاهش یافت",
-      "‏با این کاهش، تقاضا برای وام مسکن همچنان کاهش دارد",
-      "‏درخواست خرید مسکن ۲٪ و رهن‌گیری ۱۹٪ کمتر از سال گذشته شد"
-    ],
-    "body_fa": "‏نرخ بهره وام‌های 30‑ساله ثابت با مانده وام‌های مطابق (تا 832,750 دلار) برای سومین هفته متوالی به 7.3 ٪ کاهش یافت، پس از اینکه فدرال‌رزرو در جلسه اکتبر تصمیم به نگه داشتن نرخ‌ها گرفت. حجم کل درخواست‌ها بر اساس شاخص فصلی‌سازی شدهٔ انجمن بانکداران وام مسکن 1.2 ٪ نسبت به هفته پیش کاهش یافت. تقاضای بازپرداخت تقریباً ثابت ماند اما فقط 0.1 ٪ رشد کرد و 60 ٪ کمتر از همین هفتهٔ سال گذشته بود. درخواست‌های خرید مسکن 2 ٪ نسبت به هفته پیش و 19 ٪ نسبت به سال گذشته کاهش یافت، که نشان‌دهندهٔ عدم گرم شدن بازار مسکن است. سهم وام‌های متغیر نرخ (ARM) به بالاترین سطح خود از سپتامبر 2025 رسید و نرخ 5/1 ARM به 6.29 ٪ افتاد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار مسکن",
-    "tag": "نرخ‌مسکن",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html",
-    "clean_url": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html",
-    "image": "https://s.yimg.com/bo/4e8a9b2b-0695-5962-9661-f210d32e5f3e_1790664075905.jpg",
-    "timestamp": 1793794609.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "94d02421cd",
-    "title_fa": "‏طلا به بالای ۴۰۵۰ دلار رسید پس از پیروزی دموکرات‌ها",
-    "title_en": "Gold (XAUUSD), Silver, Platinum Forecasts",
-    "summary": [
-      "‏طلا بالای ۴۰۵۰ دلار صعود کرد پس از پیروزی دموکرات‌ها در انتخابات میانی ایالات متحده.",
-      "‏کاهش بازده اوراق خزانه و تضعیف دلار، تقاضای طلا را تقویت کرد و پیش‌بینی صعود بیشتر را ایجاد کرد.",
-      "‏نقره و پلاتین نیز افزایش یافتند؛ نقره به سمت ۵۲ دلار و پلاتین به بالای ۱۴۵۰ دلار رفت."
-    ],
-    "body_fa": "‏طلا پس از اعلام نتایج انتخابات میانی ایالات متحده که دموکرات‌ها کنترل مجلس نمایندگان و سنا را به دست گرفتند، به بالای ۴۰۵۰ دلار رسید. این صعود به دلیل کاهش بازده اوراق ۲ ساله زیر ۴.۵۸٪ و بازده ۱۰ ساله نزدیک ۴.۹۰٪ و تضعیف دلار در برابر سبدی از ارزها بود. ابزار FedWatch احتمال ۷۹.۵٪ افزایش نرخ بهره توسط فدرال رزرو در جلسه دسامبر را نشان می‌دهد، اما معامله‌گران طلا تمرکز خود را بر دینامیک‌های کوتاه‌مدت بازده‌ها گذاشتند. کاهش قیمت نفت بر اثر اظهارات چاک شومر درباره پایان جنگ در ایران، باعث کاهش ۱۰٪ی قیمت برنت شد و فشار کمتری بر طلا ایجاد کرد. نقره نیز به دنبال تقویت طلا، سعی در تثبیت بالای ۵۲ دلار دارد و نسبت طلا/نقره زیر ۷۸ رفته است. پلاتین به بالای ۱۴۵۰ دلار رسید؛ کاهش قیمت نفت و دلار ضعیف، تقاضای صنعتی این فلز گرانبها را تقویت کرده است.",
-    "category": "انرژی و کالا",
-    "subcategory": "فلزات گرانبها",
-    "tag": "قیمت طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "FX Empire",
-    "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-soars-3-5-after-democrats-victory-in-midterm-elections-1642566",
-    "clean_url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-soars-3-5-after-democrats-victory-in-midterm-elections-1642566",
-    "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/11/gold-precious-metal-price-chart-03-1.jpg?width=1201",
-    "timestamp": 1793792520.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "639b0b67e2",
-    "title_fa": "‏تلسکوپ ناسا پس از ۲۲ سال به زمین سقوط کرد",
-    "title_en": "NASA space telescope plunges to Earth after two decades studying cosmic explosions",
-    "summary": [
-      "‏تلسکوپ ناسا پس از ۲۲ سال فعالیت به اتمسفر زمین وارد شد و سقوط کرد",
-      "‏پایان این ماموریت مهم علمی که انفجارهای کیهانی را بررسی می‌کرد، نقطه‌ای در پژوهش‌های اخترفیزیک است",
-      "‏این تلسکوپ که به نام Swift شناخته می‌شود، در سال ۲۰۰۴ به فضا پرتاب شد"
-    ],
-    "body_fa": "‏تلسکوپ فضایی Swift که توسط ناسا در سال ۲۰۰۴ به فضا ارسال شد، به مدت ۲۲ سال به مطالعهٔ انفجارهای گاما و دیگر پدیده‌های کیهانی می‌پرداخت. در اوایل ماه جاری، این سازه پس از اتمام مأموریتش به اتمسفر زمین وارد شد و در طول عبور از لایه‌های بالایی جو به طور کامل سوزانده شد. هیچ خسارت یا آسیبی به مردم یا زیرساخت‌ها وارد نشد. این بازگشت به زمین پایان یک دورهٔ مهم در پژوهش‌های اخترفیزیک است و نشان می‌دهد که فناوری‌های قدیمی می‌توانند پس از اتمام عمر مفید خود به‌صورت ایمن از بین بروند. ناسا اعلام کرد که داده‌های جمع‌آوری‌شده توسط Swift برای سال‌های آینده در دسترس پژوهشگران خواهد بود.",
-    "category": "تکنولوژی",
-    "subcategory": "فضا و کاوش",
-    "tag": "NASA",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Associated Press News",
-    "url": "https://apnews.com/article/swift-observatory-telescope-hubble-5c19afdd7867dc88d68ea61dba1fbaee",
-    "clean_url": "https://apnews.com/article/swift-observatory-telescope-hubble-5c19afdd7867dc88d68ea61dba1fbaee",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793792460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d9eb898545",
-    "title_fa": "‏پیروزی دمکرات‌ها در انتخابات آمریکا، سهام انرژی تجدیدپذیر می‌پرند",
-    "title_en": "Renewables Stocks Soar as Democrats Sweep U.S. Congress | OilPrice.com",
-    "summary": [
-      "‏پس از پیروزی گسترده دمکرات‌ها در انتخابات میانی آمریکا، سهام شرکت‌های انرژی تجدیدپذیر در آسیا و اروپا بالا رفت.",
-      "‏سرمایه‌گذاران انتظار دارند کنترل دمکرات‌ها بر کنگره سیاست‌های پاک را تقویت کند و فشار بر انرژی‌های فسیلی را کاهش دهد.",
-      "‏سهام اورستد دانمارک 6 ٪ و هانوا سولوشنز کره‌جنوبی 18 ٪ در بازگشایی بازارها افزایش یافت."
-    ],
-    "body_fa": "‏انتخابات میانی آمریکا که دمکرات‌ها کنترل هر دو مجلس را به دست گرفتند، باعث تغییر چشمگیر در انتظارات بازار شد. سرمایه‌گذاران به‌سرعت به سمت سهام شرکت‌های انرژی تجدیدپذیر در آسیا و اروپا حرکت کردند و قیمت‌های آن‌ها در بازگشایی بازارها افزایش یافت. اورستد دانمارک، بزرگ‌ترین توسعه‌دهنده مزارع بادی فراساحلی، 6 ٪ و Vestas 5 ٪ رشد کردند؛ در کره‌جنوبی، Hanwha Solutions 18 ٪ و HD Hyundai Energy Solutions 12 ٪ صعود کردند. این «تجارت آبی» نشان می‌دهد سرمایه‌گذاران از سیاست‌های حمایتی دمکرات‌ها نسبت به انرژی پاک انتظار دارند و در عوض از سهام هوش مصنوعی و مراکز داده دور می‌شوند. تحلیل‌گران هشدار می‌دهند این روند می‌تواند فشار بر صنایع چپ‌سفید و شرکت‌های فناوری را افزایش دهد و مسیر سرمایه‌گذاری در انرژی‌های تجدیدپذیر را تقویت کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "سهام انرژی تجدیدپذیر",
-    "tag": "renewables",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Renewables-Stocks-Soar-as-Democrats-Sweep-US-Congress.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Renewables-Stocks-Soar-as-Democrats-Sweep-US-Congress.html",
-    "image": "https://s.yimg.com/bo/078d9151-633a-5b89-9e57-acead25393fc_1793792807304.jpg",
-    "timestamp": 1793791009.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b8f7c10a41",
-    "title_fa": "‏CVS Health تا نیمه اول 2028 شرکت‌های جداگانه می‌سازد",
-    "title_en": "CVS to split off drugstore business in major breakup of healthcare giant",
-    "summary": [
-      "‏CVS Health اعلام کرد تا اول 2028 دو شرکت عمومی جدا از هم ایجاد می‌کند؛ داروخانه‌ها و بخش بیمه‌گری جدا می‌شوند.",
-      "‏این تصمیم پس از بازنگری استراتژیک، ارزش بازار CVS را به 117 میلیارد دلار می‌رساند و می‌تواند ساختار بهداشت آمریکا را تغییر دهد.",
-      "‏شرکت بیمه‌ای Aetna و PBM Caremark تحت نام CVS Health باقی می‌مانند."
-    ],
-    "body_fa": "‏CVS Health روز چهارشنبه اعلام کرد که برنامه دارد تا نیمه اول سال 2028 به دو شرکت عمومی جدا تقسیم شود. این جداسازی بخش‌های داروخانه‌ای که حدود 9,000 فروشگاه دارد را از بخش بیمه‌گری و مدیریت مزایای دارویی Caremark جدا می‌کند. این تصمیم پس از یک بازنگری استراتژیک گسترده توسط هیئت مدیره و پس از پیشرفت برنامه بازسازی تحت رهبری دیوید جوی‌نر اتخاذ شد. ارزش بازار CVS پس از افزایش 70 درصدی سهام به 117 میلیارد دلار رسیده و تقسیم شرکت می‌تواند تأثیر قابل‌توجهی بر بازارهای بهداشت و دارو در ایالات متحده داشته باشد. بخش بیمه و PBM تحت نام CVS Health باقی می‌مانند، در حالی که شرکت جدید داروخانه‌ای با نام CVS Pharmacy رهبری پرم شاه را به عهده خواهد گرفت. این جداسازی می‌تواند به هر دو شرکت اجازه دهد تا استراتژی‌های متمرکزتر، نوآوری بیشتر و بهره‌وری بالاتر را دنبال کنند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "تقسیم شرکت‌های بزرگ",
-    "tag": "CVS",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-    "clean_url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-    "image": "https://s.yimg.com/bo/cf9620d7-3f12-5379-aee5-42b4f6114579_1793793148883.jpg",
-    "timestamp": 1793791009.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a1fa0dda69",
-    "title_fa": "‏قیمت بیت‌کوین بالای ۸۰٬۰۰۰ دلار پس از هک بایننس بازگشت",
-    "title_en": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-    "summary": [
-      "‏بیت‌کوین پس از سقوط، قیمتش به بیش از ۸۰٬۰۰۰ دلار رسید.",
-      "‏بازار رمزارزها به انتخابات میانی و هک بایننس واکنش کمی نشان دادند.",
-      "‏اتریوم نزدیک به ۶٪ افزایش یافت و سهام رمزارزها نیز رشد کردند."
-    ],
-    "body_fa": "‏بیت‌کوین پس از کاهش‌های اخیر، قیمتش را به بالای ۸۰٬۰۰۰ دلار برگرداند. این صعود همزمان با پایان انتخابات میانی ایالات متحده و هک اخیر صرافی بایننس رخ داد. اتریوم نزدیک به ۶٪ افزایش یافت و سهام شرکت‌های فعال در حوزه رمزارز نیز به‌طور قابل‌توجهی رشد کردند. شرکت سرمایه‌گذاری Bitwise اعلام کرد واکنش کم‌نظیر بازار به هک بایننس نشان‌دهندهٔ بلوغ بیشتر سرمایه‌گذاران است. این تحولات نشان می‌دهد که نوسانات سیاسی و امنیتی دیگر توانایی سرکوب حرکات صعودی در بازار رمزارزها را ندارند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "بیت‌کوین",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
-    "clean_url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793790120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "82f9692d99",
-    "title_fa": "‏قیمت طلا به بالای ۴٬۰۰۰ دلار رسید",
-    "title_en": "Gold Price Today: Here's Why Gold Is Up Right Now",
-    "summary": [
-      "‏قیمت طلا امروز به بالای ۴٬۰۰۰ دلار رسید و بیش از ۲٪ افزایش یافت.",
-      "‏کاهش ارزش دلار و سود اوراق قرضه، به‌همراه عدم‌اطمینان پس از انتخابات میدترم، تقاضا برای طلا را تقویت کرد.",
-      "‏ورودی‌های ۲۱۱ تن به ETF های فیزیکی طلا و خریدهای مرکزی ۳۲۱ تن نیز صعود را حمایت کردند."
-    ],
-    "body_fa": "‏قیمت لحظه‌ای طلا در تاریخ ۴ نوامبر حدود ۴٬۰۱۶ دلار ثبت شد؛ این سطح پس از جهشی بیش از دو درصدی به بالای ۴٬۰۰۰ دلار رسید. ضعف دلار آمریکا و کاهش بازده اوراق خزانه‌داری، هزینه فرصت نگهداری طلا را کاهش داد و خریداران را جذب کرد. عدم‌اطمینان سیاسی پس از انتخابات میدترم ایالات متحده نیز تقاضا برای دارایی‌های امن را افزایش داد. تحلیل‌گر اوتاویو کوستا معتقد است که موقعیت‌های خرید دلار در سطوح تاریخی است و اگر نرخ بهره کاهش یابد، دلار ممکن است فشار بیشتری بر طلا وارد کند. علاوه بر این، جریان‌های ورودی ۲۱۱ تن به ETF های فیزیکی طلا و خریدهای بانک‌های مرکزی به میزان ۳۲۱ تن، که بالاترین سطح سه‌ماهه از اواخر ۲۰۲۴ است، صعود اخیر را تقویت کرده‌اند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CaptainAltcoin",
-    "url": "https://captainaltcoin.com/gold-price-today-heres-why-gold-is-up-right-now/",
-    "clean_url": "https://captainaltcoin.com/gold-price-today-heres-why-gold-is-up-right-now",
-    "image": "https://captainaltcoin.com/wp-content/uploads/2026/08/GOLD-PRICE.png",
-    "timestamp": 1793789940.0,
     "sent_to_telegram": true
   }
 ]
