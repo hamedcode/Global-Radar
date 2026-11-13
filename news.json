@@ -1,5 +1,93 @@
 [
   {
+    "id": "e9db4b9349",
+    "title_fa": "‏هیئت‌مدیره Nvidia برای جانشینی Huang به Rene Haas مراجعه کرد",
+    "title_en": "Nvidia approached Arm CEO Haas to succeed Huang, FT reports",
+    "summary": [
+      "‏هیئت‌مدیره Nvidia به Rene Haas ، مدیرعامل Arm ، برای جایگزینی Jensen Huang مراجعه کرد",
+      "‏این اقدام نشان‌دهنده برنامه‌ریزی برای تغییر رهبری در شرکتی است که در بازار چیپ‌های هوش مصنوعی نقش کلیدی دارد",
+      "‏اگر این انتقال رخ دهد، می‌تواند بر استراتژی محصولات و روابط Nvidia با مشتریان بزرگ تأثیر بگذارد"
+    ],
+    "body_fa": "‏هیئت‌مدیره Nvidia به‌طور رسمی با Rene Haas ، مدیرعامل Arm Holdings ، تماس گرفته تا امکان جانشینی Jensen Huang را بررسی کند. این گام نشان می‌دهد که شرکت برای آینده‌ای بدون Huang برنامه‌ریزی می‌کند، در حالی که Huang به‌عنوان بنیان‌گذار و چهره اصلی Nvidia شناخته می‌شود. Nvidia به‌عنوان پیشرو در پردازنده‌های هوش مصنوعی، تغییر رهبری می‌تواند مسیر توسعه محصولات و استراتژی‌های تجاری را تحت تأثیر قرار دهد. بازارهای مالی نیز به این خبر واکنش نشان داده‌اند و سهام Nvidia تحت فشار قرار گرفته است. اگر Haas پذیرفته شود، روابط Nvidia با Arm و سایر شرکای فناوری ممکن است بازنگری شود.",
+    "category": "تکنولوژی",
+    "subcategory": "رهبری فناوری",
+    "tag": "Nvidia",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/arms-haas-approached-by-nvidia-board-part-ceo-search-ft-reports-2026-11-13/",
+    "clean_url": "https://www.reuters.com/business/media-telecom/arms-haas-approached-by-nvidia-board-part-ceo-search-ft-reports-2026-11-13",
+    "image": "https://s.yimg.com/bo/e994f5d9-66d3-5743-b99c-0ee946be727b_1794590480134.jpg",
+    "timestamp": 1794589672.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4bc41930de",
+    "title_fa": "‏دستگاه‌های هوشمند در معرض هک شدن هستند",
+    "title_en": "Our New Cybersecurity Reality: If It’s ‘Smart,’ It’s Hackable",
+    "summary": [
+      "‏دستگاه‌های هوشمند به دلیل اتصال به اینترنت هدف هکرها شدند",
+      "‏این خطر امنیت سایبری را تشدید می‌کند و نیاز به راهکارهای جدید دارد",
+      "‏هوش مصنوعی (AI) در تشخیص یک بیماری نادر موفقیت نشان داد"
+    ],
+    "body_fa": "‏در مقالهٔ اخیر دیوارِسِتِت جورنال، کارشناسان هشدار دادند که هرچه دستگاه‌های «هوشمند» بیشتر شوند، هکرها فرصت‌های بیشتری برای نفوذ پیدا می‌کنند. از یخچال‌های متصل تا دوربین‌های مداربسته، ضعف‌های نرم‌افزاری و عدم به‌روزرسانی منظم باعث می‌شود این تجهیزات به سلاحی برای سرقت داده‌ها تبدیل شوند. نویسندگان تأکید کردند که برای مقابله با این تهدید، شرکت‌ها باید امنیت را در مرحلهٔ طراحی محصول لحاظ کنند و کاربران نیز باید به‌روزرسانی‌های امنیتی را جدی بگیرند. در بخش دیگری از گزارش، هوش مصنوعی (AI) موفق به تشخیص یک بیماری نادر شد که حتی پزشکان نیز نتوانستند شناسایی کنند، نشان‌دهندهٔ توانمندی‌های مثبت این فناوری است. مقاله همچنین به فشارهای بین‌المللی برای حفاظت از شکارهای نمادین در آفریقا اشاره کرد، اما تمرکز اصلی بر خطرات سایبری دستگاه‌های هوشمند باقی ماند.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "هک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/tech/ai/our-new-cybersecurity-reality-if-its-smart-its-hackable-44bcef4e",
+    "clean_url": "https://www.wsj.com/tech/ai/our-new-cybersecurity-reality-if-its-smart-its-hackable-44bcef4e",
+    "image": "https://s.yimg.com/bo/a227a4ac-6703-5f05-bf97-e3103e062230_1794590306967.jpg",
+    "timestamp": 1794588891.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "93e8574be7",
+    "title_fa": "‏قیمت بیت‌کوین ۲۱٪ افت کرد؛ شبیه‌سازی فروش پیش‌IPO اسپیس‌اکس",
+    "title_en": "Bitcoin’s six-week slide draws parallels with sell-off before SpaceX IPO",
+    "summary": [
+      "‏بیت‌کوین در شش هفته اخیر ۲۱٪ کاهش یافت.",
+      "‏سرمایه‌گذاران به دلیل انتظار از لیست شدن Anthropic و رهبری Nvidia در هوش مصنوعی، سرمایه را از رمزارزها خارج کردند.",
+      "‏تحلیل‌گران این روند را مشابه فروش قبل از IPO شرکت SpaceX می‌دانند."
+    ],
+    "body_fa": "‏بیت‌کوین در شش هفتهٔ گذشته حدود ۲۱٪ کاهش یافت و تا کنون در سال جاری ۲۱٪ سقوط کرده است. این افت به دلیل انتظارات سرمایه‌گذاران از لیست شدن شرکت هوش مصنوعی Anthropic و تأثیر رهبری Nvidia در بازار هوش مصنوعی است که باعث جابجایی سرمایه از دارایی‌های دیجیتال به سهام فناوری شد. تحلیل‌گران این حرکت را با فروش پیش از IPO شرکت SpaceX مقایسه می‌کنند، جایی که سرمایه‌گذاران پیش از عرضه عمومی سهام، دارایی‌های پرریسک را می‌فروشند. این روند نشان می‌دهد که تمایل بازار به سمت دارایی‌های مرتبط با هوش مصنوعی در حال افزایش است و بیت‌کوین به عنوان دارایی ریسک‌پذیر تحت فشار قرار گرفته است. کارشناسان پیش‌بینی می‌کنند که تا زمان روشن شدن جزئیات لیست شدن Anthropic ، نوسانات قیمتی بیت‌کوین ادامه خواهد یافت.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+    "image": "https://s.yimg.com/bo/20d9c34e-ea2d-5973-9752-ac9279ae5ad1_1794586372239.png.cf.jpg",
+    "timestamp": 1794586972.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8664c5f9ae",
+    "title_fa": "‏صندوق‌های ارزش‌گذاری به‌صورت مخفیانه پر از سهام هوش مصنوعی شدند",
+    "title_en": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
+    "summary": [
+      "‏صندوق‌های ارزش‌گذاری که معمولاً سبدی از سهام ارزان و کم‌نوسان دارند، به‌طور قابل‌توجهی شامل سهام شرکت‌های هوش مصنوعی شده‌اند.",
+      "‏این ترکیب باعث می‌شود سرمایه‌گذاران به‌جای سبدهای ساده، در معرض ریسک و نوسان بالای فناوری‌های نوظهور قرار گیرند.",
+      "‏در نتیجه، ارزیابی ارزش واقعی این صندوق‌ها برای تحلیل‌گران و سرمایه‌گذاران اهمیت بیشتری پیدا می‌کند."
+    ],
+    "body_fa": "‏صندوق‌های ارزش‌گذاری که معمولاً به‌عنوان سبدی از سهام ارزان و کم‌نوسان شناخته می‌شوند، اخیراً ترکیبی غیرمنتظره از سهام شرکت‌های هوش مصنوعی را در پرتفوی خود دارند. این تغییر نشان می‌دهد که سرمایه‌گذاران به‌دنبال بهره‌برداری از رشد سریع هوش مصنوعی، حتی در ابزارهای سرمایه‌گذاری سنتی، هستند. در نتیجه، سبدهای این صندوق‌ها دیگر به‌عنوان «سکه‌های ارزان» شناخته نمی‌شوند و ریسک نوسان آن‌ها افزایش یافته است. تحلیل‌گران هشدار می‌دهند که ارزیابی دقیق ارزش واقعی این صندوق‌ها برای سرمایه‌گذاران ضروری است تا از مواجهه ناخواسته با نوسانات فناوری‌های نوین جلوگیری کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری",
+    "tag": "هوش مصنوعی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe",
+    "clean_url": "https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe",
+    "image": "https://s.yimg.com/bo/fa65c305-b07e-5a40-8c40-bf3fb0504cba_1794579345848.jpg",
+    "timestamp": 1794579771.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "6b60b827b7",
     "title_fa": "‏گزارش سود Nvidia می‌تواند بازار را دچار نوسان کند",
     "title_en": "The Nvidia Earnings Report Could Wreck The Market",
@@ -19,6 +107,28 @@
     "clean_url": "https://seekingalpha.com/article/4967764-nvidia-earnings-report-could-wreck-the-market",
     "image": "https://www.bing.com/th?id=ONUT.hltq6ZLQdMLCb7kE63IYUA",
     "timestamp": 1794577002.0687635,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "22e8da4548",
+    "title_fa": "‏NHTSA مالکین 720,000 BMW را به پارک بیرونی توصیه کرد",
+    "title_en": "US urges owners of 720,000 BMW vehicles to park outside over fire risks",
+    "summary": [
+      "‏NHTSA مالکین بیش از 720,000 خودروی BMW را به پارک در فضای باز به‌جای پارکینگ‌های بسته توصیه کرد.",
+      "‏این اقدام به دلیل خطر آتش‌سوزی ناشی از نشت خنک‌کننده باتری در برخی مدل‌ها انجام شد.",
+      "‏مالکین می‌توانند برای دریافت اطلاعات دقیق به وب‌سایت NHTSA مراجعه کنند."
+    ],
+    "body_fa": "‏NHTSA در بیانیه‌ای اعلام کرد که خطر آتش‌سوزی در بیش از 720,000 خودروی BMW به‌خصوص مدل‌های سال‌های اخیر وجود دارد. این خطر ناشی از نشت خنک‌کننده باتری است که می‌تواند منجر به شعله‌ور شدن خودرو در پارکینگ‌های بسته شود. به‌همین دلیل، سازمان توصیه می‌کند مالکان خودروهای مذکور در فضای باز یا پارک‌های بیرونی خودرو را پارک کنند تا خطر گسترش آتش کاهش یابد. همچنین، NHTSA خواستار بررسی‌های فنی توسط نمایندگی‌های BMW و ارائه راهنمایی‌های تعمیر یا تعویض قطعات معیوب است. مالکان می‌توانند جزئیات دقیق مدل‌های تحت تأثیر و مراحل اقدام را از وب‌سایت رسمی NHTSA دریافت کنند.",
+    "category": "تکنولوژی",
+    "subcategory": "ایمنی خودرو",
+    "tag": "BMW",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-urges-owners-720000-bmw-vehicles-park-outside-over-fire-risks-2026-11-13/",
+    "clean_url": "https://www.reuters.com/world/us-urges-owners-720000-bmw-vehicles-park-outside-over-fire-risks-2026-11-13",
+    "image": "https://s.yimg.com/bo/637b1a3d-5a83-5103-a186-dcaee1a4c245_1792991987784.jpg",
+    "timestamp": 1794576172.0,
     "sent_to_telegram": true
   },
   {
@@ -63,6 +173,28 @@
     "clean_url": "https://oilprice.com/Energy/Energy-General/Why-Falling-Oil-Prices-Wont-Save-America-From-Inflation.html",
     "image": "https://s.yimg.com/bo/fcf13165-4a6f-5e8e-9946-0f2cc61ca015_1794575114086.jpg",
     "timestamp": 1794573002.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b83aa3c08a",
+    "title_fa": "‏قیمت بیت‌کوین زیر ۷۰٬۰۰۰ دلار افتاد",
+    "title_en": "Bitcoin falls below $70,000 as dollar surges and $1.6 billion liquidated",
+    "summary": [
+      "‏بیت‌کوین برای اولین بار از آگوست زیر ۷۰٬۰۰۰ دلار شد",
+      "‏قیمت ۳٫۵٪ کاهش یافت و باعث لایکوییدیشن $1.6billion شد",
+      "‏این حرکت در پی تقویت دلار و فشارهای بازار دیجیتال است"
+    ],
+    "body_fa": "‏بیت‌کوین (BTC) برای اولین بار از آگوست قیمتش زیر ۷۰٬۰۰۰ دلار شد و از نیمه‌شب تا کنون ۳٫۵٪ کاهش یافته است. این افت در پی رشد ناگهانی دلار آمریکا رخ داد و منجر به لایکوییدیشن حدود $1.6billion در بازارهای مشتقه شد. معامله‌گران به دلیل نوسان شدید و فشارهای خرید و فروش، موقعیت‌های خود را بسته یا تعدیل کردند. تحلیل‌گران هشدار دادند که ادامهٔ تقویت دلار می‌تواند فشار بیشتری بر قیمت بیت‌کوین وارد کند. این رویداد نشان می‌دهد که بازار رمزارزها همچنان به تحولات ارزی جهانی حساس است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+    "image": "https://s.yimg.com/bo/eef33bdc-1e7e-593e-a8a3-acd128f8648e_1794571667048.png.cf.jpg",
+    "timestamp": 1794568972.0,
     "sent_to_telegram": true
   },
   {
@@ -132,6 +264,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "b6a3e5370f",
+    "title_fa": "‏سرمایه‌گذاران H&R فروش به Blackstone و GO را رد کردند",
+    "title_en": "H&R Investors Vote Down Sale to Blackstone and GO, Rebuking CEO",
+    "summary": [
+      "‏سرمایه‌گذاران H&R در جلسه رأی‌گیری، پیشنهاد فروش شرکت به Blackstone و GO را رد کردند.",
+      "‏این رد فروش نشان‌دهنده نارضایتی سهامداران از استراتژی مدیرعامل است و می‌تواند مسیر رشد شرکت را تغییر دهد.",
+      "‏مدیرعامل مورد انتقاد قرار گرفت و فشار برای تغییر برنامه‌های آینده افزایش یافت."
+    ],
+    "body_fa": "‏در جلسه اخیر سهامداران H&R ، پیشنهاد فروش شرکت به دو سرمایه‌گذار Blackstone و GO با اکثریت رأی رد شد. این تصمیم علاوه بر جلوگیری از ادغام پیشنهادی، نشانگر نارضایتی گسترده سهامداران از عملکرد و شفافیت مدیرعامل بود. اعضای جلسه به‌طور واضحی به مدیرعامل انتقاد کردند و خواستار تغییر در استراتژی‌های آینده شدند. رد این معامله می‌تواند ارزش‌گذاری شرکت را تحت تأثیر قرار داده و مسیر رشد آن را به سمت گزینه‌های دیگر سوق دهد. همچنین این رویداد پیام واضحی به بازار درباره اهمیت حاکمیت شرکتی می‌فرستد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ادغام و تملک",
+    "tag": "فروش",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794557160.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9558e5c97f",
+    "title_fa": "‏سفارش‌های سهام IPO Anthropic از چین رد شد",
+    "title_en": "Anthropic IPO Share Orders From China Are Said to Be Rebuffed",
+    "summary": [
+      "‏سرمایه‌گذاران چینی نتوانستند برای IPO شرکت هوش مصنوعی Anthropic سهام بخرید.",
+      "‏این رد سفارش‌ها می‌تواند جذب سرمایه و ارزیابی ارزش شرکت را تحت تأثیر قرار دهد و نشانگر تنش‌های فناوری بین آمریکا و چین است.",
+      "‏Anthropic در حال هدف‌گیری جذب بیش از 2 میلیارد دلار در عرضه عمومی خود است."
+    ],
+    "body_fa": "‏شرکت هوش مصنوعی Anthropic که قصد دارد در بازار بورس آمریکا به‌صورت عمومی عرضه شود، با رد سفارش‌های سرمایه‌گذاران چینی مواجه شد. این تصمیم احتمالاً ناشی از محدودیت‌های نظارتی ایالات متحده نسبت به سرمایه‌گذاری‌های چینی در فناوری‌های پیشرفته است. رد این سفارش‌ها می‌تواند تقاضای کل برای سهام IPO را کاهش داده و بر قیمت نهایی عرضه تأثیر بگذارد. علاوه بر این، این رویداد نشانگر ادامه تنش‌های تجاری و فناوری بین دو قدرت بزرگ است که می‌تواند بر سایر شرکت‌های فناوری‌محور نیز سرایت کند. بازار سرمایه‌گذاران بین‌المللی به دقت واکنش‌های بعدی این شرکت و تأثیرات احتمالی بر جذب سرمایه را دنبال خواهد کرد.",
+    "category": "تکنولوژی",
+    "subcategory": "بازار سرمایه",
+    "tag": "Anthropic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794555420.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3f8c2a9853",
+    "title_fa": "‏Uber اعلام کرد هکرها اطلاعات گواهینامه رانندگان را دزدیدند",
+    "title_en": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+    "summary": [
+      "‏Uber به بیش از ۷۰۰۰ راننده اطلاع داد اطلاعات گواهینامه‌شان در نفوذ به Fireworks AI سرقت شد.",
+      "‏این نفوذ می‌تواند به خطر افتادن حریم شخصی رانندگان و فشارهای نظارتی بر Uber منجر شود.",
+      "‏هکرها به‌دنبال فروش توکن‌های دسترسی به مدل‌های زبانی بزرگ هستند."
+    ],
+    "body_fa": "‏Uber اعلام کرد که در یک نفوذ به سرویس‌گذار ثالث خود Fireworks AI ، اطلاعات گواهینامه رانندگان دزدیده شده است. این شرکت در اواخر اکتبر متوجه شد که هکرها به اعتبارنامه‌های داخلی دسترسی پیدا کرده و داده‌های شخصی رانندگان را استخراج کرده‌اند. بر اساس اطلاعیه‌های ارسالی به مقامات ایالتی، اطلاعات گواهینامه ۲٬۵۶۷ راننده در ماساچوست، ۳٬۴۳۰ نفر در کارولینای جنوبی و ۱٬۸۷۳ نفر در رودآیلند به سرقت رفته است و تعداد افراد در ایلی‌نویس و کالیفرنیا هنوز مشخص نیست. Fireworks AI که به توسعه‌دهندگان امکان استفاده از مدل‌های هوش مصنوعی باز را می‌دهد، این نفوذ را به یک گروه سایبری مالی‌محور نسبت می‌دهد که قصد فروش توکن‌های دسترسی به مدل‌های زبانی بزرگ را دارد. این دومین نفوذ شناخته‌شده Uber در سال جاری است؛ پیش از این شرکت در واحد حمل‌ونقل بار Uber Freight نیز مورد حمله قرار گرفته بود.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "دیتابریک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "clean_url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?resize=1200,676",
+    "timestamp": 1794552960.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "fc510fc45e",
     "title_fa": "‏کاهش دسترسی چین به چیپ‌های پیشرفته Nvidia با توافق کنگره",
     "title_en": "China's access to some Nvidia chips in doubt as curbs gain traction in US...",
@@ -151,6 +349,50 @@
     "clean_url": "https://www.yahoo.com/news/politics/articles/speaker-johnson-says-congress-developing-143530401.html",
     "image": "https://media.zenfs.com/en/reuters.com/4a1a9af069aa86314ce126b789361ce0.jpg",
     "timestamp": 1794551158.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "99b3b87a03",
+    "title_fa": "‏تورم تولیدکنندگان آمریکا ماه گذشته کاهش یافت اما هنوز بالاست",
+    "title_en": "Producer-Price Inflation Cooled Last Month, Remains Elevated",
+    "summary": [
+      "‏قیمت‌های تولیدکنندگان در آمریکا در ماه گذشته کمتر از رشد سریع سپتامبر افزایش یافت.",
+      "‏این کاهش تورم عمده‌فروش نشان می‌دهد فشارهای قیمتی کمی فروکش کرده‌اند، اما سطح هنوز بالاتر از روند است.",
+      "‏پیش‌بینی‌ها نشان می‌دهند که این روند می‌تواند بر تصمیمات فدرال‌رزرو تأثیر بگذارد."
+    ],
+    "body_fa": "‏آمار جدید تورم عمده‌فروش (PPI) ایالات متحده نشان می‌دهد که قیمت‌های تولیدکنندگان در ماه گذشته با سرعت کمتری نسبت به سپتامبر افزایش یافته‌اند. در مقایسه با رشد شدید ماه سپتامبر، افزایش ماهانه PPI به 0.2 درصد کاهش یافت که نشانگر خنک شدن فشارهای قیمتی است. با این حال، سطح سالانه این شاخص هنوز حدود 4.5 درصد است که به‌مراتب بالاتر از روند هدف تورمی فدرال‌رزرو می‌باشد. تحلیل‌گران بر این باورند که این کاهش جزئی می‌تواند به کاهش اضطراب‌های بازار دربارهٔ فشارهای تورمی کمک کند. در عین حال، داده‌های بالای هدف ممکن است فدرال‌رزرو را در تصمیم‌گیری دربارهٔ نرخ بهره محتاط نگه دارد. به‌طور کلی، این گزارش نشان می‌دهد که اگرچه تورم عمده‌فروش در کوتاه‌مدت خنک شده، اما هنوز تهدیدی برای سیاست‌های پولی باقی مانده است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تورم عمده‌فروش",
+    "tag": "PPI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/economy/central-banking/producer-price-inflation-cooled-last-month-remains-elevated-d2d4007f",
+    "clean_url": "https://www.wsj.com/economy/central-banking/producer-price-inflation-cooled-last-month-remains-elevated-d2d4007f",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794549900.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9b792ab54e",
+    "title_fa": "‏خزانه‌داری آمریکا فدرال رزرو نرخ‌بهره شوک انرژی ایران منع کرد",
+    "title_en": "US Treasury chief says Fed should not hike rates over energy shock tied to Iran war",
+    "summary": [
+      "‏وزیر خزانه‌داری آمریکا، اسکات بسن، گفت فدرال رزرو نباید به‌دلیل شوک انرژی ناشی از جنگ ایران نرخ بهره را افزایش دهد.",
+      "‏این اظهارنظر می‌تواند فشار بر تصمیمات پولی فدرال رزرو را کاهش داده و بازارهای مالی را از نوسان شدید محافظت کند.",
+      "‏بسن افزود که سیاست‌گذاران باید با دید باز به شرایط انرژی نگاه کنند."
+    ],
+    "body_fa": "‏اسکات بسن، وزیر خزانه‌داری ایالات متحده، روز جمعه اعلام کرد فدرال رزرو نباید به‌دلیل شوک تأمین انرژی ناشی از جنگ ایران نرخ بهره را بالا ببرد. او تأکید کرد که سیاست‌گذاران باید با دید باز به تحولات انرژی نگاه کنند تا تصمیمات پولی به‌صورت معقول اتخاذ شود. این نظر می‌تواند فشار بر فدرال رزرو برای ادامهٔ افزایش نرخ‌ها را کاهش دهد و به ثبات بازارهای مالی کمک کند. در صورت پذیرش این رویکرد، احتمال کاهش نوسانات ارزی و سهام در کوتاه‌مدت افزایش می‌یابد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "Fed",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-iran-war-2026-11-13/",
+    "clean_url": "https://www.reuters.com/business/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-iran-war-2026-11-13",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794549660.0,
     "sent_to_telegram": true
   },
   {
@@ -220,6 +462,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "294ce6101f",
+    "title_fa": "‏گلدمن پیش‌بینی می‌کند S&P 500 تا ۱۴٪ رشد کند",
+    "title_en": "Goldman Sees S&P 500 Rising 14% on Cheap Hyperscaler Valuations",
+    "summary": [
+      "‏گلدمن ساکس پیش‌بینی کرد شاخص S&P 500 در سال آینده ۱۴٪ افزایش یابد.",
+      "‏این رشد به ارزیابی‌های ارزان شرکت‌های ابرمحاسبه (hyperscalers) نسبت داده می‌شود.",
+      "‏پیش‌بینی می‌تواند تصمیمات سرمایه‌گذاران را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏تحلیل‌گران گلدمن ساکس در یک یادداشت تحقیقاتی اعلام کردند که شاخص S&P 500 می‌تواند در سال آینده حدود ۱۴٪ افزایش یابد. این پیش‌بینی بر پایه ارزیابی‌های نسبتاً ارزان شرکت‌های ابرمحاسبه‌ای مانند Amazon ، Microsoft و Google است که به دلیل چندین برابر پایین‌تر نسبت به تاریخچه، پتانسیل رشد دارند. تحلیل‌گران اشاره کردند که اگر این پیش‌بینی تحقق یابد، شاخص می‌تواند به حدود ۵۰۰۰ نقطه برسد. این دیدگاه می‌تواند استراتژی‌های سرمایه‌گذاری و تخصیص دارایی‌ها را در میان سرمایه‌گذاران مؤثر سازد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "پیش‌بینی شاخص",
+    "tag": "S&P500",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794536040.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "2b03e78143",
     "title_fa": "‏id Software پروژه جدید Doom را تأیید کرد",
     "title_en": "New 'Doom game' confirmed, id Software reveals next project following Xbox studio layoffs",
@@ -242,6 +506,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "6d235d5792",
+    "title_fa": "‏قطعی سرویس‌های Microsoft باعث بازنویسی برنامه‌های درمانی NHS شد",
+    "title_en": "NHS Forced to Reschedule Procedures After Microsoft Outage",
+    "summary": [
+      "‏بیمارستان‌های NHS پس از قطعی سرویس‌های Microsoft برنامه‌های جراحی و درمانی را به‌تاخیر بیندازد.",
+      "‏این قطعی باعث اختلال در زمان‌بندی مراقبت‌های بهداشتی ملی و فشار بر بیمارستان‌ها شد.",
+      "‏سرویس‌های Azure مایکروسافت برای چند ساعت در دسترس نبودند."
+    ],
+    "body_fa": "‏قطعی سرویس‌های Azure مایکروسافت باعث اختلال گسترده در سامانه‌های دیجیتال NHS شد. به‌دلیل عدم دسترسی به پلتفرم‌های ابری، بیمارستان‌ها مجبور به بازنویسی زمان‌بندی جراحی‌ها و درمان‌های برنامه‌ریزی‌شده شدند. این تأخیرها فشار زیادی بر ظرفیت‌های موجود ایجاد کرد و برخی بیماران را مجبور به جابجایی زمان ملاقات کرد. مایکروسافت پس از بررسی علت، اعلام کرد که مشکل فنی در دیتاسنترهای اروپایی بوده و سرویس‌ها پس از چند ساعت بازیابی شدند.",
+    "category": "تکنولوژی",
+    "subcategory": "سخت‌افزار و سرویس‌های ابری",
+    "tag": "Microsoft",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/nhs-forced-to-reschedule-procedures-after-microsoft-outage",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/nhs-forced-to-reschedule-procedures-after-microsoft-outage",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794533400.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ed76fc1822",
     "title_fa": "‏رشد اعتبار چین کمتر از انتظار شد",
     "title_en": "China’s Credit Growth Disappoints Despite Greater Policy Support",
@@ -261,6 +547,28 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/china-s-credit-growth-disappoints-despite-greater-policy-support",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794532320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b1ea867098",
+    "title_fa": "‏آمریکا 1.2 میلیارد دلار هک Binance کره‌شمالی را توقیف کرد",
+    "title_en": "DOJ gets court approval to seize $1.2 billion tied to North Korea's Binance hack",
+    "summary": [
+      "‏دادگستری ایالات متحده با حکم دادگاه، 1.2 میلیارد دلار دارایی مرتبط با هک Binance توسط گروه هکری کره‌شمالی را توقیف کرد.",
+      "‏این اقدام نشان‌دهنده تشدید فشار آمریکا بر شبکه‌های مالی دیجیتال و مقابله با تأمین مالی برنامه‌های هسته‌ای کره‌شمالی است.",
+      "‏توقیف این مبلغ بزرگ می‌تواند به کاهش توان مالی گروه Lazarus و کاهش ریسک‌های سایبری در بازارهای رمزارز منجر شود."
+    ],
+    "body_fa": "‏دادگستری ایالات متحده با موافقت دادگاه، به دادگستری فدرال (DOJ) اجازه داد تا 1.2 میلیارد دلار دارایی‌های مرتبط با هک Binance توسط گروه هکری کره‌شمالی را توقیف کند. این سرقت دیجیتالی که از طریق طرح FaceStealer انجام شد، میلیاردها دلار رمزارز را از کاربران Binance به سمت کیف‌پول‌های تحت کنترل گروه Lazarus هدایت کرد. مقامات فدرال این دارایی‌ها را که شامل ارزهای دیجیتال و حساب‌های بانکی می‌شود، به عنوان اموال مسدود شده در چارچوب تحریم‌های علیه کره‌شمالی شناسایی کردند. این اقدام نشان می‌دهد که ایالات متحده به‌طور جدی به‌دنبال قطع منابع مالی برنامه‌های هسته‌ای و سایبری کره‌شمالی است. توقیف این مبلغ بزرگ می‌تواند فشار اقتصادی بر گروه Lazarus را افزایش داده و ریسک‌های مشابه در بازار رمزارزها را کاهش دهد. کارشناسان پیش‌بینی می‌کنند که این تصمیم ممکن است سایر کشورها را نیز به اتخاذ اقدامات مشابه در برابر جرایم سایبری تشویق کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "جرائم سایبری",
+    "tag": "Binance",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+    "clean_url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+    "image": "https://s.yimg.com/bo/51929d15-e3aa-5383-af5c-5e8ea889e97b_1794524980235.jpg",
+    "timestamp": 1794525772.0,
     "sent_to_telegram": true
   },
   {
@@ -6288,314 +6596,6 @@
     "clean_url": "https://captainaltcoin.com/gold-price-today-heres-why-gold-is-up-right-now",
     "image": "https://captainaltcoin.com/wp-content/uploads/2026/08/GOLD-PRICE.png",
     "timestamp": 1793789940.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "92b608b8af",
-    "title_fa": "‏یک‌سوم استودیوهای خریداری‌شده توسط شرکت‌های بزرگ بسته شدند",
-    "title_en": "Analysis: one in three acquired game studios has been shut down since 2000",
-    "summary": [
-      "‏تحلیل جدید نشان می‌دهد یک‌سوم استودیوهای بازی که توسط شرکت‌های بزرگ از سال 2000 خریداری شدند، پس از آن بسته شده‌اند.",
-      "‏این روند خطرناک برای سرمایه‌گذاران و توسعه‌دهندگان است و نشان می‌دهد خریدهای اخیر شرکت‌ها به‌سرعت منجر به بسته شدن می‌شود.",
-      "‏نیمه‌سال 2023 تا 2026 ، 33 استودیو بسته شد؛ در مقابل فقط یک مورد بین 2019 و 2022."
-    ],
-    "body_fa": "‏سِبَستِیان کاردوسو، تحلیل‌گر سابق Riot ، Crytek و EA ، در یک تحقیق بر روی 303 استودیو بازی که از سال 2000 تا کنون توسط شرکت‌های بزرگ خریداری شده‌اند، دریافت که یک‌سوم این استودیوها به‌طور کامل بسته شده‌اند. نیمهٔ این بسته‌شدن‌ها در عرض پنج سال پس از خرید رخ داده و 60.8 ٪ از استودیوهای خریداری‌شده یا کاهش عملکرد داشته‌اند یا کاملاً تعطیل شده‌اند. نتایج نشان می‌دهد مالکیت شرکت‌های مختلف نقش مهمی دارد؛ تمام دوره‌های مالکیت Activision Blizzard ، Disney ، Midway و Thunderful منجر به کاهش یا بسته شدن شده‌اند، در حالی که Nintendo هیچ استودیویی را در 24 سال خریداری و بسته نکرده است. شرکت‌های دیگر مانند EA (83 ٪)، Microsoft (63 ٪) و Sony (58 ٪) نیز درصد بالایی از استودیوهایشان را از دست داده‌اند. از سال 2023 تا کنون، 33 استودیو بسته شده‌اند، در حالی که فقط یک مورد بین 2019 و 2022 بسته شد، که نشان‌دهنده تسریع روند بسته شدن است. تحلیل کاردوسو همچنین نشان می‌دهد استودیوهای مستقل کمتر تحت فشار هستند؛ تنها 2 ٪ از 50 استودیو مستقل در دورهٔ 2019‑2026 بسته شده‌اند.",
-    "category": "گیم",
-    "subcategory": "ادغام استودیوهای بازی",
-    "tag": "بسته شدن استودیو",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
-    "clean_url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
-    "image": "https://assetsio.gnwcdn.com/ss_8a13650ffe930da77593dae80f0118588c46a5ca.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1793789700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9cf940aa1e",
-    "title_fa": "‏کارآگاه زاک XBT Crédit Mutuel Arkéa را 133M دلار شناسایی کرد",
-    "title_en": "ZachXBT names French bank Crédit Mutuel Arkéa in $133M crypto exchange theft",
-    "summary": [
-      "‏تحقیقات زاک XBT بانک فرانسوی Crédit Mutuel Arkéa را به‌عنوان منبع انتقال 133 میلیون دلار سرقت رمزارز شناسایی کرد.",
-      "‏این کشف می‌تواند فشار نظارتی بر بانک‌ها برای نظارت بر تراکنش‌های رمزارزی را افزایش دهد.",
-      "‏سرقت مربوط به یک صرافی رمزارزی بود که حدود 133 میلیون دلار از دست داد."
-    ],
-    "body_fa": "‏تحقیقات زاک XBT ، کارآگاه زنجیره‌ای، بانک فرانسوی Crédit Mutuel Arkéa را به‌عنوان نقطه انتقال در سرقت 133 میلیون دلاری یک صرافی رمزارزی شناسایی کرد. سرقت مربوط به یک صرافی ناشناخته بود که پس از نفوذ به کیف پول‌های سرد، مبلغی معادل 133 میلیون دلار را از دست داد. بر اساس تجزیه و تحلیل تراکنش‌های بلاکچین، وجوه از حساب‌های این بانک به آدرس‌های متعدد منتقل شد. این کشف احتمالاً باعث بررسی‌های دقیق‌تر نظارتی بر بانک‌ها در زمینه‌ی نظارت بر فعالیت‌های رمزارزی خواهد شد. همچنین، این رویداد می‌تواند فشار بر صرافی‌ها برای بهبود امنیت کیف پول‌های سرد و پیگیری بهتر تراکنش‌ها را افزایش دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "سرقت رمزارز",
-    "tag": "سرقت",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-    "clean_url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-    "image": "https://s.yimg.com/bo/12518307-b170-584c-86d3-7bfd840721ec_1793788354398.jpg",
-    "timestamp": 1793787409.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2dea9f80f5",
-    "title_fa": "‏ایران چهار تانکر نفتی را در تنگه هرمز نابود کرد",
-    "title_en": "Iran Says Four Oil Tankers Destroyed by Mines Near Strait of Hormuz |...",
-    "summary": [
-      "‏چهار تانکر نفتی در جنوب تنگه هرمز پس از برخورد با مین‌های دریایی توسط سپاه پاسداران ایران سوزاند.",
-      "‏این حادثه امنیت ناوگان نفتی را تحت فشار قرار می‌دهد و می‌تواند فشار بر قیمت جهانی نفت را افزایشی کند.",
-      "‏دو کشتی دیگر توسط نیروهای ایرانی توقیف شده‌اند و صادرات نفت خاورمیانه در اکتبر به ۱۶٫۱ میلیون بشکه در روز کاهش یافت."
-    ],
-    "body_fa": "‏سپاه پاسداران انقلاب اسلامی اعلام کرد که چهار تانکر نفتی در جنوب تنگه هرمز پس از برخورد با مین‌های دریایی به‌طور کامل سوزانده شدند. دو کشتی دیگر نیز توسط نیروهای ایرانی توقیف شده‌اند. این حوادث در حالی رخ داد که جریان‌های نفتی خاورمیانه پس از کاهش شدید در بهار، کمی بهبود یافته‌اند اما همچنان تحت فشار امنیتی قرار دارند. بر اساس داده‌های Vortexa ، صادرات نفت، کندانس و سوخت‌های خاورمیانه در اکتبر به ۱۷٫۱ میلیون بشکه در روز کاهش یافت و تخمین می‌شود که جریان‌های کلی به ۱۶٫۱ میلیون بشکه در روز رسیده باشد. تحلیل‌گران هشدار می‌دهند که افزایش خطرات در تنگه هرمز می‌تواند نوسانات قیمت نفت را تشدید کند و پیگیری‌های دقیق‌تری از طریق تصاویر ماهواره‌ای ضروری است.",
-    "category": "انرژی و کالا",
-    "subcategory": "نفت و گاز",
-    "tag": "مین‌های دریایی",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Four-Oil-Tankers-Destroyed-by-Mines-Near-Strait-of-Hormuz.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Four-Oil-Tankers-Destroyed-by-Mines-Near-Strait-of-Hormuz.html",
-    "image": "https://s.yimg.com/bo/6cfda90d-8d30-5e22-82c1-c0586efb54b6_1793789060100.jpg",
-    "timestamp": 1793787409.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f928c63b5c",
-    "title_fa": "‏سرمایه‌گذاری رکوردی الون ماسک در انتخابات آمریکا شکست خورد",
-    "title_en": "Elon Musk’s record election bet backfired. The backlash may reach beyond one bil...",
-    "summary": [
-      "‏الون ماسک بیش از 474 میلیون دلار برای میانه‌دوره‌ها هزینه کرد، نصف آن در تگزاس صرف شد.",
-      "‏پیروزی دموکرات‌ها باعث شکست نامزدهای جمهوری‌خواهی شد و سهام تسلا و اسپیس‌اکس را کاهش داد.",
-      "‏جدیداً فرماندار منتخب تگزاس، جینا هینوجوسا، قول داد مشوق‌های مالیاتی و مراکز داده جدید را متوقف کند."
-    ],
-    "body_fa": "‏الون ماسک در انتخابات میانه‌دوره 2024 بیش از 474 میلیون دلار هزینه کرد، که تقریباً نیمی آن به تگزاس اختصاص یافت. اما دموکرات‌ها با پیروزی گسترده، نامزدهای جمهوری‌خواهی مورد حمایت او مانند کن پکسون و گِرگ ابوت را شکست دادند. این نتایج باعث افت قیمت سهام تسلا و SpaceX شد، شرکتی که تا پیش از این از سیاست‌های تجاری ایالت بهره‌مند بودند. در عین حال، دموکرات‌ها کنترل کنگره را به دست گرفتند و فشار بر صنعت هوش مصنوعی و مراکز داده را افزایش دادند. فرماندار منتخب تگزاس جینا هینوجوسا، که مخالف سوبسیدهای بزرگ شرکت‌هاست، اعلام کرد مشوق‌های مالیاتی و ساخت مراکز داده جدید را متوقف کند. این تحولات نشان می‌دهد که نفوذ مالی میلیاردرها در سیاست آمریکا در حال کاهش است و ممکن است سیاست‌های حمایتی برای صنایع فناوری را تغییر دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "انتخابات آمریکا",
-    "tag": "Musk",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
-    "clean_url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
-    "image": "https://s.yimg.com/bo/4bea569f-996c-58fe-a70d-cd46840610fd_1792517128997.jpg",
-    "timestamp": 1793787409.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "068931619f",
-    "title_fa": "‏بانک Morgan Stanley پیشتاز توکن‌سازی در میان بانک‌های بزرگ شد",
-    "title_en": "Morgan Stanley leads tokenization trend among major banks",
-    "summary": [
-      "‏بانک Morgan Stanley اعلام کرد که در زمینه توکن‌سازی دارایی‌ها پیشگام است",
-      "‏این حرکت نشان‌دهنده رشد پذیرش فناوری بلاکچین در بانک‌های اصلی و می‌تواند خدمات مالی را تحول بخشد",
-      "‏خبر پس از راه‌اندازی توکن‌سازی توسط Depository Trust & Clearing Corporation منتشر شد"
-    ],
-    "body_fa": "‏بانک Morgan Stanley امروز برنامه‌ای برای توکن‌سازی اوراق بهادار و دارایی‌های مالی معرفی کرد و گفت قصد دارد با استفاده از فناوری بلاکچین زمان تسویه‌حساب را کاهش دهد و هزینه‌ها را به‌صرفه‌تر کند. این اقدام پس از راه‌اندازی سرویس توکن‌سازی توسط Depository Trust & Clearing Corporation صورت گرفت و نشان می‌دهد که بانک‌های بزرگ به‌سرعت به سمت این فناوری حرکت می‌کنند. توکن‌سازی می‌تواند شفافیت و امنیت معاملات را افزایش دهد و فرصت‌های جدیدی برای سرمایه‌گذاران ایجاد کند. کارشناسان پیش‌بینی می‌کنند این روند می‌تواند ساختار بازارهای سرمایه را به‌طور اساسی تغییر دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "توکن‌سازی بانکی",
-    "tag": "توکن‌سازی",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
-    "clean_url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
-    "image": "https://s.yimg.com/bo/f694b73c-11e9-5bdc-9fce-230832058ca0_1791590232871.jpg",
-    "timestamp": 1793783809.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "78b686ace5",
-    "title_fa": "‏نفت زیر ۹۰ شد؛ Vance جنگ ایران را مقصر دانست",
-    "title_en": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
-    "summary": [
-      "‏قیمت نفت خام به‌سرعت زیر ۹۰ دلار در هر بشکه سقوط کرد؛ WTI به ۸۸.۱۲ و برنت به ۹۴.۶۲ رسید.",
-      "‏این سقوط به‌دلیل اظهارات JD Vance بود که جنگ ایران را دلیل شکست جمهوری‌خواهان می‌داند و انتظارات بازار از تشدید تنش را کاهش داد.",
-      "‏تحلیل‌گران می‌گویند این رویداد می‌تواند فشار بر قیمت‌ها را تا پایان سال کاهش دهد."
-    ],
-    "body_fa": "‏روز چهارشنبه، قیمت نفت خام به‌سرعت سقوط کرد؛ نفت سبک غرب تگزاس (WTI) ۸۸.۱۲ دلار در هر بشکه و نفت برنت ۹۴.۶۲ دلار ثبت کردند. این کاهش بیش از ۸ درصدی پس از اظهارات معاون رئیس‌جمهور JD Vance بود که جنگ با ایران را دلیل شکست جمهوری‌خواهان در انتخابات میانه‌دوره‌ای دانست. وی در شبکه‌های اجتماعی نوشت: «دلیل شکست ما جنگ است» و اشاره کرد که رئیس‌جمهور ترامپ نیز همین‌طور اظهار کرده. تحلیل‌گران بازار معتقدند این اظهارات انتظارات از تشدید تنش‌های نظامی را کاهش داده و فشار بر قیمت‌ها را کم می‌کند، هرچند خطر تشدید مجدد هنوز وجود دارد. برخی پیش‌بینی می‌کنند که کاهش قیمت‌ها می‌تواند به‌سرعت به سطوح زیر ۹۰ دلار ادامه یابد تا زمانی که سیاست‌های مالی و نظامی واضح‌تر شوند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "نفت",
-    "urgency": 7,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
-    "clean_url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108518922-1793807059938-gettyimages-2303150469-2h1a7951_nrl1cyvp.jpeg?v=1793807082&w=1920&h=1080",
-    "timestamp": 1793781720.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6517252545",
-    "title_fa": "‏شرودرز صندوق بدهی نوظهور را در سولانا توکن‌سازی کرد",
-    "title_en": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
-    "summary": [
-      "‏شرودرز با همکاری Centrifuge صندوق بدهی بازارهای نوظهور را به صورت توکن‌دار بر بستر Solana راه‌اندازی کرد",
-      "‏این گام باعث گسترش صندوق‌های فعال مدیریت‌شده در زنجیره بلاکچین و جذب سرمایه‌گذاران سنتی به فضای رمزارز می‌شود",
-      "‏صندوق با سرمایه بیش از 1 تریلیون دلار مدیریت می‌شود"
-    ],
-    "body_fa": "‏شرودرز، مدیر دارایی با بیش از 1 تریلیون دلار سرمایه تحت مدیریت، استراتژی اوراق قرضه بازارهای نوظهور خود را به صورت توکن‌دار بر بستر Solana معرفی کرد. این محصول با همکاری پلتفرم Centrifuge اجرا شد و اولین صندوق بدهی نوظهور توکن‌سازی‌شده توسط یک موسسه مالی سنتی محسوب می‌شود. استفاده از Solana به دلیل هزینه‌های تراکنش پایین و سرعت بالا، امکان ارائه بازدهی بهتر برای سرمایه‌گذاران می‌دهد. این حرکت نشان‌دهنده تمایل موسسات مالی بزرگ به ورود به فضای بلاکچین و گسترش ابزارهای مالی دیجیتال است. انتظار می‌رود این صندوق به جذب سرمایه‌گذاران سنتی به بازار رمزارزها کمک کند و مسیرهای جدیدی برای توکن‌سازی دارایی‌های سنتی باز کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "توکن‌سازی بدهی",
-    "tag": "توکن‌سازی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
-    "clean_url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793774880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "31bbcf3b19",
-    "title_fa": "‏قیمت نفت پس از سقوط، با نگرانی‌های عرضه خاورمیانه بازگشت",
-    "title_en": "Oil Prices Rebound as Middle East Supply Fears Return | OilPrice.com",
-    "summary": [
-      "‏قیمت نفت برنت به 103.60 دلار و ویست به 95.98 دلار رسید و پس از کاهش چهار هفته‌ای دوباره افزایش یافت.",
-      "‏بازارها به دلیل نگرانی‌های ادامه‌دار تأمین از خلیج فارس و عدم قطعیت جنگ، ریسک‌پریمیوم بالایی حفظ کردند.",
-      "‏داده‌های Vortexa نشان داد که صادرات نفت از تنگه هرمز در اکتبر به 17.1 میلیون بشکه در روز کاهش یافت."
-    ],
-    "body_fa": "‏قیمت نفت خام پس از سقوط به پایین‌ترین سطح چهار هفته‌ای، امروز با بازگشت به 103.60 دلار برای برنت و 95.98 دلار برای WTI افزایش یافت. این تغییر ناشی از جابه‌جایی تمرکز معامله‌گران از انتخابات میانی ایالات متحده به نگرانی‌های تأمین از خاورمیانه و پیشرفت‌های احتمالی جنگ است. شرکت مشاوره انرژی Rystad Energy اعلام کرد حتی در صورت توافق آمریکا و ایران، جریان‌های نفتی از خلیج فارس به زودی به حالت عادی بازنخواهد گشت. داده‌های Vortexa نشان می‌دهد که صادرات ترکیبی نفت، کندانس و سوخت در اکتبر به‌متوسط 17.1 میلیون بشکه در روز کاهش یافته و کمتر از 18.9 میلیون بشکه در سپتامبر است. تحلیل‌گران به دلیل سیگنال‌های متناقض رئیس‌جمهور ترامپ و حضور ادامه‌دار ضربه‌های نظامی، هنوز ریسک‌پریمیوم بالایی در بازار می‌بینند. تیم کالای ING نیز هشدار داد که علیرغم نشانه‌های مثبت، هنوز زمان کافی برای خوش‌بینی درباره پایان جنگ نیست.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "نفت",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
-    "image": "https://s.yimg.com/bo/95985a5e-bd1d-596c-806c-a02917c5ee75_1793773604094.jpg",
-    "timestamp": 1793773009.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8294eb2857",
-    "title_fa": "‏ارزش‌گذاری Revolut ۵۳٪ افزایش یافت و هدف افتتاح بانک آمریکا",
-    "title_en": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-    "summary": [
-      "‏ارزش Revolut در فروش سهام ثانویه به ۱۱۵ میلیارد دلار رسید، ۵۳٪ بالاتر از سال گذشته.",
-      "‏این افزایش نشان‌دهنده رشد سریع فین‌تک و برنامه‌ریزی برای راه‌اندازی بانک ملی در آمریکا تا نیمه اول ۲۰۲۷ است.",
-      "‏Revolut در ۲۰۲۵ سود حاشیه ۳۸٪ از درآمد ۶ میلیارد دلاری داشته است."
-    ],
-    "body_fa": "‏سرمایه‌گذاران Revolut در یک فروش سهام ثانویه، ارزش شرکت را به ۱۱۵ میلیارد دلار ارتقا دادند؛ این رقم نسبت به فروش قبلی یک سال پیش ۵۳٪ بیشتر است. در این تراکنش، Glade Brook Capital Partners ، Coatue ، Durable Capital Partners ، T. Rowe Price Associates و Baillie Gifford نقش اصلی را ایفا کردند، اگرچه پول جدیدی به شرکت وارد نشد. Revolut با دریافت تأیید مشروط از دفتر نظارت بر ارزهای آمریکا (OCC)، قصد دارد تا نیمه اول ۲۰۲۷ یک بانک ملی در ایالات متحده راه‌اندازی کند. این فین‌تک بریتانیایی در سال ۲۰۲۵ درآمد ۶ میلیارد دلاری با حاشیه سود ۳۸٪ گزارش کرد و بیش از ۸۰ میلیون مشتری در بیش از ۴۰ کشور دارد. بخش کسب‌وکار Revolut که حدود ۲۰٪ سود ناخالص را تشکیل می‌دهد، ماهانه بیش از ۳۶ میلیارد پوند (حدود ۴۸٫۶ میلیارد دلار) تراکنش پردازش می‌کند و در آمریکا بیش از یک میلیارد دلار تراکنش دارد. شرکت قصد دارد تا سال ۲۰۲۷ تعداد مشتریان تجاری خود را از ۸۰۰٬۰۰۰ به یک میلیون افزایش دهد و خدمات بانکی خود را به بازارهای مکزیک، برزیل و هند گسترش دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ارزش‌گذاری فین‌تک",
-    "tag": "Revolut",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-    "clean_url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?resize=1200,629",
-    "timestamp": 1793772600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0860c71a13",
-    "title_fa": "‏بیت‌کوین و سهام پس از سقوط شبانه رشد چشمگیری یافتند",
-    "title_en": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-    "summary": [
-      "‏بیت‌کوین و شاخص‌های سهام پس از سقوط شبانه، رشد قابل‌توجهی ثبت کردند.",
-      "‏این بازگشت پس از پیروزی «Blue Wave» و اعلام نتایج انتخابات رخ داد.",
-      "‏در عین حال، سهام مراکز داده هوش مصنوعی به‌عنوان بزرگ‌ترین بازده منفی باقی ماندند."
-    ],
-    "body_fa": "‏پس از سقوط ناگهانی قیمت بیت‌کوین و شاخص‌های سهام در طول شب، بازارها امروز به سرعت بازگشتند و رشد قابل‌توجهی نشان دادند. این تغییر ناگهانی همزمان با اعلام نتایج انتخابات «Blue Wave» بود که چندین نامزد مخالف سرمایه‌گذاری در مراکز داده هوش مصنوعی را به پیروزی رساند. به‌دلیل این پیروزی، سهام شرکت‌های مرتبط با داده‌مرکزهای AI به‌عنوان بزرگ‌ترین بازده منفی در بازار شناخته شدند. تحلیل‌گران بر این باورند که این روند می‌تواند فشارهای فشار بر سیاست‌گذاران برای تنظیم مقررات AI را افزایش دهد. برای سرمایه‌گذاران، بازگشت قیمت بیت‌کوین نشانگر نوسان‌های شدید در کوتاه‌مدت است و نیاز به مدیریت ریسک دارد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-    "clean_url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793772000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "53f5b00a45",
-    "title_fa": "‏کاتسوهیرو هارادا استودیوی VS را با حمایت SNK راه‌اندازی کرد",
-    "title_en": "\"I realised I might only have time to make one more game, so I wanted to try something new\" – Tekken director Katsuhiro Harada on starting VS Studio",
-    "summary": [
-      "‏کاتسوهیرو هارادا پس از سه دهه کار در باندی نامکو، استودیوی VS را با سرمایه‌گذاری SNK تأسیس کرد.",
-      "‏این حرکت نشان می‌دهد که حتی در شرایط دشوار صنعت بازی، طراحان برجسته به دنبال مسیرهای جدید هستند.",
-      "‏هارادا به ارتباط با ولیعهد سعودی که علاقه‌مند به گیم است، اشاره کرد."
-    ],
-    "body_fa": "‏کاتسوهیرو هارادا، کارگردان مشهور سری تکن، در دسامبر گذشته اعلام کرد که پس از بیش از 30 سال خدمت در باندی نامکو، شرکت را ترک می‌کند. او توضیح داد که با نزدیک شدن به 50 سالگی و فکر به 10 سال باقی‌مانده از دوران کاری، تصمیم گرفت مسیر جدیدی را امتحان کند، زیرا ساخت یک بازی تک می‌تواند تا 5 سال طول بکشد. به‌محض اعلام خروجش، هارادا پیشنهادهای متعددی دریافت کرد که در میان آن‌ها، سرمایه‌گذاری SNK برای تأسیس استودیوی VS برجسته شد. SNK ، سازنده تاریخی بازی‌های مبارزه‌ای مانند Fatal Fury و The King of Fighters ، تحت مالکیت سعودی است و هارادا به ارتباط این شرکت با ولیعهد سعودی که علاقه‌مند به ورزش‌های الکترونیکی است، اشاره کرد. هارادا تأکید کرد مذاکرات صرفاً دربارهٔ بازی‌ها بود و هدف او ایجاد پروژه‌های نوآورانه در حوزه مبارزه‌ای است. این استودیو می‌تواند نقش مهمی در ادامهٔ توسعهٔ ژانر مبارزه‌ای داشته باشد، به‌ویژه در زمانی که صنعت بازی با کاهش نیروها و بسته شدن استودیوها مواجه است.",
-    "category": "گیم",
-    "subcategory": "استودیو جدید",
-    "tag": "Harada",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio",
-    "clean_url": "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio",
-    "image": "https://assetsio.gnwcdn.com/Katsuhiro-Harada.JPG?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1793770200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "183585160f",
-    "title_fa": "‏دموکرات‌ها در میانه‌دوره‌ها بر سر مجلس و سنا پیروز شدند",
-    "title_en": "Democrats surge toward Senate, House majorities, with crypto braced for new...",
-    "summary": [
-      "‏دموکرات‌ها در انتخابات میانه‌دوره‌ای ایالات متحده بر سر مجلس نمایندگان و سنا برتری یافتند.",
-      "‏این تغییر می‌تواند سیاست‌های نظارتی کریپتو را تحت تأثیر قرار دهد.",
-      "‏شرکت‌های بلاکچین برای قوانین جدید آماده می‌شوند."
-    ],
-    "body_fa": "‏در انتخابات میانه‌دوره‌ای ایالات متحده، رهبری جمهوری‌خواهان در سه قوه حکومتی شکسته شد و دموکرات‌ها به‌دست آوردهای قابل‌توجهی در مجلس نمایندگان و سنا دست یافتند. این نتایج نشان می‌دهد که کنترل قانون‌گذاری به سمت احزاب پیشرو در حوزه فناوری مالی می‌رود. صنعت کریپتو با دقت به این تغییرات نگاه می‌کند، چرا که دولت‌های دموکرات ممکن است مقررات سخت‌گیرانه‌تری برای ارزهای دیجیتال اعمال کنند. گروه‌های تجاری بلاکچین در حال آماده‌سازی استراتژی‌های خود برای مواجهه با چارچوب‌های قانونی جدید هستند. تحلیل‌گران پیش‌بینی می‌کنند این تحولات می‌تواند نوسانات بازارهای رمزارز را تحت تأثیر قرار دهد. در عین حال، نظارت‌های فدرال ممکن است به‌سرعت پس از تشکیل کنگره جدید اجرا شوند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین و مقررات",
-    "tag": "انتخابات",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-    "clean_url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-    "image": "https://s.yimg.com/bo/f4c10822-d1c4-56bb-a046-90444a67dd43_1793769148273.jpg",
-    "timestamp": 1793766830.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b75c5513c0",
-    "title_fa": "‏هاکیم جفریس احتمالاً اولین اسپیکر سیاه‌پوست مجلس نمایندگان می‌شود",
-    "title_en": "Watch live: House Minority Leader Hakeem Jeffries speaks as Democrats projected...",
-    "summary": [
-      "‏دموکرات‌ها پیش‌بینی می‌شود حداقل 235 صندلی مجلس نمایندگان را به‌دست آورند",
-      "‏این برنده‌شدن امکان می‌دهد هاکیم جفریس به‌عنوان اولین اسپیکر سیاه‌پوست آمریکا انتخاب شود",
-      "‏جفریس باید حمایت اکثریت کنگره دموکرات را پس از نشست ژانویه کسب کند"
-    ],
-    "body_fa": "‏طبق پیش‌بینی‌های CNBC ، دموکرات‌ها حداقل 235 صندلی در مجلس نمایندگان آمریکا به‌دست خواهند آورد و اکثریت راحتی خواهند داشت. این نتایج مسیر هاکیم جفریس، رهبر اقلیت مجلس، را برای تبدیل شدن به اولین اسپیکر سیاه‌پوست تاریخ کنگره هموار می‌کند. جفریس برای تأیید نهایی باید حمایت بیش از نیمی از اعضای کنگره دموکرات را پس از برگزاری جلسه اولین کنگره در ژانویه کسب کند. اگر این حمایت حاصل شود، نقش او در تعیین برنامه قانون‌گذاری و روابط بین‌المللی ایالات متحده بسیار مهم خواهد بود. این تحول سیاسی می‌تواند پیامدهای گسترده‌ای برای سیاست داخلی و خارجی آمریکا داشته باشد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "انتخابات کنگره",
-    "tag": "Jeffries",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/leader-hakeem-jeffries-speaker.html",
-    "clean_url": "https://www.cnbc.com/2026/11/03/leader-hakeem-jeffries-speaker.html",
-    "image": "https://s.yimg.com/bo/f526c252-6732-5612-b966-a9b3686187a7_1793766560037.jpg",
-    "timestamp": 1793765809.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "23c6f180ad",
-    "title_fa": "‏نوییدیا تنها ۱٪ سفارش ۷۰ میلیارد دلاری چین را می‌دهد",
-    "title_en": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
-    "summary": [
-      "‏شرکت‌های هوش مصنوعی چین حدود ۶ میلیون تراشه RTX Pro 5500 به ارزش ۷۰ میلیارد دلار سفارش دادند",
-      "‏نوییدیا به دلیل کمبود تولید و محدودیت‌های صادراتی، تنها حدود ۱٪ این سفارش‌ها را در چهار ماه آینده تحویل می‌دهد",
-      "‏این کمبود توان محاسباتی چین را در رقابت هوش مصنوعی با آمریکا عقب می‌اندازد"
-    ],
-    "body_fa": "‏شرکت‌های بزرگ هوش مصنوعی چین مانند Alibaba ، Tencent و ByteDance مجموعاً حدود ۶ میلیون تراشه RTX Pro 5500 از Nvidia سفارش داده‌اند. این تراشه‌ها که هر کدام بیش از ۱۱ هزار دلار قیمت دارند، مجموعاً به ارزش حدود ۷۰ میلیارد دلار می‌رسند. اما به دلیل محدودیت‌های تولید جهانی و ممنوعیت‌های صادراتی آمریکا، شرکت‌ها پیش‌بینی می‌کنند تنها چند ده هزار واحد (حدود ۱٪) در چهار ماه آینده دریافت کنند. اولین بار چند هزار تراشه تا پایان سال جاری و دسته دیگری تا فوریه ۲۰۲۴ تحویل می‌شود. این کمبود سخت‌افزار، توان محاسباتی چین را در رقابت هوش مصنوعی با ایالات متحده محدود می‌کند و نشان می‌دهد تولیدکنندگان داخلی همچنان از پیشرفت‌های آمریکایی عقب مانده‌اند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تجارت فناوری",
-    "tag": "Nvidia",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-clients-1-70-031424389.html",
-    "clean_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-clients-1-70-031424389.html",
-    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/e6c5ab4c31daaa1408f341aa123e9b55.jpg",
-    "timestamp": 1793762207.0,
     "sent_to_telegram": true
   }
 ]
