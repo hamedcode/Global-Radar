@@ -132,6 +132,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "e7add9a8db",
+    "title_fa": "‏استقبال پرشور سرمایه‌گذاران از عرضه اولیه سهام Anthropic",
+    "title_en": "Investors flock to Anthropic IPO but question durability of AI lead",
+    "summary": [
+      "‏تقاضای سرمایه‌گذاران نهادی برای عرضه اولیه Anthropic حتی از روزهای نخست بازاریابی سهام SpaceX نیز فراتر رفته است.",
+      "‏این استقبال کم‌سابقه نشان‌دهنده اشتیاق بالای بازارهای مالی برای سرمایه‌گذاری در پیشتازان حوزه هوش مصنوعی است.",
+      "‏با وجود این تقاضا، برخی سرمایه‌گذاران درباره پایداری برتری فناوری این شرکت در بلندمدت ابراز تردید کرده‌اند."
+    ],
+    "body_fa": "‏تقاضای سرمایه‌گذاران نهادی برای مشارکت در عرضه عمومی اولیه سهام شرکت Anthropic با سرعتی چشمگیر در حال رشد است. بر اساس گزارش منابع آگاه، میزان استقبال اولیه از سهام این شرکت حتی از روزهای ابتدایی بازاریابی سهام شرکت SpaceX نیز سبقت گرفته است. با این حال، سرمایه‌گذاران همزمان با این هیجان، پایداری برتری تجاری و فنی این شرکت در رقابت شدید بازار هوش مصنوعی را زیر ذره‌بین قرار داده‌اند. شرکت Anthropic که به عنوان یکی از جدی‌ترین رقبای OpenAI شناخته می‌شود، در حال آماده‌سازی برای ورود به بازار عمومی است. موفقیت این عرضه اولیه می‌تواند معیاری مهم برای سنجش ارزش‌گذاری واقعی غول‌های هوش مصنوعی در وال‌استریت باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "عرضه اولیه هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13/",
+    "clean_url": "https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794578520.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "6b60b827b7",
     "title_fa": "‏گزارش سود Nvidia می‌تواند بازار را دچار نوسان کند",
     "title_en": "The Nvidia Earnings Report Could Wreck The Market",
@@ -151,6 +173,28 @@
     "clean_url": "https://seekingalpha.com/article/4967764-nvidia-earnings-report-could-wreck-the-market",
     "image": "https://www.bing.com/th?id=ONUT.hltq6ZLQdMLCb7kE63IYUA",
     "timestamp": 1794577002.0687635,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ca4d322a9d",
+    "title_fa": "‏فدرال‌رزرو ریسک‌های هوش مصنوعی را تهدیدی برای ثبات مالی دانست",
+    "title_en": "Fed releases financial stability report, respondents raised concerns around AI",
+    "summary": [
+      "‏فدرال‌رزرو جدیدترین گزارش ثبات مالی خود را با تمرکز بر آسیب‌پذیری‌های بازار منتشر کرد.",
+      "‏فعالان بازار در این نظرسنجی، رشد سریع فناوری هوش مصنوعی را ریسکی نوظهور برای اقتصاد معرفی کردند.",
+      "‏این گزارش دوره‌ای به بررسی سلامت ساختار مالی، بدهی‌ها و نوسانات دارایی‌ها می‌پردازد."
+    ],
+    "body_fa": "‏فدرال‌رزرو در جدیدترین گزارش ثبات مالی خود، چشم‌انداز آسیب‌پذیری‌های سیستم بانکی و مالی ایالات متحده را مورد بررسی قرار داد. در نظرسنجی ارائه‌شده در این گزارش، شرکت‌کنندگان و فعالان بازار نگرانی‌های فزاینده‌ای را پیرامون خطرات ناشی از رشد شتابان هوش مصنوعی مطرح کردند. کارشناسان معتقدند اتکای بیش از حد به مدل‌های خودکار و ابهامات عملکردی این فناوری می‌تواند شوک‌های غیرمنتظره‌ای به معاملات وارد سازد. این گزارش علاوه بر هوش مصنوعی، به مسائلی نظیر بدهی شرکت‌ها و قیمت‌گذاری بالای برخی دارایی‌های ریسک‌پذیر نیز پرداخته است. این پایش‌های دوره‌ای به سیاست‌گذاران کمک می‌کنند تا نقاط ضعف سیستماتیک را پیش از وقوع بحران‌های عمیق مالی شناسایی کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی و بانکی",
+    "tag": "فدرال‌رزرو",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/video/2026/11/13/fed-releases-financial-stability-report-respondents-raised-concerns-around-ai.html",
+    "clean_url": "https://www.cnbc.com/video/2026/11/13/fed-releases-financial-stability-report-respondents-raised-concerns-around-ai.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108551424-17946050721794605069-49619811122-1080pnbcnews.jpg?v=1794605071&w=1920&h=1080",
+    "timestamp": 1794576540.0,
     "sent_to_telegram": true
   },
   {
@@ -6552,50 +6596,6 @@
     "clean_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-futures-135650348.html",
     "image": "https://media.zenfs.com/en/investopedia_245/95345340be2c7c77d992fb2367b41a2c.jpg",
     "timestamp": 1793800476.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1485044b7f",
-    "title_fa": "‏سرمایه‌گذاران خروج می‌کنند؛ لیگ LIV Golf نزدیک به فروپاشی",
-    "title_en": "LIV Golf collapse imminent after BC Partners withdraws",
-    "summary": [
-      "‏سرمایه‌گذار BC Partners اعلام کرد که دیگر سرمایه‌گذاری در لیگ LIV Golf را ادامه نخواهد داد.",
-      "‏این تصمیم باعث شد که لیگ که در سپتامبر برای حفاظت از ورشکستگی به دادگاه Chapter 11 مراجعه کرده بود، به فروپاشی نزدیک شود.",
-      "‏عقب‌نشینی سرمایه‌گذاران سعودی نیز منجر به کاهش بودجه میلیارد دلاری لیگ شده بود."
-    ],
-    "body_fa": "‏سرمایه‌گذار خصوصی BC Partners اعلام کرد که تصمیم به قطع سرمایه‌گذاری در لیگ گلف LIV Golf گرفته است. این خروج مالی در حالی رخ داد که لیگ در سپتامبر برای محافظت از ورشکستگی به دادگاه ایالات متحده درخواست Chapter 11 داد. سرمایه‌گذاران سعودی پیش از این نیز برنامه‌های خود برای کاهش یا قطع بودجه میلیارد دلاری لیگ را تأیید کرده بودند. بدون حمایت مالی این مقیاس، LIV Golf با مشکلات نقدینگی جدی مواجه شده و آینده‌اش به خطر افتاده است. تحلیل‌گران پیش‌بینی می‌کنند که این بحران می‌تواند تأثیرات منفی بر قراردادهای پخش و مشارکت‌های تجاری لیگ داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سرمایه‌گذاری ورزشی",
-    "tag": "LIV Golf",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/11/04/liv-golf-liquidation-bankruptcy",
-    "clean_url": "https://www.axios.com/2026/11/04/liv-golf-liquidation-bankruptcy",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793799300.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7f8cc69b1c",
-    "title_fa": "‏متا استارتاپ هوش مصنوعی Conductor را خریداری کرد",
-    "title_en": "Meta acquires AI coding startup Conductor",
-    "summary": [
-      "‏متا استارتاپ هوش مصنوعی Conductor را خریداری کرد",
-      "‏این خرید به متا کمک می‌کند تا ابزارهای برنامه‌نویسی مبتنی بر هوش مصنوعی را گسترش دهد",
-      "‏Conductor تا ۲۰ نوامبر سرویس ابری خود را متوقف می‌کند و داده‌های کاربران را حذف خواهد کرد"
-    ],
-    "body_fa": "‏متا استارتاپ هوش مصنوعی Conductor را خریداری کرد. این خرید به متا امکان می‌دهد تا سرویس‌های برنامه‌نویسی مبتنی بر هوش مصنوعی را گسترش دهد. مؤسس Conductor ، چارلی هولتز، در بلاگ خود اعلام کرد که برنامه‌های جدیدی برای رابط کاربری سال آینده دارد. او همچنین از همکاری با الکساندر وانگ، مسئول ارشد هوش مصنوعی متا، و نت فریدمن، سرپرست محصول در Superintelligence Labs ، خوشحال شد. سرویس ابری Conductor تا ۲۰ نوامبر متوقف می‌شود و داده‌های کاربران حذف خواهند شد. متا در ماه‌های اخیر با معرفی Muse Code و خریدهای متعددی مانند Moltbook ، سعی در جبران عقب‌ماندگی خود در حوزه هوش مصنوعی دارد.",
-    "category": "تکنولوژی",
-    "subcategory": "ادغام و تملک",
-    "tag": "Meta",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-    "clean_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
-    "timestamp": 1793797800.0,
     "sent_to_telegram": true
   }
 ]
