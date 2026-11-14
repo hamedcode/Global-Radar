@@ -1,5 +1,27 @@
 [
   {
+    "id": "d12e113567",
+    "title_fa": "‏ایران مذاکرات صادرات نفت به هند را ادامه می‌دهد",
+    "title_en": "Iran says oil trade negotiations with India continuing despite sanctions",
+    "summary": [
+      "‏ایران گفت مذاکرات برای بازگرداندن صادرات نفت به هند با وجود تحریم‌ها ادامه دارد",
+      "‏این مذاکرات می‌تواند حجم صادرات را به سطوح پیش‌تحریم برگرداند و روابط انرژی دو کشور را تقویت کند",
+      "‏همچنین ایران به توسعه بندر چابهار به عنوان کلید دسترسی هند به مسیرهای تجاری منطقه‌ای تأکید کرد"
+    ],
+    "body_fa": "‏سفیر ایران در دهلی‌نوی، محمد فتحالی، در مصاحبه‌ای با CNBC‑TV18 اعلام کرد مذاکرات برای از سرگیری صادرات نفت به هند همچنان ادامه دارد. او افزود اگر تحریم‌های آمریکا رفع شوند، ایران می‌تواند به سرعت حجم صادرات نفت را به سطوح پیش‌تحریم برگرداند. هند از ماه مه ۲۰۱۹ پس از انقضای معافیت‌های تحریمی، واردات نفت ایرانی را متوقف کرد و تجارت دو جانبه از ۱۷.۰۳ میلیارد دلار در سال ۲۰۱۸‑۱۹ به ۱٫۶۳ میلیارد دلار در ۲۰۲۵‑۲۶ کاهش یافت. فتحالی چابهار را به‌عنوان ستون استراتژیک همکاری‌های انرژی و دسترسی هند به افغانستان و مسیرهای تجاری منطقه‌ای معرفی کرد. با وجود این مذاکرات، ایران همچنان با کمبود سوخت و صف‌های طولانی در پمپ‌ها مواجه است و مقامات محلی از مردم خواستند مصرف را کاهش دهند. این وضعیت نشان می‌دهد که هرچند روابط انرژی با هند می‌تواند بهبود یابد، مشکلات داخلی تأمین سوخت همچنان چالش‌برانگیز باقی مانده است.",
+    "category": "انرژی و کالا",
+    "subcategory": "تجارت نفت",
+    "tag": "ایران-هند",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202611140400",
+    "clean_url": "https://www.iranintl.com/en/202611140400",
+    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+    "timestamp": 1794672600.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "603991a541",
     "title_fa": "‏سوزان کالینز فدرال رزرو: افزایش تدریجی نرخ بهره بهتر است",
     "title_en": "Fed's Collins says gradual rate hikes best to manage economic risks",
@@ -41,6 +63,72 @@
     "clean_url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
     "image": "https://s.yimg.com/bo/59c3e0e9-4023-5206-a43b-39e1b2b68944_1794667531260.jpg",
     "timestamp": 1794665159.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8b376e060e",
+    "title_fa": "‏صندوق‌های ETF بیت‌کوین آمریکا یک میلیارد دلار از دست دادند",
+    "title_en": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+    "summary": [
+      "‏صندوق‌های اسپات بیت‌کوین آمریکا در هفت روز گذشته 1.91 میلیارد دلار از دست دادند",
+      "‏این کاهش سرمایه‌گذاری نشان‌دهنده فشار فروش در بازار کریپتو و عدم جذب سرمایه جدید است",
+      "‏به‌جز یک صندوق دیگر، هیچ ETF کریپتو دیگری جریان خالص مثبت نداشت"
+    ],
+    "body_fa": "‏در هفتهٔ گذشته، تمام 12 صندوق اسپات بیت‌کوین ثبت‌شده در ایالات متحده مجموعاً 1.91 میلیارد دلار از دست دادند. این کاهش ارزش طی هفت روز معاملاتی متوالی، دومین هفتهٔ متوالی است که ETF های بیت‌کوین بیش از یک میلیارد دلار خروج سرمایه داشته‌اند. در عین حال، سایر دسته‌های ETF های کریپتو به‌جز یک صندوق، هیچ جریان خالص ورودی ثبت نکردند. این وضعیت نشان می‌دهد که سرمایه‌گذاران همچنان در مواجهه با نوسانات بازار کریپتو محتاط هستند و تمایلی به ورود جدید ندارند. تحلیل‌گران هشدار می‌دهند که ادامهٔ این روند می‌تواند فشار فروش را بر قیمت بیت‌کوین افزایند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ETF بیت‌کوین",
+    "tag": "BitcoinETF",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+    "clean_url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794649800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6aa4e3bb12",
+    "title_fa": "‏دموکرات‌ها پس از پیروزی مجلس ترامپ و هزینه‌ها تفرقه کردند",
+    "title_en": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+    "summary": [
+      "‏دموکرات‌ها در انتخابات میانی ایالات متحده حداقل 255 صندلی در مجلس نمایندگان و 55 صندلی در سنا به دست آوردند.",
+      "‏این برتری باعث شد که حزب دموکرات در داخل خود درباره حمایت از ترامپ و برنامه‌های کاهش هزینه‌های دولت دچار اختلاف شود.",
+      "‏نتیجه‌گیری‌ها نشان می‌دهد که رهبری مجلس ممکن است با فشارهای داخلی برای کنترل هزینه‌ها مواجه شود."
+    ],
+    "body_fa": "‏در انتخابات میانی ایالات متحده، دموکرات‌ها پیش‌بینی می‌شود حداقل 255 صندلی در مجلس نمایندگان و 55 صندلی در سنا به دست آورده باشند، در حالی که جمهوری‌خواهان حدود 169 صندلی در مجلس و 44 صندلی در سنا باقی می‌مانند. اگرچه این پیروزی به حزب دموکرات اکثریت قوی می‌دهد، اما داخل خود حزب اختلاف‌های جدی دربارهٔ حمایت از دونالد ترامپ و برنامهٔ کاهش هزینه‌های دولت به وجود آمده است. برخی نمایندگان معتقدند باید به ترامپ نزدیک شوند تا از حمایت پایهٔ او بهره‌برداری کنند، در حالی که دیگران بر ضرورت حفظ مسیرهای اقتصادی محتاطانه و کاهش هزینه‌ها تأکید می‌کنند. این تفرقه می‌تواند تصمیم‌گیری‌های کلان اقتصادی و قانون‌گذاری‌های مالی را تحت تأثیر قرار دهد و به‌ویژه در زمینهٔ بودجه فدرال و سیاست‌های مالی مهم باشد. تحلیل‌گران پیش‌بینی می‌کنند که این تنش داخلی می‌تواند باعث تأخیر در تصویب برنامه‌های کاهش هزینه‌ها و ایجاد نوسان در بازارهای مالی جهانی شود.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "انتخابات میانی ایالات متحده",
+    "tag": "انتخابات",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda-2026-11-14/",
+    "clean_url": "https://www.reuters.com/world/us/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda-2026-11-14",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794644880.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5b1ce8ee8b",
+    "title_fa": "‏صنعت بادی فراساحلی آمریکا با وجود محدودیت‌های ترامپ رشد می‌کند",
+    "title_en": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown",
+    "summary": [
+      "‏آمریکا پس از سال‌ها تأخیر اولین مزرعه بادی فراساحلی 30 مگاواتی را در 2016 راه‌اندازی کرد و در 2024 پروژه مقیاس‌پذیر دیگری آغاز شد.",
+      "‏این رشد با حمایت دولت بیدن، قانون IRA و سرمایه‌گذاری‌های بین‌المللی به هدف 30 گیگاوات بادی فراساحلی تا 2030 کمک می‌کند.",
+      "‏دپارتمان انرژی آمریکا بیش از 300 میلیون دلار برای تحقیق و توسعه این حوزه اختصاص داده است."
+    ],
+    "body_fa": "‏ایالات متحده تا سال 2016 اولین مزرعه بادی فراساحلی تجاری خود را با ظرفیت 30 مگاوات راه‌اندازی کرد و پس از هشت سال پروژه مقیاس‌پذیر دیگری را آغاز کرد. اگرچه دیگر کشورها پیش از آمریکا به سرعت به بادی فراساحلی پرداخته‌اند، اما آمریکا با بیش از 4,000 گیگاوات پتانسیل فنی در آب‌های فدرال و دریاچه‌های بزرگ، می‌تواند سهمی مهم در کاهش وابستگی به سوخت‌های فسیلی داشته باشد. وزارت انرژی آمریکا بیش از 300 میلیون دلار برای پژوهش، توسعه و نمایش پروژه‌های بادی فراساحلی اختصاص داده و با قوانین جدیدی چون قانون کاهش تورم (IRA) مشوق‌های مالی گسترده‌ای برای سرمایه‌گذاران فراهم کرده است. دولت بیدن‑هریس تا کنون 11 پروژه تجاری بادی فراساحلی در آب‌های فدرال را تأیید کرده و هدف خود را برای نصب 30 گیگاوات تا سال 2030 اعلام کرده است. اگرچه فرآیندهای بوروکراتیک هنوز مانع سرعت‌بالای توسعه می‌شود، اما تعهدات بین‌المللی و سرمایه‌گذاری‌های شرکت‌های بزرگ انرژی می‌تواند این مسیر را تسریع کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "بادی فراساحلی",
+    "tag": "بادی_فراساحلی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html",
+    "clean_url": "https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_hwfa8cestd.jpg",
+    "timestamp": 1794643200.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +242,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "849d1a8e75",
+    "title_fa": "‏میلر در کاخ سفید مذاکرات تجاری مکزیک را تزلزل می‌اندازد",
+    "title_en": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
+    "summary": [
+      "‏میلر به سمت مقام کلیدی در کاخ سفید ارتقا یافت",
+      "‏این حرکت باعث نگرانی مذاکرات تجاری بین آمریکا و مکزیک شد",
+      "‏مکزیک به دنبال حفظ موضع خود در مذاکرات است"
+    ],
+    "body_fa": "‏میلر اخیراً به یک مقام مهم در کاخ سفید منصوب شد و نقش کلیدی در سیاست‌های تجاری ایالات متحده به عهده او سپرده شد. این انتصاب باعث اضطراب مقامات تجاری مکزیک شد، چرا که تغییرات احتمالی در رویکرد آمریکا می‌تواند بر توافق‌نامه USMCA تأثیر بگذارد. مذاکرات جاری بین دو کشور در زمینه تعرفه‌ها و دسترسی بازار در حال پیشرفت است، اما نگرانی‌ها از تغییرات ناگهانی سیاستی وجود دارد. مقامات مکزیک اعلام کردند که برای حفظ منافع ملی خود، به دقت نظارت بر تصمیمات جدید خواهند کرد. در صورت ادامه این تنش‌ها، ممکن است مذاکرات تجاری به تأخیر بیفتند یا نیاز به بازنگری داشته باشند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "مذاکرات تجاری",
+    "tag": "میکسیک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794634200.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "c9abec5349",
     "title_fa": "‏ایتالیا به Meta جریمه ۸۸۷ میلیون دلاری داد",
     "title_en": "Italy fines Meta $887 million over Android users' data access",
@@ -173,6 +283,28 @@
     "clean_url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794632820.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3608eaab3a",
+    "title_fa": "‏گینه برنامه‌ریزی شاخص بکسیت برای تقویت قیمت‌های سنگ معدن",
+    "title_en": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
+    "summary": [
+      "‏گینه قصد دارد یک شاخص بکسیت راه‌اندازی کند تا قیمت این سنگ معدن را تثبیت کند",
+      "‏این اقدام می‌تواند نوسانات قیمت بکسیت را کاهش داده و تأثیر قابل‌توجهی بر بازار آلومینیوم جهانی داشته باشد",
+      "‏شاخص جدید با همکاری بورس‌های بین‌المللی و داده‌های تولیدکنندگان طراحی می‌شود"
+    ],
+    "body_fa": "‏گینه، بزرگ‌ترین صادرکننده بکسیت جهان، برنامه‌ریزی کرده است تا یک شاخص قیمت بکسیت ایجاد کند. هدف این است که با ارائه یک معیار شفاف، قیمت این سنگ معدن اساسی را در برابر نوسانات بازار تقویت کند. این شاخص قرار است توسط یک بورس بین‌المللی و با مشارکت داده‌های تولیدکنندگان بکسیت پشتیبانی شود. اگر موفق شود، می‌تواند فشار بر قیمت‌های آلومینیوم را کاهش داده و ثبات بیشتری برای صنایع وابسته فراهم آورد. همچنین انتظار می‌رود سرمایه‌گذاران و خریداران بزرگ به این ابزار ارجاع دهند و شفافیت بیشتری در معاملات بکسیت ایجاد شود.",
+    "category": "انرژی و کالا",
+    "subcategory": "فلزات اساسی",
+    "tag": "باکسیت",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794626820.0,
     "sent_to_telegram": true
   },
   {
@@ -198,6 +330,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1354737d9e",
+    "title_fa": "‏اوکراین ایستگاه پمپاژ نفت سامارا را هدف گرفت",
+    "title_en": "Ukraine Says It Hit Oil-Pumping Station in Russia’s Samara",
+    "summary": [
+      "‏اوکراین اعلام کرد که ایستگاه پمپاژ نفت در استان سامارا روسیه را مورد حمله قرار داده است",
+      "‏این حمله می‌تواند تأثیر کوتاه‌مدت بر صادرات نفت روسیه و نوسان قیمت‌های جهانی انرژی داشته باشد",
+      "‏روسیه تاکنون واکنش رسمی به این ادعا نداده است"
+    ],
+    "body_fa": "‏اوکراین اعلام کرد که نیروهای خود موفق به ضربه زدن به یک ایستگاه پمپاژ نفت در استان سامارا روسیه شده‌اند. این ایستگاه بخشی از زیرساخت‌های انتقال نفت به سمت خلیج فارس و اروپا است. حمله می‌تواند به‌صورت موقت تولید و صادرات نفت روسیه را مختل کند و فشار بر قیمت‌های جهانی انرژی را افزایش دهد. مسدود کردن یا تخریب چنین تسهیلاتی معمولاً واکنش‌های تند روسیه و تقویت حمایت‌های نظامی اوکراین را به دنبال دارد. تا کنون روسیه هیچ بیانیه‌ای برای رد یا تأیید این ادعا منتشر نکرده است. کارشناسان بازار نفت هشدار دادند که این گونه حوادث می‌تواند نوسانات کوتاه‌مدت در قیمت نفت برنت را تشدید کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "حمله",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/ukraine-says-it-hit-oil-pumping-station-in-russia-s-samara",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-14/ukraine-says-it-hit-oil-pumping-station-in-russia-s-samara",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794624960.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "4742884104",
     "title_fa": "‏تورم باعث تغییر الگوهای خرید به سمت فروشگاه‌های ارزان‌قیمت می‌شود",
     "title_en": "Inflation is pushing consumers to trade down and hunt for value",
@@ -217,6 +371,28 @@
     "clean_url": "https://www.businessinsider.com/consumers-still-shopping-spending-looking-for-value-elevated-inflation-2026-11",
     "image": "https://i.insider.com/6af7806d0cc3ffba8779d025?width=1200&format=jpeg",
     "timestamp": 1794621600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4d17bccacb",
+    "title_fa": "‏رئیس اقلیم ملل بر سرعت‌گیری در COP31 تأکید کرد",
+    "title_en": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
+    "summary": [
+      "‏رئیس کل اقلیم سازمان ملل خواست که در کنفرانس COP31 اقدامات اقلیمی با سرعت بیشتری پیش بروند.",
+      "‏این درخواست در حالی است که جنگ‌ها و تورم باعث کاهش اولویت‌گذاری تغییرات آب و هوایی در دولت‌ها شده است.",
+      "‏تقسیم‌نظرهای عمیق درباره سوخت‌های فسیلی، چالش اصلی این دوره است."
+    ],
+    "body_fa": "‏رئیس کل اقلیم سازمان ملل، ماریو دی لوزی، در پیش‌نویس گزارش سالانه خود بر ضرورت تسریع اقدامات اقلیمی در کنفرانس COP31 تأکید کرد. او هشدار داد که بحران‌های همزمان از جمله جنگ‌های جاری و فشارهای تورمی، تغییرات آب و هوایی را از برنامه‌های دولتی به حاشیه رانده‌اند. این مسأله باعث شده تا کشورهای تولیدکننده سوخت‌های فسیلی، به‌ویژه در میان تقسیم‌نظرهای عمیق درباره کاهش مصرف نفت و گاز، با یکدیگر در تضاد باشند. دی لوزی گفت که برای جلوگیری از افزایش دمای جهانی، باید توافق‌های قوی‌تری برای کاهش انتشار گازهای گلخانه‌ای به‌سرعت به‌دست آید. او همچنین از رهبران جهان درخواست کرد تا سرمایه‌گذاری در انرژی‌های تجدیدپذیر را تسریع کنند و حمایت‌های مالی برای کشورهای در حال توسعه فراهم آورند. این فراخوان در حالی مطرح می‌شود که بسیاری از دولت‌ها به دلیل بحران‌های اقتصادی، تمرکز خود را از اهداف اقلیمی به سمت ثبات اقتصادی و امنیت انرژی منتقل کرده‌اند. نتایج این فشارها می‌تواند مسیر مذاکرات COP31 را به‌طور قابل‌توجهی تحت تأثیر قرار دهد.",
+    "category": "انرژی و کالا",
+    "subcategory": "کنفرانس اقلیمی",
+    "tag": "COP31",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/",
+    "clean_url": "https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794620760.0,
     "sent_to_telegram": true
   },
   {
@@ -6420,182 +6596,6 @@
     "clean_url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108303711-1778165997426-gettyimages-2266571292-_RMN9508.jpeg?v=1778166027&w=1920&h=1080",
     "timestamp": 1793854260.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "605faf416d",
-    "title_fa": "‏بانک Deutsche Bank پیش‌بینی رشد ۵۵٪ سهام JetBlue",
-    "title_en": "JetBlue has rallied recently. Why Deutsche Bank sees more gains ahead",
-    "summary": [
-      "‏بانک Deutsche Bank سهام JetBlue را از hold به buy ارتقا داد و هدف قیمت را به 5.5 دلار افزایش داد.",
-      "‏این ارتقا بر پایه بهبود عرضه سوخت، تقاضای مسافران ارزش‌محور و برنامه‌های جدید محصولی است که می‌تواند سودآوری را تا 54 ٪ افزایش دهد.",
-      "‏سهم JetBlue در هفتهٔ گذشته بیش از 16 ٪ رشد کرد و انتظار می‌رود فشارهای هزینه سوخت با کاهش تنش‌های خاورمیانه کاهش یابد."
-    ],
-    "body_fa": "‏بانک Deutsche Bank در گزارشی به‌روز، رتبهٔ سهام JetBlue را از hold به buy ارتقا داد و هدف قیمت را از 3 دلار به 5.5 دلار افزایش داد، که نشان‌دهندهٔ امکان رشد 54 ٪ نسبت به بستهٔ فعلی است. تحلیل‌گر Michael Linenberg این ارتقا را به سه ستون اصلی نسبت می‌دهد: عرضهٔ سوخت مطلوب تا سال آینده، تمرکز صنعت بر حاشیه سود در مواجهه با تورم و برنامه‌های بزرگ محصولی که برای 2027 و پس از آن برنامه‌ریزی شده‌اند. این هفته، پس از اعلام افزایش راهنمایی درآمد هر مایل صندلی در دسترس، سهام JetBlue بیش از 16 ٪ افزایش یافت. بانک همچنین اشاره کرد که کاهش تنش‌های خاورمیانه، به‌ویژه در صورت بازگشت دموکرات‌ها به کنگره، می‌تواند نوسان قیمت سوخت را مهار کند. این پیش‌بینی برخلاف اکثریت تحلیل‌گران دیگر است که هنوز رتبهٔ hold را حفظ کرده‌اند. علاوه بر JetBlue ، بانک Deutsche Bank همچنین رتبهٔ Frontier را به buy ارتقا داد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سهام هواپیمایی",
-    "tag": "JetBlue",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/jetblue-deutsche-bank-upgrade.html",
-    "clean_url": "https://www.cnbc.com/2026/11/05/jetblue-deutsche-bank-upgrade.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108448316-1792700050649-gettyimages-2284742860-bb526758_s4vfzq1d_oq14lr5y.jpeg?v=1792700321&w=1920&h=1080",
-    "timestamp": 1793851740.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e026149462",
-    "title_fa": "‏بانک انگلستان از جنگ ایران نرخ بهره را بالا برد",
-    "title_en": "Bank of England Raises Rates for First Time Since Start of Iran War",
-    "summary": [
-      "‏بانک انگلستان برای اولین بار از زمان جنگ ایران نرخ بهره را افزایش داد",
-      "‏این اقدام فشار بر پوند و اوراق قرضه را تقویت می‌کند",
-      "‏قیمت انرژی به‌دلیل جنگ بالا رفته بود اما پس از انتخابات میانی کاهش یافت"
-    ],
-    "body_fa": "‏بانک انگلستان تصمیم گرفت برای اولین بار از آغاز جنگ ایران نرخ بهره را بالا ببرد. این تصمیم در حالی اتخاذ شد که قیمت‌های انرژی به‌دلیل درگیری افزایش یافته بودند، اما پس از انتخابات میانی و امید به پایان جنگ، کاهش یافتند. افزایش نرخ بهره می‌تواند به تثبیت پوند در برابر ارزهای دیگر کمک کند و فشار بر بازارهای اوراق قرضه را افزایش دهد. سیاست‌گذاران بانک مرکزی بر این باورند که این گام برای مهار تورم و جلوگیری از گسترش اثرات منفی انرژی ضروری است. تحلیل‌گران انتظار دارند این اقدام باعث تغییر در مسیر پیش‌بینی‌های اقتصادی برای سال آینده شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "نرخ_بهره",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/economy/central-banking/bank-of-england-raises-rates-for-first-time-since-start-of-iran-war-f6353d96",
-    "clean_url": "https://www.wsj.com/economy/central-banking/bank-of-england-raises-rates-for-first-time-since-start-of-iran-war-f6353d96",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793851260.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c30f2328f2",
-    "title_fa": "‏بانک انگلستان نرخ بهره را افزایش داد و تورم ۴٫۹٪ را پیش‌بینی کرد",
-    "title_en": "Bank of England Unanimously Hikes Rates, Warns of 4.9% Inflation",
-    "summary": [
-      "‏بانک انگلستان با اتفاق آراء نرخ بهره را افزایش داد.",
-      "‏این تصمیم به دلیل پیش‌بینی تورم ۴٫۹٪ اتخاذ شد و می‌تواند بر بازارهای مالی جهانی اثر بگذارد.",
-      "‏افزایش نرخ به‌صورت یک‌نواخت توسط تمام اعضای هیئت‌مدیره انجام شد."
-    ],
-    "body_fa": "‏بانک مرکزی انگلستان تصمیم گرفت نرخ بهره را به‌صورت یک‌نواخت افزایش دهد و در همان جلسه هشدار داد که نرخ تورم می‌تواند به ۴٫۹ درصد برسد. این اقدام نشان‌دهنده نگرانی بانک از فشارهای تورمی است و احتمالاً بر ارزش پوند و بازارهای اوراق قرضه تأثیر خواهد گذاشت. اعضای هیئت‌مدیره بدون هیچ‌گونه مخالفتی به این تصمیم رأی دادند، که نشان از توافق گسترده در سیاست پولی دارد. این افزایش نرخ می‌تواند به‌عنوان سیگنالی برای سایر بانک‌های مرکزی در تنظیم سیاست‌های خود عمل کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ بهره",
-    "tag": "Bank of England",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793851200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "80877b1368",
-    "title_fa": "‏چین اولین فروش اوراق یوانی را در کانادا برنامه‌ریزی کرد",
-    "title_en": "China Plans Debut Yuan Bond Sales in Canada Amid Warming Ties",
-    "summary": [
-      "‏چین قصد دارد اولین اوراق قرضه یوانی خود را در بازار کانادا عرضه کند.",
-      "‏این گام نشان‌دهنده گرم‌تر شدن روابط مالی چین و کانادا و گسترش استفاده از یوان در خارج است.",
-      "‏انتظار می‌رود این انتشار به جذب سرمایه‌گذاران کانادایی به دارایی‌های چینی کمک کند."
-    ],
-    "body_fa": "‏چین برنامه دارد اولین اوراق قرضه یوانی خود را در بازار سرمایه کانادا به فروش برساند. این اقدام بخشی از تلاش پکن برای بین‌المللی‌سازی یوان و گسترش دسترسی به سرمایه‌گذاران خارجی است. روابط مالی چین و کانادا در ماه‌های اخیر بهبود یافته و این انتشار می‌تواند نشانگر تقویت این پیوندها باشد. سرمایه‌گذاران کانادایی می‌توانند به‌صورت مستقیم در دارایی‌های یوانی سرمایه‌گذاری کنند که ممکن است تنوع پرتفوی آن‌ها را افزایش دهد. کارشناسان پیش‌بینی می‌کنند این گام می‌تواند به تدریج نقش یوان را در بازارهای جهانی تقویت کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "اوراق قرضه",
-    "tag": "یوان",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-plans-debut-yuan-bond-sales-in-canada-amid-warming-ties",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-05/china-plans-debut-yuan-bond-sales-in-canada-amid-warming-ties",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793849100.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "61a099c254",
-    "title_fa": "‏هواداران BioWare پارلمان کانادا رفتند تا استودیو را نجات دهند",
-    "title_en": "BioWare fans take fight to Canadian Parliament in bid to save 'Mass Effect' studio from EA",
-    "summary": [
-      "‏هواداران BioWare به پارلمان کانادا رفتند و خواستار جلوگیری از بسته شدن استودیوی Mass Effect توسط EA شدند.",
-      "‏این فشار می‌تواند تصمیم EA را تغییر دهد و شغل‌های هزاران کارمند و ادامه سری بازی‌ها را حفظ کند.",
-      "‏نمایندگان مجلس قول دادند که وضعیت را بررسی و با EA گفتگو کنند."
-    ],
-    "body_fa": "‏پس از انتشار گزارش‌هایی مبنی بر اینکه EA قصد دارد استودیوی BioWare ، که مسئول سری بازی‌های Mass Effect است، را ببندد، هواداران این استودیو اقدام به سازماندهی یک اعتراض در پارلمان کانادا کردند. گروهی از طرفداران، همراه با برخی از کارمندان فعلی و پیشین BioWare ، در روز دوشنبه به ساختمان مجلس در اوتاوا رفتند و درخواست حفظ شغل‌ها و ادامه توسعه بازی‌های آینده را مطرح کردند. آنها یک درخواست رسمی به نمایندگان فدرال ارائه دادند و از دولت خواستند تا فشار بیشتری بر EA برای حفظ استودیو اعمال کند. برخی از نمایندگان مجلس اعلام کردند که موضوع را به کمیته تجارت و صنایع فناوری ارجاع خواهند داد. این حرکت نشان می‌دهد که جامعه بازی‌سازان می‌تواند به‌صورت مستقیم بر تصمیمات شرکت‌های بزرگ تأثیر بگذارد و ممکن است مذاکراتی برای یافتن راه‌حل‌های جایگزین مانند فروش استودیو یا سرمایه‌گذاری مشترک آغاز شود. در عین حال، EA هنوز پاسخی رسمی به این درخواست‌ها نداده و آینده BioWare همچنان نامشخص باقی مانده است.",
-    "category": "گیم",
-    "subcategory": "استودیوهای بازی",
-    "tag": "BioWare",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Player.One on MSN",
-    "url": "https://www.msn.com/en-us/news/other/bioware-fans-take-fight-to-canadian-parliament-in-bid-to-save-mass-effect-studio-from-ea/ar-AA2gOK4p",
-    "clean_url": "https://www.msn.com/en-us/news/other/bioware-fans-take-fight-to-canadian-parliament-in-bid-to-save-mass-effect-studio-from-ea/ar-AA2gOK4p",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793847918.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "29e495ad82",
-    "title_fa": "‏Carlyle سودآوری خود را با خروج معاملات جبران کرد",
-    "title_en": "Carlyle Beats as Deal Exits Mitigate Dip in Fee-Related Earnings",
-    "summary": [
-      "‏Carlyle توانست با خروج موفق معاملات، کاهش درآمدهای مرتبط با کارمزد را جبران کند.",
-      "‏این عملکرد نشان‌دهنده توانایی شرکت در مدیریت ریسک و حفظ سودآوری است.",
-      "‏نتیجه این موفقیت می‌تواند بر جذابیت سرمایه‌گذاری در شرکت تأثیر مثبت داشته باشد."
-    ],
-    "body_fa": "‏شرکت سرمایه‌گذاری خصوصی Carlyle گزارش داد که درآمدهای مرتبط با کارمزد در دوره اخیر کاهش یافت. اما خروج موفق معاملات باعث شد این کاهش جبران شده و نتایج مالی شرکت بالاتر از انتظارات تحلیل‌گران باشد. به‌ویژه، چند معامله بزرگ در حوزه فناوری و انرژی به سرعت تکمیل شد و نقدینگی قابل توجهی به صندوق‌ها افزود. این عملکرد نشان‌دهنده توانایی Carlyle در مدیریت پورتفوی و حفظ جریان نقدی در شرایط بازار ناپایدار است. سرمایه‌گذاران می‌توانند این خبر را نشانه‌ای از پایداری سودآوری شرکت در دوره‌های آینده ببینند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سرمایه‌گذاری خصوصی",
-    "tag": "Carlyle",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-05/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793847660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8ff5315a79",
-    "title_fa": "‏بیت‌کوین به‌سرعت سقوط کرد؛ نزدک ۵٪ افت داشت",
-    "title_en": "Live updates: Bitcoin plunges as Nasdaq falls 5% in panicky selloff",
-    "summary": [
-      "‏بیت‌کوین به‌سرعت سقوط کرد، در حالی که شاخص نزدک ۵٪ کاهش یافت.",
-      "‏این فشار فروش باعث شد اتریوم ۴٪ رشد کند و سرمایه‌گذاری‌های جدید به ETF های رمزارزی جریان یابد.",
-      "‏قیمت نفت برنت نیز نزدیک به ۹٪ کاهش یافت."
-    ],
-    "body_fa": "‏در یک روز پر اضطراب، بیت‌کوین به‌سرعت سقوط کرد و شاخص نزدک حدود ۵٪ کاهش یافت. در مقابل، اتریوم ۴٪ افزایش یافت و نشان داد که سرمایه‌گذاران به دنبال دارایی‌های جایگزین هستند. جریان جدید سرمایه به صندوق‌های قابل معامله در بورس (ETF) رمزارزی نیز گزارش شد که نشان از جذب پول تازه به بازارهای دیجیتال دارد. همزمان، قیمت نفت برنت نزدیک به ۹٪ کاهش یافت که فشار کلی بر بازارهای مالی را تقویت کرد. این ترکیب از نوسانات شدید می‌تواند تأثیرات گسترده‌ای بر سرمایه‌گذاران خرد و بزرگ داشته باشد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
-    "clean_url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793847420.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ad7b98e692",
-    "title_fa": "‏نینتن‌دو اعلام کرد دیگر افزایش قیمت سوئیچ ۲ نخواهد شد",
-    "title_en": "Nintendo Rules Out Further Switch 2 Price Rises as Console Sales and Profit Fall",
-    "summary": [
-      "‏فروش کنسول سوئیچ ۲ در سه ماهه تا سپتامبر ۲۶ با کاهش ۴۱٪ به ۲.۶۷ میلیون واحد رسید.",
-      "‏نینتن‌دو به‌دلیل افت سود ۱۶٪ و کمبود حافظه، تصمیم گرفت دیگر قیمت را افزایش ندهد.",
-      "‏عرضه نسخه بازسازی Ocarina of Time باعث رشد ۸.۱۳٪ سهام شد."
-    ],
-    "body_fa": "‏نینتن‌دو اعلام کرد که دیگر قصد افزایش قیمت کنسول جدیدش، سوئیچ ۲، را ندارد، هرچند فروش این دستگاه در سه ماهه منتهی به ۳۰ سپتامبر ۲۰۲۶ با کاهش ۴۱ درصدی به ۲٫۶۷ میلیون واحد رسیده است. این کاهش فروش باعث افت ۱۶ درصدی سود عملیاتی به ۷۳٫۹ میلیارد ین (حدود ۴۶۷ میلیون دلار) در همان دوره شد. شرکت با این حال پیش‌بینی می‌کند که فروش سال مالی منتهی به مارس ۲۰۲۷ به ۱۶٫۵ میلیون واحد برسد و حافظه کافی برای پشتیبانی از این هدف دارد. نینتن‌دو در همین روز نسخه بازسازی Ocarina of Time را عرضه کرد که باعث افزایش ۸٫۱۳ درصدی قیمت سهام شرکت شد. با این حال، سرمایه‌گذاران نگران کمبود حافظه و عدم وجود عناوین برجسته در سال جاری هستند که می‌تواند شتاب فروش را کاهش دهد.",
-    "category": "گیم",
-    "subcategory": "کنسول‌های بازی",
-    "tag": "Switch2",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall",
-    "clean_url": "https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall",
-    "image": "https://assets-prd.ignimgs.com/2026/11/05/thelegendofzeldaocarinaoftime-48-1793873529240.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "timestamp": 1793845920.0,
     "sent_to_telegram": true
   }
 ]
