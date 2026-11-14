@@ -1,5 +1,27 @@
 [
   {
+    "id": "ce29851e0c",
+    "title_fa": "‏SpaceX برای اولین بار Starship را از مدار گرفت",
+    "title_en": "SpaceX, in a historic first, catches upper stage of its Starship rocket",
+    "summary": [
+      "‏SpaceX در پرواز آزمایشی 15 ، بخش بالایی Starship را با بازوی «چاپستیک» از مدار به برج پرتاب در تگزاس کشید.",
+      "‏این موفقیت، گامی مهم برای قابلیت بازیابی کامل موشک و گسترش شبکه ماهواره‌ای Starlink است.",
+      "‏در عین حال، بوستر در خلیج مکزیک منفجر شد و پروازهای غربی موقتاً متوقف شد."
+    ],
+    "body_fa": "‏SpaceX در پرواز آزمایشی 15 موفق شد بخش بالایی موشک عظیم Starship را پس از ۱۴ دور زمین، با بازوی مکانیکی «Mechazilla» در مرکز Starbase ، تگزاس، به زمین برساند. این اولین بار بود که شرکت ایلان ماسک هم بوستر و هم مرحله بالایی را به‌صورت همزمان بازیابی کرد؛ بوستر در خلیج مکزیک به‌صورت اضطراری به آب افتاد و منفجر شد. موفقیت در بازیابی مرحله بالایی نشانگر پیشرفت قابل‌توجهی در هدف SpaceX برای ساخت موشکی کاملاً قابل استفاده مجدد و کاهش هزینه‌های پرتاب است. در همین پرواز، ۲۶ ماهواره جدید Starlink v3 به مدار افزوده شد و تعداد کل ماهواره‌های این شبکه به بیش از ۱۱,۰۰۰ رسید. این دستاورد می‌تواند توانمندی SpaceX در ارائه خدمات اینترنت ماهواره‌ای و برنامه‌های آینده‌اش برای مأموریت‌های ماهی و مریخی را تقویت کند.",
+    "category": "تکنولوژی",
+    "subcategory": "فضا و موشکی",
+    "tag": "Starship",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+    "clean_url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+    "image": "https://s.yimg.com/bo/2fbba083-dbac-5823-a7d1-f0635b3f858e_1794691786293.jpg",
+    "timestamp": 1794690905.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "d12e113567",
     "title_fa": "‏ایران مذاکرات صادرات نفت به هند را ادامه می‌دهد",
     "title_en": "Iran says oil trade negotiations with India continuing despite sanctions",
@@ -44,6 +66,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "3c6a2f8135",
+    "title_fa": "‏Jonathan Kreiss-Tomkins اولین گورنر دموکرات آلاسکا شد",
+    "title_en": "Alaska elects first Democratic governor since 1998, US media project",
+    "summary": [
+      "‏جاناتان کریس-تامکینز به عنوان گورنر آلاسکا انتخاب شد",
+      "‏این اولین بار است که دموکرات پس از سال 1998 در این ایالت حکمرانی می‌کند",
+      "‏نتیجه می‌تواند سیاست‌های انرژی و تغییرات اقلیمی ایالت را تحت تأثیر قرار دهد"
+    ],
+    "body_fa": "‏یک پروژه رسانه‌ای آمریکایی اعلام کرد که جاناتان کریس-تامکینز به عنوان گورنر جدید آلاسکا انتخاب شده است. این انتخاب نخستین گورنر دموکرات در این ایالت از سال 1998 به شمار می‌آید. پیرو این نتایج، احتمال تغییر در سیاست‌های انرژی و برنامه‌های مقابله با تغییرات اقلیمی ایالت وجود دارد. همچنین این رویداد می‌تواند تأثیراتی بر روابط فدرال و ایالتی در زمینه‌های زیربنایی و منابع طبیعی داشته باشد. کارشناسان معتقدند حضور یک دموکرات در این ایالت می‌تواند جهت‌گیری‌های سیاسی فدرال را نیز تحت فشار قرار دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "انتخابات ایالتی آمریکا",
+    "tag": "آلاسکا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/alaska-elects-first-democratic-governor-since-1998-us-media-project-2026-11-14/",
+    "clean_url": "https://www.reuters.com/world/us/alaska-elects-first-democratic-governor-since-1998-us-media-project-2026-11-14",
+    "image": "https://s.yimg.com/bo/31386d8d-34fa-5aeb-bbab-f7e742779923_1794667282779.jpg",
+    "timestamp": 1794667265.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ab73ef5383",
+    "title_fa": "‏ماسک: Nvidia بدون جنسن هوانگ معاملات را از دست می‌دهد",
+    "title_en": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+    "summary": [
+      "‏ایلون ماسک در توییتی گفت اگر جنسن هوانگ از Nvidia کنار رود، شرکت معاملات کلیدی خود را از دست خواهد داد.",
+      "‏این اظهار نظر می‌تواند بر احساسات بازارهای فناوری و سهام Nvidia تأثیر بگذارد.",
+      "‏ماسک این نکته را در پاسخ به انتقادات اخیر درباره قیمت‌گذاری چیپ‌های AI بیان کرد."
+    ],
+    "body_fa": "‏در توییتی، ایلان ماسک اظهار کرد که اگر جنسن هوانگ، مدیرعامل فعلی Nvidia ، از سمت خود برود، شرکت ممکن است معاملات کلیدی خود را از دست بدهد. ماسک به نقش استراتژیک هوانگ در جذب مشتریان بزرگ مانند شرکت‌های فناوری پیشرو اشاره کرد. این اظهارنظر در حالی منتشر شد که Nvidia به‌تازگی سودهای فوق‌العاده‌ای از فروش چیپ‌های هوش مصنوعی گزارش کرده بود. اگرچه این نظر صرفاً یک پیش‌بینی شخصی است، اما می‌تواند نگرانی‌های سرمایه‌گذاران را برانگیزد و نوسان سهام Nvidia را تحت تأثیر قرار دهد. تحلیل‌گران هنوز تأثیر دقیق این اظهارنظر را بر بازار ارزیابی نمی‌کنند.",
+    "category": "تکنولوژی",
+    "subcategory": "شرکت‌های فناوری",
+    "tag": "Nvidia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-2026-11-14/",
+    "clean_url": "https://www.reuters.com/business/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-2026-11-14",
+    "image": "https://s.yimg.com/bo/0ba2a90f-8657-59d7-a0f1-be9135c0deb7_1794668567433.jpg",
+    "timestamp": 1794667265.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9a0740c483",
     "title_fa": "‏قیمت نفت گرمایی آمریکا ۵۹٪ افزایش یافت",
     "title_en": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,'...",
@@ -63,6 +129,94 @@
     "clean_url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
     "image": "https://s.yimg.com/bo/59c3e0e9-4023-5206-a43b-39e1b2b68944_1794667531260.jpg",
     "timestamp": 1794665159.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "49c7b02196",
+    "title_fa": "‏اختلال پنج ساعته سیستم هواپیمایی آمریکا به دلیل روتر L3 Harris",
+    "title_en": "US aviation shutdown blamed on L3 Harris installed router",
+    "summary": [
+      "‏سیستم هواپیمایی ایالات متحده به‌مدت نزدیک به پنج ساعت بسته شد و بیش از ۲۰٬۰۰۰ پرواز لغو شد.",
+      "‏این اختلال بزرگ به‌دلیل نقص در یک روتر نصب‌شده توسط L3 Harris رخ داد و اثرات اقتصادی و مسافری گسترده‌ای داشت.",
+      "‏FAA در حال بررسی علل دقیق و اقدامات پیشگیرانه است."
+    ],
+    "body_fa": "‏از جمعه گذشته، سیستم کنترل ترافیک هوایی ایالات متحده به‌دلیل یک نقص فنی به‌مدت تقریباً پنج ساعت از کار افتاد و بیش از ۲۰٬۰۰۰ پرواز داخلی و بین‌المللی را تحت تأثیر قرار داد. مقامات هواپیمایی اعلام کردند که این قطعی احتمالا به یک روتر شبکه‌ای که توسط شرکت L3 Harris در یکی از مراکز کنترل نصب شده بود، مربوط می‌شود. این روتر به‌عنوان بخش کلیدی ارتباطات بین ایستگاه‌های رادار و مرکز مدیریت پرواز عمل می‌کرد و خرابی آن باعث قطع همزمان داده‌های موقعیت هواپیماها شد. FAA و سایر نهادهای نظارتی در حال بررسی دقیق علل فنی و مسئولیت‌پذیری شرکت سازنده هستند تا از تکرار چنین حوادثی جلوگیری کنند. این اختلال نه تنها به مسافران و خطوط هوایی خسارت مالی وارد کرد، بلکه نگرانی‌های امنیتی و قابلیت اطمینان سیستم‌های هواپیمایی را نیز برانگیخت. انتظار می‌رود که پس از رفع مشکل، اقدامات امنیتی و پشتیبان‌گیری بیشتری در زیرساخت‌های ارتباطی پیاده شود.",
+    "category": "تکنولوژی",
+    "subcategory": "حمل‌ونقل هوایی",
+    "tag": "L3 Harris",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-aviation-shutdown-blamed-l3-harris-installed-router-2026-11-14/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/us-aviation-shutdown-blamed-l3-harris-installed-router-2026-11-14",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794658260.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4851cc893d",
+    "title_fa": "‏شرکت هوش مصنوعی Anthropic برای عرضه عمومی سهام آماده شد",
+    "title_en": "Meet the seven co-founders of Anthropic",
+    "summary": [
+      "‏شرکت هوش مصنوعی Anthropic پس از شش سال فعالیت، IPO خود را برای ۱۹ نوامبر برنامه‌ریزی کرده است.",
+      "‏این عرضه می‌تواند ارزش کل شرکت را به نزدیک ۱٫۴ تریلیون دلار برساند و بنیان‌گذاران را به میلیاردها دلار برساند.",
+      "‏بنیان‌گذاران هر کدام حدود ۲۴۰ میلیون سهم کلاس A دارند که در حال حاضر حدود ۱۴ میلیارد دلار ارزش دارد."
+    ],
+    "body_fa": "‏شرکت Anthropic که در سال ۲۰۲۱ توسط هفت نفر شامل پژوهشگران، یک روزنامه‌نگار سابق، یک سیاست‌گذار عمومی و یک مهندس تأسیس شد، قرار است در ۱۹ نوامبر به‌صورت عمومی سهام خود را به‌فروش بگذارد. این عرضه اولیه یکی از بزرگ‌ترین IPO های تاریخ خواهد بود و ارزش بازار شرکت را به حدود ۷۰ تا ۷۸ دلار برای هر سهم و مجموعاً نزدیک به ۱٫۴ تریلیون دلار می‌رساند. بنیان‌گذاران، که پیش از این در OpenAI مشغول به کار بودند، نگران سرعت پیشرفت مدل‌های هوش مصنوعی نسبت به درک ایمنی آن بودند و به‌دنبال ایجاد شرکتی با تمرکز بر ایمنی راه‌اندازی کردند. هر یک از این هفت نفر حدود ۲۴۰ میلیون سهم کلاس A دارند که در آخرین دور مالی به ارزش تقریباً ۱۴ میلیارد دلار برای هر نفر می‌رسد. اگر هدف IPO محقق شود، این سهام‌ها می‌توانند به ۱۷ تا ۱۸ میلیارد دلار ارزش برسند. این رویداد نشان‌دهنده رشد سریع صنعت هوش مصنوعی و اهمیت مسائل ایمنی در این حوزه است.",
+    "category": "تکنولوژی",
+    "subcategory": "عرضه اولیه سهام",
+    "tag": "Anthropic",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+    "clean_url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+    "image": "https://s.yimg.com/bo/962dbfb5-8325-5fa5-962e-a8454e8854b3_1794660162457.jpg",
+    "timestamp": 1794656465.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ea09f222f2",
+    "title_fa": "‏بنیاد آینده به دلیل کمبود نقدینگی حقوق کارکنان را نداد",
+    "title_en": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed...",
+    "summary": [
+      "‏استارتاپ رباتیک نظامی Foundation Future Industries به دلیل کمبود نقدینگی، در 30 اکتبر حقوق کارکنان را پرداخت نکرد.",
+      "‏این وضعیت خشم کارکنان را برانگیخت و نشان داد که بنیان‌گذار Sankaet Pathak سال گذشته 4.6 میلیون دلار از شرکت قرض گرفت تا خانه‌ای لوکس بخرد.",
+      "‏شرکت ادعا می‌کند ربات‌های پیشرفته‌ای را در ماه‌های آینده معرفی خواهد کرد و قراردادهای 24 میلیونی پنتاگون دارد."
+    ],
+    "body_fa": "‏بنیاد آینده (Foundation Future Industries) که ربات‌های انسان‌نما برای نظامی‌گری می‌سازد و توسط اریک ترامپ حمایت می‌شود، در اواخر اکتبر حقوق کارکنان خود را پرداخت نکرد. منبع‌های نزدیک به شرکت می‌گویند که این عدم پرداخت به دلیل کاهش شدید نقدینگی است. کارکنان به ویژه از این که مدیرعامل و هم‌بنیانگذار Sankaet Pathak سال گذشته 4.6 میلیون دلار از صندوق شرکت قرض گرفته تا خانه‌ای لوکس در سوسالیتو بخرد، خشمگین شده‌اند. این اقدام مالی در حالی رخ داد که Pathak ادعا می‌کند ربات نسل جدیدی را که می‌تواند در اوکراین یا مرزهای ایالات متحده به کار رود، در چند ماه آینده رونمایی خواهد کرد. شرکت همچنین مدعی دریافت 24 میلیون دلار قرارداد از پنتاگون است و در حال جذب سرمایه‌گذاری صدها میلیون دلاری با ارزش‌گذاری 3 میلیارد دلاری می‌باشد. اگرچه این ادعاها می‌تواند توجه سرمایه‌گذاران را جلب کند، اما مشکلات نقدینگی و سوءاستفاده مالی می‌تواند توانایی شرکت در تحقق برنامه‌هایش را به خطر اندازد.",
+    "category": "تکنولوژی",
+    "subcategory": "استارتاپ‌های نظامی",
+    "tag": "رباتیک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+    "clean_url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+    "image": "https://s.yimg.com/bo/dc038d98-a78c-5bbd-99b9-08c4126cc5c2_1794658298857.jpg",
+    "timestamp": 1794656465.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1d1b8e4556",
+    "title_fa": "‏دادستان لوئیزیانا CFTC را به‌خاطر بازارهای پیش‌بینی سرزنش کرد",
+    "title_en": "Louisiana AG calls CFTC chair an 'obsequious standard bearer' for prediction markets following agency lawsuit",
+    "summary": [
+      "‏کمیسیون کالاهای آتی (CFTC) روز جمعه ایالت لوئیزیانا را به دلیل ارائه قراردادهای رویدادی توسط Kalshi ، Polymarket ، Coinbase و Robinhood دادگاه کرد.",
+      "‏این اقدام پس از حکم قاضی ایالتی برای توقف ارائه این قراردادها در لوئیزیانا انجام شد و می‌تواند بر بازارهای پیش‌بینی اثر بگذارد.",
+      "‏دادستان ایالت لوئیزیانا رئیس CFTC را 'نماد استاندارد مطیع' نامید."
+    ],
+    "body_fa": "‏کمیسیون کالاهای آتی ایالات متحده (CFTC) روز جمعه علیه ایالت لوئیزیانا دادخواست داد، پس از آنکه قاضی ایالتی حکم کرد شرکت‌های Kalshi ، Polymarket ، Coinbase ، Robinhood و چندین شرکت وابسته دیگر از ارائه قراردادهای رویدادی یا بازارهای پیش‌بینی در این ایالت خودداری کنند. این قراردادها که به‌عنوان ابزارهای پیش‌بینی قیمت رویدادهای واقعی شناخته می‌شوند، تحت نظارت CFTC قرار دارند و ایالت‌ها نمی‌توانند به‌صورت یک‌جانبه بازارهای مالی را مسدود کنند. دادستان لوئیزیانا، در واکنش به این دعوا، رئیس CFTC را 'نماد استاندارد مطیع' توصیف کرد و ادعا کرد که این نهاد به‌طور بیش از حد به خواست‌های دولت‌های ایالتی گوش می‌دهد. CFTC در بیانیه‌ای اعلام کرد که این اقدام ایالتی خلاف قوانین فدرال است و هدف آن حفظ یکپارچگی بازارهای مشتقه در سراسر کشور است. اگر دعوا ادامه یابد، ممکن است دسترسی به بازارهای پیش‌بینی برای کاربران در ایالات دیگر نیز تحت فشار قانونی قرار گیرد و چارچوب نظارتی بر این نوع دارایی‌ها را تغییر دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "CFTC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794649800.0,
     "sent_to_telegram": true
   },
   {
@@ -286,6 +440,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "f91ef895fa",
+    "title_fa": "‏شرکت SpaceX اولین بازیابی کامل Starship را آزمایش می‌کند",
+    "title_en": "SpaceX to Attempt First Full Recovery of New Starship Rocket",
+    "summary": [
+      "‏شرکت SpaceX در پرواز بعدی قصد دارد اولین بازیابی کامل Starship جدید را انجام دهد.",
+      "‏موفقیت این اقدام می‌تواند هزینه‌های پرتاب را کاهش داده و رقابت در بازارهای ماهواره‌ای را تغییر دهد.",
+      "‏برنامه شامل استفاده از پره‌های پروازی پیشرفته و پاراشوت‌های بزرگ برای بازگشت به زمین است."
+    ],
+    "body_fa": "‏شرکت SpaceX برنامه دارد در پرواز آزمایشی بعدی، تمام بخش‌های Starship جدید را به‌صورت کامل به‌دست آورد. این اولین بار است که شرکت سعی می‌کند نه فقط بخش اول بلکه کل وسیله را پس از ورود به جو زمین بازیابی کند. برای این منظور، Starship با سیستم‌های جدید پره‌گردان، پره‌های حرارتی پیشرفته و پاراشوت‌های بزرگ مجهز شده است. اگر موفق شود، هزینه‌های پرتاب به‌طور قابل‌توجهی کاهش می‌یابد و دسترسی به فضا برای شرکت‌های ماهواره‌ای و ماموریت‌های بین‌المللی آسان‌تر می‌شود. این گام می‌تواند موقعیت SpaceX را در رقابت با سایر ارائه‌دهندگان خدمات فضایی تقویت کند.",
+    "category": "تکنولوژی",
+    "subcategory": "فضا و موشک",
+    "tag": "Starship",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794628800.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "3608eaab3a",
     "title_fa": "‏گینه برنامه‌ریزی شاخص بکسیت برای تقویت قیمت‌های سنگ معدن",
     "title_en": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
@@ -327,6 +503,28 @@
     "clean_url": "https://www.reuters.com/legal/litigation/cvs-says-glp-1s-save-money-when-priced-below-350-per-month-2026-11-14",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794625500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f9389c4b21",
+    "title_fa": "‏ترامپ در دادگاه عالی قدرت قضات را محدود می‌کند",
+    "title_en": "At the Supreme Court, Trump aims to cut the power of judges again",
+    "summary": [
+      "‏دپارتمان عدالت آمریکا از دادگاه عالی می‌خواهد توانایی قضات برای متوقف کردن اقدامات نهادهای فدرالی را محدود کند.",
+      "‏این اقدام می‌تواند نظارت قضایی بر سیاست‌های اجرایی را کاهش داده و اجرای برنامه‌های ترامپ را تسهیل کند.",
+      "‏اگر تصویب شود، تاثیر قابل‌توجهی بر قوانین زیست‌محیطی و اقتصادی خواهد داشت."
+    ],
+    "body_fa": "‏دپارتمان عدالت ایالات متحده درخواست کرده است که دادگاه عالی توانایی تاریخی قضات برای توقیف اقدامات نهادهای فدرالی را محدود کند. این نهادها، که برای اجرای سیاست‌های رئیس‌جمهور دونالد ترامپ نقش کلیدی دارند، معمولاً تحت نظارت قضایی برای جلوگیری از تجاوز به حدود قانونی قرار می‌گیرند. قضات با صدور احکام توقف می‌توانند برنامه‌های اجرایی را به تعویق بیندازند یا تغییر دهند. ترامپ و حامیان او معتقدند این محدودیت می‌تواند مانع از مداخله قضات در اجرای برنامه‌های اقتصادی و زیست‌محیطی شود. اگر این تغییر قانونی تصویب شود، نظارت قضایی بر نهادهای نظارتی مانند EPA و FTC کاهش یافته و ممکن است به تسریع اجرای مقررات مورد نظر دولت منجر شود. این اقدام می‌تواند واکنش‌های متفاوتی در بازارهای مالی و میان‌المللی به‌وجود آورد، به‌ویژه در بخش‌های انرژی و زیست‌محیطی.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "قوه قضائیه",
+    "tag": "قضات",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/supreme-court-trump-aims-cut-power-judges-again-2026-11-14/",
+    "clean_url": "https://www.reuters.com/legal/government/supreme-court-trump-aims-cut-power-judges-again-2026-11-14",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794625320.0,
     "sent_to_telegram": true
   },
   {
@@ -6398,204 +6596,6 @@
     "clean_url": "https://www.reuters.com/world/us/midterms-upended-congress-trump-still-commands-foreign-policy-2026-11-05",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793875860.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a0ecfb8925",
-    "title_fa": "‏دولت آمریکا خطر سایبری بر یخچال‌های صنعتی را هشدار داد",
-    "title_en": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-    "summary": [
-      "‏هکرها به یخچال‌ها و فریزرهای صنعتی در سوپرمارکت‌ها، پایگاه‌های نظامی و بانک خون حمله کردند",
-      "‏این حملات می‌توانند دما را تغییر دهند، مواد غذایی و داروها را خراب کنند و خطر آتش‌سوزی ایجاد کنند",
-      "‏آژانس‌های امنیتی آمریکا، از جمله CISA و FBI ، به حذف اتصال اینترنتی و به‌روزرسانی سیستم‌ها توصیه کردند"
-    ],
-    "body_fa": "‏آژانس‌های امنیتی ایالات متحده در بیانیه‌ای مشترک هشدار دادند که یخچال‌ها و فریزرهای صنعتی متصل به اینترنت در سراسر جهان هدف حملات سایبری هستند. این حملات در بریتانیا، اروپا و حتی پایگاه‌های نظامی آمریکا رخ داده و توانسته‌اند دما را بالا ببرند، باعث فاسد شدن مواد غذایی و خطر آتش‌سوزی شوند. در یکی از موارد، یک بانک خون در فرانسه متضرر شد و دما در واحدهای سرد افزایش یافت، اما قبل از از دست رفتن خون متوقف شد. هکرها به‌خصوص به سیستم‌های تولیدکننده دانمارکی Danfoss که به‌روزرسانی‌های امنیتی ارائه نمی‌کردند، هدف گرفته‌اند. مقامات از صنایع غذایی، کشاورزی، حمل‌ونقل و داروسازی خواستند تا کنترل‌های اینترنتی را قطع، گذرواژه‌ها را تقویت و پچ‌های موجود را نصب کنند. اگرچه گروه خاصی شناسایی نشده، پژوهشگران امنیتی حملات را به ایران نسبت می‌دهند و دولت آمریکا نیز این احتمال را تأیید کرده است. این تهدید می‌تواند زنجیره سرد را مختل کرده و خسارات اقتصادی و بهداشتی قابل‌توجهی به بار آورد.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "هک یخچال",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-    "clean_url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/freezer-hacks-2299339780.jpg?resize=1200,800",
-    "timestamp": 1793875740.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5f910abefc",
-    "title_fa": "‏شاخص اضطراب استریت پس از سقوط سهام چیپ به اوج",
-    "title_en": "Wall Street fear gauge soars and retail traders bolt as markets in tailspin",
-    "summary": [
-      "‏شاخص اضطراب وال استریت (VIX) بزرگ‌ترین جهش داخلی در ۱۸ ماه را ثبت کرد.",
-      "‏این افزایش ناشی از سقوط شدید سهام چیپ و مراکز داده بود و خرده‌فروشان را از بازار بیرون رانده.",
-      "‏شاخص S&P 500 نیز بیش از ۲٪ کاهش یافت."
-    ],
-    "body_fa": "‏در روز پنجشنبه، شاخص اضطراب وال استریت (VIX) به 31.5 رسید که بزرگ‌ترین جهش داخلی آن در بیش از هجدهم ماه بود. این جهش به دلیل افت شدید سهام شرکت‌های چیپ‌ساز مانند Nvidia و AMD و همچنین سهام مراکز داده رخ داد. شاخص S&P 500 به بیش از ۲٪ کاهش یافت و بازارهای سهام به‌سرعت به سمت ریسک‌گریزی حرکت کردند. خرده‌فروشان جزئی از این روند شدند و حجم خریدهای نقدی و فروش‌های اضطراری در بازار افزایش یافت. تحلیل‌گران هشدار دادند که نوسانات بالا می‌تواند تا پایان هفته ادامه یابد و سرمایه‌گذاران باید مراقب ریسک‌های کوتاه‌مدت باشند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "شاخص اضطراب بازار",
-    "tag": "VIX",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/wall-street-fear-gauge-jumps-most-since-liberation-day-ai-trade-stumbles-2026-11-05/",
-    "clean_url": "https://www.reuters.com/business/wall-street-fear-gauge-jumps-most-since-liberation-day-ai-trade-stumbles-2026-11-05",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793874660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f330daf92a",
-    "title_fa": "‏صادرات دیزل چین در نوامبر به‌سوی سقوط می‌رود",
-    "title_en": "China’s Diesel Exports Set to Plunge as Domestic Inventories Run Low | OilPrice....",
-    "summary": [
-      "‏چین در ماه نوامبر حدود ۸۰۰٬۰۰۰ تن دیزل صادر می‌کند که نسبت به اوت و سپتامبر کاهش قابل‌توجهی است",
-      "‏کاهش صادرات به دلیل موجودی‌های داخلی کم و اولویت‌دادن به تأمین داخلی است و می‌تواند قیمت دیزل جهانی را تحت فشار قرار دهد",
-      "‏اگرچه کوتا برای صادرات چهارم‌فصل تا ۲۰٫۴۴ میلیون تن افزایش یافت، برنامه ماهانه هنوز در حال تنظیم است"
-    ],
-    "body_fa": "‏چین در ماه نوامبر برنامه دارد حدود ۸۰۰٬۰۰۰ تن دیزل صادر کند، که نسبت به اوت (۱٫۳۳ میلیون تن) و سپتامبر (۱٫۸ میلیون تن) کاهش چشمگیری است. این کاهش به دلیل موجودی‌های داخلی کم است؛ حمل‌ونقل سوخت در اواخر تابستان موجودی‌های داخلی را خالی کرده و دولت و پالایشگاه‌ها اولویت تأمین داخلی را انتخاب کرده‌اند. در اوت، پس از رفع محدودیت‌های صادراتی، چین ۶٫۰۱ میلیون تن محصولات نفتی صادر کرد که ۱۲٫۷٪ افزایش سالانه داشت و صادرات جت‌فیوئل به بالاترین سطح تاریخ رسید. در اکتبر نیز به‌دلیل تعطیلات هفتگی، صادرات موقتاً کاهش یافت اما پس از ۹ اکتبر دوباره افزایش یافت. هفته گذشته کوتا برای صادرات محصولات تصفیه‌شده در چهارم‌فصل به ۲۰٫۴۴ میلیون تن افزایش یافت، اما این فضای اضافی تضمین‌کننده افزایش فوری صادرات نیست و برنامه ماهانه هنوز در حال بازنگری است. تحلیل‌گران معتقدند اگرچه امکان بازنگری به سمت افزایش وجود دارد، اما فشارهای داخلی ممکن است همچنان صادرات دیزل چین را محدود نگه دارد.",
-    "category": "انرژی و کالا",
-    "subcategory": "صادرات دیزل",
-    "tag": "دیزل",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Diesel-Exports-Set-to-Plunge-as-Domestic-Inventories-Run-Low.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Diesel-Exports-Set-to-Plunge-as-Domestic-Inventories-Run-Low.html",
-    "image": "https://s.yimg.com/bo/4eb2c27e-e368-5314-8f1c-38b620fb6671_1793874384934.jpg",
-    "timestamp": 1793874596.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "744ec2f61d",
-    "title_fa": "‏هکر ۳۹۱٬۰۰۰ دلار از صرافی Mercado Bitcoin سرقت کرد",
-    "title_en": "Mercado Bitcoin hack continued hours after exchange said attack was contained,...",
-    "summary": [
-      "‏هکر به‌سرعت پس از اعلام مهار حمله، حدود ۳۹۱٬۰۰۰ دلار را از صرافی Mercado Bitcoin برداشت.",
-      "‏این سرقت نشان‌دهنده ضعف امنیتی صرافی‌هاست و می‌تواند اعتماد کاربران به پلتفرم‌های کریپتو را کاهش دهد.",
-      "‏تحقیقات Bitquery کیف پول‌های سرقت‌شده را به مؤسس BitMart ربط داد."
-    ],
-    "body_fa": "‏صرافی برزیلی Mercado Bitcoin اعلام کرد که حمله هکری را مهار کرده است، اما هکر پس از آن به سرقت ادامه داد. برآوردها نشان می‌دهد حدود ۳۹۱٬۰۰۰ دلار از کیف‌پول‌های مرتبط با BitMart ، که توسط Bitquery شناسایی شده‌اند، به دست مهاجم افتاده است. این اتفاق نشان‌دهنده ضعف‌های امنیتی در زیرساخت‌های صرافی‌های کریپتو، به‌ویژه در زمان‌های اضطراری، است. کارشناسان هشدار دادند که این نوع حملات می‌تواند اعتماد سرمایه‌گذاران به بازارهای دیجیتال را تحت‌تأثیر قرار دهد. صرافی در حال بررسی جزئیات حمله و ارتقای پروتکل‌های امنیتی است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "هک و امنیت",
-    "tag": "Mercado Bitcoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-    "clean_url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-    "image": "https://s.yimg.com/bo/be967a5e-f14c-53f6-83c0-4b562738b108_1791535160013.jpg",
-    "timestamp": 1793874595.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "28af13fca3",
-    "title_fa": "‏استارتاپ تحویل غذا Wonder برای عرضه عمومی سهام اقدام کرد",
-    "title_en": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-    "summary": [
-      "‏استارتاپ تحویل غذا Wonder به‌صورت محرمانه برای IPO ثبت‌نام کرد",
-      "‏این اقدام پس از جذب 650 میلیون دلار و ارزیابی 9 میلیارد دلاری، می‌تواند بازار فناوری غذایی را تحت تأثیر قرار دهد",
-      "‏شرکت قصد دارد تا سال 2027 بیش از 100 مکان در تگزاس باز کند"
-    ],
-    "body_fa": "‏استارتاپ تحویل غذا Wonder به‌صورت محرمانه برای عرضه عمومی سهام (IPO) اقدام کرد و این گام مهم پس از سال‌ها جذب سرمایه و خریدهای استراتژیک است. شرکت که در سال 2018 توسط مارک لور تأسیس شد، پس از جذب بیش از 650 میلیون دلار در دور مالی اخیر، به‌حدود 9 میلیارد دلار ارزش‌گذاری شده است. Wonder مدل خود را فراتر از برنامه‌های تحویل سنتی گسترش داده و با داشتن مکان‌های شبیه هال‌های غذایی، امکان سفارش از چندین برند رستورانی را در یک پلتفرم فراهم می‌کند. از جمله خریدهای اخیر این شرکت می‌توان به Blue Apron ، Grubhub ، Tastemade و Spyce اشاره کرد که به آن دسترسی به فناوری رباتیک آشپزی می‌دهد. همچنین Wonder با DoorDash به مبلغ 425 میلیون دلار برای گسترش خدمات غذا در دانشگاه‌ها همکاری کرده است. برنامه‌های توسعه شامل گسترش به تگزاس با هدف افتتاح بیش از 100 مکان تا پایان 2027 می‌شود. ورود به بازار عمومی می‌تواند فرصت جذب سرمایه بیشتر و رقابت شدیدتر با DoorDash و Uber Eats را برای Wonder به همراه داشته باشد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سرمایه",
-    "tag": "IPO",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-    "clean_url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?resize=1200,800",
-    "timestamp": 1793869860.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cc9cd63db0",
-    "title_fa": "‏راه‌اندازی ETF Canary Staked INJ با نماد INJC در Nasdaq",
-    "title_en": "Canary's Injective ETF debuts on Nasdaq with exposure to staking rewards",
-    "summary": [
-      "‏شرکت Canary Capital صندوق ETF جدید Canary Staked INJ را با نماد INJC بر روی Nasdaq معرفی کرد.",
-      "‏این صندوق به سرمایه‌گذاران امکان دسترسی به توکن بومی INJ و دریافت پاداش‌های استیکینگ را می‌دهد.",
-      "‏این ETF با هدف جذب سرمایه‌گذاران علاقه‌مند به رمزارزهای نوظهور و استراتژی‌های درآمدی طراحی شده است."
-    ],
-    "body_fa": "‏شرکت Canary Capital صندوق جدیدی به نام Canary Staked INJ ETF را راه‌اندازی کرد که به صورت مستقیم در توکن بومی پروتکل Injective یعنی INJ سرمایه‌گذاری می‌کند. این ETF تحت نماد INJC در بازار Nasdaq معامله خواهد شد و هدفش ارائه بازدهی از طریق پاداش‌های استیکینگ توکن است. سرمایه‌گذاران می‌توانند با خرید واحدهای این صندوق، بدون نیاز به مدیریت مستقیم استیکینگ، از سودهای حاصل از نگهداری INJ بهره‌مند شوند. راه‌اندازی این محصول نشان‌دهنده گسترش ابزارهای مالی مبتنی بر رمزارزها در بازارهای سنتی و جذب سرمایه‌گذاران علاقه‌مند به دارایی‌های دیجیتال است. اگرچه INJ یک توکن نسبتاً کوچک است، حضور آن در یک ETF معتبر می‌تواند نقدشوندگی و شناخت آن را افزایش دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ETF رمزارز",
-    "tag": "INJ",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-    "clean_url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793865600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2be77341c4",
-    "title_fa": "‏هاماک و بارکین فدرال‌رزرو تدریجی نرخ بهره را تأیید کردند",
-    "title_en": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
-    "summary": [
-      "‏هاماک و بارکین، اعضای فدرال‌رزرو، افزایش تدریجی نرخ بهره را پیشنهاد کردند",
-      "‏این رویکرد برای کاهش تورم بالاتر از هدف و حفظ ثبات بازارهای مالی مهم است",
-      "‏آنها تاکید کردند که افزایش‌ها باید ملایم و پیش‌بینی‌پذیر باشد"
-    ],
-    "body_fa": "‏دو مقام ارشد فدرال‌رزرو، هاماک و بارکین، روز پنجشنبه بر ضرورت افزایش تدریجی و ملایم نرخ بهره برای مهار تورم بالاتر از هدف تأکید کردند. آنها گفتند که نرخ بهره باید به‌صورت پیش‌بینی‌پذیر و بدون توقف‌های ناگهانی ارتقا یابد تا فشارهای قیمتی کاهش یابد. این اظهارات پس از انتشار داده‌های اخیر نشان می‌دهد که تورم هنوز به سطح هدف ۲٪ نرسیده است. تصمیم آنها می‌تواند مسیر سیاست پولی را برای ماه‌های آینده شکل دهد و بر بازارهای سهام و اوراق قرضه تأثیر بگذارد. در عین حال، این رویکرد نشانگر تعهد فدرال‌رزرو به حفظ ثبات اقتصادی در برابر فشارهای قیمتی است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "فدرال‌رزرو",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/feds-hammack-favors-gradual-rate-hike-path-lower-inflation-2026-11-05/",
-    "clean_url": "https://www.reuters.com/business/feds-hammack-favors-gradual-rate-hike-path-lower-inflation-2026-11-05",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793857860.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c7b5d6c432",
-    "title_fa": "‏اندونزی اوراق قرضه دلاری را پس از تصمیم MSCI منتشر کرد",
-    "title_en": "Indonesia Launches First Dollar Bond Sale Post-MSCI Fallout",
-    "summary": [
-      "‏اندونزی اولین فروش اوراق قرضه دلاری پس از هشدار MSCI برای حذف سهام‌هایش از شاخص‌های نوظهان آغاز کرد.",
-      "‏این اقدام نشانگر اعتماد سرمایه‌گذاران بین‌المللی به بزرگ‌ترین اقتصاد جنوب شرق آسیا پس از خطر خروج 15B دلار است.",
-      "‏اوراق قرضه شرکت KB Indonesia به دلیل نوسان بازار به تعویق افتاد."
-    ],
-    "body_fa": "‏اندونزی اولین بار پس از تصمیم پیشنهادی MSCI برای حذف سهام‌هایش از شاخص‌های نوظهان، فروش اوراق قرضه دلاری را آغاز کرد. این تصمیم می‌توانست بیش از 15B دلار خروج سرمایه ایجاد کند و هزینه‌های استقراض کشور را بالا ببرد. پس از اعلام MSCI ، اسپرد اوراق قرضه شرکتی اندونزی به 67bps افزایش یافت که بیشترین مقدار از سال 2020 است. بانک KB Indonesia نیز به دلیل نوسان بازار، فروش اوراق سه‌ساله با ییلد 275bps نسبت به اوراق خزانه‌داری آمریکا را به تعویق انداخت. در بازار داخلی، حراجی اوراق دولتی تنها 20.7trillion روپیه جذب کرد در حالی که هدف 30trillion روپیه بود. دولت با اصلاحاتی چون افشای بیش از 1 ٪ سهامداران و افزایش فری‌فلو به 15 ٪ سعی دارد اثرات منفی این تصمیم را کاهش دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار بدهی",
-    "tag": "MSCI",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "ainvest",
-    "url": "https://www.ainvest.com/news/indonesia-launches-dollar-bond-sale-post-msci-fallout-2611/",
-    "clean_url": "https://www.ainvest.com/news/indonesia-launches-dollar-bond-sale-post-msci-fallout-2611",
-    "image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1793852954978.jpg.png",
-    "timestamp": 1793855880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2049da68d7",
-    "title_fa": "‏سهم‌های Unity ، AppLovin و Shake Shack پیش‌بازار رشد کردند",
-    "title_en": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
-    "summary": [
-      "‏سهم Unity ۲۲٪ و AppLovin ۱۹٪ پس از گزارش‌های مالی فوق‌العاده افزایش یافت",
-      "‏این رشد نشان‌دهنده تقویت بخش نرم‌افزارهای بازی و تبلیغات موبایل و می‌تواند بازار پیش‌بازار را تحت تأثیر قرار دهد",
-      "‏در عین حال، سهام Qualcomm ۹٪ سقوط کرد و Zillow ۱۵٪ افت داشت"
-    ],
-    "body_fa": "‏در معاملات پیش‌بازار امروز، سهام Unity Software پس از انتشار نتایج سه‌ماهه سوم که سود هر سهم ۲۵ سنت و درآمد ۶۲۲ میلیون دلار را نشان داد، ۲۲ درصد افزایش یافت. AppLovin نیز با گزارش EBITDA تنظیم‌شده ۱٫۸۴ میلیارد دلاری و درآمد ۲٫۱۸ میلیارد دلار، ۱۹ درصد رشد کرد. Shake Shack پس از اعلام سود تنظیم‌شده ۴۰ سنت به ازای هر سهم و درآمد ۴۲۳ میلیون دلار، ۳٫۸ درصد صعود کرد، در حالی که Peloton با درآمد ۵۵۹ میلیون دلار اما سود کمتر از انتظار، ۷ درصد افزایش یافت. برعکس، Qualcomm ۹ درصد افت کرد و Zillow حدود ۱۵ درصد کاهش یافت. این نوسانات نشان‌دهنده تفاوت عملکرد شرکت‌های فناوری و مصرف‌کننده در دوره مالی اخیر است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نتایج مالی شرکت‌ها",
-    "tag": "سهام",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
-    "clean_url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108303711-1778165997426-gettyimages-2266571292-_RMN9508.jpeg?v=1778166027&w=1920&h=1080",
-    "timestamp": 1793854260.0,
     "sent_to_telegram": true
   }
 ]
