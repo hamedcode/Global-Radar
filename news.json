@@ -1,5 +1,115 @@
 [
   {
+    "id": "aba9083e16",
+    "title_fa": "‏Megaspeed بررسی داخلی می‌کند پس از خروج آلیس هوانگ",
+    "title_en": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into...",
+    "summary": [
+      "‏آلیس هوانگ در 30 اوت 2025 از Megaspeed رفت.",
+      "‏شرکت برای بررسی گزارش‌های رسانه‌ای درباره زنجیره تأمین و ارتباطاتش با Nvidia تحقیق داخلی آغاز کرد.",
+      "‏برخی مقامات آمریکا او را دارایی اطلاعاتی چین می‌دانند."
+    ],
+    "body_fa": "‏Megaspeed روز یکشنبه اعلام کرد آلیس هوانگ در 30 اوت 2025 از شرکت جدا شده و دیگر نقشی در آن ندارد. این شرکت سحابی مستقر در سنگاپور، که به عنوان شریک اصلی Nvidia در ارائه ابرمحاسبه در منطقه شناخته می‌شود، پس از انتشار گزارش‌های رسانه‌ای درباره احتمال انتقال چیپ‌های خود به چین، یک تحقیق داخلی راه‌اندازی کرده است. Megaspeed تاکید کرد که ادعاهای مربوط به زنجیره تأمین و عملیات جهانی‌اش شواهد قابل تأییدی ندارند و برای بررسی دقیق‌تر و مشاوره حقوقی خارجی اقدام کرده است. مقامات اطلاعاتی ایالات متحده آلیس هوانگ را دارایی اطلاعاتی چین می‌دانند، در حالی که ادعای خیانت همسر جنسن هوانگ، مدیر سابق Nvidia ، به رسانه‌ها دامن زده است. این ماجرا می‌تواند روابط تجاری Megaspeed با Nvidia و تبعیت از قوانین صادرات ایالات متحده را تحت فشار قرار دهد. شرکت قول داد نتایج تحقیق را به ذینفعان اطلاع دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "Megaspeed",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+    "clean_url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+    "image": "https://s.yimg.com/bo/ab0c4a9a-da52-55a6-b0fe-06635159ec08_1794732279137.jpg",
+    "timestamp": 1794729454.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1979764c16",
+    "title_fa": "‏پوشش ترامپ برای معادن بحرانی چین را سست نکرد",
+    "title_en": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks",
+    "summary": [
+      "‏ترامپ در دیدار با شی جین‌پینگ، هنوز نتوانسته تأمین معادن بحرانی داخلی را به‌دست آورد.",
+      "‏این عدم پیشرفت می‌تواند وابستگی آمریکا به چین در مواد کلیدی را حفظ کند و مذاکرات تجاری را تحت فشار بگذارد.",
+      "‏ترامپ هدف دارد تا زنجیره تأمین را در داخل کشور تقویت کند."
+    ],
+    "body_fa": "‏در این هفته، رئیس‌جمهور ایالات متحده Donald Trump با رئیس‌جمهور چین Xi Jinping دیدار کرد تا مذاکرات تجاری دو جانبه را پیش ببرد. یکی از محورهای کلیدی استراتژی تجاری ترامپ، تأمین معادن بحرانی مانند لیتیوم، کبالت و نئودیمیوم در داخل کشور است تا وابستگی به چین را کاهش دهد. اما تا کنون برنامه‌های دولتی برای ایجاد معادن و پردازش داخلی نتوانسته‌اند جایگزینی قابل‌توجهی برای عرضه چینی فراهم کنند. این عدم پیشرفت باعث می‌شود که چین همچنان کنترل عمده‌ای بر زنجیره تأمین مواد کلیدی داشته باشد و فشار بر مذاکرات تجاری افزایش یابد. مقامات آمریکایی اعلام کرده‌اند که تلاش برای گسترش تولید داخلی ادامه دارد، اما زمان‌بندی طولانی و هزینه‌های بالا مانع پیشرفت سریع می‌شود. در صورت عدم موفقیت، وابستگی آمریکا به چین می‌تواند به عنوان نقطه ضعف در رقابت‌های ژئوپلیتیک و اقتصادی باقی بماند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "معادن بحرانی",
+    "tag": "معادن",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/trumps-minerals-push-has-yet-loosen-chinas-grip-ahead-xi-talks-2026-11-15/",
+    "clean_url": "https://www.reuters.com/business/autos-transportation/trumps-minerals-push-has-yet-loosen-chinas-grip-ahead-xi-talks-2026-11-15",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794711840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d5e4a110a5",
+    "title_fa": "‏Goldman Sachs پیش‌بینی می‌کند اقتصاد جهانی ۲٫۸٪ رشد کند",
+    "title_en": "Global Economy to grow 2.8% in 2027, buoyed by lower oil prices and AI investments: Goldman Sachs",
+    "summary": [
+      "‏Goldman Sachs پیش‌بینی می‌کند که رشد کل اقتصاد جهانی در ۲۰۲۷ به ۲٫۸٪ برسد.",
+      "‏پیش‌بینی بر پایه کاهش قیمت نفت و سرمایه‌گذاری‌های هوش مصنوعی است که می‌تواند رشد را تقویت کند.",
+      "‏رشد چین ۴٫۵٪ پیش‌بینی می‌شود و ریسک‌های ژئوپلیتیک و کسری‌های مالی می‌توانند فشار منفی وارد کنند."
+    ],
+    "body_fa": "‏در گزارشی اخیر، Jan Hatzius ، اقتصاددان ارشد Goldman Sachs ، پیش‌بینی کرد که تولید ناخالص داخلی جهان در سال ۲۰۲۷ ۲٫۸٪ رشد خواهد کرد، کمی بالاتر از ۲٫۷٪ پیش‌بینی برای ۲۰۲۶. این افزایش به‌دلیل کاهش قیمت نفت، که به ۷۸ دلار در هر بشکه پیش‌بینی می‌شود، و ادامه سرمایه‌گذاری‌های گسترده در هوش مصنوعی است؛ سرمایه‌گذاری‌های AI جهانی به ۱٫۸ تریلیون دلار می‌رسد و ۰٫۴ درصد از رشد GDP را تشکیل می‌دهد. ایالات متحده، ژاپن و بریتانیا انتظار می‌رود عملکرد بهتری نسبت به پیش‌بینی‌ها داشته باشند، در حالی که کره جنوبی و تایوان از صادرات مرتبط با AI بهره‌مند می‌شوند. چین پیش‌بینی می‌شود ۴٫۵٪ رشد کند، اما ضعف مصرف داخلی و بازار مسکن می‌تواند تقاضا را محدود کند. گزارش هشدار می‌دهد که تنش‌های احتمالی در ایران، کسری‌های مالی گسترده و کاهش سرمایه‌گذاری در AI می‌توانند ریسک‌های نزولی برای رشد جهانی ایجاد کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "رشد اقتصادی جهانی",
+    "tag": "رشد",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "The Hindu BusinessLine",
+    "url": "https://www.thehindubusinessline.com/economy/global-economy-to-grow-28-in-2027-buoyed-by-lower-oil-prices-and-ai-investments-goldman-sachs/article71704111.ece",
+    "clean_url": "https://www.thehindubusinessline.com/economy/global-economy-to-grow-28-in-2027-buoyed-by-lower-oil-prices-and-ai-investments-goldman-sachs/article71704111.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/g1uya1/article71704126.ece/alternates/LANDSCAPE_1200/bl05-Think1-MidGOIFUGE2F.5.jpg.jpg",
+    "timestamp": 1794710880.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1d248d5552",
+    "title_fa": "‏ایران به پایگاه بحرین حمله کرد؛ توافق آمریکا باز است",
+    "title_en": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open",
+    "summary": [
+      "‏ایران به پایگاه نظامی بحرین حمله کرد",
+      "‏این اقدام نشان‌دهنده ادامه تنش‌ها و امکان مذاکرات با آمریکاست",
+      "‏جزئیات دقیق حمله هنوز منتشر نشده"
+    ],
+    "body_fa": "‏بلومبرگ گزارش داد که نیروی هوایی ایران به یک پایگاه نظامی در بحرین حمله کرد. این حمله به عنوان پاسخی به تحریم‌ها و فشارهای منطقه‌ای توصیف شد. ایران تأکید کرد مسیر مذاکرات برای رفع تحریم‌های آمریکا همچنان باز است. هنوز جزئیات دقیق درباره خسارات یا تلفات منتشر نشده و این رویداد می‌تواند تنش‌های خاورمیانه را تشدید کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "روابط خاورمیانه",
+    "tag": "Iran",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794701640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cccf1005ea",
+    "title_fa": "‏حمایت آمریکا از تایوان به‌ظاهر ناپایدار است",
+    "title_en": "America’s Support for Taiwan Looks Alarmingly Fragile",
+    "summary": [
+      "‏آمریکا حمایت نظامی و سیاسی‌اش از تایوان را به‌نظر می‌رسد که به‌سرعت در حال تضعیف است.",
+      "‏این ناپایداری می‌تواند تنش‌های چین‑آمریکا را تشدید کرده و بر امنیت منطقه‌ای و زنجیره‌های تأمین جهانی اثر بگذارد.",
+      "‏تحلیل‌گران هشدار می‌دهند که هر تغییر در سیاست آمریکا ممکن است بازارهای آسیایی را تحت فشار قرار دهد."
+    ],
+    "body_fa": "‏به‌نظر می‌رسد ایالات متحده دیگر نتواند حمایت مستمر خود را از تایوان حفظ کند؛ فشارهای داخلی، هزینه‌های نظامی و ریسک‌های ژئوپلیتیک باعث شده‌اند این سیاست به‌ظاهر ناپایدار شود. کارشناسان می‌گویند این ضعف می‌تواند به چین انگیزه بیشتری برای اعمال فشار یا حتی اقدام نظامی بدهد و به‌همین دلیل تنش‌های چین‑آمریکا تشدید می‌شود. در صورت ادامه این روند، امنیت خلیج تایوان به خطر می‌افتد و زنجیره‌های تأمین فناوری، به‌ویژه در حوزه نیمه‌هادی‌ها، ممکن است دچار اختلال شوند. این تحولات نه تنها برای کشورهای منطقه بلکه برای بازارهای جهانی نیز پیامدهای اقتصادی مهمی دارد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "روابط چین‑آمریکا",
+    "tag": "تایوان",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-11-15/american-support-for-taiwan-looks-alarmingly-fragile",
+    "clean_url": "https://www.bloomberg.com/opinion/articles/2026-11-15/american-support-for-taiwan-looks-alarmingly-fragile",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794697200.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ce29851e0c",
     "title_fa": "‏SpaceX برای اولین بار Starship را از مدار گرفت",
     "title_en": "SpaceX, in a historic first, catches upper stage of its Starship rocket",
@@ -6486,116 +6596,6 @@
     "clean_url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05",
     "image": "https://s.yimg.com/bo/391b7966-79df-5af7-b822-4e71e90afa06_1793879022748.jpg",
     "timestamp": 1793879665.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c9cb723626",
-    "title_fa": "‏رئیس‌جمهور پاراگوئه پس از سقوط بانک ueno استعفا داد",
-    "title_en": "Explainer: What is ueno bank and how did it trigger Paraguay's political crisis?",
-    "summary": [
-      "‏سنتیگو پنا، رئیس‌جمهور پاراگوئه، پس از فروپاشی بانک ueno که با دولت او ارتباط داشت، استعفا داد.",
-      "‏این رویداد بحران سیاسی را در کشور به وجود آورد و احتمال تأثیر بر اقتصاد و روابط منطقه‌ای دارد.",
-      "‏ueno یکی از بزرگ‌ترین بانک‌های تجاری پاراگوئه بود."
-    ],
-    "body_fa": "‏بانک ueno که یکی از بزرگ‌ترین مؤسسات مالی تجاری پاراگوئه بود، به‌سرعت دچار بحران نقدینگی شد و در نهایت سقوط کرد. این سقوط به‌دلیل ارتباط نزدیک بانک با دولت و ادعاهای فساد مالی در میان مقامات بالا رخ داد. در پی این رویداد، رئیس‌جمهور سانتیاگو پنا روز پنجشنبه استعفا داد تا از تشدید بحران سیاسی جلوگیری کند. استعفای او باعث ایجاد خلا در رهبری کشور و فشار بر مجلس برای تشکیل دولت جدید یا برگزاری انتخابات زودهنگام شد. تحلیل‌گران هشدار می‌دهند که این بحران می‌تواند به کاهش سرمایه‌گذاری خارجی و نوسان ارز پاراگوئه منجر شود. همچنین، روابط تجاری و سیاسی پاراگوئه با کشورهای همسایه و نهادهای بین‌المللی ممکن است تحت فشار قرار گیرد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "بحران سیاسی پاراگوئه",
-    "tag": "پاراگوئه",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/what-is-ueno-bank-how-did-it-trigger-paraguays-political-crisis-2026-11-05/",
-    "clean_url": "https://www.reuters.com/business/finance/what-is-ueno-bank-how-did-it-trigger-paraguays-political-crisis-2026-11-05",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793878440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f73ed95dae",
-    "title_fa": "‏سونی با پلی‌استیشن و اسپایدرمن سودش را ۴۴٪ افزایش داد",
-    "title_en": "Playstation and Spider-Man performance see Sony profits surge",
-    "summary": [
-      "‏سونی سود خالص خود را به 449.6 میلیارد ین (2.84 میلیارد دلار) در سه ماههٔ سپتامبر ارتقا داد",
-      "‏این رشد 44 ٪ به‌دلیل فروش پلی‌استیشن و موفقیت فیلم Spider‑Man: Brand New Day حاصل شد",
-      "‏فیلم با 2.52 میلیارد دلار فروش جهانی، درآمد سینمایی سونی را 527 ٪ افزایش داد"
-    ],
-    "body_fa": "‏سونی در گزارش مالی سه ماههٔ سپتامبر، سود خالص خود را به 449.6 میلیارد ین (حدود 2.84 میلیارد دلار) ارتقا داد. این افزایش 44 درصدی نسبت به دورهٔ مشابه سال گذشته، عمدتاً به‌دلیل عملکرد قوی بخش پلی‌استیشن و موفقیت فیلم «Spider‑Man: Brand New Day» بود. فیلم که در ژوئیه اکران شد، با جمع‌آوری 2.52 میلیارد دلار در گیشه جهانی، سومین فیلم پرفروش تاریخ شد و درآمد سونی پیکچرز را به 581 میلیون دلار (527 ٪ رشد) رساند. فروش کنسول پلی‌استیشن 5 در این دوره 2.6 میلیون واحد بود که کمتر از 4 میلیون واحد در سال گذشته است، اما فروش بازی‌ها به‌صورت دیجیتال و فیزیکی افزایش یافت. سونی همچنین اعلام کرد که توسعه نسل بعدی کنسول در مسیر برنامه‌ریزی شده پیش می‌رود و انتظار دارد این پروژه به‌زودی به بازار برسد.",
-    "category": "گیم",
-    "subcategory": "سود و درآمد",
-    "tag": "Sony",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
-    "clean_url": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
-    "image": "https://s.yimg.com/bo/aec37760-783c-5235-9d0c-7caef90b1a80_1792039231754.png.cf.jpg",
-    "timestamp": 1793878196.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "10b0ecabdb",
-    "title_fa": "‏دو تانکر و یک قایق در تنگه هرمز آتش گرفتند",
-    "title_en": "Iran Reports More Tanker Fires in Strait of Hormuz | OilPrice.com",
-    "summary": [
-      "‏دو تانکر نفت و یک قایق یدک‌کش در تنگه هرمز به آتش کشیده شدند",
-      "‏این حوادث امنیت مسیر حمل‌ونقل نفت جهانی را تهدید کرده و می‌تواند قیمت نفت را تحت فشار قرار دهد",
-      "‏همزمان UKMTO گزارش کرد که یک تانکر 50 مایل شمال مدینه اش شمل، قطر، توسط دو پرتابه ناشناس مورد اصابت قرار گرفته است"
-    ],
-    "body_fa": "‏نیروهای سپاه پاسداران ایران اعلام کردند که دو تانکر نفت و یک قایق یدک‌کش در تنگه هرمز به آتش کشیده شدند؛ یکی از تانکرها به مین دریایی برخورد کرد و دیگری در خروج از بخش شرقی تنگه دچار حریق شد و قایق کمکی نیز به سوختن پرداخت. به‌طور جداگانه، سازمان UKMTO گزارش داد که یک تانکر حدود 50 مایل شمال مدینه اش شمل، قطر، توسط دو پرتابه ناشناس اصابت کرده است؛ وضعیت خدمه و خسارات هنوز تأیید نشده است. حملات به کشتی‌ها در هفته‌های اخیر افزایش یافته و جریان نفت خام از خاورمیانه در اکتبر به 17.1 میلیون بشکه در روز کاهش یافته است، در حالی که در سپتامبر 18.9 میلیون بشکه بود. ردیاب‌های ماهواره‌ای برای پیگیری ناوگان استفاده می‌شوند چون کشتی‌ها برای جلوگیری از شناسایی ترانسپوندرهای خود را خاموش می‌کنند. این تشدید خطرات می‌تواند نوسانات قیمت نفت را تشدید کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "حوادث ناوگان نفت",
-    "tag": "حریق تانکر",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-More-Tanker-Fires-in-Strait-of-Hormuz.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-More-Tanker-Fires-in-Strait-of-Hormuz.html",
-    "image": "https://s.yimg.com/bo/a8268aad-64a9-5176-acb2-8b36db111e67_1793878179615.jpg",
-    "timestamp": 1793878196.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7f0d4b0e69",
-    "title_fa": "‏قیمت بیت‌کوین در حدود 80,250 دلار ثابت می‌ماند",
-    "title_en": "Bitcoin steadies near $80,250 as injective rallies on ETF approval",
-    "summary": [
-      "‏بیت‌کوین پس از نیمه‌شب UTC 0.2 ٪ کاهش یافت و به حدود 80,250 دلار رسید، همچنان بالای 80,000 دلار باقی ماند.",
-      "‏این ثبات پس از تأیید ETF برای توکن Injective رخ داد که باعث افزایش قیمت آن شد.",
-      "‏رشد Injective می‌تواند جریان سرمایه‌گذاری به بازار رمزارزها را تقویت کند."
-    ],
-    "body_fa": "‏بیت‌کوین امروز پس از نیمه‌شب ساعت جهانی 0.2 درصد کاهش یافت و به حدود 80,250 دلار رسید، اما همچنان بالای سطح 80,000 دلار باقی مانده است. این ثبات قیمتی در پی تأیید یک صندوق مبادله‌پذیر (ETF) برای توکن Injective رخ داد که باعث افزایش قابل توجه قیمت این توکن شد. سرمایه‌گذاران به‌سرعت به سمت Injective جذب شدند و حجم معاملات آن افزایش یافت. تحلیل‌گران معتقدند این خبر می‌تواند اعتماد به بازار رمزارزها را ارتقا دهد و جریان سرمایه‌گذاری جدیدی را به سمت دارایی‌های دیجیتال هدایت کند. با این حال، نوسانات کوتاه‌مدت بیت‌کوین همچنان ادامه دارد و نظارت بر تحولات نظارتی آینده ضروری است. در مجموع، این رویداد نشان‌دهنده تعامل نزدیک بین تصمیمات نظارتی و حرکات قیمتی در بازارهای کریپتو است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
-    "clean_url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
-    "image": "https://s.yimg.com/bo/e1064b69-4cb4-59db-8f56-7c4fbc4479ee_1793879115601.png.cf.jpg",
-    "timestamp": 1793878195.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9917f26f58",
-    "title_fa": "‏میانی‌انتخابات آمریکا تغییر کرد؛ ترامپ سیاست خارجی را رهبری می‌کند",
-    "title_en": "Midterms upended Congress but Trump still commands foreign policy",
-    "summary": [
-      "‏نتایج میانی‌انتخابات آمریکا باعث کاهش شدید جمهوری‌خواهان در کنگره شد.",
-      "‏این تغییر مجلس نظارت بیشتری بر برنامه ترامپ ایجاد می‌کند، اما او هنوز کنترل سیاست خارجی را حفظ کرده است.",
-      "‏تحولات می‌تواند بر روابط آمریکا‑ایران و تحریم‌ها اثر بگذارد."
-    ],
-    "body_fa": "‏در میانی‌انتخابات اخیر، حزب جمهوری‌خواه به‌طور قابل‌توجهی در کنگره شکست خورد و تعداد صندلی‌های خود را به‌سختی حفظ کرد. نتیجه این شکست، نظارت قانونی و نظارت بیشتری بر برنامه‌های اجرایی رئیس‌جمهور Donald Trump ایجاد می‌کند. با این حال، تحلیل‌گران می‌گویند Donald Trump همچنان نفوذ قابل‌توجهی بر تصمیمات خارجی ایالات متحده دارد. او به‌ویژه در زمینه‌های مربوط به ایران، اوکراین و چین، نقش کلیدی ایفا می‌کند. این ترکیب از کاهش قدرت داخلی و حفظ قدرت خارجی می‌تواند سیاست‌های تجاری و تحریم‌های آمریکا را تحت تأثیر قرار دهد. در نتیجه، تحولات میانی‌انتخابات می‌تواند پیامدهای مهمی برای روابط بین‌المللی و اقتصاد جهانی داشته باشد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "انتخابات میانی آمریکا",
-    "tag": "انتخابات",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/midterms-upended-congress-trump-still-commands-foreign-policy-2026-11-05/",
-    "clean_url": "https://www.reuters.com/world/us/midterms-upended-congress-trump-still-commands-foreign-policy-2026-11-05",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793875860.0,
     "sent_to_telegram": true
   }
 ]
