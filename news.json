@@ -1,5 +1,93 @@
 [
   {
+    "id": "848e5bfaa4",
+    "title_fa": "‏رئیس‌جمهوری ایرلند کاهش سرعت برش مجوزهای کربن را پیشنهاد کرد",
+    "title_en": "Irish EU presidency proposes slower cuts to industry's free carbon permits",
+    "summary": [
+      "‏رئیس‌جمهوری ایرلند در اتحادیه اروپا طرحی برای کاهش سرعت برش مجوزهای رایگان کربن صنعتی ارائه داد",
+      "‏این اقدام می‌تواند فشار قیمت کربن را کم کند و هزینه‌های انرژی شرکت‌های سنگین را کاهش دهد",
+      "‏پیشنهاد در چارچوب بازنگری بازار کربن اتحادیه اروپا تا سال ۲۰۲۸ مطرح شد"
+    ],
+    "body_fa": "‏رئیس‌جمهوری ایرلند که این ماه ریاست موقت اتحادیه اروپا را بر عهده دارد، پیشنهادی برای اصلاح بازار کربن اتحادیه اروپا (EU ETS) ارائه کرد. بر اساس این طرح، سرعت کاهش مجوزهای رایگان کربن برای صنایع پرمصرف انرژی کاهش می‌یابد تا خطر خروج شرکت‌ها از بازار (carbon leakage) کمتر شود. کمیسیون اروپا می‌بایست جزئیات دقیق کاهش سالانه را تعیین کند و این تغییرات را تا پایان دوره بازنگری ۲۰۲۸ اعمال کند. گروه‌های محیط‌زیستی این اقدام را نقد کرده‌اند و می‌گویند که ممکن است هدف‌های اقلیمی اتحادیه را به تعویق بیندازد. در مقابل، نمایندگان صنایع استدلال می‌کنند که کاهش سریع مجوزها می‌تواند هزینه‌های تولید را به طور ناگهانی بالا برده و رقابت‌پذیری اروپا را تهدید کند. اگر این اصلاحات تصویب شوند، انتظار می‌رود فشار قیمت کربن در بازار EU ETS ملایم‌تر شود و اثرات آن بر قیمت انرژی در کشورهای عضو تدریجی باشد.",
+    "category": "انرژی و کالا",
+    "subcategory": "بازار کربن",
+    "tag": "EU ETS",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/sustainability/cop/irish-eu-presidency-proposes-slower-cuts-industrys-free-carbon-permits-2026-11-15/",
+    "clean_url": "https://www.reuters.com/sustainability/cop/irish-eu-presidency-proposes-slower-cuts-industrys-free-carbon-permits-2026-11-15",
+    "image": "https://s.yimg.com/bo/aafc5ef1-cd12-5418-8761-e92e0bd7eb91_1794777203466.jpg",
+    "timestamp": 1794776818.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "550b44e9fa",
+    "title_fa": "‏موشک Vulcan ایالات متحده پس از پرتاب در فلوریدا شکست خورد",
+    "title_en": "US rocket fails after launch, payload of Amazon internet satellites destroyed",
+    "summary": [
+      "‏موشک Vulcan متعلق به United Launch Alliance پس از پرتاب از فلوریدا سقوط کرد",
+      "‏این سقوط باعث از دست رفتن ماهواره‌های اینترنتی آمازون شد و می‌تواند برنامه Kuiper را به تأخیر بیندازد",
+      "‏سقوط موشک نشان‌دهنده چالش‌های رقابتی United Launch Alliance در مقابل SpaceX است"
+    ],
+    "body_fa": "‏موشک Vulcan متعلق به United Launch Alliance در ساعت ۲۲:۲۲ به وقت محلی از پایگاه کی‌استیوشن در فلوریدا پرتاب شد اما چند دقیقه پس از خروج از جو، به‌سرعت سقوط کرد. این پرتاب حاوی چندین ماهواره اینترنتی آمازون بود که برای پروژه Kuiper طراحی شده‌اند و تمام آن‌ها در اثر شکست موشک از بین رفتند. United Launch Alliance هنوز دلایل دقیق خرابی را اعلام نکرده و در حال بررسی فنی است. این حادثه می‌تواند برنامه آمازون برای ارائه اینترنت پهن‌باند از فضا را به‌طور قابل‌توجهی به تعویق بیندازد و رقابت با SpaceX را تشدید کند. همچنین این شکست برای صنعت پرتاب‌های تجاری ایالات متحده هشداردهنده است که به‌دنبال تنوع‌سازی و کاهش وابستگی به یک‌پلتفرم هستند.",
+    "category": "تکنولوژی",
+    "subcategory": "فضای‌پیمایی",
+    "tag": "Vulcan",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15",
+    "image": "https://s.yimg.com/bo/433a9dee-fb62-5bba-a755-5574dcd7bed4_1794775236829.jpg",
+    "timestamp": 1794773218.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1285b590d8",
+    "title_fa": "‏دیاموندبک انرژی خرید پرتفوی Double Eagle ارزش 5 میلیارد دلار",
+    "title_en": "Diamondback nears $5 billion deal to buy drilling portfolio from Double Eagle,...",
+    "summary": [
+      "‏دیاموندبک انرژی در آستانه تکمیل معامله‌ای حدود 5 میلیارد دلاری برای خرید پرتفوی حفاری Double Eagle.",
+      "‏این خرید می‌تواند تولید نفت شیل آمریکا را تقویت کند و بر قیمت‌های جهانی انرژی تاثیر بگذارد.",
+      "‏معامله شامل حدود 1,000 چاه حفاری و تجهیزات مرتبط است."
+    ],
+    "body_fa": "‏دیاموندبک انرژی، بزرگ‌ترین تولیدکننده شیل در ایالات متحده، نزدیک به نهایی کردن معامله‌ای به ارزش حدود 5 میلیارد دلار برای خرید پرتفوی حفاری Double Eagle است. این پرتفوی شامل تقریباً 1,000 چاه حفاری فعال و تجهیزات مربوطه می‌شود که به شرکت امکان گسترش ظرفیت تولید خود در حوزه‌های Permian و Eagle Ford را می‌دهد. با تکمیل این خرید، دیاموندبک می‌تواند تولید نفت خود را تا حدود 1.5 میلیون بشکه در روز افزایش دهد و سهم بازار خود را در صنعت نفت شیل تقویت کند. معامله می‌تواند فشار بر عرضه نفت جهانی را افزایش داده و به نوبه خود بر قیمت‌های نفت خام تأثیر بگذارد، به‌ویژه در بازه زمانی که تقاضا از سوی چین و اروپا در حال رشد است. این توافق هنوز تحت تأیید نهادهای نظارتی است و انتظار می‌رود تا پایان ماه جاری تکمیل شود.",
+    "category": "انرژی و کالا",
+    "subcategory": "ادغام و تملک",
+    "tag": "Diamondback",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/diamondback-nears-5-billion-deal-buy-drilling-portfolio-double-eagle-ft-says-2026-11-15/",
+    "clean_url": "https://www.reuters.com/legal/litigation/diamondback-nears-5-billion-deal-buy-drilling-portfolio-double-eagle-ft-says-2026-11-15",
+    "image": "https://s.yimg.com/bo/afe5331f-4a9a-5485-b87b-559ec5ee186a_1783540774469.jpg",
+    "timestamp": 1794773218.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5229b0f16a",
+    "title_fa": "‏جنسن هوانگ برای بازگشت به عنوان مدیرعامل Nvidia مذاکره می‌کند",
+    "title_en": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+    "summary": [
+      "‏جنسن هوانگ قصد دارد به عنوان مدیرعامل Nvidia بازگردد",
+      "‏این خبر می‌تواند نگرانی‌های سرمایه‌گذاران درباره رهبری شرکت را برانگیزد",
+      "‏او این موضوع را با برخی افراد نزدیک خود بررسی کرده است"
+    ],
+    "body_fa": "‏جنسن هوانگ، بنیان‌گذار و مدیرعامل فعلی Nvidia ، اخیراً به احتمال خروج از سمت CEO اشاره کرده بود. اما گزارش FT نشان می‌دهد او دوباره به فکر بازگشت به این نقش است و با چند نفر نزدیک خود درباره این موضوع گفتگو کرده. این تصمیم می‌تواند به تثبیت استراتژی شرکت در زمینه هوش مصنوعی و گرافیک کمک کند. اگر او دوباره به عنوان CEO انتخاب شود، ممکن است واکنش مثبت یا منفی در بازار سهام Nvidia ایجاد شود. در هر صورت، این خبر نشان می‌دهد رهبری شرکت در مرحله‌ای حساس قرار دارد.",
+    "category": "تکنولوژی",
+    "subcategory": "شرکت‌های فناوری",
+    "tag": "Nvidia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+    "clean_url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15",
+    "image": "https://s.yimg.com/bo/e9495b15-b53e-56ae-9b92-5615ac4265ff_1794771831998.jpg",
+    "timestamp": 1794769618.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "d95f1f877b",
     "title_fa": "‏منطقه گاغاوزیا مولدووا انتخابات جدید رهبری برگزار کرد",
     "title_en": "Restive pro-Russian Moldovan region holds elections",
@@ -41,6 +129,28 @@
     "clean_url": "https://www.reuters.com/world/china/asean-china-fail-conclude-south-china-sea-code-conduct-2026-11-15",
     "image": "https://s.yimg.com/bo/b9999890-c215-5d1f-92a6-39c1fb83f7a5_1794750856484.jpg",
     "timestamp": 1794749321.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "34e8390aba",
+    "title_fa": "‏متحدان زنجیره هوش مصنوعی را از چین محافظت می‌کنند",
+    "title_en": "US, Allies Agree to Guard AI Supply Chains From China, FT Says",
+    "summary": [
+      "‏ایالات متحده و چندین متحد کلیدی برای ایمن‌سازی زنجیره تأمین هوش مصنوعی در برابر چین توافق کردند.",
+      "‏این تصمیم می‌تواند محدودیت‌های صادرات چیپ‌های پیشرفته و همکاری‌های تحقیقاتی با شرکت‌های چینی را تقویت کند.",
+      "‏اتحادیه اروپا، ژاپن و استرالیا نیز در این چارچوب مشارکت می‌کنند."
+    ],
+    "body_fa": "‏به گزارش Financial Times ، ایالات متحده به همراه چندین متحد اصلی از جمله اتحادیه اروپا، ژاپن، کانادا و استرالیا، توافقی برای محافظت از زنجیره تأمین هوش مصنوعی در برابر نفوذ چین به امضا رسانده‌اند. این توافق شامل اعمال کنترل‌های سخت‌گیرانه بر صادرات نیمه‌رساناها و چیپ‌های پیشرفته، بررسی دقیق سرمایه‌گذاری‌های چینی در حوزه فناوری و ایجاد چارچوب‌های مشترک برای به‌اشتراک‌گذاری اطلاعات امنیتی می‌شود. هدف اصلی، جلوگیری از دسترسی چین به فناوری‌های کلیدی هوش مصنوعی و حفظ برتری رقابتی غرب در این حوزه است. مقامات آمریکایی اعلام کردند این گام می‌تواند تأثیر قابل‌توجهی بر بازارهای فناوری داشته باشد و شرکت‌های چینی را از مشارکت در پروژه‌های حساس محروم سازد. تحلیل‌گران پیش‌بینی می‌کنند این سیاست ممکن است فشار بر زنجیره‌های تولید نیمه‌رساناها را افزایش دهد و به بازنگری در استراتژی‌های تأمین جهانی منجر شود.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "زنجیره تأمین هوش مصنوعی",
+    "tag": "AI",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794744960.0,
     "sent_to_telegram": true
   },
   {
@@ -6486,116 +6596,6 @@
     "clean_url": "https://smestreet.in/investments/dhanteras-gold-price-2026-gold-price-today-india-12788750",
     "image": "https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/smstreet/media/media_files/2026/11/06/dhanteras-gold-price-2026-2026-11-06-12-49-44.png",
     "timestamp": 1793949840.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "777911ac30",
-    "title_fa": "‏گزارش قوی اشتغال، فدرال‌رزرو را به افزایش نرخ دسامبر می‌رساند",
-    "title_en": "Solid Jobs Report Leaves Inflation, Markets to Settle Fed’s December Call",
-    "summary": [
-      "‏گزارش اشتغال آمریکا نشان داد رشد قوی با افزایش 250,000 شغل در ماه گذشته.",
-      "‏این داده‌ها فشار برای افزایش نرخ بهره فدرال‌رزرو در دسامبر ایجاد می‌کند و بازارها را برای تصمیم‌گیری آماده می‌کند.",
-      "‏اگر فروش گسترده هوش مصنوعی ادامه یابد، ممکن است فشار بر نرخ‌ها کاهش یابد."
-    ],
-    "body_fa": "‏گزارش اخیر بازار کار ایالات متحده نشان داد که در ماه گذشته 250,000 شغل جدید اضافه شده‌اند که نشانگر رشد قوی اقتصادی است. این افزایش اشتغال باعث شد تورم همچنان در سطحی بالا باقی بماند و فشار برای رفع آن از سوی فدرال‌رزرو افزایش یابد. تحلیل‌گران بر این باورند که داده‌های مثبت بازار کار احتمالاً منجر به افزایش نرخ بهره در جلسه دسامبر خواهد شد. بازارهای مالی نیز با این پیش‌فرض تنظیم می‌شوند و انتظار دارند فدرال‌رزرو تصمیمی برای رفع نرخ‌ها اتخاذ کند. با این حال، اگر فروش گسترده سهام مرتبط با هوش مصنوعی ادامه یابد، ممکن است فشار بر سیاست پولی کمی کاهش یابد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "گزارش اشتغال",
-    "tag": "فدرال‌رزرو",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/economy/central-banking/solid-jobs-report-leaves-inflation-markets-to-settle-feds-december-call-7738799e",
-    "clean_url": "https://www.wsj.com/economy/central-banking/solid-jobs-report-leaves-inflation-markets-to-settle-feds-december-call-7738799e",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793949660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6df4cce025",
-    "title_fa": "‏به‌روزرسانی NU7 زکش باعث تسریع پرداخت‌های خصوصی شد",
-    "title_en": "ZEC news: Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-    "summary": [
-      "‏زکش نسخه NU7 را فعال کرد و زمان هدف بین بلوک‌ها را به ۲۵ ثانیه کاهش داد",
-      "‏این به‌روزرسانی سرعت تراکنش‌های خصوصی را بالا می‌برد و بار کاری کیف‌پول‌ها را کم می‌کند",
-      "‏همچنین مقیاس‌پذیری شبکه بهبود یافته و مصرف انرژی کاهش می‌یابد"
-    ],
-    "body_fa": "‏شبکه زکش امروز به‌روزرسانی مهم NU7 را به‌صورت زنده اجرا کرد. این ارتقا زمان هدف بین بلوک‌ها را از حدود ۷۵ ثانیه به ۲۵ ثانیه کاهش می‌دهد و به‌این ترتیب سرعت پردازش تراکنش‌های خصوصی به‌طور چشمگیری بالا می‌رود. علاوه بر این، کار محاسباتی مورد نیاز کیف‌پول‌ها برای پیدا کردن بلوک‌ها به‌طور قابل‌توجهی کاهش می‌یابد، که منجر به صرفه‌جویی در مصرف انرژی و هزینه‌های کاربری می‌شود. به‌روزرسانی NU7 بخشی از برنامهٔ طولانی‌مدت زکش برای بهبود مقیاس‌پذیری و تجربه کاربری است و می‌تواند جذابیت این رمزارز حریم‌خصوصی‌محور را برای کاربران جدید افزایش دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "به‌روزرسانی پروتکل",
-    "tag": "Zcash",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-    "clean_url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-    "image": "https://s.yimg.com/bo/84d070dc-837c-51cb-8d33-e042e7267b90_1791547172310.jpg",
-    "timestamp": 1793940956.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c9222eeadc",
-    "title_fa": "‏یونی‌تی برای خرید توسط سیلور لیک و PIF مذاکره می‌کند",
-    "title_en": "Unity has reportedly had acquisition talks with Silver Lake and PIF.",
-    "summary": [
-      "‏یونی‌تی در مذاکرات خرید با سرمایه‌گذارهای بزرگ سیلور لیک و صندوق سرمایه‌گذاری عمومی عربستان شرکت کرده است.",
-      "‏این مذاکرات ارزش حدود ۲۵ میلیارد دلار برای یونیتی را پیش‌بینی می‌کند و می‌تواند ساختار صنعت بازی‌سازی را تغییر دهد.",
-      "‏این سرمایه‌گذاری‌ها مشابه معامله ۵۵ میلیارد دلاری برای EA هستند."
-    ],
-    "body_fa": "‏یونی‌تی، شرکت پیشرو در موتورهای بازی‌سازی، در حال بررسی پیشنهاد خرید از سوی یک کنسرسیوم سرمایه‌گذاری است. این کنسرسیوم شامل شرکت سرمایه‌گذاری خصوصی سیلور لیک و صندوق سرمایه‌گذاری عمومی عربستان (PIF) می‌شود. بر اساس گزارش‌های Reuters ، ارزش پیشنهادی برای یونیتی حدود ۲۵ میلیارد دلار تخمین زده شده است. این مبلغ نسبت به معامله ۵۵ میلیارد دلاری که برای خرید EA انجام شد، کمتر است اما نشان‌دهنده علاقه بزرگ سرمایه‌گذاران به صنعت بازی است. اگر این معامله تکمیل شود، می‌تواند ساختار مالکیت و استراتژی توسعه یونیتی را به‌طور اساسی تغییر دهد. این خبر برای بازارهای فناوری و بازی‌سازی جهانی اهمیت دارد و ممکن است تأثیراتی بر قیمت سهام یونیتی داشته باشد.",
-    "category": "گیم",
-    "subcategory": "ادغام و تملک",
-    "tag": "Unity",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1028484/unity-has-reportedly-had-acquisition-talks-with-silver-lake-and-pif",
-    "clean_url": "https://www.theverge.com/games/1028484/unity-has-reportedly-had-acquisition-talks-with-silver-lake-and-pif",
-    "image": "https://s.yimg.com/bo/86d1a589-5f0f-5265-83fb-6d39ac7340ec_1791458910632.png.cf.jpg",
-    "timestamp": 1793927646.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ea465dbb69",
-    "title_fa": "‏کاهش ۳٫۱٪ انتشار CO2 چین به‌دلیل سقوط تقاضای نفت",
-    "title_en": "China’s Carbon Emissions Plunge 3.1% as Oil Demand Slumps",
-    "summary": [
-      "‏انتشار CO2 چین در سه ماهه سوم سال ۳٫۱٪ کاهش یافت؛ مصرف نفت خام ۴٪ و سوخت حمل‌ونقل ۹٪ کم شد.",
-      "‏کاهش تقاضای نفت باعث صرفه‌جویی ۹٫۱ میلیارد دلاری در واردات نفت و گاز شد و به تثبیت قیمت نفت جهانی کمک کرد.",
-      "‏مصرف زغال‌سنگ ۳٫۳٪ و هدررفت بادی/خورشیدی نیز کاهش یافت."
-    ],
-    "body_fa": "‏در سه ماهه سوم ۲۰۲۴، مصرف سوخت در بخش صنعتی چین باعث کاهش ۳٫۱٪ انتشار دی‌اکسید کربن شد؛ این کاهش به‌دست آمده از کاهش ۴٪ مصرف نفت خام و ۹٪ مصرف سوخت در حمل‌ونقل است. مصرف زغال‌سنگ نیز ۳٫۳٪ کاهش یافت و هدررفت انرژی بادی و خورشیدی نیز کمتر شد. مرکز تحقیقات انرژی و هوای پاک فنلاند (CREA) اعلام کرد که چین بین مارس و اوت ۲۰۲۴ حدود $9.1 billion از واردات نفت و گاز صرفه‌جویی کرده است. این صرفه‌جویی به‌دلیل استفاده از ذخایر نفتی ۱.۳‑billion‑barrel و کاهش واردات در پی جنگ خاورمیانه صورت گرفته. کاهش تقاضای انرژی چین به‌عنوان یک بافر مهم، فشار بر قیمت نفت برنت را محدود کرده و به تثبیت بازار جهانی کمک کرده است.",
-    "category": "انرژی و کالا",
-    "subcategory": "کربن نفت",
-    "tag": "CO2",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Carbon-Emissions-Plunge-31-as-Oil-Demand-Slumps.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Carbon-Emissions-Plunge-31-as-Oil-Demand-Slumps.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_em9vdfgckx.jpg",
-    "timestamp": 1793925900.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "457a68edf8",
-    "title_fa": "‏بانک مرکزی نیجریه قوانین صدور استیبل‌کوین را تصویب کرد",
-    "title_en": "Nigeria's central bank introduces stablecoin licensing rules, bans algorithmic versions",
-    "summary": [
-      "‏بانک مرکزی نیجریه از 5 نوامبر قوانین جدید برای صدور استیبل‌کوین‌ها اجرا کرد",
-      "‏قوانین تمام فعالیت‌های دارایی‌های دیجیتال داخل کشور را پوشش می‌دهد و نسخه‌های الگوریتمی را ممنوع می‌کند",
-      "‏این اقدام می‌تواند استفاده از استیبل‌کوین‌های پشتیبانی‌شده توسط ارزهای واقعی را تشویق کند"
-    ],
-    "body_fa": "‏بانک مرکزی نیجریه در تاریخ 5 نوامبر قوانین جدیدی برای صدور و نظارت بر استیبل‌کوین‌ها به اجرا گذاشت. این مقررات بر تمام فعالیت‌های دارایی‌های دیجیتال که در داخل کشور انجام می‌شود یا بر کاربران نیجریه تأثیر می‌گذارد، اعمال می‌شود. به‌ویژه، نسخه‌های الگوریتمی استیبل‌کوین به طور کامل ممنوع شده‌اند. هدف اصلی این اقدام حفظ ثبات سیستم مالی و جلوگیری از ریسک‌های ناشی از ارزهای دیجیتال ناپایدار است. انتظار می‌رود این قوانین باعث تشویق استفاده از استیبل‌کوین‌های پشتیبانی‌شده توسط ارزهای واقعی و ارتقای شفافیت در بازارهای کریپتو در نیجریه شود.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین استیبل‌کوین",
-    "tag": "stablecoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-    "clean_url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793925240.0,
     "sent_to_telegram": true
   }
 ]
