@@ -1,5 +1,49 @@
 [
   {
+    "id": "a04412c8d8",
+    "title_fa": "‏FBI هشدار داد: ابزار AI Artex شبکه‌ها را نفوذ می‌کند",
+    "title_en": "FBI says Artex AI open-source hacking tool used to breach networks in 'under...",
+    "summary": [
+      "‏FBI اعلام کرد که هکرها با ابزار متن‌باز AI به نام Artex به سرعت شبکه‌های شرکت‌ها نفوذ می‌کنند.",
+      "‏این ابزار در حملات به ConnectWise و مؤسسات مالی کره‌جنوبی که اطلاعات 68,000 نفر را به سرقت برده، به کار رفته است.",
+      "‏FBI هشدار داد که حملات می‌توانند در کمتر از سه ساعت به نفوذ کامل منجر شوند."
+    ],
+    "body_fa": "‏فدرال‌رزرو ایالات متحده در یک هشدار امنیتی جدید اعلام کرد که هکرها از ابزار متن‌باز هوش مصنوعی Artex برای نفوذ خودکار به شبکه‌های شرکت‌ها استفاده می‌کنند. این پلتفرم می‌تواند به مدل‌های بزرگ زبانی مانند Anthropic و OpenAI یا مدل‌های متن‌باز متصل شود و در کمتر از سه ساعت از شناسایی ضعف تا دسترسی کامل پیش برود. Artex در حملات به شرکت فناوری مدیریت IT ConnectWise به کار رفته و به اطلاعات 2,250 مشتری این شرکت در فضای ابری Microsoft 365 دست یافته است. همچنین این ابزار در چندین مؤسسه مالی کره‌جنوبی به کار رفته و داده‌های شخصی حداقل 68,000 نفر را به سرقت برده. فدرال‌رزرو هشدار داد که سرعت و خودکار بودن این حملات دفاع‌کنندگان انسانی را به شدت تحت فشار قرار می‌دهد و نیاز به ارتقاء تدابیر امنیتی، به‌ویژه احراز هویت چندعاملی، را برجسته می‌کند.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "Artex",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "clean_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+    "image": "https://s.yimg.com/bo/21d4a08b-45e5-51b3-ac1f-608bc95a6ac1_1793412940197.webp",
+    "timestamp": 1794851469.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d3672d60b1",
+    "title_fa": "‏تولید برق زغال‌سنگ چین در اکتبر ۷٫۳٪ کاهش یافت",
+    "title_en": "China’s Coal Power Generation Slumps as Wind and Solar Surge | OilPrice.com",
+    "summary": [
+      "‏در اکتبر 2026 ، تولید برق فسیلی چین 7.3% نسبت به سال گذشته کاهش یافت.",
+      "‏این کاهش به دلیل رشد 31% خورشیدی و 34% بادی است که سهم زغال‌سنگ را زیر 50% برده‌اند.",
+      "‏این روند می‌تواند تقاضای جهانی برای زغال‌سنگ و قیمت‌های آن را تحت فشار قرار دهد."
+    ],
+    "body_fa": "‏چین در ماه اکتبر 2026 ، تولید برق فسیلی خود را 7.3% نسبت به همان ماه سال گذشته کاهش داد، که این چهارمین ماه متوالی کاهش است. بر اساس داده‌های اداره آمار ملی چین، خروجی زغال‌سنگ و گاز در این دوره به‌طور کلی 0.1% نسبت به ابتدای سال کاهش یافته است. رشد چشمگیر انرژی‌های تجدیدپذیر، به‌ویژه افزایش 31% تولید برق خورشیدی و 34% تولید بادی، باعث شد سهم زغال‌سنگ در ترکیب برق به زیر 50% برسد. در نیمه اول 2026 ، سهم زغال‌سنگ برای اولین بار در تاریخ چین به 49.7% کاهش یافت. این تحول نشان‌دهنده موفقیت سیاست‌های چین برای گسترش انرژی‌های غیرفسیلی و می‌تواند فشار بر بازارهای جهانی زغال‌سنگ و قیمت‌های آن ایجاد کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "تولید برق چین",
+    "tag": "زغال‌سنگ",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Power-Generation-Slumps-as-Wind-and-Solar-Surge.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Power-Generation-Slumps-as-Wind-and-Solar-Surge.html",
+    "image": "https://s.yimg.com/bo/d633a864-61f5-594d-b48e-79c7652d37e9_1794843975183.jpg",
+    "timestamp": 1794844269.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "672d3bf4c0",
     "title_fa": "‏مجوز بانکی در Bangladesh تبدیل به پاداش سیاسی شد",
     "title_en": "A licence is not a gift: Bangladesh’s overbanking trap",
@@ -44,6 +88,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "2533d12a61",
+    "title_fa": "‏خطای مایکروسافت از ژوئیه باعث قطع‌خدمات جهانی شد",
+    "title_en": "Microsoft Bug Undetected Since July Triggered Worldwide Outage",
+    "summary": [
+      "‏خطای نرم‌افزاری مایکروسافت که از ژوئیه کشف نشده بود، منجر به قطعی سرویس‌های جهانی شد.",
+      "‏این قطعی بر سرویس‌های ابری، ایمیل و ابزارهای کاری میلیون‌ها کاربر تأثیر گذاشت و نگرانی‌های امنیتی و عملکردی را برانگیخت.",
+      "‏مایکروسافت گفت مشکل در یک به‌روزرسانی داخلی بوده و در حال رفع آن است."
+    ],
+    "body_fa": "‏مایکروسافت اعلام کرد که یک باگ نرم‌افزاری که از ژوئیه در سیستم‌هایش کشف نشده بود، باعث قطعی گسترده سرویس‌های ابری، ایمیل و ابزارهای کاری در سرتاسر جهان شد. این اختلال به میلیون‌ها کاربر و شرکت‌ها آسیب زد و برخی عملیات تجاری را متوقف کرد. شرکت توضیح داد که مشکل ناشی از یک به‌روزرسانی داخلی بوده و تیم‌های فنی در حال رفع آن هستند. مایکروسافت قول داد که برای جلوگیری از تکرار چنین حوادثی، فرآیندهای نظارت و تست را تقویت کند. این رویداد نشان داد که وابستگی شدید به زیرساخت‌های دیجیتال می‌تواند در صورت بروز خطاهای نرم‌افزاری، پیامدهای گسترده‌ای داشته باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "خطاهای نرم‌افزاری",
+    "tag": "Microsoft",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/microsoft-bug-undetected-since-july-triggered-worldwide-outage",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-16/microsoft-bug-undetected-since-july-triggered-worldwide-outage",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794827400.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1795b6f5e7",
     "title_fa": "‏دیزنی ۶۰ میلیون دلار برای نجات کارکنان Character.ai پرداخت کرد",
     "title_en": "AI Chat App Character.ai is Attempting to Stave Off Bankruptcy, And Has a $20...",
@@ -66,6 +132,94 @@
     "sent_to_telegram": true
   },
   {
+    "id": "8fddac8c18",
+    "title_fa": "‏سایت‌های بانک‌های بزرگ آمریکا دسترسی آنلاین مشتریان را قطع کردند",
+    "title_en": "Customers at some of the nation’s largest banks are reporting difficulty accessing accounts online",
+    "summary": [
+      "‏مشتریان بانک‌های Bank of America ، Chase و J.P. Morgan گزارش دادند که وب‌سایت‌های آن‌ها در روز دوشنبه به‌طور ناگهانی از کار افتاده‌اند.",
+      "‏این قطعی دسترسی آنلاین می‌تواند تراکنش‌های مالی و پرداخت‌ها را مختل کرده و نگرانی‌های امنیتی و عملیاتی را برای میلیون‌ها کاربر ایجاد کند.",
+      "‏دستگاه‌های نظارت Downdetector نیز افزایش گزارش‌های مشکل را ثبت کرده و بانک‌ها هنوز دلیل دقیق را اعلام نکرده‌اند."
+    ],
+    "body_fa": "‏در روز دوشنبه، مشتریان چندین بانک بزرگ آمریکایی از عدم توانایی ورود به حساب‌های آنلاین خود شکایت کردند. وب‌سایت‌های Bank of America ، Chase ، J.P. Morgan و سایر مؤسسات مالی به‌طور همزمان دچار قطعی شدند. طبق گزارش‌های سایت Downdetector ، تعداد شکایات درباره این مشکل به سرعت افزایش یافت. این اختلال می‌تواند باعث تاخیر در پرداخت صورتحساب‌ها، انتقال وجوه و دسترسی به اطلاعات حساب شود. بانک‌ها هنوز توضیح رسمی درباره علت فنی یا امنیتی این قطعی ارائه نکرده‌اند. اگرچه این مشکل موقت به‌نظر می‌رسد، اما می‌تواند به کاهش اعتماد مشتریان و فشار بر سیستم‌های دیجیتال بانک‌ها منجر شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "اختلال بانکی آنلاین",
+    "tag": "بانک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "clean_url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794826020.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4ea542756a",
+    "title_fa": "‏گروه Coffee Stain Chronicles: Medieval را با 5.5 میلیون دلار خرید",
+    "title_en": "Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games",
+    "summary": [
+      "‏گروه Coffee Stain حدود 5.5 میلیون دلار برای خرید حق‌مالکیت بازی Chronicles: Medieval از دارایی‌های ورشکستگی Raw Power Games پرداخت کرد.",
+      "‏این خرید به Coffee Stain امکان ادامه توسعه و تبدیل بازی به یک IP بلندمدت قدرتمند را می‌دهد.",
+      "‏در اکتبر Raw Power Games ورشکست شد و پروژه در دسترس بود، در حالی که بازی در فهرست 30 بازی برتر دلخواه Steam قرار دارد."
+    ],
+    "body_fa": "‏گروه Coffee Stain ، ناشر بازی Satisfactory ، توافق کرد تا حق‌مالکیت و دارایی‌های مرتبط با بازی Chronicles: Medieval را از دارایی‌های ورشکستگی Raw Power Games خریداری کند. بر اساس سند تنظیم‌شده در 14 نوامبر، یک شرکت تازه تأسیس 75 ٪ سهام این دارایی‌ها را در اختیار Coffee Stain و 25 ٪ دیگر را به گروهی کوچک از اعضای کلیدی تیم توسعه اصلی می‌سپارد. مبلغ معامله حدود 5.5 میلیون دلار (معادل 36.75 میلیون کرون دانمارکی) به‌صورت نقدی است و هزینه‌های تراکنش جداگانه محاسبه می‌شود. علاوه بر پرداخت این مبلغ، تعهد به تأمین مالی ادامه توسعه بازی و کمک به راه‌اندازی آن در دسترس بازیکنان دارد. بازی Chronicles: Medieval که از سال 2022 در حال توسعه است، یک بازی شنی ساخت و فرماندهی ارتش‌هاست و در فهرست 30 بازی برتر دلخواه Steam قرار دارد. این اقدام می‌تواند به Coffee Stain کمک کند تا یک IP جدید و پرپتانسیل را به سبد محصولات خود اضافه کند و به توسعه‌گران اصلی فرصت ادامه کار را بدهد.",
+    "category": "گیم",
+    "subcategory": "خرید IP بازی",
+    "tag": "Chronicles Medieval",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
+    "clean_url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
+    "image": "https://assetsio.gnwcdn.com/ss_8d564795cb6b1eaeb9f3ea6b862b445ffe62a5e5.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1794822960.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "959eb36c8f",
+    "title_fa": "‏Altimeter با ۵ میلیارد دلار در IPO Anthropic سرمایه‌گذاری می‌کند",
+    "title_en": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
+    "summary": [
+      "‏شرکت Altimeter Capital قصد دارد ۵ میلیارد دلار در عرضه عمومی Anthropic سرمایه‌گذاری کند.",
+      "‏این IPO اولین عرضه بزرگ یک آزمایشگاه هوش مصنوعی است و ارزش‌گذاری شرکت را حدود ۱٫۴ تریلیون دلار می‌گذارد.",
+      "‏چپ‌چپ‌های بزرگ مانند AMD ، Nvidia و Microsoft نیز مجموعاً ۲۶ میلیارد دلار در این عرضه می‌گذارند."
+    ],
+    "body_fa": "‏Altimeter Capital به رهبری Brad Gerstner اعلام کرد قصد دارد ۵ میلیارد دلار در عرضه عمومی شرکت هوش مصنوعی Anthropic سرمایه‌گذاری کند. این عرضه که برای پنجشنبه برنامه‌ریزی شده، اولین عرضه عمومی یک آزمایشگاه بزرگ هوش مصنوعی است و پیش از OpenAI می‌آید. Anthropic حدود ۸۲۵ میلیون سهم با قیمت پیشنهادی ۷۰ تا ۷۸ دلار عرضه می‌کند که ارزش کل شرکت را حدود ۱٫۴ تریلیون دلار می‌سازد. شرکت‌های پیشرو در حوزه تراشه و ابر مانند AMD ، Broadcom ، Google ، Micron ، Microsoft ، Nvidia و TSMC به‌طور مشترک حدود ۲۶ میلیارد دلار در این عرضه سرمایه‌گذاری می‌کنند. Gerstner به توان مالی و موقعیت بازار Anthropic اطمینان دارد و این سرمایه‌گذاری را «یک ترکیب‌کننده کلیدی برای مدت طولانی» توصیف کرد. او همچنین درباره رهبری شرکت اظهار نظر کرد و به اعتماد به CFO Colette Kress اشاره کرد. این حرکت می‌تواند نشانگر تقویت سرمایه‌گذاری‌ها در حوزه هوش مصنوعی باشد و تأثیر قابل‌توجهی بر بازارهای فناوری داشته باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+    "clean_url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108552147-1794850190120-Screenshot-2026-11-16-at-122835_PM.jpg?v=1794850203&w=1920&h=1080",
+    "timestamp": 1794822600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0dca05abca",
+    "title_fa": "‏فدرال‌رزرو هوش مصنوعی را مهم می‌داند، خطر ناامیدی را می‌گوید",
+    "title_en": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+    "summary": [
+      "‏رئیس فدرال‌رزرو کیوین وارش در سانفرانسیسکو به تأثیر هوش مصنوعی بر اقتصاد اشاره کرد.",
+      "‏او مزایای افزایش بهره‌وری و ریسک بیکاری یا عدم تحقق انتظارات را هشدار داد.",
+      "‏همچنین گفت سرمایه‌گذاری‌های بزرگ در AI می‌تواند ارزش سهام را بالا برده و سپس کاهش دهد."
+    ],
+    "body_fa": "‏کیوین وارش، رئیس فدرال‌رزرو، روز دوشنبه در سانفرانسیسکو در جلسه‌ای که برای بررسی بهره‌وری و اشتغال تشکیل داد، به نقش هوش مصنوعی در اقتصاد اشاره کرد. او بیان کرد هوش مصنوعی می‌تواند با افزایش بهره‌وری رشد واقعی اقتصاد را تسریع کند و فشارهای تورمی را کاهش دهد. اما وارش هشدار داد که خودکارسازی گسترده می‌تواند منجر به بیکاری گسترده شود و برخی از انتظارات بازار از این فناوری ممکن است برآورده نشود. در سناریوی سوم، پس از سرمایه‌گذاری‌های کلان و رشد ارزش سهام، بازدهی کمتر از پیش‌بینی می‌تواند باعث افت ارزش‌گذاری‌ها و رکود اقتصادی شود. این اظهارات نشان می‌دهد که سیاست‌گذاران پولی به تأثیرات فناوری‌های نوین بر سیاست‌های پولی آینده توجه دارند. جلسه با حضور کارآفرینان و اقتصاددانان، از جمله مارک اندریسن، به بررسی راهکارهای مقابله با چالش‌های احتمالی هوش مصنوعی اختصاص یافت.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "هوش مصنوعی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+    "clean_url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108552259-1794854720467-gettyimages-2304953963-FEDERAL_RESERVE_CONFERENCE.jpeg?v=1794854743&w=1920&h=1080",
+    "timestamp": 1794819600.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "6d1279a5aa",
     "title_fa": "‏لی چیانگ روابط فوق‌العاده چین و آسه‌آن را تحسین کرد",
     "title_en": "Chinese premier lauds 'extraordinary' ties with ASEAN ahead of Trump visit",
@@ -85,6 +239,94 @@
     "clean_url": "https://www.yahoo.com/news/politics/articles/chinese-premier-lauds-extraordinary-ties-054035204.html",
     "image": "https://media.zenfs.com/en/reuters.com/1d9c52467f1abf9fbff5abe0429ac1eb.jpg",
     "timestamp": 1794819595.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "95e89c71fb",
+    "title_fa": "‏قضایای عالیه درخواست حساب اصلی Custodia را رد کرد",
+    "title_en": "Supreme Court rejects Custodia Bank's bid for Fed master account",
+    "summary": [
+      "‏دادگاه عالی ایالات متحده درخواست Custodia Bank برای دریافت حساب اصلی از فدرال رزرو را رد کرد.",
+      "‏این تصمیم دسترسی مستقیم بانک به فدرال رزرو را مسدود می‌کند و می‌تواند فعالیت‌های نگهداری رمزارزهای آن را تحت فشار قرار دهد.",
+      "‏حکم به این معنی است که پرونده در دادگاه‌های پایین‌تر باقی می‌ماند."
+    ],
+    "body_fa": "‏دوشنبه دادگاه عالی ایالات متحده فهرست دستورات خود را منتشر کرد و اعلام کرد که درخواست Custodia Bank برای دریافت حساب اصلی از فدرال رزرو را رد کرده است. این درخواست که هدف آن دسترسی مستقیم به سیستم پرداخت‌های فدرال بود، توسط دادگاه‌های پایین‌تر نیز رد شده بود. رد درخواست به معنای ادامه ممنوعیت دسترسی بانک به حساب اصلی فدرال رزرو است. Custodia که به عنوان یک بانک نگهداری رمزارز شناخته می‌شود، برای ارائه خدمات بانکی به مشتریان خود به این حساب نیاز داشت. این تصمیم می‌تواند توانایی بانک در ارائه خدمات نقدینگی و تسهیل تراکنش‌های رمزارزی را محدود کند و فشار بیشتری بر بخش مالی دیجیتال وارد کند. همچنین، این حکم نشان می‌دهد که مسیر قانونی برای دریافت حساب اصلی فدرال رزرو برای نهادهای نوظهور همچون Custodia دشوار باقی می‌ماند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قوانین بانکی",
+    "tag": "Custodia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794818940.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6a3955d753",
+    "title_fa": "‏سرنا ویلیامز صندوق ۲۰۰ میلیونی سرمایه‌گذاری راه‌اندازی کرد",
+    "title_en": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+    "summary": [
+      "‏سرنا ویلیامز و بته فریرا صندوق سرمایه‌گذاری اولیه Starfire Ventures را با هدف جذب 200 میلیون دلار برای شرکت‌های هوش مصنوعی راه‌اندازی کردند.",
+      "‏این سرمایه‌گذاری بر حوزه‌های fintech و سلامت تمرکز دارد و می‌تواند دسترسی به سرمایه را برای استارتاپ‌های نوآور گسترش دهد.",
+      "‏سرنا ونتورز که پیش از این بیش از 100 شرکت را پشتیبانی کرده بود، اکنون تیمی برای مدیریت پرتفوی فعلی باقی مانده است."
+    ],
+    "body_fa": "‏سرنا ویلیامز و شریک تجاری‌اش بته فریرا روز دوشنبه اعلام کردند که صندوق سرمایه‌گذاری اولیه جدیدی به نام Starfire Ventures را راه‌اندازی کرده‌اند. هدف این صندوق جذب حدود 200 میلیون دلار سرمایه برای حمایت از شرکت‌های هوش مصنوعی است که به‌ویژه در حوزه‌های اقتصاد تجربه‌محور مانند fintech و بهداشت و سلامت فعالیت می‌کنند. Starfire Ventures از Serena Ventures جداست؛ این آخرین صندوقی است که Serena Ventures پس از قطع آخرین سرمایه‌گذاری خود، همچنان تیمی برای مدیریت پرتفوی موجود حفظ می‌کند. Serena Ventures تا کنون بیش از 100 شرکت را پشتیبانی کرده و بیش از 100 میلیون دلار سرمایه جذب کرده است. ویلیامز در بیانیه‌اش گفت هدف این صندوق گسترش دسترسی به سرمایه و ایجاد فرصت‌های مالکیتی برای افراد بیشتر در کسب‌وکارهای تحول‌آفرین است. این حرکت نشان می‌دهد سرمایه‌گذاران مشهور به سمت فناوری‌های نوظهور و هوش مصنوعی گرایش دارند و می‌تواند به جذب سرمایه بیشتر به استارتاپ‌های نوآور کمک کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری خطرپذیر",
+    "tag": "سرمایه‌گذاری",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+    "clean_url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301975852.jpg?w=1024",
+    "timestamp": 1794816360.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e74b0d2cf3",
+    "title_fa": "‏بانک مرکزی برزیل به‌خاطر اظهارات پولشویی استیبل‌کوین انتقاد شد",
+    "title_en": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+    "summary": [
+      "‏یک مقام بانک مرکزی برزیل گفت انتقال پولهای قانونی به استیبل‌کوین‌ها آن‌ها را «آلوده» می‌کند.",
+      "‏این اظهارات باعث واکنش منفی و انتقادات گسترده در جامعه رمزارز شد.",
+      "‏او بازار استیبل‌کوین را به سیستم غیررسمی «دلار‑کابو» تشبیه کرد."
+    ],
+    "body_fa": "‏یک مقام ارشد بانک مرکزی برزیل اخیراً اظهار کرد که وقتی وجوه قانونی به stablecoin ها منتقل می‌شود، این پول‌ها «آلوده» می‌شوند و بازار را به سیستم غیررسمی dólar-cabo تشبیه کرد. این بیانیه بلافاصله واکنش‌های سرسختانه‌ای از سوی فعالان و شرکت‌های رمزارز در برزیل و جهان برانگیخت. منتقدان این نظر را نادیده‌گیری خطرناک از نقش استیبل‌کوین‌ها در اقتصاد دیجیتال می‌دانند و خواستار شفاف‌سازی بیشتر می‌شوند. بانک مرکزی هنوز اعلام نکرده که سیاست‌های نظارتی جدیدی در پی این اظهارات خواهد داشت، اما این بحث می‌تواند فشار بر تنظیم‌کنندگان برای بررسی دقیق‌تر ریسک‌های پولشویی در حوزه استیبل‌کوین‌ها را افزایش دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "نظرات نظارتی",
+    "tag": "stablecoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+    "clean_url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794815640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f57c27fd2e",
+    "title_fa": "‏Xbox اعلام کرد Project Helix ابتدا کنسول، سپس PC",
+    "title_en": "Xbox confirms Project Helix will be a console first, PC second.",
+    "summary": [
+      "‏Xbox در مجله ۲۵ سالگی‌اش گفت Project Helix ابتدا کنسول و سپس PC خواهد بود.",
+      "‏این کنسول نسل‌بعدی برای تعطیلات ۲۰۲۸ برنامه‌ریزی شده و می‌تواند بازی‌های PC را نیز اجرا کند.",
+      "‏اطلاعیه نشان می‌دهد مایکروسافت قصد دارد مرزهای پلتفرم‌ها را دوباره تعریف کند."
+    ],
+    "body_fa": "‏جیسون رونالد، معاون نسل‌بعدی Xbox ، در شماره ویژه مجله ۲۵ سالگی Xbox اعلام کرد که پروژه Helix به‌عنوان یک کنسول طراحی شده است. او افزود که این دستگاه قادر خواهد بود بازی‌های PC را نیز اجرا کند، اما هدف اصلی آن پلتفرم کنسولی است. به‌عبارت دیگر، Helix «یک کنسول است که می‌تواند بازی‌های PC را پخش کند»، نه «یک PC که می‌تواند بازی‌های کنسول اجرا کند». این کنسول نسل‌بعدی قرار است در فصل تعطیلات سال ۲۰۲۸ به بازار عرضه شود. اعلام این برنامه نشان می‌دهد مایکروسافت می‌خواهد تجربه بازی‌های چندپلتفرمی را برای کاربران ساده‌تر کند و مرزهای سنتی بین کنسول و رایانه شخصی را محو سازد. اگرچه هنوز جزئیات فنی کامل منتشر نشده، این خبر می‌تواند رقابت بین Sony و Nintendo را در سال‌های آینده تحت تأثیر قرار دهد.",
+    "category": "گیم",
+    "subcategory": "کنسول نسل‌بعد",
+    "tag": "Helix",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1034212/xbox-confirms-project-helix-will-be-a-console-first-pc-second",
+    "clean_url": "https://www.theverge.com/games/1034212/xbox-confirms-project-helix-will-be-a-console-first-pc-second",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+    "timestamp": 1794813900.0,
     "sent_to_telegram": true
   },
   {
@@ -129,6 +371,28 @@
     "clean_url": "https://www.pocketgamer.biz/asgc-tracks-170-game-studio-closures-since-2022-with-92-in-north-america-and-europe",
     "image": "https://media.pocketgamer.biz/images/142200/90256/asgc-studio-closures-chart-main_l1200.jpg",
     "timestamp": 1794806400.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5ff09c9649",
+    "title_fa": "‏یونی‌تی گرنت ۵۰ هزار دلاری برای استودیوهای مستقل راه‌اندازی کرد",
+    "title_en": "Unity launches $50,000 grant for indie developers with no equity or repayment",
+    "summary": [
+      "‏یونی‌تی برنامهٔ Unity Fellowship را معرفی کرد و به ۱۰ استودیو مستقل هر کدام ۵۰٬۰۰۰ دلار گرنت بدون شرط مالکیت یا بازپرداخت اعطا می‌کند.",
+      "‏این حمایت می‌تواند به تسریع تولید بازی‌های نوآورانه کمک کند و تأثیر مثبت بر بازار بازی‌های مستقل داشته باشد.",
+      "‏برندگان در کنفرانس GDC ۲۰۲۷ معرفی می‌شوند و دسترسی به مشاوره، ارتباطات صنعتی و حمایت‌های بازاریابی دریافت می‌کنند."
+    ],
+    "body_fa": "‏یونی‌تی برنامهٔ Unity Fellowship را اعلام کرد که به ده استودیو مستقل که قصد انتشار بازی در ۱۲ ماه آینده را دارند، هر کدام ۵۰٬۰۰۰ دلار گرنت بدون دریافت سهام یا بازپرداخت می‌دهد. دریافت‌کنندگان علاوه بر سرمایه، پشتیبانی اختصاصی از یک نقطه تماس در یونیتی، راهنمایی‌های تخصصی، ارتباط با ناشران و دسترسی به رویدادهای یونیتی را خواهند داشت. آدام اسمیت، معاون محصول یونیتی، گفت هدف این برنامه «دموکراتیک‌سازی ساخت بازی» و کمک به تیم‌های خلاق برای تبدیل ایده‌هایشان به بازی‌های به یادماندنی است. این برنامه در کنار گرنت سالانه Unity for Humanity و مقایسه با برنامهٔ MegaGrants شرکت Epic Games ، نشان‌دهندهٔ رقابت فزاینده در حمایت مالی از توسعه‌دهندگان مستقل است. اعلان نهایی برندگان در نمایشگاه GDC سال ۲۰۲۷ خواهد شد.",
+    "category": "گیم",
+    "subcategory": "گرنت برای استودیوهای مستقل",
+    "tag": "grant",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+    "clean_url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+    "image": "https://assetsio.gnwcdn.com/unity-fellowship.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1794805260.0,
     "sent_to_telegram": true
   },
   {
@@ -264,6 +528,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "c87821b213",
+    "title_fa": "‏اپل برنامه‌ای برای بررسی هوش مصنوعی در سلامت راه‌اندازی کرد",
+    "title_en": "Apple launches new app to study how people use AI for health | TechCrunch",
+    "summary": [
+      "‏اپل برنامه‌ای جدید برای مطالعه هوش مصنوعی در سلامت به‌صورت اپلیکیشن در ایالات متحده عرضه کرد",
+      "‏این برنامه با همکاری OpenEvidence به‌حداکثر 200,000 شرکت‌کننده اجازه می‌دهد سوالات پزشکی بپرسند و پاسخ‌های مبتنی بر داده‌های بالینی دریافت کنند",
+      "‏داده‌های کاربران به‌صورت ناشناس ذخیره می‌شود و برای آموزش مدل‌های هوش مصنوعی استفاده نمی‌شود"
+    ],
+    "body_fa": "‏Apple امروز برنامه‌ای جدید برای تحقیق درباره استفاده از هوش مصنوعی در حوزه سلامت معرفی کرد. این برنامه به‌همراه شرکت OpenEvidence و با هدف جذب حداکثر 200,000 کاربر در ایالات متحده برای بیش از دوازده ماه اجرا می‌شود. کاربران iPhone 15 یا جدیدتر با iOS 26 و فعال‌سازی Apple Intelligence می‌توانند سوالات پزشکی خود را بپرسند و پاسخ‌هایشان بر پایه مقالاتی چون New England Journal of Medicine و JAMA ارائه می‌شود. شرکت‌ها می‌توانند داده‌های HealthKit مانند ضربان استراحت، فعالیت یا نتایج آزمایش‌ها را به‌صورت ناشناس به برنامه بدهند تا پیشنهادهای شخصی‌سازی‌شده دریافت کنند. پاسخ‌ها برای بهبود کیفیت ارزیابی می‌شوند و پس از ۲۴ ساعت توسط OpenEvidence حذف می‌شوند؛ داده‌ها برای آموزش مدل‌های هوش مصنوعی استفاده نمی‌شوند. اپل می‌گوید این مطالعه به درک بهتر تعامل مردم با هوش مصنوعی سلامت کمک خواهد کرد و می‌تواند ابزارهای مطمئن‌تری برای کاربران فراهم سازد.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی سلامت",
+    "tag": "Apple",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "clean_url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+    "image": "https://s.yimg.com/bo/c9e9020d-da64-5526-b07d-ac8fa547ceaa_1794793442168.jpg",
+    "timestamp": 1794793869.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1f2e75327b",
     "title_fa": "‏بیت‌کوین در آخر هفته ۱۷٪ کاهش یافت",
     "title_en": "Live updates: Bitcoin holding weekend plunge as November losses deepen to 17%",
@@ -283,6 +569,28 @@
     "clean_url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
     "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794792840.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b05e4051e8",
+    "title_fa": "‏قوانین جدید بانک روسیه برای خرید رمزارزهای خرده‌فروشی اجرا شد",
+    "title_en": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+    "summary": [
+      "‏بانک روسیه از ۱۷ نوامبر قانون جدیدی برای دسترسی خرده‌فروشان به بیت‌کوین، اتریوم و USDT اعمال کرد",
+      "‏این قانون خرید سالانه را برای هر واسطه محدود می‌کند و می‌تواند حجم معاملات رمزارزهای روسیه را تحت تأثیر قرار دهد",
+      "‏قوانین مشابه در سایر کشورها نیز می‌تواند بازار جهانی رمزارزها را تحت فشار قرار دهد"
+    ],
+    "body_fa": "‏بانک مرکزی روسیه از ۱۷ نوامبر ۲۰۲۳ قانون «دسترسی رمزارز» خود را فعال کرد. بر اساس این مقررات، سرمایه‌گذاران غیرمجاز می‌توانند بیت‌کوین، اتریوم و توکن USDT را خریداری کنند، اما هر واسطه مالی محدودیت خرید سالانه برای هر مشتری را تعیین می‌کند. سرمایه‌گذاران واجد شرایط می‌توانند بدون این محدودیت‌ها به بازار دسترسی داشته باشند. این اقدام اولین گام روسیه برای تنظیم بازار رمزارزهای خرده‌فروشی پس از سال‌ها عدم وضوح قانونی است و می‌تواند حجم معاملات داخلی را افزایش یا کاهش دهد. در همین هفته، انتشار صورتجلسه FOMC و گزارش سود Nvidia نیز می‌تواند نوسانات بازار رمزارزها را تشدید کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین رمزارز",
+    "tag": "قوانین رمزارز",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794792180.0,
     "sent_to_telegram": true
   },
   {
@@ -6288,314 +6596,6 @@
     "clean_url": "https://www.reuters.com/world/us/after-midterm-rout-vance-tries-build-his-own-2028-brand-2026-11-07",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794020580.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "705f1539a2",
-    "title_fa": "‏اِوان گرشکوویچ پس از 491 روز آزاد شد",
-    "title_en": "Evan Gershkovich on prison, Russia and liberty",
-    "summary": [
-      "‏اِوان گرشکوویچ، خبرنگار آمریکایی، پس از 491 روز حبس در روسیه در یک تبادل زندانیان آزاد شد.",
-      "‏رهایی او نشان‌دهنده تنش‌های سیاسی میان شرق و غرب و تأثیر آن بر روابط روسیه-ایالات متحده است.",
-      "‏در مصاحبه، گرشکوویچ به محدودیت آزادی در روسیه و نقش ولادیمیر پوتین اشاره کرد."
-    ],
-    "body_fa": "‏اِوان گرشکوویچ، نویسنده کتاب «This Cursed Beautiful Land»، پس از 491 روز حبس در یک زندان روسی، در یک تبادل زندانیان بین شرق و غرب آزاد شد. او که در سال ۲۰۱۹ توسط مقامات روسیه به اتهام جاسوسی بازداشت شده بود، در مصاحبه‌ای درباره تجربه‌اش در سلول‌های زیرزمینی و محدودیت‌های آزادی بیان در روسیه صحبت کرد. گرشکوویچ گفت: «هر روز در آن سلول‌ها، حس می‌کردم که آزادی در حال از دست رفتن است». این آزادی‌گیری نشانگر تغییرات احتمالی در روابط دیپلماتیک میان واشنگتن و مسکو است، هرچند هنوز مشخص نیست چه تبادلاتی در آینده صورت خواهد گرفت. تحلیل‌گران بر این باورند که این تبادل می‌تواند به کاهش تنش‌های کوتاه‌مدت منجر شود، اما ریشه‌های اختلافات عمیق باقی می‌ماند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "تبادلات زندانیان",
-    "tag": "گرشکوویچ",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/lifestyle/culture-current/evan-gershkovich-prison-russia-liberty-2026-11-07/",
-    "clean_url": "https://www.reuters.com/lifestyle/culture-current/evan-gershkovich-prison-russia-liberty-2026-11-07",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794020340.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d64a668fbe",
-    "title_fa": "‏رشد اشتغال در ایالات متحده پیش‌بینی‌ها را پشت سر گذاشت",
-    "title_en": "Charting the Global Economy: Job Growth in US Tops All Forecasts",
-    "summary": [
-      "‏داده‌های جدید نشان می‌دهد تعداد شغل‌های جدید در آمریکا بیش از انتظار افزایش یافته است",
-      "‏این افزایش می‌تواند بر تصمیمات پولی فدرال‌رزرو و نرخ بیکاری تأثیرگذار باشد",
-      "‏جزئیات عددی دقیق هنوز منتشر نشده"
-    ],
-    "body_fa": "‏آخرین گزارش‌های بازار کار آمریکا نشان می‌دهد که رشد شغل‌های جدید فراتر از پیش‌بینی‌های اقتصاددانان بوده است. این روند مثبت می‌تواند به بهبود نرخ بیکاری کمک کند و فشار بر فدرال‌رزرو برای تنظیم نرخ بهره را افزایش دهد. با این حال، جزئیات عددی دقیق و مقایسه با دوره‌های قبلی هنوز در دسترس نیست و تحلیل‌های بیشتری مورد انتظار است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "کار و اشتغال",
-    "tag": "رشد شغلی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794016800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "431aa3fb3b",
-    "title_fa": "‏ترافیگورا در آسیا مس خرید؛ چین با کمبود عرضه",
-    "title_en": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
-    "summary": [
-      "‏ترافیگورا در آسیا حجم قابل توجهی مس خریداری کرد.",
-      "‏این اقدام نشان‌دهنده فشار عرضه مس در چین است و ممکن است قیمت‌ها را بالا ببرد.",
-      "‏جزئیات دقیق حجم و قیمت معامله در خبر موجود نیست."
-    ],
-    "body_fa": "‏شرکت تجارت کالاهای ترافیگورا، بزرگ‌ترین معامله‌گر جهانی، در بازار آسیا خرید عمده‌ای از مس انجام داد. این خرید همزمان با گزارش‌های اخیر درباره کمبود عرضه مس در چین صورت گرفت. فشار عرضه در چین می‌تواند به افزایش قیمت این فلز منجر شود. با این حال، جزئیات دقیق حجم خرید، قیمت معامله و زمان دقیق آن در متن خبر موجود نیست. برای ارزیابی دقیق تأثیر این اقدام بر بازار مس، نیاز به اطلاعات تکمیلی است.",
-    "category": "انرژی و کالا",
-    "subcategory": "مس",
-    "tag": "مس",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794009600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "53c8a40c52",
-    "title_fa": "‏ارزش‌گذاری OpenAI به ۱٫۲۵ تریلیون دلار رسید",
-    "title_en": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-    "summary": [
-      "‏OpenAI با جذب ۱۱ میلیارد دلار ارزش‌گذاریش به ۱٫۲۵ تریلیون دلار رسید.",
-      "‏این رقم آن را به یکی از بزرگ‌ترین شرکت‌های جهان تبدیل می‌کند و نشان‌دهنده رشد سرمایه‌گذاری در هوش مصنوعی است.",
-      "‏رقیب آن Anthropic در آستانه عرضه عمومی سهام است."
-    ],
-    "body_fa": "‏OpenAI در دور جدیدی از جذب سرمایه، ۱۱ میلیارد دلار جمع‌آوری کرد و ارزش‌گذاریش به $1.25 تریلیون دلار ارتقا یافت. این افزایش ارزش، پس از دوره‌ای که در مارس سرمایه‌گذاران $122 میلیارد به شرکت تزریق کردند و ارزش‌گذاری $852 میلیارد داشت، رخ داد. Bloomberg گزارش داد که OpenAI ممکن است سرمایه‌گذاری‌های بیشتری جذب کند تا مبلغ کل به $20 میلیارد برسد، هرچند هدف اولیه $30 میلیارد و ارزش‌گذاری $1.4 تریلیون بود. همزمان، رقیب اصلی این شرکت، Anthropic ، پرونده S‑1 خود را برای عرضه عمومی سهام ثبت کرده است. مدیرعامل OpenAI ، Sam Altman ، تأکید کرد که شرکت به جای شتاب‌زدن به IPO ، اولویت را به ایمنی مدل‌ها می‌دهد، هرچند او معتقد است تاخیر طولانی نیز می‌تواند برای جهان مضر باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "ارزش‌گذاری هوش مصنوعی",
-    "tag": "OpenAI",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-    "clean_url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-    "image": "https://s.yimg.com/bo/311350d9-3398-5387-a684-f097b47d485f_1794011314608.jpg",
-    "timestamp": 1794009292.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b98427ac61",
-    "title_fa": "‏هک‌های میلیارد دلاری، تهدیدی برای پذیرش اصلی رمزارزها",
-    "title_en": "Do billion-dollar crypto hacks threaten the industry's mainstream ambitions?",
-    "summary": [
-      "‏صرافی Binance در ۲۹ اکتبر حدود ۶٫۳ میلیارد دلار دارایی دیجیتال را از دست داد.",
-      "‏این هک‌های بزرگ اعتماد خرده‌فروشان و پذیرش گسترده رمزارزها را به خطر می‌اندازند.",
-      "‏اگر صرافی‌های منظم امنیتی خود را بهبود ندهند، ممکن است جریان ورود سرمایه‌های نهادی کاهش یابد."
-    ],
-    "body_fa": "‏Binance ، بزرگ‌ترین صرافی رمزارز جهان، در ۲۹ اکتبر ۲۰۲۶ یک نفوذ امنیتی را تجربه کرد که حدود ۶٫۳ میلیارد دلار دارایی دیجیتال را به سرقت برد. حمله با دسترسی به زیرساختی که برای تأیید برداشت‌ها استفاده می‌شد، به‌نظر می‌رسد از یک لپ‌تاپ مهندسی DevOps سلب شده باشد، اما کلیدهای کیف‌پول خصوصی فاش نشده‌اند. این حادثه پس از هک ۳۸۸ میلیون دلاری صرافی Bitget در سپتامبر رخ داد و نگرانی‌ها دربارهٔ اعتماد به صرافی‌های بزرگ و نگهداری مشتریان را تشدید کرد. نظرسنجی‌ها نشان می‌دهد که امنیت یکی از مهم‌ترین موانع برای جذب کاربران غیرمتعامل است، اگرچه پذیرش نهادی با ETF های بیت‌کوین و خدمات بانکی در حال پیشرفت است. کارشناسان معتقدند بازار به واسطهٔ این رخدادها به نهادهای واسطه‌ای معتبر و تحت نظارت بیشتر تمایل خواهد یافت و صرافی‌های آفشور ممکن است سهم خود را از دست بدهند. در صورت عدم بهبود سریع امنیت و وضعیت نظارتی، خروج سرمایه‌های خرده‌فروشان و کاهش مشارکت تجار می‌تواند رشد عمومی رمزارزها را محدود کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "امنیت رمزارز",
-    "tag": "هک",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Invezz",
-    "url": "https://invezz.com/news/2026/11/07/do-billion-dollar-crypto-hacks-threaten-the-industrys-mainstream-ambitions/",
-    "clean_url": "https://invezz.com/news/2026/11/07/do-billion-dollar-crypto-hacks-threaten-the-industrys-mainstream-ambitions",
-    "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/11/D-1.png",
-    "timestamp": 1794005700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "653ca7b345",
-    "title_fa": "‏تهدیدهای بمب‌سازی موجی بر پروازهای اروپا اضطراب ایجاد کرد",
-    "title_en": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-    "summary": [
-      "‏بیش از دو دوجین تهدید بمب‌سازی جعلی این هفته پروازهای مسافری اروپا را مجبور به انحراف و فرود اضطراری کرد.",
-      "‏این حوادث نشان می‌دهند حتی تهدیدهای کاذب می‌توانند شبکه پروازی پرتقاضا را مختل کنند و فشار بر خطوط هوایی و مقامات امنیتی را افزاش دهند.",
-      "‏یک ایمیل ادعا کرد که رهبر گروه تهدیدکنندگان بمب‌ها را در ساختمان‌هایشان قرار داده، اما هیچ بمی یافت نشد."
-    ],
-    "body_fa": "‏این هفته بیش از دو دوجین تهدید بمب‌سازی جعلی علیه پروازهای مسافری در فضای هوایی اروپا ثبت شد که منجر به انحراف، فرود اضطراری و همراهی نظامی شد. مقامات هواپیمایی این تهدیدها را حماقتی می‌دانند و تاکنون هیچ بمبی کشف نشده است. ویلفرید کووِنت، رئیس شرکت امنیتی Covent Consulting ، گفت این حمله «سیستمی» و «استثنایی» است و پیش از این چنین مقیاسی را ندیده بود. ایمیلی ادعایی از رهبر گروه تهدیدکنندگان ادعا کرد که بمب‌ها در ساختمان‌هایشان قرار دارد، اما صحت فرستنده و منبع ایمیل تأیید نشده. کارشناسان امنیتی احتمال می‌دهند این حملات توسط بازیگران دولتی پشتیبانی می‌شوند تا زندگی عمومی اروپاییان را مختل کنند. این حوادث نشان می‌دهد حتی تهدیدهای کاذب می‌توانند قوانین بین‌المللی را فعال کرده و عملیات پروازی را به سرعت متوقف کنند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "امنیت هوایی",
-    "tag": "بمب‌تهدید",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-    "clean_url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108532631-1793973369517-gettyimages-1171287484-_igp1978.jpeg?v=1793973419&w=1920&h=1080",
-    "timestamp": 1794002400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "aa9f3c063f",
-    "title_fa": "‏تجارت‌گران نفت خواستار آزادسازی تانکرهای تحریم‌شده توسط آمریکا شدند",
-    "title_en": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar |...",
-    "summary": [
-      "‏بزرگ‌ترین تجارت‌گران نفت جهان برای استفاده از تانکرهای تحت تحریم آمریکا درخواست مجوز می‌دهند.",
-      "‏هزینه‌های حمل‌ونقل نفت به‌دلیل کمبود کشتی‌ها به حدود 80 میلیون دلار برای مسیر خلیج‌به‑چین رسید و سفارشات آسیایی را نصف کرد.",
-      "‏اگر مجوزها صادر شود، حدود 50 تانکر تحریم‌شده می‌توانند ظرفیت حمل‌ونقل را افزایش دهند."
-    ],
-    "body_fa": "‏برخی از بزرگ‌ترین تجارت‌گران نفت جهان مانند Trafigura ، Vitol ، Mercuria و Abu Dhabi National Oil Co. در حال مذاکره با مقامات آمریکایی برای دریافت مجوز استفاده از تانکرهای تحت تحریم هستند. این مذاکرات شامل حدود 50 کشتی است که در حال حاضر تحت تحریم وزارت خزانه‌داری آمریکا قرار دارند. کمبود کشتی‌های حمل‌ونقل به‌دلیل اختلالات ناشی از جنگ ایران و مسیرهای طولانی‌تر، هزینه کرایه سوپرتنکر از خلیج‌به‑چین را به نزدیک 80 میلیون دلار در اکتبر رسانده که تقریباً ده برابر نرخ قبلی است. به‌همین دلیل هزینه حمل‌نفت برای خریداران آسیایی به 30 تا 35 دلار در هر بشکه افزایش یافت و سفارشات نفت خام آمریکا برای تحویل نوامبر حدود 50 درصد کاهش یافت. اگر مجوزهای موردنظر صادر شود، این تانکرهای تحریم‌شده می‌توانند ظرفیت واقعی حمل‌ونقل را افزایش دهند، هرچند بسیاری از آن‌ها نیاز به تعمیرات، بازرسی و بیمه دارند و ممکن است تحت محدودیت‌های اتحادیه اروپا یا بریتانیا باقی بمانند. این اقدام می‌تواند فشار بر هزینه‌های حمل‌ونقل را کم کند و به بهبود جریان نفت آمریکایی به بازارهای آسیا کمک کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "حمل‌ونقل نفت",
-    "tag": "تاکسین‌های تحریم",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
-    "image": "https://s.yimg.com/bo/dd496333-46a1-535b-9c41-f0631902fc27_1783825650736.png.cf.jpg",
-    "timestamp": 1793998521.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "146617b316",
-    "title_fa": "‏کنگره دموکراتیک ممکن است تعرفه‌های ترامپ را لغو کند",
-    "title_en": "Will A Democratic Congress Undo Trump’s Tariffs? Why Midterms Wins May Not Impac...",
-    "summary": [
-      "‏دموکرات‌ها پس از پیروزی در میانه‌دوره‌ها کنترل کنگره را به دست گرفتند و قصد دارند تعرفه‌های ترامپ را بررسی کنند.",
-      "‏لغو این تعرفه‌ها می‌تواند هزینه سالانه خانوارهای آمریکایی را تا ۹۰۰ دلار کاهش دهد و فشار بر تجارت جهانی را کم کند.",
-      "‏اما برای تصویب این اصلاحات نیاز به حمایت جمهوری‌خواهان و عبور از حق امتناع ترامپ است."
-    ],
-    "body_fa": "‏در انتخابات میانه‌دوره‌ای اخیر، دموکرات‌ها توانستند هر دو مجلس نمایندگان و سنا را به دست آورند. این پیروزی تا حدی ناشی از نارضایتی عمومی نسبت به تعرفه‌های گسترده‌ای بود که رئیس‌جمهور دونالد ترامپ بر واردات اعمال کرده است. دموکرات‌ها اعلام کرده‌اند که قصد دارند این تعرفه‌ها را بازنگری کنند؛ نماینده هاکیم جفریز، کاندیدای احتمالی رئیس مجلس، به‌وضوح گفت که می‌خواهد «تعرفه‌های احمقانه ترامپ» را متوقف کند. سناتور ران وایدن، که احتمالاً رئیس کمیته مالی سنا خواهد شد، نیز گفت در حال مذاکره برای قانون‌گذاری در این زمینه است. با این حال، هر گونه اصلاح نیاز به حداقل ۶۰ رای در سنا دارد و ترامپ می‌تواند با حق وتو مانع اجرای آن شود؛ برای عبور از وتو باید دو‑سوم هر دو مجلس موافقت کنند. به‌ویژه تعرفه ۵۰ درصدی بر واردات کانادا، که هزینه سالانه هر خانوار آمریکایی را حدود ۹۰۰ دلار افزایش می‌دهد، اولین هدف احتمالی است، اما حمایت گسترده جمهوری‌خواهان در ایالت‌های مرزی می‌تواند مانع شود.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "سیاست تجاری",
-    "tag": "تعرفه‌ها",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Forbes · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/policy/articles/democratic-congress-undo-trump-tariffs-203450817.html",
-    "clean_url": "https://finance.yahoo.com/economy/policy/articles/democratic-congress-undo-trump-tariffs-203450817.html",
-    "image": "https://media.zenfs.com/en/forbes_staff_375/0e9eb08d0283fa04b6e53ecd6c191d54.jpg",
-    "timestamp": 1793998490.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d3b9c31252",
-    "title_fa": "‏صدها نمونهٔ ابزار هک AI Artex عمومی در دسترس شد",
-    "title_en": "Hundreds of Artex AI hacking tools found publicly exposed to the web |...",
-    "summary": [
-      "‏تحقیقات امنیتی صدها نسخهٔ ابزار هک هوش مصنوعی چینی به نام Artex را که بدون رمز عبور در اینترنت قابل دسترسی هستند، کشف کرد.",
-      "‏این ابزارهای تست نفوذ می‌توانند حملات سایبری از شناسایی تا استخراج داده را با کمترین دخالت انسانی انجام دهند و خطر نفوذ به سامانه‌های فناوری را افزایش دهند.",
-      "‏Censys بیش از 800 نمونهٔ Artex را بدون رمز عبور شناسایی کرد که در حملات به بانک‌های کره جنوبی و ConnectWise به کار رفته‌اند."
-    ],
-    "body_fa": "‏تحقیقات امنیتی شرکت Censys نشان داد که بیش از 800 نمونهٔ ابزار هوش مصنوعی هک به نام Artex به‌صورت عمومی و بدون نیاز به رمز عبور در اینترنت در دسترس هستند. Artex یک ابزار منبع باز برای تست نفوذ خودکار است که می‌تواند از مرحلهٔ شناسایی تا استخراج داده‌ها را با کمترین دخالت انسانی انجام دهد. اگرچه برخی از این نمونه‌ها توسط تست‌کنندگان مجاز استفاده می‌شوند، اما بسیاری از آن‌ها به‌صورت اشتباه یا عمدی در معرض عموم قرار گرفته‌اند. این دسترسی آزاد باعث می‌شود که مهاجمان بتوانند به سادگی از این ابزار برای حملات سایبری بزرگ، از جمله حملات به صنعت مالی کره جنوبی و شرکت ConnectWise ، استفاده کنند. Microsoft پیش‌تر Artex را به‌عنوان سامانه‌ای از عوامل هوش مصنوعی توصیف کرده بود که می‌تواند حملات از شناسایی تا استخراج داده را بدون نیاز به مداخله انسانی انجام دهد. افشای این وضعیت نشان می‌دهد که حتی ابزارهای پیشرفته هک می‌توانند به‌دلیل پیکربندی نادرست به خطر امنیتی گسترده‌ای تبدیل شوند.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "Artex",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "clean_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
-    "image": "https://s.yimg.com/bo/c0efc008-a4b0-5ac2-bdba-6905c04f80d0_1788836321986.jpg",
-    "timestamp": 1793991321.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2cf9e62446",
-    "title_fa": "‏Stephen Miller به عنوان رئیس‌دست سفیدخانه جایگزین Susie Wiles شد",
-    "title_en": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-    "summary": [
-      "‏ترامپ Stephen Miller را به عنوان رئیس‌دست سفیدخانه جایگزین Susie Wiles معرفی کرد.",
-      "‏این تغییر پس از پیروزی گسترده دمکرات‌ها در انتخابات میانی و احتمال فشار بر سیاست‌های مهاجرتی مهم است.",
-      "‏Miller که پیش از این معاون رئیس‌دست بود، گفت مأموریت حمایت از رئیس‌جمهور را ادامه خواهد داد."
-    ],
-    "body_fa": "‏رئیس‌جمهور Donald Trump روز جمعه اعلام کرد Stephen Miller ، معاون رئیس‌دست پیشین، به عنوان رئیس‌دست جدید سفیدخانه منصوب می‌شود. این تصمیم تنها سه روز پس از کسب پیروزی سنگین دمکرات‌ها در انتخابات میانی که کنترل مجلس نمایندگان و سنا را به دستشان گذاشت، اعلام شد. Susie Wiles که تا به حال رئیس‌دست بود، به عملیات سیاسی Trump منتقل می‌شود و روز پنج‌شنبه استعفا داد. Miller که به‌عنوان معمار سیاست‌های اخراج جمعی مهاجرتی شناخته می‌شود، گفت مأموریت حمایت از رئیس‌جمهور و دفاع از جمهوری را ادامه خواهد داد. این تغییر می‌تواند تنش‌های بین‌حزبی را تشدید کند، به‌ویژه که دمکرات‌های تازه‌وارد قصد دارند سیاست‌های مهاجرتی را بررسی کنند. برخی مقامات جمهوری‌خواه نیز از این تصمیم حمایت کردند و گفتند Miller می‌تواند نقش مهمی در پیشبرد برنامه‌های Trump ایفا کند.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "تغییرات اداری",
-    "tag": "Miller",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-    "clean_url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-    "image": "https://s.yimg.com/bo/d3ae147a-0d72-5bff-8c22-52ef347f37a6_1793992629899.jpg",
-    "timestamp": 1793991320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "557618bc33",
-    "title_fa": "‏تعداد سکوهای حفاری نفت و گاز آمریکا کمی افزایش یافت",
-    "title_en": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash | OilPrice.com",
-    "summary": [
-      "‏تعداد سکوهای فعال حفاری نفت و گاز در آمریکا به 604 رسید",
-      "‏این افزایش جزئی در حالی است که قیمت نفت به‌طور ناگهانی سقوط کرد",
-      "‏همزمان تولید روزانه نفت به رکورد 14.003 میلیون بشکه در روز رسید"
-    ],
-    "body_fa": "‏داده‌های جدید بیکر هیوز نشان داد که تعداد سکوهای فعال نفت و گاز در ایالات متحده به 604 رسید، که نسبت به همان دوره سال گذشته 56 واحد بیشتر است. سکوهای نفتی 463 و سکوهای گازی 131 شدند، هر دو یک واحد نسبت به دوره قبلی افزایش یافتند. تولید روزانه نفت خام نیز در هفته منتهی به 30 اکتبر به 14.003 میلیون بشکه در روز رسید که رکورد جدیدی است. در عین حال، تعداد تیم‌های تکمیل چاه (Frac Spread) برای سومین هفته متوالی کاهش یافت و به 191 تیم رسید. این ارقام در حالی منتشر شد که قیمت نفت برنت در حدود 97 دلار و WTI حدود 90 دلار در هر بشکه معامله می‌شد، که نسبت به هفته پیش حدود 20 و 14 دلار کاهش داشته است. افزایش جزئی سکوها نشان می‌دهد که صنعت نفت آمریکا هنوز به‌دنبال بهره‌برداری از قیمت‌های پایین برای افزایش تولید است.",
-    "category": "انرژی و کالا",
-    "subcategory": "نفت و گاز",
-    "tag": "نقش‌گیری",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-See-Minor-Uptick-as-Oil-Prices-Crash.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-See-Minor-Uptick-as-Oil-Prices-Crash.html",
-    "image": "https://s.yimg.com/bo/dd496333-46a1-535b-9c41-f0631902fc27_1783825650736.png.cf.jpg",
-    "timestamp": 1793987721.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6e118954d1",
-    "title_fa": "‏هزینه هوش مصنوعی در تابستان ثابت ماند؛ IPO Anthropic نزدیک",
-    "title_en": "Ramp data shows AI spending stalling just as Anthropic nears its IPO |...",
-    "summary": [
-      "‏داده‌های Ramp نشان داد هزینه‌های هوش مصنوعی در اوت‑سپتامبر ثابت ماند.",
-      "‏این نشانگر کاهش سرعت رشد درآمد شرکت‌های AI مثل OpenAI و Anthropic است.",
-      "‏قیمت‌گذاری کمتر OpenAI و Anthropic باعث شد هزینه‌ها به رغم حجم توکن‌ها افزایش نیابد."
-    ],
-    "body_fa": "‏بر اساس گزارش جدید Ramp ، هزینه‌های صرف‌شده برای هوش مصنوعی در ماه‌های اوت و سپتامبر تقریباً ثابت مانده است، در حالی که حجم توکن‌های مصرفی افزایش یافته. در مقایسه با ژوئیه که هزینه‌ها ۴۲٪ رشد کرد، رشد هزینه‌ها در این دو ماه تنها ۱٫۵٪ بوده. آرا خرازین، اقتصاددان ارشد Ramp ، اشاره کرد که تقریباً تمام هزینه‌های AI توسط شرکت‌های فناوری با سرمایه‌گذاری خطرپذیر تأمین می‌شود و اگر این هزینه‌ها کاهش یابد، تمام این شرکت‌ها به‌صورت همزمان تحت فشار قرار می‌گیرند. داده‌ها نشان می‌دهد که ۱٪ برتر شرکت‌ها که پیش از این حدود ۱۰٬۰۰۰ دلار هزینه ماهانه به ازای هر کارمند داشتند، کمی کاهش یافته و زیر این سطح رفته‌اند. اگرچه شرکت‌های میان‌رده و ده‌درصد برتر هنوز رشد هزینه دارند، اما این افزایش کافی نیست تا کاهش در بخش برتر را جبران کند. کاهش قیمت‌های API توسط OpenAI و Anthropic ، که به‌عنوان عامل اصلی این رکود شناخته می‌شود، می‌تواند درآمد این شرکت‌ها را تحت فشار قرار دهد، به‌خصوص در زمان نزدیک شدن Anthropic به عرضه اولیه عمومی.",
-    "category": "تکنولوژی",
-    "subcategory": "هزینه هوش مصنوعی",
-    "tag": "هوش‌مصنوعی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "clean_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
-    "image": "https://s.yimg.com/bo/820d8f4c-8811-5341-84e5-4671815e8d5d_1793981206027.webp",
-    "timestamp": 1793980556.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "104eddb192",
-    "title_fa": "‏سازمان بورس تایلند اقدام به مسدودسازی Bitget کرد",
-    "title_en": "Thailand moves to block Bitget as crypto exchange's local acquisition faces...",
-    "summary": [
-      "‏سازمان بورس تایلند علیه اپراتور Bitget شکایت کیفری ثبت کرد",
-      "‏این اقدام به دلیل فعالیت بدون مجوز صرافی در کشور است",
-      "‏شکایت می‌تواند مانع از خریداری محلی Bitget و خروج سرمایه‌گذاران شود"
-    ],
-    "body_fa": "‏سازمان بورس و اوراق بهادار تایلند (SEC) علیه شرکت اپراتور Bitget یک شکایت کیفری تقدیم کرد و ادعا کرد این صرافی بدون دریافت مجوز لازم در کشور فعالیت می‌کرد. بر اساس اتهامات، Bitget به‌صورت غیرقانونی خدمات خرید و فروش ارزهای دیجیتال را برای کاربران تایلندی فراهم کرده است. این پرونده می‌تواند مانع از تکمیل خریداری محلی Bitget توسط یک شرکت تایلندی شود و دسترسی کاربران به پلتفرم را محدود کند. اگر دادگاه تصمیم به مسدودسازی بگیرد، احتمالاً تعداد قابل‌توجهی از سرمایه‌گذاران تایلندی مجبور به جابجایی دارایی‌های خود به صرافی‌های دیگر می‌شوند. این اقدام نشان‌دهنده تشدید نظارت regulator ی در منطقه آسیا بر صرافی‌های دیجیتال است و می‌تواند پیامدهای مشابهی برای سایر صرافی‌های بین‌المللی داشته باشد. در نهایت، این خبر می‌تواند فشار بر بازارهای کریپتو در تایلند و حتی در سطح منطقه‌ای را افزایش دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "نظارت بر صرافی",
-    "tag": "Bitget",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-    "clean_url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-    "image": "https://s.yimg.com/bo/bfc5d3be-7ddf-5dc2-847e-c3f68cbe22e4_1793976346435.jpg",
-    "timestamp": 1793976956.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "65b8d62040",
-    "title_fa": "‏تهدیدهای بمب‌گذاری به تلویزیون‌های اروپا برنامه‌ها را مختل کرد",
-    "title_en": "Bomb threats warning 'the clock is ticking' disrupt TV channels across Europe",
-    "summary": [
-      "‏هفته‌پایانی جمعه، تهدیدهای بمب‌گذاری به چندین شبکه تلویزیونی در سراسر اروپا ارسال شد",
-      "‏این پیام‌ها باعث قطع پخش، تغییر برنامه‌ها و افزایش نگرانی امنیتی در کشورهای عضو شد",
-      "‏پلیس‌ها در حال بررسی منبع تهدیدها و افزایش امنیت مراکز پخش هستند"
-    ],
-    "body_fa": "‏در جمعهٔ گذشته، پیام‌های تهدیدی با مضمون «ساعت در حال تیک‌تیک است» به چندین ایستگاه تلویزیونی در کشورهای مختلف اروپا ارسال شد. این پیام‌ها منجر به قطع ناگهانی پخش، تغییر برنامه‌های زنده و اخلال در خدمات پخش شد. مسئولان امنیتی ملی و پلیس‌های محلی به سرعت واکنش نشان دادند و ایستگاه‌ها را برای بررسی خطرات احتمالی تخلیه کردند. هنوز هیچ گروهی مسئولیت این تهدیدها را بر عهده نگرفته و تحقیقات برای شناسایی منبع ادامه دارد. این حادثه نگرانی‌های امنیتی درباره زیرساخت‌های رسانه‌ای را در سطح قاره‌ای افزایش داده است. در عین حال، برخی شبکه‌ها با استفاده از برنامه‌های پیش‌ثبت‌شده به پخش ادامه دادند تا خسارت مالی و اطلاعاتی به حداقل برسد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "تهدید بمب تلویزیونی",
-    "tag": "بمب‌تهدید",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe-2026-11-06/",
-    "clean_url": "https://www.reuters.com/world/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe-2026-11-06",
-    "image": "https://s.yimg.com/bo/a89e764a-ae3b-5380-8a89-50ac3e9f99ab_1793977955919.jpg",
-    "timestamp": 1793976956.0,
     "sent_to_telegram": true
   }
 ]
