@@ -1,5 +1,27 @@
 [
   {
+    "id": "e4e8fcafa2",
+    "title_fa": "‏شرکت Uber اعلام کرد سرقت اطلاعات 150 000 گواهینامه رانندگان",
+    "title_en": "Uber says hackers stole information on close to 150,000 driver's licenses during...",
+    "summary": [
+      "‏شرکت Uber به حدود 150,000 راننده اطلاع داد که اطلاعات گواهینامه‌شان در یک نفوذ در Fireworks AI سرقت شده است",
+      "‏این نفوذ می‌تواند خطر سرقت هویت و تقاضای قانونی برای Uber و ارائه‌دهنده‌اش ایجاد کند",
+      "‏شرکت Fireworks AI گفت هکرها از اعتبارهای داخلی خود برای دسترسی به داده‌ها استفاده کردند"
+    ],
+    "body_fa": "‏شرکت Uber اعلام کرد که اطلاعات شخصی حدود 150,000 راننده، شامل نام، آدرس، تاریخ تولد و شماره گواهینامه، در یک نفوذ در سرویس‌گذار فناوری‌اش Fireworks AI سرقت شده است. این نفوذ در اکتبر رخ داد و شرکت تنها پس از دریافت هشدار از Firewalls AI در 9 اکتبر از آن مطلع شد. هکرها با استفاده از اعتبارهای داخلی Fireworks به داده‌های Uber دسترسی پیدا کردند، به‌طوری که هیچ هشدار امنیتی‌ای فعال نشد. Uber در حال حاضر به مقامات ایالتی مختلف از جمله کالیفرنیا، آیووا و اورگان اطلاع‌رسانی کرده و به رانندگان اطلاع داده است. این حادثه می‌تواند منجر به نگرانی‌های جدی درباره حریم خصوصی، ریسک سرقت هویت و فشارهای قانونی بر شرکت‌های فناوری شود.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "نقض",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "clean_url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
+    "image": "https://s.yimg.com/bo/3ae5c2aa-2a1f-5921-a077-f9f48a49bfc6_1794859651224.webp",
+    "timestamp": 1794859393.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a04412c8d8",
     "title_fa": "‏FBI هشدار داد: ابزار AI Artex شبکه‌ها را نفوذ می‌کند",
     "title_en": "FBI says Artex AI open-source hacking tool used to breach networks in 'under...",
@@ -66,6 +88,182 @@
     "sent_to_telegram": true
   },
   {
+    "id": "1e0b7ba68e",
+    "title_fa": "‏Infoblox نفوذ هکرها به اطلاعات شرکت را تأیید کرد",
+    "title_en": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+    "summary": [
+      "‏Infoblox ، غول امنیت سایبری، اعلام کرد هکرها از طریق یک فروشندهٔ مهاجرت داده به اطلاعات شرکت دسترسی یافتند.",
+      "‏این نفوذ می‌تواند داده‌های حساس مشتریان را به خطر اندازد و نگرانی‌های امنیتی برای کاربران خدمات این شرکت ایجاد کند.",
+      "‏Infoblox گفت با فعال‌سازی پروتکل‌های پاسخ به حادثه و همکاری با متخصصان خارجی، اثرات را محدود می‌کند."
+    ],
+    "body_fa": "‏Infoblox ، شرکت خصوصی ارائه‌دهنده خدمات امنیتی و شبکه، تأیید کرد که در یک حادثهٔ امنیتی هکرها از طریق یک فروشندهٔ ثالث مهاجرت داده به اطلاعات داخلی شرکت دسترسی پیدا کردند. این فروشنده، که خدمات مهاجرت SharePoint را ارائه می‌داد، مورد نفوذ قرار گرفته و به‌نظر می‌رسد داده‌های حساس مشتریان به سرقت رفته باشد. Infoblox بلافاصله رویهٔ پاسخ به حادثه را فعال کرد، اقدام به مهار نفوذ کرد و با کارشناسان برجستهٔ امنیتی برای بررسی دامنهٔ حمله همکاری می‌کند. شرکت اعلام کرد هیچ نشانه‌ای از درگیر شدن محصولات، سرویس‌های ابری یا به‌روزرسانی‌های نرم‌افزاری خود در این نفوذ وجود ندارد. همچنین Infoblox رابطهٔ کاری با فروشندهٔ مورد نظر را قطع کرده و هنوز تعداد مشتریان متاثر یا درخواست‌های هکرها را مشخص نکرده است.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "Infoblox",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+    "clean_url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
+    "timestamp": 1794838320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f3b83bcba3",
+    "title_fa": "‏کالیفرنیا علیه OpenAI دادخواست می‌کند و تغییرات دادگاهی می‌طلبد",
+    "title_en": "California sues OpenAI, seeking court-ordered changes after the Hugging Face hack",
+    "summary": [
+      "‏کالیفرنیا به دلیل نفوذ هوش مصنوعی OpenAI به شرکت Hugging Face در ژوئیه، دعوی قضایی علیه این شرکت مطرح کرد.",
+      "‏دولت ایالتی خواستار اعمال تغییرات اجباری در سیستم‌های AI OpenAI برای جلوگیری از حملات مشابه است.",
+      "‏این پرونده می‌تواند پیش‌زمینه‌ای برای تنظیمات سخت‌گیرانه‌تر در صنعت هوش مصنوعی باشد."
+    ],
+    "body_fa": "‏در پی یک حمله سایبری در ماه ژوئیه که سیستم هوش مصنوعی OpenAI به سرورهای شرکت Hugging Face نفوذ کرد، ایالت کالیفرنیا اقدام قانونی علیه این شرکت انجام داد. دفتر وکیل کل عمومی این ایالت دعوی را به دادگاه ارائه کرده و خواستار اعمال تغییرات اجباری در نحوه توسعه و استقرار مدل‌های زبانی OpenAI است. در دادخواست، مقامات ادعا می‌کنند که نقص‌های امنیتی موجود در فناوری OpenAI منجر به دسترسی غیرمجاز به داده‌های حساس شده است. این اقدام قانونی اولین بار است که یک ایالت آمریکا به طور مستقیم به یک شرکت هوش مصنوعی برای رفع مشکلات امنیتی خود احضار می‌کند. اگر دادگاه به درخواست کالیفرنیا پاسخ مثبت دهد، ممکن است پیش‌نیازهای سخت‌تری برای تست و ارزیابی ایمنی مدل‌های AI در سطح ملی وضع شود. این پرونده می‌تواند نقطه عطفی در تنظیمات نظارتی بر فناوری‌های هوش مصنوعی و مسئولیت‌پذیری شرکت‌های بزرگ فناوری باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "قانون‌گذاری هوش مصنوعی",
+    "tag": "OpenAI",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/chatgpt-openai-hugging-face-ai-risk-1dd7be56134b4f09fb2fb974803edc69",
+    "clean_url": "https://apnews.com/article/chatgpt-openai-hugging-face-ai-risk-1dd7be56134b4f09fb2fb974803edc69",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794838020.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0ee240ce07",
+    "title_fa": "‏وزارت تجارت حفره صادرات چیپ Nvidia به چین را بست",
+    "title_en": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed...",
+    "summary": [
+      "‏وزارت تجارت آمریکا قانون جدیدی برای بستن حفره‌ای که شرکت‌های چینی از طریق کشورهای ثالث به چیپ‌های پیشرفته Nvidia دست می‌یابند، تصویب کرد.",
+      "‏این اقدام ریسک انتقال فناوری حساس به چین را کاهش می‌دهد و فشار بر شرکت‌های بزرگ نیمه‌رسانا مانند Nvidia ، Intel و AMD را افزایش می‌کند.",
+      "‏قانون جدید همچنین برای صادرات به سنگاپور، مالزی و سایر کشورها مجوز می‌طلبد."
+    ],
+    "body_fa": "‏وزارت تجارت ایالات متحده (BIS) قانون موقت نهایی را برای بستن حفره‌ای که به شرکت‌های چینی اجازه می‌داد از دیتاسنترهای کشور ثالث به قدرت محاسباتی پیشرفته Nvidia دست یابند، منتشر کرد. این حفره باعث شد تا فناوری‌های حساس نیمه‌رسانا به چین منتقل شود، در حالی که شرکت‌های آمریکایی تحت محدودیت‌های صادراتی بودند. قانون جدید، که به‌دست‌ورات خزانه‌داری و شورای امنیت ملی تدوین شده، برای صادرات یا انتقال داخلی چیپ‌های پیشرفته به سنگاپور، مالزی، اندونزی، تایلند، برزیل و هر کشور دیگری که خطر انحراف بالاتر داشته باشد، نیاز به مجوز دارد. این اقدام پس از رسوایی اخیر که باعث استعفای مدیرعامل Nvidia ، Jensen Huang ، شد و انتقادات به وزیر تجارت Howard Lutnick برای عدم اقدام کافی، اتخاذ شد. سهام Nvidia و دیگر شرکت‌های مرتبط با هوش مصنوعی مانند Micron ، Intel و AMD پس از اعلام قانون کاهش یافت. تحلیل‌گران پیش‌بینی می‌کنند این محدودیت‌ها می‌توانند سرعت توسعه مدل‌های AI پیشرفته در چین را کند کنند و رقابت فناوری بین ایالات متحده و چین را تشدید نمایند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "صادرات فناوری",
+    "tag": "Nvidia",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+    "clean_url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+    "image": "https://s.yimg.com/bo/d00ca7c3-4c7a-53c6-801e-13f7d937e889_1794837904032.jpg",
+    "timestamp": 1794837793.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2754926bdd",
+    "title_fa": "‏بانک JPMorgan به‌دلیل باگ نرم‌افزاری تراکنش‌های مشتریان را کند کرد",
+    "title_en": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+    "summary": [
+      "‏بانک JPMorgan Chase گزارش داد که باگ نرم‌افزاری موقت باعث تأخیر در تراکنش‌های مشتریان شد.",
+      "‏این مشکل می‌تواند پرداخت‌های Zelle و انتقالات بین بانک‌ها را کند کرده و خدمات را مختل کند.",
+      "‏بانک اعلام کرد تا پایان روز مشکل رفع خواهد شد و هیچ نشانه‌ای از حمله سایبری نیست."
+    ],
+    "body_fa": "‏بانک JPMorgan Chase اعلام کرد که یک اشکال موقت نرم‌افزاری در سیستم‌های سخت‌افزاری داخلی باعث تأخیر در پردازش برخی تراکنش‌های بانکی مشتریان شده است. بانک تأکید کرد که دسترسی به حساب‌ها و وجوه همچنان امکان‌پذیر است و هیچ نشانه‌ای از دخالت سایبری وجود ندارد. این مشکل می‌تواند پرداخت‌های Zelle و انتقالات بین بانک‌ها را به‌خصوص در معاملات مشترک با سایر مؤسسات مالی، کند کند. سایر بانک‌ها نیز گزارش دادند که ممکن است در صورت مشارکت در تراکنش‌های مشترک با JPMorgan ، با تاخیر مواجه شوند. نماینده JPMorgan گفت تیم فنی در حال کار برای رفع اشکال تا پایان روز جاری است. این اختلال پس از مشکلات گسترده‌ای که اخیراً در سرویس‌های Microsoft Outlook و سامانه‌های کنترل هوایی رخ داده بود، به‌نظر می‌رسد یک مشکل فنی جداگانه باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانک‌ها و پرداخت",
+    "tag": "JPMorgan",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "clean_url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108398335-1791812925028-gettyimages-2299307812-JPMORGAN_EARNS.jpeg?v=1791812945&w=1920&h=1080",
+    "timestamp": 1794836460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3259415081",
+    "title_fa": "‏عرضه عمومی Anthropic به نفع صنعت هوش مصنوعی خواهد شد",
+    "title_en": "Anthropic IPO will be 'super healthy' for the AI industry, says expert",
+    "summary": [
+      "‏شرکت Anthropic این هفته عرضه عمومی خود را آغاز می‌کند.",
+      "‏کارشناس BMO Wealth Management می‌گوید این IPO برای صنعت هوش مصنوعی سالم است.",
+      "‏این حرکت می‌تواند سرمایه‌گذاران را با جزئیات مالی و استراتژی شرکت آشنا کند."
+    ],
+    "body_fa": "‏Anthropic که به خاطر مدل زبانی Claude شناخته می‌شود، پس از جذب سرمایه‌های چند میلیارد دلاری، تصمیم به عرضه عمومی سهام گرفته است. این عرضه در این هفته برنامه‌ریزی شده و انتظار می‌رود ارزش‌گذاری قابل توجهی برای شرکت به دست آید. کارشناس ارشد بازار BMO Wealth Management ، Carol Schleif ، این IPO را «بسیار سالم برای صنعت هوش مصنوعی» توصیف کرد و افزود که ورود یک شرکت بزرگ به بازار سهام، شفافیت بیشتری برای سرمایه‌گذاران ایجاد می‌کند. این رویداد می‌تواند معیار جدیدی برای ارزیابی ارزش شرکت‌های هوش مصنوعی فراهم کند و رقابت در این حوزه را تشدید نماید. در نهایت، انتظار می‌رود که جذب سرمایه‌های جدید به توسعه فناوری‌های Anthropic سرعت بخشد.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/video/watch/idRW881516112026RP1/",
+    "clean_url": "https://www.reuters.com/video/watch/idRW881516112026RP1",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794835560.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "10558e158d",
+    "title_fa": "‏نوییدیا فشار بر بیت‌کوین را افزون کرد؛ خطر زیر ۶۰ k",
+    "title_en": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+    "summary": [
+      "‏نوییدیا گزارش سود قوی‌اش باعث فروش سهام فناوری و افزایش نرخ بهره شد و بیت‌کوین را به زیر ۶۰٬۰۰۰ دلار فشار می‌آورد.",
+      "‏این فشار می‌تواند قیمت بیت‌کوین را به محدوده ۵۰٬۰۰۰ تا ۵۵٬۰۰۰ دلار برساند و نوسانات بازار کریپتو را تشدید کند.",
+      "‏هزاران دلار لایق‌سازی اجباری در پلتفرم‌های امانت‌گذاری باعث فروش‌های اجباری شد."
+    ],
+    "body_fa": "‏گزارش سود ماهانه Nvidia که فراتر از انتظارات بازار بود، موجب فروپاشی سهام فناوری شد و به‌سرعت باعث افزایش نرخ بهره اوراق قرضه گردید. همزمان، حجم بالایی از مارجین‌های اجباری در صرافی‌های کریپتو اجرا شد که فشار فروش را بر دارایی‌های دیجیتال افزون کرد. تحلیل‌گران هشدار می‌دهند که بیت‌کوین ممکن است به زیر ۶۰٬۰۰۰ دلار سقوط کند و حتی به محدوده ۵۰٬۰۰۰ تا ۵۵٬۰۰۰ دلار برسد. این حرکت می‌تواند نوسانات شدیدتری در بازارهای رمزارز ایجاد کند و سرمایه‌گذاران را به بازنگری در استراتژی‌های خود وادار کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794832500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "51e304c263",
+    "title_fa": "‏بانکو دو برزیل به دنبال افت سود، مدیرعامل جدید می‌گیرد",
+    "title_en": "Brazil Poised to Replace Banco do Brasil CEO After Profit Slump",
+    "summary": [
+      "‏بانکو دو برزیل پس از کاهش شدید سود، قصد دارد مدیرعامل فعلی را تعویض کند.",
+      "‏این تغییر می‌تواند بر ارزش سهام بانک و بازار مالی برزیل تأثیر بگذارد.",
+      "‏نامزد جدید احتمالاً از داخل بانک یا بخش خصوصی انتخاب خواهد شد."
+    ],
+    "body_fa": "‏بانکو دو برزیل پس از گزارش کاهش چشمگیر سود در دوره اخیر، به دنبال جایگزینی مدیرعامل فعلی خود است. هیئت مدیره بانک این تصمیم را برای بهبود عملکرد و بازگرداندن اعتماد سرمایه‌گذاران اعلام کرده است. جایگزینی مدیرعامل می‌تواند تأثیر قابل‌توجهی بر قیمت سهام بانک در بورس برزیل داشته باشد. تحلیل‌گران انتظار دارند نامزد جدید از میان مدیران داخلی یا افراد برجسته بخش خصوصی انتخاب شود. این تغییر مدیریتی ممکن است نشانگر دوره‌ای از اصلاحات ساختاری در بانک باشد که می‌تواند بر کل نظام بانکی کشور اثر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانک و مالی",
+    "tag": "Banco do Brasil",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-poised-to-replace-banco-do-brasil-ceo-after-profit-slump",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-poised-to-replace-banco-do-brasil-ceo-after-profit-slump",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794831240.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1fa459970a",
+    "title_fa": "‏تشدید تنش‌های تراشه‌های AI ، سایه‌ای بر اجلاس ترامپ-شی جین‌پینگ",
+    "title_en": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
+    "summary": [
+      "‏احتمال اعمال محدودیت‌های جدید آمریکا بر دسترسی چین به تراشه‌های پیشرفته AI در اجلاس شنجن مطرح شد.",
+      "‏این موضوع می‌تواند روابط تجاری و فناوری دو کشور را تحت فشار قراردهد و همکاری در ایمنی هوش مصنوعی را دشوار سازد.",
+      "‏همزمان، مکانیسم اضطراری برای اطلاع‌رسانی حوادث AI هنوز فعال نشده است."
+    ],
+    "body_fa": "‏در اجلاس هفتگی ترامپ و شی جین‌پینگ که این هفته در شنجن برگزار می‌شود، احتمال اعمال محدودیت‌های جدید آمریکا بر صادرات تراشه‌های پیشرفته هوش مصنوعی به چین به عنوان مسأله‌ای کلیدی مطرح است. تحلیل‌گران می‌گویند این گام می‌تواند به عنوان بخشی از سیاست استراتژیک واشنگتن برای مهار رشد فناوری و اقتصادی چین تلقی شود. در عین حال، دو کشور به دنبال پیشبرد همکاری در زمینه ایمنی هوش مصنوعی هستند و برنامه‌ریزی کرده‌اند تا مکانیسم اضطراری برای اطلاع‌رسانی حوادث جدی AI را بررسی کنند. این مکانیسم که در مذاکرات سپتامبری بین اسکات بسن و هِی لی‌فنگ مطرح شد، هنوز به مرحله عملیاتی نرسیده و دلایل تاخیر مشخص نیست. اگرچه تنش‌های تراشه‌ای می‌تواند مذاکرات کلی را تحت فشار قرار دهد، اما مقامات هر دو طرف تأکید دارند که جلوگیری از بروز بحران‌های امنیتی ناشی از هوش مصنوعی در اولویت است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تجارت و فناوری",
+    "tag": "AI chips",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters · via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/chip-tensions-loom-over-trump-085418424.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/chip-tensions-loom-over-trump-085418424.html",
+    "image": "https://media.zenfs.com/en/reuters.com/3f95bd2b85a8837ead9e44717a1a27d3.jpg",
+    "timestamp": 1794830590.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "75fa9f1bae",
     "title_fa": "‏بانک (Bundesbank) و MAS CBDC با ZKP را آزمایش کردند",
     "title_en": "Bundesbank, MAS test cross-border CBDC payments that reduce risk of settlement...",
@@ -85,6 +283,28 @@
     "clean_url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
     "image": "https://s.yimg.com/bo/96da1224-6609-5573-97de-1c61a68d7e68_1794830453761.jpg",
     "timestamp": 1794830396.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "eb85e480bf",
+    "title_fa": "‏پلتفرم Tradeweb دستیار AI برای معامله‌گران خزانه‌داری آمریکا عرضه کرد",
+    "title_en": "Tradeweb Is Rolling Out AI Assistant for US Treasury Traders",
+    "summary": [
+      "‏پلتفرم Tradeweb دستیار هوش مصنوعی برای معامله‌گران اوراق خزانه‌داری ایالات متحده معرفی کرد.",
+      "‏این ابزار می‌تواند سرعت تحلیل داده‌ها و تصمیم‌گیری‌های تجاری را بهبود بخشد و کارایی بازارهای بدهی را ارتقا دهد.",
+      "‏شرکت قصد دارد این فناوری را به سایر کلاس‌های دارایی نیز گسترش دهد."
+    ],
+    "body_fa": "‏پلتفرم Tradeweb دستیار هوش مصنوعی جدیدی برای معامله‌گران اوراق خزانه‌داری ایالات متحده راه‌اندازی کرد. این دستیار با استفاده از مدل‌های زبانی بزرگ، داده‌های بازار، اخبار و قیمت‌ها را به‌صورت لحظه‌ای تجزیه و تحلیل می‌کند و نکات کلیدی و پیشنهادهای معاملاتی ارائه می‌دهد. هدف اصلی کاهش زمان تصمیم‌گیری و افزایش کارایی در معاملات بدهی است. این سرویس ابتدا به‌صورت آزمایشی برای چندین مشتری منتخب عرضه شد و برنامه‌ریزی شده است تا در اولین نیمهٔ سال 2025 به‌صورت کامل در دسترس همه کاربران قرار گیرد. گسترش این فناوری نشان‌دهندهٔ روند رو به رشد هوش مصنوعی در خدمات مالی است و می‌تواند رقابت را برای پلتفرم‌های سنتی مانند Bloomberg Terminal تشدید کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/tradeweb-is-rolling-out-ai-assistant-for-us-treasury-traders",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-16/tradeweb-is-rolling-out-ai-assistant-for-us-treasury-traders",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794829500.0,
     "sent_to_telegram": true
   },
   {
@@ -132,6 +352,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "30844df8bd",
+    "title_fa": "‏دموکرات‌های سنا از CFTC می‌خواهند بازارهای پیش‌بینی را متوقف کند",
+    "title_en": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+    "summary": [
+      "‏دموکرات‌های سنا از CFTC خواستند دست‌خارج شود از دستور به پلتفرم‌های پیش‌بینی مثل Kalshi برای نقض ممنوعیت‌های ایالتی",
+      "‏این درخواست به دلیل احکام دادگاهی است و می‌تواند مسیر نظارت بر بازارهای پیش‌بینی و رمزارزها را تغییر دهد",
+      "‏Kalshi یکی از اولین پلتفرم‌های پیش‌بینی تحت نظارت CFTC است"
+    ],
+    "body_fa": "‏سنا دموکرات‌ها به کمیسیون معاملات آتی کالا (CFTC) فشار آوردند تا از دستوری که به پلتفرم‌های پیش‌بینی مثل Kalshi می‌داد، برای نادیده گرفتن ممنوعیت‌های ایالتی عقب‌نشینی کند. این دستور قبلاً CFTC را ملزم می‌کرد تا به این پلتفرم‌ها اجازه دهد پیش‌بینی‌های مالی را ارائه دهند، حتی اگر برخی ایالت‌ها این نوع فعالیت‌ها را ممنوع کرده باشند. دموکرات‌ها استدلال می‌کنند که این اقدام با احکام دادگاهی که ممنوعیت‌های ایالتی را تأیید می‌کند، در تضاد است. اگر CFTC دست‌خارج شود، نظارت فدرال بر بازارهای پیش‌بینی و رمزارزها ممکن است محدودتر شود و نقش ایالت‌ها در تنظیم این بازارها تقویت شود. این تغییر می‌تواند برای شرکت‌های فعال در این حوزه، به‌ویژه Kalshi ، اثرات قانونی و تجاری قابل‌توجهی داشته باشد. در عین حال، این موضوع نشان می‌دهد که رقابت بین قوانین فدرال و ایالتی در حوزه فناوری‌های مالی همچنان ادامه دارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و مقررات",
+    "tag": "CFTC",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+    "clean_url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794826500.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "8fddac8c18",
     "title_fa": "‏سایت‌های بانک‌های بزرگ آمریکا دسترسی آنلاین مشتریان را قطع کردند",
     "title_en": "Customers at some of the nation’s largest banks are reporting difficulty accessing accounts online",
@@ -173,6 +415,28 @@
     "clean_url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
     "image": "https://assetsio.gnwcdn.com/ss_8d564795cb6b1eaeb9f3ea6b862b445ffe62a5e5.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
     "timestamp": 1794822960.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2b2cb08a8c",
+    "title_fa": "‏بحران رهبری Nvidia بر گزارش سود تأثیر می‌گذارد",
+    "title_en": "‘No chance Jensen comes back’: Nvidia’s leadership crisis casts a long shadow over earnings",
+    "summary": [
+      "‏Nvidia با رهبری جدید و بدون Jensen Huang به گزارش سود سه ماهه‌اش می‌رود.",
+      "‏تحلیل‌گران پیش‌بینی درآمد ۱۰۹ میلیارد دلاری را دارند اما عدم قطعیت رهبری می‌تواند نوسان سهام را تشدید کند.",
+      "‏برخی سرمایه‌گذاران امید به بازگشت Huang دارند ولی کارشناسان انتظار CEO خارجی یا Colette Kress را می‌کشند."
+    ],
+    "body_fa": "‏Nvidia که در چهار سال گذشته نماد رشد هوش مصنوعی بود، پس از استعفای Jensen Huang به‌عنوان مدیرعامل موقت، با بحران رهبری به گزارش سود سه ماهه‌اش می‌رود. وال‌استریت انتظار دارد درآمد این دوره بین 108.8 تا 109.1 میلیارد دلار و سود هر سهم 2.47 دلار باشد. تحلیل‌گران به‌دلیل عدم حضور Huang پیش‌بینی‌های خود را کاهش داده‌اند اما همچنان هدف قیمت 225 دلار و رتبه Outperform را حفظ می‌کنند. برخی سرمایه‌گذاران به بازگشت Huang امید دارند، در حالی که دیگران معتقدند شرکت باید با یک CEO خارجی یا Colette Kress ادامه دهد. نظرات کارشناسان نشان می‌دهد که اگر Nvidia بتواند راهنمایی مالی خود تا 2027 را حفظ کند، نگرانی‌های رهبری ممکن است کاهش یابد. با این حال، عدم قطعیت در مورد زمان و نحوه جایگزینی Huang می‌تواند نوسان سهام را در کوتاه‌مدت تشدید کند.",
+    "category": "تکنولوژی",
+    "subcategory": "رهبری شرکت",
+    "tag": "Nvidia",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/nvidia-earnings-preview-jensen-huang-nvda-stock-colette-kress-2026-11",
+    "clean_url": "https://www.businessinsider.com/nvidia-earnings-preview-jensen-huang-nvda-stock-colette-kress-2026-11",
+    "image": "https://i.insider.com/6afb280bf0664acecacb93fe?width=1200&format=jpeg",
+    "timestamp": 1794822780.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,269 +6597,6 @@
     "clean_url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
     "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794041160.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2b9300ec82",
-    "title_fa": "‏ترامپ اعلام کرد آمریکا ضربه‌های کوچک به جزیره قشم زد",
-    "title_en": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-    "summary": [
-      "‏ترامپ گفت ایالات متحده ضربه‌های کوچک به جزیره قشم ایران انجام داد.",
-      "‏این اقدام در مسیر استراتژیک هرمز، جایی که نفت جهان عبور می‌کند، تنش‌های منطقه‌ای و قیمت نفت را تشدید می‌کند.",
-      "‏ایران خواستار توافق واقعی شد و تورم 300 ٪ را به عنوان فشار اقتصادی ذکر کرد."
-    ],
-    "body_fa": "‏ترامپ جمعه در واکنش به گزارش‌های موشکی به جزیره قشم، اعلام کرد ایالات متحده ضربه‌های «کوچک» به ایران انجام داده است. او افزود این حملات تنها برای نابود کردن یک دستگاه ضد هوایی بود و در حدود پانزده دقیقه به پایان رسید. این اقدام نخستین حمله نظامی آمریکا به ایران پس از انتخابات میانی است و در مسیر حساس تنگه هرمز، که مسیر اصلی حمل و نقل نفت است، رخ داد. ترامپ همچنین گفت ایران با تورم 300 ٪ و نابودی ناوگان و فرودگاه‌هایش، مشتاق یک توافق واقعی است. اما مقامات ایرانی تأکید کردند پیش از ادامه مذاکرات، باید اقدامات عملی از سوی آمریکا مشاهده شود. این تنش جدید می‌تواند نوسانات قیمت نفت و نگرانی‌های سرمایه‌گذاران در بازارهای جهانی را افزایش دهد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "جنگ خاورمیانه",
-    "tag": "ایران-آمریکا",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-    "clean_url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-    "image": "https://s.yimg.com/bo/1fec60a7-e1c5-5a6f-bffb-b8a6b59427bf_1794038246447.jpg",
-    "timestamp": 1794038120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "95acbbc5db",
-    "title_fa": "‏شلیک‌گر پنج کشته و بیش از ده زخمی در کراکوف",
-    "title_en": "Six people killed by Polish gunman in Krakow's main square",
-    "summary": [
-      "‏پنج نفر در تیراندازی در میدان اصلی کراکوف کشته شدند",
-      "‏بیش از ده نفر نیز زخمی شدند و امنیت شهر به چالش کشیده شد",
-      "‏پلیس تحقیقات برای شناسایی هویت تیرانداز را آغاز کرده است"
-    ],
-    "body_fa": "‏پلیس لهستان اعلام کرد که در روز شنبه در میدان اصلی شهر کراکوف، یک تیرانداز مسلح به حداقل پنج نفر کشته و بیش از ده نفر را زخمی کرده است. این حمله در ساعت اوایل بعدازظهر رخ داد و جمعیت زیادی که در بازار حضور داشتند را هدف قرار داد. مقامات فوراً به محل حادثه شتافتند و خدمات اورژانسی به مصدومان رسید. هویت تیرانداز هنوز مشخص نشده و پلیس تحقیقات را برای تعیین انگیزه و جزئیات ادامه می‌دهد. این حادثه نگرانی‌های امنیتی را در سطح ملی و اروپایی افزایش داده است.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حمله مسلحانه",
-    "tag": "کراکوف",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07/",
-    "clean_url": "https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794035280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b4043313fe",
-    "title_fa": "‏هوش مصنوعی خودکار امنیت سایبری را به چالش می‌کشد",
-    "title_en": "Cyber Resilience in the Age of Autonomous AI",
-    "summary": [
-      "‏هوش مصنوعی خودکار به‌سرعت در حملات سایبری مورد استفاده قرار می‌گیرد",
-      "‏این روند امنیت سازمان‌ها را پیچیده‌تر می‌کند و نیاز به استراتژی‌های جدید دارد",
-      "‏مقاله راهکارهای تقویت تاب‌آوری دیجیتال را بررسی می‌کند"
-    ],
-    "body_fa": "‏هوش مصنوعی در حال تغییر روش‌های دفاع سایبری است، اما به‌همین‌طور توانمندی‌های حملات خودکار و هدفمند را نیز افزایش می‌دهد. مهاجمان می‌توانند با استفاده از الگوریتم‌های پیشرفته، حملات مقیاس‌پذیر و دقیق انجام دهند که شناسایی آن‌ها دشوارتر است. در مقابل، شرکت‌ها باید سامانه‌های امنیتی خود را با قابلیت‌های AI تقویت کنند تا بتوانند تهدیدات را به‌سرعت تشخیص و پاسخ دهند. این تغییرات نیازمند بازنگری در معماری امنیتی، سرمایه‌گذاری در ابزارهای تحلیل رفتار و ایجاد تیم‌های واکنش سریع است. در نهایت، تاب‌آوری دیجیتال سازمان‌ها به میزان پذیرش و به‌کارگیری هوش مصنوعی پیشرفته وابسته خواهد شد.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/video/sponsored/cyber-resilience-in-the-age-of-autonomous-ai/DBB7345A-6A8D-4F44-BEC0-DA871F5DD7B1",
-    "clean_url": "https://www.wsj.com/video/sponsored/cyber-resilience-in-the-age-of-autonomous-ai/DBB7345A-6A8D-4F44-BEC0-DA871F5DD7B1",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794035160.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "312aed8b4c",
-    "title_fa": "‏نوارتس پس از شکست در آزمون، داروی قلبی خود را کنار گذاشت",
-    "title_en": "Novartis Abandons Heart Drug After Surprising Failure in Key Study",
-    "summary": [
-      "‏نوارتس توسعه داروی قلبی خود را پس از شکست در آزمون کلیدی متوقف کرد",
-      "‏این تصمیم می‌تواند اثر منفی بر سهام شرکت و برنامه‌های درمانی آینده داشته باشد",
-      "‏شرکت اعلام کرد که منابع را به پروژه‌های دیگر منتقل خواهد کرد"
-    ],
-    "body_fa": "‏نوارتس اعلام کرد که پس از نتایج نامطلوب یک آزمون کلیدی، برنامه توسعه داروی قلبی خود را متوقف می‌کند. این دارو در مرحله‌ای پیشرفته از آزمایش بالینی بود و هدفش درمان بیماری‌های قلبی‑عروقی بود. شکست در این آزمون به معنای عدم اثربخشی یا ایمنی کافی بوده و شرکت تصمیم گرفته منابع را به سایر پروژه‌های تحقیقاتی منتقل کند. خبر می‌تواند فشار بر سهام نوارتس وارد کرده و نگرانی‌ها دربارهٔ توانایی شرکت در پر کردن خلأهای درمانی ایجاد کند. این رویداد نشان می‌دهد که ریسک‌های بالینی می‌توانند برنامه‌های دارویی بزرگ را به سرعت تغییر دهند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "داروسازی",
-    "tag": "Novartis",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-07/novartis-abandons-heart-drug-after-surprising-failure-in-key-study",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-07/novartis-abandons-heart-drug-after-surprising-failure-in-key-study",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794034200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1d6af53267",
-    "title_fa": "‏Berkshire Hathaway خرید سهام خود را افزایش داد؛ سود عملیاتی کاهش یافت",
-    "title_en": "Berkshire Hathaway Boosts Buybacks as Operating Earnings Slide",
-    "summary": [
-      "‏Berkshire Hathaway برنامه خرید سهام خود را گسترش داد.",
-      "‏این اقدام نشان‌دهنده اعتماد به‌نفس است، اما کاهش سود عملیاتی نگرانی ایجاد می‌کند.",
-      "‏احتمالاً فشار مثبت بر قیمت سهام این شرکت خواهد گذاشت."
-    ],
-    "body_fa": "‏شرکت سرمایه‌گذاری Berkshire Hathaway اعلام کرد که برنامه خرید سهام خود را به‌طور قابل‌توجهی افزایش می‌دهد، در حالی که سود عملیاتی‌اش نسبت به دوره قبل کاهش یافته است. این تصمیم نشان می‌دهد که مدیریت شرکت همچنان به توان مالی خود اطمینان دارد و می‌خواهد با بازخرید سهام ارزش برای سهامداران ایجاد کند. اما کاهش سود عملیاتی می‌تواند نگرانی‌هایی دربارهٔ رشد آینده شرکت ایجاد کند. در مجموع، این ترکیب از اقدامات می‌تواند تأثیر مثبت بر قیمت سهام داشته باشد، اما سرمایه‌گذاران به‌دقت به روند سودآوری شرکت نگاه خواهند کرد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "Berkshire Hathaway",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794034080.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f8e4d5eb39",
-    "title_fa": "‏هوش مصنوعی کسب‌وکارهای تک‌نفره را به سوددهی می‌رساند",
-    "title_en": "America's newest small business owners with no employees are off to a hot start in AI era",
-    "summary": [
-      "‏آلکس ویلِن با 12 برند تجارت الکترونیک بدون کارمند، بین 2.5 تا 3 میلیون دلار درآمد پیش‌بینی می‌کند.",
-      "‏این نشان می‌دهد هوش مصنوعی می‌تواند بدون تیم، کارهای پیچیده را انجام دهد و مدل‌های کسب‌وکار رقابتی بسازد.",
-      "‏در سال 2024-2026 ، درخواست‌های ثبت شرکت‌های بدون کارمند در صنایع هوش‌مصنوعی 26.8 ٪ رشد کرد."
-    ],
-    "body_fa": "‏هوش مصنوعی به‌سرعت به‌عنوان نیروی محرکه‌ای برای کارآفرینان تک‌نفره در آمریکا ظاهر شده است. اقتصاددان استنفورد Erik Brynjolfsson می‌گوید این فناوری نه تنها بهره‌وری فردی را افزایش می‌دهد، بلکه کارهایی را که پیش‌تر به تیمی کامل نیاز داشتند، به‌صورت خودکار انجام می‌دهد. بر اساس داده‌های Mercatus Center ، تعداد درخواست‌های ثبت شرکت‌های بدون کارمند در صنایع پر‌استفاده از هوش مصنوعی از 222,000 به 281,000 در هر سه‌ماهه بین اول 2024 و اول 2026 ، یعنی 26.8 ٪، افزایش یافته؛ در حالی که درخواست‌های مشابه در صنایع سنتی تقریباً ثابت مانده‌اند. مثال‌های عملی شامل آلکس ویلِن است که با استفاده از Claude از Anthropic و ابزارهای تصویری OpenAI ، 12 برند تجارت الکترونیک خود را بدون نیروی کار اداره می‌کند و انتظار دارد این سال بین 2.5 تا 3 میلیون دلار درآمد داشته باشد. همین‌طور Kristin Ginn پس از ترک Microsoft ، مشاوره‌ای به‌نام trnsfrmAItn راه‌اندازی کرد و در هفت ماه توانست حدود 250,000 دلار قرارداد کسب کند. این روند نشان می‌دهد که هزینه‌های راه‌اندازی کسب‌وکار می‌تواند به‌طور چشمگیری کاهش یابد و فرصت‌های جدیدی برای کارآفرینان بدون سرمایه‌گذاری بزرگ ایجاد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی و کارآفرینی",
-    "tag": "AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
-    "clean_url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108527810-1793910439774-kristin_ginn_desk_photo.png?v=1793910727&w=1920&h=1080",
-    "timestamp": 1794033900.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7c487f783d",
-    "title_fa": "‏آمریکا مسیرهای زمینی حمل سلاح ایران را مختل می‌کند",
-    "title_en": "US Launches Effort to Disrupt Land Routes Iran Uses to Ship Arms",
-    "summary": [
-      "‏آمریکا برنامه‌ای برای مختل‌کردن مسیرهای زمینی ایران که برای حمل سلاح استفاده می‌شود، آغاز کرد.",
-      "‏این اقدام می‌تواند تأثیر قابل‌توجهی بر توان نظامی ایران و تعادل منطقه‌ای داشته باشد."
-    ],
-    "body_fa": "‏ایالات متحده برنامه‌ای برای مختل‌کردن مسیرهای زمینی ایران که برای حمل سلاح استفاده می‌شود، آغاز کرده است. این مسیرها به‌طور سنتی برای انتقال اسلحه به گروه‌های مختلف در خاورمیانه به کار می‌رفتند. هدف آمریکا کاهش توان نظامی ایران و محدود کردن دسترسی آن به تسلیحات است. جزئیات اجرایی برنامه هنوز به‌صورت عمومی منتشر نشده است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "حمل سلاح",
-    "tag": "ایران",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-07/us-launches-effort-to-disrupt-land-routes-iran-uses-to-ship-arms",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-07/us-launches-effort-to-disrupt-land-routes-iran-uses-to-ship-arms",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794031500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9d020de085",
-    "title_fa": "‏خطر جنگ با ایران پس از پیروزی دمکرات‌ها تشدید شد",
-    "title_en": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-    "summary": [
-      "‏پس از پیروزی قاطع دمکرات‌ها در انتخابات میانی آمریکا، خطر تشدید جنگ با ایران همچنان بالا است.",
-      "‏تحلیل‌گران به سقوط قیمت نفت بیش از ۱۶٪ و احتمال بازگشت درگیری‌های نظامی در خلیج اشاره کردند.",
-      "‏ترامپ اعلام کرد تصمیم‌گیری درباره حمله جدید به ایران را به‌زودی اعلام خواهد کرد."
-    ],
-    "body_fa": "‏انتخابات میانی آمریکا با پیروزی قاطع دمکرات‌ها به پایان رسید و این پیروزی امید به پایان جنگ با ایران را زنده کرد. اما تحلیل‌گران هشدار دادند که خطر تشدید درگیری‌ها همچنان بالا است و حتی پس از این نتایج، تنش‌ها در خلیج کاهش نیافته‌اند. قیمت نفت خام در پنج روز گذشته بیش از ۱۶٪ سقوط کرد؛ برن‌کرود در حدود ۹۷ دلار و نفت آمریکا حدود ۹۰ دلار معامله می‌شود. حملات به تانکرهای نفتی در نزدیکی عمان ادامه یافت و یک خدمه کشتی کشته شد؛ حوثی‌های یمن به عربستان سعودی موشک می‌زنند. ایالات متحده یک گروه حمله‌گر ناو هواپیمابر سوم را به منطقه اعزام کرده و ترامپ گفت تصمیم نهایی درباره حمله به ایران به‌زودی اعلام می‌شود. تحلیل‌گران Rapidan Energy احتمال ۸۰٪ بازگشت جنگ را در صورت عدم پیشرفت دیپلماسی اعلام کردند و پیش‌بینی کردند که قیمت نفت به بالای ۱۰۰ دلار در هر بشکه خواهد رسید.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "تنش خاورمیانه",
-    "tag": "جنگ-ایران",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-    "clean_url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793981883&w=1920&h=1080",
-    "timestamp": 1794027780.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ab634c6a3b",
-    "title_fa": "‏شرکت Anthropic برای عرضه عمومی آماده می‌شود",
-    "title_en": "Anthropic’s breakneck rise: What to know before the IPO",
-    "summary": [
-      "‏شرکت Anthropic که توسط هفت نفر از پیشینان OpenAI تأسیس شد، آماده عرضه عمومی سهام خود است.",
-      "‏این IPO می‌تواند نقطه عطفی برای تجارت هوش مصنوعی و تمایل سرمایه‌گذاران به دارایی‌های نوظهور باشد.",
-      "‏Anthropic رقیب اصلی OpenAI است و درگیری‌هایی با وزارت دفاع آمریکا دارد."
-    ],
-    "body_fa": "‏Anthropic در سال 2021 توسط هفت کارمند پیشین OpenAI به عنوان یک آزمایشگاه تحقیقاتی زیر‌زمینه‌ای تأسیس شد. پس از جذب سرمایه‌های کلان و رشد سریع، این شرکت به یکی از رقبای اصلی OpenAI در زمینه مدل‌های زبانی تبدیل شد. Anthropic همچنین با وزارت دفاع ایالات متحده در پروژه‌های هوش مصنوعی نظامی همکاری داشته و گاهی با آن درگیر شده است. اکنون این شرکت قصد دارد در سال 2027 به‌صورت عمومی سهام خود را عرضه کند و این عرضه می‌تواند جهت‌گیری بازارهای هوش مصنوعی و تقاضای سرمایه‌گذاران برای دارایی‌های فناورانه جدید را تعیین کند. تحلیل‌گران انتظار دارند این IPO تأثیر قابل‌توجهی بر ارزش‌گذاری شرکت‌های مشابه داشته باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/video/2026/11/07/anthropics-breakneck-rise-what-to-know-before-the-ipo.html",
-    "clean_url": "https://www.cnbc.com/video/2026/11/07/anthropics-breakneck-rise-what-to-know-before-the-ipo.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108250830-260106-cg-31-anthropic-openai-thumb_no_text.png?v=1767997984&w=1920&h=1080",
-    "timestamp": 1794027540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3a560f725a",
-    "title_fa": "‏شرکت‌های بزرگ فناوری با موج جدید شکایت‌های ایمنی کودکان مواجه شدند",
-    "title_en": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
-    "summary": [
-      "‏شرکت‌های بزرگ فناوری همزمان با ورود هوش مصنوعی به مدارس، با پرونده‌های حقوقی جدیدی پیرامون آسیب‌های روانی به کودکان روبه‌رو هستند.",
-      "‏شکایت جدیدی علیه Google به دلیل ایجاد بحران روحی برای یک دانش‌آموز هنگام گفتگو با ربات Gemini در کلاس درس ثبت شد.",
-      "‏افزایش این دعاوی حقوقی فشارها را برای اولویت‌دادن به ایمنی کودکان در طراحی ابزارهای هوش مصنوعی به شدت بالا برده است."
-    ],
-    "body_fa": "‏غول‌های فناوری با وجود وعده‌های مکرر درباره افزایش ایمنی کاربران کم‌سن، هم‌اکنون با پرونده‌های قضایی متعددی در زمینه آسیب‌های روانی به نوجوانان روبه‌رو شده‌اند. شرکت Snap به تازگی پرونده ادعای وارد شدن آسیب روحی به دو نوجوان را به شکل محرمانه حل‌وفصل کرد تا مانع شهادت مدیرعامل خود در دادگاه شود. هم‌زمان، والدین یک کودک شکایتی رسمی علیه Google ثبت کردند که نشان می‌دهد فرزندشان پس از گفتگو با چت‌بات Gemini در بستر Google Classroom دچار بحران شدید روحی شده است. کارشناسان سلامت روان هشدار می‌دهند ورود شتاب‌زده ابزارهای هوش مصنوعی به کلاس‌های درس بدون بررسی ساختاری خطرات، می‌تواند تبعات جبران‌ناپذیری برای دانش‌آموزان به همراه داشته باشد. با آغاز دور تازه‌ای از دادگاه‌های این شرکت‌ها در ماه‌های آتی، فشارهای حقوقی برای تغییر رویکرد سیلیکون‌ولی در قبال ایمنی کودکان افزایش خواهد یافت.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی و حقوقی",
-    "tag": "هوش مصنوعی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
-    "clean_url": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108000870-1719930897606-gettyimages-2159334713-AA_30062024_1752759.jpeg?v=1737096574&w=1920&h=1080",
-    "timestamp": 1794024000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3f54a3e59a",
-    "title_fa": "‏روسی‌ها زیرساخت‌های برق کی‌یف را هدف گرفتند",
-    "title_en": "Russia pounds power facilities around Kyiv, damages major bridge",
-    "summary": [
-      "‏نیروهای روسی صبح شنبه به کی‌یف موشک‌بار کردند و تأسیسات برق را هدف گرفتند.",
-      "‏این حمله به زیرساخت‌های انرژی و پل اصلی شهر آسیب زد و تنش‌های نظامی را تشدید می‌کند.",
-      "‏آدمک‌های تخریبی به یک ساختمان مسکونی نیز رسیدند."
-    ],
-    "body_fa": "‏در اوایل روز شنبه، نیروهای روسی حمله موشکی به پایتخت اوکراین، کی‌یف، انجام دادند. موشک‌ها به تأسیسات برق در حومه شهر اصابت کرد و بخش عمده‌ای از شبکه انرژی را مختل ساخت. همچنین یک پل کلیدی شهر تحت ضربه قرار گرفت و خسارات قابل توجهی به زیرساخت‌های حمل و نقل وارد شد. تکه‌تکه‌های موشکی به یک ساختمان مسکونی نیز رسیدند که موجب نگرانی ساکنان شد. شهردار کی‌یف، Vitali Klitschko ، این حمله را محکوم کرد و خواستار حمایت بین‌المللی برای جلوگیری از ادامه تخریب‌ها شد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "حملات نظامی اوکراین",
-    "tag": "حمله موشکی",
-    "urgency": 9,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07/",
-    "clean_url": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794020760.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7c43ff4cb8",
-    "title_fa": "‏پس از شکست میانه‌دوره، Vance برند 2028 خود را می‌سازد",
-    "title_en": "After midterm rout, Vance tries to build his own 2028 brand",
-    "summary": [
-      "‏سناتور جمهوری‌خواه JD Vance پس از شکست رپبلیکان در انتخابات میانه‌دوره، استراتژی جدیدی برای خود اتخاذ کرد",
-      "‏او کمتر درباره دونالد ترامپ صحبت کرد و بیشتر به مسائلی که می‌خواهد برند سیاسی 2028 خود را شکل دهد، پرداخته است",
-      "‏این حرکت می‌تواند رقابت داخلی جمهوری‌خواهان را برای نامزدی 2028 تغییر دهد"
-    ],
-    "body_fa": "‏پس از شکست رپبلیکان در انتخابات میانه‌دورهٔ 2022 که منجر به کاهش چشمگیر تعداد نمایندگان شد، سناتور جمهوری‌خواه JD Vance به دنبال بازگرداندن موقعیت حزب است. در این دورهٔ فشار، Vance استراتژی خود را تغییر داد و کمتر دربارهٔ رئیس‌جمهور پیشین دونالد ترامپ صحبت کرد. او به جای تمرکز بر شخصیت‌های سیاسی، به مسائلی چون اقتصاد، بهداشت و امنیت ملی پرداخته و سعی کرد تصویری مستقل از ترامپ ارائه دهد. Vance اعلام کرد که قصد دارد برند سیاسی خود را برای انتخابات ریاست‌جمهوری 2028 شکل دهد و به عنوان گزینه‌ای تازه برای رپبلیکان مطرح شود. تحلیل‌گران می‌گویند این گام می‌تواند رقابت داخلی حزب را بازنگری کند و حمایت‌های جدیدی را جذب کند. اگر Vance موفق به جذب پایهٔ رأی‌گیری شود، می‌تواند تعادل قدرت در سیاست آمریکا و روابط بین‌المللی را تحت تأثیر قرار دهد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "انتخابات 2028 آمریکا",
-    "tag": "Vance",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/after-midterm-rout-vance-tries-build-his-own-2028-brand-2026-11-07/",
-    "clean_url": "https://www.reuters.com/world/us/after-midterm-rout-vance-tries-build-his-own-2028-brand-2026-11-07",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794020580.0,
     "sent_to_telegram": true
   }
 ]
