@@ -22,6 +22,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "90d45307ab",
+    "title_fa": "‏عضو ارشد فدرال‌رزرو در کمیته تحقیق کاخ سفید حاضر نمی‌شود",
+    "title_en": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
+    "summary": [
+      "‏وکیل Lisa Cook اعلام کرد این عضو فدرال‌رزرو در جلسه بازپرسی کمیته منتخب Donald Trump شرکت نخواهد کرد.",
+      "‏این اقدام برای دفاع از استقلال بانک مرکزی در برابر تلاش کاخ سفید برای برکناری اعضای آن انجام شده است.",
+      "‏وکیل Cook این کمیته را به تلاش برای ساختن پرونده جهت برکناری غیرقانونی متهم کرد."
+    ],
+    "body_fa": "‏وکیل Lisa Cook ، از اعضای شورای حکام فدرال‌رزرو، اعلام کرد موکلش در جلسه رسیدگی کمیته ویژه کاخ سفید در خصوص اتهامات کلاهبرداری وام مسکن شرکت نخواهد کرد. وکیل او، Abbe Lowell ، در نامه‌ای تند تأکید کرد که Cook هیچ تعهد قانونی برای شرکت در این نشست ندارد و وظیفه او صیانت از استقلال نهادی فدرال‌رزرو است. این کمیته چندی پیش به دستور Donald Trump تشکیل شد که پیش‌تر نیز تلاش کرده بود این مقام ارشد را از هیئت‌مدیره بانک مرکزی کنار بگذارد. وکیل Cook اعضای این کمیته نظیر Kevin Hassett را فاقد صلاحیت بی‌طرفی دانست و اتهام زد که آن‌ها صرفاً به دنبال پرونده‌سازی برای برکناری از پیش تعیین‌شده موکلش هستند. این رویارویی جدید نشان‌دهنده تشدید تنش‌های سیاسی میان کاخ سفید و فدرال‌رزرو بر سر استقلال تصمیم‌گیری سیاست‌های پولی است.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانک مرکزی و سیاست پولی",
+    "tag": "فدرال‌رزرو",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+    "clean_url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+    "image": "https://s.yimg.com/bo/6b21d4d4-b6c7-5a1d-bb34-8c76c1d1fbfa_1794924462665.jpg",
+    "timestamp": 1794923086.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "61caefaaba",
     "title_fa": "‏Nvidia گزارش پس از استعفای Jensen Huang را منتشر کرد",
     "title_en": "Nvidia earnings live updates: Wall Street braces for first report since Huang's...",
@@ -85,6 +107,28 @@
     "clean_url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
     "image": "https://s.yimg.com/bo/3a89d3db-5e22-5648-97a5-fe9604bba80e_1794918423464.jpg",
     "timestamp": 1794916444.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bcca06f7d4",
+    "title_fa": "‏شرکت Nvidia کمیته نظارت بر صادرات تشکیل داد",
+    "title_en": "Nvidia Forms Export Control Board Committee After Chip Curbs",
+    "summary": [
+      "‏شرکت Nvidia برای نظارت بر امنیت ملی و کنترل صادرات تراشه‌ها یک کمیته ویژه تشکیل داد.",
+      "‏این اقدام در واکنش به محدودیت‌های جدید آمریکا برای قطع دسترسی چین به تراشه‌ها انجام شد.",
+      "‏این تصمیم از نخستین اقدامات Colette Kress پس از کناره‌گیری جنجالی Jensen Huang است."
+    ],
+    "body_fa": "‏شرکت Nvidia در واکنش به فشارهای امنیتی واشنگتن، کمیته ویژه‌ای در هیئت‌مدیره خود برای نظارت بر سیاست‌های امنیت ملی و کنترل صادرات ایجاد کرد. این کمیته به ریاست Suzanne Nora Johnson ، مدیر سابق Goldman Sachs ، موظف است بر پایبندی این غول تراشه‌سازی به قوانین فدرال نظارت کند. تشکیل این نهاد نظارتی از نخستین تصمیمات بزرگ Colette Kress ، مدیرعامل موقت شرکت، پس از استعفای جنجالی بنیان‌گذار آن، Jensen Huang ، به شمار می‌رود. هم‌زمان، دولت آمریکا دسترسی شرکت‌های چینی به پردازنده‌های هوش مصنوعی Nvidia را از طریق اجاره سرور در کشورهای واسط مانند سنگاپور، مالزی و برزیل محدود کرده است. واشنگتن تلاش می‌کند با بستن این روزنه‌ها، برتری راهبردی خود را در توسعه مدل‌های پیشرفته هوش مصنوعی حفظ کند.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی و تراشه",
+    "tag": "Nvidia",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-forms-export-control-board-105132905.html",
+    "clean_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-forms-export-control-board-105132905.html",
+    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/41fd49850b2cd598e48f6293d6d33292.jpg",
+    "timestamp": 1794912283.0,
     "sent_to_telegram": true
   },
   {
@@ -6553,50 +6597,6 @@
     "clean_url": "https://www.reuters.com/legal/legalindustry/with-stephen-miller-helm-trump-charts-course-conflict-2026-11-08",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794106860.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4898472790",
-    "title_fa": "‏COP31 با حضور انتخابات میانی و حمایت برزیل از اقلیم",
-    "title_en": "What to Watch at COP31 as Midterms, Brazil Deliver Climate Boost",
-    "summary": [
-      "‏انتخابات میانی در ایالات متحده و برنامه‌های اقلیمی برزیل در پیش‌درآمد COP31 مورد توجه قرار گرفت.",
-      "‏این تحولات می‌توانند سیاست‌های اقلیمی جهانی و مذاکرات کنفرانس را تحت تأثیر قرار دهند.",
-      "‏جزئیات دقیق هنوز منتشر نشده است."
-    ],
-    "body_fa": "‏در آستانه برگزاری COP31 ، دو عامل مهم به چشم می‌خورد: انتخابات میانی ایالات متحده که می‌تواند جهت‌گیری‌های سیاسی و حمایت‌های دولتی از سیاست‌های اقلیمی را تغییر دهد و اعلام برنامه‌های جدید برزیل برای تقویت اقدامات اقلیمی. این دو رویداد می‌توانند بر مذاکرات و نتایج کنفرانس تأثیرگذار باشند، به‌ویژه در زمینه تعهدات کربن و سرمایه‌گذاری‌های سبز. با این حال، جزئیات دقیق دربارهٔ برنامه‌های برزیل و نحوهٔ تعامل آن با سایر کشورها هنوز به‌صورت کامل منتشر نشده است.",
-    "category": "انرژی و کالا",
-    "subcategory": "کنفرانس اقلیمی",
-    "tag": "COP31",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-08/what-to-watch-at-cop31-as-midterms-brazil-deliver-climate-boost",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-08/what-to-watch-at-cop31-as-midterms-brazil-deliver-climate-boost",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794103200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "03ef5da442",
-    "title_fa": "‏اتحادیه اروپا توافق برای اتصال بازار کربن بریتانیا نزدیک شد",
-    "title_en": "EU Close to Deal to Link UK Carbon Market After Brexit Split",
-    "summary": [
-      "‏اتحادیه اروپا نزدیک به توافق برای اتصال بازار کربن بریتانیا پس از برگزیت است.",
-      "‏این گام می‌تواند قیمت کربن در اروپا و انگلستان را همگام کرده و تجارت دی‌اکسیدکربن را تسهیل کند.",
-      "‏تصمیم نشان‌دهنده ادامه همکاری زیست‌محیطی بین دو طرف پس از جدایی است."
-    ],
-    "body_fa": "‏اتحادیه اروپا و بریتانیا در حال نهایی‌سازی توافقی برای اتصال بازارهای کربن خود هستند. پس از جدایی بریتانیا از اتحادیه، دو سیستم تجارت گازهای گلخانه‌ای به‌صورت جداگانه عمل می‌کردند که باعث نوسان قیمت و کاهش کارایی شد. این توافق قصد دارد یک چارچوب مشترک برای قیمت‌گذاری کربن ایجاد کند و به‌این ترتیب ثبات بیشتری در بازارهای انرژی فراهم شود. مقامات اروپایی اعلام کرده‌اند که مذاکرات تا پایان سال جاری تکمیل می‌شود و انتظار می‌رود این گام به‌تقویت اهداف کاهش انتشار گازهای گلخانه‌ای کمک کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "بازار کربن",
-    "tag": "کربن",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-08/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-08/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794100440.0,
     "sent_to_telegram": true
   }
 ]
