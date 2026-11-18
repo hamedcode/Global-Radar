@@ -1,5 +1,71 @@
 [
   {
+    "id": "52ddda40a3",
+    "title_fa": "‏سهام Rakuten Bank پس از نشت داده‌ها 30 ٪ سقوط کرد",
+    "title_en": "[Attention] Rakuten Bank (5838) crashes! Stock price plummets 30% in just one week, hits daily limit low and updates year-to-date low! The shock of Rakuten Securities' \"up to ...",
+    "summary": [
+      "‏سهام Rakuten Bank در یک هفته 30 ٪ سقوط کرد و به 4,291 ین رسید",
+      "‏دلیل سقوط، نشت اطلاعات حدود 15.72 میلیون حساب در Rakuten Securities است که اعتماد بازار را تحت‌تأثیر قرار داد",
+      "‏همزمان، سهام گروه Rakuten نیز 7.5 ٪ افت و به پایین‌ترین سطح سه ساله رسید"
+    ],
+    "body_fa": "‏در تاریخ ۱۸ نوامبر، قیمت سهام Rakuten Bank به ۴,۲۹۱ ین رسید که معادل کاهش ۳۰٪ در یک هفته است و بزرگ‌ترین افت روزانه در بازار اصلی توکیو را رقم زد. این سقوط به دلیل نشت اطلاعات حدود ۱۵٫۷۲ میلیون حساب مشتری توسط زیرمجموعهٔ Rakuten Securities رخ داد که به‌سرعت به انتشار اخبار منجر شد. شرکت اعلام کرد دسترسی غیرمجاز به سیستم‌های تستی منجر به افشای داده‌ها شده و هنوز جزئیات کامل مشخص نیست. حجم معاملات به‌طور چشمگیری افزایش یافت و نشان داد هم سرمایه‌گذاران فردی و هم نهادی به‌سرعت سهام را فروختند. سقوط قیمت نه تنها بر Rakuten Bank بلکه بر کل گروه Rakuten تأثیر گذاشت؛ سهام گروه نیز ۷٫۵٪ کاهش یافت و به پایین‌ترین سطح سه‌سالهٔ خود رسید. این رویداد نشان می‌دهد که حتی در شرایط کلی بازار مثبت، نشت داده‌ها می‌تواند اعتماد سرمایه‌گذاران را به‌سرعت تخریب کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام ژاپن",
+    "tag": "داده‌نشت",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "note",
+    "url": "https://note.com/kabuya66/n/n20e72b146d82?hl=en",
+    "clean_url": "https://note.com/kabuya66/n/n20e72b146d82",
+    "image": "https://www.bing.com/th?id=ONUT.CZ6Cnoy8xbdsW7tW76j12g",
+    "timestamp": 1795045665.8658197,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "24f198a3a2",
+    "title_fa": "‏هک Equinor موج جدیدی از تهدیدهای سایبری انرژی است",
+    "title_en": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies | OilPrice.com",
+    "summary": [
+      "‏شرکت Equinor ، بزرگ‌ترین تأمین‌کننده گاز لوله‌ای اروپا، در حال مقابله با حمله سایبری فعال بر سیستم‌های IT خود است.",
+      "‏این حمله بخشی از افزایش ۷۰٪ حملات به زیرساخت‌های انرژی از سال ۲۰۲۴ است و می‌تواند نوسانات قیمت گاز را تشدید کند.",
+      "‏Equinor اعلام کرد تا کنون داده‌ای سرقت نشده و تولید نفت و گاز تحت تأثیر نیست، اما زمان بازگرداندن سیستم‌ها نامشخص است."
+    ],
+    "body_fa": "‏Equinor ، بزرگ‌ترین تأمین‌کننده گاز لوله‌ای اروپا، اعلام کرد که در حال مقابله با یک حمله سایبری فعال بر سامانه‌های فناوری اطلاعات خود است. این حمله، که هنوز به‌صورت ویروس‌پراکننده شناخته نشده و داده‌ای سرقت نشده، می‌تواند زمان بازگرداندن عملکردهای داخلی را به‌طور قابل‌توجهی به تعویق بیندازد. این واقعه در زمینه افزایش چشمگیر حملات سایبری به زیرساخت‌های انرژی رخ می‌دهد؛ در سال ۲۰۲۴، تعداد حملات به شرکت‌های انرژی آمریکایی ۷۰٪ افزایش یافت و حدود ۱,۷۵۵ حمله هفتگی گزارش شد. گروه‌های هکری مرتبط با روسیه و ایران در دو سال گذشته به سدهای نروژ، مزارع بادی و خورشیدی لهستان و حتی تأمین‌کنندگان زیرساخت‌های آمریکایی نفوذ کرده‌اند. اگرچه تاکنون تأثیری بر تولید نفت و گاز Equinor نداشته، اما این نوع تهدیدها می‌توانند نوسانات قیمت گاز در اروپا را تشدید کنند و نگرانی‌های امنیتی را برای بازارهای انرژی افزایش دهند.",
+    "category": "انرژی و کالا",
+    "subcategory": "حملات سایبری انرژی",
+    "tag": "سایبر",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
+    "image": "https://s.yimg.com/bo/20a1b5dd-04d7-5bdf-a7b2-da35bd553d62_1795044484353.jpg",
+    "timestamp": 1795042802.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bef7cf7ed9",
+    "title_fa": "‏نماینده فدرال رزرو مایکل بار پیش‌بینی می‌کند نرخ بهره افزایشی",
+    "title_en": "Fed's Barr says rate rises likely lie ahead for economy",
+    "summary": [
+      "‏نماینده فدرال رزرو مایکل بار گفت احتمال افزایش نرخ بهره در آینده نزدیک وجود دارد",
+      "‏این اظهارات می‌تواند فشار بر بازارهای مالی و ارزها ایجاد کند و انتظارات سرمایه‌گذاران را تغییر دهد",
+      "‏بار افزود که این سیاست برای کنترل تورم و حمایت از رشد اقتصادی ضروری است"
+    ],
+    "body_fa": "‏مایکل بار، نماینده فدرال رزرو، روز چهارشنبه اعلام کرد که احتمالاً در آینده نزدیک با سیاست‌های پولی سختگیرانه‌تر همراه خواهد شد و نرخ بهره را افزایش می‌دهد. او اشاره کرد که این تصمیم‌ها برای مهار تورم و حفظ ثبات اقتصادی ضروری هستند. بار گفت این دیدگاه با نظرات دیگر اعضای فدرال رزرو هم‌راستا است و ممکن است در جلسه بعدی FOMC به تصویب برسد. او همچنین تأکید کرد که هر گونه تغییر در نرخ بهره تأثیر مستقیم بر بازارهای سهام، اوراق قرضه و ارزها خواهد داشت. این اظهارات می‌تواند انتظارات سرمایه‌گذاران را نسبت به مسیر سیاست‌های پولی آمریکا بازنگری کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "نرخ بهره",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/feds-barr-says-rate-rises-likely-lie-ahead-economy-2026-11-18/",
+    "clean_url": "https://www.reuters.com/business/feds-barr-says-rate-rises-likely-lie-ahead-economy-2026-11-18",
+    "image": "https://s.yimg.com/bo/bf57d6b4-013f-51d3-9354-7515bf8523e3_1795027987795.jpg",
+    "timestamp": 1795027021.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "cbb42bfec0",
     "title_fa": "‏سایپم و Subsea 7 ادغام را تا اوایل 2027 تکمیل می‌کنند",
     "title_en": "Italy's Saipem working with Subsea 7 to complete merger in early 2027",
@@ -110,6 +176,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "218b5daf17",
+    "title_fa": "‏سهم Nvidia پس از گزارش سود کمتر از انتظار، بازار را ناآرام کرد",
+    "title_en": "Stock Market Today: Nvidia Earnings Fail to Soothe Investors’ Nerves",
+    "summary": [
+      "‏Nvidia نتایج مالی سه‌ماهه را منتشر کرد که درآمد و سود هر سهم زیر پیش‌بینی‌ها بود",
+      "‏این خبر باعث سقوط سهام این شرکت و فشار بر شاخص Nasdaq شد",
+      "‏سرمایه‌گذاران همچنان نسبت به رشد هوش مصنوعی محتاط هستند"
+    ],
+    "body_fa": "‏شرکت Nvidia امروز گزارش مالی سه‌ماهه خود را منتشر کرد و نشان داد که درآمد و سود هر سهم کمتر از انتظارات تحلیل‌گران بوده است. پس از انتشار این ارقام، سهام Nvidia حدود ۴٪ کاهش یافت و فشار بر شاخص Nasdaq Composite افزاش یافت. این افت نشان می‌دهد که نگرانی‌های سرمایه‌گذاران درباره سرعت رشد هوش مصنوعی و هزینه‌های مرتبط با آن همچنان پابرجاست. تحلیل‌گران بازار به تأثیر این نتایج بر سایر شرکت‌های فناوری و روند کلی بازار سهام اشاره کردند. در عین حال، برخی سرمایه‌گذاران به دنبال فرصت‌های خرید در میان نوسانات کوتاه‌مدت هستند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش سود",
+    "tag": "Nvidia",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
+    "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795015260.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8a1fe8622a",
+    "title_fa": "‏شرکت Anthropic قیمت IPO خود را 83 دلار تعیین کرد",
+    "title_en": "Anthropic Said to Price Its IPO at $83 a Share",
+    "summary": [
+      "‏Anthropic قیمت عرضه اولیه‌اش را 83 دلار برای هر سهم اعلام کرد.",
+      "‏این قیمت نشان‌دهنده ارزش‌گذاری بالای شرکت در بازار هوش مصنوعی است و می‌تواند سرمایه‌گذاری‌ها را جذب کند.",
+      "‏عرضه در بورس نیویورک برنامه‌ریزی شده و انتظار می‌رود تأثیر قابل‌توجهی بر شاخص‌های فناوری داشته باشد."
+    ],
+    "body_fa": "‏شرکت هوش مصنوعی Anthropic امروز قیمت IPO خود را 83 دلار برای هر سهم اعلام کرد. این قیمت بر پایه ارزیابی سرمایه‌گذاران برای فناوری‌های پیشرفته و پتانسیل رشد شرکت تعیین شده است. ارزش‌گذاری کلی شرکت پس از این قیمت‌گذاری حدود ۲۲ میلیارد دلار می‌شود. عرضه اولیه در بورس نیویورک برنامه‌ریزی شده و انتظار می‌رود که توجه سرمایه‌گذاران بزرگ فناوری را به خود جلب کند. تحلیل‌گران پیش‌بینی می‌کنند این اقدام می‌تواند شاخص‌های مرتبط با فناوری را تحت فشار مثبت قرار دهد و موج جدیدی از سرمایه‌گذاری در حوزه هوش مصنوعی ایجاد کند.",
+    "category": "تکنولوژی",
+    "subcategory": "عرضه اولیه",
+    "tag": "Anthropic",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/anthropic-said-to-price-its-ipo-at-83-a-share",
+    "clean_url": "https://www.bloomberg.com/news/newsletters/2026-11-18/anthropic-said-to-price-its-ipo-at-83-a-share",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795014000.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "533ac1a239",
     "title_fa": "‏جنسن هوانگ پیش کمیته بانکی سنا گواهی می‌دهد",
     "title_en": "Jensen Huang Set to Testify Before Senate Banking Committee",
@@ -129,6 +239,28 @@
     "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026/card/jensen-huang-set-to-testify-before-senate-banking-committee-ZbnNoHDLU5p59zL9Q15q",
     "image": "https://s.yimg.com/bo/2bccb280-c69c-52f2-b08e-f202bb2b9ea9_1778669768852.jpg",
     "timestamp": 1795011804.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0f9523c463",
+    "title_fa": "‏پالو با خرید استارتاپ AI ۴٫۵ میلیاردی سهام ۷٪ صعود",
+    "title_en": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+    "summary": [
+      "‏پالو آلتو نتورکس استارتاپ Applied Compute را به ارزش ۴٫۵ میلیارد دلار خرید.",
+      "‏سهم شرکت پس از گزارش سود هر سهم ۱٫۰۵ دلار و درآمد ۳٫۴۴ میلیارد دلار، بیش از ۷٪ جهش کرد.",
+      "‏این معامله و رشد ۳۹٪ درآمد، تقاضای امنیت سایبری در عصر هوش مصنوعی را نشان می‌دهد."
+    ],
+    "body_fa": "‏پالو آلتو نتورکس در گزارش مالی سه‌ماهه اول fiscal خود، سود هر سهم تنظیم‌شده ۱٫۰۵ دلار را که بالاتر از انتظار ۰٫۹۷ دلار بود، اعلام کرد. درآمد شرکت به ۳٫۴۴ میلیارد دلار رسید که ۳۹٪ نسبت به سال گذشته رشد کرد. همزمان، این شرکت با معامله سهام‑به‑سهام ۴٫۵ میلیارد دلاری استارتاپ Applied Compute ، که به کسب‌وکارها امکان اجرا و سفارشی‌سازی مدل‌های هوش مصنوعی را می‌دهد، توافق کرد. این خرید نشان‌دهنده تمرکز پالو آلتو بر امنیت مدل‌های AI باز وزن است و می‌تواند نقش مهمی در مقابله با تهدیدات سایبری ناشی از هوش مصنوعی داشته باشد. پس از انتشار این اخبار، سهام پالو آلتو نتورکس بیش از ۷٪ افزایش یافت و تا کنون در سال جاری ۸۵٪ رشد داشته است. شرکت همچنین پیش‌بینی کرد که درآمد سال مالی ۲۰۲۷ بین ۱۴٫۵۲ تا ۱۴٫۵۷ میلیارد دلار و سود هر سهم بین ۴٫۲۶ تا ۴٫۳۰ دلار خواهد بود.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "Palo Alto",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+    "clean_url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108369693-1790706645292-gettyimages-2297215805-TRUMP_TECH_AI.jpeg?v=1791402074&w=1920&h=1080",
+    "timestamp": 1795009680.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +286,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "e41ee50623",
+    "title_fa": "‏ترکیه آمریکا را به خروج اسرائیل از لبنان هشدار داد",
+    "title_en": "After condemning Israel's Somaliland embassy plans, Turkey warns US over continued Israeli occupation of parts of Lebanon and Syria",
+    "summary": [
+      "‏ترکیه به آمریکا هشدار داد حضور نظامی اسرائیل در بخش‌هایی از لبنان و سوریه می‌تواند ثبات منطقه را به خطر اندازد.",
+      "‏این هشدار نشان می‌دهد آنکارا با طرح آمریکا برای خنثی‌سازی حزب‌الله که به خروج تدریجی اسرائیل وابسته است، مخالف است.",
+      "‏ترکیه همچنین به تصمیم اسرائیل برای افتتاح سفارت در صومالی‌لند اعتراض کرد و آن را نقض حاکمیت سومالی دانست."
+    ],
+    "body_fa": "‏ترکیه در بیانیه‌ای به واشنگتن اعلام کرد حضور نظامی اسرائیل در جنوب لبنان و بخش‌هایی از سوریه خطر جدی برای ثبات منطقه‌ای ایجاد می‌کند. آنکارا تاکید کرد که هر گونه برنامه‌ای برای خنثی‌سازی حزب‌الله که مشروط به خروج تدریجی نیروهای اسرائیلی باشد، بدون پایان اشغال اسرائیل قابل اجرا نیست. این موضع‌گیری در مقابل طرحی است که ایالات متحده پیشنهاد کرده بود تا خنثی‌سازی حزب‌الله را به تدریج با عقب‌نشینی اسرائیل از خاک لبنانی مرتبط کند. ترکیه همچنین به تصمیم اسرائیل برای افتتاح سفارت در صومالی‌لند اعتراض کرد و آن را نقض حاکمیت جمهوری سومالی دانست. دیپلمات ترکیه هشدار داد که درگیر کردن سوریه در مسأله خنثی‌سازی حزب‌الله می‌تواند به بروز جنگ داخلی جدیدی در لبنان منجر شود. این اظهارات نشان می‌دهد ترکیه در صدد گسترش نفوذ خود در خاورمیانه و منطقهٔ Horn of Africa است و روابطش با اسرائیل را به نقطهٔ تنش می‌برد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "تنش خاورمیانه",
+    "tag": "ترکیه-اسرائیل",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Business Insider Africa",
+    "url": "https://africa.businessinsider.com/local/markets/after-condemning-israels-somaliland-embassy-plans-turkey-warns-us-over-continued/x0hyd15",
+    "clean_url": "https://africa.businessinsider.com/local/markets/after-condemning-israels-somaliland-embassy-plans-turkey-warns-us-over-continued/x0hyd15",
+    "image": "https://ocdn.eu/pulscms-transforms/1/vMoktkpTURBXy9hOGZlNTFiMjdkZTkyMzg4ODczZjRmZTY4NjY1MmJkYy5qcGeSlQMAzETNDMDNByyTBc0EsM0Cdg",
+    "timestamp": 1795006800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1fc148d5ad",
+    "title_fa": "‏فروش‌های معلق مسکن آمریکا به رکورد تاریخی پایین رسید",
+    "title_en": "A historic crash in pending home sales is the latest dire data point for the struggling housing market",
+    "summary": [
+      "‏فروش‌های معلق خانه‌های موجود در آمریکا در اکتبر به پایین‌ترین سطح تاریخ رسید، ۴.۷٪ کاهش نسبت به سپتامبر.",
+      "‏این کاهش نشان‌دهندهٔ رکود شدید بازار مسکن است که با نرخ‌های بالای وام مسکن و قیمت‌های ثابت بالا تقویت می‌شود.",
+      "‏متوسط نرخ وام ۳۰ ساله ثابت در هفتهٔ گذشته ۷.۱۱٪ بود، نزدیک به اوج ۷.۴٪ اکتبر."
+    ],
+    "body_fa": "‏فروش‌های معلق خانه‌های موجود در ایالات متحده در ماه اکتبر به رکورد تاریخی پایین‌ترین سطح خود رسید؛ نسبت به سپتامبر ۴.۷٪ کاهش یافت. این کاهش، دومین ماه پیاپی است که این شاخص به کمترین مقدار خود رسیده و نسبت به اکتبر سال گذشته ۱۶.۷٪ افت داشته است. نرخ متوسط وام مسکن ۳۰ ساله ثابت در هفتهٔ اخیر ۷.۱۱٪ بود که اگرچه کمی از اوج ۷.۴٪ اکتبر پایین‌تر است، اما هزینه‌های قرض‌گیری را به سطوحی بالا نگه داشته است. لورنس یون، اقتصاددان ارشد NAR ، گفت این وضعیت ممکن است نقطهٔ پایینی امضای قراردادها در این دوره باشد و پیش‌بینی می‌کند تا پایان سال فروش‌های موجود به کمترین سطح از میانهٔ دههٔ نودها برسد. شرکت Capital Economics نیز پیش‌بینی می‌کند که فروش‌های موجود در سه ماه آخر سال به حدود ۳.۷ میلیون واحد در سال برسد که پایین‌ترین سطح از بحران مالی ۲۰۰۸ است. این روند نشان می‌دهد که بازار مسکن آمریکا با فشارهای بلندمدت نرخ‌های بهره و قیمت‌های ثابت بالا مواجه است و بهبود کوتاه‌مدت در چشم‌انداز نیست.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار مسکن آمریکا",
+    "tag": "املاک",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/housing-market-slowdown-pending-sales-crash-record-low-2026-11",
+    "clean_url": "https://www.businessinsider.com/housing-market-slowdown-pending-sales-crash-record-low-2026-11",
+    "image": "https://i.insider.com/6afdde59d6c5d341c9b4a8a8?width=1200&format=jpeg",
+    "timestamp": 1795005720.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "e1f819b611",
     "title_fa": "‏فدرال رزرو در دسامبر نرخ بهره را نیم درصد می‌برد",
     "title_en": "Fed officials set to raise rates again in December, but the future still looks...",
@@ -173,6 +349,50 @@
     "clean_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
     "image": "https://s.yimg.com/bo/eaf19ca0-50a2-5437-86b3-9fab4c3756ad_1795006054202.jpg",
     "timestamp": 1795004604.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c79d5c2939",
+    "title_fa": "‏عراق مرز با ایران را بست؛ تهدید به بحران اقتصادی",
+    "title_en": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
+    "summary": [
+      "‏عراق عبور Al‑Sheeb در استان مایسان را به دلیل امنیتی بسته",
+      "‏این اقدام تجارت دو کشور را مختل کرده و می‌تواند هزینه‌ها را برای کسب‌وکارها و مصرف‌کنندگان افزایش دهد",
+      "‏اگر بسته شدن طولانی شود، برنامه بغداد برای تبدیل عراق به مرکز حمل‌ونقل منطقه‌ای به خطر می‌افتد"
+    ],
+    "body_fa": "‏در اواخر اکتبر، دولت عراق به‌دلیل فشارهای امنیتی عبور Al‑Sheeb در استان مایسان را برای مسافران، وسایل نقلیه و کامیون‌های تجاری مسدود کرد. این گذرگاه زمینی یکی از مسیرهای اصلی تبادل مواد غذایی، مصالح ساختمانی و زائران مذهبی بین دو کشور است. اگرچه مقامات عراقی ابتدا به دلایل فنی و لجستیکی اشاره کردند، بعدها به مسدود شدن به‌دلیل قاچاق مواد مخدر و ارز تقلبی اشاره شد. ایران این ادعاها را رد کرد و اعلام کرد که هیچ اخطاری از بغداد دریافت نکرده است. بسته شدن محدود می‌تواند هزینه‌های حمل‌ونقل را برای شرکت‌های عراقی افزایش دهد و برنامه بغداد برای تبدیل کشور به قطب حمل‌ونقل و لجستیک منطقه‌ای را به خطر اندازد. همچنین این تصمیم فشارهای متقابل واشنگتن که می‌خواهد عراق از حمایت از شبه‌نظامیان حامی ایران جلوگیری کند و تهران که می‌خواهد گروه‌های کُرد مخالف را از خاک عراق بیرون کند، را نشان می‌دهد. اگر مرزها به‌طور گسترده‌تر یا طولانی‌مدت بسته شوند، بحران اقتصادی بزرگ‌تری در عراق و منطقه ممکن است شکل گیرد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "مرزها و تجارت",
+    "tag": "مرز",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Iraqs-Border-Shutdown-With-Iran-Threatens-a-Much-Bigger-Economic-Crisis.html",
+    "clean_url": "https://oilprice.com/Geopolitics/Middle-East/Iraqs-Border-Shutdown-With-Iran-Threatens-a-Much-Bigger-Economic-Crisis.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-18_allxcmscuo.jpg",
+    "timestamp": 1795003200.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "53d6340334",
+    "title_fa": "‏سناتورها: خزانه‌داری باید برابری صادرکنندگان استیبل‌کوین در قانون GENIUS فراهم کند",
+    "title_en": "Senators: Treasury must ensure 'equal footing' for stablecoin issuers in GENIUS Act implementation",
+    "summary": [
+      "‏سناتورهای ایالات متحده خواستند وزارت خزانه‌داری در اجرای قانون GENIUS ، برابری برای صادرکنندگان استیبل‌کوین ایجاد کند.",
+      "‏این درخواست می‌تواند چارچوب نظارتی استیبل‌کوین‌ها را همگن کند و اثرات بازار دیجیتال را تحت‌الشعاع بگذارد.",
+      "‏برخی ایالت‌ها مانند نیویورک و وایومینگ پیش از این قوانین جامع برای دارایی‌های دیجیتال وضع کرده‌اند."
+    ],
+    "body_fa": "‏سناتورهای ایالات متحده در جلسه‌ای اخیر تأکید کردند که وزارت خزانه‌داری باید در اجرای قانون GENIUS ، سطح برابری برای تمام صادرکنندگان استیبل‌کوین‌ها فراهم کند. این قانون، که هدفش تنظیم چارچوب نظارتی جامع برای دارایی‌های دیجیتال است، هنوز در مرحله نهایی تصویب قرار دارد. برخی ایالت‌ها مانند نیویورک و وایومینگ پیش از این قوانین دقیق برای استیبل‌کوین‌ها و دارایی‌های دیجیتال تدوین کرده‌اند و می‌توانند الگویی برای سیاست فدرال باشند. ایجاد برابری در نظارت می‌تواند مانع بروز تبعیض بین صادرکنندگان بزرگ و کوچک شود و شفافیت بازار را افزایش دهد. در صورت پذیرش این پیشنهاد، انتظار می‌رود تأثیر مثبت بر اعتماد سرمایه‌گذاران و رشد کلی بازار استیبل‌کوین‌ها داشته باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین استیبل‌کوین",
+    "tag": "stablecoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795002060.0,
     "sent_to_telegram": true
   },
   {
@@ -217,6 +437,28 @@
     "clean_url": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794999780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0d36aa5143",
+    "title_fa": "‏سرمایه‌گذار مشهور هوش مصنوعی، در IPO Anthropic میلیاردها دلار می‌سازد",
+    "title_en": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+    "summary": [
+      "‏جوان تالین، میلیاردر استونیایی و مخالف هوش مصنوعی، در IPO پیش‌رو Anthropic که ارزش‌گذاری ۱٫۴ تریلیون دلاری دارد، یکی از بزرگ‌ترین سودآوران خواهد شد.",
+      "‏این IPO می‌تواند بزرگ‌ترین عرضه عمومی تاریخ باشد و سرمایه‌گذاری اولیه تالین را به ده‌ها میلیارد دلار برساند.",
+      "‏سهم دقیق او هنوز فاش نشده اما ارزش‌گذاری شرکت به‌نظر می‌رسد بازار هوش مصنوعی را تکان دهد."
+    ],
+    "body_fa": "‏جوان تالین، بنیان‌گذار اسکیپ و یکی از بزرگ‌ترین مخالفان پیشرفت بی‌قید و شرط هوش مصنوعی، در اولین عرضه عمومی یک آزمایشگاه هوش مصنوعی، Anthropic ، حضور دارد. شرکت Anthropic که با ربات گفتگوگر Claude شناخته می‌شود، قصد دارد روز پنجشنبه تحت نماد ANT در نزدک لیست شود و ارزش‌گذاری اولیه حدود ۱٫۴ تریلیون دلار پیش‌بینی می‌شود. تالین در سال ۲۰۱۹ اولین دور سرمایه‌گذاری سری A به مبلغ ۱۲۴ میلیون دلار را رهبری کرد، پیش از عرضه Claude به بازار. اگر ارزش‌گذاری مورد انتظار تحقق یابد، بازده سرمایه‌گذاری اولیه او می‌تواند به ده‌ها میلیارد دلار برسد. جزئیات دقیق سهام او هنوز منتشر نشده و سود نهایی به میزان رقت‌گذاری‌های بعدی و فروش احتمالی بستگی دارد. این IPO می‌تواند بزرگ‌ترین عرضه عمومی تاریخ باشد و نشان‌دهنده رشد سریع بازار هوش مصنوعی است.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+    "clean_url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/106800047-1605862371258-Jaan_Tallinn.jpg?v=1605862500&w=1920&h=1080",
+    "timestamp": 1794998580.0,
     "sent_to_telegram": true
   },
   {
@@ -327,6 +569,72 @@
     "clean_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1497343848.jpeg?resize=1200,800",
     "timestamp": 1794994320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f8d82c57fd",
+    "title_fa": "‏شرکت StoneX هدف Bitdeer را به ۱۵ دلار کاهش داد",
+    "title_en": "StoneX cuts Bitdeer price target to $15 amid new US chip export controls",
+    "summary": [
+      "‏StoneX هدف Bitdeer را به ۱۵ دلار برای ۲۰۲۷ کاهش داد.",
+      "‏این تصمیم پس از اعلام محدودیت‌های جدید آمریکا بر صادرات چیپ‌ها اتخاذ شد.",
+      "‏پیش‌بینی‌های درآمد و EBITDA این شرکت نیز به‌روز شد."
+    ],
+    "body_fa": "‏شرکت StoneX هدف قیمتی Bitdeer را برای سال ۲۰۲۷ به ۱۵ دلار کاهش داد. این اقدام پس از اعلام محدودیت‌های جدید آمریکا بر صادرات چیپ‌های پیشرفته صورت گرفت. محدودیت‌های جدید می‌تواند تأمین سخت‌افزارهای استخراج رمزارز را برای Bitdeer دشوارتر کند. در نتیجه، StoneX پیش‌بینی‌های درآمد و EBITDA این شرکت را نیز پایین‌تر برآورد کرد. این تغییر می‌تواند فشار بیشتری بر صنعت استخراج رمزارزها وارد کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت هدف بیتدیر",
+    "tag": "Bitdeer",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440",
+    "clean_url": "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794993180.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7fa548a27d",
+    "title_fa": "‏ویزا دایرکت پیش‌پرداخت استیبل‌کوین برای آسیا‑پاسیفیک را گسترش می‌دهد",
+    "title_en": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
+    "summary": [
+      "‏ویزا دایرکت سرویس پیش‌پرداخت استیبل‌کوین برای پرداخت‌های فرامرزی به آسیا‑پاسیفیک را گسترش می‌دهد.",
+      "‏این امکان به کسب‌وکارها اجازه می‌دهد با استیبل‌کوین‌ها پرداخت کنند و گیرندگان به‌صورت فیات دریافت کنند.",
+      "‏شرکت سنگاپوری dtcpay در حال آزمایش این سرویس است."
+    ],
+    "body_fa": "‏ویزا دایرکت برنامه پیش‌پرداخت استیبل‌کوین را برای منطقه آسیا‑پاسیفیک گسترش می‌دهد. این سرویس به کسب‌وکارها اجازه می‌دهد تا با استفاده از استیبل‌کوین‌ها، پرداخت‌های فرامرزی را پیش‌پرداخت کنند و گیرندگان به‌صورت پول فیات دریافت نمایند. dtcpay مستقر در سنگاپور در حال آزمایش این قابلیت است. گسترش این فناوری می‌تواند سرعت و هزینه انتقالات مرزی را کاهش دهد و پذیرش استیبل‌کوین‌ها در حوزه پرداخت‌های واقعی را تقویت کند. این حرکت نشان‌دهنده تمایل بزرگ‌تری به ترکیب فناوری بلاکچین با زیرساخت‌های پرداخت سنتی است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "پرداخت‌های بین‌المللی",
+    "tag": "stablecoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
+    "clean_url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794988260.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c488ef939e",
+    "title_fa": "‏جوانان جهان به دلیل نارضایتی اقتصادی به خیابان‌ها آمدند",
+    "title_en": "These Charts Show Why Young People Across the World Are Fed Up With the Economy",
+    "summary": [
+      "‏نقاشی‌های داده‌ای نشان می‌دهند که جوانان در سراسر جهان از به تعویق افتادن معیارهای بزرگسالی نگران‌اند",
+      "‏این نگرانی منجر به اعتراضات گسترده شده و می‌تواند فشار بر سیاست‌گذاران و بازارهای مالی ایجاد کند",
+      "‏نقش نابرابری فرصت‌ها و هزینه‌های مسکن در این نارضایتی برجسته شد"
+    ],
+    "body_fa": "‏تحقیقات اخیر نشان می‌دهد که جوانان در بیش از نیمهٔ کشورهای پیشرفته و در حال توسعه، به دلیل به تعویق افتادن دستاوردهای سنتی بزرگسالی مانند خرید خانه، ازدواج و تأمین شغل ثابت، احساس ناامیدی می‌کنند. نمودارهای منتشر شده توسط Wall Street Journal نشان می‌دهد که این احساس نارضایتی در سال‌های اخیر به‌طور قابل‌توجهی افزایش یافته و به شکل موج‌های گسترده‌ای از اعتراضات خیابانی تبدیل شده است. عوامل اصلی این نگرانی شامل افزایش هزینهٔ مسکن، رکود دستمزدها، بدهی‌های دانشجویی و عدم اطمینان نسبت به آیندهٔ اقتصادی است. به‌خصوص در شهرهای بزرگ، جمعیت‌های جوان‌تر به‌صورت منظم در میادین عمومی تجمع می‌کنند و خواستار سیاست‌های حمایتی و اصلاحات ساختاری می‌شوند. اگر این روند ادامه یابد، می‌تواند فشار بر دولت‌ها برای اتخاذ سیاست‌های پولی و مالی انطباقی و همچنین تأثیر بر بازارهای سرمایه‌گذاری داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نارضایتی اقتصادی جوانان",
+    "tag": "جوانان",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/economy/these-charts-show-why-young-people-across-the-world-are-fed-up-with-the-economy-2fd5f804",
+    "clean_url": "https://www.wsj.com/economy/these-charts-show-why-young-people-across-the-world-are-fed-up-with-the-economy-2fd5f804",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794985200.0,
     "sent_to_telegram": true
   },
   {
@@ -6289,314 +6597,6 @@
     "clean_url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026/card/nick-timiraos-inflation-report-tests-fed-s-strategy-of-spacing-out-rate-increases-4UpyehsRNhxkrZ02kSId",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794276120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "423df582d2",
-    "title_fa": "‏دیرکرد وام مسکن و خودرو در سه‌ماهه سوم افزایش یافت",
-    "title_en": "More Fall Behind on Their Mortgages, Auto Loans, New York Fed Says",
-    "summary": [
-      "‏در گزارش فدرال‌رزرو نیویورک، حدود 5 ٪ بدهی‌های مصرفی در مرحله‌ای از دیرکرد قرار دارند.",
-      "‏این افزایش دیرکرد در وام‌های مسکن و خودرو می‌تواند فشار بر بازار مسکن و تورم را تقویت کند.",
-      "‏دیلینکویسی در کل وام‌های مصرفی به 5 ٪ رسید، بالاتر از پیش‌بینی‌ها."
-    ],
-    "body_fa": "‏فدرال‌رزرو نیویورک در گزارشی که روز سه‌شنبه منتشر کرد، اعلام کرد که نرخ دیرکرد وام‌های مصرفی در سه‌ماهه سوم 2023 افزایش یافته است. بر اساس داده‌ها، حدود 5 درصد از کل بدهی‌های مسکن و خودرو در مرحله‌ای از عدم پرداخت یا تأخیر قرار دارند، که نسبت به دوره مشابه سال گذشته رشد قابل توجهی دارد. این افزایش نشان‌دهنده فشارهای مالی بر خانوارها است که با هزینه‌های زندگی بالا و نرخ بهره‌های افزایشی مواجه‌اند. تحلیل‌گران هشدار دادند که ادامه این روند می‌تواند به کاهش تقاضای مسکن و افزایش ریسک پیش‌فرض در بازارهای اعتباری منجر شود. بانک مرکزی آمریکا هنوز تصمیمی درباره تغییر نرخ بهره نگرفته، اما این داده‌ها ممکن است بر تصمیمات آینده سیاست‌پذیران تأثیر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "وام‌های مصرفی",
-    "tag": "دیلینکویسی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026/card/more-fall-behind-on-their-mortgages-auto-loans-new-york-fed-says-6nFKnK6AVmx2WMw42Piu",
-    "clean_url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026/card/more-fall-behind-on-their-mortgages-auto-loans-new-york-fed-says-6nFKnK6AVmx2WMw42Piu",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794276120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "daae6fa66c",
-    "title_fa": "‏Bandai Namco استودیو Reflector Entertainment را منحل می‌کند",
-    "title_en": "Bandai Namco to Shut Down Reflector Entertainment, Studio Behind Unknown 9: Awakening",
-    "summary": [
-      "‏Bandai Namco تصمیم به منحل و لایعمل کردن استودیو Reflector Entertainment مونترال گرفت.",
-      "‏این اقدام منجر به ضرر تقریباً ۲۱ میلیون یورو در نتایج مالی سه‌ماهه خواهد شد.",
-      "‏دلیل اصلی، عملکرد نامطلوب بازی Unknown 9: Awakening و کاهش نیروی کار بود."
-    ],
-    "body_fa": "‏Bandai Namco تصمیم هیئت‌مدیره خود را برای منحل و لایعمل کردن استودیو Reflector Entertainment ، توسعه‌دهنده مونترالی Unknown 9: Awakening ، اعلام کرد. این استودیو که در سال ۲۰۲۰ توسط شرکت ژاپنی خریداری شد، پس از کاهش ۱۸ درصدی نیروی کار در نوامبر ۲۰۲۴ و چندین بار اخراج، نتوانست به سودآوری برسد. بازی Unknown 9: Awakening که در اکتبر ۲۰۲۴ برای کنسول‌ها و PC منتشر شد، نقدهای منفی دریافت کرد و فروش مورد انتظار را نرسید. به‌دلیل این نتایج، Bandai Namco پیش‌بینی می‌کند که منحل‌سازی منجر به ضرر فوق‌العاده‌ای حدود ۲۱ میلیون یورو در نتایج مالی سه‌ماهه سوم سال مالی منتهی به ۳۱ مارس ۲۰۲۷ شود. فرآیند لایعمل‌سازی طبق قوانین محلی انجام می‌شود و تاریخ تکمیل هنوز مشخص نیست. اگرچه وب‌سایت استودیو هنوز پروژه‌ای مبتنی بر یک دارایی محبوب Bandai Namco را تبلیغ می‌کند، اما آینده آن پس از اعلام بسته شدن نامشخص است.",
-    "category": "گیم",
-    "subcategory": "بسته شدن استودیو",
-    "tag": "Reflector",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "mxdwn Games",
-    "url": "https://games.mxdwn.com/news/bandai-namco-to-shut-down-reflector-entertainment-studio-behind-unknown-9-awakening/",
-    "clean_url": "https://games.mxdwn.com/news/bandai-namco-to-shut-down-reflector-entertainment-studio-behind-unknown-9-awakening",
-    "image": "https://games-b26f.kxcdn.com/wp-content/uploads/2026/11/image_2026-11-10_100312097.png",
-    "timestamp": 1794269100.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "543ea04830",
-    "title_fa": "‏آمازون طرح ۲۰۰ میلیارد هوش مصنوعی، سهام سقوط کرد",
-    "title_en": "Amazon's $200 billion AI plan and the post-earnings stock drop",
-    "summary": [
-      "‏آمازون پس از انتشار گزارش سود سه‌ماهه، سهامش به دلیل نگرانی‌ها درباره طرح ۲۰۰ میلیارد دلاری هوش مصنوعی کاهش یافت.",
-      "‏این سرمایه‌گذاری بزرگ نشانگر تمرکز شرکت بر هوش مصنوعی است اما هزینه‌های بالا و فشار رقابتی باعث کاهش ارزش بازار شد.",
-      "‏سهم‌های آمازون در روز پس از گزارش حدود ۴ درصد سقوط کردند."
-    ],
-    "body_fa": "‏آمازون در گزارش سود سه‌ماهه خود، رشد فروش را اعلام کرد اما سود خالص کمتر از انتظار بود. همزمان، شرکت برنامه‌ای با هزینه حدود ۲۰۰ میلیارد دلار برای توسعه هوش مصنوعی ارائه داد که نشانگر تعهد جدی به این فناوری است. تحلیل‌گران به این نکته اشاره کردند که هزینه‌های عظیم این طرح می‌تواند فشار بر حاشیه سود شرکت وارد کند. به همین دلیل، پس از انتشار نتایج، سهام آمازون در بازارهای آمریکا حدود ۴ درصد کاهش یافت. این افت نشان می‌دهد سرمایه‌گذاران نسبت به ریسک‌های مالی مرتبط با سرمایه‌گذاری‌های بزرگ هوش مصنوعی حساس هستند. در صورت ادامه این روند، ممکن است فشار بر ارزش بازار آمازون افزایش یابد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Amazon",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Rick Orford - Trading Stocks and Options For All on MSN",
-    "url": "https://www.msn.com/en-us/news/other/amazons-200-billion-ai-plan-and-the-post-earnings-stock-drop/vi-AA1WAsH3?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-us/news/other/amazons-200-billion-ai-plan-and-the-post-earnings-stock-drop/vi-AA1WAsH3",
-    "image": "https://www.bing.com/th?id=ONUT.9HSgPuUmevy3lNHO9EzbhQ",
-    "timestamp": 1794266495.6807368,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "be8e3abb57",
-    "title_fa": "‏تورم ماهانه آمریکا در اکتبر کمتر از انتظار کاهش یافت",
-    "title_en": "Monthly US inflation eased less than expected in October",
-    "summary": [
-      "‏در اکتبر، نرخ تورم ماهانه آمریکا کاهش یافت اما کمتر از پیش‌بینی‌های اقتصاددانان بود.",
-      "‏این نتایج می‌تواند فشار کمتری بر سیاست‌های پولی فدرال‌رزرو ایجاد کند و بازارهای مالی را تحت تأثیر قرار دهد.",
-      "‏تحلیل‌گران انتظار کاهش شدیدتر را داشته بودند."
-    ],
-    "body_fa": "‏نرخ مصرف‌کننده (CPI) در ماه اکتبر نسبت به ماه قبل کمی کاهش یافت، اما سرعت کاهش کمتر از انتظارات بازار بود. اقتصاددانان پیش‌بینی می‌کردند که تورم به‌سرعت بیشتری کاهش یابد، اما داده‌های منتشر شده نشان دادند که فشارهای قیمتی همچنان پابرجا هستند. این وضعیت احتمالاً باعث می‌شود فدرال‌رزرو در تصمیم‌گیری‌های آینده دربارهٔ نرخ بهره محتاط‌تر عمل کند. در واکنش اولیه، شاخص‌های سهام به‌طور محدود رشد کردند و اوراق قرضه دولتی فشار فروش گرفتند، در حالی که دلار نسبت به سایر ارزها ثابت ماند. تحلیل‌گران بر این باورند که این داده می‌تواند مسیر سیاست‌های پولی را در ماه‌های آتی تحت تأثیر قرار دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ تورم",
-    "tag": "تورم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
-    "clean_url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794259860.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7bc703bd4a",
-    "title_fa": "‏اسکای‌دنس گیمز پس از ادغام وارنر-پارامونت تعدادی کارمند را اخراج کرد",
-    "title_en": "Skydance Games Confirms Layoffs Following Warner Bros.-Paramount Merger",
-    "summary": [
-      "‏اسکای‌دنس گیمز پس از ادغام وارنر برادرز و پارامونت، تعدادی از کارکنان خود را اخراج کرد.",
-      "‏این اقدام نشان‌دهنده بازسازی سازمانی و کاهش پروژه‌های AAA پس از ادغام است و بر بازار کار بازی‌سازی تاثیر می‌گذارد.",
-      "‏نقش‌های کلیدی مانند Mallory Dobry و Michael Parsons نیز از بین رفتند."
-    ],
-    "body_fa": "‏اسکای‌دنس گیمز اعلام کرد که پس از ادغام ماه گذشته وارنر برادرز با پارامونت، تعدادی از پرسنل خود را اخراج کرده است. تعداد دقیق افراد حذف‌شده مشخص نیست، اما گزارش‌ها نشان می‌دهد که افراد کلیدی مانند Mallory Dobry ، Ameorry Luo ، Michael Parsons و David Ballard از تیم‌ها جدا شده‌اند. شرکت در بیانیه‌ای به Variety گفت این بازسازی بخشی از تلاش برای رشد طولانی‌مدت و تمرکز بر پروژه‌های منتخب است. به گفته سخنگوی اسکای‌دنس، تصمیم به کاهش برخی پروژه‌ها و تغییرات عملیاتی برای بهبود موقعیت تجاری اتخاذ شده. این اخراج‌ها نشان‌دهنده چالش‌های بازار بازی‌های AAA در شرایط پسادستی ادغام‌های بزرگ و فشارهای مالی است. اگرچه شرکت تأکید کرد که این تصمیم بازتابی از توانایی یا خلاقیت کارکنان نیست، اما برای افراد متأثر و جامعه بازی‌سازی پیامدهای مهمی دارد.",
-    "category": "گیم",
-    "subcategory": "بازسازی سازمانی",
-    "tag": "Skydance",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN Videogames",
-    "url": "https://nordic.ign.com/teenage-mutant-ninja-turtles-the-last-ronin-game-working-tit/115433/skydance-games-confirms-layoffs-following-warner-bros-paramount-merger",
-    "clean_url": "https://nordic.ign.com/teenage-mutant-ninja-turtles-the-last-ronin-game-working-tit/115433/skydance-games-confirms-layoffs-following-warner-bros-paramount-merger",
-    "image": "https://s.yimg.com/bo/b05a49a1-57e9-51a7-9737-4cdefc9f0c7b_1794262248858.png.cf.jpg",
-    "timestamp": 1794258630.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5cd12aaa3b",
-    "title_fa": "‏الیزابت وارن ریاست کمیته بانکی سنا را به عهده می‌گیرد",
-    "title_en": "Elizabeth Warren set to take over the Senate banking committee. Here's what she...",
-    "summary": [
-      "‏الیزابت وارن به‌سرپرستی کمیته بانکی سنا منصوب شد.",
-      "‏او قصد دارد هزینه‌های زندگی، محدودیت‌های صادرات چیپ‌های هوش مصنوعی به چین و نظارت بر بازارهای پیش‌بینی را تنظیم کند.",
-      "‏این برنامه‌ها می‌توانند قوانین مالی و فناوری را تحت تأثیر قرار دهند."
-    ],
-    "body_fa": "‏سناتور الیزابت وارن، نمایندهٔ ماساچوست، به‌زودی ریاست کمیتهٔ بانکی، مسکن و امور شهری سنا را بر عهده می‌گیرد. او برنامهٔ خود را برای مقابله با هزینهٔ زندگی شامل محدود کردن نرخ بهره کارت‌های اعتباری، افزایش ساخت مسکن ارزان و کاهش بدهی‌های پزشکی، مصرفی و دانشجویی اعلام کرده است. وارن همچنین قصد دارد صادرات چیپ‌های پیشرفتهٔ هوش مصنوعی به چین را سخت‌تر کند و چارچوب‌های نظارتی برای هوش مصنوعی داخلی تدوین نماید. در کنار این‌ها، او می‌خواهد نظارت بر بازارهای پیش‌بینی را تقویت کند و از شرکت‌های مانند Kalshi و Polymarket اطلاعاتی دربارهٔ حفاظت‌های انتخاباتی طلب کند. با پیروزی گستردهٔ دمکرات‌ها در انتخابات میانی، این کمیته توانایی تنظیم دستور کار قانون‌گذاری و احضار اسناد از شرکت‌های فناوری و وال‌استریت را خواهد داشت. این اقدامات می‌توانند تأثیر قابل‌توجهی بر سیاست‌های مالی، فناوری و بازارهای سرمایه‌گذاری داشته باشند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نظارت بانکی",
-    "tag": "بانکداری",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
-    "clean_url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
-    "image": "https://s.yimg.com/bo/23d784e4-466f-5770-9d64-fd7b31fffcdb_1794254072056.jpg",
-    "timestamp": 1794252865.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b84262ab3d",
-    "title_fa": "‏ثبت شد: World of Warcraft Forever بزرگ‌ترین راه‌اندازی تاریخ WoW",
-    "title_en": "World of Warcraft Forever Had the Biggest Launch In WoW History and Brought More...",
-    "summary": [
-      "‏World of Warcraft Forever در آخر هفته با بیشترین تعداد بازیکنان همزمان و بازگشت‌کنندگان، بزرگ‌ترین راه‌اندازی تاریخ WoW را داشت.",
-      "‏این رکورد نشان‌دهنده جذب بیشترین بازیکن جدید در ۱۵ سال گذشته و می‌تواند درآمد Blizzard را به‌طور قابل‌توجهی افزایش دهد.",
-      "‏مدیر اجرایی Holly Longdale اعلام کرد که بیشترین تعداد بازیکن جدید برای یک راه‌اندازی WoW در ۱۵ سال اخیر ثبت شده است."
-    ],
-    "body_fa": "‏شرکت Blizzard اعلام کرد که نسخه جدید World of Warcraft به نام Forever ، بزرگ‌ترین راه‌اندازی تاریخ این بازی را ثبت کرده است. بر اساس اظهارات حساب رسمی WoW در X ، این راه‌اندازی هم از نظر بیشترین تعداد بازیکنان همزمان و هم از نظر بیشترین بازگشت‌کنندگان رکورد شکسته است. Holly Longdale ، مدیر اجرایی و معاون رئیس WoW ، افزود که بیشترین تعداد بازیکن جدید برای یک راه‌اندازی WoW در ۱۵ سال گذشته به دست آمده است. این رقم نشان می‌دهد که بازی توانسته بیش از تمام گسترش‌های پیشین، از جمله Cataclysm و Wrath of the Lich King ، بازیکنان جدید جذب کند. Blizzard امیدوار است این موفقیت به افزایش مشترکین و درآمدهای ماهیانه منجر شود و برنامه دارد محتواهای جدیدی برای حفظ این شتاب ارائه دهد.",
-    "category": "گیم",
-    "subcategory": "راه‌اندازی بزرگ",
-    "tag": "WoWForever",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "IGN Videogames",
-    "url": "https://www.ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history",
-    "clean_url": "https://www.ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history",
-    "image": "https://s.yimg.com/bo/e93f186e-a773-52fa-9f9c-1de232554a80_1790595730733.jpg",
-    "timestamp": 1794251430.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4e44984a29",
-    "title_fa": "‏مقامات فرانسه معتقدند ایران پشت هک یخچال‌های هوشمند است",
-    "title_en": "EXCLUSIVE: French officials suspect Iran is behind refrigerator hacks, sources...",
-    "summary": [
-      "‏هک‌های گسترده‌ی یخچال‌های هوشمند در فرانسه توسط هکرهای وابسته به دولت ایران انجام شد",
-      "‏این حمله امنیت دیجیتال مصرف‌کنندگان را به خطر انداخت و روابط سایبری فرانسه‑ایران را تشدید می‌کند",
-      "‏برخی دستگاه‌ها برای ساعت‌ها از کار افتادند و داده‌های شخصی کاربران در معرض خطر بود"
-    ],
-    "body_fa": "‏مقامات فرانسوی اعلام کردند که هکرهای وابسته به دولت ایران مسئول حملات سایبری به یخچال‌های هوشمند در کشور هستند. این حملات باعث از کار افتادن دستگاه‌ها و دسترسی احتمالی به داده‌های شخصی کاربران شد. آژانس ملی امنیت سایبری فرانسه (ANSSI) به بررسی منبع نفوذ پرداخته و مصرف‌کنندگان را نسبت به به‌روزرسانی‌های امنیتی هشدار داده است. این رویداد نشان می‌دهد که عملیات‌های دولتی می‌توانند هدف دستگاه‌های اینترنت اشیا را در سطح اروپا انتخاب کنند و می‌تواند روابط تجاری و دیپلماتیک بین فرانسه و ایران را تحت فشار قرار دهد. ایران تاکنون حضور خود را در این حمله رد کرده است.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "هک",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/",
-    "clean_url": "https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09",
-    "image": "https://s.yimg.com/bo/bae2ddc7-567f-58a3-b5f3-1f3c77b018e9_1794240501542.jpg",
-    "timestamp": 1794240325.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b33b950aec",
-    "title_fa": "‏هکرهای کره‌شمالی با میم‌کوین‌ها پولشویی می‌کنند",
-    "title_en": "North Korean hackers are creating memecoins to wash loot from $6.3 billion...",
-    "summary": [
-      "‏هکرهای کره‌شمالی با شش میم‌کوین خودساخته 117,000 توکن NEAR به ارزش حدود 430,000 دلار را شستند",
-      "‏این نشان می‌دهد که گروه‌های سایبری دولتی از رمزارزهای نوظهور برای پنهان‌سازی درآمدهای هک‌گری استفاده می‌کنند",
-      "‏مبلغ شست‌وشو بخشی از 6.3 میلیارد دلار سرقت‌شده توسط این هکرهاست"
-    ],
-    "body_fa": "‏هکرهای کره‌شمالی شش میم‌کوین تازه ساخته را برای شست‌وشوی 117,000 توکن NEAR به ارزش تقریباً 430,000 دلار به کار گرفتند. این توکن‌ها به‌صورت خودکار و بدون نظارت بر بستر Near Protocol ایجاد شده بودند. عملیات شست‌وشو بخشی از سرقت کلی 6.3 میلیارد دلار است که این گروه‌های سایبری در سال‌های اخیر به‌دست آورده‌اند. استفاده از میم‌کوین‌های نوپا نشان می‌دهد که مجرمان دیجیتال به‌سرعت به ابزارهای جدید رمزارزی روی می‌آورند تا ردیابی مالی را دشوارتر کنند. این رویداد نگرانی‌های نظارتی را دربارهٔ پولشویی در فضای رمزارزها تشدید می‌کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پولشویی دیجیتال",
-    "tag": "memecoin",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-    "clean_url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-    "image": "https://s.yimg.com/bo/e9a6809a-94a5-563e-8983-530fa12b78aa_1794203925543.jpg",
-    "timestamp": 1794236726.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "7e2d150ab8",
-    "title_fa": "‏آمریکا دسترسی چین به تراشه‌های AI Nvidia را محدود می‌کند",
-    "title_en": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips",
-    "summary": [
-      "‏کنگره آمریکا احتمالاً قانون جدیدی برای محدود کردن دسترسی چین به تراشه‌های AI شرکت Nvidia تصویب می‌کند.",
-      "‏این اقدام می‌تواند صادرات نیمه‌رساناهای پیشرفته را کاهش داده و بازارهای فناوری و سهام Nvidia را تحت فشار قرار دهد.",
-      "‏اتهام ارتباط رئیس‌جمهور Nvidia با یک عامل اطلاعاتی چینی باعث تشدید تنش‌های فناوری میان دو کشور شده است."
-    ],
-    "body_fa": "‏رویارهای Reuters اعلام کردند که پس از افشای ارتباط رئیس‌جمهور Nvidia ، Jensen Huang ، با یک عامل مشکوک به اطلاعات چین، کنگره آمریکا احتمالاً قانون سخت‌تری برای محدود کردن فروش تراشه‌های هوش مصنوعی به چین تصویب خواهد کرد. این قانون می‌تواند صادرات چیپ‌های پیشرفته را تحت نظارت شدیدتری قرار داده و دسترسی چین به فناوری‌های پیشرفته AI را کاهش دهد. تحلیل‌گران پیش‌بینی می‌کنند این اقدام فشار بیشتری بر بازارهای نیمه‌رسانا و سهام Nvidia وارد خواهد کرد و ممکن است قیمت‌های این سهام را تحت فشار قرار دهد. در عین حال، این گام نشان‌دهنده تشدید رقابت فناوری میان ایالات متحده و چین است و می‌تواند به تغییرات در زنجیره تأمین جهانی منجر شود.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین فناوری",
-    "tag": "Nvidia",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/",
-    "clean_url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794232500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ccaa024e52",
-    "title_fa": "‏Take‑Two پیش‌بینی می‌کند GTA 6 بزرگ‌ترین عرضه سرگرمی خواهد شد",
-    "title_en": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
-    "summary": [
-      "‏پیش‌فروش‌های GTA 6 به نزدیک 8 میلیون رسید، پیش‌بینی بزرگ‌ترین عرضه سرگرمی تاریخ",
-      "‏Take‑Two در گزارش Q2 سودآوری قوی اعلام کرد و راهنمایی 8 میلیارد دلار برای سال را حفظ کرد",
-      "‏BioShock 4 و پروژه جدید Project Ethos نیز در دست توسعه هستند"
-    ],
-    "body_fa": "‏Take‑Two Interactive نتایج مالی دوره دوم سال را منتشر کرد و گفت که اگرچه در محدوده پایین پیش‌بینی‌های خود برای رزرو خالص قرار داشت، سودآوری بسیار قوی بوده است. پیش‌فروش‌های Grand Theft Auto 6 به نزدیک 8 میلیون رسیده و شرکت انتظار دارد این عرضه بزرگ‌ترین محصول سرگرمی تاریخ از نظر درآمد باشد. راهنمایی سالانه شرکت بر 8 میلیارد دلار ثابت مانده و تا قبل از عرضهٔ بازی که تنها 10 روز دیگر است، عدد نهایی را به‌روز نمی‌کند. BioShock 4 هنوز در حال توسعه است و پس از اخراج‌های سال گذشته پیشرفت‌های مثبتی داشته است. پروژهٔ زنده‌سرویس جدید به نام Project Ethos که در سال 2024 معرفی شد نیز در مسیر تولید قرار دارد. علاوه بر این، Take‑Two قصد دارد عناوین جدیدی خلق کند و عناوین قدیمی را احیا کند تا رشد آینده را تضمین کند.",
-    "category": "گیم",
-    "subcategory": "گزارش مالی",
-    "tag": "GTA6",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
-    "clean_url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
-    "image": "https://assetsio.gnwcdn.com/Strauss_Zelnick_2023_wide.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1794231540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c4b7ca5263",
-    "title_fa": "‏در تحقیق آمریکا درباره قاچاق چیپ Megaspeed ، Nvidia مداخله کرد",
-    "title_en": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
-    "summary": [
-      "‏در تحقیق فدرال درباره قاچاق چیپ Megaspeed ، Nvidia مداخله کرد",
-      "‏این اقدام می‌تواند قوانین صادرات و زنجیره تأمین نیمه‌رساناها را تحت فشار قرار دهد",
-      "‏جزئیات دقیق هنوز توسط مقامات فدرال منتشر نشده است"
-    ],
-    "body_fa": "‏در یک تحقیق فدرال درباره قاچاق چیپ‌های Megaspeed ، شرکت Nvidia اعلام کرد که مداخله‌ای برای محافظت از منافع خود انجام داده است. مقامات ایالات متحده به بررسی نقض قوانین صادرات و انتقال غیرمجاز تکنولوژی‌های پیشرفته پرداخته‌اند. حضور Nvidia در این پرونده می‌تواند تأثیراتی بر اعتبار شرکت و روابط تجاری آن داشته باشد. اگرچه جزئیات کامل سرنخ‌ها هنوز فاش نشده، اما انتظار می‌رود نظارت بر زنجیره تأمین نیمه‌رساناها تشدید شود. این موضوع ممکن است فشارهای بیشتری بر سیاست‌های صادراتی آمریکا وارد کند.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین و مقررات",
-    "tag": "Nvidia",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794230880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "be8d2d4a03",
-    "title_fa": "‏سونی مدل جدید PS Portal را در ژاپن عرضه کرد",
-    "title_en": "Sony Launches New PS Portal Model in Japan With Internal Storage for 'Future Functionality,' Changes Official Name",
-    "summary": [
-      "‏سونی مدل جدید PlayStation Portal را با حافظه داخلی در ژاپن معرفی کرد",
-      "‏این ویژگی امکان افزودن قابلیت‌های جدید و استفاده بدون PS5 را می‌دهد و می‌تواند بازار دستگاهای دستی را تحت تأثیر قرار دهد",
-      "‏نام رسمی دستگاه به “PlayStation Portal Player” تغییر یافت"
-    ],
-    "body_fa": "‏سونی در ماه آینده مدل جدیدی از PlayStation Portal را فقط در ژاپن عرضه می‌کند. این نسخه دارای حافظه داخلی است که نشانگر برنامه‌ریزی سونی برای افزودن قابلیت‌های جدید به این دستگاه است. شرکت می‌گوید این ویژگی به کاربران اجازه می‌دهد حتی بدون داشتن PS5 ، بازی‌های این کنسول را تجربه کنند. نام کامل دستگاه نیز از «Playstation Portal Remote Player» به «PlayStation Portal Player» تغییر یافت تا نقش آن را به‌عنوان یک دستگاه دستی مستقل تقویت کند. این تغییرات می‌تواند گام مهمی در مسیر توسعه یک کنسول دستی نسل آینده، مانند PS6 ، باشد.",
-    "category": "گیم",
-    "subcategory": "دستگاه‌های دستی",
-    "tag": "PlayStation Portal",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN Middle East",
-    "url": "https://me.ign.com/en/playstation-project-q/249617/sony-launches-new-ps-portal-model-in-japan-with-internal-storage-for-future-functionality-changes-of",
-    "clean_url": "https://me.ign.com/en/playstation-project-q/249617/sony-launches-new-ps-portal-model-in-japan-with-internal-storage-for-future-functionality-changes-of",
-    "image": "https://sm.ign.com/t/ign_me/news/s/sony-launc/sony-launches-new-ps-portal-model-in-japan-with-internal-sto_1hmf.1200.jpg",
-    "timestamp": 1794226980.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2e77261b5c",
-    "title_fa": "‏بریتانیا تحریم‌های جدیدی علیه بانک‌های اسرائیل اعمال می‌کند",
-    "title_en": "The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
-    "summary": [
-      "‏تحریم‌های جدید بریتانیا هدف بانک‌های اسرائیل و صنعت مالی جزیره کیمن است",
-      "‏این اقدام می‌تواند روابط مالی بین لندن و مرکز مالی کیمن را تحت فشار قرار دهد و اثرات اقتصادی گسترده‌ای داشته باشد",
-      "‏تحریم‌ها احتمالاً به کاهش جذب سرمایه‌گذاری در کیمن منجر خواهد شد"
-    ],
-    "body_fa": "‏دولت بریتانیا اعلام کرد که قصد دارد تحریم‌های مالی جدیدی علیه بانک‌های اسرائیل اعمال کند. این تحریم‌ها شامل محدود کردن دسترسی این بانک‌ها به سیستم‌های مالی بین‌المللی و مسدود کردن دارایی‌هایشان می‌شود. بر این اساس، مقامات مالی بریتانیا هشدار دادند که این اقدامات می‌تواند به‌طور مستقیم بر صنعت خدمات مالی در جزیره کیمن، که تحت حاکمیت بریتانیا است، تأثیر بگذارد. کیمن به‌عنوان یکی از بزرگ‌ترین مراکز مالی آفشور، به شدت به فعالیت‌های بانکی و سرمایه‌گذاری خارجی وابسته است؛ بنابراین تحریم‌ها ممکن است جریان‌های سرمایه را به‌سختی محدود کند. تحلیل‌گران پیش‌بینی می‌کنند این گام می‌تواند فشارهای دیپلماتیک بر اسرائیل را افزایش دهد و روابط تجاری میان بریتانیا و کیمن را تحت فشار قرار دهد. در عین حال، این تصمیم نشان‌دهنده تمایل لندن به استفاده از ابزارهای مالی برای اعمال سیاست خارجی است.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های مالی",
-    "tag": "تحریم",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/opinion/the-u-k-aims-sanctions-at-israel-hits-the-cayman-islands-f06de832?mod=world_trendingnow_opn_pos1",
-    "clean_url": "https://www.wsj.com/opinion/the-u-k-aims-sanctions-at-israel-hits-the-cayman-islands-f06de832",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794223680.0,
     "sent_to_telegram": true
   }
 ]
