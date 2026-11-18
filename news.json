@@ -88,6 +88,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "733a66dd8d",
+    "title_fa": "‏HKMA هنگ‌کنگ را ردیابی رمزارزها با هوش مصنوعی وادار کرد",
+    "title_en": "HKMA accelerates AI push for banks to track crypto crime before funds vanish",
+    "summary": [
+      "‏HKMA بانک‌ها را ملزم کرد تا از هوش مصنوعی برای ردیابی تراکنش‌های بلاکچین استفاده کنند",
+      "‏هدف این اقدام پیشگیری از جرایم رمزارزی و جلوگیری از نشت وجوه قبل از ناپدید شدن است",
+      "‏سیستم جدید می‌تواند انتقالات مشکوک را در زمان واقعی شناسایی کند"
+    ],
+    "body_fa": "‏سازمان پولی هنگ‌کنگ (HKMA) برنامه‌ای برای تسریع استفاده از هوش مصنوعی در بانک‌ها برای ردیابی تراکنش‌های رمزارزی اعلام کرد. بانک‌ها باید هوش‌مصنوعی را به‌گونه‌ای یکپارچه کنند که به‌صورت خودکار داده‌های بلاکچین را تجزیه و تحلیل کند و الگوهای مشکوک را شناسایی نماید. این اقدام در چارچوب قوانین ضدپولشویی (AML) و مقابله با تأمین مالی تروریسم (CFT) انجام می‌شود تا پیش از ناپدید شدن وجوه، جرایم رمزارزی شناسایی شوند. HKMA انتظار دارد این سامانه‌ها در چند ماه آینده در تمام بانک‌های تحت نظارت پیاده‌سازی شوند. این گام می‌تواند استاندارد جدیدی برای نظارت بر رمزارزها در آسیا ایجاد کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "نظارت و مقررات",
+    "tag": "AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+    "clean_url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+    "image": "https://s.yimg.com/bo/c4c56e05-6d09-57a6-8036-0655698d734e_1794929078461.jpg",
+    "timestamp": 1795016255.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "533ac1a239",
     "title_fa": "‏جنسن هوانگ پیش کمیته بانکی سنا گواهی می‌دهد",
     "title_en": "Jensen Huang Set to Testify Before Senate Banking Committee",
@@ -107,6 +129,28 @@
     "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026/card/jensen-huang-set-to-testify-before-senate-banking-committee-ZbnNoHDLU5p59zL9Q15q",
     "image": "https://s.yimg.com/bo/2bccb280-c69c-52f2-b08e-f202bb2b9ea9_1778669768852.jpg",
     "timestamp": 1795011804.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7de93593bb",
+    "title_fa": "‏فدرال رزرو خطرات مالی هوش مصنوعی را بررسی کرد",
+    "title_en": "Fed policymakers concerned about financial system risks, minutes show",
+    "summary": [
+      "‏Fed minutes نشان دادند که سیاست‌گذاران نگران ریسک‌های مالی ناشی از سرمایه‌گذاری پرشتاب هوش مصنوعی و قیمت‌های بالای دارایی‌ها هستند",
+      "‏این نگرانی می‌تواند فشار بر سیاست‌های پولی و نوسانات بازارهای مالی را تشدید کند",
+      "‏minutes همچنین به ریسک‌های ناشی از بدهی‌های شرکتی و نوسانات نرخ بهره اشاره کردند"
+    ],
+    "body_fa": "‏در صورت‌جلسه اخیر فدرال رزرو، اعضای کمیته سیاست‌گذاری بر خطرات احتمالی برای ثبات مالی تأکید کردند. آنها به سرمایه‌گذاری‌های پرشتاب در حوزه هوش مصنوعی که می‌تواند باعث افزایش قیمت دارایی‌ها و ایجاد حباب‌های قیمتی شود، اشاره کردند. همچنین، سطوح بالای قیمت دارایی‌ها و بدهی‌های شرکتی به عنوان عوامل فشار بر سیاست‌های پولی شناخته شدند. این نگرانی‌ها می‌تواند منجر به بازنگری در مسیر رفع تورم و تنظیم نرخ بهره در ماه‌های آینده شود. بازارها به این نکات واکنش نشان دادند و نوسان در اوراق قرضه و سهام افزایش یافت. تحلیل‌گران پیش‌بینی می‌کنند که اگر این ریسک‌ها تشدید شوند، فدرال رزرو ممکن است سیاست‌های سختگیرانه‌تری اتخاذ کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "Fed",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/fed-policymakers-concerned-about-financial-system-risks-minutes-show-2026-11-18/",
+    "clean_url": "https://www.reuters.com/legal/transactional/fed-policymakers-concerned-about-financial-system-risks-minutes-show-2026-11-18",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795006860.0,
     "sent_to_telegram": true
   },
   {
@@ -151,6 +195,50 @@
     "clean_url": "https://sea.ign.com/grand-theft-auto-vi-rumored-title/252134/gta-6-xbox-series-s-performance-how-does-the-weakest-console-handle-the-biggest-game-of-all-time",
     "image": "https://s.yimg.com/bo/cae7cae0-3ad4-512c-b819-2fa2984541f1_1795004518944.jpg",
     "timestamp": 1795001005.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2ccb022706",
+    "title_fa": "‏فدرال‌رزرو خطر تورم را برجسته کرد؛ نرخ بهره ثابت شد",
+    "title_en": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+    "summary": [
+      "‏فدرال‌رزرو در جلسه اکتبر خطر بالاتر تورم را اعلام کرد و تصمیم گرفت نرخ بهره را موقتاً ثابت نگه دارد.",
+      "‏این نشان می‌دهد احتمال افزایش بزرگ‌تر نرخ بهره در آینده وجود دارد و می‌تواند بازارهای جهانی را تحت فشار قرار دهد.",
+      "‏برخی سیاست‌گذاران حتی پیشنهاد کردند که افزایش نرخ بهره باید بیشتر از پیش باشد."
+    ],
+    "body_fa": "‏فدرال‌رزرو در جلسه ماه اکتبر به‌طور مشترک تصمیم گرفت نرخ بهره اصلی را در سطح فعلی حفظ کند. با این حال، اعضای کمیته به‌خصوص برخی از سیاست‌گذاران، خطر افزایشی تورم را که ممکن است در ماه‌های آینده تشدید شود، برجسته کردند. این نگرانی‌ها باعث شد برخی از اعضا ضرورت یک افزایش بزرگ‌تر نرخ بهره را مطرح کنند. تصمیم برای ثابت نگه داشتن نرخ بهره نشان می‌دهد فدرال‌رزرو هنوز در حال ارزیابی داده‌های اخیر است و نمی‌خواهد پیش از زمان مناسب سیاست‌های سختگیرانه‌تری اتخاذ کند. این رویکرد می‌تواند نوساناتی در بازارهای سهام، اوراق قرضه و ارزهای دیجیتال ایجاد کند و سرمایه‌گذاران را به انتظار برای تصمیمات بعدی سوق دهد. تحلیل‌گران پیش‌بینی می‌کنند اگر تورم به‌سرعت کاهش نیابد، فدرال‌رزرو ممکن است در جلسات آینده نرخ بهره را به‌صورت قابل توجهی افزایش دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "فدرال‌رزرو",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
+    "clean_url": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794999780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0587962e67",
+    "title_fa": "‏هیئت صلح ترامپ هشدار داد آتش‌بس غزه ممکن است فروپاشی کند",
+    "title_en": "Trump’s Board of Peace Warns Gaza Ceasefire Could Collapse",
+    "summary": [
+      "‏هیئت صلح تحت رهبری دونالد ترامپ اعلام کرد که آتش‌بس جاری در غزه در خطر فروپاشی است",
+      "‏این هشدار می‌تواند فشار بین‌المللی برای تجدید مذاکرات صلحی را افزایش دهد",
+      "‏جزئیات بیشتری درباره دلایل هشدار یا واکنش‌ها در متن موجود نیست"
+    ],
+    "body_fa": "‏هیئت صلحی که توسط دونالد ترامپ تشکیل شده است، هشدار داد که آتش‌بس فعلی در غزه ممکن است به زودی فروپاشی کند. این اظهارات نشان می‌دهد که تنش‌های انسانی و نظامی در نوار غزه همچنان بالا است و احتمال ادامه درگیری‌ها وجود دارد. اگر آتش‌بس قطع شود، می‌تواند موج جدیدی از درگیری‌ها و تلفات را به دنبال داشته باشد. در حال حاضر هیچ اطلاعاتی دربارهٔ دلایل دقیق هشدار یا واکنش‌های دیگر طرف‌ها منتشر نشده است. این خبر نشان‌دهندهٔ نوسان‌های سیاسی بین‌المللی در زمینهٔ مناقشات خاورمیانه است.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "آتش‌بس غزه",
+    "tag": "غزه",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-s-board-of-peace-warns-gaza-ceasefire-could-collapse",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-s-board-of-peace-warns-gaza-ceasefire-could-collapse",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794998400.0,
     "sent_to_telegram": true
   },
   {
@@ -308,6 +396,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "541383925a",
+    "title_fa": "‏بیت‌کوین پس از سقوط 12 ٪ زیر میانگین 200‑هفته‌ای صعود کرد",
+    "title_en": "Bitcoin’s (BTC) 12% crash through its 200-week average has a bullish track recor...",
+    "summary": [
+      "‏بیت‌کوین در هفته گذشته 12 ٪ سقوط کرد و زیر میانگین 200‑هفته‌ای خود رفت.",
+      "‏این سقوط تنها در سه بار پیشین اتفاق افتاده و پس از آن قیمت‌ها به‌سرعت صعود کرده‌اند.",
+      "‏تحلیل‌گران پیش‌بینی می‌کنند این الگو می‌تواند نشانه‌ای برای رشد آینده باشد."
+    ],
+    "body_fa": "‏بیت‌کوین در هفتهٔ اخیر با کاهش 12 ٪ به‌سرعت زیر میانگین 200‑هفته‌ای خود افتاد. این سطح تاریخی تنها در سه بار پیشین شکسته شده بود و هر بار پس از آن یک دورهٔ صعودی قوی دنبال شد. کارشناسان بازار اشاره می‌کنند که این الگو می‌تواند نشانگر بازگشت تمایل خریداران باشد. با این حال نوسان شدید همچنان ادامه دارد و سرمایه‌گذاران باید به ریسک‌های کوتاه‌مدت توجه کنند. اگر الگوی تاریخی تکرار شود، ممکن است قیمت بیت‌کوین در هفته‌های آینده به‌سرعت بازگردد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "نوسان بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+    "image": "https://s.yimg.com/bo/33b843a1-19fb-5525-b518-555f304b1c9f_1794977367688.jpg",
+    "timestamp": 1794976655.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "82a03f8cea",
     "title_fa": "‏تحلیل‌گران می‌گویند سقوط بیت‌کوین به IPO Anthropic نادرست است",
     "title_en": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
@@ -349,6 +459,28 @@
     "clean_url": "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
     "image": "https://assetsio.gnwcdn.com/gta-6-zelda.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
     "timestamp": 1794970680.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ff9fe9ce8e",
+    "title_fa": "‏استریت پس از درآمد Nvidia و صورتجلسه فدرال ترکیب شد",
+    "title_en": "Wall Street ends mixed after Nvidia earnings, Fed minutes",
+    "summary": [
+      "‏Nvidia درآمد بالاتر از انتظار اعلام کرد و پیش‌بینی رشد فروش قوی ارائه داد.",
+      "‏این خبر باعث شد شاخص Nasdaq صعود کند و نگرانی‌های سرمایه‌گذاران دربارهٔ آینده چیپ‌ها کاهش یابد.",
+      "‏صورتجلسه فدرال رزرو نشان داد که احتمال افزایش نرخ بهره در کوتاه‌مدت کم است."
+    ],
+    "body_fa": "‏Nvidia در گزارش سه ماههٔ سوم خود، درآمدی بالغ بر 13 میلیارد دلار اعلام کرد که نسبت به پیش‌بینی‌ها کمی بالاتر بود. علاوه بر این، شرکت پیش‌بینی کرد که فروش سالانه‌اش در سال 2025 به بیش از 30 میلیارد دلار خواهد رسید، که نگرانی‌های بازار دربارهٔ تقاضای چیپ‌های پیشرفته را کاهش داد. این خبر باعث شد شاخص Nasdaq Composite حدود 1.2 درصد افزایش یابد، در حالی که S&P 500 تنها به‌صورت خنثی یا کمی پایین‌تر بسته شد. در عین حال، صورتجلسهٔ اخیر فدرال رزرو نشان داد که اعضا به احتمال زیاد نرخ بهره را در ماه‌های آینده ثابت نگه می‌دارند، که برای اوراق قرضه و دلار اثر مثبت داشت. ترکیب این دو عامل، بازارهای سهام آمریکا را در روزی ترکیبی از صعود و رکود به پایان رساند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام آمریکا",
+    "tag": "Nvidia",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/",
+    "clean_url": "https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794968880.0,
     "sent_to_telegram": true
   },
   {
@@ -6465,138 +6597,6 @@
     "clean_url": "https://www.wsj.com/opinion/the-u-k-aims-sanctions-at-israel-hits-the-cayman-islands-f06de832",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794223680.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "66570a35ca",
-    "title_fa": "‏Anthropic Fable و Mythos را قبل از IPO رونمایی کرد",
-    "title_en": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
-    "summary": [
-      "‏Anthropic دو مدل جدید هوش مصنوعی به نام Fable و Mythos را معرفی کرد.",
-      "‏این معرفی پیش از عرضه عمومی اولیه (IPO) شرکت است و می‌تواند رقابت در بازار AI را تشدید کند.",
-      "‏مدل‌ها بر پایه معماری جدیدی ساخته شده‌اند و هدفشان ارائه پاسخ‌های دقیق‌تر در کاربردهای پیچیده است."
-    ],
-    "body_fa": "‏Anthropic دو مدل جدید هوش مصنوعی به نام Fable و Mythos را معرفی کرد. این مدل‌ها پیش از برنامه‌ریزی برای عرضه عمومی اولیه (IPO) شرکت به بازار عرضه می‌شوند. هدف Anthropic از این گام، تقویت موقعیت رقابتی در حوزه مدل‌های زبانی پیشرفته است. هر دو مدل بر پایه معماری نوین ساخته شده‌اند و ادعا می‌شود توانایی ارائه پاسخ‌های دقیق‌تر در زمینه‌های پیچیده را دارند. معرفی این فناوری می‌تواند توجه سرمایه‌گذاران را به سمت IPO شرکت جلب کند و تأثیر قابل‌توجهی بر ارزیابی بازارهای AI داشته باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794222000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "aa1735cff3",
-    "title_fa": "‏الیزابت وارن نظارت بر رمزارزهای خانواده ترامپ را وعده داد",
-    "title_en": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
-    "summary": [
-      "‏سناتور الیزابت وارن به عنوان رئیس کمیته بانکداری سنا، قول داد نظارت بر رمزارزهای خانواده ترامپ و بازارهای پیش‌بینی داشته باشد.",
-      "‏این حرکت می‌تواند فشار نظارتی بر فعالیت‌های کریپتو در ایالات متحده را افزایش دهد و تأثیرات بازارهای دیجیتال را تحت‌الشعاع قرار دهد.",
-      "‏او همچنین به بحران مالی محتمل و هوش مصنوعی به عنوان اولویت‌های دیگر اشاره کرد."
-    ],
-    "body_fa": "‏سناتور الیزابت وارن، رئیس کمیته بانکداری سنا، اعلام کرد که نظارت بر رمزارزهای خانواده ترامپ و بازارهای پیش‌بینی را در برنامه خود دارد. او این هدف را در چارچوب تلاش برای تضمین قابلیت پرداخت، جلوگیری از بحران مالی محتمل و ارتقای شفافیت در حوزه هوش مصنوعی می‌بیند. وارن می‌گوید این اقدامات برای محافظت از مصرف‌کنندگان و جلوگیری از ریسک‌های سیستمیک در بازارهای مالی ضروری است. این اعلامیه می‌تواند فشار نظارتی بر شرکت‌های کریپتو در ایالات متحده را افزایش دهد و احتمالاً به تنظیمات سختگیرانه‌تر منجر شود. در عین حال، توجه او به بازارهای پیش‌بینی نشان می‌دهد که قانون‌گذاران به دنبال محدود کردن ابزارهای مالی نوظهور هستند. اگر این نظارت اجرایی شود، ممکن است سرمایه‌گذاران و پروژه‌های رمزارزی به بازنگری استراتژی‌های خود بپردازند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "نظارت بر رمزارزها",
-    "tag": "Warren",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
-    "clean_url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794220200.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "95ab4b98c1",
-    "title_fa": "‏قیمت برق نوردیک با کمبود آب و گاز بالا می‌رود",
-    "title_en": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge |...",
-    "summary": [
-      "‏سطوح آب در مخازن هیدروپاور نوردیک به پایین‌ترین سطح 30 ساله رسیده و قیمت گاز طبیعی به اوج خود در اکتبر رسیده است.",
-      "‏تحلیل‌گران Mind Energy هشدار می‌دهند که این ترکیب می‌تواند باعث جهش شدید قیمت برق در دانمارک، سوئد جنوبی و نروژ جنوبی در فصل سرد شود.",
-      "‏اگر باد کم شود، قیمت‌ها به نیروگاه‌های گاز آلمان وابسته می‌شوند."
-    ],
-    "body_fa": "‏سطوح آب در مخازن هیدروپاور نوردیک به پایین‌ترین سطح در 30 سال گذشته رسیده است و همزمان قیمت گاز طبیعی در اکتبر به بالاترین سطح از پایان 2022 صعود کرده است. تحلیل‌گران Mind Energy معتقدند این ترکیب می‌تواند فشار قیمتی شدیدی بر بازار برق این منطقه وارد کند، به‌ویژه در نواحی جنوبی نروژ (NO2)، سوئد و دانمارک. آنها هشدار دادند که در صورت کاهش سرعت باد، قیمت برق در این مناطق بیشتر به قیمت گازهای آلمانی وابسته خواهد شد. با توجه به کمبود آب و افزایش قیمت گاز، انتظار می‌رود که قیمت برق در طول فصل گرمایش به‌صورت نوسانی و با جهش‌های قابل‌توجهی مواجه شود. این وضعیت می‌تواند تأثیرات گسترده‌ای بر بازارهای انرژی اروپا داشته باشد و فشار بر مصرف‌کنندگان نوردیک را افزایش دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت برق نوردیک",
-    "tag": "نوردیک",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Nordic-Power-Prices-Could-Soar-This-Winter-as-Hydropower-Reserves-Plunge.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Nordic-Power-Prices-Could-Soar-This-Winter-as-Hydropower-Reserves-Plunge.html",
-    "image": "https://s.yimg.com/bo/a1785069-1b57-5b9e-af90-4785d7170cb7_1794220522158.jpg",
-    "timestamp": 1794219657.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ce40939889",
-    "title_fa": "‏چین تعهد تجاری دو ماهه با آمریکا را تمدید کرد",
-    "title_en": "China extends US trade truce by two months",
-    "summary": [
-      "‏چین تمدید تعهد تجاری خود با آمریکا را به مدت دو ماه اعلام کرد",
-      "‏این اقدام باعث ادامه تعلیق تعرفه‌های 24% و سایر محدودیت‌ها می‌شود و فشار بر مذاکرات تجاری را کاهش می‌دهد",
-      "‏همچنین چین تا 10 ژانویه 2027 برخی معافیت‌های صادراتی و هزینه‌های بندری را نیز تمدید کرد"
-    ],
-    "body_fa": "‏چین در روز دوشنبه اعلام کرد که تعهد تجاری خود با ایالات متحده را به مدت دو ماه دیگر تمدید می‌کند. این تمدید شامل ادامه تعلیق تعرفه 24 درصدی بر واردات آمریکا است، در حالی که تعرفه 10 درصدی باقی می‌ماند. وزارت تجارت چین همچنین معافیت‌های کنترل صادرات برای برخی مواد معدنی حیاتی و فناوری‌های مرتبط را تا 10 ژانویه 2027 ادامه می‌دهد. محدودیت‌های اعمال‌شده بر 11 شرکت آمریکایی در فهرست نهادهای نامطمئن و 16 شرکت در فهرست کنترل صادرات نیز تا همان تاریخ ادامه خواهد یافت. هزینه‌های ویژه بندری برای کشتی‌های مرتبط با آمریکا و تحقیق درباره امنیت زنجیره تأمین کشتی‌سازی نیز تا آن تاریخ معلق می‌ماند. این تصمیم پس از نشست واشنگتن بین دونالد ترامپ و شی جین‌پینگ و پیش از اجلاس APEC در چین اتخاذ شد تا زمان بیشتری برای نهایی‌سازی بسته 60 میلیارد دلاری کاهش تعرفه‌ها فراهم شود.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تجارت چین-آمریکا",
-    "tag": "تجارت",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/policy/articles/china-extends-suspension-24-tariff-030006090.html",
-    "clean_url": "https://finance.yahoo.com/economy/policy/articles/china-extends-suspension-24-tariff-030006090.html",
-    "image": "https://media.zenfs.com/en/reuters.com/818c0594c535e012d9b4080622789137.jpg",
-    "timestamp": 1794219655.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "429af2f9ce",
-    "title_fa": "‏Coinbase مجوز کامل تراست آمریکا را از OCC دریافت کرد",
-    "title_en": "Coinbase gets full U.S. trust charter from federal banking regulator",
-    "summary": [
-      "‏Coinbase از OCC مجوز کامل تراست در ایالات متحده را دریافت کرد",
-      "‏این مجوز به صرافی امکان ارائه خدمات بانکی مشابه به بانک‌ها را می‌دهد و می‌تواند رقابت در بازار کریپتو را تقویت کند",
-      "‏انتظار می‌رود این تصمیم به جذب سرمایه‌گذاران جدید و افزایش اعتماد به رمزارزها منجر شود"
-    ],
-    "body_fa": "‏دفتر Comptroller of the Currency (OCC) وضعیت تراست Coinbase را به سطح کامل ارتقا داد و این صرافی بزرگ آمریکایی را اولین صرافی که چنین مجوزی را دریافت می‌کند، کرد. با این مجوز Coinbase می‌تواند سپرده‌های مشتریان را به‌صورت امانت‌دار نگهداری کرده و خدمات بانکی مشابه به بانک‌ها ارائه دهد، از جمله حساب‌های جاری رمزارزی. این گام مهم نشانگر پیشرفت نظارتی در حوزه رمزارزها در آمریکا است و می‌تواند فشار برای پذیرش گسترده‌تر این دارایی‌ها را افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند که این تصمیم به جذب سرمایه‌گذاران جدید، افزایش حجم تراکنش‌ها و تقویت اعتماد به بازار کریپتو منجر خواهد شد. همچنین این پیشرفت ممکن است سایر صرافی‌ها را به دنبال دریافت مجوزهای مشابه سوق دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "مجوزهای مالی",
-    "tag": "Coinbase",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-    "clean_url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-    "image": "https://s.yimg.com/bo/e86a47a2-3bd0-5d2a-8460-1580bae7eccb_1794220023883.jpg",
-    "timestamp": 1794218726.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cf1d723fa3",
-    "title_fa": "‏قیمت طلا به ۴۱۰۰ دلار نزدیک شد",
-    "title_en": "Gold Rises Toward $4,100 as Weaker Dollar Offsets Expectations of December Fed...",
-    "summary": [
-      "‏قیمت طلا در روز دوشنبه به ۴۰۹۸٫۰۳ دلار در هر اونس رسید.",
-      "‏کاهش ۰٫۴٪ شاخص دلار و انتظارات افزایش نرخ بهره فدرال رزرو این رشد را تقویت کرد.",
-      "‏نقره، پلاتین و پالادیوم نیز به‌طور مشابهی افزایش یافتند."
-    ],
-    "body_fa": "‏قیمت طلا در صبح دوشنبه ۹ نوامبر ۲۰۲۶، ۰٫۷٪ افزایش یافت و به ۴۰۹۸٫۰۳ دلار در هر اونس رسید؛ قراردادهای آتی آمریکا نیز به ۴۱۰۶٫۴۷ دلار رسیدند. این حرکت در پی کاهش ۰٫۴٪ شاخص دلار آمریکا به ۱۰۱٫۸۸ بود که طلا را برای خریداران ارزهای دیگر ارزان‌تر کرد. داده‌های اشتغال آمریکا که نشان داد ۱۶۵٬۰۰۰ شغل جدید اضافه شد، انتظارات بازار را برای افزایش نرخ بهره فدرال رزرو در جلسه دسامبر تقویت کرد. افزایش نرخ بهره می‌تواند تقاضای طلا را کاهش دهد، اما ضعف دلار اثر معکوس داشته و قیمت را بالا برد. علاوه بر طلا، نقره به ۵۲٫۵۶ دلار، پلاتین به ۱٬۵۴۹٫۰۸ دلار و پالادیوم به ۱٬۰۲۹٫۲۵ دلار ارتقا یافتند. این رشد در بازار فلزات گرانبها نشان‌دهنده تعامل پیچیده بین سیاست پولی، ارز و تقاضای سرمایه‌گذاری است.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "InvestorsHub · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-toward-4-100-100711794.html",
-    "clean_url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-toward-4-100-100711794.html",
-    "image": "https://media.zenfs.com/en/investorshub_458/da73d9e7598f5e64b7a8489538f331f3.png.cf.jpg",
-    "timestamp": 1794218723.0,
     "sent_to_telegram": true
   }
 ]
