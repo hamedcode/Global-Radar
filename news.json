@@ -88,6 +88,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "cfc2d459cc",
+    "title_fa": "‏متا برنامه پیام‌رسان مستقل Direct را راه‌اندازی کرد",
+    "title_en": "Meta launches Direct, a standalone messaging app for Instagram | TechCrunch",
+    "summary": [
+      "‏متا برنامه پیام‌رسان جدید Direct را در ترکیه و تایلند به صورت آزمایشی عرضه کرد.",
+      "‏این اپ می‌تواند پیام‌های Direct Instagram را بدون نیاز به حساب اینستاگرام مدیریت کند و کاربران را در اکوسیستم متا نگه دارد.",
+      "‏Direct قابلیت‌های واکنش، یادداشت صوتی، رسم و استیکرهای سفارشی را نیز ارائه می‌دهد."
+    ],
+    "body_fa": "‏متا برنامه پیام‌رسان مستقل Direct را به‌عنوان نسخه‌ای جداگانه از پیام‌های Direct اینستاگرام معرفی کرد. این سرویس ابتدا در ترکیه و تایلند به‌صورت آزمایشی در دسترس کاربران قرار گرفت و می‌تواند با یا بدون حساب اینستاگرام استفاده شود. کاربران می‌توانند با ایمیل یا شماره تلفن ثبت‌نام کنند و گفت‌وگوهای قبلی خود را که در اینستاگرام داشته‌اند، به‌صورت همزمان در دو برنامه همگام‌سازی کنند. Direct امکاناتی چون واکنش‌ها، یادداشت‌های صوتی، ایموجی، قابلیت «Draw» برای رسم داخل چت و «Notes» برای به‌روزرسانی وضعیت کوتاه را فراهم می‌کند. همچنین امکان ساخت استیکرهای سفارشی، افزودن افکت صوتی به پاسخ‌ها و شخصی‌سازی پس‌زمینه چت با تم‌های دلخواه وجود دارد. برای حفظ امنیت نوجوانان، متا از فناوری تخمین سن استفاده می‌کند و ابزارهای نظارت برای والدین فراهم می‌کند. هنوز زمان یا برنامه‌ای برای گسترش Direct به سایر کشورها اعلام نشده است.",
+    "category": "تکنولوژی",
+    "subcategory": "پیام‌رسان‌های موبایل",
+    "tag": "Direct",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+    "clean_url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram",
+    "image": "https://s.yimg.com/bo/b5c8b083-a54b-5936-a417-4e1184b8994f_1794928590716.png.cf.jpg",
+    "timestamp": 1794927535.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "78febdcbfb",
     "title_fa": "‏هونگ‌کنگ و Swift سپرده‌های توکنی ۲۴ساعته را بررسی می‌کنند",
     "title_en": "Hong Kong, Swift explore tokenized deposits to bring 24/7 speed to bank payments",
@@ -107,6 +129,28 @@
     "clean_url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
     "image": "https://s.yimg.com/bo/c4c56e05-6d09-57a6-8036-0655698d734e_1794929078461.jpg",
     "timestamp": 1794927320.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "11e0a8d5dd",
+    "title_fa": "‏آمازون و گوگل پس از IPO ۳۰٪ Anthropic را می‌خرند",
+    "title_en": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "summary": [
+      "‏آمازون ۱۴.۷٪ و گوگل ۱۳.۷٪ از سهام Anthropic را پس از عرضه عمومی خریدند.",
+      "‏این سرمایه‌گذاری مشترک تقریباً ۳۰٪ مالکیت غیررای‌دهنده را تشکیل می‌دهد و می‌تواند رقابت هوش مصنوعی و خدمات ابری را تحت تأثیر قرار دهد.",
+      "‏علاوه بر این، AWS بیش از ۱۰۰ میلیارد دلار هزینهٔ ابری Anthropic را در ده سال آینده تضمین کرده است."
+    ],
+    "body_fa": "‏Anthropic در روز سه‌شنبه جزئیات سرمایه‌گذاری‌های بزرگ خود با ارائه‌دهندگان ابری آمازون و گوگل را فاش کرد. آمازون با تبدیل بخشی از اوراق تضمینی به سهام غیررای‌دهنده، حدود ۱۴.۷٪ از شرکت را به دست آورد که در صورت تبدیل تمام اوراق می‌توانست به ۲۳.۸٪ برسد. گوگل نیز با تبدیل اوراق و خرید خصوصی، تقریباً ۱۳.۷٪ سهام غیررای‌دهنده Anthropic را در اختیار دارد. گروهی از شرکت‌های فناوری بزرگ از جمله AMD ، Broadcom ، Micron ، Microsoft ، Nvidia ، TSMC و خود گوگل، توافق کردند تا ۲۶ میلیارد دلار سهام غیررای‌دهنده خریداری کنند که گوگل و Nvidia هر کدام ۱۰ میلیارد دلار خریداری می‌کنند. علاوه بر این، AWS انتظار دارد که Anthropic بیش از ۱۰۰ میلیارد دلار هزینهٔ خدمات ابری خود را در ده سال آینده صرف کند. این ترکیب مالکیت تقریباً ۳۰٪ غیررای‌دهنده می‌تواند نقش مهمی در رقابت بین ارائه‌دهندگان هوش مصنوعی و سرویس‌های ابری ایفا کند.",
+    "category": "تکنولوژی",
+    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
+    "tag": "Anthropic",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "clean_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+    "timestamp": 1794925740.0,
     "sent_to_telegram": true
   },
   {
@@ -195,6 +239,72 @@
     "clean_url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
     "image": "https://s.yimg.com/bo/137b2a19-cd76-5ab2-949b-5d2368f99506_1794795026382.jpg",
     "timestamp": 1794920044.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "726bd9c9d4",
+    "title_fa": "‏استودیوی Tomb Raider برای ششمین بار از کارمندان اخراج کرد",
+    "title_en": "Tomb Raider studio lays off employees for the sixth time since its last game",
+    "summary": [
+      "‏استودیوی Tomb Raider پس از انتشار آخرین بازی‌اش، برای ششمین بار کارمندان را اخراج کرد.",
+      "‏این اقدام نشان‌دهنده مشکلات مالی و چالش‌های توسعه‌ بازی‌های بزرگ است و می‌تواند تولید عناوین آینده را به تأخیر بیندازد.",
+      "‏این اخراج‌ها پس از کاهش فروش و هزینه‌های بالای توسعه رخ داد."
+    ],
+    "body_fa": "‏استودیوی Tomb Raider ، که تحت مالکیت Embracer Group فعالیت می‌کند، برای ششمین بار از زمان انتشار آخرین بازی‌اش کارمندان را اخراج کرده است. برخی از کارمندان که بیش از چهارده سال در صنعت بازی‌سازی مشغول به کار بوده‌اند، برای اولین بار در این مدت با اخراج مواجه شدند. این تصمیم پس از کاهش فروش عناوین قبلی و هزینه‌های بالای توسعه اتخاذ شد و نشانگر فشارهای مالی بر استودیو است. کارشناسان هشدار می‌دهند که این روند می‌تواند زمان‌بندی و کیفیت پروژه‌های آینده Tomb Raider را تحت تأثیر قرار دهد. سرمایه‌گذاران نیز به دنبال بررسی تأثیر این اخراج‌ها بر سودآوری کل گروه Embracer هستند.",
+    "category": "گیم",
+    "subcategory": "استخدام و اخراج",
+    "tag": "Tomb Raider",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesRadar+ on MSN",
+    "url": "https://www.msn.com/en-us/money/human-resources/tomb-raider-studio-lays-off-employees-for-the-sixth-time-since-its-last-game/ar-AA2hEeLp",
+    "clean_url": "https://www.msn.com/en-us/money/human-resources/tomb-raider-studio-lays-off-employees-for-the-sixth-time-since-its-last-game/ar-AA2hEeLp",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794919931.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8624f888bd",
+    "title_fa": "‏فیراکس گیمز 60 نفر را اخراج کرد؛ رئیس استودیو رفت",
+    "title_en": "Civilization developer Firaxis lays off 60 employees as its studio head departs",
+    "summary": [
+      "‏Firaxis Games امروز حدود 60 نفر، تقریباً یک‌سوم کارکنان، را اخراج کرد و رهبری استودیوی خود، Heather Hazen ، را از دست داد.",
+      "‏این کاهش نیرو نشان می‌دهد حتی ناشران بزرگ مثل Take‑Two در مواجهه با نتایج متوسط بازی‌های استراتژیک تحت فشار مالی هستند.",
+      "‏پروژه جدید XCOM با مشکلات توسعه مواجه است و پس از این برش‌ها ممکن است دچار تغییرات شود."
+    ],
+    "body_fa": "‏Firaxis Games ، استودیوی سازنده سری Civilization ، امروز حدود 60 نفر، یعنی یک‌سوم نیروهای خود، را اخراج کرد. این اقدام همزمان با خروج Heather Hazen ، که از سال 2023 سرپرست استودیو بود، اعلام شد. شرکت مادر 2K Games گفت این بازسازی برای تمرکز بر طراحی استراتژی، فناوری و تجربه بازیکن انجام می‌شود. خبرها نشان می‌دهد پروژه جدید XCOM که با مشکلات توسعه مواجه شده، پس از این برش‌ها ممکن است دچار تغییرات شود. این اخراج‌ها دو روز پیش از عرضه Grand Theft Auto 6 توسط Take‑Two رخ داد و نشان می‌دهد حتی ناشران بزرگ هم در برابر نتایج متوسط عناوین خود فشار می‌کشند.",
+    "category": "گیم",
+    "subcategory": "استخدام و اخراج",
+    "tag": "Firaxis",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "AltChar",
+    "url": "https://www.altchar.com/game-news/civilization-developer-firaxis-lays-off-60-employees-as-its-studio-head-departs-aSMqD0H5TNuF",
+    "clean_url": "https://www.altchar.com/game-news/civilization-developer-firaxis-lays-off-60-employees-as-its-studio-head-departs-aSMqD0H5TNuF",
+    "image": "https://media.altchar.com/prod/images/gm_featured_image/e720afbe756b-firaxis.jpg",
+    "timestamp": 1794919440.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f55696df4f",
+    "title_fa": "‏جان ویلیامز فدرال رزرو افزایش نرخ بهره را می‌پسندد",
+    "title_en": "Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action'",
+    "summary": [
+      "‏جان ویلیامز، رئیس بانک فدرال رزرو نیویورک، گفت احتمالاً نیاز به افزایش مجدد نرخ بهره برای مقابله با تورم بالا است.",
+      "‏او افزود که اکنون زمان اقدام دراماتیک نیست و سیاست‌گذاران باید با احتیاط پیش بروند.",
+      "‏این اظهارات می‌تواند انتظارات بازارهای مالی را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏جان ویلیامز، رئیس بانک فدرال رزرو نیویورک، در جلسه‌ای روز سه‌شنبه اعلام کرد که فدرال رزرو احتمالاً باید نرخ بهره را دوباره افزایش دهد تا تورم بالا را مهار کند. او تأکید کرد که این افزایش باید به‌صورت تدریجی باشد و در حال حاضر زمان اقدام دراماتیک یا تغییرات شدید سیاست پولی نیست. ویلیامز افزود که بانک مرکزی به دنبال ارزیابی دقیق داده‌های اقتصادی و پیشرفت‌های اخیر در کاهش فشارهای قیمتی است. او گفت «ما باید با احتیاط پیش برویم و از تصمیمات ناگهانی که می‌تواند نوسانات بازار را تشدید کند، پرهیز کنیم». این اظهارات می‌تواند انتظارات سرمایه‌گذاران درباره مسیر نرخ بهره را شکل دهد و به نوسان کوتاه‌مدت در بازارهای سهام و اوراق قرضه منجر شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "نرخ بهره",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/feds-williams-still-favors-tighter-monetary-policy-says-now-is-not-time-dramatic-2026-11-17/",
+    "clean_url": "https://www.reuters.com/business/feds-williams-still-favors-tighter-monetary-policy-says-now-is-not-time-dramatic-2026-11-17",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794917280.0,
     "sent_to_telegram": true
   },
   {
@@ -437,6 +547,50 @@
     "clean_url": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
     "image": "https://s.yimg.com/bo/0b358e67-3d5d-52fd-aa4e-6ddc7816d7fa_1794909095286.jpg",
     "timestamp": 1794905644.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5ed0fb04e5",
+    "title_fa": "‏جنسن هوانگ آمادگی بازگشت به مدیرعاملی Nvidia را اعلام کرد",
+    "title_en": "Jensen Huang Is Willing to Return as Nvidia CEO If Board Allows It",
+    "summary": [
+      "‏جنسن هوانگ اعلام کرد آمادگی دارد در صورت موافقت هیئت‌مدیره، مجدداً به عنوان مدیرعامل Nvidia برگردد.",
+      "‏این خبر می‌تواند تأثیر قابل‌توجهی بر ارزش سهام Nvidia و روند فناوری‌های گرافیکی داشته باشد.",
+      "‏تصمیم او نشان‌دهنده ادامه استراتژی رشد و نوآوری شرکت است."
+    ],
+    "body_fa": "‏جنسن هوانگ، بنیان‌گذار و مدیرعامل فعلی Nvidia ، گفت در صورت دریافت اجازه از هیئت‌مدیره می‌تواند دوباره به عنوان مدیرعامل شرکت عمل کند. این اظهارات پس از شایعاتی درباره تغییرات رهبری در شرکت مطرح شد و نشان می‌دهد که هوانگ هنوز تمایل به رهبری مستقیم دارد. بازگشت او می‌تواند استراتژی‌های توسعه هوش مصنوعی و پردازش گرافیکی را تقویت کند و واکنش مثبت بازارهای سهام فناوری را به دنبال داشته باشد. در صورت تحقق، این تصمیم می‌تواند مسیر رشد Nvidia را در سال‌های آینده شکل دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "رهبری شرکت",
+    "tag": "Nvidia",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794903720.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d3d81318f6",
+    "title_fa": "‏پلتفرم Roblox برنامه رایگان تبدیل بازی‌ها را آغاز کرد",
+    "title_en": "Roblox launches creator program for devs to bring games to its platform for free",
+    "summary": [
+      "‏پلتفرم Roblox برنامه‌ای جدید برای تبدیل رایگان بازی‌های موجود به پلتفرم خود ارائه داد.",
+      "‏این امکان به توسعه‌دهندگان Unity و Unreal اجازه می‌دهد بدون هزینه بازی‌هایشان را به Roblox منتقل کنند.",
+      "‏برنامه در ابتدا به گروه محدودی از توسعه‌دهندگان در موبایل، PC و کنسول ارائه می‌شود."
+    ],
+    "body_fa": "‏پلتفرم Roblox برنامه جدیدی به نام Creator Program راه‌اندازی کرد که به توسعه‌دهندگان اجازه می‌دهد بازی‌های موجود خود را به‌صورت رایگان به پلتفرم Roblox منتقل کنند. این ابزارها می‌توانند بازی‌های ساخته‌شده با هر موتور، از جمله Unity و Unreal ، را تبدیل کنند و برای استفاده در موبایل، PC و کنسول آماده می‌سازند. برای شرکت در برنامه، توسعه‌دهندگان باید کد منبع و دارایی‌های بازی را ارائه دهند؛ Roblox می‌گوید از ابزارهای مبتنی بر هوش مصنوعی برای پردازش استفاده می‌کند اما داده‌ها برای آموزش مدل‌ها استفاده نمی‌شود. تبدیل توسط Roblox انجام می‌شود و هزینه‌ای دریافت نمی‌شود، در حالی که مالکیت فکری و حقوق نسخهٔ تبدیل‌شده برای توسعه‌دهنده باقی می‌ماند. این برنامه در ابتدا به گروه محدودی از توسعه‌دهندگان اختصاص دارد و پس از تأیید، آن‌ها می‌توانند تصمیم بگیرند که بازی را در Roblox منتشر کنند یا نه.",
+    "category": "گیم",
+    "subcategory": "پلتفرم بازی",
+    "tag": "Roblox",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+    "clean_url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+    "image": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1794899220.0,
     "sent_to_telegram": true
   },
   {
@@ -6443,160 +6597,6 @@
     "clean_url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
     "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794171240.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "27623e1241",
-    "title_fa": "‏آمریکا روابط جنسن هوانگ با جاسوس چینی را بررسی می‌کند",
-    "title_en": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported...",
-    "summary": [
-      "‏کنگره ایالات متحده درخواست جلسه‌ای با جنسن هوانگ برای بررسی ارتباط او با شهروند چینی به نام آلیس هوانگ کرد.",
-      "‏این موضوع نگرانی‌های امنیت ملی درباره دسترسی چین به فناوری‌های هوش مصنوعی ایجاد کرده و ممکن است بر سهام Nvidia و سیاست‌های تجاری اثر بگذارد.",
-      "‏قانونگذاران همچنین به موافقت دولت ترامپ برای تولید چیپ‌های Nvidia در چین اشاره کردند."
-    ],
-    "body_fa": "‏کنگره ایالات متحده، از سوی دو حزب، خواستار بررسی روابط جنسن هوانگ، مدیرعامل Nvidia ، با آلیس هوانگ، شهروند چینی و مدیر اجرایی شرکت سنگین‌سرعت مستقر در سنگاپور، شد. این ارتباط پس از گزارش نیویورک تایمز که ادعا می‌کند آلیس هوانگ توسط وزارت امنیت دولتی چین جذب شده و به Nvidia دسترسی داشته، مطرح شد. سه رئیس کمیته جمهوری‌خواه مجلس یک نامه به هوانگ ارسال کردند و او را برای جلسه‌ای بسته در ۱۸ نوامبر، یک روز پس از انتشار نتایج سه‌ماهه Nvidia ، دعوت کردند. در همان زمان، سناتور دموکرات کرِس کونز، که قرار است رئیس کمیته روابط خارجی سنا شود، نیز خواستار تحقیقات گسترده‌تر شد و ادعا کرد که دولت ترامپ از این موضوع آگاه بوده. قانونگذاران نگرانی‌های امنیت ملی را درباره دسترسی چین به فناوری‌های هوش مصنوعی و چیپ‌های پیشرفته ابراز کردند و این موضوع می‌تواند تأثیر قابل‌توجهی بر ارزش سهام Nvidia و سیاست‌های تجاری ایالات متحده داشته باشد. نماینده سِث ماگازینر نیز به این موضوع پرداخته و خواستار شفاف‌سازی بیشتر شد.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "Nvidia",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
-    "clean_url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
-    "image": "https://s.yimg.com/bo/f951a519-3a87-553a-8ed2-41c933182c58_1794162053724.jpg",
-    "timestamp": 1794161149.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "9d92f5a042",
-    "title_fa": "‏روسیه زیرساخت برق اوکراین و کشتی‌های سیاه را هدف گرفت",
-    "title_en": "Russia says hit power substations in Ukraine and three ships in Black Sea",
-    "summary": [
-      "‏روسیه اعلام کرد که شب گذشته به ایستگاه‌های برق اوکراین و چند کشتی در دریای سیاه حمله کرد",
-      "‏این حملات می‌تواند مسیرهای حمل و نقل کالاهای روسیه و جهان را مختل کند و فشار بر بازارهای انرژی را افزایش دهد",
-      "‏روسیه گفت کشتی‌های هدف‌دار حامل گاز مایع و مواد غذایی بودند"
-    ],
-    "body_fa": "‏روسیه ادعا کرد که در طول شب یک‌شنبه نیروهایش به ایستگاه‌های توزیع برق اوکراین و به سه کشتی باری در دریای سیاه ضربه زد. این کشتی‌ها که حامل گاز مایع و کالاهای دیگر بودند، توسط نیروی هوایی روسیه هدف قرار گرفتند. مسئولین اوکراین اعلام کردند که خسارات به زیرساخت‌های برق می‌تواند قطعی‌های گسترده‌ای در مناطق شمالی و شرقی کشور ایجاد کند. دریای سیاه به عنوان مسیر اصلی صادرات غلات اوکراین شناخته می‌شود و هرگونه اختلال در آن می‌تواند قیمت‌های مواد غذایی جهانی را تحت فشار قرار دهد. تحلیل‌گران هشدار دادند که این اقدام می‌تواند تنش‌های نظامی را تشدید کرده و تأثیرات منفی بر بازارهای انرژی و کالا داشته باشد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "جنگ اوکراین",
-    "tag": "دریای‌سیاه",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/russia-says-hit-power-substations-ukraine-three-ships-black-sea-2026-11-08/",
-    "clean_url": "https://www.reuters.com/world/russia-says-hit-power-substations-ukraine-three-ships-black-sea-2026-11-08",
-    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1793090784742.jpg",
-    "timestamp": 1794153788.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cfd99df0e4",
-    "title_fa": "‏BC Partners برای تصاحب LIV Golf از سعودی پیش می‌رود",
-    "title_en": "BC Partners seeks control of LIV Golf from Saudi wealth fund, FT reports",
-    "summary": [
-      "‏شرکت BC Partners دوباره برای خرید کنترل LIV Golf از صندوق سرمایه‌گذاری سعودی برنامه‌ریزی می‌کند.",
-      "‏این اقدام می‌تواند ساختار مالکیت لیگ گلف جنجالی را تغییر داده و نقش سرمایه‌گذاری سعودی را در ورزش جهانی کاهش دهد.",
-      "‏مذاکرات ممکن است به میلیاردها دلار برسد و بازارهای ورزشی و مالی را تحت تأثیر قرار دهد."
-    ],
-    "body_fa": "‏LIV Golf که توسط صندوق سرمایه‌گذاری عمومی عربستان (Public Investment Fund) تأسیس شد، همواره با انتقادات سیاسی و اقتصادی مواجه بوده است. شرکت خصوصی BC Partners اخیراً تلاش‌های خود را برای ایجاد جانشینی یا خرید کنترل این لیگ از صندوق سعودی احیا کرده است. طبق گزارش Financial Times ، این معامله می‌تواند شامل ارزش‌گذاری چند میلیارد دلاری باشد و ساختار مالکیت لیگ را به‌طور اساسی تغییر دهد. اگر موفق شود، BC Partners به‌عنوان یک سرمایه‌گذار غربی نقش مهمی در مدیریت یک دارایی ورزشی با پشتوانه مالی قدرتمند سعودی خواهد داشت و ممکن است تأثیراتی بر بازارهای ورزشی و سرمایه‌گذاری‌های مرتبط داشته باشد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "سرمایه‌گذاری خصوصی",
-    "tag": "LIV Golf",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/private-equity-firm-bc-partners-seeks-take-control-liv-golf-saudi-wealth-fund-ft-2026-11-08/",
-    "clean_url": "https://www.reuters.com/legal/litigation/private-equity-firm-bc-partners-seeks-take-control-liv-golf-saudi-wealth-fund-ft-2026-11-08",
-    "image": "https://s.yimg.com/bo/de36957d-6033-5a4f-9b00-af7627d087f0_1779306434610.jpg",
-    "timestamp": 1794148309.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ce4b775ff6",
-    "title_fa": "‏نتایج میانه‌دوره عدم‌اطمینان نرخ بهره فدرال‌رزرو را افزاش داد",
-    "title_en": "Midterm results may add uncertainty to the Fed’ next rate decision — here are 5 ...",
-    "summary": [
-      "‏نتایج میانه‌دوره انتخابات آمریکا باعث شد احتمال افزایش نرخ بهره فدرال‌رزرو در دسامبر به ۷۶٫۸٪ برسد.",
-      "‏این عدم‌اطمینان بازارها را تحت فشار قرار می‌دهد و نظرات متفاوتی از مدیران سرمایه‌گذاری مانند ریک ریدر و جفری گاندلاچ را برانگیخته است.",
-      "‏قیمت نفت که تحت تأثیر تنش‌های ایران قرار دارد، می‌تواند فشار تورمی را تشدید کند."
-    ],
-    "body_fa": "‏پس از برتری دموکرات‌ها در هر دو مجلس، نتایج میانه‌دوره انتخابات آمریکا باعث شد پیش‌بینی‌ها درباره تصمیم فدرال‌رزرو برای افزایش نرخ بهره در دسامبر دچار عدم‌اطمینان شود. در جلسهٔ آخرین FOMC در ۲۸ اکتبر، فدرال‌رزرو محدودهٔ هدف ۳٫۷۵٪ تا ۴٫۰۰٪ را ثابت نگه داشت و به دلیل هزینه‌های داخلی مقاوم و فعالیت اقتصادی در حال گسترش این تصمیم را توجیه کرد. اما ابزار CME FedWatch نشان می‌دهد احتمال ۲۵ پایهٔ افزایش (۲۵ نقطهٔ پایه) در دسامبر حدود ۷۶٫۸٪ است و این رقم به سرعت در واکنش به نوسانات بازار تغییر می‌کند. تحلیل‌گران نظیر ریک ریدر از BlackRock بر حفظ نرخ فعلی تأکید می‌کنند، در حالی که جفری گاندلاچ از DoubleLine معتقد است بدون کاهش قیمت نفت، فدرال‌رزرو مجبور به افزایش خواهد شد. قیمت نفت که تحت تأثیر تنش‌های جاری در ایران است، می‌تواند فشار تورمی را تقویت کند و به نوبهٔ خود مسیر سیاست پولی را تحت تأثیر قرار دهد. این عدم‌اطمینان می‌تواند نوسان در بازارهای سهام و اوراق قرضه را تشدید کند و سرمایه‌گذاران را به سمت ابزارهای امن‌تر سوق دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ بهره",
-    "tag": "فدرال‌رزرو",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "Moneywise · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/policy/articles/midterm-results-may-add-uncertainty-135000425.html",
-    "clean_url": "https://finance.yahoo.com/economy/policy/articles/midterm-results-may-add-uncertainty-135000425.html",
-    "image": "https://media.zenfs.com/en/moneywise_ecomm_711/e6ab1a98f9b88d2e46b2f86f8679baaa.jpg",
-    "timestamp": 1794147546.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "73c8bfba66",
-    "title_fa": "‏سقوط رئیس‌جمهور پاراگوئه پس از فروپاشی بانک دیجیتال Ueno",
-    "title_en": "How a digital bank’s collapse toppled Paraguay’s president",
-    "summary": [
-      "‏بانک دیجیتال Ueno که حدود نیمی از جمعیت پاراگوئه را جذب کرده بود، به فجایع مالی منجر شد و حساب‌های مردم را از دست داد.",
-      "‏این سقوط مالی باعث اعتراضات گسترده و فشار بر رئیس‌جمهور شد که نهایتاً منجر به استعفای او گردید.",
-      "‏دولت اکنون به جبران خسارات و تقویت نظارت بر نظام بانکی می‌پردازد."
-    ],
-    "body_fa": "‏بانک دیجیتال Ueno برای سال‌ها به عنوان موفقیتی بومی شناخته می‌شد و حدود نیمی از جمعیت پاراگوئه را به خود جذب کرده بود. اما در ماه‌های اخیر، مشکلات نقدینگی و عدم توانایی در بازپرداخت سپرده‌ها باعث شد تا بانک به سرعت سقوط کند و میلیون‌ها دلار از پس‌انداز مردم از بین برود. این بحران مالی به سرعت به اعتراضات خیابانی تبدیل شد و فشارهای سیاسی بر رئیس‌جمهور ساندیگو پنا افزایش یافت. در پی این فشارها، رئیس‌جمهور در نهایت استعفا داد و مجلس به دنبال تشکیل دولت انتقالی است. دولت موقت اعلام کرده است که برنامه‌ای برای جبران خسارات متضرران و تقویت نظارت بر مؤسسات مالی ارائه خواهد داد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "بحران سیاسی",
-    "tag": "Ueno",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/how-digital-banks-collapse-toppled-paraguays-president-2026-11-08/",
-    "clean_url": "https://www.reuters.com/business/finance/how-digital-banks-collapse-toppled-paraguays-president-2026-11-08",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794142740.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "658da8ea3b",
-    "title_fa": "‏حمله پهپادی تولید گاز در میدانی کردستان را متوقف کرد",
-    "title_en": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
-    "summary": [
-      "‏یک پهپاد به میدانی گاز بزرگ Khor Mor در کردستان عراق حمله کرد و تولید را متوقف کرد.",
-      "‏این توقف می‌تواند عرضه گاز منطقه را کاهش داده و نوسان قیمت‌های انرژی را تشدید کند.",
-      "‏میدان Khor Mor یکی از بزرگ‌ترین منابع گاز در کردستان است."
-    ],
-    "body_fa": "‏در روز یکشنبه، یک پهپاد به میدانی گاز Khor Mor در منطقه کردستان عراق حمله کرد و به‌دلیل آسیب‌های وارده، تولید گاز در این میدانی که یکی از بزرگ‌ترین منابع گاز در این منطقه محسوب می‌شود، متوقف شد. دو منبع امنیتی این حمله را تأیید کردند و گفتند که عملیات به‌سرعت انجام شد. توقف تولید می‌تواند تأثیر قابل‌توجهی بر عرضه گاز داخلی کردستان داشته باشد و ممکن است فشار بر قیمت‌های انرژی در بازارهای منطقه‌ای را افزایش دهد. این میدانی که برای برنامه‌های صادرات گاز به ترکیه و دیگر کشورهای همسایه مهم است، به‌صورت موقت از کار افتاده و مقامات محلی در حال ارزیابی خسارات هستند. ادامهٔ تولید وابسته به سرعت تعمیرات و بازگشت امنیت به این منطقه خواهد بود.",
-    "category": "انرژی و کالا",
-    "subcategory": "حمله پهپادی",
-    "tag": "KhorMor",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/",
-    "clean_url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794142020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0cd6d72299",
-    "title_fa": "‏پژوهشگران علت نوسان منظم یک‌دقیقه‌ای شبکه‌های برق جهان را کشف کردند",
-    "title_en": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-    "summary": [
-      "‏در شبکه‌های برق جهان، هر 60 ثانیه یک افت کوچک فرکانس به‌صورت همزمان ثبت شد.",
-      "‏این پدیده می‌تواند به خاموشی یا آسیب به توربین‌های هیدروپاور منجر شود، لذا شناسایی علت برای پایداری شبکه حیاتی است.",
-      "‏پژوهشگران علت را به رزونانس مکانیکی توربین‌های آب‌برقی که با ساعت داخلی هماهنگ است نسبت دادند."
-    ],
-    "body_fa": "‏سال‌ها پژوهشگران شبکه‌های برق را به‌دنبال نوسانات منظم فرکانس هر 60 ثانیه در سرتاسر جهان می‌گرفتند. این افت‌های کوچک، اگر به‌درستی مدیریت نشوند، می‌توانند منجر به خاموشی‌های گسترده یا آسیب به تجهیزات، به‌ویژه توربین‌های هیدروپاور، شوند. دیرک ویت‌هائوت، پژوهشگر مرکز Forschungszentrum Jülich آلمان، به‌همراه تیمش به‌دنبال منبع این پدیده گشتند. پس از مدلسازی سیستم‌های کنترل نیروگاه‌های آب‌برقی و بررسی رزونانس مکانیکی، دریافتند که تنها شرایطی می‌تواند هر دقیقه یک بار به‌صورت دقیق رخ دهد. آنها به این نتیجه رسیدند که یک ساعت داخلی یا زمان‌ساز مشابه در عملکرد توربین‌ها نقش دارد و باعث همزمانی دقیق نوسان می‌شود. برای تأیید فرضیه، بیش از 80 متر سنج کیفیت برق هوشمند در محوطهٔ Jülich نصب شد که نشان داد رزونانس ساعت‌دار منبع اصلی نوسانات است.",
-    "category": "تکنولوژی",
-    "subcategory": "پایداری انرژی",
-    "tag": "نوسان فرکانس",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-    "clean_url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800",
-    "timestamp": 1794141000.0,
     "sent_to_telegram": true
   }
 ]
