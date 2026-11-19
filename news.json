@@ -1,5 +1,49 @@
 [
   {
+    "id": "c063243a44",
+    "title_fa": "‏کاهش ۳۰ درصدی حجم استیبل‌کوین USDS پس از خروج سرمایه سنگین",
+    "title_en": "Sky USDS stablecoin shrinks 30% as $1.5 billion exits reserves after...",
+    "summary": [
+      "‏حجم ذخایر استیبل‌کوین USDS متعلق به پروتکل Sky پس از خروج 1.5 میلیارد دلار حدود ۳۰ درصد کاهش یافت.",
+      "‏با وجود این برداشت بزرگ که توسط سرمایه‌گذار مرتبط با Poloniex انجام شد، برابری یک‌دلاری این توکن حفظ شده است.",
+      "‏این خروج سرمایه عظیم نشان‌دهنده ریسک تمرکز نقدینگی در پروتکل‌های دیفای است."
+    ],
+    "body_fa": "‏استیبل‌کوین USDS متعلق به پروتکل غیرمتمرکز Sky پس از خروج 1.5 میلیارد دلار سرمایه از ذخایر آن، با افت ۳۰ درصدی در ارزش بازار مواجه شد. این برداشت گسترده توسط یک کیف‌پول بزرگ مرتبط با صرافی Poloniex صورت گرفت که بخش عمده‌ای از دارایی‌های خود را از این پلتفرم خارج کرد. با وجود فشار فروش و خروج سنگین نقدینگی، توکن USDS توانست پگ یک‌دلاری خود را حفظ کند و دچار نوسان شدید قیمتی نشود. این رویداد بار دیگر چالش‌ها و خطرات وابستگی پروتکل‌های دیفای به نهنگ‌های بزرگ را برای فعالان بازار کریپتو برجسته کرده است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "استیبل‌کوین‌ها و دیفای",
+    "tag": "دیفای",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+    "clean_url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+    "image": "https://s.yimg.com/bo/11bfa352-ad51-5567-ae2c-6f701e90ce3f_1795118635129.jpg",
+    "timestamp": 1795117873.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a0e0667ffc",
+    "title_fa": "‏Binance حکم ۶.۵ میلیارد دلاری علیه هکرها گرفت",
+    "title_en": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest...",
+    "summary": [
+      "‏Binance موفق شد حکم فریز 6.5 میلیارد دلاری علیه هکرهای بزرگ کریپتو را بگیرد",
+      "‏این حکم نشان‌دهنده توانایی قضایی در مقابله با سرقت‌های بزرگ است و می‌تواند اعتماد بازار را تقویت کند",
+      "‏Binance اعلام کرد دارایی‌های سرقت‌شده را با سرمایه و ذخایر بیمه‌ای خود جبران کرده است"
+    ],
+    "body_fa": "‏Binance موفق شد حکم دادگاهی به ارزش 6.5 میلیارد دلار برای مسدود کردن دارایی‌های هکرهای مسئول بزرگ‌ترین سرقت در تاریخ کریپتو دریافت کند. این حکم به‌عنوان اولین اقدام قضایی در مقیاس این‌چنین برای بازگرداندن سرمایه‌های از دست رفته به حساب‌های کاربران مطرح شد. Binance اعلام کرد که تمام دارایی‌های سرقت‌شده را با استفاده از سرمایه داخلی و ذخایر بیمه‌ای خود جبران کرده و کاربران را جبران مالی می‌کند. این رویداد نشان می‌دهد که تبادل‌های بزرگ کریپتو می‌توانند با پشتوانه مالی قوی، خسارات بزرگ را پوشش دهند و ممکن است اعتماد سرمایه‌گذاران را بهبود بخشد. همچنین این حکم می‌تواند پیش‌زمینه‌ای برای اقدامات قانونی مشابه در آینده باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قضایای حقوقی",
+    "tag": "Binance",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+    "clean_url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+    "image": "https://s.yimg.com/bo/8f400055-47e1-562e-b3f7-f70a2c63596d_1794389832375.jpg",
+    "timestamp": 1795099873.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "b46c9f03a9",
     "title_fa": "‏دولت بریتانیا مزایده جدید انرژی‌های تجدیدپذیر را راه‌اندازی کرد",
     "title_en": "UK launches latest renewables auction in drive to decarbonise",
@@ -41,6 +85,72 @@
     "clean_url": "https://www.reuters.com/markets/europe/hungary-end-orban-era-35-year-motorway-concession-contract-2026-11-19",
     "image": "https://s.yimg.com/bo/ad604256-79b6-59d1-970b-f8045699cf12_1794641744761.jpg",
     "timestamp": 1795096991.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3dcaf5c2c8",
+    "title_fa": "‏Anthropic سهام توکنی‌اش را در OKX ۲۴٪ بالاتر عرضه کرد",
+    "title_en": "Anthropic’s IPO brings tokenized shares and a new test for crypto traders on OKX",
+    "summary": [
+      "‏تجارت‌گران کریپتو در OKX ، سهام توکنی‌سازی‌شده Anthropic را ۲۴٪ بالاتر از ارزش‌گذاری بانک‌داران قیمت‌گذاری کردند.",
+      "‏این اولین عرضه عمومی توکنی‌سازی‌شده برای یک شرکت هوش مصنوعی بزرگ است که می‌تواند تعامل بین بازارهای سنتی و رمزارزها را عمیق‌تر کند.",
+      "‏OKX به خریداران امکان خرید و فروش این توکن‌ها را در طول ۱۰ روز عرضه داد."
+    ],
+    "body_fa": "‏شرکت هوش مصنوعی Anthropic در عرضه عمومی خود، برای اولین بار سهام توکنی‌سازی‌شده‌اش را از طریق صرافی OKX به فروش گذاشت. در طول ده روز معاملاتی، تجارت‌گران رمزارزی این توکن‌ها را ۲۴ درصد بالاتر از قیمت‌گذاری که بانک‌داران سرمایه‌گذاری ارائه کرده بودند، ارزیابی کردند. این اختلاف قیمت نشان می‌دهد تقاضای قوی بازار کریپتو برای دسترسی به سهام شرکت‌های فناوری پیشرو وجود دارد. توکنی‌سازی سهام امکان معامله ۲۴/۷، نقدشوندگی بالاتر و دسترسی به سرمایه‌گذاران جهانی را فراهم می‌کند. با این حرکت، OKX به عنوان یکی از پیشگامان ترکیب دارایی‌های سنتی و دیجیتال شناخته می‌شود و ممکن است سایر صرافی‌ها را به دنبال کردن این مدل ترغیب کند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "توکنی‌سازی سهام",
+    "tag": "توکنی‌سازی",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
+    "image": "https://s.yimg.com/bo/548909e3-5719-57d4-9c66-280f8ac64e80_1795095102031.jpg",
+    "timestamp": 1795092673.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6ff23dcc07",
+    "title_fa": "‏هکرها داده‌های مشتریان Visa ، Mastercard و JPMorgan را فاش کردند",
+    "title_en": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "summary": [
+      "‏هکرها داده‌های هزاران مشتری Visa ، Mastercard و JPMorgan را به‌دست آوردند.",
+      "‏این نشت اطلاعات امنیتی است اما خدمات پرداخت را مختل نکرده و ارتباطی با مشکلات بانکی اخیر ندارد.",
+      "‏ممکن است نگرانی‌های مصرف‌کنندگان و نظارت‌گران را افزایش دهد."
+    ],
+    "body_fa": "‏هکرها موفق شدند داده‌های شخصی هزاران مشتری سه شرکت بزرگ مالی شامل Visa ، Mastercard و JPMorgan را استخراج کنند. این اطلاعات شامل نام، شماره کارت و جزئیات تراکنش‌های اخیر بوده است. با این حال، شرکت‌ها اعلام کردند که خدمات پرداخت تحت تاثیر قرار نگرفته و عملیات روزانه ادامه دارد. این نشت به مشکلات بانکی که در اوایل هفته گزارش شده بود ارتباطی ندارد. کارشناسان امنیتی هشدار دادند که این نوع حملات می‌تواند منجر به افزایش تقاضا برای ابزارهای محافظتی و نظارت‌های سختگیرانه‌تر شود. در پی این حادثه، ممکن است نظارت‌گران مالی فشار بیشتری برای بهبود استانداردهای امنیتی اعمال کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "حملات سایبری",
+    "tag": "نشت",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+    "clean_url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795090260.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "98ca643d41",
+    "title_fa": "‏وزارت تجارت آمریکا ۸۷۹٬۰۰۰ چیپ هوش مصنوعی به چین صادر کرد",
+    "title_en": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+    "summary": [
+      "‏وزارت تجارت آمریکا بیش از ۸۷۹٬۰۰۰ چیپ هوش مصنوعی به شرکت‌های چینی از جمله Alibaba و Tencent اجازه فروش داد.",
+      "‏این تصمیم نگرانی‌ها درباره امنیت ملی و برتری فناوری آمریکا را تشدید می‌کند و فشار بر قوانین صادرات را افزایش می‌دهد.",
+      "‏برخی فروش‌ها به شرکت‌های نظامی چین نیز شامل می‌شد که توسط وزارت دفاع شناسایی شده‌اند."
+    ],
+    "body_fa": "‏آژانس زیرمجموعه وزارت تجارت آمریکا که مسئول نظارت بر صادرات است، فروش بیش از ۸۷۹٬۰۰۰ چیپ هوش مصنوعی به شرکت‌های چینی از جمله Alibaba و Tencent را تا مه ۲۰۲۶ تأیید کرد. این مجوزها توسط دفتر صنعت و امنیت (BIS) صادر شد و شامل تراکنش‌هایی بود که برخی از آن‌ها به شرکت‌های شناخته‌شده به عنوان «شرکت‌های نظامی چین» توسط وزارت دفاع تعلق داشت. طبق اسناد منتشر شده توسط کمیته امور خارجه مجلس، از دسامبر تا مه درخواست‌های فروش ۳٫۴ میلیون چیپ AI از سوی Nvidia و AMD به چین ثبت شده بود. نماینده گرگوری میکس، رئیس دموکرات کمیته امور خارجه مجلس، گفت این رویکرد دولت در کنترل صادرات خطر امنیت ملی و برتری فناوری آمریکا را به خطر انداخته و نظارت شدیدتر را طلب کرد. او افزود اسناد منتشر شده نشان می‌دهد برخی درخواست‌ها به شرکت‌های مشکوک به قاچاق مانند Maginfra و New Matrix تعلق داشته‌اند. این افشاگری پس از استعفای جنسن هوانگ، بنیان‌گذار Nvidia ، به دلیل روابط مشکوک با جاسوس چینی صورت گرفت و فشار برای تصویب قوانین سخت‌گیرانه‌تر صادرات چیپ‌های پیشرفته به چین در کنگره را افزایش داده است.",
+    "category": "تکنولوژی",
+    "subcategory": "صادرات چیپ‌های هوش مصنوعی",
+    "tag": "چیپ‌AI",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+    "clean_url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
+    "timestamp": 1795089240.0,
     "sent_to_telegram": true
   },
   {
@@ -88,6 +198,72 @@
     "sent_to_telegram": true
   },
   {
+    "id": "9d3bec8c00",
+    "title_fa": "‏مالک Kraken شرکت سرمایه‌گذاری Tribe Capital را خرید",
+    "title_en": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
+    "summary": [
+      "‏شرکت Payward ، مالک صرافی رمزارز Kraken ، شرکت مدیریت دارایی Tribe Capital با 2.7 میلیارد دلار سرمایه را تصاحب کرد.",
+      "‏این اقدام نشان‌دهنده تغییر جهت صرافی‌ها از تمرکز بر درآمد معاملات به سمت ساخت زیرساخت‌های مالی و سرمایه‌گذاری سنتی است.",
+      "‏هدف اصلی این معامله ادغام خدمات توکنیزه‌سازی و نگهداری دارایی‌ها برای توسعه محصولات بازارهای خصوصی عنوان شده است."
+    ],
+    "body_fa": "‏شرکت Payward ، مالک صرافی بزرگ Kraken ، با خرید شرکت مدیریت دارایی و سرمایه‌گذاری خطرپذیر Tribe Capital گام جدیدی در مسیر گسترش خدمات خود برداشت. دارایی‌های تحت مدیریت Tribe Capital بالغ بر 2.7 میلیارد دلار برآورد می‌شود و هدایت آن را Arjun Sethi بر عهده دارد که هم‌زمان یکی از مدیران عامل Payward نیز به شمار می‌رود. برخلاف بازوهای سرمایه‌گذاری معمولی صرافی‌ها مانند Coinbase Ventures یا Binance Labs ، هدف Payward ادغام ظرفیت‌های این صندوق با زیرساخت‌های توکنیزه‌سازی و نگهداری دارایی‌ها برای ورود به بازارهای خصوصی است. این معامله نشان‌دهنده تکامل الگوی کسب‌وکار صرافی‌های رمزارز و کاهش وابستگی آن‌ها به کارمزد نوسانات بازار در دوره‌های رکود است. با اجرای این برنامه، صرافی‌ها تلاش دارند تا نقش یک پل زیرساختی میان امور مالی سنتی و دارایی‌های دیجیتال را ایفا کنند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ادغام و تملک",
+    "tag": "Kraken",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
+    "clean_url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108361251-1789053511534-gettyimages-2290360646-TSCHNEIDER_69387_Payward_P8731285.jpeg?v=1789053537&w=1920&h=1080",
+    "timestamp": 1795086360.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "66db2264ca",
+    "title_fa": "‏مقامات فدرال آمریکا گسترش LNG سابین‌پاس چنیره را تأیید کردند",
+    "title_en": "US federal regulators approve Cheniere's Sabine Pass expansion project",
+    "summary": [
+      "‏مقامات فدرال آمریکا درخواست چنیره انرژی برای افزودن 20 میلیون تن LNG سالانه به کارخانه سابین‌پاس در لوئیزیانا را تصویب کردند",
+      "‏این گسترش ظرفیت می‌تواند عرضه گاز مایع آمریکا را افزایش داده و بر بازارهای جهانی، به‌ویژه اروپا، تأثیر بگذارد",
+      "‏پروژه انتظار می‌رود تا سال 2029 به بهره‌برداری برسد"
+    ],
+    "body_fa": "‏مقامات فدرال ایالات متحده درخواست چنیره انرژی برای گسترش کارخانه مایع‌سازی گاز طبیعی (LNG) سابین‌پاس در لوئیزیانا را تأیید کردند. این گسترش به اضافه‌کردن 20 میلیون تن متریک در سال به ظرفیت خروجی این واحد می‌انجامد. با این افزایش، توان خروجی کل LNG آمریکا به حدود 100 میلیون تن در سال نزدیک می‌شود. افزایش عرضه گاز مایع می‌تواند نقش آمریکا را در تأمین انرژی اروپا، به‌ویژه پس از کاهش گاز روسیه، تقویت کند. تحلیل‌گران پیش‌بینی می‌کنند این پروژه تا سال 2029 به بهره‌برداری برسد و سرمایه‌گذاری چند میلیارد دلاری جذب کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "صنعت گاز",
+    "tag": "LNG",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/federal-regulators-approve-chenieres-sabine-pass-expansion-project-2026-11-19/",
+    "clean_url": "https://www.reuters.com/legal/litigation/federal-regulators-approve-chenieres-sabine-pass-expansion-project-2026-11-19",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795085700.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2ac361507f",
+    "title_fa": "‏برنامه‌های عرضه ETF درآمدی برای Solana و XRP لغو شد",
+    "title_en": "Solana and XRP income ETFs shelved as rival funds attract just $12 million",
+    "summary": [
+      "‏شرکت Roundhill برنامه‌های خود برای راه‌اندازی دو صندوق درآمدزا مبتنی بر SOL و XRP را پس گرفت.",
+      "‏صندوق‌های مشابه رقیب تنها توانسته‌اند حدود 12 میلیون دلار سرمایه جذب کنند که نشان‌دهنده تقاضای بسیار ضعیف بازار است.",
+      "‏این تصمیم تردیدها درباره جذابیت محصولات درآمدی بر پایه آلت‌کوین‌ها را افزایش داده است."
+    ],
+    "body_fa": "‏شرکت مدیریت دارایی Roundhill برنامه‌های خود برای عرضه دو صندوق قابل معامله درآمدزا بر پایه ارزهای دیجیتال SOL و XRP را لغو کرده است. این تصمیم در شرایطی گرفته شده که صندوق‌های مشابه شرکت‌های رقیب در مجموع تنها موفق به جذب 12 میلیون دلار سرمایه شده‌اند. این استقبال سرد سرمایه‌گذاران نشان می‌دهد که تقاضا برای محصولات مشتقه و استراتژی‌های درآمدی روی آلت‌کوین‌ها بسیار کمتر از حد انتظار است. در حالی که صندوق‌های نقدی اصلی بازار توجه زیادی جلب کرده‌اند، ابزارهای مالی پیچیده‌تر با ریسک بالا نتوانسته‌اند جایگاه مناسبی در میان معامله‌گران نهادی پیدا کنند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "صندوق‌های ETF کریپتو",
+    "tag": "ETF",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+    "image": "https://s.yimg.com/bo/dfe5bc19-64d0-5a5f-9d76-1ef2be597eb2_1795086001329.jpg",
+    "timestamp": 1795085473.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "3d77a55ecd",
     "title_fa": "‏کامپیوترهای کوانتومی می‌توانند رمزنگاری مالی را در پنج سال بشکنند",
     "title_en": "‘Highly advanced’ quantum computers could crack financial encryption in five yea...",
@@ -107,6 +283,72 @@
     "clean_url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
     "image": "https://s.yimg.com/bo/9ae5d5fd-9e12-5285-9db8-c918d9c557b8_1795086577990.jpg",
     "timestamp": 1795084872.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a09b23533b",
+    "title_fa": "‏سهام AMD پس از گزارش فروش کوتاه‌فروش 11 ٪ سقوط کرد",
+    "title_en": "AMD stock plunges after short-seller says the chip maker has its own China problems",
+    "summary": [
+      "‏سهام AMD تا 11 ٪ کاهش یافت پس از آن‌که فروش کوتاه‌فروش Hunterbrook ادعای روابط با شرکت چینی IEIT Systems را مطرح کرد",
+      "‏این ادعاها نگرانی‌های جدیدی دربارهٔ ریسک تحریم‌های صادراتی آمریکا به چین و رشد AI برای AMD ایجاد کرد",
+      "‏AMD رد این ادعاها را اعلام کرد و تأکید کرد که قوانین صادراتی آمریکا را رعایت می‌کند"
+    ],
+    "body_fa": "‏در روز پنجشنبه، سهام AMD پس از انتشار گزارش فروش کوتاه‌فروش Hunterbrook که شرکت را به داشتن کدهای داخلی در به‌روزرسانی نرم‌افزاری یک شرکت چینی تحریم‌شده (IEIT Systems) متهم کرد، تا 11 ٪ سقوط کرد. گزارش می‌گوید فایل به‌روزرسانی 19 اکتبر 2026 شامل کدهای firmware نوشته شده توسط AMD بوده و این شرکت نیز با Aivres ، یکی از بخش‌های شبکه تجاری چین Nvidia ، ارتباط دارد. این خبر در حالی منتشر شد که مدیرعامل Nvidia ، Jensen Huang ، به دلیل رسوایی‌های شخصی و روابط مشکوک با چین استعفا داده بود و سایر فروش کوتاه‌فروش‌ها نیز به ریسک‌های مشابه اشاره کرده‌اند. هر دو شرکت AMD و Nvidia با تهدید محدودیت‌های صادراتی سخت‌گیرانه‌ای که ممکن است از ژانویه اجرا شود، مواجه‌اند. AMD در بیانیه‌ای به Business Insider گفت که این ادعاها نادرست هستند و شرکت تمام قوانین صادراتی آمریکا را رعایت می‌کند. این سقوط سهام نشان می‌دهد که نگرانی‌های مرتبط با چین می‌تواند به سرعت بر ارزش بازار شرکت‌های فناوری آمریکایی تأثیر بگذارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "AMD",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Insider",
+    "url": "https://www.businessinsider.com/amd-stock-short-seller-hunterbrook-china-nvda-2026-11",
+    "clean_url": "https://www.businessinsider.com/amd-stock-short-seller-hunterbrook-china-nvda-2026-11",
+    "image": "https://i.insider.com/6aff25e073f126f9eccb85ad?width=1200&format=jpeg",
+    "timestamp": 1795081920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8e43c2c7d1",
+    "title_fa": "‏دقیقه‌های فدرال‌رزرو حمایت از افزایش نرخ بهره را نشان داد",
+    "title_en": "Fed minutes show broad support for more rate hikes",
+    "summary": [
+      "‏دقیقه‌های جلسه اکتبر فدرال‌رزرو نشان دادند تقریباً تمام سیاست‌گذاران افزایش نرخ بهره را مناسب می‌دانند.",
+      "‏این سیگنال می‌تواند فشار بر بازارهای مالی و ارزها ایجاد کند و احتمال ادامه سیاست سختگیرانه را تقویت کند.",
+      "‏بازارهای سهام ممکن است به‌سرعت واکنش نشان دهند."
+    ],
+    "body_fa": "‏دقیقه‌های جلسه اکتبر فدرال‌رزرو منتشر شد و نشان داد تقریباً تمام اعضای کمیته سیاست‌گذاری پولی بر این باورند که افزایش‌های بیشتری در نرخ بهره لازم است. این دیدگاه گسترده نشان می‌دهد که فدرال‌رزرو هنوز تمایلی به کاهش نرخ بهره در کوتاه‌مدت ندارد. چنین سیگنالی می‌تواند باعث افزایش نوسان در بازارهای سهام، اوراق قرضه و ارزهای اصلی شود. سرمایه‌گذاران ممکن است به‌دنبال کاهش قیمت اوراق قرضه و تقویت دلار آمریکا باشند. در صورت ادامه این روند، فشار بر اقتصادهای نوظهور و هزینه‌های استقراض جهانی افزایش می‌یابد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "نرخ بهره",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/19/interest-rates-ai-fed-october",
+    "clean_url": "https://www.axios.com/2026/11/19/interest-rates-ai-fed-october",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795079640.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bdea04f0ab",
+    "title_fa": "‏بانک JPMorgan حمله سایبری را تأیید کرد؛ داده‌ها فاش شد",
+    "title_en": "JPMorgan Chase reveals data breach, but says it’s unrelated to this week’s banking outage",
+    "summary": [
+      "‏بانک JPMorgan اعلام کرد حمله سایبری به فروشندگان ثالث، نام و ایمیل حدود ۱۶٬۰۰۰ مشتری فاش شد.",
+      "‏این نفوذ به داده‌های بازاریابی محدود است، کارت‌های پرداخت تحت تأثیر نیستند؛ اما می‌تواند به نگرانی‌های امنیتی و نظارتی منجر شود.",
+      "‏همچنین Visa و Mastercard گزارش دادند فروشندگان ثالثشان هدف حمله بوده و ایمیل‌های محدود مشتریان ویژه فاش شد."
+    ],
+    "body_fa": "‏بانک JPMorgan اعلام کرد که فروشندگان ثالثی که خدمات به این بانک ارائه می‌دهند، مورد حمله سایبری قرار گرفته‌اند. بر اساس اطلاعات به دست آمده، هکرها به داده‌های بازاریابی شامل نام و آدرس ایمیل حدود ۱۶٬۰۰۰ مشتری دست یافته‌اند. بانک تأکید کرد هیچ‌گونه اختلالی در خدمات بانکی رخ نداده و داده‌های پرداختی مانند شماره کارت تحت تأثیر نیستند. در همین حین، Visa و Mastercard نیز اعلام کردند که فروشندگان ثالث خود هدف مشابهی بوده و ایمیل‌های محدود مشتریان ویژه این کارت‌ها فاش شده است. شرکت‌ها قول داده‌اند به مشتریان متاثر اطلاع‌رسانی کنند و خدمات نظارت رایگان بر اعتبار را ارائه دهند. این رخداد نگرانی‌های امنیتی را در میان مصرف‌کنندگان و ناظران مالی برانگیخته و ممکن است منجر به بررسی‌های نظارتی بیشتر شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "نقض داده‌های بانکی",
+    "tag": "JPMorgan",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+    "clean_url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305014881.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "timestamp": 1795075980.0,
     "sent_to_telegram": true
   },
   {
@@ -217,6 +459,28 @@
     "clean_url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
     "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795062000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "fba5d97d8f",
+    "title_fa": "‏قیمت طلا به پایین‌ترین سطح ۱۴ ماهه رسید",
+    "title_en": "Gold and silver prices crash: Gold hits 14-month low as strong US dollar and rate hike fears weigh on market",
+    "summary": [
+      "‏قیمت طلا و نقره روز چهارشنبه حدود ۳٪ سقوط کرد و به کم‌ترین سطح ۱۴ ماهه رسید",
+      "‏دلیل این افت، تقویت دلار آمریکا و نگرانی از افزایش نرخ بهره است",
+      "‏سرمایه‌گذاران به دنبال دارایی‌های امن دیگر مانند ارزهای دیجیتال می‌روند"
+    ],
+    "body_fa": "‏روز چهارشنبه قیمت طلا و نقره به‌سرعت سقوط کرد و تقریباً ۳٪ کاهش یافت. این کاهش باعث شد طلا به پایین‌ترین سطح خود در ۱۴ ماه گذشته برسد. عوامل اصلی این افت، تقویت قابل‌توجه دلار آمریکا و افزایش بازده اوراق قرضه خزانه‌داری بود. رشد نرخ بهره در ایالات متحده و نگرانی‌های بازار از ادامه این روند، فشار بیشتری بر فلزات گرانبها وارد کرد. سرمایه‌گذاران به دنبال جایگزین‌های امن‌تری مانند ارزهای دیجیتال یا ارزهای دیگر می‌گردند. ادامه این روند می‌تواند تأثیر قابل‌توجهی بر سبدهای سرمایه‌گذاری و سیاست‌های تجاری کشورهای وابسته به طلا داشته باشد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Newspoint",
+    "url": "https://www.msn.com/en-in/news/other/gold-and-silver-prices-crash-gold-hits-14-month-low-as-strong-us-dollar-and-rate-hike-fears-weigh-on-market/ar-AA2hKmUM",
+    "clean_url": "https://www.msn.com/en-in/news/other/gold-and-silver-prices-crash-gold-hits-14-month-low-as-strong-us-dollar-and-rate-hike-fears-weigh-on-market/ar-AA2hKmUM",
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hJV3p.img?w=640&h=360&m=4&q=100",
+    "timestamp": 1795059000.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,270 +6597,6 @@
     "clean_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
     "timestamp": 1794316020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "97947e36ec",
-    "title_fa": "‏بیت‌کوین از سهام جدا شد؛ خروج ETF ها و فروش MARA",
-    "title_en": "Bitcoin breaks with stocks as ETF outflows mount, MARA sells some BTC: Crypto...",
-    "summary": [
-      "‏قیمت بیت‌کوین امروز نسبت به شاخص‌های سهام خلاف جهت حرکت کرد و خروج‌های ETF ها افزایش یافت.",
-      "‏این روند نشان‌دهنده فشار فروش در بازار کریپتو و کاهش جذابیت صندوق‌های ETF است.",
-      "‏شرکت Marathon Digital (MARA) نیز اعلام کرد بخشی از بیت‌کوین‌های خود را به‌صورت نقدی فروخت."
-    ],
-    "body_fa": "‏در روز 10 نوامبر 2026 ، بیت‌کوین نسبت به شاخص‌های سهام حرکت مخالفی نشان داد. خروج‌های سرمایه‌گذاران از صندوق‌های بیت‌کوین ETF به‌ویژه در ایالات متحده به‌سختی افزایش یافت و حجم خالص خروج‌ها به حدود 2 میلیارد دلار رسید. این خروج‌ها فشار فروش بر قیمت بیت‌کوین ایجاد کرده و باعث شد که ارز دیجیتال از روند صعودی قبلی جدا شود. در همین زمان، Marathon Digital Holdings (MARA) که بزرگ‌ترین ماینرهای بیت‌کوین در آمریکا است، اعلام کرد بخشی از ذخیره بیت‌کوین خود را به‌صورت نقدی فروخته تا تعادل مالی خود را حفظ کند. فروش MARA شامل حدود 5,000 بیت‌کوین بود که ارزش آن در زمان فروش حدود 1.2 میلیارد دلار تخمین زده شد. تحلیل‌گران پیش‌بینی می‌کنند ادامه خروج‌های ETF و فروش‌های مشابه می‌تواند نوسانات بیشتری در بازار کریپتو ایجاد کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "بازار بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-    "clean_url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-    "image": "https://s.yimg.com/bo/b06bc188-d0ea-55aa-a210-313f2f4115ba_1794313889207.png.cf.jpg",
-    "timestamp": 1794314247.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "937bd2c336",
-    "title_fa": "‏سهم‌های GE Vernova پس از نوشتن ۳٫۷ میلیارد SoftBank سقوط کرد",
-    "title_en": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
-    "summary": [
-      "‏سهم‌های GE Vernova پس از نوشتن ۳٫۷ میلیارد دلار توسط SoftBank سقوط کردند",
-      "‏این سقوط همزمان با افزایش انتظارات رفع نرخ بهره فدرال رزرو پس از CPI گرم شد",
-      "‏بازده اوراق ۱۰‑ساله به ۵٪ برگشت و نوسان بازارها تشدید شد"
-    ],
-    "body_fa": "‏بازارهای سهام روز سه‌شنبه به‌طور گسترده‌ای افت کردند و سودهای دو روز گذشته S&P 500 و Nasdaq را تا بیش از ۲٪ کاهش دادند. داده‌های CPI ماه اکتبر که ۰٫۴٪ بالاتر از انتظار بود، باعث شد انتظارات رفع نرخ بهره فدرال رزرو در جلسه دسامبر به‌طور کامل به ۲۵ پایه‌نقطه افزایش یابد و احتمال ۵۰ پایه‌نقطه را به ۱۲٪ برساند. در همین حین، سهام GE Vernova پس از آنکه SoftBank نوشتن ۳٫۷ میلیارد دلاری مرتبط با استراتژی تجهیزات قدرت برای دیتاسنترهای هوش مصنوعی در ایالت اوهایو اعلام کرد، به‌سختی کاهش یافت. این پروژه که GE Vernova به‌عنوان تأمین‌کننده توربین‌های گاز طبیعی در آن حضور دارد، تحت بازنگری قراردادی قرار گرفته؛ اگرچه SoftBank ادعا کرد که گزارش‌های مربوط به عدم تحویل توربین‌ها نادرست است. در مجموع، ترکیب فشارهای تورمی و نگرانی‌های مربوط به زنجیره تأمین انرژی برای دیتاسنترها، بازار را در وضعیت نوسانی نگه داشته است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "GE Vernova",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-    "clean_url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/107421610-1717016762050-gettyimages-1663554533-_iss2062_2m4dmgj1.jpeg?v=1762446900&w=1920&h=1080",
-    "timestamp": 1794312120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ee3bb9548b",
-    "title_fa": "‏Anthropic برای IPO 41.5 میلیون دلار هزینه حقوقی برنامه‌ریزی کرد",
-    "title_en": "Anthropic has budgeted $41.5 million in legal fees for its IPO",
-    "summary": [
-      "‏Anthropic برای عرضه عمومی خود 41.5 میلیون دلار هزینه حقوقی در نظر گرفت.",
-      "‏این مبلغ، چند برابر متوسط هزینه‌های قانونی شرکت‌های بزرگ است و نشان‌دهنده پیچیدگی‌های IPO های امروزی است.",
-      "‏SpaceX پیش از آن 25.5 میلیون دلار هزینه حقوقی بود که رکورد قبلی را شکست."
-    ],
-    "body_fa": "‏شرکت هوش مصنوعی Anthropic در پرونده S‑1 خود اعلام کرد که برای عرضه عمومی 41.5 میلیون دلار هزینه حقوقی در نظر گرفته است. این رقم، حدود ده برابر متوسط هزینه‌های قانونی شرکت‌های بزرگ (۴.۹ میلیون دلار) است و نشان می‌دهد که شرکت‌های فناوری بزرگ‌تر و پیچیده‌تر به‌سرعت هزینه‌های حقوقی بالاتری می‌پردازند. برای مقایسه، SpaceX در IPO خود ۲۵.۵ میلیون دلار هزینه حقوقی بود که پیش‌تر رکورد را در این زمینه داشت. وکیل‌های خارجی همچون Wilson Sonsini ، Freshfields و Cravath نقش مهمی در این فرآیند ایفا می‌کنند و هزینه‌های آن‌ها بخش عمده‌ای از بودجه را تشکیل می‌دهد. Anthropic همچنین تیم حقوقی داخلی خود را بازسازی کرده؛ الینا لایت به عنوان مشاور حقوقی ارشد منصوب شد و جفری بلیچ به نقش نماینده ویژه بین‌المللی منتقل شد.",
-    "category": "تکنولوژی",
-    "subcategory": "بازار سرمایه",
-    "tag": "هزینه_قانونی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/anthropic-41-million-ipo-legal-fees-wilson-sonsini-2026-11",
-    "clean_url": "https://www.businessinsider.com/anthropic-41-million-ipo-legal-fees-wilson-sonsini-2026-11",
-    "image": "https://i.insider.com/6a8ddef179f11f0a89f908a0?width=1200&format=jpeg",
-    "timestamp": 1794307020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "364edc9609",
-    "title_fa": "‏بنیان‌گذاران Anthropic سهام ۱۸ میلیارد دلاری را در IPO حفظ کردند",
-    "title_en": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
-    "summary": [
-      "‏هفت بنیان‌گذاران Anthropic سهام ۱۸ میلیارد دلاری خود را با قیمت IPO دارند",
-      "‏هر کدام حدود ۲۵۰ میلیون دلار سهام می‌فروشند اما کنترل رأی‌گیری را حفظ می‌کنند",
-      "‏این اقدام نشان‌دهنده اعتماد بنیان‌گذاران به آینده شرکت است"
-    ],
-    "body_fa": "‏شرکت هوش مصنوعی Anthropic در عرضه اولیه عمومی (IPO) ارزش‌گذاری شد که هر یک از هفت بنیان‌گذار آن سهام با ارزش ۱۸ میلیارد دلار دارند. بر اساس مدارک ثبت‌شده، هر بنیان‌گذار قصد دارد حدود ۲۵۰ میلیون دلار از سهام خود را به فروش برساند. با این فروش، آنها همچنان کنترل رأی‌گیری کامل شرکت را حفظ می‌کنند. این ساختار مالکیتی نشان می‌دهد که بنیان‌گذاران به آینده Anthropic و توانایی‌های فناوری‌اش اطمینان دارند. ارزش‌گذاری بالا و حفظ کنترل توسط بنیان‌گذاران می‌تواند جذابیت سرمایه‌گذاران را در بازارهای فناوری افزایش دهد. همچنین این معامله می‌تواند تأثیر قابل‌توجهی بر روند سرمایه‌گذاری در حوزه هوش مصنوعی داشته باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "عرضه اولیه",
-    "tag": "Anthropic",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365",
-    "clean_url": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794304500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1113d4e7c3",
-    "title_fa": "‏تورم آمریکا در اکتبر ۰.۴٪ شد، بیش از پیش‌بینی",
-    "title_en": "Here's the inflation breakdown for October 2026 — in one chart",
-    "summary": [
-      "‏شاخص قیمت مصرف‌کننده آمریکا در اکتبر ۰.۴٪ افزایش یافت، در مقابل پیش‌بینی ۰.۳٪.",
-      "‏این رقم نشان‌دهنده فشار تورمی ادامه‌دار است و احتمال افزایش نرخ بهره فدرال رزرو در دسامبر را بالا می‌برد.",
-      "‏بخش مسکن بزرگ‌ترین عامل افزایشی این دوره بود."
-    ],
-    "body_fa": "‏آمارهای جدید دفتر آمار کار ایالات متحده نشان دادند که شاخص قیمت مصرف‌کننده (CPI) در اکتبر ۲۰۲۶، پس از تنظیم فصلی، ۰.۴٪ نسبت به ماه قبل افزایش یافت؛ این رقم کمتر از ۰.۶٪ ماه سپتامبر اما بالاتر از پیش‌بینی اقتصاددانان (۰.۳٪) است. شاخص هسته‌ای که خوراک و انرژی را حذف می‌کند، نیز ۰.۳٪ ثابت ماند. بزرگ‌ترین سهم این افزایش به بخش مسکن اختصاص داشت که به‌عنوان بزرگ‌ترین مؤلفه CPI شناخته می‌شود. فدرال رزرو که برای تنظیم سیاست‌های نرخ بهره به داده‌های تورمی وابسته است، در جلسه اکتبر نرخ‌ها را ثابت نگه داشت اما این گزارش احتمالاً فشار برای افزایش نرخ در دسامبر را تقویت می‌کند. در گزارش سالانهٔ تورم به دلیل تعطیلی طولانی‌مدت دولت فدرال که از اول اکتبر تا نوامبر ۲۰۲۵ ادامه داشت، عدد سالانه ارائه نشد. تحلیل‌گران اشاره کردند که جنگ در ایران یکی از عوامل اصلی فشارهای تورمی اخیر بوده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "شاخص قیمت مصرف‌کننده",
-    "tag": "CPI",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-    "clean_url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108547573-1794323743207-gettyimages-2296482419-_dsc4014.jpeg?v=1794323781&w=1920&h=1080",
-    "timestamp": 1794298680.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e696216539",
-    "title_fa": "‏درآمد سه‌ماهه Canaan ۹۰٪ سقوط کرد",
-    "title_en": "Canaan's Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
-    "summary": [
-      "‏درآمد سه‌ماهه Canaan به ۱۴٫۵ میلیون دلار کاهش یافت",
-      "‏این کاهش ۹۰٪ به دلیل فروکش فروش سخت‌افزار استخراج بیت‌کوین است",
-      "‏سود عملیاتی شرکت به ۴۲٫۹ میلیون دلار افزایش یافت"
-    ],
-    "body_fa": "‏Canaan گزارش داد که درآمد کل سه‌ماههٔ ۲۰۲۶ به ۱۴٫۵ میلیون دلار رسید که نسبت به سال قبل ۹۰٪ کاهش دارد. درآمد حاصل از فروش تجهیزات استخراج تنها ۴٫۸ میلیون دلار بوده و نسبت به سه‌ماههٔ مشابه سال ۲۰۲۵ ۹۶٪ کاهش یافته است. به‌همین دلیل، زیان عملیاتی شرکت به ۴۲٫۹ میلیون دلار گسترش یافت، در حالی که سال قبل ۲۳٫۹ میلیون دلار بود. این افت شدید نشان‌دهندهٔ کاهش تقاضا برای سخت‌افزار استخراج بیت‌کوین در بازار جهانی است و می‌تواند بر توان هش شبکه و برنامه‌های سرمایه‌گذاری ماینرها تأثیر بگذارد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "سخت‌افزار استخراج",
-    "tag": "Canaan",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
-    "clean_url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794297360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cd6684e0e3",
-    "title_fa": "‏Anthropic هدف 1.3 تریلیون دلار برای IPO را دارد",
-    "title_en": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-    "summary": [
-      "‏شرکت Anthropic قصد دارد با عرضه عمومی اولیه (IPO) به ارزش 1.3 تریلیون دلار برسد.",
-      "‏این IPO به عنوان آزمون حساسیت سرمایه‌گذاران نسبت به تجارت هوش مصنوعی شناخته می‌شود.",
-      "‏اگر موفق شود، Anthropic به بزرگ‌ترین شرکت‌های AI پس از OpenAI تبدیل می‌شود."
-    ],
-    "body_fa": "‏شرکت Anthropic ، سازنده مدل زبانی Claude ، اعلام کرد که در عرضه عمومی اولیه خود به ارزش 1.3 تریلیون دلار می‌رسد. این هدف ارزش‌گذاری، بزرگ‌ترین ارزیابی برای یک شرکت هوش مصنوعی پس از OpenAI است و نشانگر اعتماد بازار به فناوری‌های مولد می‌باشد. سرمایه‌گذاران به‌دلیل نوسانات اخیر در بخش AI و نگرانی‌های مربوط به مقررات، با احتیاط به این IPO نگاه می‌کنند. موفقیت این عرضه می‌تواند سیگنال قوی برای جذب سرمایه‌های بزرگ به سایر استارتاپ‌های هوش مصنوعی باشد. در صورت عدم موفقیت، ممکن است فشار بر قیمت سهام شرکت‌های مشابه افزایش یابد. به‌همین دلیل، این IPO به عنوان معیاری برای سنجش تمایل سرمایه‌گذاران به ریسک در حوزه هوش مصنوعی شناخته می‌شود.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669",
-    "clean_url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794296400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5f2eaad6a1",
-    "title_fa": "‏ایالات متحده به Best Oasis اجازه فروش کشتی‌های تحریمی می‌دهد",
-    "title_en": "US opens new route to dispose of sanctioned ships as African-flagged tankers feature in Iran's shadow fleet",
-    "summary": [
-      "‏US به شرکت دبی‑مستقر Best Oasis اجازه داد تا در فروش یا خرد کردن کشتی‌های تحت تحریم آمریکا مذاکره کند",
-      "‏این گام بخشی از تلاش واشنگتن برای مختل کردن شبکه‌های صادرات نفت ایران است",
-      "‏کشتی‌های پرچم افریقایی که در «ناوگان سایه» ایران شناخته می‌شوند، تحت نظارت OFAC قرار خواهند گرفت"
-    ],
-    "body_fa": "‏دفتر نظارت بر دارایی‌های خارجی (OFAC) وزارت خزانه‌داری آمریکا به شرکت دبی‑مستقر Best Oasis اجازه داد تا مذاکراتی برای فروش یا خرد کردن کشتی‌های تحت تحریم انجام دهد؛ این شرکت دومین سازمانی است که پس از GMS چنین مجوزی را دریافت کرده. این اقدام بخشی از تلاش‌های افزایشی واشنگتن برای قطع زنجیره‌های صادرات نفت ایران است و هدف آن جلوگیری از بهره‌برداری مالکان تحریمی از این کشتی‌هاست. در این میان چندین کشتی با پرچم‌های افریقایی، از جمله SIFRA با پرچم بوتسوانا و G SILVER با پرچم کامرون، در فهرست ناوگان سایه ایران شناسایی شده‌اند. دولت‌های این کشورها ادعا می‌کنند پرچم‌هایشان به‌صورت تقلبی استفاده شده و ثبت رسمی چنین کشتی‌هایی ندارند. همچنین کشتی‌های دیگری همچون VOYAGE ELITE و TELA که پرچم گامبیا دارند، به‌طور مستقیم در حمل نفت خام ایران به چین و سایر مقاصد مشغول بوده‌اند. این مجوز جدید می‌تواند ابزار جدیدی برای فشار اقتصادی بر ایران باشد و نظارت دقیق‌تری بر تراکنش‌های مرتبط با کشتی‌های تحریمی ایجاد کند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌های مالی",
-    "tag": "کشتی‌های تحریمی",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "Business Insider Africa",
-    "url": "https://africa.businessinsider.com/local/markets/us-opens-new-route-to-dispose-of-sanctioned-ships-as-african-flagged-tankers-feature/c5z0nv4",
-    "clean_url": "https://africa.businessinsider.com/local/markets/us-opens-new-route-to-dispose-of-sanctioned-ships-as-african-flagged-tankers-feature/c5z0nv4",
-    "image": "https://ocdn.eu/pulscms-transforms/1/3wektkuTURBXy85MGU3Nzc3Yy1jMzc0LTRjMzktYjczNS0xYWNiNDQ4OWY1NzMuanBlZ5KVAwDMXM0VGs0L3pMFzQSwzQJ2",
-    "timestamp": 1794295680.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5d88b82af7",
-    "title_fa": "‏CoreWeave با بدهی سنگین، نتایج سه ماهه را منتشر کرد",
-    "title_en": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
-    "summary": [
-      "‏CoreWeave گزارش مالی سه ماهه سوم را منتشر کرد؛ بدهی 35 میلیارد دلاری و سهامش در ماه گذشته 40 ٪ افت داشته است.",
-      "‏این وضعیت نگرانی سرمایه‌گذاران را درباره توانایی شرکت برای تأمین هزینه‌های 11.5‑13.5 میلیارد دلاری Capex و بازپرداخت بدهی تشدید می‌کند.",
-      "‏اوراق قرضه 9.75 ٪ تا 2031 با بازده 15.5 ٪ معامله می‌شود و CDS به 1278 پایه‌نقش می‌رسد."
-    ],
-    "body_fa": "‏CoreWeave پس از انتشار نتایج مالی سه ماهه سوم، با بدهی 35 میلیارد دلاری و نسبت بدهی‑به‑سرمایه 702 ٪ مواجه است. سهام این شرکت در ماه گذشته حدود 40 ٪ کاهش یافته و بازده اوراق 9.75 ٪ تا سال 2031 به 15.5 ٪ رسیده است. همچنین، CDS شرکت به 1278 پایه‌نقش رسیده که نشانگر ریسک بالای بدهی است. شرکت پیش‌بینی می‌کند که هزینه‌های سرمایه‌ای بین 11.5 تا 13.5 میلیارد دلار برای این فصل و بین 35 تا 39 میلیارد دلار برای کل سال باشد. مدیرعامل Michael Intrator در لینکدین تأکید کرد که تعهدات مشتریان تحت تأثیر تغییرات سیاسی قرار نمی‌گیرد. سرمایه‌گذاران انتظار دارند که CoreWeave مسیر مالی خود را شفاف‌سازی کند تا اعتماد بازار بازگردد.",
-    "category": "تکنولوژی",
-    "subcategory": "مالی فناوری",
-    "tag": "CoreWeave",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
-    "clean_url": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108452736-1792781361470-gettyimages-2245498698-raa-coreweav251110_nptXv.jpeg?v=1792781400&w=1920&h=1080",
-    "timestamp": 1794294060.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "63e398de8a",
-    "title_fa": "‏رایویان سال 2027 را سال تحول می‌داند",
-    "title_en": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
-    "summary": [
-      "‏رایویان CEO RJ Scaringe گفت مدل SUV جدید R2 با قیمت حدود 45,000 دلار و فناوری خودران، سال 2027 را نقطه عطف می‌بیند.",
-      "‏این خودرو، که در سه‌ماهه سوم 2026 بیشترین فروش را داشت، می‌تواند مسیر سودآوری و رشد شرکت را تعیین کند.",
-      "‏شرکت همچنین هزینه تولید هر خودرو را با ترکیب R2 و بهبود مقیاس‌پذیری بیش از 12,000 دلار کاهش داد."
-    ],
-    "body_fa": "‏رایویان Automotive که در 10 نوامبر 2021 با قیمت 78 دلار به‌صورت عمومی عرضه شد، پس از افت بیش از 80 درصد قیمت سهام، به‌دنبال نقطه عطفی است. مدیرعامل و بنیان‌گذار RJ Scaringe در مصاحبه‌ای با CNBC اعلام کرد که سال 2027 سال تحول برای شرکت خواهد بود. این تحول به‌دلیل معرفی SUV میان‌اندازه R2 است که با قیمت پایه حدود 45,000 دلار به بازار اصلی می‌پیوندد. R2 در سه‌ماهه سوم 2026 با فروش 19,248 خودرو، که 46 درصد رشد سالانه دارد، پرفروش‌ترین مدل شرکت شد و از R1 و ون تجاری پیشی گرفت. به‌همین دلیل، هزینه تولید هر خودرو بیش از 12,000 دلار کاهش یافت و حاشیه سود بهبود یافت. علاوه بر این، رایویان در حال ساخت کارخانه چند میلیارد دلاری در جورجیا است تا ظرفیت تولید را برای رسیدن به سود خالص افزایش دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "خودروهای برقی",
-    "tag": "Rivian",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
-    "clean_url": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/106974136-1636637161941Rivian-IPO-Normal-01.jpg?v=1636644063&w=1920&h=1080",
-    "timestamp": 1794294000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "29ae507be4",
-    "title_fa": "‏فدرال رزرو امکان افزایش نیم‌درصدی نرخ بهره را داد",
-    "title_en": "Fed officials open door to a half-point hike after inflation beats expectations",
-    "summary": [
-      "‏داده‌های جدید تورم نشان دادند قیمت‌ها سریع‌تر از پیش‌بینی رشد کردند.",
-      "‏به همین دلیل احتمال افزایش نیم‌درصدی نرخ بهره توسط فدرال رزرو در جلسه دسامبر بالا رفت.",
-      "‏این تصمیم می‌تواند بازارهای مالی و ارزهای جهانی را تحت فشار قرار دهد."
-    ],
-    "body_fa": "‏داده‌های جدید تورم ایالات متحده نشان دادند که قیمت‌ها در ماه اخیر سریع‌تر از پیش‌بینی‌های قبلی افزایش یافته‌اند. این رشد قوی‌تر از انتظار، معیارهای مورد نیاز فدرال رزرو برای تغییر سیاست پولی را برآورده کرد. به همین دلیل، احتمال اینکه فدرال رزرو در جلسه دسامبر نرخ بهره را نیم درصد (0.5) افزایش دهد، به طور قابل‌توجهی افزایش یافت. اگر این افزایش اجرا شود، اولین تغییر نیم‌درصدی در نرخ بهره از زمان مارس 2022 خواهد بود. چنین تصمیمی می‌تواند تأثیر مستقیم بر بازارهای سهام، اوراق قرضه و ارزهای جهانی داشته باشد و فشار بر دلار و طلا را تقویت کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نرخ بهره",
-    "tag": "فدرال رزرو",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/investors-boost-odds-half-point-fed-hike-core-cpi-rise-meets-wallers-bar-2026-11-10/",
-    "clean_url": "https://www.reuters.com/business/finance/investors-boost-odds-half-point-fed-hike-core-cpi-rise-meets-wallers-bar-2026-11-10",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794293460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "12c10bc55c",
-    "title_fa": "‏بازی GTA VI برای Xbox One از ابر عرضه می‌شود",
-    "title_en": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-    "summary": [
-      "‏GTA VI از هفته آینده برای کنسول‌های Xbox One از طریق Xbox Cloud Gaming قابل استریم خواهد شد.",
-      "‏این اولین قدم در شراکت ۱۰ ساله مایکروسافت با Take‑Two است و به کاربران Xbox One امکان بازی بدون ارتقا می‌دهد.",
-      "‏بازی با تنظیمات گرافیکی Xbox Series S با 30fps اجرا می‌شود."
-    ],
-    "body_fa": "‏راستار گیمز اعلام کرد که Grand Theft Auto VI از هفته آینده برای استریم از طریق Xbox Cloud Gaming بر روی کنسول‌های Xbox One در دسترس خواهد بود. این سرویس با استفاده از تنظیمات گرافیکی Xbox Series S بازی را با 30 فریم بر ثانیه اجرا می‌کند، بنابراین کاربران Xbox One بدون نیاز به خرید کنسول‌های نسل جدید می‌توانند بازی را تجربه کنند. این اقدام بخشی از شراکت استراتژیک ۱۰ ساله مایکروسافت با Take‑Two است که مایکروسافت را به اولین پلتفرمی تبدیل می‌کند که GTA VI را به صورت ابری برای Xbox عرضه می‌کند. مایکروسافت همچنین برنامه دارد تا در ماه‌های آینده عناوین دیگری مانند Grand Theft Auto V و Red Dead Redemption 2 را به سرویس ابری اضافه کند. اگرچه مایکروسافت ادعا می‌کند این حق‌الامتیاز انحصاری نیست، اما در عمل برای زمان راه‌اندازی بازی، استریم ابری GTA VI به‌طور انحصاری بر روی کنسول‌های Xbox خواهد بود.",
-    "category": "گیم",
-    "subcategory": "پخش ابری Xbox",
-    "tag": "GTA VI",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-    "clean_url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gta6.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "timestamp": 1794292620.0,
     "sent_to_telegram": true
   }
 ]
