@@ -44,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0e9bfc639f",
+    "title_fa": "‏سقوط شدید وال‌استریت شاخص‌ها را وارد فاز اصلاحی کرد",
+    "title_en": "Is the bull market cracking? What to watch for next week after the AI washout",
+    "summary": [
+      "‏شاخص‌های Dow Jones و S&P 500 وارد فاز اصلاحی شدند و شاخص نوسان VIX از سطح 30 واحد فراتر رفت.",
+      "‏افت سهام شرکت‌های هوش مصنوعی و نگرانی از سیاست‌های انقباضی فدرال‌رزرو دلیل اصلی این فروش گسترده است.",
+      "‏کارشناسان با ورود شاخص‌ها به محدوده اشباع فروش، در انتظار گزارش تورم هفته آینده برای تعیین مسیر بعدی بازار هستند."
+    ],
+    "body_fa": "‏بازارهای سهام وال‌استریت پس از افت سنگین بخش فناوری با موجی از فروش گسترده روبه‌رو شدند و شاخص‌های Dow Jones و S&P 500 را به محدوده اصلاحی کشاندند. با وجود انتشار گزارش مالی شرکت Nvidia و عرضه اولیه سهام Anthropic ، تقاضا در بخش هوش مصنوعی احیا نشد و شاخص ترس VIX برای اولین بار از ماه مارس به بالای 30 صعود کرد. تشدید تردیدها درباره آینده تجاری هوش مصنوعی، تغییرات مدیریتی اخیر از جمله خروج Jensen Huang از مدیرعاملی Nvidia و احتمال افزایش بیشتر نرخ بهره از سوی فدرال‌رزرو جو سنگینی بر معاملات حاکم کرده است. با این حال، سقوط شاخص قدرت نسبی S&P 500 به زیر سطح 30 از ورود بازار به محدوده اشباع فروش حکایت دارد که می‌تواند زمینه‌ساز جهش مقطعی قیمت‌ها شود. اکنون توجه معامله‌گران به داده‌های جدید تورم در هفته آینده دوخته شده تا مسیر نرخ بهره مشخص‌تر شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام آمریکا",
+    "tag": "بورس آمریکا",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+    "clean_url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+    "image": "https://s.yimg.com/bo/4dbc229b-19cb-5141-bdea-1b6207b54d06_1795207344459.jpg",
+    "timestamp": 1795206198.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "554f2b52de",
     "title_fa": "‏جنسن هوانگ در کمیته بانکی سنا به شهادت می‌نشیند",
     "title_en": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott...",
@@ -129,6 +151,28 @@
     "clean_url": "https://www.reuters.com/legal/litigation/experts-ai-prompts-environmental-lawsuit-must-be-disclosed-us-judge-rules-2026-11-20",
     "image": "https://s.yimg.com/bo/d6cdf4ea-3431-54e4-86e6-ebb004ecad51_1793259091040.jpg",
     "timestamp": 1795199631.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "668856c163",
+    "title_fa": "‏تعداد سکوهای حفاری نفت در آمریکا به 607 رسید",
+    "title_en": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall | OilPrice.com",
+    "summary": [
+      "‏تعداد سکوهای فعال نفت و گاز در آمریکا به 607 افزایش یافت، 53 سکو بیشتر از سال گذشته.",
+      "‏این افزایش همزمان با کاهش قیمت نفت برنت به 91.42 دلار و WTI به 82.31 دلار است، که بازار را تحت فشار می‌گذارد.",
+      "‏تولید خام آمریکا برای چهار هفته متوالی رکورد شد و به 14.032 میلیون بشکه در روز رسید."
+    ],
+    "body_fa": "‏باکر هیوز در گزارش جدید خود اعلام کرد که تعداد سکوهای فعال برای استخراج نفت و گاز در ایالات متحده به 607 رسیده است که نسبت به همین زمان سال گذشته 53 سکو بیشتر است. سکوهای نفتی به 469 عدد و سکوهای گازی یک عدد افزایش یافت. تولید روزانه نفت خام آمریکا برای چهار هفته متوالی به رکورد جدید 14.032 میلیون بشکه در روز رسیده و نسبت به هفته قبل کمی افزایش یافته است. با این حال، قیمت نفت برنت در روز جمعه به 91.42 دلار و نفت WTI به 82.31 دلار کاهش یافت، که نشان‌دهنده فشارهای قیمتی در بازار است. این داده‌ها نشان می‌دهند که افزایش فعالیت‌های حفاری می‌تواند به تثبیت یا حتی کاهش قیمت‌ها منجر شود، چرا که عرضه بیشتر به بازار وارد می‌شود.",
+    "category": "انرژی و کالا",
+    "subcategory": "آمار حفاری نفت",
+    "tag": "حفاری",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
+    "clean_url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
+    "image": "https://s.yimg.com/bo/dd496333-46a1-535b-9c41-f0631902fc27_1783825650736.png.cf.jpg",
+    "timestamp": 1795198998.0,
     "sent_to_telegram": true
   },
   {
@@ -220,6 +264,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "56401b0b30",
+    "title_fa": "‏دپارتمان کشاورزی آمریکا توسط هکرها مورد حمله قرار گرفت",
+    "title_en": "US Department of Agriculture breached by hackers this week, NBC News reports",
+    "summary": [
+      "‏دپارتمان کشاورزی ایالات متحده این هفته توسط یک حمله سایبری هدف قرار گرفت.",
+      "‏این خبر توسط NBC News با استناد به دو مقام پیشین USDA منتشر شد و نگرانی‌ها درباره امنیت داده‌های کشاورزی را افزایش داد.",
+      "‏هیچ جزئیات بیشتری درباره مقیاس یا هدف حمله منتشر نشده است."
+    ],
+    "body_fa": "‏امروز NBC News اعلام کرد که دپارتمان کشاورزی ایالات متحده (USDA) این هفته مورد یک حمله سایبری قرار گرفته است. این گزارش بر پایه اظهارات دو مقام پیشین این سازمان است که اطلاعاتی درباره نحوه نفوذ یا مقاصد هکرها در اختیار ندارند. هنوز جزئیات فنی یا دامنه خسارت مشخص نشده و مقامات فدرال در حال بررسی حادثه هستند. این رخداد نگرانی‌ها درباره امنیت داده‌های حساس کشاورزی و زیرساخت‌های دولتی را در ایالات متحده تشدید می‌کند. کارشناسان امنیتی هشدار می‌دهند که چنین حملات می‌تواند به افشای اطلاعات حساس یا اختلال در خدمات مرتبط منجر شود.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "حمله‌سایبری",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-department-agriculture-breached-by-hackers-this-week-nbc-news-reports-2026-11-20/",
+    "clean_url": "https://www.reuters.com/legal/litigation/us-department-agriculture-breached-by-hackers-this-week-nbc-news-reports-2026-11-20",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795185600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4136c1c02d",
+    "title_fa": "‏بازرسین حمل‌ونقل آمریکا نظارت FAA بر بوئینگ را ارزیابی می‌کند",
+    "title_en": "US Transportation Dept watchdog to audit FAA oversight of Boeing",
+    "summary": [
+      "‏دفتر بازرسین وزارت حمل‌ونقل آمریکا اعلام کرد که نظارت FAA بر بوئینگ و سایر سازندگان هواپیماها را بررسی خواهد کرد.",
+      "‏این حسابرسی می‌تواند نواقص نظارتی را نشان دهد و بر ایمنی پروازها و سیاست‌های نظارتی اثرگذار باشد.",
+      "‏نتایج ممکن است منجر به اصلاح قوانین یا اعمال جریمه‌های جدید برای بوئینگ شود."
+    ],
+    "body_fa": "‏دفتر بازرسین (OIG) وزارت حمل‌ونقل ایالات متحده روز جمعه اعلام کرد که یک حسابرسی جامع بر نظارت اداره هوانوردی فدرال (FAA) بر شرکت بوئینگ و سایر تولیدکنندگان هواپیما انجام خواهد داد. این حسابرسی به بررسی نحوه ارزیابی ایمنی، فرآیندهای صدور گواهینامه و پیگیری مشکلات فنی می‌پردازد. هدف اصلی شناسایی هرگونه نقص یا کوتاهی در نظارت است که می‌تواند ریسک‌های ایمنی را افزایش دهد. نتایج این بررسی می‌تواند به اصلاحات نظارتی، اعمال جریمه‌های مالی یا تغییر در سیاست‌های صدور گواهینامه منجر شود. این اقدام پس از حوادث اخیر مرتبط با بوئینگ، به ویژه سقوط هواپیماهای 737 MAX ، انجام می‌شود و نشان‌دهنده فشارهای افزایشی بر نهادهای نظارتی برای بهبود شفافیت و کارایی است.",
+    "category": "تکنولوژی",
+    "subcategory": "نظارت هواپیمایی",
+    "tag": "Boeing",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-transportation-dept-watchdog-audit-faa-oversight-boeing-2026-11-20/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/us-transportation-dept-watchdog-audit-faa-oversight-boeing-2026-11-20",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795184640.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "93f92c17ab",
     "title_fa": "‏سناتورهای آمریکا لایحه DEATH BETS را تصویب کردند",
     "title_en": "Senate approves DEATH BETS Act to bar war and assassination wagers on prediction...",
@@ -283,6 +371,28 @@
     "clean_url": "https://finance.yahoo.com/energy/articles/oil-prices-retreat-traders-assess-123700195.html",
     "image": "https://media.zenfs.com/en/the_wall_street_journal_hosted_996/164a5c558733f16eb1cb4e81da196865.jpg_up.jpg",
     "timestamp": 1795179608.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a87a74a895",
+    "title_fa": "‏GTA 6 با فروش ۳٫۸ میلیارد دلار اول، تاریخی‌ترین رونمایی شد",
+    "title_en": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
+    "summary": [
+      "‏Rockstar اعلام کرد GTA 6 در روز اول فروش ۳٫۷۹ میلیارد دلار و ۳۲٫۵ میلیون نسخه فروخته شد.",
+      "‏این رقم رکورد جدیدی برای هر نوع سرگرمی است و بزرگ‌ترین رونمایی تاریخ را رقم زد.",
+      "‏درآمد اولیه بیش از هزینه تخمینی ۲ میلیارد دلاری توسعه بازی است."
+    ],
+    "body_fa": "‏Rockstar Games اعلام کرد که Grand Theft Auto VI در روز اول عرضه، ۳٫۷۹ میلیارد دلار فروش خرده‌فروشی و ۳۲٫۵ میلیون نسخه فروخته شده به دست آورد، که رکورد جدیدی برای هر نوع سرگرمی به شمار می‌رود. این درآمد بیش از برآوردهای اولیه که حدود ۲ میلیارد دلار بود، است و نشان‌دهنده قدرت بازار بازی‌های ویدئویی است. شرکت Take‑Two Interactive که صاحب Rockstar است، هنوز هزینه‌های دقیق توسعه را فاش نکرده، اما می‌توان گفت که سود خالص بسیار بالا خواهد بود. تحلیل‌گران پیش‌بینی می‌کردند فروش اولین هفته بیش از ۲ میلیارد دلار باشد، اما این رقم به‌مراتب فراتر از انتظار بود. موفقیت این عنوان می‌تواند روند سرمایه‌گذاری در بازی‌های بزرگ‌مقیاس را تقویت کند و تأثیر قابل‌توجهی بر درآمدهای کل صنعت سرگرمی داشته باشد.",
+    "category": "گیم",
+    "subcategory": "رکورد فروش",
+    "tag": "GTA6",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+    "clean_url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+    "image": "https://assetsio.gnwcdn.com/Raul_Bautista_02_RUnoiiq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1795177440.0,
     "sent_to_telegram": true
   },
   {
@@ -374,6 +484,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0820cd8de6",
+    "title_fa": "‏شرکت Home Depot با رشد نسبت به Lowe's برتری یافت",
+    "title_en": "Home Depot vs. Lowe's: Which stock has the edge after earnings and our support?",
+    "summary": [
+      "‏شرکت Home Depot و Lowe's گزارش سه‌ماهه خود را منتشر کردند؛ Home Depot فروش هم‌فروشگاهی ۲٫۲٪ و EPS ۳٫۲٪ رشد یافت",
+      "‏تحلیل‌گران به دلیل تمرکز بیشتر Home Depot بر مشتریان حرفه‌ای، سهام آن را نسبت به Lowe's برتر می‌دانند",
+      "‏در انتهای هفته ریچارد مک‌فیل به عنوان CEO منصوب می‌شود؛ جیم کرامر خرید افت سهام Home Depot را توصیه کرد"
+    ],
+    "body_fa": "‏این هفته Home Depot و Lowe's هر دو نتایج مالی فصلی خود را اعلام کردند. Home Depot فروش هم‌فروشگاهی ۲٫۲٪ و رشد سود هر سهم ۳٫۲٪ را گزارش کرد، در حالی که Lowe's تنها ۱٫۸٪ و ۱٫۳٪ رشد داشت. علاوه بر این، درآمد Home Depot به ۴۳٫۴ میلیارد دلار رسید که تقریباً دو برابر Lowe's (۲۲٫۸ میلیارد دلار) است و حاشیه عملیاتی ۱۲٫۶٪ در مقابل ۱۱٫۳٪ برای Lowe's ثبت شد. تحلیل‌گران به دلیل تمرکز قوی‌تر Home Depot بر مشتریان حرفه‌ای، این شرکت را با جریان درآمدی پایدارتر می‌دانند و جیم کرامر خرید افت سهام آن را توصیه کرد. در همین حال، ریچارد مک‌فیل به زودی به عنوان CEO جدید Home Depot منصوب می‌شود و تغییرات مدیریتی دیگر نیز اعلام شد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "گزارش سود و سهام",
+    "tag": "HomeDepot",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",
+    "clean_url": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&w=1920&h=1080",
+    "timestamp": 1795170180.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "8f131a1606",
     "title_fa": "‏صادرات سلول‌های خورشیدی چین در اکتبر ۲۱٪ افزایش یافت",
     "title_en": "China’s Solar Exports Surge 21% as U.S. Tariff Deadline Looms",
@@ -415,6 +547,28 @@
     "clean_url": "https://www.axios.com/pro/supply-chain-deals/2026/11/20/union-pacific-ceo-rate-hike-threat-apology",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795170060.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "0d35c45521",
+    "title_fa": "‏هکرها 860 میلیون اتر را از کیف‌پول‌های Binance برداشتند",
+    "title_en": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+    "summary": [
+      "‏هکرها 860 میلیون دلار ارزش اتر را از کیف‌پول‌های بزرگ برداشتند و بخشی را به بیت‌کوین تبدیل کردند.",
+      "‏سپس 149 میلیون دلار بیت‌کوین را از طریق کوین‌جوین‌ها مخلوط کردند که نشان‌دهنده تشدید پولشویی در حمله به Binance است.",
+      "‏این رویداد می‌تواند فشار بر نظارت‌های بین‌المللی رمزارزها را افزایش دهد."
+    ],
+    "body_fa": "‏تحقیقات شرکت Elliptic نشان داد که هکرها پس از نفوذ به کیف‌پول‌های بزرگ Binance ، حدود 860 میلیون دلار ارزش اتر را به سرعت منتقل کردند. برخی از این اترها به بیت‌کوین تبدیل شد و در عرض چند ساعت 149 میلیون دلار بیت‌کوین از طریق تکنیک کوین‌جوین مخلوط شد. این روش ترکیبی به منظور پنهان‌سازی ردیابی تراکنش‌ها و تسهیل پولشویی به کار رفته است. وقوع چنین حمله‌ای بزرگ نشان می‌دهد که حتی صرافی‌های پیشرو همچون Binance نیز در برابر حملات پیشرفته آسیب‌پذیرند. کارشناسان هشدار دادند که این رویداد می‌تواند اعتماد سرمایه‌گذاران به بازار رمزارزها را تحت فشار قرار دهد و فشار بر نهادهای نظارتی برای تقویت قوانین ضدپولشویی را افزایش دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "هک و پولشویی",
+    "tag": "هک",
+    "urgency": 9,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+    "clean_url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795169820.0,
     "sent_to_telegram": true
   },
   {
@@ -547,6 +701,28 @@
     "clean_url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
     "image": "https://assetsio.gnwcdn.com/love-magazine-jason-and-lucia-motorcycle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
     "timestamp": 1795159260.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "a0bc64b0ca",
+    "title_fa": "‏توکن‌سازی دارایی‌ها و پذیرش بلاکچین، محرک جدید بیت‌کوین",
+    "title_en": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
+    "summary": [
+      "‏بیت‌کوین حدود 61,500 دلار معامله می‌شود، پس از سقوط بیش از 50 ٪ از اوج تاریخی‌اش.",
+      "‏تحلیل‌گران می‌گویند پذیرش بلاکچین در بازارهای سرمایه و توکن‌سازی سهام، محرک اصلی رشد آینده رمزارزهاست.",
+      "‏SEC و CFTC اخیراً مسیر قانونی برای معاملات توکن‌سازی سهام و فیوچرزهای دائمی مشابه رمزارزها را باز کرده‌اند."
+    ],
+    "body_fa": "‏بیت‌کوین در روز جمعه حدود 61,500 دلار معامله می‌شد، که بیش از نیمی از اوج تاریخی‌اش در اکتبر 2025 (بالای 126,000 دلار) را از دست داده است. پس از شکست لایحه Clarity Act در سنای آمریکا، سرمایه‌گذاران به دنبال محرک جدیدی برای رشد رمزارزها می‌گردند. به گفته مایک بلش، مدیرعامل BitGo ، تمام شرکت‌های سنتی از جمله BlackRock به دارایی‌های دیجیتال علاقه نشان می‌دهند و لاری فینک پیش‌بینی کرده است که تمام سهام، اوراق قرضه و دارایی‌های واقعی به صورت توکن بر روی بلاکچین ثبت شوند. یونی اسیا، مدیرعامل eToro ، افزود که بازارهای سرمایه حالا ۲۴/۷ کار می‌کنند و نمونه‌ای از این روند، عرضه اولیه SpaceX بود که پیش از IPO مشتقات آن در پلتفرم eToro معامله شد. سازمان‌های نظارتی آمریکا همچون SEC و CFTC نیز با صدور دستورات جدید برای معاملات توکن‌سازی سهام و فیوچرزهای دائمی مشابه رمزارزها، پذیرش این فناوری را تسهیل کرده‌اند. این تحولات می‌تواند باعث شود بیت‌کوین و سایر رمزارزها از جریان سرمایه‌گذاری‌های جدید در بازارهای سنتی بهره‌مند شوند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قوانین و بازار",
+    "tag": "توکن‌سازی",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
+    "clean_url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
+    "timestamp": 1795156140.0,
     "sent_to_telegram": true
   },
   {
@@ -6421,182 +6597,6 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Hits-OPEC-Oil-Production-Quota-for-Sixth-Straight-Month.html",
     "image": "https://s.yimg.com/bo/327d0064-6c49-503d-89c7-609e5d395486_1794487225187.jpg",
     "timestamp": 1794488348.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1a2a0a07c7",
-    "title_fa": "‏Griffin بانک ۲۰ میلیون دلار جذب کرد برای گسترش استیبل‌کوین",
-    "title_en": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-    "summary": [
-      "‏Griffin بانک بریتانیایی ۲۰ میلیون دلار جذب سرمایه کرد.",
-      "‏سرمایه‌گذاری برای گسترش خدمات پرداخت با استیبل‌کوین هدف‌گذاری شده است.",
-      "‏دور مالی توسط Octagon Partners رهبری شد و ارزش‌گذاری شرکت بیش از صد میلیون دلار اعلام شد."
-    ],
-    "body_fa": "‏بانک Griffin در بریتانیا در دور مالی سری B ، ۲۰ میلیون دلار جذب کرد؛ این سرمایه‌گذاری توسط Octagon Partners رهبری شد و ارزش‌گذاری شرکت را به بیش از صد میلیون دلار رساند. هدف اصلی این جذب سرمایه، گسترش زیرساخت‌های پرداخت با استفاده از استیبل‌کوین‌ها برای مشتریان تجاری است. Griffin قصد دارد با ارائه راهکارهای پرداخت دیجیتال، پذیرش استیبل‌کوین را در بازارهای مالی سنتی تسهیل کند و به‌ویژه در حوزه تجارت الکترونیک و خدمات مالی بین‌المللی حضور فعال‌تری داشته باشد. این گام می‌تواند نقش مهمی در ادغام فناوری بلاکچین با سیستم‌های بانکی سنتی در اروپا داشته باشد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پذیرش استیبل‌کوین",
-    "tag": "stablecoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-    "clean_url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-    "image": "https://s.yimg.com/bo/bd52fe7d-5574-5871-b9cc-af5e9a81df1c_1794485794361.jpg",
-    "timestamp": 1794484748.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3b8ee834f8",
-    "title_fa": "‏مذاکرات صلح آمریکا‑روسیه‑اوکراین در آبوظبی بدون پیشرفت مهم",
-    "title_en": "Why U.S.-Led Talks With Russia And Ukraine Had No Major Breakthrough",
-    "summary": [
-      "‏مذاکرات صلح دو روزه آمریکا‑رهبری در آبوظبی به پایان رسید اما پیشرفت اساسی حاصل نشد",
-      "‏در عین حال روسیه حملات گسترده‌ای به زیرساخت‌های انرژی اوکراین انجام داد و اوکراین نیز به بندر Ust‑Luga حمله کرد",
-      "‏مذاکرات شامل توافق اولیه برای تبادل زندانیان ۱۰۰۰ به ۱۰۰۰ نیز شد"
-    ],
-    "body_fa": "‏آب‌وزبی در تاریخ ۱۰ تا ۱۱ نوامبر میزبان مذاکرات صلح سه‌جانبه به رهبری ایالات متحده بین روسیه و اوکراین بود. نمایندگان روسیه به رهبری ولادیمیر مدینسکی و اوکراین به رهبری رستم عمرُف در کنار دیپلمات‌های آمریکا، بریتانیا، فرانسه، آلمان، ایتالیا، اتحادیه اروپا و ناتو حضور یافتند. اگرچه مذاکرات بر سر سرزمین‌های اشغالی، تضمین‌های امنیتی بلندمدت و چارچوب پایان جنگ متمرکز بود، اما هیچ پیشرفت اساسی حاصل نشد. در همین دوره، روسیه در ۱۰ نوامبر به ۱۰ استان اوکراین حمله کرد و پنج ایستگاه برق بزرگ را هدف قرار داد که منجر به قطع برق گسترده شد؛ روز بعد نیز حمله دیگری به زیرساخت‌های انرژی انجام داد و اوکراین به بندر نفتی Ust‑Luga در بالتیك حمله کرد. طرفین توافق اولیه‌ای برای تبادل زندانیان به نسبت ۱۰۰۰ به ۱۰۰۰ یا ۱۵۰۰ به ۱۵۰۰ اعلام کردند. پیش‌گویی‌های پیشین رئیس‌جمهور ترامپ درباره «توافق بزرگ و زیبا» که همه را خوشحال می‌کند، با شک و تردید مقامات اروپایی مواجه شد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "مذاکرات صلح اوکراین",
-    "tag": "آبوظبی",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Forbes · via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/why-u-led-talks-russia-110000196.html",
-    "clean_url": "https://www.yahoo.com/news/politics/articles/why-u-led-talks-russia-110000196.html",
-    "image": "https://media.zenfs.com/en/forbes_contributor_845/195755e33f73e2e4f5572cf9acf9fa72.jpg",
-    "timestamp": 1794481147.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cbb215843f",
-    "title_fa": "‏SoftBank ضرر 7.1 میلیارد را به توربین گاز نسبت داد",
-    "title_en": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "summary": [
-      "‏SoftBank اعلام کرد ضرر فصلی 7.1 میلیارد دلاری، عمدتاً به دلیل سپرده‌های غیرقابل بازگشت برای توربین‌های گاز طبیعی.",
-      "‏این ضرر نشان می‌دهد سرمایه‌گذاری بزرگ در انرژی گاز برای تأمین تقاضای هوش مصنوعی می‌تواند خطر مالی داشته باشد.",
-      "‏SoftBank پیش از این 33 میلیارد دلار برای یک نیروگاه 9.2 گیگاواتی برنامه‌ریزی کرده بود."
-    ],
-    "body_fa": "‏SoftBank در گزارش مالی خود اعلام کرد که در سه‌ماهه اخیر ضرر 7.1 میلیارد دلاری داشته است که بیش از نیمی از آن مربوط به تجهیزات تولید برق گاز طبیعی می‌شود. این شرکت برای تضمین دریافت توربین‌های مورد نیاز، پیش از دو سال سپرده‌های غیرقابل بازگشت برای بیش از 13 گیگاوات ظرفیت خریداری کرد که حدود 50 درصد بیش از نیاز واقعی بود. هدف این بود تا با سرمایه‌گذاری عظیم در SB Energy ، سهمی از بازار گاز طبیعی برای تأمین مراکز داده هوش مصنوعی به دست آورد. اما با افزایش هزینه‌ها و عدم توانایی در استفاده از این توربین‌ها، سپرده‌ها به‌صورت ضرر حساب شد. این اتفاق نشان می‌دهد که حتی سرمایه‌گذاران بزرگ نیز در پیش‌بینی دقیق تقاضای انرژی برای هوش مصنوعی می‌توانند اشتباه کنند و با ریسک‌های مالی جدی مواجه شوند.",
-    "category": "انرژی و کالا",
-    "subcategory": "سرمایه‌گذاری انرژی",
-    "tag": "SoftBank",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "clean_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
-    "timestamp": 1794474000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "488356f191",
-    "title_fa": "‏خریداران آسیایی نفت به آفریقا و برزیل روی آوردند",
-    "title_en": "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge | OilPrice.com",
-    "summary": [
-      "‏خریداران آسیایی نفت، به‌ویژه Sinopec و SK Energy ، به‌دلیل کاهش نرخ حمل‌ونقل، خرید نفت غرب آفریقا و برزیل را افزایش دادند.",
-      "‏این تغییر باعث کاهش هزینه‌های حمل‌ونقل و تغییر مسیرهای تجاری در بازار نفت جهانی می‌شود.",
-      "‏نرخ‌های VLCC تا ۵۰٪ از اوج اکتبر کاهش یافت و کشتی‌های Suezmax و Aframax نیز به‌سرعت ارزان‌تر شدند."
-    ],
-    "body_fa": "‏خریداران آسیایی کالاهای انرژی، به‌ویژه شرکت‌های چینی Sinopec و کره‌ای SK Energy ، به‌دلیل کاهش چشمگیر نرخ‌های حمل‌ونقل نفت از خلیج فارس، به‌سرعت به‌دنبال بارهای نفتی از آفریقا و برزیل رفتند. یونیک‌پِک، بخش تجاری Unipec ، دو محموله نفت Djeno از کنگو را با تخفیف حدود ۲۲ دلار نسبت به برنت خریداری کرد و SK Energy یک تانکر Suezmax را برای حمل نفت گابن به بندر Ulsan کره جنوبی رزرو کرد. تحلیل‌گران Energy Aspects اشاره کردند که کاهش نرخ‌های VLCC ، Suezmax و Aframax پس از اوج تاریخی در اکتبر، باعث جذابیت بیشتر نفت‌های غرب سوز است. Vortexa گزارش داد تعداد کشتی‌های بارگیری شده در شرق آسیا حدود ۱۵٪ از سپتامبر افزایش یافته و این امر منجر به افزایش در دسترس بودن تانکرها شده است. این تحولات می‌تواند جریان‌های تجاری نفتی را از خلیج فارس به سمت منابع آفریقایی و برزیلی تغییر داده و فشار بر قیمت‌های نفت خاورمیانه را کاهش دهد.",
-    "category": "انرژی و کالا",
-    "subcategory": "حمل‌ونقل نفت",
-    "tag": "نرخ‌کشتی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Oil-Buyers-Turn-to-Africa-and-Brazil-as-Tanker-Rates-Plunge.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Oil-Buyers-Turn-to-Africa-and-Brazil-as-Tanker-Rates-Plunge.html",
-    "image": "https://s.yimg.com/bo/b3c861b2-5f59-5d0f-a3b8-af5ed0ee341f_1794473221125.jpg",
-    "timestamp": 1794473948.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "151611598b",
-    "title_fa": "‏مدیرعامل Veolia خواستار ممنوعیت شدیدتر صادرات باتری‌های استفاده‌شده در EU",
-    "title_en": "Veolia CEO Wants Stricter Ban on EU Exports of Used Battery Material",
-    "summary": [
-      "‏Veolia CEO اعلام کرد که باید ممنوعیت صادرات باتری‌های استفاده‌شده از اتحادیه اروپا سخت‌تر شود.",
-      "‏این اقدام می‌تواند زنجیره تأمین مواد اولیه بازیافت باتری را تحت فشار قراردهد و قیمت‌ها را در بازارهای انرژی و خودروهای الکتریکی ارتقا دهد.",
-      "‏Veolia یکی از بزرگ‌ترین شرکت‌های مدیریت پسماند در اروپا است و این درخواست می‌تواند سیاست‌های زیست‌محیطی را تغییر دهد."
-    ],
-    "body_fa": "‏مدیرعامل Veolia ، یکی از بزرگ‌ترین شرکت‌های مدیریت پسماند و بازیافت در اروپا، اعلام کرد که باید ممنوعیت صادرات باتری‌های استفاده‌شده از اتحادیه اروپا سخت‌تر شود. وی استدلال می‌کند که این مواد حاوی مواد شیمیایی خطرناک هستند و ریسک‌های زیست‌محیطی و بهداشتی را در کشورهای دریافت‌کننده افزایش می‌دهند. اعمال محدودیت‌های شدیدتر می‌تواند تقاضا برای بازیافت داخلی را تقویت کند و به توسعه زیرساخت‌های بازیافت در داخل اتحادیه کمک کند. با این حال، چنین تصمیمی ممکن است عرضه مواد اولیه بازیافتی را برای تولیدکنندگان باتری خودروهای الکتریکی محدود کرده و فشار بر قیمت‌ها را افزایش دهد. این پیشنهاد هنوز به تصویب نهایی نرسیده و نیاز به بررسی‌های قانونی و مشورت با کشورهای عضو دارد.",
-    "category": "انرژی و کالا",
-    "subcategory": "بازیافت باتری",
-    "tag": "صادرات باتری",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/veolia-ceo-wants-stricter-ban-on-eu-exports-of-used-battery-material",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-12/veolia-ceo-wants-stricter-ban-on-eu-exports-of-used-battery-material",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794472620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "077ba0b29f",
-    "title_fa": "‏ویزا تسویه‌گیری با استیبل‌کوین USDPT وسترن یونین را اضافه کرد",
-    "title_en": "Visa adds Western Union's USDPT stablecoin to its settlement network in Anchorage tie-up",
-    "summary": [
-      "‏ویزا و شرکای واجد شرایط می‌توانند تعهدات VisaNet را با استیبل‌کوین USDPT وسترن یونین تسویه کنند.",
-      "‏این گام نشان‌دهنده یکپارچه‌سازی بزرگ استیبل‌کوین‌ها در شبکه‌های پرداخت سنتی است.",
-      "‏USDPT توسط Anchorage Digital Bank صادر شده و به‌عنوان اولین استیبل‌کوین در VisaNet شناخته می‌شود."
-    ],
-    "body_fa": "‏ویزا اعلام کرد که استیبل‌کوین USDPT متعلق به وسترن یونین را به شبکه تسویه‌گری VisaNet اضافه کرده است. این توکن توسط Anchorage Digital Bank صادر می‌شود و برای پرداخت تعهدات VisaNet توسط ویزا و شرکای واجد شرایط قابل استفاده است. اضافه شدن USDPT به VisaNet نشان می‌دهد که شرکت‌های بزرگ مالی به‌سرعت در حال پذیرش فناوری بلاکچین برای تسویه‌های روزانه هستند. این همکاری می‌تواند سرعت و هزینه تراکنش‌های بین‌المللی را کاهش داده و پذیرش استیبل‌کوین‌ها را در بازارهای پرداخت گسترش دهد. به‌علاوه، حضور وسترن یونین به‌عنوان یک ارائه‌دهنده خدمات مالی سنتی در این بستر، اعتبار بیشتری به استیبل‌کوین‌ها می‌بخشد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "پیمان‌نامه تسویه",
-    "tag": "USDPT",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
-    "clean_url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794468960.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "267d0b935a",
-    "title_fa": "‏هک‌پذیری Fireworks AI باعث دسترسی به چت‌های Notion شد",
-    "title_en": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "summary": [
-      "‏هکرها به سیستم ابری Fireworks AI نفوذ کردند و داده‌های مشتریان Notion را به دست آوردند.",
-      "‏این نفوذ نشان‌دهنده خطرات زنجیره تأمین فناوری و احتمال سرقت اطلاعات حساس است.",
-      "‏Fireworks AI می‌گوید هکرها به‌دنبال فروش توکن‌های دسترسی به مدل‌های زبانی هستند."
-    ],
-    "body_fa": "‏Fireworks AI ، پلتفرمی که توسعه‌دهندگان برای استفاده از مدل‌های هوش مصنوعی باز به کار می‌برند، اعلام کرد که هکرها به ارائه‌دهندهٔ ابری خود نفوذ کرده و به سیستم توسعه‌ای این شرکت دسترسی پیدا کردند. این دسترسی باعث شد اطلاعات صورتحساب و برخی مجموعه داده‌های مشتریان، از جمله Notion ، به سرقت برود. Notion که حدود 1% از کاربران خود را تحت تأثیر این نفوذ می‌داند، پس از دریافت هشدار، ارتباط خود را با Fireworks قطع و داده‌های ذخیره‌شده را حذف کرد. هکرها چت‌ترانسکریپت‌های کاربران Notion AI را که شامل ورودی و خروجی مدل «Insights» بود، استخراج کردند؛ اما بخش زیادی از این داده‌ها غیرقابل شناسایی است. Fireworks معتقد است این حمله به‌دلیل انگیزهٔ مالی صورت گرفته و هدف فروش توکن‌های دسترسی به مدل‌های زبانی بزرگ به طرف‌های غیرمجاز است. این دومین نفوذ در دو ماه اخیر برای Fireworks است که خطرات وابستگی زنجیره‌ای فناوری را برجسته می‌کند.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "حمله‌سایبری",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "clean_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
-    "timestamp": 1794466920.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c58795c987",
-    "title_fa": "‏بازی Resident Evil Requiem چهار جایزه گلدن جویستیک گرفت",
-    "title_en": "Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY",
-    "summary": [
-      "‏بازی Resident Evil Requiem در مراسم Golden Joystick Awards چهار جایزه از جمله Ultimate Game of the Year و Console Game of the Year را برد",
-      "‏این موفقیت نشان‌دهنده قدرت Capcom در بازار بازی‌های کنسولی و تأثیرگذاری عناوین بزرگ بر فروش و شناخت جهانی است",
-      "‏شرکت Capcom همچنین با هفت جایزه دیگر از جمله Studio of the Year و Best Audio Design به‌عنوان پیشرو صنعت شناخته شد"
-    ],
-    "body_fa": "‏مراسم 44 ام Golden Joystick Awards که به‌عنوان یکی از معتبرترین جشن‌های صنعت بازی شناخته می‌شود، دیشب برگزار شد. بازی Resident Evil Requiem از Capcom با کسب چهار جایزه، از جمله Ultimate Game of the Year و Console Game of the Year ، در صدر لیست قرار گرفت. بازیگر اصلی این عناوین، Angela Sant'Albano به‌خاطر نقش Grace Ashcroft جایزه Best Lead Performer را دریافت کرد. شرکت Capcom با هفت جایزه کلی، شامل Studio of the Year و Best Audio Design برای Onimusha: Way of the Sword ، به‌عنوان پیشرو سال شناخته شد. سایر عناوین مهم شامل Crimson Desert به‌عنوان PC Game of the Year ، Meccha Chameleon به‌عنوان Best Indie Game (Self-published) و Best Multiplayer Game ، و The Witcher 3: Wild Hunt – Remastered به‌عنوان Best Remake/Remaster بود. این دستاوردها می‌توانند به افزایش فروش و تقویت موقعیت برندهای برتر در بازار جهانی بازی‌های ویدئویی منجر شوند.",
-    "category": "گیم",
-    "subcategory": "جوایز بازی",
-    "tag": "Golden Joystick",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty",
-    "clean_url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty",
-    "image": "https://assetsio.gnwcdn.com/grace-ashcroft-resident-evil.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1794465780.0,
     "sent_to_telegram": true
   }
 ]
