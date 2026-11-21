@@ -1,5 +1,93 @@
 [
   {
+    "id": "589660e491",
+    "title_fa": "‏افت اتر، کسری ۵۴ میلیون دلاری در BTCS ایجاد کرد",
+    "title_en": "ETH news: Ether’s plunge puts a Nasdaq-listed treasury in a $54 million loan squ...",
+    "summary": [
+      "‏قیمت اتر به‌طور ناگهانی سقوط کرد و باعث شد BTCS ، شرکت فهرست‌شده در Nasdaq ، با کسری وام ۵۴ میلیون دلاری مواجه شود.",
+      "‏این وضعیت پس از کاهش بدهی Aave به حدود ۱۰ میلیون دلار در روز گذشته رخ داد و ریسک نقدینگی دارایی‌های رمزی را نشان داد.",
+      "‏شرکت ممکن است برای پوشش کسری، اترهای خود را به‌سرعت بفروشد."
+    ],
+    "body_fa": "‏قیمت اتر در روزهای اخیر به‌طور چشمگیری سقوط کرد و باعث شد شرکت BTCS ، که در Nasdaq فهرست شده و بخشی از دارایی‌های خود را به رمزارز اختصاص داده، با کسری وام ۵۴ میلیون دلاری مواجه شود. این کسری ناشی از کاهش ارزش اتر است که به‌عنوان وثیقه برای وام‌های Aave شرکت استفاده می‌شد. در ده روز گذشته، BTCS توانست بدهی Aave خود را حدود ۱۰ میلیون دلاری کاهش دهد، اما کاهش قیمت اتر این پیشرفت را خنثی کرد. کارشناسان هشدار می‌دهند که نوسانات شدید رمزارزها می‌تواند ریسک نقدینگی جدی برای شرکت‌های عمومی که دارایی‌های دیجیتال دارند، ایجاد کند. در صورت ادامه فشارهای قیمتی، BTCS ممکن است مجبور به فروش اترهای خود یا جستجوی منابع مالی جدید برای پوشش کسری شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قرض و بدهی",
+    "tag": "Ether",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "image": "https://s.yimg.com/bo/c353e74b-aee1-554b-b940-beab7f4a7845_1795265076564.jpg",
+    "timestamp": 1795264974.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c82ab88dcd",
+    "title_fa": "‏دیتابیس ملی جرایم FBI توسط هکرها نفوذ شد",
+    "title_en": "FBI's criminal information database hacked, CNN reports",
+    "summary": [
+      "‏FBI دیتابیس ملی اطلاعات جنایی (NCIC) توسط هکرها نفوذ شد.",
+      "‏این نفوذ می‌تواند امنیت اطلاعات دستگیری، تاریخچه جرایم و بررسی‌های پس‌زمینه را به خطر اندازد.",
+      "‏این دومین نفوذ به سامانه FBI در چند ماه اخیر است."
+    ],
+    "body_fa": "‏آژانس فدرال تحقیقات آمریکا (FBI) در حال بررسی یک نفوذ مشکوک به دیتابیس ملی اطلاعات جنایی (NCIC) است که توسط مقامات فدرال، ایالتی و محلی برای به‌اشتراک‌گذاری اطلاعات مربوط به دستورات قضایی، سوابق جنایی و بررسی‌های پیش‌زمینه استفاده می‌شود. این حمله، دومین نفوذ به سامانه‌های FBI در ماه‌های اخیر است و پس از حوادث سایبری دیگری چون قطعی جهانی سرویس‌های مایکروسافت و توقف پروازهای داخلی آمریکا رخ داده است. مقامات هنوز جزئیات دقیق نحوه دسترسی هکرها را فاش نکرده‌اند، اما نگرانی‌ها دربارهٔ افشای داده‌های حساس و تأثیر آن بر عملیات پلیس‌ها در سراسر کشور بالا است. FBI هنوز پاسخی به درخواست‌های رسانه‌ها نداده و دو منبع آگاه از این تحقیق به CNN اطلاع داده‌اند. این رخداد ممکن است منجر به بازنگری در سیاست‌های امنیت سایبری و ارتقاء تدابیر حفاظتی برای سامانه‌های اطلاعاتی حساس شود.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "هک",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
+    "clean_url": "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
+    "image": "https://s.yimg.com/bo/e380255f-a445-56e3-86e3-bdcd665af3c3_1795261190172.jpg",
+    "timestamp": 1795261374.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f294818f9a",
+    "title_fa": "‏قیمت XRP کاهش یافت؛ دارایی‌های ETF زیر یک میلیارد دلار شد",
+    "title_en": "XRP price: What next for Ripple-linked token as ETF assets slip under $1 billion",
+    "summary": [
+      "‏XRP در فروش‌گیری کریپتو به پایین‌ترین سطح نوامبر پیشین رسید.",
+      "‏همزمان، دارایی‌های ETF مرتبط با این توکن به زیر یک میلیارد دلار افتید و نگرانی سرمایه‌گذاران را افزایش داد.",
+      "‏فشار بر موقعیت‌های طولانی ادامه دارد و احتمال ادامه نزول بازار وجود دارد."
+    ],
+    "body_fa": "‏در روز شنبه، توکن XRP در جریان فروش‌گیری گسترده در بازار کریپتو به پایین‌ترین سطح خود در نوامبر گذشته رسید. این افت قیمت همزمان با کاهش دارایی‌های صندوق‌های تبادل‌پذیر (ETF) مرتبط به زیر یک میلیارد دلار بود. تحلیل‌گران اشاره کردند که فشار بر موقعیت‌های طولانی (Long) در این توکن افزایش یافته و سرمایه‌گذاران به دنبال خروج از بازار هستند. کاهش سرمایه‌گذاری در ETF ها نشان‌دهنده کاهش اعتماد به توکن و احتمال ادامه روند نزولی است. Ripple هنوز واکنشی رسمی به این تحولات ارائه نکرده، اما این وضعیت می‌تواند بر برنامه‌های توسعه‌ای و پذیرش توکن در آینده تأثیر بگذارد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت‌گذاری توکن",
+    "tag": "XRP",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "image": "https://s.yimg.com/bo/a9f3c7f5-d6ee-555c-9525-3321339e7e6b_1795241693546.png.cf.jpg",
+    "timestamp": 1795239774.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6a058912f3",
+    "title_fa": "‏تایوان فروش کوتاه‌مدت سهام را ممنوع کرد تا آرامش بازار",
+    "title_en": "Taiwan Bans Short Sales of Stocks in New Move to Calm Markets",
+    "summary": [
+      "‏تایوان به‌صورت ناگهانی فروش کوتاه‌مدت سهام را در تمام بورس‌ها ممنوع کرد.",
+      "‏هدف این اقدام کاهش نوسان‌های شدید و بازگرداندن اعتماد سرمایه‌گذاران است.",
+      "‏این تصمیم ممکن است حجم معاملات و قیمت‌های سهام در آسیا را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏سازمان بورس تایوان (TWSE) به‌طور ناگهانی فروش کوتاه‌مدت (short selling) را برای تمام اوراق سهام فهرست‌شده ممنوع کرد. این اقدام در واکنش به نوسان‌های شدید اخیر بازارهای سهام و نگرانی از فشار فروش نزولی انجام شد. هدف اصلی قانون جدید، کاهش فشار نزولی قیمت‌ها و بازگرداندن اعتماد سرمایه‌گذاران است. ممنوعیت شامل تمام ابزارهای کوتاه‌فروش می‌شود و به‌سرعت در سامانه‌های معاملاتی اعمال خواهد شد. کارشناسان پیش‌بینی می‌کنند این تصمیم می‌تواند حجم معاملات را کاهش داده و رفتار قیمت‌ها را در بازارهای آسیایی تحت تأثیر قرار دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قوانین بازار سرمایه",
+    "tag": "short selling",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795218780.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "27fd8cfbc3",
     "title_fa": "‏بازار Nasdaq پس از عرضه Anthropic 5 ٪ سقوط کرد",
     "title_en": "VIEW Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
@@ -6509,94 +6597,6 @@
     "clean_url": "https://www.reuters.com/technology/who-is-harvey-jones-nvidias-first-ever-board-chair-2026-11-12",
     "image": "https://s.yimg.com/bo/17e96a30-3a71-5ea8-ba31-0fc575a03b0b_1792040600272.jpg",
     "timestamp": 1794494665.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "14085e815c",
-    "title_fa": "‏Hancock Whitney خرید Trustmark ۳٫۲ میلیارد دلاری را اعلام کرد",
-    "title_en": "US regional bank Hancock Whitney strikes around $3.2 billion deal for Trustmark",
-    "summary": [
-      "‏بانک منطقه‌ای Hancock Whitney قصد دارد Trustmark را به‌قیمت حدود ۳٫۲ میلیارد دلار خریداری کند.",
-      "‏این ادغام می‌تواند ترکیب دارایی‌ها را تقویت کند و رقابت در بازار بانک‌های منطقه‌ای آمریکا را تغییر دهد.",
-      "‏معامله به‌صورت تمام‌سهام انجام می‌شود و انتظار می‌رود تا پایان سال تکمیل شود."
-    ],
-    "body_fa": "‏بانک منطقه‌ای Hancock Whitney اعلام کرد که قصد دارد بانک همتاِ خود Trustmark را در یک معامله تقریباً ۳٫۲ میلیارد دلاری خریداری کند. این خرید به‌صورت تمام‌سهام انجام می‌شود، به این معنی که سهامداران Trustmark سهام Hancock Whitney دریافت می‌کنند. معامله نیاز به تأیید نهادهای نظارتی دارد و پیش‌بینی می‌شود تا پایان سال جاری تکمیل شود. ترکیب دارایی‌های دو بانک می‌تواند توان مالی و پوشش جغرافیایی آن‌ها را گسترش دهد و فشار رقابتی در بازار بانک‌های منطقه‌ای ایالات متحده را افزایش دهد. تحلیل‌گران انتظار دارند این ادغام به بهبود سودآوری و کاهش هزینه‌های عملیاتی منجر شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "ادغام بانک‌ها",
-    "tag": "خرید بانک",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/us-regional-bank-hancock-whitney-strikes-around-32-billion-deal-trustmark-2026-11-12/",
-    "clean_url": "https://www.reuters.com/legal/transactional/us-regional-bank-hancock-whitney-strikes-around-32-billion-deal-trustmark-2026-11-12",
-    "image": "https://s.yimg.com/bo/4301cb44-0b47-583f-aa52-54282f99ec34_1794494656725.jpg",
-    "timestamp": 1794491065.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e5887ef1d9",
-    "title_fa": "‏قیمت نفت پس از اظهارات ترامپ درباره ایران جهش کرد",
-    "title_en": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait",
-    "summary": [
-      "‏برنت 1.6% و WTI 1.3% پس از توییت ترامپ درباره عدم نیاز به توافق با ایران ارتقا یافت.",
-      "‏این افزایش نشان‌دهنده نگرانی بازارها از ادامه تنش‌های خلیج و احتمال تحریم‌های بیشتر است.",
-      "‏تحلیل‌گران پیش‌بینی می‌کنند قیمت‌ها تا پایان هفته ممکن است بالاتر بمانند."
-    ],
-    "body_fa": "‏قیمت نفت برنت به 94.25 دلار و نفت خام WTI به 87.62 دلار رسید؛ هر دو به ترتیب 1.6% و 1.3% افزایش یافتند. این جهش پس از انتشار پست ترامپ در Truth Social بود که اعلام کرد نیازی به توافق با ایران نیست و آمریکا «پول‌ها و مسیرهای دریایی» ایران را در اختیار دارد. تحلیل‌گران بازار، از جمله اندی لیپو، رئیس Lipow Oil Associates ، گفتند این اظهارات می‌تواند فشار اقتصادی بر ایران را ادامه دهد و خطر حملات به زیرساخت‌های خاورمیانه را افزایش دهد. در نتیجه، سرمایه‌گذاران نگران ادامه تنش در تنگه هرمز و احتمال تحریم‌های جدید هستند. پیش‌بینی می‌شود این فشارها تا پایان هفته بر قیمت‌ها تأثیر داشته باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت نفت",
-    "tag": "نفت",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-    "clean_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-    "image": "https://s.yimg.com/bo/7a9ddeae-eca3-5b41-a956-38c8dc4723a9_1794313902294.jpg",
-    "timestamp": 1794489848.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f9eaddec39",
-    "title_fa": "‏بدهی کارت‌ اعتباری آمریکا به رکورد 1.29 تریلیون دلار رسید",
-    "title_en": "As credit card balances hit a record high, medical bills can become 'shadow...",
-    "summary": [
-      "‏بدهی کارت‌ اعتباری آمریکا در سه ماهه سوم به 1.29 تریلیون دلار رسید، بالاترین سطح تاریخی.",
-      "‏این افزایش نشان‌دهنده فشارهای هزینه‌ای بر مصرف‌کنندگان و تبدیل بدهی‌های پزشکی به بدهی‌های کارت‌ اعتباری است.",
-      "‏حدود 17 ٪ خانوارها هنوز بدهی‌های پزشکی را با وام یا کارت‌ اعتباری پرداخت می‌کنند."
-    ],
-    "body_fa": "‏کل بدهی خانوارهای آمریکایی در سه ماهه سوم به 19.1 تریلیون دلار افزایش یافت که شامل بدهی مستقیم پزشکی نیست. برآوردها نشان می‌دهد حدود 220 میلیارد دلار بدهی پزشکی وجود دارد و وقتی این هزینه‌ها با کارت‌ اعتباری یا وام‌های دیگر پرداخت می‌شوند، به‌صورت «سایه» به بدهی‌های دیگر تبدیل می‌شوند. جیم تریگز، مدیرعامل Money Management International ، گفت 20 ٪ از مراجعین این سازمان در سال 2025 به دلیل مشکلات پزشکی به بدهی کشیده‌اند. پژوهش‌گران Consumer Financial Protection Bureau هم گزارش دادند 17 ٪ خانوارها هنوز بدهی‌های پزشکی خود را با کارت‌ اعتباری یا وام پرداخت می‌کنند. فدرال‌رزرو نیویورک نیز اعلام کرد بدهی کارت‌ اعتباری به 1.29 تریلیون دلار رسید و خطوط اعتبار مسکن به 481 میلیارد دلار جهش یافت. این روند در میان فشارهای هزینه‌ای ناشی از تورم مداوم، خطراتی برای توان خرید مصرف‌کنندگان ایجاد می‌کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بدهی خانوار",
-    "tag": "بدهی‌کارت‌اعتباری",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
-    "clean_url": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
-    "image": "https://s.yimg.com/bo/e5b7b5a4-6cba-5278-bad7-8bbcaded38cd_1794490247239.jpg",
-    "timestamp": 1794489308.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "100dd4fae6",
-    "title_fa": "‏نیجریه برای ششمین ماه متوالی به سهمیه اوپک رسید",
-    "title_en": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month | OilPrice.com",
-    "summary": [
-      "‏نیجریه در اکتبر متوسط 1.51 میلیون بشکه نفت در روز تولید کرد و برای ششمین ماه متوالی به سهمیه اوپک+ رسید.",
-      "‏این نشان‌دهندهٔ ثبات تولید و کاهش تخریب‌های ناشی از سرقت و خرابکاری است که می‌تواند فشار بر قیمت‌های جهانی نفت را کاهش دهد.",
-      "‏نیجریه قصد دارد تا 2027 تولید خود را به 2 میلیون بشکه در روز برساند."
-    ],
-    "body_fa": "‏طبق آمار کمیسیون تنظیم‌کننده نفت و گاز نیجریه (NUPRC)، تولید نفت خام این کشور در اکتبر به‌طور متوسط 1.51 میلیون بشکه در روز رسید. این مقدار برابر 101 ٪ از سقف 1.5 میلیون بشکه در روز است که در توافقات اوپک+ تعیین شده و نشان می‌دهد نیجریه برای ششمین ماه متوالی به سهمیه خود عمل کرده است. بهبود پایداری عملیاتی، افزایش زمان کارکرد میدان‌ها و بهینه‌سازی جریان‌های نفتی از عوامل اصلی این ثبات بوده‌اند. پس از سال‌های طولانی که به‌دلیل خرابکاری، سرقت نفت و نشت‌های نفتی تولید زیر سقف بود، نیجریه در ماه مه به بالاترین سطح 15‑ماهه خود یعنی 1.53 میلیون بشکه در روز رسید. در اوایل جنگ ایران، این کشور برای جبران کمبودهای ناشی از بسته شدن تنگه هرمز، تولید خود را 100,000 بشکه در روز افزایش داد. نیجریه برنامه دارد تا سال 2027 تولید روزانه خود را به 2 میلیون بشکه برساند، که می‌تواند نقش مهمی در تأمین بازار جهانی ایفا کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "تولید نفت نیجریه",
-    "tag": "نفت",
-    "urgency": 5,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Hits-OPEC-Oil-Production-Quota-for-Sixth-Straight-Month.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Hits-OPEC-Oil-Production-Quota-for-Sixth-Straight-Month.html",
-    "image": "https://s.yimg.com/bo/327d0064-6c49-503d-89c7-609e5d395486_1794487225187.jpg",
-    "timestamp": 1794488348.0,
     "sent_to_telegram": true
   }
 ]
