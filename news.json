@@ -1,5 +1,27 @@
 [
   {
+    "id": "6cb2bf63bb",
+    "title_fa": "‏ایالات متحده ادعای موشک‌گیری ایران علیه F-16 را رد کرد",
+    "title_en": "US denies Iranian account that missile damaged F-16 over Gulf",
+    "summary": [
+      "‏ایالات متحده ادعای ایران مبنی بر شلیک موشکی که F-16 آمریکایی را در خلیج خراسان صدمه زد را رد کرد",
+      "‏این رد ادعا می‌تواند تنش‌های نظامی بین دو کشور را کاهش دهد و از تشدید بحران جلوگیری کند",
+      "‏ایران هنوز ادعای خود را ثابت می‌داند و گفتن ادامه دارد"
+    ],
+    "body_fa": "‏فرماندهی مرکزی ایالات متحده روز شنبه اعلام کرد که ادعای ایران مبنی بر شلیک موشکی که به یک جنگنده F-16 آمریکایی در خلیج خراسان آسیب رسانده است، نادرست است. این موشک‌گیری ادعایی توسط نیروی هوایی ایران مطرح شد و رسانه‌های ایرانی آن را به عنوان نشانه‌ای از توان نظامی خود توصیف کردند. اما نیروی هوایی آمریکا هیچ خسارتی به هواپیمای خود گزارش نکرده و گفتن این ادعا به منظور تشدید تنش‌های منطقه‌ای است. رد این ادعا می‌تواند از تشدید بحران بین واشنگتن و تهران جلوگیری کند، هرچند روابط دو کشور همچنان در سطح تنش باقی مانده است. تحلیلگران بر این باورند که این گونه اظهارات می‌تواند به مذاکرات یا تحریم‌های جدید منجر شود، اما در کوتاه‌مدت تأثیر اقتصادی قابل‌توجهی ندارد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تنش‌های نظامی",
+    "tag": "F-16",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21",
+    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1793090784742.jpg",
+    "timestamp": 1795273015.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "589660e491",
     "title_fa": "‏افت اتر، کسری ۵۴ میلیون دلاری در BTCS ایجاد کرد",
     "title_en": "ETH news: Ether’s plunge puts a Nasdaq-listed treasury in a $54 million loan squ...",
@@ -44,6 +66,94 @@
     "sent_to_telegram": true
   },
   {
+    "id": "a8d1513c90",
+    "title_fa": "‏قیمت نفت خام تا 2027 به 70 دلار می‌رسد",
+    "title_en": "Crude oil prices to fall to $70 by 2027? Why global oil market may see a major surplus",
+    "summary": [
+      "‏پیش‌بینی می‌شود قیمت نفت خام تا سال 2027 به حدود 70 دلار در هر بشکه برسد.",
+      "‏این کاهش به دلیل افزایش عرضه غیر OPEC+ و کاهش تقاضا در چین است و می‌تواند بازار انرژی را تحت فشار قرار دهد.",
+      "‏در کوتاه‌مدت نوسان قیمت‌ها پیش‌بینی می‌شود و حاشیه دیزل تنگ می‌شود."
+    ],
+    "body_fa": "‏تحلیل‌گران بازار نفت پیش‌بینی می‌کنند که تا پایان سال 2027 قیمت نفت خام به حدود 70 دلار در هر بشکه کاهش یابد. این پیش‌بینی بر پایه افزایش چشمگیر عرضه نفت از کشورهای غیر OPEC+ و همچنین کاهش تقاضای چین، بزرگ‌ترین مصرف‌کننده نفت، استوار است. افزایش تولید در ایالات متحده، برزیل و دیگر کشورهای تولیدکننده، به‌همراه بهبود شرایط عرضه، فشار نزولی بر قیمت‌ها ایجاد می‌کند. در عین حال، حاشیه سود دیزل به دلیل تقاضای محدود و هزینه‌های تولید بالا، تنگ می‌شود که می‌تواند نوسان کوتاه‌مدت قیمت‌ها را تشدید کند. این روند ممکن است درآمدهای کشورهای تولیدکننده نفت، از جمله ایران، را تحت فشار قرار دهد و سیاست‌های مالی و صادراتی آن‌ها را تحت تأثیر بگذارد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت نفت",
+    "tag": "نفت",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "The Financial Express",
+    "url": "https://www.financialexpress.com/world-news/crude-oil-prices-to-fall-to-70-by-2027-why-global-oil-market-may-see-a-major-surplus/4390408/",
+    "clean_url": "https://www.financialexpress.com/world-news/crude-oil-prices-to-fall-to-70-by-2027-why-global-oil-market-may-see-a-major-surplus/4390408",
+    "image": "https://images.financialexpressdigital.com/2026/10/oil_20260530172734_20260615042253_20260616100508_20260622164014_20260702123228_20260708104054_20260723145901_20260729155540_20260819194920_20260929105350_20261012113428_20261028100231.jpg",
+    "timestamp": 1795241040.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3a7a765f49",
+    "title_fa": "‏ناتو هر اینچ سرزمین لهستان را دفاع می‌کند، روتی اعلام کرد",
+    "title_en": "NATO will defend every inch of Polish territory, Rutte says",
+    "summary": [
+      "‏ناتو اعلام کرد که هر اینچ سرزمین لهستان را در صورت تهدید روسیه دفاع خواهد کرد.",
+      "‏این تعهد نشان‌دهنده تشدید تنش‌های امنیتی در شرق اروپا و تأثیر احتمالی بر روابط ناتو‑روسیه است.",
+      "‏روسیه روز قبل سه جسم هوایی را که احتمالاً دو پهپاد نظامی بودند، به حریم هوایی لهستان نفوذ داد."
+    ],
+    "body_fa": "‏ناتو روز دوشنبه در ورشو اعلام کرد که هر اینچ سرزمین لهستان را در صورت تهدید روسیه به‌طور کامل دفاع خواهد کرد. این بیانیه توسط مارک روتی، نخست‌وزیر هلند و نماینده ناتو، پس از گزارش لهستان مبنی بر نفوذ سه جسم هوایی روسی به حریم هوایی این کشور ارائه شد. لهستان ادعا کرد این اشیاء احتمالاً دو پهپاد نظامی بوده و نقض جدی حریم هوایی محسوب می‌شود. تعهد ناتو به دفاع از لهستان نشان‌دهنده تشدید تنش‌های نظامی در شرق اروپا و پیام قوی به مسلحین روسیه است. این حرکت می‌تواند بر مذاکرات انرژی و امنیتی اروپا تأثیر بگذارد و نگرانی‌های سرمایه‌گذاران را نسبت به ریسک‌های ژئوپلیتیک افزایش دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "امنیت بین‌المللی",
+    "tag": "ناتو",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/",
+    "clean_url": "https://www.reuters.com/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795240920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1f64bd3af3",
+    "title_fa": "‏سازمان SEC بررسی حسابداری Nvidia را آغاز کرد",
+    "title_en": "Nvidia's accounting is a focus of US SEC investigation",
+    "summary": [
+      "‏سازمان بورس و اوراق آمریکا (SEC) تحقیقات خود را درباره روش‌های حسابداری Nvidia آغاز کرد.",
+      "‏این بررسی می‌تواند فشار بر سهام این غول تراشه و بازار فناوری را افزایش دهد.",
+      "‏در صورت یافتن تخلفات، ممکن است جریمه‌ها یا تغییرات مالی گزارش‌شده اعمال شود."
+    ],
+    "body_fa": "‏سازمان بورس و اوراق آمریکا (SEC) رسماً اعلام کرد که به بررسی روش‌های حسابداری شرکت Nvidia می‌پردازد. این تحقیق بر مواردی مانند شناسایی درآمد، هزینه‌های مرتبط با سهام و گزارش‌های مالی دوره‌ای متمرکز است. Nvidia که با ارزش بازار بیش از ۱ تریلیون دلار و رشد سریع در بخش هوش مصنوعی شناخته می‌شود، در ماه‌های اخیر تحت فشارهای نظارتی بیشتری قرار گرفته است. اگر SEC تخلفات جدی پیدا کند، ممکن است جریمه‌های سنگین، بازنگری در صورت‌های مالی یا حتی تغییر در گزارش سود سهام اعمال شود. تحقیقات مشابه در گذشته باعث نوسان شدید سهام Nvidia و نگرانی سرمایه‌گذاران در بازار فناوری شد. در نتیجه، این بررسی می‌تواند تأثیر قابل‌توجهی بر قیمت سهام Nvidia و شاخص‌های مرتبط با تکنولوژی داشته باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "حسابداری و مقررات",
+    "tag": "Nvidia",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+    "clean_url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20",
+    "image": "https://s.yimg.com/bo/5cebc082-8182-563d-929d-6c2fa79cc2a4_1795242097369.png.cf.jpg",
+    "timestamp": 1795240615.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b5fd0fd898",
+    "title_fa": "‏حمله اسرائیلی سه نفر را در خودرو کمک‌رسانی غزه کشت",
+    "title_en": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+    "summary": [
+      "‏یک حمله هوایی اسرائیلی در شهر غزه سه نفر را که در خودروی توزیع مواد غذایی و اسناد خیریه World Central Kitchen بودند، کشته.",
+      "‏این قتل به‌ویژه چون قربانیان در حال ارائه کمک‌های انسانی بودند، واکنش‌های بین‌المللی و انتقادات نسبت به عملیات نظامی اسرائیل را تشدید می‌کند.",
+      "‏وزارت بهداشت غزه تعداد کشته‌ها را سه اعلام کرد."
+    ],
+    "body_fa": "‏در روز شنبه، یک حمله هوایی اسرائیلی به شهر غزه منجر به کشته شدن سه فلسطینی شد که در خودرویی مشغول حمل اسناد و مواد غذایی برای خیریه World Central Kitchen بودند. وزارت بهداشت غزه تعداد کشته‌ها را سه نفر اعلام کرد و این حادثه را به‌عنوان هدف‌گیری غیرنظامی محکوم کرد. شاهدان عینی گفتند که خودرو به‌سرعت از یک محله مسکونی عبور می‌کرد و پس از سقوط، انفجار شد. این رویداد پس از فشارهای بین‌المللی برای گسترش کمک‌های انسانی به غزه، نگرانی‌ها درباره امنیت توزیع کمک‌ها را افزایش داد. مقامات اسرائیلی هنوز درباره هدف دقیق این حمله توضیحی نداده‌اند. واکنش‌های بین‌المللی به این قتل، احتمالاً فشار بیشتری بر اسرائیل برای محدود کردن عملیات نظامی در مناطق غیرنظامی ایجاد می‌کند. این حادثه می‌تواند تأثیراتی بر روابط منطقه‌ای، به‌ویژه نقش ایران در حمایت از گروه‌های فلسطینی داشته باشد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حمله نظامی غزه",
+    "tag": "غزه",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21/",
+    "clean_url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795240380.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "f294818f9a",
     "title_fa": "‏قیمت XRP کاهش یافت؛ دارایی‌های ETF زیر یک میلیارد دلار شد",
     "title_en": "XRP price: What next for Ripple-linked token as ETF assets slip under $1 billion",
@@ -63,6 +173,72 @@
     "clean_url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
     "image": "https://s.yimg.com/bo/a9f3c7f5-d6ee-555c-9525-3321339e7e6b_1795241693546.png.cf.jpg",
     "timestamp": 1795239774.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "35ad05ffff",
+    "title_fa": "‏پاک‌سازی پل کریمه سقوط‌کرده ماه‌ها زمان می‌برد",
+    "title_en": "Clean-up of Downed Crimea Bridge to Take Russia Months, Ukraine Says",
+    "summary": [
+      "‏اوکراین اعلام کرد پاک‌سازی پل کریمه که توسط آن تخریب شد، برای روسیه ماه‌ها طول می‌کشد.",
+      "‏این تأخیر می‌تواند حمل‌ونقل کالا و انرژی بین روسیه و کریمه را مختل کند.",
+      "‏تاخیر ممکن است فشار اقتصادی بیشتری بر روسیه وارد کند."
+    ],
+    "body_fa": "‏اوکراین ادعا کرد که پل کریمه که در حمله اخیر به شدت آسیب دیده، برای روسیه چندین ماه زمان خواهد برد تا به‌طور کامل پاک‌سازی و تعمیر شود. این پل که مسیر اصلی حمل‌ونقل کالا، سوخت و مسافران بین روسیه و شبه‌جزیره کریمه است، نقش کلیدی در تأمین انرژی و تجارت روسیه دارد. با توقف یا محدود شدن عبور وسایل نقلیه، هزینه‌های لجستیکی برای شرکت‌های روسی افزایش می‌یابد و ممکن است قیمت‌های انرژی در بازارهای جهانی تحت فشار قرار گیرد. همچنین، این اتفاق نشان‌دهنده توان عملیاتی اوکراین در مقابله با زیرساخت‌های حیاتی روسیه است و می‌تواند به تحکیم تحریم‌های بین‌المللی علیه مسکو کمک کند. دولت روسیه هنوز برنامه دقیق برای بازسازی پل را اعلام نکرده، اما انتظار می‌رود که منابع مالی و نیروی کار قابل‌توجهی صرف این کار شود. این تحولات می‌تواند به‌عنوان یک عامل جدید در دینامیک جنگ روسیه‑اوکراین و اثرات اقتصادی آن در نظر گرفته شود.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "زیرساخت‌ها و حمل‌ونقل",
+    "tag": "پل‌کریمه",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/clean-up-of-downed-crimea-bridge-to-take-russia-months-ukraine-says",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-21/clean-up-of-downed-crimea-bridge-to-take-russia-months-ukraine-says",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795236060.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "224fc9426a",
+    "title_fa": "‏قیمت بیت‌کوین ۵٫۱٪ کاهش یافت و به ۵۵٬۸۳۰ دلار رسید",
+    "title_en": "Bitcoin falls 5.10% to $55,830",
+    "summary": [
+      "‏بیت‌کوین ۵٫۱٪ افت کرد و به ۵۵٬۸۳۰ دلار رسید",
+      "‏این سقوط شدید می‌تواند نوسان بازار رمزارزها را تشدید کند",
+      "‏قیمت در ساعت ۲۳:۱۳ به وقت شرق آمریکا ثبت شد"
+    ],
+    "body_fa": "‏بیت‌کوین، بزرگ‌ترین رمزارز جهان از نظر ارزش بازار، در روز جمعه حدود ۵٫۱٪ کاهش یافت. قیمت آن به ۵۵٬۸۳۰ دلار رسید؛ این داده‌ها در ساعت ۲۳:۱۳ به وقت شرق ایالات متحده (۰۴:۱۳ GMT) گزارش شد. چنین افتی که بیش از سه درصد است، معمولاً نشان‌دهنده فشار فروش قابل‌توجهی در بازار رمزارزهاست. تحلیل‌گران هشدار می‌دهند این نوسان می‌تواند باعث کاهش اعتماد سرمایه‌گذاران و گسترش نوسانات در سایر رمزارزها شود. در حالی که هیچ خبر اقتصادی یا نظارتی جدیدی اعلام نشده، این حرکت قیمت به‌عنوان یک رویداد مهم برای معامله‌گران در نظر گرفته می‌شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 9,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
+    "clean_url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21",
+    "image": "https://s.yimg.com/bo/a9efda66-8d83-53fe-b786-62bec012d076_1795235099510.jpg",
+    "timestamp": 1795233415.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5ccfdc7db8",
+    "title_fa": "‏نظامی چین SF Express را دلیل تخلف خرید ممنوع کرد",
+    "title_en": "China Military Bars SF Express Over Procurement Misconduct",
+    "summary": [
+      "‏نظامی چین استفاده از SF Express را به دلیل تخلف در خرید ممنوع کرد",
+      "‏این تصمیم می‌تواند زنجیره تأمین لجستیک نظامی و تجاری را مختل کند",
+      "‏شرکت ممکن است به بررسی داخلی و جریمه‌های احتمالی بپردازد"
+    ],
+    "body_fa": "‏نظامی چین به دلیل تخلف در فرآیندهای خرید، استفاده از خدمات شرکت لجستیکی SF Express را ممنوع کرد. این اقدام پس از کشف ناهماهنگی‌های مالی و عدم رعایت قوانین تأمین‌کنندگان نظامی صورت گرفت. ممنوعیت می‌تواند بر تحویل کالاهای نظامی و تجاری که به این شرکت وابسته‌اند، فشار وارد کند و زنجیره تأمین را مختل سازد. تصمیم نشان‌دهنده تشدید نظارت نظامی بر قراردادهای تجاری و احتمال اعمال جریمه‌های مالی برای شرکت است. سایر شرکت‌های حمل‌ونقل نیز ممکن است تحت بررسی مشابهی قرار گیرند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "محدودیت‌های نظامی",
+    "tag": "SF Express",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795228260.0,
     "sent_to_telegram": true
   },
   {
@@ -88,6 +264,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "0f828f1647",
+    "title_fa": "‏پاسچی پیشنهاد اینتسا را منصفانه می‌داند ولی ارزش کامل نیست",
+    "title_en": "Paschi Deems Intesa’s Offer Fair Yet Value Not Fully Reflected",
+    "summary": [
+      "‏پاسچی اعلام کرد پیشنهاد اینتسا برای خرید بانک منصفانه است اما ارزش کامل شرکت را نشان نمی‌دهد.",
+      "‏این اظهارات می‌تواند مذاکرات قیمت را ادامه دهد و بر سهام بانک‌های ایتالیا تأثیر بگذارد.",
+      "‏تصمیم نهایی هنوز تحت بررسی نظارتی است."
+    ],
+    "body_fa": "‏پاسچی دی‌سی پس از بررسی پیشنهاد اینتسا سانتا ماریا اعلام کرد که این پیشنهاد منصفانه است. اما بانک هدف افزود که ارزش واقعی شرکت در این پیشنهاد به‌طور کامل منعکس نشده است. به‌دلیل این اختلاف، پاسچی ممکن است به دنبال افزایش قیمت یا شرایط بهتر باشد. مذاکرات همچنان ادامه دارد و تحت نظارت مقامات نظارتی ایتالیا قرار دارد. هرگونه تغییر در قیمت می‌تواند نوسان قابل‌توجهی در سهام هر دو بانک ایجاد کند. بازارهای اروپایی نیز به این خبر توجه کرده و ممکن است واکنش نشان دهند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ادغام و تملک",
+    "tag": "Intesa",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/paschi-deems-intesa-s-offer-fair-yet-value-not-fully-reflected",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-21/paschi-deems-intesa-s-offer-fair-yet-value-not-fully-reflected",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795218120.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b85948d718",
+    "title_fa": "‏بیت‌کوین رفع باگی که گره‌ها را متوقف می‌کرد، به‌روزرسانی شد",
+    "title_en": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+    "summary": [
+      "‏Bitcoin Core اصلاحات برای باگی منتشر کرد که می‌توانست یک شناسه را ۵۰٬۰۰۰ بار تکرار کرده گره‌ها را متوقف کند.",
+      "‏این مشکل می‌توانست عملکرد شبکه بیت‌کوین را مختل کند؛ رفع آن امنیت و پایداری سیستم را تضمین می‌کند.",
+      "‏باگ توسط اسکنر هوش مصنوعی Loupe از Spiral شناسایی شد."
+    ],
+    "body_fa": "‏پروژه Bitcoin Core روز جمعه اصلاحات مهمی را برای رفع یک باگ بحرانی منتشر کرد. این باگ می‌توانست با تکرار یک شناسه به‌صورت ۵۰٬۰۰۰ بار، گره‌های بیت‌کوین را متوقف سازد و عملکرد شبکه را مختل کند. شناسایی این مشکل توسط Loupe ، اسکنر متن‌باز مبتنی بر هوش مصنوعی که توسط Spiral از Block توسعه یافته، انجام شد. پس از کشف، تیم توسعه سریعاً کد را به‌روزرسانی کرد تا از بروز چنین توقفی جلوگیری شود. رفع این باگ امنیت و پایداری شبکه بیت‌کوین را تقویت می‌کند و اطمینان کاربران و ماینرها را افزایش می‌دهد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "خطای نرم‌افزاری",
+    "tag": "بیت‌کوین",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "clean_url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795212960.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "27fd8cfbc3",
     "title_fa": "‏بازار Nasdaq پس از عرضه Anthropic 5 ٪ سقوط کرد",
     "title_en": "VIEW Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
@@ -110,6 +330,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "5dc8fab4c9",
+    "title_fa": "‏قیمت بیت‌کوین زیر 57,000 دلار افت کرد",
+    "title_en": "Bitcoin below $57,000: How 55% slump from record high stacks up against every major crypto winter since 2014",
+    "summary": [
+      "‏قیمت بیت‌کوین به 56,940 دلار رسید پس از سقوط 8 ٪ در ۲۴ ساعت",
+      "‏این کاهش 55 ٪ از اوج تاریخی 126,198 دلاری را نشان می‌دهد و بازار کریپتو را تحت فشار قرار می‌دهد",
+      "‏این افت بزرگ‌ترین نزول ماهانه از سال 2014 به شمار می‌رود"
+    ],
+    "body_fa": "‏بیت‌کوین امروز نزدیک 56,940 دلار معامله می‌شود؛ در ۲۴ ساعت گذشته بیش از 8 ٪ کاهش یافته است. این کاهش نشان‌دهنده افت حدود 55 ٪ از بالاترین قیمت تاریخی 126,198 دلاری در 6 اکتبر است. چنین نزولی بزرگ تنها پس از سرماهای کریپتو سال 2014 ، 2018 و 2022 دیده شده است. کاهش قیمت باعث فشار بر سایر ارزهای دیجیتال شده و نوسانات بازار را تشدید می‌کند. تحلیل‌گران به کاهش تقاضا و نگرانی‌های نظارتی به عنوان عوامل اصلی اشاره می‌کنند. پیش‌بینی‌ها نشان می‌دهد که بیت‌کوین ممکن است در هفته‌های آینده به سطوح حمایتی مهمی نزدیک شود.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "قیمت بیت‌کوین",
+    "tag": "Bitcoin",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Business Today on MSN",
+    "url": "https://www.msn.com/en-in/money/other/bitcoin-below-57-000-how-55-slump-from-record-high-stacks-up-against-every-major-crypto-winter-since-2014/ar-AA2hTs2u",
+    "clean_url": "https://www.msn.com/en-in/money/other/bitcoin-below-57-000-how-55-slump-from-record-high-stacks-up-against-every-major-crypto-winter-since-2014/ar-AA2hTs2u",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795209459.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1945fcc07e",
     "title_fa": "‏قاضی میسوری توافق‌نامه ۷٫۲۵ میلیارد دلاری Bayer را تصویب کرد",
     "title_en": "Missouri judge approves Bayer's $7.25 billion Roundup settlement",
@@ -129,6 +371,28 @@
     "clean_url": "https://www.reuters.com/legal/government/missouri-judge-approves-bayers-725-billion-roundup-settlement-2026-11-20",
     "image": "https://s.yimg.com/bo/6052e854-bfde-5d6f-bf2c-6b0585d13c83_1794643371595.jpg",
     "timestamp": 1795209171.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "d5b4673a67",
+    "title_fa": "‏به‌روزرسانی بزرگ Ethereum به ژانویه موکول شد",
+    "title_en": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+    "summary": [
+      "‏به‌روزرسانی Glamsterdam اتریوم که برای دسامبر برنامه‌ریزی شده بود، به ژانویه موکول شد.",
+      "‏تاخیر به دلیل نیاز شرکت‌ها به اصلاح قراردادهای هوشمند است که در اثر ارتقا خراب می‌شوند.",
+      "‏این تغییر می‌تواند دپ‌های موجود را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏اتریوم برنامه‌ریزی کرده بود تا به‌روزرسانی بزرگ خود به نام Glamsterdam را در دسامبر اجرا کند. اما توسعه‌دهندگان اعلام کردند که به دلیل مشکلاتی که این ارتقا در قراردادهای هوشمند موجود ایجاد می‌کند، نمی‌توانند زمان‌بندی قبلی را حفظ کنند. شرکت‌ها و تیم‌های مختلف در حال اصلاح این قراردادها هستند و کمترین زمان ممکن برای انتشار ارتقا، ژانویه است. این تاخیر نشان می‌دهد که تغییرات اساسی در لایهٔ پایه می‌تواند اثرات گسترده‌ای بر برنامه‌های غیرمتمرکز داشته باشد. کاربران و سرمایه‌گذاران باید آمادهٔ مواجهه با احتمالی تغییر در عملکرد و هزینه‌های تراکنش باشند.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "به‌روزرسانی پروتکل",
+    "tag": "Ethereum",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+    "clean_url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795208280.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,270 +6597,6 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794536040.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5904786f0f",
-    "title_fa": "‏مدیرعامل Anthropic می‌گوید عرضه اولیه باید کمتر وعده دهد",
-    "title_en": "Anthropic Chief Says He Hopes IPO Will ‘Underpromise and Overdeliver’",
-    "summary": [
-      "‏مدیرعامل Anthropic ، Dario Amodei ، گفت هدف IPO شرکت «کمتر وعده‌دادن و بیشتر ارائه» است.",
-      "‏این رویکرد می‌تواند انتظارات سرمایه‌گذاران را تنظیم کرده و فشار کمتری بر قیمت سهام پس از عرضه ایجاد کند.",
-      "‏شرکت هنوز زمان دقیق IPO را اعلام نکرده است."
-    ],
-    "body_fa": "‏مدیرعامل Anthropic ، Dario Amodei ، در مصاحبه‌ای اعلام کرد که هدف شرکت برای عرضه اولیه سهام (IPO) این است که «کمتر وعده‌ بدهد و بیشتر ارائه کند». به عبارت دیگر، او می‌خواهد انتظارات سرمایه‌گذاران را به‌گونه‌ای تنظیم کند که پس از لیست شدن، عملکرد واقعی شرکت از پیش‌بینی‌ها فراتر رود. این رویکرد می‌تواند به کاهش نوسانات قیمت سهام در روزهای اولیه پس از عرضه کمک کند. Anthropic که در حوزه هوش مصنوعی و مدل‌های زبانی پیشرفته فعالیت می‌کند، در حال حاضر به‌دنبال جذب سرمایه برای گسترش زیرساخت‌ها و توسعه محصولات جدید است. اگرچه تاریخ دقیق IPO هنوز اعلام نشده، اما این اظهارات نشان می‌دهد که شرکت قصد دارد با رویکرد محتاطانه، پذیرش عمومی و سرمایه‌گذاری‌های بزرگ را تضمین کند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "IPO",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/anthropic-chief-says-he-hopes-ipo-will-underpromise-and-overdeliver--QcjJ0ZBRMpUk1nqkLOik",
-    "clean_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/anthropic-chief-says-he-hopes-ipo-will-underpromise-and-overdeliver--QcjJ0ZBRMpUk1nqkLOik",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794535920.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2b03e78143",
-    "title_fa": "‏id Software پروژه جدید Doom را تأیید کرد",
-    "title_en": "New 'Doom game' confirmed, id Software reveals next project following Xbox studio layoffs",
-    "summary": [
-      "‏شرکت id Software اعلام کرد که یک بازی جدید از سری Doom در حال توسعه است.",
-      "‏این خبر پس از اخراج‌های اخیر در استودیوی Xbox توجه رسانه‌ها و بازیکنان را جلب می‌کند.",
-      "‏پروژه جدید می‌تواند نقش مهمی در بازگشت شهرت این استودیوی افسانه‌ای داشته باشد."
-    ],
-    "body_fa": "‏شرکت id Software رسماً اعلام کرد که در حال توسعه یک بازی جدید از سری Doom است. این اعلامیه اولین نشانه‌ای است که استودیوی افسانه‌ای پس از دوره‌ای از بازسازی و اخراج‌های بزرگ در بخش Xbox به مسیر تولید بازگشته است. مدیرعامل Xbox ، Asha Sharma ، در بیانیه‌ای اشاره کرد که این پروژه نشان‌دهنده تعهد شرکت به حفظ خلاقیت و نوآوری در عناوین کلاسیک است. جزئیات فنی بازی هنوز منتشر نشده، اما انتظار می‌رود که از فناوری‌های جدید گرافیکی و موتور id Tech بهره بگیرد. خبر انتشار این بازی می‌تواند توجه بازیکنان و سرمایه‌گذاران را به سمت id Software جلب کند و فروش محصولات مرتبط را تقویت کند. در صورت موفقیت، این عنوان می‌تواند نقش مهمی در بازگشت شهرت و موقعیت مالی استودیوی پس از دوره‌ی دشوار داشته باشد.",
-    "category": "گیم",
-    "subcategory": "بازی جدید",
-    "tag": "Doom",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Player.One on MSN",
-    "url": "https://www.msn.com/en-us/gaming/action-adventure-games/new-doom-game-confirmed-id-software-reveals-next-project-following-xbox-studio-layoffs/ar-AA2hlD0Y",
-    "clean_url": "https://www.msn.com/en-us/gaming/action-adventure-games/new-doom-game-confirmed-id-software-reveals-next-project-following-xbox-studio-layoffs/ar-AA2hlD0Y",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794535219.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6d235d5792",
-    "title_fa": "‏قطعی سرویس‌های Microsoft باعث بازنویسی برنامه‌های درمانی NHS شد",
-    "title_en": "NHS Forced to Reschedule Procedures After Microsoft Outage",
-    "summary": [
-      "‏بیمارستان‌های NHS پس از قطعی سرویس‌های Microsoft برنامه‌های جراحی و درمانی را به‌تاخیر بیندازد.",
-      "‏این قطعی باعث اختلال در زمان‌بندی مراقبت‌های بهداشتی ملی و فشار بر بیمارستان‌ها شد.",
-      "‏سرویس‌های Azure مایکروسافت برای چند ساعت در دسترس نبودند."
-    ],
-    "body_fa": "‏قطعی سرویس‌های Azure مایکروسافت باعث اختلال گسترده در سامانه‌های دیجیتال NHS شد. به‌دلیل عدم دسترسی به پلتفرم‌های ابری، بیمارستان‌ها مجبور به بازنویسی زمان‌بندی جراحی‌ها و درمان‌های برنامه‌ریزی‌شده شدند. این تأخیرها فشار زیادی بر ظرفیت‌های موجود ایجاد کرد و برخی بیماران را مجبور به جابجایی زمان ملاقات کرد. مایکروسافت پس از بررسی علت، اعلام کرد که مشکل فنی در دیتاسنترهای اروپایی بوده و سرویس‌ها پس از چند ساعت بازیابی شدند.",
-    "category": "تکنولوژی",
-    "subcategory": "سخت‌افزار و سرویس‌های ابری",
-    "tag": "Microsoft",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/nhs-forced-to-reschedule-procedures-after-microsoft-outage",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/nhs-forced-to-reschedule-procedures-after-microsoft-outage",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794533400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ed76fc1822",
-    "title_fa": "‏رشد اعتبار چین کمتر از انتظار شد",
-    "title_en": "China’s Credit Growth Disappoints Despite Greater Policy Support",
-    "summary": [
-      "‏رشد اعتبار چین با وجود حمایت‌های بیشتر سیاستی کمتر از پیش‌بینی‌ها بود",
-      "‏این نشان می‌دهد اقدامات تشویقی نتوانستند به‌طور مؤثر به گسترش اعتبار کمک کنند",
-      "‏داده‌های بانک مرکزی نشان دادند که افزایش وام‌ها به سرعت مورد انتظار نرسید"
-    ],
-    "body_fa": "‏بانک مرکزی چین گزارش داد که رشد کل اعتبار در دوره اخیر کمتر از انتظارات اقتصاددانان بوده، حتی با وجود سیاست‌های حمایتی گسترده‌ای که برای تسهیل دسترسی به وام‌ها اجرا شده بود. این کاهش نشان می‌دهد که ابزارهای پولی و مالی اعمال‌شده نتوانستند به‌طور کافی تقاضای اعتباری را تحریک کنند و ممکن است فشارهایی بر رشد اقتصادی کشور ایجاد کند. تحلیل‌گران هشدار می‌دهند که ادامه این روند می‌تواند بر توان مصرفی شرکت‌ها و خانوارها اثر منفی بگذارد و باعث تجدید نظر در سیاست‌های پولی در آینده شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "رشد اعتبار",
-    "tag": "credit",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-s-credit-growth-disappoints-despite-greater-policy-support",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-13/china-s-credit-growth-disappoints-despite-greater-policy-support",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794532320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b1ea867098",
-    "title_fa": "‏آمریکا 1.2 میلیارد دلار هک Binance کره‌شمالی را توقیف کرد",
-    "title_en": "DOJ gets court approval to seize $1.2 billion tied to North Korea's Binance hack",
-    "summary": [
-      "‏دادگستری ایالات متحده با حکم دادگاه، 1.2 میلیارد دلار دارایی مرتبط با هک Binance توسط گروه هکری کره‌شمالی را توقیف کرد.",
-      "‏این اقدام نشان‌دهنده تشدید فشار آمریکا بر شبکه‌های مالی دیجیتال و مقابله با تأمین مالی برنامه‌های هسته‌ای کره‌شمالی است.",
-      "‏توقیف این مبلغ بزرگ می‌تواند به کاهش توان مالی گروه Lazarus و کاهش ریسک‌های سایبری در بازارهای رمزارز منجر شود."
-    ],
-    "body_fa": "‏دادگستری ایالات متحده با موافقت دادگاه، به دادگستری فدرال (DOJ) اجازه داد تا 1.2 میلیارد دلار دارایی‌های مرتبط با هک Binance توسط گروه هکری کره‌شمالی را توقیف کند. این سرقت دیجیتالی که از طریق طرح FaceStealer انجام شد، میلیاردها دلار رمزارز را از کاربران Binance به سمت کیف‌پول‌های تحت کنترل گروه Lazarus هدایت کرد. مقامات فدرال این دارایی‌ها را که شامل ارزهای دیجیتال و حساب‌های بانکی می‌شود، به عنوان اموال مسدود شده در چارچوب تحریم‌های علیه کره‌شمالی شناسایی کردند. این اقدام نشان می‌دهد که ایالات متحده به‌طور جدی به‌دنبال قطع منابع مالی برنامه‌های هسته‌ای و سایبری کره‌شمالی است. توقیف این مبلغ بزرگ می‌تواند فشار اقتصادی بر گروه Lazarus را افزایش داده و ریسک‌های مشابه در بازار رمزارزها را کاهش دهد. کارشناسان پیش‌بینی می‌کنند که این تصمیم ممکن است سایر کشورها را نیز به اتخاذ اقدامات مشابه در برابر جرایم سایبری تشویق کند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "جرائم سایبری",
-    "tag": "Binance",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-    "clean_url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-    "image": "https://s.yimg.com/bo/51929d15-e3aa-5383-af5c-5e8ea889e97b_1794524980235.jpg",
-    "timestamp": 1794525772.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f5d62e3291",
-    "title_fa": "‏دموکرات‌ها تحقیق درباره فروش چیپ‌های Nvidia به چین را آغاز کردند",
-    "title_en": "Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme'...",
-    "summary": [
-      "‏دموکرات‌ها تحقیق درباره نحوه فروش چیپ‌های Nvidia به چین توسط دولت ترامپ را آغاز کردند.",
-      "‏این بررسی می‌تواند قوانین صادرات نیمه‌رساناها و روابط تجاری آمریکا‑چین را تحت فشار قرار دهد.",
-      "‏نامه‌ای سرسختانه به وزیر تجارت درباره توافق درآمدی 15% بین Nvidia و دولت آمریکا ارسال شد."
-    ],
-    "body_fa": "‏دموکرات‌های مجلس و سنا روز پنج‌شنبه تحقیق رسمی درباره نحوه فروش چیپ‌های پیشرفته Nvidia به چین تحت دولت ترامپ را آغاز کردند. این تحقیق پس از اخراج جنسن هوانگ، بنیان‌گذار و مدیرعامل شرکت، که به رابطه‌ای با زنی متهم به جاسوسی برای چین اعتراف کرده بود، صورت گرفت. دموکرات‌ها در نامه‌ای به وزیر تجارت هوارد لوتنیک ادعا می‌کنند که توافقی بین ترامپ و Nvidia برای فروش چیپ‌های H200 به چین، با شرط انتقال اولیه به آمریکا و اعمال تعرفه، به‌صورت مالیات غیرقانونی عمل کرده است. همچنین می‌پرسند چرا لوتنیک اجازه خرید چیپ‌ها توسط شرکت‌های آسیایی بدون حضور فیزیکی در آدرس‌های اعلام‌شده را داده و چرا پس از اطلاع اطلاعاتی دربارهٔ آلیس هوانگ، جاسوس مورد شک، اقداماتی انجام نشده است. این بررسی نه تنها به Nvidia و هوانگ بلکه به کل سیاست‌های صادرات نیمه‌رساناهای پیشرفته آمریکا و روابط تجاری با چین می‌پردازد. اگر نتایج منفی باشد، ممکن است مجوزهای صادراتی سخت‌تر شود و فروش Nvidia به چین تحت فشار قرار گیرد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحقیقات تجاری چین",
-    "tag": "Nvidia",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-    "clean_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
-    "image": "https://s.yimg.com/bo/65f24595-f5e0-56bd-918a-797c81611d26_1794524026160.webp",
-    "timestamp": 1794522362.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "89fd2b3092",
-    "title_fa": "‏تجارت آمریکا صادرات چیپ Nvidia به چین را بررسی می‌کند",
-    "title_en": "Top trade committee Democrats launch probe into Trump administration approving N...",
-    "summary": [
-      "‏دموکرات‌های مجلس و سنا تصمیم گرفتند بررسی صادرات چیپ‌های H200 Nvidia به چین را آغاز کنند.",
-      "‏این اقدام به دلیل نگرانی‌های امنیت ملی و استفاده از بخش ۲۳۲ قانون تجارت برای تصویب فروش‌هاست.",
-      "‏جنسین هوانگ، مدیرعامل Nvidia ، پس از رسوایی جاسوسی چینی استعفا داد."
-    ],
-    "body_fa": "‏دموکرات‌های رده‌بالای کمیته‌های تجارت مجلس و سنا نامه‌ای به وزیر تجارت، هوارد لوتنیک، ارسال کردند و درخواست کردند اسناد مربوط به تصمیم ترامپ برای اجازه فروش چیپ‌های H200 Nvidia به چین حفظ شود. این بررسی پس از استعفای جنسین هوانگ، مدیرعامل Nvidia ، به دلیل رسوایی ارتباط او با آلیس هوانگ، که مشکوک به فعالیت‌های جاسوسی برای چین است، آغاز شد. قانون بخش ۲۳۲ قانون گسترش تجارت ۱۹۶۲ که برای محدود کردن واردات تهدیدآمیز به کار می‌رود، توسط ترامپ برای تصویب صادرات این چیپ‌ها استفاده شد که قانونگذاران آن را خلاف هدف اصلی می‌دانند. گزارش نیویورک تایمز نشان می‌دهد که وزارت تجارت چندین شرکت چینی را برای دریافت این چیپ‌ها تأیید کرده که برخی تحت تحریم‌های امنیتی هستند. این تحقیق می‌تواند به بازنگری سیاست‌های صادرات فناوری پیشرفته آمریکا و تأثیرات آن بر روابط تجاری با چین منجر شود.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "صادرات فناوری",
-    "tag": "Nvidia",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Hill · via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/top-trade-committee-democrats-launch-225219040.html",
-    "clean_url": "https://www.yahoo.com/news/politics/articles/top-trade-committee-democrats-launch-225219040.html",
-    "image": "https://media.zenfs.com/en/the_hill_articles_341/2962279e6e0e6fdd45cd57593c1117a3.jpg",
-    "timestamp": 1794522358.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "195bd1733c",
-    "title_fa": "‏ادغام احتمالی SpaceX و Tesla 30,000 بیت‌کوین را به‌هم می‌پیوندد",
-    "title_en": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-    "summary": [
-      "‏گفتگوهای ادغام SpaceX و Tesla می‌تواند تا دسامبر اعلام شود و 30,000 بیت‌کوین (۲.۱ میلیارد دلار) را در یک شرکت متمرکز کند.",
-      "‏این موضوع می‌تواند توجه سرمایه‌گذاران به بیت‌کوین را افزایش دهد و احتمالاً قیمت آن را تحت فشار قرار دهد.",
-      "‏مقدار بیت‌کوین تنها بخش کوچکی از ارزش کل ترکیب دو شرکت است."
-    ],
-    "body_fa": "‏شرکت‌های فضایی SpaceX و خودروسازی Tesla در حال بررسی امکان ادغام هستند. اگر این ادغام تا دسامبر نهایی شود، حدود 30,000 بیت‌کوین که ارزش حدود ۲.۱ میلیارد دلار دارد، تحت مالکیت یک نهاد قرار می‌گیرد. این مقدار تنها بخش کوچکی از ارزش کلی ترکیب دو شرکت است که به‌صورت تخمینی صدها میلیارد دلار برآورد می‌شود. وجود چنین مقدار قابل توجهی بیت‌کوین در یک شرکت بزرگ می‌تواند توجه سرمایه‌گذاران و معامله‌گران رمزارزها را جلب کند. تحلیل‌گران پیش‌بینی می‌کنند این خبر می‌تواند نوسان کوتاه‌مدت در قیمت بیت‌کوین ایجاد کند. با این حال، هنوز جزئیات نهایی و شرایط ادغام مشخص نیست.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "ادغام شرکت‌های بزرگ",
-    "tag": "bitcoin",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-    "clean_url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794517680.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c29c3a1b3d",
-    "title_fa": "‏نکتار هوش مصنوعی جدید برای خودکارسازی یافتن اینفلوئنسرها راه‌اندازی کرد",
-    "title_en": "Nectar launches an AI agent to automate creator discovery and outreach for...",
-    "summary": [
-      "‏نکتار یک عامل هوش مصنوعی برای پیدا کردن و ارتباط با اینفلوئنسرها معرفی کرد",
-      "‏این ابزار می‌تواند جستجوی خالقان، ارسال پیام‌های شخصی‌سازی‌شده و پیگیری کمپین‌ها را خودکار کند",
-      "‏سیستم بیش از 300 میلیون پروفایل خالق را بررسی کرده و برای برندها لیست‌های رتبه‌بندی شده ارائه می‌دهد"
-    ],
-    "body_fa": "‏نکتار، سیستم‌عامل هوش مصنوعی برای بازاریابی، عامل جدیدی به نام «Creator Agent» عرضه کرد که کارهای دستی در بازاریابی اینفلوئنسرها را حذف می‌کند. این عامل می‌تواند خالقان مناسب را جستجو کند، محتوای آن‌ها و مشارکت‌های قبلی را بررسی کند و پیام‌های شخصی‌سازی‌شده به سبک برند ارسال نماید. علاوه بر این، فرآیندهای قرارداد، ارسال محصولات و پیگیری نتایج کمپین‌ها را به‌صورت خودکار مدیریت می‌کند. نکتار ادعا می‌کند که بیش از 300 میلیون پروفایل خالق را بررسی می‌کند و به برندها لیست‌های رتبه‌بندی شده ارائه می‌دهد. این محصول در رقابتی با شرکت‌های دیگری چون Aspire و GRIN وارد بازار می‌شود، در حالی که هزینه تبلیغات خالقان در آمریکا تا سال 2026 به $44 بیلیون می‌رسد. این پیشرفت می‌تواند زمان و هزینه‌های تیم‌های بازاریابی را به‌طور قابل‌توجهی کاهش دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Nectar",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-    "clean_url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
-    "image": "https://s.yimg.com/bo/316d5bb7-7df6-55b3-a930-744b14dd004a_1794511498934.jpg",
-    "timestamp": 1794511562.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "222944edf8",
-    "title_fa": "‏بریتانیا برنامه سبز را برای کاهش هزینه برق بازنگری می‌کند",
-    "title_en": "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda |...",
-    "summary": [
-      "‏بودجه‌ساز جان هیلی هزینه‌های برق را که در بریتانیا به اوج رسیده‌اند، به‌عنوان دلیل بازنگری در برنامهٔ سبز اعلام کرد.",
-      "‏این تغییر به‌منظور کاهش هزینه انرژی برای خانوارها و صنایع است و ممکن است تعهدات خالص صفر را به خطر بیندازد.",
-      "‏همزمان، وزیر انرژی پروژهٔ گاز Jackdaw را تصویب کرد و مذاکرات انرژی با اروپا در دابلین ادامه دارد."
-    ],
-    "body_fa": "‏چانسر جان هیلی در سخنرانی بودجه اخیر، اعلام کرد که اولویت دولت جدید بریتانیا کاهش هزینه‌های انرژی است و انرژی پاک نقش کلیدی در این هدف دارد. برای رسیدن به این هدف، وزیر انرژی میاتا فهنبوله پروژهٔ گاز Jackdaw را تصویب کرد، اگرچه این تصمیم با وعده‌های منفی‌سازی گاز جدید در برنامهٔ خالص صفر تضاد دارد. دولت لابور سعی دارد هزینه برق را برای صنایع و خانوارها تا سطح اروپا برساند، در حالی که فشارهای داخلی بین حامیان محیط‌زیست و میانه‌روهای اقتصادی افزایش یافته است. تصمیمات دیگر شامل کاهش هدف فروش خودروهای الکتریکی و بررسی اعطای مجوزهای جدید برای میدان نفتی Rosebank می‌شود. این تغییرات می‌تواند تعهدات بریتانیا به حذف سوخت‌های فسیلی تا 2030 را به خطر اندازد و تأثیر قابل‌توجهی بر بازار انرژی اروپا داشته باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "سیاست انرژی",
-    "tag": "هزینه‌برق",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/Soaring-Electricity-Costs-Force-Britain-to-Rethink-Its-Green-Agenda.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/Soaring-Electricity-Costs-Force-Britain-to-Rethink-Its-Green-Agenda.html",
-    "image": "https://s.yimg.com/bo/85f18269-defc-58ca-9254-953803737004_1794505080599.jpg",
-    "timestamp": 1794502826.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "26edbf15d7",
-    "title_fa": "‏EU هزینه LNG روسیه را دو برابر 2025 کرد",
-    "title_en": "EU Imports of Russian LNG Top 2025 Value Ahead of January Ban | OilPrice.com",
-    "summary": [
-      "‏EU تا قبل از ممنوعیت، 9.6 میلیارد دلار برای واردات LNG روسیه پرداخت کرد",
-      "‏این مبلغ 21 ٪ بیش از برآورد کل هزینه‌های LNG در سال 2025 است و نشان‌دهنده فشار قیمتی است",
-      "‏اروپا هنوز نزدیک به نصف صادرات LNG روسیه را خریداری می‌کند"
-    ],
-    "body_fa": "‏گروه کمپین آلمانی Urgewald اعلام کرد که اتحادیه اروپا تا کنون 9.6 میلیارد دلار (8.7 میلیارد یورو) برای واردات گاز مایع روسیه از پروژه Yamal LNG پرداخت کرده است، که حدود 21 ٪ بیشتر از برآورد هزینه کل برای سال 2025 است. این مبلغ در حالی جمع شده که تنها حدود یک ماه و نیم تا اجرای کامل ممنوعیت واردات LNG روسیه در اول ژانویه 2027 باقی مانده است. در اکتبر، درآمدهای صادراتی LNG روسیه به 85 میلیون دلار در روز رسید، در حالی که حجم بارگیری‌ها کاهش یافت اما بارهای بارگیری‌شده به‌ویژه از Yamal LNG و پروژه Arctic LNG 2 افزایش یافت. اتحادیه اروپا در اکتبر نزدیک به 47 ٪ از کل صادرات LNG روسیه را خریداری کرد، پس از چین، ژاپن و کره‌جنوبی. این وضعیت نشان می‌دهد که اروپا تا پیش از ممنوعیت کامل، همچنان به شدت به LNG روسیه وابسته است و هزینه‌های بالاتر به روسیه منتقل می‌شود.",
-    "category": "انرژی و کالا",
-    "subcategory": "واردات LNG",
-    "tag": "LNG",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Imports-of-Russian-LNG-Top-2025-Value-Ahead-of-January-Ban.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Imports-of-Russian-LNG-Top-2025-Value-Ahead-of-January-Ban.html",
-    "image": "https://s.yimg.com/bo/33f71c30-a6b1-59f0-a958-0ca42363fda3_1794498070632.jpg",
-    "timestamp": 1794498266.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e6e86e001a",
-    "title_fa": "‏نویدا اولین رئیس هیئت‌مدیره‌اش را به هاروی جونز اختصاص داد",
-    "title_en": "Who is Harvey Jones, Nvidia's first-ever board chair?",
-    "summary": [
-      "‏نویدا هاروی جونز را به عنوان اولین رئیس هیئت‌مدیره‌اش پس از استعفای جنسن هو منصوب کرد.",
-      "‏این تغییر می‌تواند بر استراتژی هوش مصنوعی و تصمیمات کلان مالی شرکت تأثیرگذار باشد.",
-      "‏جونز پیش از این در شرکت‌های فناوری و سرمایه‌گذاری نقش‌های اجرایی مهمی داشته است."
-    ],
-    "body_fa": "‏نویدا روز پنجشنبه هاروی جونز را به عنوان اولین رئیس هیئت‌مدیره‌اش معرفی کرد، پس از اینکه جنسن هو از این سمت استعفا داد. نقش رئیس هیئت‌مدیره در شرکت‌های فناوری بزرگ می‌تواند بر تصمیمات استراتژیک، به‌ویژه در حوزه هوش مصنوعی، تأثیر قابل‌توجهی داشته باشد. جونز پیش از این تجربه گسترده‌ای در مدیریت و سرمایه‌گذاری در شرکت‌های فناوری دارد و در چندین پروژه بزرگ تحقیق و توسعه مشارکت کرده است. این انتصاب نشان‌دهنده تمایل نویدا به تقویت حاکمیت شرکتی و ارتقای رهبری استراتژیک در زمان رشد سریع بازار چیپ‌های AI است. تحلیل‌گران انتظار دارند حضور جونز بتواند به بهبود هماهنگی بین هیئت‌مدیره و تیم اجرایی کمک کند.",
-    "category": "تکنولوژی",
-    "subcategory": "مدیریت شرکت",
-    "tag": "Nvidia",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/who-is-harvey-jones-nvidias-first-ever-board-chair-2026-11-12/",
-    "clean_url": "https://www.reuters.com/technology/who-is-harvey-jones-nvidias-first-ever-board-chair-2026-11-12",
-    "image": "https://s.yimg.com/bo/17e96a30-3a71-5ea8-ba31-0fc575a03b0b_1792040600272.jpg",
-    "timestamp": 1794494665.0,
     "sent_to_telegram": true
   }
 ]
