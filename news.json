@@ -1,5 +1,71 @@
 [
   {
+    "id": "e51fbc67fd",
+    "title_fa": "‏Compass Group فهرست اصلی خود را به نیویورک منتقل می‌کند",
+    "title_en": "Compass Group plans to shift primary listing from London to New York, FT reports",
+    "summary": [
+      "‏Compass Group قصد دارد فهرست اصلی خود را از لندن به نیویورک منتقل کند",
+      "‏این تغییر می‌تواند جذب سرمایه‌گذاران آمریکایی و تأثیر بر ارزش سهام شرکت داشته باشد",
+      "‏شرکت پس از بررسی‌های مالی و استراتژیک این گام را برمی‌دارد"
+    ],
+    "body_fa": "‏Compass Group ، بزرگ‌ترین شرکت خدمات پذیرایی جهان، برنامه دارد فهرست اصلی سهام خود را از بورس لندن به بورس نیویورک منتقل کند. این تصمیم که توسط Financial Times گزارش شده، به منظور دسترسی به سرمایه‌گذاران بزرگ آمریکایی و هم‌راستا شدن با حضور گسترده شرکت در ایالات متحده اتخاذ شده است. شرکت پس از ارزیابی‌های مالی و استراتژیک، همچنان ممکن است فهرست ثانویه در لندن را حفظ کند. انتقال فهرست می‌تواند نقدینگی و ارزیابی سهام را تحت تأثیر قرار دهد و نشانگر تمایل برخی شرکت‌های بریتانیایی به جذب سرمایه‌گذاری‌های آمریکایی است. هیچ تغییری در عملیات روزانه یا خدمات شرکت پیش‌بینی نمی‌شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سرمایه",
+    "tag": "Compass Group",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/compass-group-plans-shift-primary-listing-london-new-york-ft-reports-2026-11-22/",
+    "clean_url": "https://www.reuters.com/world/uk/compass-group-plans-shift-primary-listing-london-new-york-ft-reports-2026-11-22",
+    "image": "https://s.yimg.com/bo/7d8f3651-c0a3-50db-b746-f4699dad183a_1795376006544.jpg",
+    "timestamp": 1795375758.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1c533283cf",
+    "title_fa": "‏حوثی‌ها ادعای حمله به پالایشگاه ربیغ سعودی را دادند",
+    "title_en": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery",
+    "summary": [
+      "‏حوثی‌های یمن اعلام کردند که به پالایشگاه ربیغ در عربستان سعودی حمله کردند.",
+      "‏این حمله می‌تواند تولید نفت را مختل کرده و بر قیمت جهانی نفت تأثیر بگذارد.",
+      "‏بر اساس گزارش‌ها، حمله با پهپادها یا موشک‌های بالستیک انجام شده است."
+    ],
+    "body_fa": "‏در روز یکشنبه، حوثی‌های هم‌پیمان با ایران ادعا کردند که عملیاتی علیه پالایشگاه ربیغ در عربستان سعودی انجام داده‌اند. این پالایشگاه یکی از بزرگ‌ترین واحدهای تبدیل نفت خام به محصولات پتروشیمی در خلیج فارس است و هرگونه اختلال می‌تواند عرضه نفت را کاهش دهد. گروه حوثی گفتند که از پهپادها یا موشک‌های بالستیک برای این حمله استفاده کرده‌اند، هرچند هنوز تأیید مستقلی از خسارت‌های وارده وجود ندارد. کارشناسان بازار نفت هشدار دادند که چنین حملاتی می‌تواند نوسانات قیمتی را تشدید کند. این ادعا نشان‌دهنده ادامه تنش‌های منطقه‌ای است که به‌ویژه پس از حمایت ایران از حوثی‌ها، بر امنیت انرژی جهانی تأثیر می‌گذارد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "Houthis",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-rabigh-oil-refinery-2026-11-22/",
+    "clean_url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-rabigh-oil-refinery-2026-11-22",
+    "image": "https://s.yimg.com/bo/99013d89-b6e0-5aa2-9c73-253d1c9bdeb5_1793090784742.jpg",
+    "timestamp": 1795368558.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "373dd6eeff",
+    "title_fa": "‏مذاکرات اقلیمی سازمان ملل به‌دلیل اختلاف سوخت فسیلی سقوط کردند",
+    "title_en": "U.N. Climate Talks Collapse Over Fossil Fuel Rift",
+    "summary": [
+      "‏متن پیشنویس مذاکرات اقلیمی سازمان ملل که به حذف اشاره به کاهش سوخت‌های فسیلی می‌پرداخت، توسط اروپا و چند کشور رد شد.",
+      "‏این رد باعث فروپاشی مذاکرات شد و چشم‌انداز جهانی برای کاهش گازهای گلخانه‌ای را به خطر انداخت.",
+      "‏عدم توافق ممکن است برنامه‌های هدف صفر خالص را در سال‌های آینده به تعویق بیندازد."
+    ],
+    "body_fa": "‏در جلسه اخیر مذاکرات اقلیمی سازمان ملل، متن پیشنویسی مطرح شد که به‌طور کامل از اشاره به ضرورت کاهش وابستگی به سوخت‌های فسیلی صرف‌نظر می‌کرد. اروپا به همراه چند کشور دیگر این پیش‌نویس را به‌عنوان تهدیدی برای اهداف اقلیمی رد کردند. رد متن باعث شد تا مذاکرات به‌سرعت به بن‌بست برسند و جلسه به‌طور کامل متوقف شود. این شکست دیپلماتیک نشان می‌دهد که اختلافات بین‌المللی دربارهٔ سوخت‌های فسیلی هنوز مانع پیشرفت‌های مهم در مبارزه با تغییرات اقلیمی می‌شود. تحلیل‌گران هشدار می‌دهند که این عدم توافق می‌تواند برنامه‌های کاهش گازهای گلخانه‌ای و هدف صفر خالص را در سال‌های آینده به تعویق بیندازد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "مذاکرات اقلیمی",
+    "tag": "آب‌وهوای_سازمان_ملل",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/world/u-n-climate-talks-collapse-over-fossil-fuel-rift-c70ee620",
+    "clean_url": "https://www.wsj.com/world/u-n-climate-talks-collapse-over-fossil-fuel-rift-c70ee620",
+    "image": "https://s.yimg.com/bo/a9fb7b81-83c7-56a1-8184-af6ab849051e_1795367618954.jpg",
+    "timestamp": 1795364958.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ca6acaab0e",
     "title_fa": "‏بورس‌های چین محدودیت حاشیه‌گذاری را برای حمایت کاهش دادند",
     "title_en": "Chinese exchanges ease margin trading requirements to aid stock markets",
@@ -41,6 +107,116 @@
     "clean_url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-set-collapse-without-political-deal-2026-11-22",
     "image": "https://s.yimg.com/bo/54b03315-31e0-550b-938d-d8b3f4e1c38c_1795352696449.jpg",
     "timestamp": 1795351830.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "441e6df58c",
+    "title_fa": "‏جنگ در ایتوری مانع واکنش به اوبولا شد",
+    "title_en": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts",
+    "summary": [
+      "‏درگیری شدید نزدیک بیمارستانی در استان ایتوری کنگو، واکنش به شیوع اوبولا را مختل کرد",
+      "‏این وقفه می‌تواند گسترش بیماری را تسریع کند و تلاش‌های بهداشتی بین‌المللی را تحت فشار قرار دهد",
+      "‏سازمان جهانی بهداشت خواستار آتش‌بس فوری برای حفظ عملیات درمانی شد"
+    ],
+    "body_fa": "‏تدریس Tedros Adhanom Ghebreyesus ، رئیس سازمان بهداشت جهانی، اعلام کرد که درگیری‌های سنگین در نزدیکی یک بیمارستان در استان ایتوری جمهوری دموکراتیک کنگو، عملیات مقابله با شیوع اوبولا را مختل کرده است. این منطقه در حال حاضر یکی از نقاط بحرانی برای کنترل بیماری است که تاکنون چندین صد نفر را کشته است. به دلیل عدم دسترسی تیم‌های پزشکی به بیماران و محدودیت‌های حمل و نقل، خطر گسترش ویروس به مناطق اطراف افزایش یافته است. سازمان جهانی بهداشت از طرفین درگیر درخواست کرده تا آتش‌بس فوری برقرار شود تا کارهای درمانی و واکسیناسیون ادامه یابد. این وقفه نه تنها سلامت ساکنان محلی را تهدید می‌کند، بلکه می‌تواند بار مالی و انسانی بین‌المللی را نیز افزون کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "بحران بهداشتی",
+    "tag": "اوبولا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts-2026-11-22/",
+    "clean_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts-2026-11-22",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795349760.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8b8b48f75b",
+    "title_fa": "‏دادگاه تجدیدنظر قانون حمایت از بارداران را بی‌اساس اعلام کرد",
+    "title_en": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+    "summary": [
+      "‏یک دادگاه تجدیدنظر فدرال قانون اجباری فراهم‌کردن تسهیلات برای کارگران باردار را نامعقول اعلام کرد",
+      "‏این تصمیم می‌تواند هزینه‌های کارفرمایان را کاهش دهد و حقوق بارداران را تحت فشار قرار دهد",
+      "‏قانون مورد انتقاد برخی کارفرمایان و گروه‌های کارگری بود"
+    ],
+    "body_fa": "‏یک دادگاه تجدیدنظر فدرال قانون فدرال را که کارفرمایان را ملزم می‌کرد تا برای کارگران باردار تسهیلات فراهم کنند، بی‌اساس اعلام کرد. دادگاه استدلال کرد که این الزام با قانون اساسی ایالات متحده در تضاد است و قدرت قانونگذاری را فراتر از حد مجاز می‌برد. این حکم می‌تواند فشار مالی بر کارفرمایان را کاهش دهد، اما نگرانی‌های گروه‌های حمایت از زنان باردار را نیز برانگیخته است. برخی ناظران پیش‌بینی می‌کنند این تصمیم ممکن است منجر به تغییر در سیاست‌های کار و حقوق زنان در سراسر کشور شود. در عین حال، این تصمیم می‌تواند به بحث‌های گسترده‌تری دربارهٔ تعادل بین حقوق کارگران و هزینه‌های کارفرمایان منجر شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قوانین کار",
+    "tag": "قانون کار",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/law-pregnant-workers-court-appeals-c3b964c0f0cafaed2f20099055eb79cd",
+    "clean_url": "https://apnews.com/article/law-pregnant-workers-court-appeals-c3b964c0f0cafaed2f20099055eb79cd",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795347780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "80eb26b4a3",
+    "title_fa": "‏اسکان‌نشینان اسرائیلی خودروها را در روستاهای کرانه باختری سوزاندند",
+    "title_en": "Israeli settlers torch cars in West Bank villages",
+    "summary": [
+      "‏اسکان‌نشینان اسرائیلی در صبح یکشنبه به روستاهای فلسطینی در کرانه باختری حمله کردند و خودروها را سوزاندند",
+      "‏این اقدام تنش‌های منطقه‌ای را تشدید می‌کند و واکنش‌های بین‌المللی را برانگیخته است",
+      "‏ساکنان همچنین بر روی ساختمان‌ها گرافیتی نوشتند"
+    ],
+    "body_fa": "‏در اوایل روز یکشنبه، اسکان‌نشینان اسرائیلی به چند روستای فلسطینی در کرانه باختری رفتند و خودروهای ساکنان را به آتش کشیدند. علاوه بر این، بر دیوارهای ساختمان‌ها گرافیتی نوشتند. ساکنان محلی این حوادث را به رسانه‌ها گزارش دادند و از وقوع چنین حملاتی که به تشدید تنش‌ها می‌انجامد، ابراز نگرانی کردند. مقامات بین‌المللی این اقدام را محکوم کرده و خواستار جلوگیری از تشدید خشونت در منطقه شدند. این رویداد نشان‌دهنده ادامهٔ ناآرامی‌ها در سرزمین‌های اشغالی است و می‌تواند بر مذاکرات صلح آینده تأثیر بگذارد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "سرزمین‌های اشغالی",
+    "tag": "اسرائیل",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/video/watch/idRW043122112026RP1/",
+    "clean_url": "https://www.reuters.com/video/watch/idRW043122112026RP1",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795345920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cc7a33b067",
+    "title_fa": "‏تجارت‌گران Goldman به‌دنبال نقطه ورود در سهام آمریکا اما هشدار به ریسک‌ها",
+    "title_en": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
+    "summary": [
+      "‏گزارش Bloomberg می‌گوید تیم‌های تجاری Goldman Sachs فرصت خرید در سهام ایالات متحده را می‌بینند.",
+      "‏این دیدگاه می‌تواند برای سرمایه‌گذاران مهم باشد چون ممکن است جهت‌گیری بازار را تحت تأثیر قرار دهد.",
+      "‏در عین حال، آن‌ها خطرات احتمالی را نیز به‌وضوح هشدار می‌دهند."
+    ],
+    "body_fa": "‏بر اساس گزارش Bloomberg ، تجار Goldman Sachs معتقدند که در بازار سهام آمریکا نقطه ورود مناسبی برای خرید وجود دارد. این نظر می‌تواند به‌ویژه برای سرمایه‌گذاران بزرگ و صندوق‌های سرمایه‌گذاری تأثیرگذار باشد، زیرا نظرات یک بانک سرمایه‌گذاری پیشرو معمولاً بر انتظارات بازار اثر می‌گذارد. با این حال، تیم‌های تجاری این بانک به خطرات احتمالی مانند نوسانات ناگهانی، تغییرات نرخ بهره و عدم اطمینان‌های ژئوپلیتیک نیز اشاره کردند. بنابراین، اگرچه فرصتی برای ورود به بازار دیده می‌شود، اما سرمایه‌گذاران باید با احتیاط عمل کنند و ریسک‌های مرتبط را در استراتژی‌های خود مدنظر داشته باشند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار سهام",
+    "tag": "Goldman",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795345440.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "46998d2ff2",
+    "title_fa": "‏دولت لیبی حمله پهپادی به کشتی روسی را اعلام کرد",
+    "title_en": "Libya's eastern government suspects drone attack caused explosion on Russian ship",
+    "summary": [
+      "‏یک کشتی روسی در بنغازی، لیبی، پس از انفجار، به احتمال حمله پهپادی متهم شد.",
+      "‏این حادثه می‌تواند روابط روسیه با لیبی و امنیت دریایی خلیج مدیترانه را تحت تأثیر قرار دهد.",
+      "‏دولت شرق‌لیبی ادعا کرد که پهپادهای مجهول منبع مسئول انفجار بودند."
+    ],
+    "body_fa": "‏دولت مستقر در شرق لیبی اعلام کرد که انفجار رخ داده در کشتی روسی مستقر در بنغازی، ناشی از حمله پهپادی بوده. این کشتی در بنادر نظامی بنغازی لنگر انداخته بود و پس از انفجار خسارات قابل توجهی به ساختار آن وارد شد. مقامات لیبی به‌طور دقیق منبع پهپادها را مشخص نکرده‌اند، اما به حضور نیروهای خارجی در منطقه اشاره کردند. روسیه هنوز پاسخی رسمی به این ادعا نداده و نظارت بر وضعیت امنیتی کشتی‌های خود در خلیج مدیترانه را افزایش داده است. این حادثه می‌تواند تنش‌های موجود بین گروه‌های مسلح لیبی و حضور روسیه را تشدید کند و نگرانی‌های بین‌المللی درباره امنیت دریایی را برانگیزد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات هوایی",
+    "tag": "پهپاد",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/",
+    "clean_url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795328700.0,
     "sent_to_telegram": true
   },
   {
@@ -6421,182 +6597,6 @@
     "clean_url": "https://seekingalpha.com/article/4967764-nvidia-earnings-report-could-wreck-the-market",
     "image": "https://www.bing.com/th?id=ONUT.hltq6ZLQdMLCb7kE63IYUA",
     "timestamp": 1794577002.0687635,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ca4d322a9d",
-    "title_fa": "‏فدرال‌رزرو ریسک‌های هوش مصنوعی را تهدیدی برای ثبات مالی دانست",
-    "title_en": "Fed releases financial stability report, respondents raised concerns around AI",
-    "summary": [
-      "‏فدرال‌رزرو جدیدترین گزارش ثبات مالی خود را با تمرکز بر آسیب‌پذیری‌های بازار منتشر کرد.",
-      "‏فعالان بازار در این نظرسنجی، رشد سریع فناوری هوش مصنوعی را ریسکی نوظهور برای اقتصاد معرفی کردند.",
-      "‏این گزارش دوره‌ای به بررسی سلامت ساختار مالی، بدهی‌ها و نوسانات دارایی‌ها می‌پردازد."
-    ],
-    "body_fa": "‏فدرال‌رزرو در جدیدترین گزارش ثبات مالی خود، چشم‌انداز آسیب‌پذیری‌های سیستم بانکی و مالی ایالات متحده را مورد بررسی قرار داد. در نظرسنجی ارائه‌شده در این گزارش، شرکت‌کنندگان و فعالان بازار نگرانی‌های فزاینده‌ای را پیرامون خطرات ناشی از رشد شتابان هوش مصنوعی مطرح کردند. کارشناسان معتقدند اتکای بیش از حد به مدل‌های خودکار و ابهامات عملکردی این فناوری می‌تواند شوک‌های غیرمنتظره‌ای به معاملات وارد سازد. این گزارش علاوه بر هوش مصنوعی، به مسائلی نظیر بدهی شرکت‌ها و قیمت‌گذاری بالای برخی دارایی‌های ریسک‌پذیر نیز پرداخته است. این پایش‌های دوره‌ای به سیاست‌گذاران کمک می‌کنند تا نقاط ضعف سیستماتیک را پیش از وقوع بحران‌های عمیق مالی شناسایی کنند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی و بانکی",
-    "tag": "فدرال‌رزرو",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/video/2026/11/13/fed-releases-financial-stability-report-respondents-raised-concerns-around-ai.html",
-    "clean_url": "https://www.cnbc.com/video/2026/11/13/fed-releases-financial-stability-report-respondents-raised-concerns-around-ai.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108551424-17946050721794605069-49619811122-1080pnbcnews.jpg?v=1794605071&w=1920&h=1080",
-    "timestamp": 1794576540.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "22e8da4548",
-    "title_fa": "‏NHTSA مالکین 720,000 BMW را به پارک بیرونی توصیه کرد",
-    "title_en": "US urges owners of 720,000 BMW vehicles to park outside over fire risks",
-    "summary": [
-      "‏NHTSA مالکین بیش از 720,000 خودروی BMW را به پارک در فضای باز به‌جای پارکینگ‌های بسته توصیه کرد.",
-      "‏این اقدام به دلیل خطر آتش‌سوزی ناشی از نشت خنک‌کننده باتری در برخی مدل‌ها انجام شد.",
-      "‏مالکین می‌توانند برای دریافت اطلاعات دقیق به وب‌سایت NHTSA مراجعه کنند."
-    ],
-    "body_fa": "‏NHTSA در بیانیه‌ای اعلام کرد که خطر آتش‌سوزی در بیش از 720,000 خودروی BMW به‌خصوص مدل‌های سال‌های اخیر وجود دارد. این خطر ناشی از نشت خنک‌کننده باتری است که می‌تواند منجر به شعله‌ور شدن خودرو در پارکینگ‌های بسته شود. به‌همین دلیل، سازمان توصیه می‌کند مالکان خودروهای مذکور در فضای باز یا پارک‌های بیرونی خودرو را پارک کنند تا خطر گسترش آتش کاهش یابد. همچنین، NHTSA خواستار بررسی‌های فنی توسط نمایندگی‌های BMW و ارائه راهنمایی‌های تعمیر یا تعویض قطعات معیوب است. مالکان می‌توانند جزئیات دقیق مدل‌های تحت تأثیر و مراحل اقدام را از وب‌سایت رسمی NHTSA دریافت کنند.",
-    "category": "تکنولوژی",
-    "subcategory": "ایمنی خودرو",
-    "tag": "BMW",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us-urges-owners-720000-bmw-vehicles-park-outside-over-fire-risks-2026-11-13/",
-    "clean_url": "https://www.reuters.com/world/us-urges-owners-720000-bmw-vehicles-park-outside-over-fire-risks-2026-11-13",
-    "image": "https://s.yimg.com/bo/637b1a3d-5a83-5103-a186-dcaee1a4c245_1792991987784.jpg",
-    "timestamp": 1794576172.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "97d952b33b",
-    "title_fa": "‏تانکر گاز مایع در تنگه هرمز به مین برخورد کرد",
-    "title_en": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz | OilPrice.com",
-    "summary": [
-      "‏یک تانکر گاز مایع در تنگه هرمز به مین برخورد کرد و منفجر شد",
-      "‏این حادثه نشان‌دهنده تشدید خطرات حمل‌ونقل انرژی در مسیرهای غیرمجاز و می‌تواند فشار بر قیمت نفت و گاز ایجاد کند",
-      "‏ایران اعلام کرد مسیر استفاده‌شده غیرمجاز بوده و حملات به کشتی‌ها روزانه گزارش می‌شود"
-    ],
-    "body_fa": "‏یک تانکر حامل گاز مایع هنگام عبور از تنگه هرمز به مین برخورد کرد و در اثر انفجار آسیب دید. نیروی دریایی سپاه پاسداران اعلام کرد کشتی از مسیر غیرمجاز و خطرناکی استفاده کرده بود. این اتفاق پس از چندین حمله به کشتی‌های حامل انرژی در همان تنگه رخ داد؛ ایران روزانه حوادث مشابه را گزارش می‌کند. محمدباقر قالیباف، سخنگوی ارشد ایران، گفت مسیرهای دریایی هرمز دیگر «آب‌های آزاد» نیستند و قوانین بین‌المللی در اینجا اعمال نمی‌شود. داده‌های Kpler نشان می‌دهد بارگیری LNG از قطر در ماه گذشته به بالاترین سطح از فوریه رسیده است، اما هنوز به سطح پیش از جنگ نرسیده. این حوادث می‌توانند ریسک حمل‌ونقل را افزایش داده و نوسانات قیمت انرژی را تقویت کنند.",
-    "category": "انرژی و کالا",
-    "subcategory": "حمل‌ونقل دریایی",
-    "tag": "مین",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Gas-Tanker-Hit-Mine-in-Strait-of-Hormuz.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Gas-Tanker-Hit-Mine-in-Strait-of-Hormuz.html",
-    "image": "https://s.yimg.com/bo/3dcc7564-7a24-5a60-8e16-f9307919b00f_1794574705725.jpg",
-    "timestamp": 1794573902.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d5676aa26b",
-    "title_fa": "‏قیمت‌های پایین نفت نمی‌توانند تورم آمریکا را مهار کنند",
-    "title_en": "Why Falling Oil Prices Won't Save America From Inflation | OilPrice.com",
-    "summary": [
-      "‏نفت برنت از بالای 100 دلار به نواحی 90 دلار سقوط کرد.",
-      "‏با این حال تورم مصرف‌کننده در آمریکا حدود 4 ٪ باقی مانده و کاهش قیمت بنزین تأثیری ندارد.",
-      "‏هزینه‌های خدمات، AI و بیمه‌های جنگی فشار بر قیمت‌ها را حفظ می‌کند."
-    ],
-    "body_fa": "‏نفت برنت پس از عبور از سطح 100 دلار به نواحی 90 دلار کاهش یافت و عربستان سعودی در اکتبر 10.56 میلیون بشکه در روز تولید کرد که به سطح پیش از جنگ بازگشت و از سهمیه‌اش فراتر رفت. با این حال، قیمت‌های مصرف‌کننده در آمریکا در ماه اکتبر حدود 4 ٪ نسبت به سال قبل افزایش یافت و قیمت بنزین تنها کاهش جزئی داشت. داده‌های CPI نشان داد که قیمت‌های هسته‌ای 0.3 ٪ در یک ماه رشد کردند که دقیقاً به آستانه‌ای که فرماندار فدرال‌رزرو کریستوفر والر برای افزایش نیم‌نقطه‌ای تعیین کرده بود، رسید. هزینه‌های خدمات، ساختارهای هوش مصنوعی، هزینه‌های مراقبت‌های بهداشتی، مراقبت از کودکان و هتل‌ها همچنان بالا هستند و بیمه‌های جنگی و هزینه‌های عبور از تنگه هرمز هر بشکه نفت خلیج را 20 تا 30 دلار افزایش می‌دهد. دیزل نیز به دلیل حملات پهپادهای اوکراین به حدود 30 ٪ ظرفیت پالایشگاهی روسیه دچار کمبود می‌شود و قیمت نفت خام آمریکا هنوز حدود 30 دلار بیشتر از یک سال پیش است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قیمت نفت",
-    "tag": "oil",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/Why-Falling-Oil-Prices-Wont-Save-America-From-Inflation.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/Why-Falling-Oil-Prices-Wont-Save-America-From-Inflation.html",
-    "image": "https://s.yimg.com/bo/fcf13165-4a6f-5e8e-9946-0f2cc61ca015_1794575114086.jpg",
-    "timestamp": 1794573002.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0231fdb96f",
-    "title_fa": "‏آمریکا سه باند گواتمالا را گروه تروریستی اعلام کرد",
-    "title_en": "US declares three Guatemalan gangs to be terrorist groups, imposes sanctions",
-    "summary": [
-      "‏آمریکا سه باند گواتمالی را به‌عنوان گروه‌های تروریستی شناساند و تحریم اعمال کرد.",
-      "‏این تصمیم به‌دلیل تأمین مالی خشونت و جرم از طریق قاچاق مواد مخدر اتخاذ شد.",
-      "‏تحریم‌ها می‌توانند فشار بر شبکه‌های جرایمی منطقه‌ای را افزایش دهند."
-    ],
-    "body_fa": "‏دولت ایالات متحده تحت رهبری Trump سه باند گواتمالایی را به‌عنوان گروه‌های تروریستی شناخته و تحریم‌های مالی علیه آن‌ها اعمال کرد. این باندها به‌دلیل تأمین مالی خشونت و جرم از طریق قاچاق مواد مخدر مورد هدف قرار گرفتند. تحریم‌ها شامل مسدودسازی دارایی‌ها و ممنوعیت انجام معاملات مالی با این گروه‌ها می‌شود. هدف اصلی این اقدام، کاهش جریان‌های مالی جرایمی و فشار بر ساختارهای تروریستی در منطقه است. کارشناسان بر این باورند که این تصمیم می‌تواند تأثیر مثبتی بر امنیت مرزهای جنوبی آمریکا داشته باشد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "تحریم‌ها و تروریسم",
-    "tag": "تحریم",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Associated Press News",
-    "url": "https://apnews.com/article/us-guatemala-terrorism-drugs-rubio-5036440b50789cec893916478bc45471",
-    "clean_url": "https://apnews.com/article/us-guatemala-terrorism-drugs-rubio-5036440b50789cec893916478bc45471",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794571320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "c2fb1afec4",
-    "title_fa": "‏عرضه اولیه Anthropic اقتصاد آمریکا را تحت تأثیر می‌گذارد",
-    "title_en": "How Anthropic’s IPO Could Affect the Entire Economy",
-    "summary": [
-      "‏شرکت Anthropic هفته آینده در بورس آمریکا به‌صورت IPO وارد بازار می‌شود.",
-      "‏این عرضه می‌تواند تأثیر گسترده‌ای بر اقتصاد کل کشور داشته باشد.",
-      "‏تحلیل‌گران به رشد سرمایه‌گذاری در هوش مصنوعی و نوسان شاخص‌های سهام اشاره کردند."
-    ],
-    "body_fa": "‏شرکت هوش مصنوعی Anthropic قرار است هفته آینده اولین سهام عمومی خود را در بورس نیویورک به‌صورت IPO عرضه کند. این عرضه که به‌عنوان یکی از بزرگ‌ترین IPO های فناوری در تاریخ شناخته می‌شود، می‌تواند حجم سرمایه‌گذاری در بخش هوش مصنوعی را به‌طور قابل‌توجهی افزایش دهد. تحلیل‌گران پیش‌بینی می‌کنند ورود Anthropic به بازار عمومی می‌تواند نوسانات شاخص‌های سهام فناوری را تشدید کند و به‌ویژه شرکت‌های رقیب در این حوزه فشار بیشتری وارد کند. علاوه بر این، حجم بالای سرمایه جذب‌شده می‌تواند به‌صورت غیرمستقیم بر مصرف‌گرایی و هزینه‌های تحقیق و توسعه در اقتصاد کل آمریکا اثر بگذارد. در نهایت، این IPO می‌تواند نشانگر اعتماد سرمایه‌گذاران به فناوری‌های پیشرفته باشد و روند سرمایه‌گذاری در استارتاپ‌های هوش مصنوعی را تقویت کند.",
-    "category": "تکنولوژی",
-    "subcategory": "عرضه اولیه فناوری",
-    "tag": "Anthropic",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "The Wall Street Journal",
-    "url": "https://www.wsj.com/video/how-anthropics-ipo-could-affect-the-entire-economy/298EB8FE-2CF4-4F36-AD5C-9AEFF4EB0A16",
-    "clean_url": "https://www.wsj.com/video/how-anthropics-ipo-could-affect-the-entire-economy/298EB8FE-2CF4-4F36-AD5C-9AEFF4EB0A16",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794570300.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "02af6df68a",
-    "title_fa": "‏آغاز Planeswalker از Magic: The Gathering در 2027 روی نتفلیکس",
-    "title_en": "The Magic: The Gathering Animated Series, Planeswalker, Is Finally Coming to Netflix in 2027",
-    "summary": [
-      "‏سریال انیمیشن Planeswalker بر پایه Magic: The Gathering و با محوریت Chandra Nalaar برای اولین بار در سال 2027 به نتفلیکس می‌رسد.",
-      "‏این اعلامیه نشان می‌دهد نتفلیکس به تولید انیمیشن‌های مبتنی بر بازی‌های محبوب ادامه می‌دهد و می‌تواند جامعه بزرگ بازیکنان را جذب کند.",
-      "‏تیم تولید شامل Terry Matalas و Cindy Appel است؛ روسو برادرز در 2021 پروژه را ترک کردند."
-    ],
-    "body_fa": "‏در کنفرانس MagicCon آتلانتا، Wizards of the Coast اعلام کرد که سریال انیمیشن جدیدی به نام Planeswalker بر پایه بازی Magic: The Gathering برای سال 2027 برنامه‌ریزی شده است. این سریال به شخصیت Chandra Nalaar ، یک پلان‌سوار آتش‌پراکنی که به خاطر توانایی‌هایش تعقیب می‌شود، می‌پردازد و داستان او را در میان تهدیدی جهانی و جنگ‌های چندجهانی دنبال می‌کند. نتفلیکس تصمیم گرفته است همانند پروژه‌های قبلی‌اش مثل Castlevania ، این اثر را به صورت انیمیشن ارائه دهد، نه به شکل زنده‌اکشن. پس از خروج کارگردانان روسو برادرز در 2021 ، Terry Matalas به همراه Cindy Appel مسئولیت سرپرستی تولید را بر عهده گرفته‌اند. این اعلامیه نشان می‌دهد که پلتفرم‌های استریمینگ به گسترش محتواهای مبتنی بر بازی‌های ویدئویی ادامه می‌دهند و می‌توانند جامعه بزرگ طرفداران فانتزی و کارت‌ بازی را جذب کنند.",
-    "category": "گیم",
-    "subcategory": "سریال انیمیشن",
-    "tag": "Planeswalker",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/the-magic-the-gathering-show-planeswalker-is-finally-coming-to-netflix-in-2027",
-    "clean_url": "https://www.ign.com/articles/the-magic-the-gathering-show-planeswalker-is-finally-coming-to-netflix-in-2027",
-    "image": "https://assets-prd.ignimgs.com/2026/11/13/magic-the-gathering-planeswalker-netflix-1794601578152.png?width=1280&format=jpg&auto=webp&quality=80",
-    "timestamp": 1794569220.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b83aa3c08a",
-    "title_fa": "‏قیمت بیت‌کوین زیر ۷۰٬۰۰۰ دلار افتاد",
-    "title_en": "Bitcoin falls below $70,000 as dollar surges and $1.6 billion liquidated",
-    "summary": [
-      "‏بیت‌کوین برای اولین بار از آگوست زیر ۷۰٬۰۰۰ دلار شد",
-      "‏قیمت ۳٫۵٪ کاهش یافت و باعث لایکوییدیشن $1.6billion شد",
-      "‏این حرکت در پی تقویت دلار و فشارهای بازار دیجیتال است"
-    ],
-    "body_fa": "‏بیت‌کوین (BTC) برای اولین بار از آگوست قیمتش زیر ۷۰٬۰۰۰ دلار شد و از نیمه‌شب تا کنون ۳٫۵٪ کاهش یافته است. این افت در پی رشد ناگهانی دلار آمریکا رخ داد و منجر به لایکوییدیشن حدود $1.6billion در بازارهای مشتقه شد. معامله‌گران به دلیل نوسان شدید و فشارهای خرید و فروش، موقعیت‌های خود را بسته یا تعدیل کردند. تحلیل‌گران هشدار دادند که ادامهٔ تقویت دلار می‌تواند فشار بیشتری بر قیمت بیت‌کوین وارد کند. این رویداد نشان می‌دهد که بازار رمزارزها همچنان به تحولات ارزی جهانی حساس است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قیمت بیت‌کوین",
-    "tag": "Bitcoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-    "clean_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-    "image": "https://s.yimg.com/bo/eef33bdc-1e7e-593e-a8a3-acd128f8648e_1794571667048.png.cf.jpg",
-    "timestamp": 1794568972.0,
     "sent_to_telegram": true
   }
 ]
