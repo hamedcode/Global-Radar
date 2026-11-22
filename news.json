@@ -88,6 +88,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "32b55abc06",
+    "title_fa": "‏تاور رکوردز ژاپن در اثر نفوذ داده‌ها دچار بحران شد",
+    "title_en": "Tower Records Becomes Latest Japan Retailer Hit by Data Breach",
+    "summary": [
+      "‏تاور رکوردز ژاپن اعلام کرد که اطلاعات مشتریان در یک نفوذ سایبری فاش شد",
+      "‏این نفوذ می‌تواند به سرقت هویت و سوءاستفاده مالی برای هزاران مشتری منجر شود",
+      "‏تاور رکوردز هنوز جزئیات دقیق حجم داده‌های سرقت‌شده را منتشر نکرده است"
+    ],
+    "body_fa": "‏تاور رکوردز در ژاپن امروز اعلام کرد که سامانه‌های فروشگاهی‌اش مورد یک حمله سایبری قرار گرفته و اطلاعات شخصی مشتریان در معرض خطر قرار گرفته است. این نفوذ به‌نظر می‌رسد مشابه حملات اخیر به دیگر خرده‌فروشان ژاپنی باشد و نگرانی‌های جدی درباره امنیت داده‌ها را برانگیخته است. شرکت هنوز تعداد دقیق رکوردهای سرقت‌شده یا نوع اطلاعات (مانند نام، ایمیل و جزئیات کارت‌پرداخت) را فاش نکرده، اما قول داده است تا در اسرع وقت به مشتریان اطلاع‌رسانی کند و اقدامات حفاظتی را تقویت نماید. این حادثه می‌تواند فشار بیشتری بر قوانین حفاظت از داده‌ها در ژاپن وارد کند و باعث افزایش هزینه‌های امنیتی برای شرکت‌های خرده‌فروشی شود.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "data breach",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795313340.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "ad076a5e14",
+    "title_fa": "‏۴ نفر در حمله پهپادی روسیه به کیف کشته شدند",
+    "title_en": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
+    "summary": [
+      "‏حداقل ۴ نفر در حمله پهپادی روسیه به منطقه کیف کشته شدند",
+      "‏این حمله نشان‌دهنده تشدید خشونت در جنگ روسیه‑اوکراین است",
+      "‏۱۴ نفر دیگر ممکن است زیر آوار ساختمان مسکونی گیر افتاده باشند"
+    ],
+    "body_fa": "‏رئیس‌جمهور اوکراین ولودیمیر زلنسکی اعلام کرد که حداقل چهار نفر در اثر پهپادهای روسی که صبح یک‌شنبه به یک ساختمان مسکونی در منطقه کیف اصابت کردند، کشته شدند. این حمله باعث تخریب شدید ساختمان و به دام افتادن حدود چهارده نفر زیر آوار شد. زلنسکی افزود که نیروهای امدادی برای نجات افراد گرفتار در زیر خاک کار می‌کنند. این رویداد نشان می‌دهد که درگیری‌های هوایی روسیه در اوکراین همچنان ادامه دارد و خطر تلفات غیرنظامی را افزایش می‌دهد. جامعه بین‌المللی به شدت این حمله را محکوم کرده و خواستار توقف کامل خشونت شد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حملات هوایی",
+    "tag": "پهباد",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22/",
+    "clean_url": "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795309140.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "be7131232c",
     "title_fa": "‏مصرف‌کنندگان آمریکایی در آستانه تعطیلات با تورم مقابله می‌کنند",
     "title_en": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
@@ -6553,50 +6597,6 @@
     "clean_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
     "image": "https://s.yimg.com/bo/eef33bdc-1e7e-593e-a8a3-acd128f8648e_1794571667048.png.cf.jpg",
     "timestamp": 1794568972.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "80fe6669dc",
-    "title_fa": "‏قضیه حذف اطلاعات IPO Robinhood در دادگاه عالی بررسی می‌شود",
-    "title_en": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
-    "summary": [
-      "‏دادگاه عالی ایالات متحده موافقت کرد که پروندهٔ اعتراض Robinhood به حذف داده‌های مالی میانی در IPO 2021 را بررسی کند",
-      "‏این تصمیم می‌تواند تأثیر قابل‌توجهی بر سهام Robinhood و قوانین افشای اطلاعات در بازارهای مالی داشته باشد",
-      "‏دادگاه 9th Circuit پیش از این دعوی را احیا کرده بود"
-    ],
-    "body_fa": "‏دادگاه عالی ایالات متحده روز جمعه اعلام کرد که پروندهٔ اعتراض Robinhood به حذف اطلاعات مالی میانی در عرضه اولیه سهام (IPO) سال 2021 را بررسی خواهد کرد. Robinhood می‌خواهد حکم دادگاه 9th Circuit که دعوی جمعی سرمایه‌گذاران علیه این شرکت و بانک‌های مشارکت‌کننده مانند Goldman Sachs و J.P. Morgan Securities را احیا کرده بود، لغو شود. دادگاه فدرال سانفرانسیسکو پیش از این دعوی را رد کرده بود، اما دادگاه 9th Circuit آن را دوباره زنده کرد. دولت ترامپ و کمیسیون بورس و اوراق بهادار (SEC) نیز از دادگاه عالی درخواست کردند تا به این تجدیدنظر بپردازد. اگر دادگاه عالی به نفع Robinhood رأی دهد، ممکن است فشار قانونی بر افشای کامل اطلاعات در IPO ها کاهش یابد و قیمت سهام این شرکت تحت تأثیر قرار گیرد. از سوی دیگر، پیروان دعوی معتقدند حذف داده‌های مربوط به عملکرد سه ماهه دوم 2021 ، که پس از عرضه عمومی به کاهش قیمت سهام منجر شد، اطلاعات مهمی را از سرمایه‌گذاران محروم کرده است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "Robinhood",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
-    "clean_url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108274141-17727164112026-03-05t033804z_1624129463_rc2zxjae4cms_rtrmadp_0_robinhood-usa.jpeg?v=1772716459&w=1920&h=1080",
-    "timestamp": 1794567660.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cc4e49de68",
-    "title_fa": "‏چیپ‌های ممنوع Nvidia در آموزش مدل‌های پیشرفته چین استفاده شدند",
-    "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
-    "summary": [
-      "‏مدل‌های هوش مصنوعی پیشرفته چین با چیپ‌های Blackwell ممنوع از صادرات آموزش دیده‌اند",
-      "‏این نشان می‌دهد کنترل‌های صادراتی آمریکا در مقابل پیشرفت‌های AI چین ناکارآمد بوده و خطر تخلف‌های بزرگ را نشان می‌دهد",
-      "‏همزمان جنسن هوانگ به دلیل رسوایی شخصی و احتمال مسئولیت‌های قانونی از شرکت جدا شد"
-    ],
-    "body_fa": "‏یک پژوهش جدید نشان داد که مدل‌های بزرگ زبان باز منتشر شده توسط شرکت‌های چینی مانند DeepSeek ، Moonshot AI و Ant Group با استفاده از چیپ‌های Blackwell شرکت Nvidia که تحت تحریم صادراتی آمریکا قرار دارند، آموزش دیده‌اند. محقق ویلیام دی‌پو با تحلیل وزن‌های این مدل‌ها، ردپای سخت‌افزار Blackwell را شناسایی کرد و این موضوع را با اظهارات مشاور فناوری کاخ سفید، مایکل کراتسیوس، تأیید کرد. برآوردهای سازمان Epoch AI حاکی از ورود حدود دو میلیون چیپ پیشرفته به چین در سال‌های 2024‑2025 از طریق مسیرهای مخفی، از جمله واردات به مالزی، است. در همین زمان، جنسن هوانگ به دلیل رسوایی شخصی و احتمال مسئولیت‌های قانونی مرتبط با قاچاق چیپ‌ها، از سمت خود در Nvidia کناره‌گیری کرد. این رویدادها نشان می‌دهد که محدودیت‌های صادراتی آمریکا در مقابل پیشرفت‌های هوش مصنوعی چین به چالش کشیده شده و احتمال تحریم‌های سخت‌تر یا اقدامات قانونی جدید را به دنبال دارد.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Nvidia",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "clean_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
-    "timestamp": 1794566400.0,
     "sent_to_telegram": true
   }
 ]
