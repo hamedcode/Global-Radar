@@ -1,5 +1,27 @@
 [
   {
+    "id": "957a971032",
+    "title_fa": "‏قانون تجاری آمریکا فهرست‌موردی Megaspeed را بی‌اثر کرد",
+    "title_en": "'Zero effect!' Expert spots critical flaw in Trump admin's toothless chips crackdown",
+    "summary": [
+      "‏دپارتمان تجارت آمریکا شرکت سنگاپوری Megaspeed را به فهرست‌موردی افزود اما کلید حذف چیپ‌های AI را نادیده گرفت",
+      "‏کارشناس Chris McGuire می‌گوید این اشتباه باعث می‌شود شرکت همچنان بتواند چیپ‌های Nvidia را دریافت کند",
+      "‏به‌نظر او این نقص نشان‌دهندهٔ سهل‌انگاری یا هدف‌گذاری ضعیف در اجرای تحریم‌هاست"
+    ],
+    "body_fa": "‏دپارتمان تجارت ایالات متحده این هفته شرکت سنگاپوری Megaspeed را به فهرست‌موردی (Entity List) افزود. اما طبق گفتهٔ کارشناس تجارت بین‌المللی Chris McGuire ، قانون جدید بخش مهمی به نام «قانون محصول مستقیم خارجی» (FDPR) را که باید خرید چیپ‌های هوش مصنوعی مبتنی بر فناوری آمریکا را ممنوع می‌کرد، حذف کرده است. به‌دلیل این نقص، شرکت می‌تواند همچنان چیپ‌های Nvidia که در تایوان تولید می‌شوند را بدون مجوز دریافت کند. McGuire اشاره کرد که تمام شرکت‌های چینی دیگری که به فهرست‌موردی اضافه شده‌اند، این بند را دارند، در حالی که Megaspeed این مزیت را ندارد. او این را یا خطای ناشی از عدم دقت یا تضعیف عمدی می‌داند و می‌گوید این نشان‌دهندهٔ ضعف ادارهٔ تجارت در اجرای تحریم‌هاست. این نقص می‌تواند اثرات محدودی بر دسترسی چین به فناوری‌های پیشرفته داشته باشد، اما نشان می‌دهد سیاست‌های صادراتی آمریکا ممکن است به‌صورت جزئی ناکارآمد باشد.",
+    "category": "تکنولوژی",
+    "subcategory": "سیاست‌گذاری فناوری",
+    "tag": "Megaspeed",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Raw Story",
+    "url": "https://www.rawstory.com/trump-nvidia-2678507261/",
+    "clean_url": "https://www.rawstory.com/trump-nvidia-2678507261",
+    "image": "https://www.bing.com/th?id=ONUT.ogecTE1zNbtU3F37FGU6ww",
+    "timestamp": 1795483293.2125654,
+    "sent_to_telegram": true
+  },
+  {
     "id": "89217329fd",
     "title_fa": "‏جان ویلیامز فدرال‌رزرو: کار زیادی برای کاهش تورم باقیست",
     "title_en": "Fed has 'work to do' to lower inflation, Williams says",
@@ -88,6 +110,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "69ffc9ff0e",
+    "title_fa": "‏شرکت‌های آسیا‑پاسیفیک بهره‌وری AI را گزارش دادند",
+    "title_en": "AI adoption grows in Asia, but measuring the gains remains tricky",
+    "summary": [
+      "‏58 ٪ شرکت‌های آسیا‑پاسیفیک گفتند سرمایه‌گذاری در هوش مصنوعی سودده شد",
+      "‏اما تنها 12 ٪ توانستند بازده سرمایه‌گذاری را به‌دقت اندازه‌گیری کنند",
+      "‏بانک Techcombank با AI وام‌های بیشتری به کسب‌وکارهای کوچک اعطا کرد"
+    ],
+    "body_fa": "‏یک نظرسنجی توسط Strand Partners برای Amazon Web Services شامل 9,750 رهبر کسب‌وکار در 10 بازار آسیا‑پاسیفیک انجام شد. 58 ٪ شرکت‌های استفاده‌کننده از هوش مصنوعی اعلام کردند که سرمایه‌گذاری‌هایشان هزینه اولیه را پوشش داده و سودآور شده است، اما فقط 12 ٪ توانستند بازده سرمایه‌گذاری را به‌دقت سنجش کنند. بزرگ‌ترین تغییر در سال گذشته، انتقال ایده‌های AI به مرحله تولید است؛ 64 ٪ شرکت‌ها هنوز به ابزارهای عمومی یا راه‌حل‌های آماده متکی‌اند و تنها 19 ٪ استراتژی جامع AI دارند. شرکت‌هایی که استراتژی رسمی دارند، 35 ٪ به پیشرفته‌ترین سطح پذیرش رسیده‌اند، در حالی که این رقم برای بدون استراتژی تنها 8 ٪ است. AWS چهار عامل «آمادگی» را نام می‌برد: فناوری، فرهنگ، مهارت‌ها و آمادگی شخصی. به‌عنوان مثال، بانک Techcombank ویتنام با استفاده از AI درخواست‌های وام را ارزیابی کرده و به‌ویژه به کسب‌وکارهای کوچک دسترسی به اعتبار را گسترش داده است.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+    "clean_url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108262224-1770325809477-gettyimages-2249021916-AWS_Data_Center.jpeg?v=1789565870&w=1920&h=1080",
+    "timestamp": 1795449600.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4e59119c02",
+    "title_fa": "‏آمازون پس از سقوط پهپاد در میشیگان تحت بررسی FAA",
+    "title_en": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+    "summary": [
+      "‏یک پهپاد MK30 آمازون در حومه دیترویت به یک گاراژ مسکونی و کابل فیبر نوری برخورد کرد",
+      "‏این حادثه موجب آغاز تحقیقات فدرال ایروناسیون آمریکا شد و می‌تواند برنامهٔ گسترش تحویل هوایی آمازون را به خطر اندازد",
+      "‏هیچ‌کس صدمه ندید و پهپاد از صحنه برداشته شد"
+    ],
+    "body_fa": "‏فدرال ایروناسیون آمریکا اعلام کرد که پس از سقوط یک پهپاد تحویل آمازون در حومه دیترویت، تحقیقات رسمی را آغاز خواهد کرد. در جمعهٔ گذشته، پهپاد مدل MK30 شرکت در حین تحویل شامپو به یک مشتری، به گاراژ یک ساکن در Huntington Woods برخورد و در حین پرواز به کابل فیبر نوری و خطوط برق نیز برخورد کرد. هیچ‌کس صدمه‌ای ندید؛ پهپاد از محل برداشته شد و آمازون در تماس با صاحب‌خانه برای جبران خسارت است. این حادثه پس از دو بررسی قبلی فدرال در تگزاس و نزدیکی فینیکس، نگرانی‌ها دربارهٔ ایمنی و مقررات تحویل هوایی را تشدید می‌کند. آمازون هدف دارد تا پایان سال جاری سرویس پهپاد خود را در ۵۰۰ شهر ایالات متحده راه‌اندازی کند؛ اما این نوع حوادث می‌تواند سرعت گسترش این برنامه را تحت تأثیر قرار دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "دستگاه‌های هوایی",
+    "tag": "drone",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+    "clean_url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108207077-1759421802812-gettyimages-1732229069-AFP_33YJ8RL.jpeg?v=1766936286&w=1920&h=1080",
+    "timestamp": 1795449600.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "2893502628",
     "title_fa": "‏هند پس از اعتراض بریتانیا، تعرفه اسکاچ را حل می‌کند",
     "title_en": "India seeks to resolve dispute over Scotch tariffs after UK raises concerns",
@@ -132,6 +198,94 @@
     "sent_to_telegram": true
   },
   {
+    "id": "81e3c4c2cc",
+    "title_fa": "‏هکر افشاگر GTA VI به ۷ سال حبس محکوم شد",
+    "title_en": "The hacker behind early GTA VI leaks has been sentenced — and released",
+    "summary": [
+      "‏هکر Arion Kurtaj به جرم نفوذ به Rockstar Games و درز ۹۰ ویدئوی GTA VI به ۷ سال حبس محکوم شد",
+      "‏این حکم پس از انتشار پیش‌نمایش‌های بازی که هفته پیش با فروش ۳.۷۹میلیارد دلار آغاز شد، اهمیت دارد",
+      "‏او به‌دلیل حکم، پنج سال نمی‌تواند از تلگرام و Discord استفاده کند"
+    ],
+    "body_fa": "‏Arion Kurtaj که هفته پیش به جرم نفوذ به سامانه‌های Rockstar Games و شرکت‌های دیگر از جمله Uber و Revolut اعتراف کرده بود، به هفت سال حبس محکوم شد. با این حال پس از اجرای حکم، او تحت نظارت آزاد شد و به‌عنوان شرطی، دسترسی به پلتفرم‌های Telegram و Discord برای پنج سال ممنوع شد. در سال ۲۰۲۲، هکر با درز ۹۰ ویدئوی پیش‌نمایش GTA VI ، اطلاعاتی را که سال‌ها پیش از انتشار رسمی بازی بود، افشا کرد. این افشاگری باعث شد تا طرفداران بازی پیش از موعد به محتوا دسترسی پیدا کنند، اما Rockstar در نهایت بازی را هفته گذشته با نقدهای مثبت عرضه کرد. فروش روز اول GTA VI به ۳.۷۹میلیارد دلار رسید که نشان‌دهنده تقاضای بالای بازار برای این عنوان است. قاضی در زمان صدور حکم، به توانایی‌های فنی Kurtaj اشاره کرد و او را تشویق کرد تا استعدادش را در مسیر قانونی به کار گیرد. این پرونده نشان می‌دهد که حتی در صنعت بازی‌های ویدئویی، مسائل امنیتی می‌توانند به مسائل قضایی مهم تبدیل شوند.",
+    "category": "گیم",
+    "subcategory": "هک بازی",
+    "tag": "GTA VI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+    "clean_url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "timestamp": 1795447500.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e0f1f8a489",
+    "title_fa": "‏مدیکیر آمریکا هزینه‌های ۱۳ دارو را ۴۵٪ کاهش داد",
+    "title_en": "US Medicare says price cuts on 13 more drugs will reduce spending by 45%",
+    "summary": [
+      "‏مدیکیر آمریکا اعلام کرد که قیمت ۱۳ داروی پرهزینه شامل Biktarvy و Trulicity کاهش یافت.",
+      "‏این کاهش قیمت باعث صرفه‌جویی ۴۵٪ در هزینه‌های دارویی این برنامه می‌شود.",
+      "‏کاهش قیمت‌ها می‌تواند فشار بر هزینه‌های بهداشتی ساکنان آمریکا را کاهش دهد."
+    ],
+    "body_fa": "‏مدیکیر ایالات متحده در روز دوشنبه اعلام کرد که قیمت ۱۳ داروی پرهزینه‌اش، از جمله Biktarvy شرکت Gilead و Trulicity شرکت Eli Lilly ، به‌طور قابل‌توجهی کاهش یافت. این اقدام منجر به صرفه‌جویی حدود ۴۵٪ در هزینه‌های دارویی برنامه می‌شود و فشار مالی بر بودجه این بیمه‌گر دولتی را کم می‌کند. کاهش قیمت‌ها می‌تواند به کاهش هزینه‌های بهداشتی برای میلیون‌ها سالمند آمریکایی منجر شود. این تصمیم احتمالاً بر مذاکرات قیمت‌گذاری در صنعت داروسازی جهانی نیز تأثیر خواهد گذاشت. کارشناسان پیش‌بینی می‌کنند که سایر برنامه‌های بهداشتی ممکن است از این الگو پیروی کنند تا هزینه‌های دارویی را کنترل کنند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قیمت‌گذاری دارو",
+    "tag": "کاهش‌قیمت",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-medicare-says-price-cuts-13-more-drugs-will-reduce-spending-by-45-2026-11-23/",
+    "clean_url": "https://www.reuters.com/legal/litigation/us-medicare-says-price-cuts-13-more-drugs-will-reduce-spending-by-45-2026-11-23",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795446540.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "865c60c63e",
+    "title_fa": "‏قیمت طلا به بالای ۳۶۰۰ دلار می‌رسد",
+    "title_en": "Gold snaps a five-day losing streak as Bessent warns the Fed against...",
+    "summary": [
+      "‏قیمت طلا (XAU/USD) روز دوشنبه بالای ۳۶۰۰ دلار معامله شد",
+      "‏این صعود پس از پنج روز کاهش مستمر رخ داد و نشانگر نگرانی‌های بازار از سیاست‌های فدرال‌رزرو است",
+      "‏تحلیل‌گران انتظار دارند طلا در ادامه هفته به نوسان ادامه دهد"
+    ],
+    "body_fa": "‏قیمت طلا در روز دوشنبه به بالای ۳۶۰۰ دلار رسید و پس از پنج روز کاهش مستمر، روند نزولی خود را شکست. این حرکت قوی به‌دلیل اظهارات Bessent بود که فدرال‌رزرو را در مقابل ادامه سیاست‌های سختگیرانه هشدار داد. سرمایه‌گذاران به‌سرعت به طلا به‌عنوان دارایی امن روی آوردند و تقاضا را افزایش دادند. تحلیل‌گران بر این باورند که اگر نگرانی‌ها درباره نرخ بهره ادامه یابد، طلا می‌تواند به‌سوی سطوح بالاتر حرکت کند. این بازگشت قیمت می‌تواند بر بازارهای دیگر کالاها و ارزها نیز تأثیرگذار باشد.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "Gold",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Forex Market",
+    "url": "https://www.fxstreet.com/analysis/gold-snaps-a-five-day-losing-streak-as-bessent-warns-the-fed-against-overtightening-202611231424",
+    "clean_url": "https://www.fxstreet.com/analysis/gold-snaps-a-five-day-losing-streak-as-bessent-warns-the-fed-against-overtightening-202611231424",
+    "image": "https://s.yimg.com/bo/59d487e0-e239-5a33-9384-ef556477c0ba_1795445006584.png.cf.jpg",
+    "timestamp": 1795443311.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "bc9764f7ab",
+    "title_fa": "‏Anthropic سرویس Claude Ship برای تأیید خودکار کدها عرضه شد",
+    "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "summary": [
+      "‏Anthropic سرویس Claude Ship را معرفی کرد که می‌تواند تغییرات کد را بررسی، اصلاح و به‌صورت خودکار تأیید کند.",
+      "‏این ابزار می‌تواند زمان بررسی PR ها را کاهش دهد و تصمیم‌گیری تیم‌ها را بر پایه سیاست‌های تعریف‌شده خودکار کند.",
+      "‏Claude Approvals می‌تواند بر اساس فایل سیاستی در مخزن، به‌صورت مشاهداتی ابتدا فعال شود."
+    ],
+    "body_fa": "‏Anthropic در روز دوشنبه سرویس جدیدی به نام Claude Ship را به‌صورت عمومی اعلام کرد. این مجموعه شامل چندین عامل هوش مصنوعی است که می‌توانند مرور کد، رفع مشکلات و حتی تأیید خودکار تغییرات را انجام دهند. دو عامل جدید در نسخه بتا، PR Steward و Claude Approvals ، به‌طور خاص به حل خطاهای CI ، تعارضات ادغام و اجرای سیاست‌های تأیید نوشته‌شده در مخزن می‌پردازند. Claude Approvals امکان تعریف قوانین تأیید به‌صورت متن طبیعی را فراهم می‌کند و می‌تواند بر اساس نتایج مرور یا طبقه‌بندهای داخلی تیم عمل کند. Anthropic توصیه می‌کند ابتدا این قابلیت را در حالت مشاهده‑تنها به کار ببرید و می‌توانید محدودیت هزینه ماهانه برای کنترل هزینه‌ها تنظیم کنید.",
+    "category": "تکنولوژی",
+    "subcategory": "هوش مصنوعی",
+    "tag": "Claude Ship",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "clean_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+    "timestamp": 1795442760.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "10b061ba7a",
     "title_fa": "‏جان ویلیامز فدرال‌رزرو بر افزایش تدریجی نرخ بهره تأکید کرد",
     "title_en": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
@@ -154,6 +308,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "e7215d9b59",
+    "title_fa": "‏آمریکا شرکت Megaspeed سنگاپوری را به فهرست سیاه افزود",
+    "title_en": "US blacklists Megaspeed cloud company linked to Nvidia scandal",
+    "summary": [
+      "‏آمریکا شرکت چیپ‌ساز سنگاپوری Megaspeed را به فهرست سیاه تجاری افزود.",
+      "‏این اقدام پس از ارتباط این شرکت با تحقیقات جاسوسی پیرامون Nvidia انجام شد.",
+      "‏منبعی به Reuters گفت افزودن Megaspeed می‌تواند روابط تجاری آمریکا-سنگاپور را تحت فشار قرار دهد."
+    ],
+    "body_fa": "‏ایالات متحده روز دوشنبه تصمیم گرفت شرکت چیپ‌ساز مستقر در سنگاپور به نام Megaspeed را به فهرست سیاه تجاری خود اضافه کند. این اقدام پس از آن انجام شد که اطلاعاتی نشان داد این شرکت به یک پرونده جاسوسی مرتبط با Nvidia متصل است. فهرست سیاه تجارت آمریکا محدودیت‌های صادرات و انتقال فناوری‌های پیشرفته به شرکت‌های مذکور را اعمال می‌کند. در نتیجه، Megaspeed احتمالاً دسترسی به قطعات و نرم‌افزارهای آمریکایی خود را از دست خواهد داد. این تصمیم می‌تواند تنش‌های تجاری میان آمریکا و سنگاپور را تشدید کند و نگرانی‌هایی درباره تأثیرات بر زنجیره تأمین نیمه‌رساناها ایجاد کند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم تجاری",
+    "tag": "Megaspeed",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-blacklist-megaspeed-chip-firm-linked-nvidia-scandal-source-says-2026-11-23/",
+    "clean_url": "https://www.reuters.com/business/us-blacklist-megaspeed-chip-firm-linked-nvidia-scandal-source-says-2026-11-23",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795438260.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "a92118e509",
     "title_fa": "‏پورت‌های آمریکا با هزاران حمله سایبری روزانه مواجه شدند",
     "title_en": "Cyber attacks bombard US ports with 'thousands' of hacks",
@@ -173,6 +349,28 @@
     "clean_url": "https://www.yahoo.com/news/us/articles/cyber-attacks-bombard-us-ports-121120899.html",
     "image": "https://media.zenfs.com/en/newsweek_sports_200/24df3217584acdc271d47b994034bea9.jpg",
     "timestamp": 1795436962.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "2dc2bed353",
+    "title_fa": "‏ETF لِورِج‌دار ۲× Zcash توسط Grayscale ۱۳٪ افت کرد",
+    "title_en": "Grayscale's new 2x leveraged Zcash ETF takes 13% opening day tumble",
+    "summary": [
+      "‏ETF لِورِج‌دار ۲× Zcash توسط Grayscale در NYSE Arca debut کرد و قیمت Zcash ۱۳٪ افت کرد",
+      "‏این افت نشان می‌دهد سرمایه‌گذاران به ریسک بالای لِورِج در رمزارز واکنش منفی نشان دادند",
+      "‏Zcash در پایان روز در حدود ۷۹۴ دلار ثابت ماند"
+    ],
+    "body_fa": "‏Grayscale روز دوشنبه ETF لِورِج‌دار ۲× بر پایه Zcash را در بورس NYSE Arca به‌صورت رسمی راه‌اندازی کرد. پس از شروع معاملات، قیمت Zcash که پیش از آن ۱۳٪ افزایش یافته بود، به سرعت ۱۳٪ سقوط کرد و در پایان روز تقریباً ثابت در حدود ۷۹۴ دلار ماند. این نوسان نشان می‌دهد که سرمایه‌گذاران نسبت به ابزارهای لِورِج‌دار در بازار رمزارز حساس هستند. ETF جدید می‌تواند جذابیت بیشتری برای سرمایه‌گذاران حرفه‌ای ایجاد کند، اما ریسک بالای آن می‌تواند باعث نوسانات شدید قیمت پایه شود. تحلیل‌گران پیش‌بینی می‌کنند که حجم معاملات این ETF در هفته‌های اولیه می‌تواند تأثیر قابل‌توجهی بر نقدینگی Zcash داشته باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "ETF رمزارز",
+    "tag": "Zcash",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
+    "clean_url": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795435200.0,
     "sent_to_telegram": true
   },
   {
@@ -6399,204 +6597,6 @@
     "clean_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-still-out-control-six-months-since-it-was-2026-11-15",
     "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794730440.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b38c20f4ab",
-    "title_fa": "‏استونی تمام گذرگاه‌های مرزی با روسیه را می‌بندد",
-    "title_en": "Estonia to close Russian border crossings after attempted arson attack",
-    "summary": [
-      "‏استونی تصمیم گرفت از 1 دسامبر تمام نقاط عبور مرزی با روسیه را ببندد.",
-      "‏این اقدام پس از حمله تخریبی مشکوک به یک شرکت دفاعی استونی انجام شد و تنش‌های منطقه‌ای را تشدید می‌کند.",
-      "‏بستن مرزها می‌تواند تجارت و عبور افراد بین دو کشور را به‌طور قابل‌توجهی محدود کند."
-    ],
-    "body_fa": "‏استونی اعلام کرد که از 1 دسامبر تمام ایستگاه‌های عبور مرزی با روسیه بسته خواهند شد. این تصمیم پس از وقوع یک حمله تخریبی مشکوک به یک شرکت دفاعی استونی اتخاذ شد که به نظر می‌رسد توسط عوامل روسی انجام شده باشد. وزیر خارجه استونی این اقدام را برای حفظ امنیت ملی و جلوگیری از تهدیدهای احتمالی بیان کرد. بسته شدن مرزها می‌تواند جریان تجارت، حمل و نقل و عبور افراد بین دو کشور را به‌طور قابل‌توجهی تحت تأثیر قرار دهد. این گام احتمالاً تنش‌های دیپلماتیک بین استونی و مسکو را تشدید می‌کند و می‌تواند به تحریم‌های بیشتر یا اقدامات مشابه در سطح منطقه‌ای منجر شود.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "روابط بین‌الملل",
-    "tag": "استونی",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/estonia-close-russian-border-crossings-after-attempted-arson-attack-2026-11-15/",
-    "clean_url": "https://www.reuters.com/world/europe/estonia-close-russian-border-crossings-after-attempted-arson-attack-2026-11-15",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794730140.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "aba9083e16",
-    "title_fa": "‏Megaspeed بررسی داخلی می‌کند پس از خروج آلیس هوانگ",
-    "title_en": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into...",
-    "summary": [
-      "‏آلیس هوانگ در 30 اوت 2025 از Megaspeed رفت.",
-      "‏شرکت برای بررسی گزارش‌های رسانه‌ای درباره زنجیره تأمین و ارتباطاتش با Nvidia تحقیق داخلی آغاز کرد.",
-      "‏برخی مقامات آمریکا او را دارایی اطلاعاتی چین می‌دانند."
-    ],
-    "body_fa": "‏Megaspeed روز یکشنبه اعلام کرد آلیس هوانگ در 30 اوت 2025 از شرکت جدا شده و دیگر نقشی در آن ندارد. این شرکت سحابی مستقر در سنگاپور، که به عنوان شریک اصلی Nvidia در ارائه ابرمحاسبه در منطقه شناخته می‌شود، پس از انتشار گزارش‌های رسانه‌ای درباره احتمال انتقال چیپ‌های خود به چین، یک تحقیق داخلی راه‌اندازی کرده است. Megaspeed تاکید کرد که ادعاهای مربوط به زنجیره تأمین و عملیات جهانی‌اش شواهد قابل تأییدی ندارند و برای بررسی دقیق‌تر و مشاوره حقوقی خارجی اقدام کرده است. مقامات اطلاعاتی ایالات متحده آلیس هوانگ را دارایی اطلاعاتی چین می‌دانند، در حالی که ادعای خیانت همسر جنسن هوانگ، مدیر سابق Nvidia ، به رسانه‌ها دامن زده است. این ماجرا می‌تواند روابط تجاری Megaspeed با Nvidia و تبعیت از قوانین صادرات ایالات متحده را تحت فشار قرار دهد. شرکت قول داد نتایج تحقیق را به ذینفعان اطلاع دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "Megaspeed",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-    "clean_url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-    "image": "https://s.yimg.com/bo/ab0c4a9a-da52-55a6-b0fe-06635159ec08_1794732279137.jpg",
-    "timestamp": 1794729454.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0061dbb289",
-    "title_fa": "‏بسنت: Nvidia برای مدیرعامل جدید باید به خارج نگاه کند",
-    "title_en": "Bessent says Nvidia must 'go outside the company' to find new CEO",
-    "summary": [
-      "‏اسکات بسنت، معاون خزانه‌داری آمریکا، اعلام کرد Nvidia باید برای یافتن مدیرعامل جدید به خارج از شرکت نگاه کند",
-      "‏این نکته پس از استعفای ناگهانی جنسن هوانگ، بنیان‌گذار و مدیرعامل فعلی، اهمیت ویژه‌ای دارد",
-      "‏استعفای او می‌تواند بازارهای فناوری و سهام Nvidia را تحت فشار قرار دهد"
-    ],
-    "body_fa": "‏اسکات بسنت، معاون خزانه‌داری ایالات متحده، روز یکشنبه گفت Nvidia باید برای یافتن مدیرعامل جدید به خارج از شرکت نگاه کند. این اظهارات پس از اینکه جنسن هوانگ، بنیان‌گذار و مدیرعامل کنونی، به‌طور ناگهانی استعفا داد، مطرح شد. هوانگ هفته پیش اعلام کرد که به دلایل شخصی از سمت خود کناره‌گیری می‌کند و این خبر بازارهای فناوری را تکان داد. تصمیم بسنت می‌تواند فشار بر سهام Nvidia را افزایش دهد، زیرا یافتن یک جانشین داخلی دشوار به نظر می‌رسد. تحلیل‌گران پیش‌بینی می‌کنند که اگر Nvidia نتواند به‌سرعت یک مدیرعامل با تجربه جذب کند، ارزش بازار این شرکت ممکن است تحت فشار قرار گیرد.",
-    "category": "تکنولوژی",
-    "subcategory": "جایگزینی مدیرعامل",
-    "tag": "Nvidia",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/bessent-says-nvidia-must-go-outside-company-find-new-ceo-2026-11-15/",
-    "clean_url": "https://www.reuters.com/world/bessent-says-nvidia-must-go-outside-company-find-new-ceo-2026-11-15",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794729000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bf7f79806c",
-    "title_fa": "‏نوییدیا برای پرونده قاچاق چیپ کارمندش از تایپه کمک خواست",
-    "title_en": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case",
-    "summary": [
-      "‏Nvidia از مقامات تایپه درخواست همکاری برای بررسی اتهام قاچاق چیپ توسط یکی از کارمندان خود کرد.",
-      "‏این موضوع نشان‌دهنده نگرانی‌های جدی دربارهٔ رعایت قوانین صادرات و امنیت زنجیره تأمین در صنعت نیمه‌رساناهاست.",
-      "‏اگرچه جزئیات محدودی منتشر شده، این پرونده می‌تواند تأثیراتی بر روابط تجاری آمریکا‑تایوان داشته باشد."
-    ],
-    "body_fa": "‏Nvidia به مقامات تایپه اطلاع داد که یک کارمندش متهم به قاچاق چیپ‌های پیشرفته شده است. شرکت درخواست همکاری برای بررسی جزئیات و بازگرداندن قطعات به‌دست‌آمده کرد. این اقدام نشان می‌دهد که Nvidia به جدیت قوانین صادرات و کنترل فناوری حساس است. پرونده می‌تواند فشارهای بیشتری بر روی شرکت‌های فناوری در زمینهٔ رعایت مقررات بین‌المللی ایجاد کند. همچنین ممکن است روابط تجاری حساس بین آمریکا و تایوان را تحت تأثیر قرار دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "قوانین صادرات",
-    "tag": "قاچاق چیپ",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794725280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "287ea914bd",
-    "title_fa": "‏سازمان FDA آمریکا داروی سرطان ریه Summit را رد کرد",
-    "title_en": "US FDA Rejects Summit’s China-Originated Lung Cancer Drug",
-    "summary": [
-      "‏سازمان FDA آمریکا درخواست داروی سرطان ریه Summit تولید شده در چین را رد کرد.",
-      "‏این تصمیم می‌تواند ارزش سهام Summit و دسترسی بیماران به درمان جدید را تحت فشار قرار دهد.",
-      "‏رد بر پایه عدم تأیید ایمنی و اثربخشی در داده‌های بالینی بود."
-    ],
-    "body_fa": "‏سازمان غذا و داروی ایالات متحده (FDA) اعلام کرد که درخواست Summit Therapeutics برای تأیید داروی جدید سرطان ریه که در چین توسعه یافته است، رد شده است. FDA در بیانیه‌اش اشاره کرد که داده‌های بالینی ارائه‌شده نتوانستند معیارهای ایمنی و اثربخشی مورد نیاز را برآورده کنند. این دارو، که هدفش درمان انواع خاصی از سرطان ریه است، انتظار می‌رفت در سال‌های آینده به بازار برسد. رد درخواست می‌تواند فشار مالی و سهام‌گذاری بر Summit را افزایش دهد و زمان عرضه درمان به بیماران را به تعویق بیندازد. همچنین این تصمیم نشان‌دهنده چالش‌های بیشتری برای شرکت‌های دارویی است که از چین به بازار آمریکا می‌خواهند وارد شوند.",
-    "category": "تکنولوژی",
-    "subcategory": "داروسازی",
-    "tag": "FDA",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-fda-rejects-summit-s-china-originated-lung-cancer-drug",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-15/us-fda-rejects-summit-s-china-originated-lung-cancer-drug",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794723780.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "d8eb98d08d",
-    "title_fa": "‏شرکت New World برنامه‌ریزی برای انتشار 3.2 میلیارد دلار حق عرضه",
-    "title_en": "New World Plans $3.2 Billion Rights Issue, Backed by Family",
-    "summary": [
-      "‏شرکت New World قصد دارد 3.2 میلیارد دلار از طریق حق عرضه جمع‌آوری کند.",
-      "‏این جذب سرمایه می‌تواند نقدینگی و ارزش سهام شرکت را تحت تأثیر قرار دهد.",
-      "‏طرح توسط خانواده‌ای که در شرکت سهام دارند پشتیبانی می‌شود."
-    ],
-    "body_fa": "‏شرکت New World اعلام کرده است که برای تأمین مالی برنامه‌های توسعه‌ای خود، قصد دارد 3.2 میلیارد دلار از طریق یک حق عرضه جدید جمع‌آوری کند. این اقدام به‌صورت حقوقی (rights issue) انجام می‌شود و به سهامداران فعلی این امکان را می‌دهد که به نسبت سهام خود، سهام جدید خریداری کنند. پشتیبانی مالی این طرح توسط خانواده‌ای که در ساختار مالکیتی شرکت حضور دارند، به‌نظر می‌رسد که اعتماد بازار را تقویت کند. اگر موفقیت‌آمیز باشد، می‌تواند نقدینگی شرکت را افزایش داده و ارزش سهام را در بازارهای سرمایه‌گذاری تقویت کند. این خبر برای سرمایه‌گذاران و تحلیل‌گران بازارهای مالی اهمیت دارد، زیرا نشان‌دهندهٔ یک گام بزرگ در تأمین مالی شرکت است.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سرمایه‌گذاری",
-    "tag": "حق عرضه",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/new-world-plans-3-2-billion-rights-issue-with-family-support",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-15/new-world-plans-3-2-billion-rights-issue-with-family-support",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794721020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2e4a7c7257",
-    "title_fa": "‏مدیران Rivian ، Lucid و Scout حمایت فدرالی EV ها را نمی‌پذیرند",
-    "title_en": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-    "summary": [
-      "‏مدیران Rivian ، Lucid و Scout گفتند که به حمایت فدرالی جدید برای خودروهای الکتریکی پس از پیروزی دموکرات‌ها حساب نمی‌کنند.",
-      "‏این موضع نشان می‌دهد که شرکت‌های EV به‌جای انتظار به سیاست، بر برنامه‌ریزی مستقل و چالش‌های بازار تمرکز می‌کنند.",
-      "‏اگرچه آنها خوشحال می‌شوند که حمایت صورت بگیرد، اما برنامه‌ریزی‌شان بر پایه عدم اطمینان است."
-    ],
-    "body_fa": "‏در مصاحبه‌ای با CNBC پس از پیروزی تاریخی دموکرات‌ها در انتخابات میانی، مدیران اجرایی سه شرکت آمریکایی خودروهای الکتریکی – Rivian ، Lucid و Scout – اعلام کردند که به بازگشت حمایت فدرالی برای این صنعت حساب نمی‌کنند. اسکات کیو، مدیرعامل Scout ، گفت شرکت از ابتدا برای کار در محیطی بدون تکیه بر قوانین یا مشوق‌های دولتی ساخته شده است. ریچارد اسکارینج، مدیرعامل Rivian ، افزود امید دارد که کنگره دموکرات و رئیس‌جمهور ترامپ بتوانند به توافقی برسند، اما شرکت برای این موضوع برنامه‌ریزی نمی‌کند. سیلوو ناپولی، مدیرعامل Lucid ، نیز گفت «برای بدترین حالت برنامه‌ریزی می‌کنیم و برای بهترین امید داریم». این بی‌اعتمادی به سیاست‌های واشنگتن نشان می‌دهد که شرکت‌های EV به‌جای انتظار به نوآوری و بهبود سودآوری خود تمرکز می‌کنند، هرچند هر گونه حمایت مثبت را خوش‌آمد می‌گویند.",
-    "category": "تکنولوژی",
-    "subcategory": "صنعت خودرو الکتریکی",
-    "tag": "EV",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-    "clean_url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108116571-1742136946876-gettyimages-1242853588-AFP_32HF6PF.jpeg?v=1742136964&w=1920&h=1080",
-    "timestamp": 1794718800.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "afd0e59d9d",
-    "title_fa": "‏کاهش عرضه اوراق قرضه در بازارهای نوظهور قیمت‌ها را 41 ٪ افزایش داد",
-    "title_en": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41%",
-    "summary": [
-      "‏عرضه اوراق قرضه در بازارهای نوظهور به‌طور چشمگیری کاهش یافت و فروش 41 ٪ افت کرد",
-      "‏این کمبود باعث افزایش قیمت اوراق و فشار بر سرمایه‌گذاران شد",
-      "‏تحلیل‌گران نگرانی از نقدینگی محدود در این بازارها را ابراز کردند"
-    ],
-    "body_fa": "‏بازارهای نوظهور با کاهش شدید انتشار اوراق قرضه مواجه شده‌اند و فروش این اوراق حدود 41 ٪ کاهش یافته است. کمبود عرضه باعث افزایش قیمت‌های موجود و فشار بر سرمایه‌گذاران می‌شود، چرا که خریداران برای یافتن ابزارهای با بازده مناسب با دشواری بیشتری روبرو هستند. این وضعیت می‌تواند نقدینگی را در این بازارها محدود کند و هزینه تأمین مالی برای دولت‌ها و شرکت‌ها را بالا ببرد. تحلیل‌گران هشدار می‌دهند که ادامه این روند ممکن است به نوسانات شدیدتر در نرخ بهره و کاهش جذابیت سرمایه‌گذاری‌های خارجی منجر شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "اوراق قرضه نوظهور",
-    "tag": "اوراق‌قرضه",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794717000.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1979764c16",
-    "title_fa": "‏پوشش ترامپ برای معادن بحرانی چین را سست نکرد",
-    "title_en": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks",
-    "summary": [
-      "‏ترامپ در دیدار با شی جین‌پینگ، هنوز نتوانسته تأمین معادن بحرانی داخلی را به‌دست آورد.",
-      "‏این عدم پیشرفت می‌تواند وابستگی آمریکا به چین در مواد کلیدی را حفظ کند و مذاکرات تجاری را تحت فشار بگذارد.",
-      "‏ترامپ هدف دارد تا زنجیره تأمین را در داخل کشور تقویت کند."
-    ],
-    "body_fa": "‏در این هفته، رئیس‌جمهور ایالات متحده Donald Trump با رئیس‌جمهور چین Xi Jinping دیدار کرد تا مذاکرات تجاری دو جانبه را پیش ببرد. یکی از محورهای کلیدی استراتژی تجاری ترامپ، تأمین معادن بحرانی مانند لیتیوم، کبالت و نئودیمیوم در داخل کشور است تا وابستگی به چین را کاهش دهد. اما تا کنون برنامه‌های دولتی برای ایجاد معادن و پردازش داخلی نتوانسته‌اند جایگزینی قابل‌توجهی برای عرضه چینی فراهم کنند. این عدم پیشرفت باعث می‌شود که چین همچنان کنترل عمده‌ای بر زنجیره تأمین مواد کلیدی داشته باشد و فشار بر مذاکرات تجاری افزایش یابد. مقامات آمریکایی اعلام کرده‌اند که تلاش برای گسترش تولید داخلی ادامه دارد، اما زمان‌بندی طولانی و هزینه‌های بالا مانع پیشرفت سریع می‌شود. در صورت عدم موفقیت، وابستگی آمریکا به چین می‌تواند به عنوان نقطه ضعف در رقابت‌های ژئوپلیتیک و اقتصادی باقی بماند.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "معادن بحرانی",
-    "tag": "معادن",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/trumps-minerals-push-has-yet-loosen-chinas-grip-ahead-xi-talks-2026-11-15/",
-    "clean_url": "https://www.reuters.com/business/autos-transportation/trumps-minerals-push-has-yet-loosen-chinas-grip-ahead-xi-talks-2026-11-15",
-    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794711840.0,
     "sent_to_telegram": true
   }
 ]
