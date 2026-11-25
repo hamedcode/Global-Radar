@@ -1,5 +1,49 @@
 [
   {
+    "id": "a3e6801931",
+    "title_fa": "‏سهم‌های فناوری آسیا به‌دلیل فروکش فروش هوش مصنوعی سقوط کردند",
+    "title_en": "SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech...",
+    "summary": [
+      "‏سهام SoftBank و شرکت‌های نیمه‌رسانای ژاپنی بیش از ۱۰٪ سقوط کردند",
+      "‏این افت نشان‌دهنده نگرانی‌های سرمایه‌گذاران جهانی از زنجیره تأمین هوش مصنوعی پس از فروش بزرگ وال‌استریت است",
+      "‏سهام سامسونگ الکترونیک و SK Hynix در کره‌جنوبی نیز بیش از ۷٪ کاهش یافت"
+    ],
+    "body_fa": "‏در روز چهارشنبه، سهام فناوری آسیا به‌طور گسترده‌ای سقوط کرد؛ SoftBank Group بیش از ۱۰٪ و چندین شرکت ژاپنی نیمه‌رسانا مانند Advantest (۱۲٫۲۶٪) و Tokyo Electron (۱۰٫۹٪) به‌سختی افت داشتند. این فشار ناشی از نگرانی‌های تازه درباره زنجیره تأمین هوش مصنوعی پس از فروش گسترده سهام فناوری در وال‌استریت بود. در کره‌جنوبی، غول‌های حافظه سامسونگ الکترونیک و SK Hynix هر دو بیش از ۷٪ کاهش یافتند، چرا که این شرکت‌ها تولیدکنندگان حافظه‌های پهن باند مورد نیاز شتاب‌دهنده‌های هوش مصنوعی هستند. کاهش‌ها همراه با افت شاخص Nasdaq بود که پس از بازگشت جنسن هوانگ به عنوان مدیرعامل Nvidia ، پیش از این رشد شدیدی داشت. این نوسان نشان می‌دهد که سرمایه‌گذاران هنوز نسبت به هزینه‌های سرمایه‌ای و بازدهی سرمایه‌گذاری در حوزه هوش مصنوعی محتاط هستند.",
+    "category": "تکنولوژی",
+    "subcategory": "سهام فناوری",
+    "tag": "SoftBank",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+    "clean_url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+    "image": "https://s.yimg.com/bo/fd8bcd41-cc58-569d-89b4-5eb8c63cfc78_1795568661803.jpg",
+    "timestamp": 1795567963.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "34334df6d2",
+    "title_fa": "‏فیوچرز سهام آمریکا پیش از انتشار داده‌های تورمی کمی کاهش یافت",
+    "title_en": "Stock futures are flat as traders await key inflation report, assess tech...",
+    "summary": [
+      "‏فیوچرز شاخص‌های Dow Jones ، S&P 500 و Nasdaq-100 در شب‌روز سه‌شنبه کمی کاهش یافتند.",
+      "‏سرمایه‌گذاران منتظر گزارش قیمت مصرف شخصی برای اکتبر و داده‌های بیکاری بودند.",
+      "‏شرکت Ambarella پس از اعلام پیش‌بینی درآمد Q4 به 70‑75 میلیون دلار، 37 ٪ سقوط کرد."
+    ],
+    "body_fa": "‏در شب‌روز سه‌شنبه، فیوچرز شاخص‌های اصلی آمریکا کمی پایین آمد؛ Dow Jones 68 امتیاز (۰٫۱٪) و S&P 500 ۰٫۲٪ کاهش یافتند. Nasdaq‑100 نیز ۰٫۳٪ کاهش داشت، پس از اینکه سهام فناوری در جلسه روزانه سقوط کرد و Nvidia و Anthropic را تحت فشار قرار داد. در آسیا، Kospi کره جنوبی ۴٫۴۹٪ و Nikkei ژاپن ۱٫۴۱٪ افت داشتند؛ S&P/ASX 200 استرالیا ۰٫۴۱٪ کاهش یافت. شرکت Ambarella پس از ارائه پیش‌بینی درآمد سه ماهه چهارم بین ۷۰ تا ۷۵ میلیون دلار، که به‌مراتب کمتر از انتظار ۱۱۲ میلیون دلار بود، ۳۷٪ سقوط کرد. سرمایه‌گذاران چشم به شاخص قیمت مصرف شخصی (PCE) برای اکتبر دارند که انتظار می‌رود ماهانه ۰٫۳٪ و سالانه ۳٫۸٪ افزایش یابد. همچنین گزارش‌های بیکاری هفتگی یک روز زودتر از معمول منتشر می‌شود، چون بازارها برای تعطیلات شکرگزاری بسته می‌شوند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "فیوچرز سهام",
+    "tag": "PCE",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+    "clean_url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+    "image": "https://s.yimg.com/bo/85f26ec6-9363-58dc-bdc2-4d795fc0df8d_1795350877037.jpg",
+    "timestamp": 1795559863.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ca19ce8b9d",
     "title_fa": "‏بریتانیا ۱۴۲ میلیون پوند برای کشتی‌های کشف مین زیرآبی سرمایه‌گذاری کرد",
     "title_en": "UK invests £142 million in underwater mine-finding vessels",
@@ -110,6 +154,138 @@
     "sent_to_telegram": true
   },
   {
+    "id": "8d0a4f518d",
+    "title_fa": "‏اوبر و Nuro تست روباتاکسی‌های بدون راننده Lucid را آغاز کردند",
+    "title_en": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch |...",
+    "summary": [
+      "‏اوبر و Nuro تست رانندگی بدون راننده خودروهای Lucid Gravity SUV را در خیابان‌های سانفرانسیسکو آغاز کردند",
+      "‏این گام نزدیک به راه‌اندازی تجاری سرویس روباتاکسی در اولین سه ماه 2027 است و سرمایه‌گذاری‌های 500 میلیون دلاری اوبر را تقویت می‌کند",
+      "‏اوبر قرار است حداقل 20,000 خودرو Lucid را در شش سال آینده خریداری کند"
+    ],
+    "body_fa": "‏اوبر و Nuro این هفته تست رانندگی بدون راننده خودروهای Lucid Gravity SUV را در خیابان‌های عمومی منطقه خلیج سانفرانسیسکو آغاز کردند. این تست پس از دریافت مجوز رانندگی بدون راننده از DMV کالیفرنیا در ماه مه 2026 و حذف راننده ایمنی از پشت فرمان انجام می‌شود. هدف نهایی ارائه سرویس تجاری روباتاکسی در سه ماهه اول 2027 است که برای کارکنان شرکت‌ها به‌صورت آزمایشی شروع می‌شود. اوبر پیش از این توافق سرمایه‌گذاری 500 میلیون دلاری در Lucid و تقریباً همان مقدار در Nuro را اعلام کرده و متعهد به خرید حداقل 20,000 SUV در شش سال آینده شده است. این همکاری علاوه بر تأمین درآمد پیش‌بینی‌شده برای Lucid ، به Nuro امکان می‌دهد فناوری خودران را به‌صورت لایسنس به سازندگان خودرو و شرکت‌های حمل‌ونقل بفروشد. تست‌ها هم در هیوستون با راننده ایمنی و هم به‌صورت شبیه‌سازی و مسیرهای بسته ادامه دارد تا سیستم خودران قبل از ورود به عموم به‌طور کامل ارزیابی شود. موفقیت این پروژه می‌تواند نقش مهمی در پیشبرد بازار روباتاکسی‌ها و پذیرش گسترده‌تر خودروهای الکتریکی خودران ایفا کند.",
+    "category": "تکنولوژی",
+    "subcategory": "خودروهای خودران",
+    "tag": "رباتاکسی",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+    "clean_url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch",
+    "image": "https://s.yimg.com/bo/ebf53c08-9e67-5449-be93-28426f6ec003_1795539608589.jpg",
+    "timestamp": 1795538263.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "39f31bfd12",
+    "title_fa": "‏قیمت طلا کاهش یافت؛ تعرفه‌های آمریکا فشار بر نرخ بهره",
+    "title_en": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+    "summary": [
+      "‏قیمت طلا به کاهش ادامه داد و زیر سطح مهمی تثبیت شد",
+      "‏برنامه‌های تعرفه‌ای آمریکا انتظارات افزایش نرخ بهره را تقویت کرد و فشار بر طلا را افزایشت",
+      "‏این تحرک می‌تواند بر سبدهای سرمایه‌گذاری در خاورمیانه اثر بگذارد"
+    ],
+    "body_fa": "‏قیمت طلا در روزهای اخیر به روند نزولی خود ادامه داد و در سطوح کلیدی تثبیت شد. تحلیل‌گران بر این باورند که برنامه‌های جدید تعرفه‌ای ایالات متحده، انتظارات بازار را از افزایش نرخ بهره توسط فدرال رزرو تقویت می‌کند. این انتظارات باعث فشار بیشتر بر طلا به عنوان دارایی امن شد. کاهش طلا می‌تواند تأثیرات قابل‌توجهی بر سبدهای سرمایه‌گذاری در کشورهای تولیدکننده طلا و خریداران بزرگ داشته باشد. در مجموع، این تحولات نشان‌دهنده ارتباط نزدیک بین سیاست تجاری آمریکا و بازارهای کالاهای گران‌بهاست.",
+    "category": "انرژی و کالا",
+    "subcategory": "قیمت طلا",
+    "tag": "طلا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795537920.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "cc94e1e788",
+    "title_fa": "‏تورم استرالیا پس از افزایش نرخ بهره شتاب گرفت",
+    "title_en": "Australian Inflation Accelerates, Even After RBA Rate Hikes",
+    "summary": [
+      "‏تورم استرالیا در ماه اخیر سرعت گرفت و به بالاترین سطح سال رسید.",
+      "‏این افزایش با وجود چندین بار افزایش نرخ بهره توسط RBA رخ داد و نگرانی‌های بازار را تشدید کرد.",
+      "‏داده‌های آماری نشان دادند که قیمت‌های مسکن و انرژی بیشترین سهم را داشتند."
+    ],
+    "body_fa": "‏آمار جدید نشان می‌دهد که نرخ تورم استرالیا در ماه گذشته شتاب گرفت و به بالاترین سطح سال رسید، که بالاتر از هدف ۲‑۳ درصد بانک مرکزی است. این افزایش با وجود سه بار افزایش نرخ بهره توسط Reserve Bank of Australia (RBA) به حدود ۴ درصد رخ داد. قیمت مسکن و انرژی بیشترین فشار را بر سبد مصرف‌کنندگان گذاشتند. تحلیل‌گران پیش‌بینی می‌کنند که بانک مرکزی ممکن است سیاست‌های سختگیرانه‌تری اتخاذ کند. این روند می‌تواند بر ارز دلار استرالیا و بازارهای سهام این کشور فشار وارد کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تورم",
+    "tag": "استرالیا",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795535940.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "3b15daecb9",
+    "title_fa": "‏چین با Shenzhou-24 ، فضانورد پاکستانی را به تیانگونگ می‌برد",
+    "title_en": "Shenzhou-24 live: China to launch crew including Pakistani to its space station",
+    "summary": [
+      "‏چین مأموریت Shenzhou-24 را با حضور فضانورد پاکستانی به ایستگاه فضایی تیانگونگ پرتاب کرد.",
+      "‏این پرتاب نشان‌دهنده تقویت همکاری فضایی چین و پاکستان و گسترش حضور چین در فضاست.",
+      "‏مأموریت شامل هفت خدمه است و برای پنج ماه در مدار باقی می‌ماند."
+    ],
+    "body_fa": "‏چین امروز موشک Shenzhou-24 را از مرکز فضایی ژین‌چائو به سمت ایستگاه فضایی تیانگونگ پرتاب کرد. خدمه این مأموریت شامل شش فضانورد چینی و یک فضانورد پاکستانی به نام سمیع‌الدین سمیع‌الملک است. این اولین حضور یک فضانورد پاکستانی در ایستگاه فضایی چین است و نشان‌دهنده گسترش همکاری‌های فضایی دو کشور می‌باشد. مأموریت برای حدود پنج ماه در مدار زمین ادامه خواهد داشت و به انجام آزمایش‌های علمی و فناوری می‌پردازد. این پرتاب در چارچوب برنامه بلندمدت چین برای توسعه ایستگاه فضایی خود و تقویت حضور بین‌المللی آن صورت می‌گیرد.",
+    "category": "تکنولوژی",
+    "subcategory": "فضای چین",
+    "tag": "Shenzhou-24",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/live/china-space-launch-live-shenzhou-24-crew-includes-first-pakistani-its-space-2026-11-25/",
+    "clean_url": "https://www.reuters.com/live/china-space-launch-live-shenzhou-24-crew-includes-first-pakistani-its-space-2026-11-25",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795535940.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "4f33e46003",
+    "title_fa": "‏سیتی به بررسی بازگشت به بازار بانکی ونزوئلا می‌پردازد",
+    "title_en": "Citi weighs return to Venezuela five years after exit, Bloomberg News reports",
+    "summary": [
+      "‏سیتی پس از پنج سال خروج، قصد دارد خدمات بانکی را در ونزوئلا از سر بگیرد.",
+      "‏این حرکت می‌تواند دسترسی سیتی به سیستم مالی آمریکا را بهبود دهد و نشانگر تغییر در سیاست‌های تحریمی باشد.",
+      "‏بلومبرگ اشاره کرد که این تصمیم هنوز در مرحله بررسی است."
+    ],
+    "body_fa": "‏سیتی، یکی از بزرگ‌ترین بانک‌های جهانی، در حال ارزیابی امکان بازگشت به ونزوئلا پس از پنج سال خروج از این کشور است. خروج سیتی در سال 2021 به دلیل تحریم‌های آمریکا علیه ونزوئلا و محدودیت‌های دسترسی به سیستم مالی بین‌المللی انجام شد. بازگشت احتمالی می‌تواند به بانک اجازه دهد تا دوباره به شبکهٔ مالی آمریکا متصل شود و خدماتی نظیر وام‌گذاری و تسهیل پرداخت‌ها را ارائه دهد. این تصمیم نشانگر احتمال تغییر یا تسهیل در سیاست‌های تحریمی آمریکا نسبت به ونزوئلا است و می‌تواند جریانات سرمایه‌ای را به این بازار جذب کند. بلومبرگ گزارش داد که هنوز جزئیات نهایی تصمیم‌گیری مشخص نیست و سیتی در حال بررسی ریسک‌های قانونی و تجاری می‌باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بانکداری بین‌المللی",
+    "tag": "Citi",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/citi-weighs-return-venezuela-five-years-after-exit-bloomberg-news-reports-2026-11-25/",
+    "clean_url": "https://www.reuters.com/business/finance/citi-weighs-return-venezuela-five-years-after-exit-bloomberg-news-reports-2026-11-25",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795535940.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "09b37b4a95",
+    "title_fa": "‏فاکس‌کان در هند بدهی معوق با دعوای ورشکستگی مواجه",
+    "title_en": "Foxconn Faces India Insolvency Lawsuit Over Unpaid Vendor Dues",
+    "summary": [
+      "‏فاکس‌کان در هند به دلیل بدهی معوق به فروشندگان با دعوای ورشکستگی مواجه شد.",
+      "‏این پرونده می‌تواند روابط تأمین‌کننده این شرکت در بازار بزرگ هند را تحت فشار قرار دهد و بر سودآوری آن اثر بگذارد.",
+      "‏دعاوی مشابه قبلاً به تأخیر در پروژه‌های الکترونیکی منجر شده بود."
+    ],
+    "body_fa": "‏شرکت فاکس‌کان، بزرگ‌ترین تولیدکننده قرارداد الکترونیکی جهان، در هند با دعوای ورشکستگی به دلیل عدم پرداخت بدهی‌های معوق به فروشندگان مواجه شد. دادگاه ورشکستگی هندی ادعا می‌کند که مبلغ قابل‌توجهی به تأمین‌کنندگان پرداخت نشده و این امر موجب درخواست قانونی برای احیای بدهی‌ها شده است. این پرونده می‌تواند زنجیره تأمین فاکس‌کان در هند را مختل کند و پروژه‌های تولیدی مرتبط را به تعویق بیندازد. سرمایه‌گذاران این شرکت نگران تأثیر منفی بر سودآوری و ارزش سهام هستند و انتظار دارند که فاکس‌کان برای حل اختلاف اقداماتی سریع انجام دهد. در صورت عدم توافق، ممکن است شرکت مجبور به فروش دارایی‌های هندی یا بازنگری در استراتژی بازار این کشور شود.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "قضایای تجاری",
+    "tag": "Foxconn",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/foxconn-faces-india-insolvency-lawsuit-over-unpaid-vendor-dues",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-24/foxconn-faces-india-insolvency-lawsuit-over-unpaid-vendor-dues",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795532400.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ab63211627",
     "title_fa": "‏هک سامانه‌های باز CIA و ODNI افشا شد",
     "title_en": "Intelligence Agencies Hacked in Cybersecurity Breach",
@@ -151,6 +327,50 @@
     "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Seeks-Federal-Control-Over-Disputed-Kurdistan-Oilfields.html",
     "image": "https://s.yimg.com/bo/05a3db97-9381-5688-b056-a79cdc2e5968_1795529570326.jpg",
     "timestamp": 1795530013.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e1dd93bbc2",
+    "title_fa": "‏افزایش قیمت Nvidia پس از بازگشت ناگهانی متوقف شد",
+    "title_en": "Trading Day: Nvidia bounce fades",
+    "summary": [
+      "‏پس از بازگشت شگفت‌انگیز مدیرعامل Jensen Huang ، سهام Nvidia امروز سقوط کرد.",
+      "‏سرمایه‌گذاران دیدگاه محتاطانه‌تری نسبت به چشم‌انداز هوش مصنوعی اتخاذ کردند.",
+      "‏اکثریت شاخص‌های دیگر فناوری نیز تحت فشار قرار گرفتند."
+    ],
+    "body_fa": "‏پس از بازگشت ناگهانی Jensen Huang به صحنه و ایجاد یک رالی تسکین‌دهنده برای سهام Nvidia ، این افزایش در روز سه‌شنبه به سرعت از بین رفت. سرمایه‌گذاران با دیدی محتاطانه‌تر نسبت به پیش‌بینی‌های رشد هوش مصنوعی، به فروش فشار دادند و سهام فناوری به‌طور کلی افت کردند. شاخص Nasdaq-100 که به Nvidia وابسته است، کاهش یافت و فشار بر سایر نمادهای تکنولوژی مانند AMD و Microsoft نیز مشهود شد. تحلیل‌گران این افت را نشانه‌ای از بازنگری بازار در ارزیابی ارزش‌های مرتبط با هوش مصنوعی می‌دانند و پیش‌بینی می‌کنند نوسانات کوتاه‌مدت ممکن است ادامه یابد.",
+    "category": "تکنولوژی",
+    "subcategory": "بازار سهام فناوری",
+    "tag": "Nvidia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-11-24/",
+    "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-11-24",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795528800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "374d5cbbd6",
+    "title_fa": "‏جنسن هوانگ به نودیا بازگشت؛ بدهی هوش مصنوعی ناآرام شد",
+    "title_en": "AI debt markets shudder as Nvidia's top 'banker' returns",
+    "summary": [
+      "‏جنسن هوانگ پس از بازگشت به عنوان مدیرعامل نودیا، بازارهای بدهی هوش مصنوعی را تکان داد.",
+      "‏سرمایه‌گذاران اعتبار، بازده اوراق CoreWeave را به بالای ۱۷٪ و CDS آن را به بیش از ۱۲۰۰ پایه ارتقا دادند.",
+      "‏اوراق و CDS شرکت‌های Oracle ، Meta و Amazon نیز با افزایش چشمگیر مواجه شدند."
+    ],
+    "body_fa": "‏بازگشت جنسن هوانگ به سمت مدیریت نودیا باعث نگرانی‌های جدی در بازارهای بدهی هوش مصنوعی شد. سرمایه‌گذاران پس از این خبر، بازده اوراق ۹٫۷۵٪ CoreWeave که تا سال ۲۰۳۱ سررسید دارد، به بالای ۱۷٪ ارتقا دادند و نرخ CDS پنج‌ساله این شرکت را ۸٫۵ درصد و به بیش از ۱۲۰۰ پایه افزایش دادند. این افزایش ریسک در CDS نه تنها برای CoreWeave بلکه برای شرکت‌های بزرگ دیگری چون Oracle ، Meta Platforms و Amazon نیز مشاهده شد؛ به‌طوری‌که CDS این شرکت‌ها نیز چند درصد افزایش یافت. برخی تحلیل‌گران این تحولات را نشانه‌ای از «اثر جنسن» می‌دانند و هشدار می‌دهند که مداخله دولتی در بازگرداندن او می‌تواند سرمایه‌گذاران اعتباری را دلسرد کند. در حالی که بازگشت هوانگ روز دوشنبه باعث ارتقای سهام و کاهش بازده اوراق شد، روز پس از آن بازارها دوباره به سمت نوسان برگشتند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازارهای بدهی هوش مصنوعی",
+    "tag": "Nvidia",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
+    "clean_url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108550383-17945082062026-11-12t182457z_38244363_rc2imoa59cm1_rtrmadp_0_nvidia-ceo.jpeg?v=1794508225&w=1920&h=1080",
+    "timestamp": 1795527480.0,
     "sent_to_telegram": true
   },
   {
@@ -217,6 +437,28 @@
     "clean_url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/oil-tanker-1244308661.jpg?resize=1200,800",
     "timestamp": 1795525740.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "77b5685154",
+    "title_fa": "‏تقاضای بانک‌های غذا در آمریکا بالاتر از دوران همه‌گیری شد",
+    "title_en": "Some U.S. food banks see demand top pandemic levels",
+    "summary": [
+      "‏بانک‌های غذا در ایالات متحده درخواست‌های غذایی را بیش از سطح اوج همه‌گیری کووید-۱۹ گزارش کردند.",
+      "‏این افزایش به دلیل تورم پایدار و کاهش کمک‌های دولتی است که دسترسی به غذا را برای ۱۸.۳ میلیون خانوار دشوار می‌کند.",
+      "‏نیویورک نیز با ۱ در ۵ نفر مواجه است؛ بازدیدهای ماهانه از غذاخانه‌ها ۸۵٪ افزایش یافته."
+    ],
+    "body_fa": "‏آمریکا شاهد افزایش تقاضای غذا از بانک‌های خیریه است که حتی از اوج همه‌گیری کووید‑۱۹ فراتر رفته است. گِرگ سیلورمن، مدیر West Side Campaign Against Hunger ، اعلام کرد که این سال سازمانش قصد دارد تا ۶ میلیون پوند غذا توزیع کند، در حالی که بسیاری از دریافت‌کنندگان شغل دارند. طبق گزارش وزارت کشاورزی، ۱۳.۷٪ خانوارهای آمریکایی (حدود ۱۸.۳ میلیون) در سال ۲۰۲۴ با ناامنی غذایی مواجه بودند که این رقم از سال‌های ۲۰۱۶ تا ۲۰۲۱ بسیار بالاتر است. تورم مداوم و کاهش برنامه‌های حمایتی فدرال مانند SNAP و اعتبار مالیاتی کودکان، فشار بر سیستم غذای اضطراری را تشدید کرده‌اند. در نیویورک، یک‌پنجم ساکنان شهر به ناامنی غذایی دچارند؛ بازدیدهای ماهانه از غذاخانه‌ها ۸۵٪ بیشتر از قبل است. این وضعیت نشان می‌دهد که حتی افراد شاغل نیز به دلیل هزینه‌های زندگی که با سرعتی بالا افزایش یافته‌اند، به کمک‌های غذایی نیاز دارند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "ناامنی غذایی",
+    "tag": "غذای_غیر_امن",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
+    "clean_url": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
+    "image": "https://s.yimg.com/bo/688e4315-806f-5cc0-adc7-e54b29aa569e_1795522639030.jpg",
+    "timestamp": 1795520263.0,
     "sent_to_telegram": true
   },
   {
@@ -349,6 +591,28 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-as-soon-as-tuesday",
     "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795508160.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "61c49e4b57",
+    "title_fa": "‏کنگره دموکرات‌ها به بررسی سرمایه‌گذاری‌های Trump Jr. می‌پردازد",
+    "title_en": "House Democrats investigate Trump Jr.'s firm and related companies",
+    "summary": [
+      "‏دموکرات‌های مجلس نمایندگان آمریکا به شرکت سرمایه‌گذاری 1789 Capital و شرکت‌های مرتبط با Donald Trump Jr. نامه‌ای ارسال کردند.",
+      "‏این اقدام نشان‌دهندهٔ نگرانی کنگره دربارهٔ سرمایه‌گذاری‌های احتمالی است که ممکن است منافع سیاسی را تحت تأثیر قرار دهد.",
+      "‏Polymarket ، Juul و دیگر شرکت‌های مرتبط نیز در این بررسی گنجانده شدند."
+    ],
+    "body_fa": "‏کنگره دموکرات‌ها در ایالات متحده نامه‌هایی به Polymarket ، Juul و سایر شرکت‌های مرتبط با شرکت سرمایه‌گذاری 1789 Capital که توسط Donald Trump Jr. تأسیس شده است، ارسال کردند. این نامه‌ها درخواست اطلاعات دربارهٔ سرمایه‌گذاری‌ها و روابط تجاری این شرکت‌ها با فرزند رئیس‌جمهور پیشین می‌کند. کنگره به دنبال بررسی این است که آیا این سرمایه‌گذاری‌ها می‌توانند منافع سیاسی یا تضاد منافع ایجاد کنند. تحقیقات قبلی نشان داده بود که Trump Jr. در حوزهٔ سرمایه‌گذاری خطرپذیر فعال است و برخی از شرکت‌های فناوری و سیگار الکترونیکی را تحت پوشش خود دارد. در صورت کشف تخلفات، ممکن است اقدامات قانونی یا نظارتی بیشتری علیه این شرکت‌ها اتخاذ شود.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "تحقیقات کنگره",
+    "tag": "TrumpJr",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/house-democrats-investigate-trump-jrs-firm-related-companies-2026-11-24/",
+    "clean_url": "https://www.reuters.com/legal/government/house-democrats-investigate-trump-jrs-firm-related-companies-2026-11-24",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795506960.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,270 +6597,6 @@
     "clean_url": "https://www.bloomberg.com/news/articles/2026-11-16/microsoft-bug-undetected-since-july-triggered-worldwide-outage",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794827400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1795b6f5e7",
-    "title_fa": "‏دیزنی ۶۰ میلیون دلار برای نجات کارکنان Character.ai پرداخت کرد",
-    "title_en": "AI Chat App Character.ai is Attempting to Stave Off Bankruptcy, And Has a $20...",
-    "summary": [
-      "‏پس از اعلام ورشکستگی Character.ai ، دیزنی ۶۰ میلیون دلار برای جذب ۶۶ کارمند و ۲۰ میلیون دلار برای فناوری‌اش پرداخت کرد.",
-      "‏این حرکت نشان می‌دهد دیزنی به دنبال ورود به بازار چت‌بات‌های هوش مصنوعی و استفاده از شخصیت‌های دارای حق نشر است.",
-      "‏همچنین شرکت جدید Smirks and Pangs Acquisition LLC ۱۰ میلیون دلار برای خرید داده‌های کاربری و وب‌سایت Character.ai پیشنهاد داد."
-    ],
-    "body_fa": "‏این پلتفرم که در سال ۲۰۲۲ راه‌اندازی شد و به کاربران امکان ساخت ربات‌های گفتگو با شخصیت‌های دلخواه را می‌داد، در اکتبر ۲۰۲۴ اعلام ورشکستگی کرد. دیزنی به عنوان بزرگ‌ترین خریدار، ۶۰ میلیون دلار برای جذب ۶۶ کارمند این شرکت و ۲۰ میلیون دلار برای خرید برخی فناوری‌های آن پرداخت کرد. این اقدام نشان می‌دهد دیزنی ممکن است به بازار چت‌بات‌های هوش مصنوعی و استفاده از شخصیت‌های دارای حق نشر وارد شود. در همین زمان، شرکت تازه‌تاسیس Smirks and Pangs Acquisition LLC پیشنهادی ۱۰ میلیون دلاری برای خرید داده‌های کاربری، محتوای تولیدشده توسط کاربران و خود برنامه ارائه داد. اگرچه این پیشنهاد هنوز مورد تأیید نیست، کاربران امیدوارند که سرویس بتواند از ورشکستگی نجات یابد. پرونده‌های حقوقی پیشین و نگرانی‌های ایمنی، به‌ویژه موارد مرتبط با استفاده از شخصیت‌های واقعی و موارد خودکشی نوجوانان، همچنان چالش‌های جدی برای این پلتفرم باقی مانده‌اند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی",
-    "tag": "Character.ai",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "IGN Videogames",
-    "url": "https://www.ign.com/articles/ai-chat-app-characterai-is-attempting-to-stave-off-bankruptcy-and-has-a-20-million-offer-from-disney",
-    "clean_url": "https://www.ign.com/articles/ai-chat-app-characterai-is-attempting-to-stave-off-bankruptcy-and-has-a-20-million-offer-from-disney",
-    "image": "https://s.yimg.com/bo/42f16f93-10d9-5b60-9282-bb9bcb22cdf8_1794829017527.jpg",
-    "timestamp": 1794826797.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "30844df8bd",
-    "title_fa": "‏دموکرات‌های سنا از CFTC می‌خواهند بازارهای پیش‌بینی را متوقف کند",
-    "title_en": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-    "summary": [
-      "‏دموکرات‌های سنا از CFTC خواستند دست‌خارج شود از دستور به پلتفرم‌های پیش‌بینی مثل Kalshi برای نقض ممنوعیت‌های ایالتی",
-      "‏این درخواست به دلیل احکام دادگاهی است و می‌تواند مسیر نظارت بر بازارهای پیش‌بینی و رمزارزها را تغییر دهد",
-      "‏Kalshi یکی از اولین پلتفرم‌های پیش‌بینی تحت نظارت CFTC است"
-    ],
-    "body_fa": "‏سنا دموکرات‌ها به کمیسیون معاملات آتی کالا (CFTC) فشار آوردند تا از دستوری که به پلتفرم‌های پیش‌بینی مثل Kalshi می‌داد، برای نادیده گرفتن ممنوعیت‌های ایالتی عقب‌نشینی کند. این دستور قبلاً CFTC را ملزم می‌کرد تا به این پلتفرم‌ها اجازه دهد پیش‌بینی‌های مالی را ارائه دهند، حتی اگر برخی ایالت‌ها این نوع فعالیت‌ها را ممنوع کرده باشند. دموکرات‌ها استدلال می‌کنند که این اقدام با احکام دادگاهی که ممنوعیت‌های ایالتی را تأیید می‌کند، در تضاد است. اگر CFTC دست‌خارج شود، نظارت فدرال بر بازارهای پیش‌بینی و رمزارزها ممکن است محدودتر شود و نقش ایالت‌ها در تنظیم این بازارها تقویت شود. این تغییر می‌تواند برای شرکت‌های فعال در این حوزه، به‌ویژه Kalshi ، اثرات قانونی و تجاری قابل‌توجهی داشته باشد. در عین حال، این موضوع نشان می‌دهد که رقابت بین قوانین فدرال و ایالتی در حوزه فناوری‌های مالی همچنان ادامه دارد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "قوانین و مقررات",
-    "tag": "CFTC",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-    "clean_url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794826500.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8fddac8c18",
-    "title_fa": "‏سایت‌های بانک‌های بزرگ آمریکا دسترسی آنلاین مشتریان را قطع کردند",
-    "title_en": "Customers at some of the nation’s largest banks are reporting difficulty accessing accounts online",
-    "summary": [
-      "‏مشتریان بانک‌های Bank of America ، Chase و J.P. Morgan گزارش دادند که وب‌سایت‌های آن‌ها در روز دوشنبه به‌طور ناگهانی از کار افتاده‌اند.",
-      "‏این قطعی دسترسی آنلاین می‌تواند تراکنش‌های مالی و پرداخت‌ها را مختل کرده و نگرانی‌های امنیتی و عملیاتی را برای میلیون‌ها کاربر ایجاد کند.",
-      "‏دستگاه‌های نظارت Downdetector نیز افزایش گزارش‌های مشکل را ثبت کرده و بانک‌ها هنوز دلیل دقیق را اعلام نکرده‌اند."
-    ],
-    "body_fa": "‏در روز دوشنبه، مشتریان چندین بانک بزرگ آمریکایی از عدم توانایی ورود به حساب‌های آنلاین خود شکایت کردند. وب‌سایت‌های Bank of America ، Chase ، J.P. Morgan و سایر مؤسسات مالی به‌طور همزمان دچار قطعی شدند. طبق گزارش‌های سایت Downdetector ، تعداد شکایات درباره این مشکل به سرعت افزایش یافت. این اختلال می‌تواند باعث تاخیر در پرداخت صورتحساب‌ها، انتقال وجوه و دسترسی به اطلاعات حساب شود. بانک‌ها هنوز توضیح رسمی درباره علت فنی یا امنیتی این قطعی ارائه نکرده‌اند. اگرچه این مشکل موقت به‌نظر می‌رسد، اما می‌تواند به کاهش اعتماد مشتریان و فشار بر سیستم‌های دیجیتال بانک‌ها منجر شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "اختلال بانکی آنلاین",
-    "tag": "بانک",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Associated Press News",
-    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-    "clean_url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794826020.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "4ea542756a",
-    "title_fa": "‏گروه Coffee Stain Chronicles: Medieval را با 5.5 میلیون دلار خرید",
-    "title_en": "Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games",
-    "summary": [
-      "‏گروه Coffee Stain حدود 5.5 میلیون دلار برای خرید حق‌مالکیت بازی Chronicles: Medieval از دارایی‌های ورشکستگی Raw Power Games پرداخت کرد.",
-      "‏این خرید به Coffee Stain امکان ادامه توسعه و تبدیل بازی به یک IP بلندمدت قدرتمند را می‌دهد.",
-      "‏در اکتبر Raw Power Games ورشکست شد و پروژه در دسترس بود، در حالی که بازی در فهرست 30 بازی برتر دلخواه Steam قرار دارد."
-    ],
-    "body_fa": "‏گروه Coffee Stain ، ناشر بازی Satisfactory ، توافق کرد تا حق‌مالکیت و دارایی‌های مرتبط با بازی Chronicles: Medieval را از دارایی‌های ورشکستگی Raw Power Games خریداری کند. بر اساس سند تنظیم‌شده در 14 نوامبر، یک شرکت تازه تأسیس 75 ٪ سهام این دارایی‌ها را در اختیار Coffee Stain و 25 ٪ دیگر را به گروهی کوچک از اعضای کلیدی تیم توسعه اصلی می‌سپارد. مبلغ معامله حدود 5.5 میلیون دلار (معادل 36.75 میلیون کرون دانمارکی) به‌صورت نقدی است و هزینه‌های تراکنش جداگانه محاسبه می‌شود. علاوه بر پرداخت این مبلغ، تعهد به تأمین مالی ادامه توسعه بازی و کمک به راه‌اندازی آن در دسترس بازیکنان دارد. بازی Chronicles: Medieval که از سال 2022 در حال توسعه است، یک بازی شنی ساخت و فرماندهی ارتش‌هاست و در فهرست 30 بازی برتر دلخواه Steam قرار دارد. این اقدام می‌تواند به Coffee Stain کمک کند تا یک IP جدید و پرپتانسیل را به سبد محصولات خود اضافه کند و به توسعه‌گران اصلی فرصت ادامه کار را بدهد.",
-    "category": "گیم",
-    "subcategory": "خرید IP بازی",
-    "tag": "Chronicles Medieval",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
-    "clean_url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
-    "image": "https://assetsio.gnwcdn.com/ss_8d564795cb6b1eaeb9f3ea6b862b445ffe62a5e5.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "timestamp": 1794822960.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2b2cb08a8c",
-    "title_fa": "‏بحران رهبری Nvidia بر گزارش سود تأثیر می‌گذارد",
-    "title_en": "‘No chance Jensen comes back’: Nvidia’s leadership crisis casts a long shadow over earnings",
-    "summary": [
-      "‏Nvidia با رهبری جدید و بدون Jensen Huang به گزارش سود سه ماهه‌اش می‌رود.",
-      "‏تحلیل‌گران پیش‌بینی درآمد ۱۰۹ میلیارد دلاری را دارند اما عدم قطعیت رهبری می‌تواند نوسان سهام را تشدید کند.",
-      "‏برخی سرمایه‌گذاران امید به بازگشت Huang دارند ولی کارشناسان انتظار CEO خارجی یا Colette Kress را می‌کشند."
-    ],
-    "body_fa": "‏Nvidia که در چهار سال گذشته نماد رشد هوش مصنوعی بود، پس از استعفای Jensen Huang به‌عنوان مدیرعامل موقت، با بحران رهبری به گزارش سود سه ماهه‌اش می‌رود. وال‌استریت انتظار دارد درآمد این دوره بین 108.8 تا 109.1 میلیارد دلار و سود هر سهم 2.47 دلار باشد. تحلیل‌گران به‌دلیل عدم حضور Huang پیش‌بینی‌های خود را کاهش داده‌اند اما همچنان هدف قیمت 225 دلار و رتبه Outperform را حفظ می‌کنند. برخی سرمایه‌گذاران به بازگشت Huang امید دارند، در حالی که دیگران معتقدند شرکت باید با یک CEO خارجی یا Colette Kress ادامه دهد. نظرات کارشناسان نشان می‌دهد که اگر Nvidia بتواند راهنمایی مالی خود تا 2027 را حفظ کند، نگرانی‌های رهبری ممکن است کاهش یابد. با این حال، عدم قطعیت در مورد زمان و نحوه جایگزینی Huang می‌تواند نوسان سهام را در کوتاه‌مدت تشدید کند.",
-    "category": "تکنولوژی",
-    "subcategory": "رهبری شرکت",
-    "tag": "Nvidia",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/nvidia-earnings-preview-jensen-huang-nvda-stock-colette-kress-2026-11",
-    "clean_url": "https://www.businessinsider.com/nvidia-earnings-preview-jensen-huang-nvda-stock-colette-kress-2026-11",
-    "image": "https://i.insider.com/6afb280bf0664acecacb93fe?width=1200&format=jpeg",
-    "timestamp": 1794822780.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "959eb36c8f",
-    "title_fa": "‏Altimeter با ۵ میلیارد دلار در IPO Anthropic سرمایه‌گذاری می‌کند",
-    "title_en": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
-    "summary": [
-      "‏شرکت Altimeter Capital قصد دارد ۵ میلیارد دلار در عرضه عمومی Anthropic سرمایه‌گذاری کند.",
-      "‏این IPO اولین عرضه بزرگ یک آزمایشگاه هوش مصنوعی است و ارزش‌گذاری شرکت را حدود ۱٫۴ تریلیون دلار می‌گذارد.",
-      "‏چپ‌چپ‌های بزرگ مانند AMD ، Nvidia و Microsoft نیز مجموعاً ۲۶ میلیارد دلار در این عرضه می‌گذارند."
-    ],
-    "body_fa": "‏Altimeter Capital به رهبری Brad Gerstner اعلام کرد قصد دارد ۵ میلیارد دلار در عرضه عمومی شرکت هوش مصنوعی Anthropic سرمایه‌گذاری کند. این عرضه که برای پنجشنبه برنامه‌ریزی شده، اولین عرضه عمومی یک آزمایشگاه بزرگ هوش مصنوعی است و پیش از OpenAI می‌آید. Anthropic حدود ۸۲۵ میلیون سهم با قیمت پیشنهادی ۷۰ تا ۷۸ دلار عرضه می‌کند که ارزش کل شرکت را حدود ۱٫۴ تریلیون دلار می‌سازد. شرکت‌های پیشرو در حوزه تراشه و ابر مانند AMD ، Broadcom ، Google ، Micron ، Microsoft ، Nvidia و TSMC به‌طور مشترک حدود ۲۶ میلیارد دلار در این عرضه سرمایه‌گذاری می‌کنند. Gerstner به توان مالی و موقعیت بازار Anthropic اطمینان دارد و این سرمایه‌گذاری را «یک ترکیب‌کننده کلیدی برای مدت طولانی» توصیف کرد. او همچنین درباره رهبری شرکت اظهار نظر کرد و به اعتماد به CFO Colette Kress اشاره کرد. این حرکت می‌تواند نشانگر تقویت سرمایه‌گذاری‌ها در حوزه هوش مصنوعی باشد و تأثیر قابل‌توجهی بر بازارهای فناوری داشته باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-    "clean_url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108552147-1794850190120-Screenshot-2026-11-16-at-122835_PM.jpg?v=1794850203&w=1920&h=1080",
-    "timestamp": 1794822600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "0dca05abca",
-    "title_fa": "‏فدرال‌رزرو هوش مصنوعی را مهم می‌داند، خطر ناامیدی را می‌گوید",
-    "title_en": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-    "summary": [
-      "‏رئیس فدرال‌رزرو کیوین وارش در سانفرانسیسکو به تأثیر هوش مصنوعی بر اقتصاد اشاره کرد.",
-      "‏او مزایای افزایش بهره‌وری و ریسک بیکاری یا عدم تحقق انتظارات را هشدار داد.",
-      "‏همچنین گفت سرمایه‌گذاری‌های بزرگ در AI می‌تواند ارزش سهام را بالا برده و سپس کاهش دهد."
-    ],
-    "body_fa": "‏کیوین وارش، رئیس فدرال‌رزرو، روز دوشنبه در سانفرانسیسکو در جلسه‌ای که برای بررسی بهره‌وری و اشتغال تشکیل داد، به نقش هوش مصنوعی در اقتصاد اشاره کرد. او بیان کرد هوش مصنوعی می‌تواند با افزایش بهره‌وری رشد واقعی اقتصاد را تسریع کند و فشارهای تورمی را کاهش دهد. اما وارش هشدار داد که خودکارسازی گسترده می‌تواند منجر به بیکاری گسترده شود و برخی از انتظارات بازار از این فناوری ممکن است برآورده نشود. در سناریوی سوم، پس از سرمایه‌گذاری‌های کلان و رشد ارزش سهام، بازدهی کمتر از پیش‌بینی می‌تواند باعث افت ارزش‌گذاری‌ها و رکود اقتصادی شود. این اظهارات نشان می‌دهد که سیاست‌گذاران پولی به تأثیرات فناوری‌های نوین بر سیاست‌های پولی آینده توجه دارند. جلسه با حضور کارآفرینان و اقتصاددانان، از جمله مارک اندریسن، به بررسی راهکارهای مقابله با چالش‌های احتمالی هوش مصنوعی اختصاص یافت.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "هوش مصنوعی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-    "clean_url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108552259-1794854720467-gettyimages-2304953963-FEDERAL_RESERVE_CONFERENCE.jpeg?v=1794854743&w=1920&h=1080",
-    "timestamp": 1794819600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6d1279a5aa",
-    "title_fa": "‏لی چیانگ روابط فوق‌العاده چین و آسه‌آن را تحسین کرد",
-    "title_en": "Chinese premier lauds 'extraordinary' ties with ASEAN ahead of Trump visit",
-    "summary": [
-      "‏لی چیانگ گفت تجارت چین و آسه‌آن سال گذشته بیش از 1 تریلیون دلار بوده",
-      "‏این اظهارات در پیش‌زمینهٔ تنش‌های تجاری آمریکا‑چین و سفر ترامپ به مانیلا اهمیت دارد",
-      "‏سرمایه‌گذاری دو‑طرفه بیش از 500 میلیارد دلار را نیز برجسته کرد"
-    ],
-    "body_fa": "‏در اجلاس آسه‌آن در مانیلا، نخست‌وزیر چین، لی چیانگ، روابط تجاری چین و کشورهای جنوب‑شرق آسیا را «فوق‌العاده» توصیف کرد و اعلام کرد که تجارت دو‑طرفه در سال گذشته به بیش از 1 تریلیون دلار رسیده است. او همچنین اشاره کرد که سرمایه‌گذاری متقابل بیش از 500 میلیارد دلار می‌شود و چین متعهد به حفظ چندجانبه‌گرایی و گسترش تجارت آزاد است. این سخنرانی پیش از حضور رئیس‌جمهور آمریکا، دونالد ترامپ، در مانیلا و سپس در اجلاس APEC در شنژن انجام شد؛ جایی که ترامپ با رهبران چین و روسیه دیدار می‌کند. در کنار این بازدید، انتظاراتی برای تظاهرات ضد‑ترامپ در مانیلا وجود دارد. این دیدار‌ها در پس‌زمینهٔ افزایش یک‌جانبه‌گرایی و رقابت ژئوپلیتیک میان چین و ایالات متحده قرار دارد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "روابط چین-آسه‌آن",
-    "tag": "چین-آسه‌آن",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters · via Yahoo News",
-    "url": "https://www.yahoo.com/news/politics/articles/chinese-premier-lauds-extraordinary-ties-054035204.html",
-    "clean_url": "https://www.yahoo.com/news/politics/articles/chinese-premier-lauds-extraordinary-ties-054035204.html",
-    "image": "https://media.zenfs.com/en/reuters.com/1d9c52467f1abf9fbff5abe0429ac1eb.jpg",
-    "timestamp": 1794819595.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "95e89c71fb",
-    "title_fa": "‏قضایای عالیه درخواست حساب اصلی Custodia را رد کرد",
-    "title_en": "Supreme Court rejects Custodia Bank's bid for Fed master account",
-    "summary": [
-      "‏دادگاه عالی ایالات متحده درخواست Custodia Bank برای دریافت حساب اصلی از فدرال رزرو را رد کرد.",
-      "‏این تصمیم دسترسی مستقیم بانک به فدرال رزرو را مسدود می‌کند و می‌تواند فعالیت‌های نگهداری رمزارزهای آن را تحت فشار قرار دهد.",
-      "‏حکم به این معنی است که پرونده در دادگاه‌های پایین‌تر باقی می‌ماند."
-    ],
-    "body_fa": "‏دوشنبه دادگاه عالی ایالات متحده فهرست دستورات خود را منتشر کرد و اعلام کرد که درخواست Custodia Bank برای دریافت حساب اصلی از فدرال رزرو را رد کرده است. این درخواست که هدف آن دسترسی مستقیم به سیستم پرداخت‌های فدرال بود، توسط دادگاه‌های پایین‌تر نیز رد شده بود. رد درخواست به معنای ادامه ممنوعیت دسترسی بانک به حساب اصلی فدرال رزرو است. Custodia که به عنوان یک بانک نگهداری رمزارز شناخته می‌شود، برای ارائه خدمات بانکی به مشتریان خود به این حساب نیاز داشت. این تصمیم می‌تواند توانایی بانک در ارائه خدمات نقدینگی و تسهیل تراکنش‌های رمزارزی را محدود کند و فشار بیشتری بر بخش مالی دیجیتال وارد کند. همچنین، این حکم نشان می‌دهد که مسیر قانونی برای دریافت حساب اصلی فدرال رزرو برای نهادهای نوظهور همچون Custodia دشوار باقی می‌ماند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "قوانین بانکی",
-    "tag": "Custodia",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
-    "clean_url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794818940.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6a3955d753",
-    "title_fa": "‏سرنا ویلیامز صندوق ۲۰۰ میلیونی سرمایه‌گذاری راه‌اندازی کرد",
-    "title_en": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
-    "summary": [
-      "‏سرنا ویلیامز و بته فریرا صندوق سرمایه‌گذاری اولیه Starfire Ventures را با هدف جذب 200 میلیون دلار برای شرکت‌های هوش مصنوعی راه‌اندازی کردند.",
-      "‏این سرمایه‌گذاری بر حوزه‌های fintech و سلامت تمرکز دارد و می‌تواند دسترسی به سرمایه را برای استارتاپ‌های نوآور گسترش دهد.",
-      "‏سرنا ونتورز که پیش از این بیش از 100 شرکت را پشتیبانی کرده بود، اکنون تیمی برای مدیریت پرتفوی فعلی باقی مانده است."
-    ],
-    "body_fa": "‏سرنا ویلیامز و شریک تجاری‌اش بته فریرا روز دوشنبه اعلام کردند که صندوق سرمایه‌گذاری اولیه جدیدی به نام Starfire Ventures را راه‌اندازی کرده‌اند. هدف این صندوق جذب حدود 200 میلیون دلار سرمایه برای حمایت از شرکت‌های هوش مصنوعی است که به‌ویژه در حوزه‌های اقتصاد تجربه‌محور مانند fintech و بهداشت و سلامت فعالیت می‌کنند. Starfire Ventures از Serena Ventures جداست؛ این آخرین صندوقی است که Serena Ventures پس از قطع آخرین سرمایه‌گذاری خود، همچنان تیمی برای مدیریت پرتفوی موجود حفظ می‌کند. Serena Ventures تا کنون بیش از 100 شرکت را پشتیبانی کرده و بیش از 100 میلیون دلار سرمایه جذب کرده است. ویلیامز در بیانیه‌اش گفت هدف این صندوق گسترش دسترسی به سرمایه و ایجاد فرصت‌های مالکیتی برای افراد بیشتر در کسب‌وکارهای تحول‌آفرین است. این حرکت نشان می‌دهد سرمایه‌گذاران مشهور به سمت فناوری‌های نوظهور و هوش مصنوعی گرایش دارند و می‌تواند به جذب سرمایه بیشتر به استارتاپ‌های نوآور کمک کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سرمایه‌گذاری خطرپذیر",
-    "tag": "سرمایه‌گذاری",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-    "clean_url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301975852.jpg?w=1024",
-    "timestamp": 1794816360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "e74b0d2cf3",
-    "title_fa": "‏بانک مرکزی برزیل به‌خاطر اظهارات پولشویی استیبل‌کوین انتقاد شد",
-    "title_en": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-    "summary": [
-      "‏یک مقام بانک مرکزی برزیل گفت انتقال پولهای قانونی به استیبل‌کوین‌ها آن‌ها را «آلوده» می‌کند.",
-      "‏این اظهارات باعث واکنش منفی و انتقادات گسترده در جامعه رمزارز شد.",
-      "‏او بازار استیبل‌کوین را به سیستم غیررسمی «دلار‑کابو» تشبیه کرد."
-    ],
-    "body_fa": "‏یک مقام ارشد بانک مرکزی برزیل اخیراً اظهار کرد که وقتی وجوه قانونی به stablecoin ها منتقل می‌شود، این پول‌ها «آلوده» می‌شوند و بازار را به سیستم غیررسمی dólar-cabo تشبیه کرد. این بیانیه بلافاصله واکنش‌های سرسختانه‌ای از سوی فعالان و شرکت‌های رمزارز در برزیل و جهان برانگیخت. منتقدان این نظر را نادیده‌گیری خطرناک از نقش استیبل‌کوین‌ها در اقتصاد دیجیتال می‌دانند و خواستار شفاف‌سازی بیشتر می‌شوند. بانک مرکزی هنوز اعلام نکرده که سیاست‌های نظارتی جدیدی در پی این اظهارات خواهد داشت، اما این بحث می‌تواند فشار بر تنظیم‌کنندگان برای بررسی دقیق‌تر ریسک‌های پولشویی در حوزه استیبل‌کوین‌ها را افزایش دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "نظرات نظارتی",
-    "tag": "stablecoin",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-    "clean_url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794815640.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f57c27fd2e",
-    "title_fa": "‏Xbox اعلام کرد Project Helix ابتدا کنسول، سپس PC",
-    "title_en": "Xbox confirms Project Helix will be a console first, PC second.",
-    "summary": [
-      "‏Xbox در مجله ۲۵ سالگی‌اش گفت Project Helix ابتدا کنسول و سپس PC خواهد بود.",
-      "‏این کنسول نسل‌بعدی برای تعطیلات ۲۰۲۸ برنامه‌ریزی شده و می‌تواند بازی‌های PC را نیز اجرا کند.",
-      "‏اطلاعیه نشان می‌دهد مایکروسافت قصد دارد مرزهای پلتفرم‌ها را دوباره تعریف کند."
-    ],
-    "body_fa": "‏جیسون رونالد، معاون نسل‌بعدی Xbox ، در شماره ویژه مجله ۲۵ سالگی Xbox اعلام کرد که پروژه Helix به‌عنوان یک کنسول طراحی شده است. او افزود که این دستگاه قادر خواهد بود بازی‌های PC را نیز اجرا کند، اما هدف اصلی آن پلتفرم کنسولی است. به‌عبارت دیگر، Helix «یک کنسول است که می‌تواند بازی‌های PC را پخش کند»، نه «یک PC که می‌تواند بازی‌های کنسول اجرا کند». این کنسول نسل‌بعدی قرار است در فصل تعطیلات سال ۲۰۲۸ به بازار عرضه شود. اعلام این برنامه نشان می‌دهد مایکروسافت می‌خواهد تجربه بازی‌های چندپلتفرمی را برای کاربران ساده‌تر کند و مرزهای سنتی بین کنسول و رایانه شخصی را محو سازد. اگرچه هنوز جزئیات فنی کامل منتشر نشده، این خبر می‌تواند رقابت بین Sony و Nintendo را در سال‌های آینده تحت تأثیر قرار دهد.",
-    "category": "گیم",
-    "subcategory": "کنسول نسل‌بعد",
-    "tag": "Helix",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1034212/xbox-confirms-project-helix-will-be-a-console-first-pc-second",
-    "clean_url": "https://www.theverge.com/games/1034212/xbox-confirms-project-helix-will-be-a-console-first-pc-second",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-    "timestamp": 1794813900.0,
     "sent_to_telegram": true
   }
 ]
