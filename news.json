@@ -22,6 +22,203 @@
     "sent_to_telegram": true
   },
   {
+    "id": "13effe9af6",
+    "title_fa": "‏انگلستان تحریم‌های جدیدی بر هوثی‌های یمن اعمال کرد",
+    "title_en": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+    "summary": [
+      "‏انگلستان تحریم‌های مالی و مسافرتی بر چهار رهبر هوثی و گروهشان اعمال کرد",
+      "‏این اقدام در واکنش به حملات هوثی‌ها به زیرساخت‌های غیرنظامی عربستان و تهدید مسیرهای شحنه‌داری در باب‌المندب است",
+      "‏تحریم‌ها شامل مسدودسازی دارایی‌ها و ممنوعیت سفر برای مقامات کلیدی مانند Abdulkarim Amir al-Din Hussein al-Houthi و Abdul Hakim Hashem Ali al-Khaiwani می‌شود"
+    ],
+    "body_fa": "‏انگلستان روز سه‌شنبه تحریم‌های جدیدی بر گروه هوثی‌های یمن و چهار نفر از رهبران ارشد آن اعمال کرد. این تحریم‌ها شامل مسدودسازی دارایی‌ها و ممنوعیت سفر برای افراد کلیدی مانند Abdulkarim Amir al-Din Hussein al-Houthi ، Abdul Hakim Hashem Ali al-Khaiwani و Sarim al-Din Mufadal است. لندن این اقدام را در واکنش به حملات هوثی‌ها به زیرساخت‌های غیرنظامی عربستان، از جمله هدف‌گیری منطقه مالی ریاض و حملات به خطوط لوله نفتی، توجیه کرد. وزیر امور خارجه بریتانیا، Ed Miliband ، تأکید کرد که این اقدامات برای حمایت از ارزش‌ها و منافع بریتانیا و جلوگیری از تهدید مسیرهای شحنه‌داری در باب‌المندب ضروری است. تحریم‌ها نشان‌دهنده تشدید تنش‌های ژئوپلیتیک در خلیج فارس و امکان تأثیر بر بازارهای انرژی و حمل و نقل بین‌المللی است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌ها و امنیت",
+    "tag": "تحریم",
+    "urgency": 6,
+    "iran_relevant": true,
+    "source": "Al Jazeera · via Yahoo News",
+    "url": "https://www.yahoo.com/news/world/articles/symbolic-why-did-uk-sanction-121049681.html",
+    "clean_url": "https://www.yahoo.com/news/world/articles/symbolic-why-did-uk-sanction-121049681.html",
+    "image": "https://media.zenfs.com/en/al_jazeera_289/02fdebffeeb9a66a18d1ea4c3a3dd1f4.jpg",
+    "timestamp": 1795695399.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b9d5f4959d",
+    "title_fa": "‏Nvidia Blackwell با 5‑6 برابر در چین به فروش",
+    "title_en": "Export-banned Nvidia Blackwell B300 servers are openly for sale in China for up ...",
+    "summary": [
+      "‏فروش سرورهای Nvidia Blackwell B300 با هشت GPU به قیمت حدود 3 تا 3.4 میلیون دلار در بازار هوآکیانگ‌بی چین.",
+      "‏نشان می‌دهد تحریم‌های صادراتی آمریکا به راحتی دور زده می‌شود و چین، روسیه و ایران به این سخت‌افزارهای پیشرفته دست می‌یابند.",
+      "‏این وضعیت توان محاسباتی هوش مصنوعی چین را تقویت کرده و رقابت جهانی را تحت تأثیر قرار می‌دهد."
+    ],
+    "body_fa": "‏یک فروشنده در بازار هوآکیانگ‌بی شینژن سرورهای Nvidia Blackwell B300 با هشت کارت گرافیک را به قیمت حدود 3 تا 3.4 میلیون دلار عرضه کرد؛ این قیمت حدود 5 تا 6 برابر قیمت مشابه در ایالات متحده است. گزارش واشنگتن پست نشان می‌دهد که این سخت‌افزارهای پیشرفته به راحتی به چین وارد می‌شوند و حتی مشتریانی از روسیه و ایران نیز از این بازار خاکستری خرید می‌کنند. این دسترسی به تکنولوژی‌های پیشرفته هوش مصنوعی می‌تواند توان محاسباتی چین را به‌طور قابل‌توجهی افزایش دهد و تعادل رقابت جهانی در زمینه AI را تغییر دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "سخت‌افزار AI",
+    "tag": "Nvidia Blackwell",
+    "urgency": 7,
+    "iran_relevant": true,
+    "source": "Tom s Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/export-banned-nvidia-blackwell-b300-servers-are-openly-for-sale-in-china-for-up-to-usd3-4-million-a-5x-to-6x-markup-over-u-s-prices",
+    "clean_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/export-banned-nvidia-blackwell-b300-servers-are-openly-for-sale-in-china-for-up-to-usd3-4-million-a-5x-to-6x-markup-over-u-s-prices",
+    "image": "https://s.yimg.com/bo/0dda416c-224e-5751-8e3f-5f2615ca6f5e_1795261684372.jpg",
+    "timestamp": 1795695397.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e38873f031",
+    "title_fa": "‏کنگره آمریکا قانون ممنوعیت خودروهای چینی را نزدیک می‌کند",
+    "title_en": "China car ban at the 'one yard line' in Congress",
+    "summary": [
+      "‏کنگره آمریکا در آستانه تصویب لایحه‌ای برای ممنوعیت واردات خودروهای چینی است.",
+      "‏این اقدام می‌تواند زنجیره تأمین خودروسازی را تحت فشار قراردهد و روابط تجاری چین‑آمریکا را تشدید کند.",
+      "‏برخی خودروسازان اروپایی و ایالت‌های کلینتکی و آلاباما از این لایحه حمایت می‌کنند."
+    ],
+    "body_fa": "‏سناتورهای برنی مورنوی (اوهایو) و الیسا اسلاتکین (میچگان) لایحه‌ای به نام «قانون امنیت وسایل نقلیه متصل» را پیش‌نویس کرده‌اند که هدفش ممنوعیت فروش خودروهای ساخته‌شده با قطعات چینی یا روسی در ایالات متحده است. این لایحه با حمایت رهبری سنای دو حزبی و با کمک جان ثون، رهبر اکثریت سنای جمهوری‌خواه، از کمیته تجارت سنای عبور کرده و در دسامبر به‌صورت رأی صوتی تصویب می‌شود. برای جلب حمایت خودروسازان اروپایی و ایالت‌های کلینتکی و آلاباما، متن لایحه به‌دقت اصلاح شده تا نگرانی‌های آن‌ها رفع شود. اتحادیه نوآوری خودروسازی که نماینده شرکت‌های بزرگی چون مرسدس، فولفو، جی‌ام، فورد و استلانتیس است، اعلام کرده که «بسیار حمایت‌کننده» این قانون است. تصویب این قانون می‌تواند زنجیره تأمین خودروهای آمریکایی را به‌سختی تحت فشار قرار دهد و فشار تجاری بین آمریکا و چین را افزایش دهد. این گام نشانگر تشدید موضع کنگره در مواجهه با چین است، حتی در حالی که برخی مقامات دولتی مانند دونالد ترامپ روابط نزدیک‌تری با پکن را ترجیح می‌دهند.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تحریم‌های تجاری",
+    "tag": "چین",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Business Insider",
+    "url": "https://www.businessinsider.com/china-car-ban-congress-2026-11",
+    "clean_url": "https://www.businessinsider.com/china-car-ban-congress-2026-11",
+    "image": "https://i.insider.com/6b0883060b69407d788a6f4e?width=1200&format=jpeg",
+    "timestamp": 1795691580.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "34fb0c095f",
+    "title_fa": "‏آلبرتا پیش‌بینی مازاد مالی ۶ میلیارد دلاری را پس از جهش نفت ارتقا داد",
+    "title_en": "Alberta Raises Projected Surplus to $6 Billion as Oil Surges",
+    "summary": [
+      "‏آلبرتا پیش‌بینی مازاد مالی خود را به ۶ میلیارد دلار ارتقا داد.",
+      "‏این افزایش ناشی از رشد قیمت نفت است و می‌تواند بر بازارهای انرژی و اقتصاد کانادا تأثیر بگذارد."
+    ],
+    "body_fa": "‏دولت استان آلبرتا اعلام کرد که پیش‌بینی مازاد مالی سال جاری را به ۶ میلیارد دلار افزایش داده است. این تصمیم پس از افزایش چشمگیر قیمت نفت جهانی اتخاذ شد. رشد قیمت نفت باعث بالا رفتن درآمدهای مالیاتی و حق‌الزحمه‌های نفتی در استان شد. مازاد پیش‌بینی‌شده می‌تواند به سرمایه‌گذاری در زیرساخت‌ها و خدمات عمومی کمک کند و نشان‌دهنده تأثیر مستقیم نوسانات انرژی بر اقتصادهای منطقه‌ای است.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "مازاد",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/alberta-raises-projected-surplus-to-6-billion-as-oil-surges",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-26/alberta-raises-projected-surplus-to-6-billion-as-oil-surges",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795689000.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "776c318177",
+    "title_fa": "‏یک مطالعه کلیدی برای دعواهای اقلیمی دارای نقص ریاضی است",
+    "title_en": "Bad Math Could Fuel Climate Lawsuits",
+    "summary": [
+      "‏یک مطالعهٔ پرکاربرد برای شکایت‌های اقلیمی به دلیل فرمول نادرست شناخته شد",
+      "‏این نقص می‌تواند پایهٔ حقوقی دعواهای علیه شرکت‌های انرژی را تضعیف کند",
+      "‏نتیجهٔ این گزارش ممکن است استراتژی‌های حقوقی و تنظیمات زیست‌محیطی را تغییر دهد"
+    ],
+    "body_fa": "‏یک مطالعهٔ اقتصادی که به‌طور گسترده برای توجیه دعواهای اقلیمی علیه شرکت‌های نفتی و گازی به کار رفته بود، حاوی یک فرمول ریاضی نادرست است. پژوهشگران نشان دادند که روش محاسبهٔ انتشار گازهای گلخانه‌ای در این مطالعه به‌درستی وزن‌گذاری نشده و به‌طور قابل‌توجهی نتایج را بیش از حد تخمین می‌زند. این نقص می‌تواند اعتبار ادلهٔ حقوقی مورد استفاده در دادگاه‌ها را زیر سؤال ببرد و فشارهای قانونی بر صنایع انرژی را کاهش دهد. وکلای محیط‌زیست ممکن است برای بازنگری استراتژی‌های دعواهای خود به این گزارش استناد کنند. در عین حال، شرکت‌های انرژی می‌توانند از این نکته برای دفاع از خود در پرونده‌های جاری بهره ببرند.",
+    "category": "انرژی و کالا",
+    "subcategory": "قضایای اقلیمی",
+    "tag": "مطالعه‌نادرست",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/opinion/bad-math-could-fuel-climate-lawsuits-bd89c0c0",
+    "clean_url": "https://www.wsj.com/opinion/bad-math-could-fuel-climate-lawsuits-bd89c0c0",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795687380.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b2e5ea6b35",
+    "title_fa": "‏مدیرعامل ASML: ممنوعیت کامل صادرات تراشه چین خودکفایی می‌آورد",
+    "title_en": "ASML CEO Warns Total Chip Export Ban Will Backfire And Push China To Triple Down...",
+    "summary": [
+      "‏مدیرعامل ASML ، کریستف فوکه، هشدار داد که قطع کامل صادرات تجهیزات لیتوگرافی به چین می‌تواند توسعه داخلی این کشور را تسریع کند.",
+      "‏این اظهارات می‌تواند فشار بر سیاست‌های کنترل صادرات آمریکا وارد کند و زنجیره تأمین نیمه‌رساناهای پیشرفته را تحت تأثیر قرار دهد.",
+      "‏فوکه پیشنهاد کرد که تنها تجهیزات قدیمی‌تر به چین فروخته شود تا «شکاف نسلی» حفظ گردد."
+    ],
+    "body_fa": "‏کریستف فوکه، مدیرعامل شرکت هلندی ASML که با ارزش 520 میلیارد دلار در بازارهای جهانی شناخته می‌شود، در مصاحبه‌ای با Semafor’s Future Proof گفت که ممنوعیت کامل صادرات ماشین‌های لیتوگرافی EUV به چین می‌تواند اثر معکوس داشته باشد. او افزود که چین در صورت مواجهه با چنین محدودیتی، احتمالاً به توسعه ابزارهای داخلی خود سرعت می‌بخشد و حتی می‌تواند دو یا سه برابر سرمایه‌گذاری در این حوزه انجام دهد. فوکه تأکید کرد که هدف باید حفاظت از فناوری‌های پیشرفته باشد، نه قطع کامل دسترسی چین به تمام تجهیزات، به‌ویژه دستگاه‌های نسل قدیمی که بیش از یک دهه عقب‌تر از لبه پیشرفت هستند. او پیشنهاد کرد که ادامه فروش این تجهیزات قدیمی می‌تواند «شکاف نسلی» را حفظ کند و مانع از رشد سریع رقبای داخلی چین شود. این اظهارات در میانه بحث‌های شدید واشنگتن درباره تشدید محدودیت‌های فناوری برای چین مطرح شد و می‌تواند مسیر تصمیم‌گیری‌های آینده در زمینه سیاست تجاری را تحت تأثیر قرار دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "نیمه‌رسانا و صادرات",
+    "tag": "صنعت‌نیمه‌رسانا",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "Wccftech",
+    "url": "https://wccftech.com/asml-ceo-warns-total-chip-export-ban-will-backfire-push-china-domestic-rivals/",
+    "clean_url": "https://wccftech.com/asml-ceo-warns-total-chip-export-ban-will-backfire-push-china-domestic-rivals",
+    "image": "https://s.yimg.com/bo/a9efa01d-2595-569b-8a1f-bcbb6779fba3_1795683710870.jpg",
+    "timestamp": 1795684597.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "efd21aa396",
+    "title_fa": "‏کارکنان Rockstar Games علیه به رسمیت شناختن اتحادیه رأی دادند",
+    "title_en": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition",
+    "summary": [
+      "‏کارکنان Rockstar Games در استودیوی GTA 6 به‌طور قاطع علیه به رسمیت شناختن اتحادیه رأی دادند؛ تنها ۲۵٪ موافق بودند.",
+      "‏این نتایج می‌تواند روند سازماندهی کارگران و زمان عرضه بازی را تحت‌تأثیر قرار دهد.",
+      "‏اتحادیه IWGB ادامه به‌کارگیری کمپین برای بهبود شرایط خواهد داد."
+    ],
+    "body_fa": "‏در استودیوی Rockstar Games که در حال توسعه GTA 6 است، کارگران در یک نظرسنجی رأی دادند که اتحادیه را به رسمیت نشناسند. نتیجه نشان داد تنها یک‌چهارم کارکنان (حدود ۲۵٪) از یک توافق رسمی با اتحادیه حمایت کردند. به‌دلیل این عدم توافق، اتحادیه IWGB اعلام کرد به سازماندهی و فشار بر شرکت ادامه خواهد داد. این وضعیت می‌تواند برنامه‌ریزی توسعه بازی و زمان‌بندی انتشار آن را به‌چالش بکشد. همچنین نشان‌دهنده تنش‌های کارگری در صنعت بازی‌سازی است که ممکن است سایر استودیوها را تحت تأثیر قرار دهد.",
+    "category": "گیم",
+    "subcategory": "اتحاد کارگران",
+    "tag": "Rockstar",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Engadget on MSN",
+    "url": "https://www.msn.com/en-us/money/general/workers-at-gta-6-studio-rockstar-games-vote-overwhelmingly-against-union-recognition/ar-AA2ij1xY",
+    "clean_url": "https://www.msn.com/en-us/money/general/workers-at-gta-6-studio-rockstar-games-vote-overwhelmingly-against-union-recognition/ar-AA2ij1xY",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795683238.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "f33db60d95",
+    "title_fa": "‏نوسان شدید Nvidia خطرات ETF های تک‌سهمی را نشان داد",
+    "title_en": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+    "summary": [
+      "‏ETF های ۲× کوتاه و بلند Nvidia به ترتیب ۶۳٪ سقوط و ۶۲٪ صعود کردند",
+      "‏این نوسان شدید نشان‌دهنده ریسک بالای صندوق‌های لوریج‌دار تک‌سهمی برای سرمایه‌گذاران خرد است",
+      "‏تحلیل‌گران هشدار دادند که لوریج می‌تواند زیان‌های بزرگ ایجاد کند"
+    ],
+    "body_fa": "‏در روز دوشنبه، نوسان شدید سهام Nvidia باعث شد صندوق‌های لوریج‌دار تک‌سهمی این شرکت به‌طور چشمگیری تغییر کنند؛ صندوق کوتاه‌مدت ۲× GraniteShares NVD ۶۳٪ سقوط کرد در حالی که صندوق بلند ۲× NVDL نزدیک به ۶۲٪ افزایش یافت. این حرکات پس از بازگشت جنسن هوانگ به عنوان مدیرعامل رخ داد و قیمت سهام Nvidia در همان روز ۳۱٪ رشد کرد. مایک آکینز، شریک مؤسس ETF Action ، این نوسانات را نشانه‌ای از ریسک‌های بالای این نوع صندوق‌ها در بازارهای غیرنزولی می‌داند و افزود که لوریج برای سرمایه‌گذاران خرد می‌تواند خطرناک باشد. ویلا رند، بنیان‌گذار GraniteShares ، اگرچه به راه‌اندازی ETF های جدید Anthropic اشاره کرد، اما گفت نوسان Nvidia «یک ساید شو» نسبت به این محصولات است. تحلیل‌گران دیگر نیز بر این نکته تأکید کردند که لوریج عامل اصلی زیان‌های بزرگ است و سرمایه‌گذاری در چنین صندوق‌هایی نیاز به دقت ویژه دارد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سرمایه‌گذاری بورس",
+    "tag": "Nvidia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+    "clean_url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108557772-1795464253141-gettyimages-2306068172-NVIDIA_HQ.jpeg?v=1795464293&w=1920&h=1080",
+    "timestamp": 1795680060.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b490f50f61",
+    "title_fa": "‏رهبران یوروپید رئیس جدید بانک مرکزی اروپا را انتخاب کردند",
+    "title_en": "Leaders choose Spain’s former central bank head as next European Central Bank president",
+    "summary": [
+      "‏رهبران منطقه یوروپید پابلو هرناندز دِ کُس را به عنوان رئیس جدید بانک مرکزی اروپا برگزیدند.",
+      "‏این انتصاب می‌تواند سیاست‌های پولی و نرخ بهره یورو را تحت تأثیر قرار دهد و بازارهای مالی را تحت فشار یا حمایت قرار دهد.",
+      "‏هرناندز دِ کُس پیش از این رئیس بانک مرکزی اسپانیا بود."
+    ],
+    "body_fa": "‏رهبران اتحادیهٔ یوروپید تصمیم‌گیری کردند و پابلو هرناندز دِ کُس را به عنوان رئیس جدید European Central Bank معرفی کردند. او پیش از این به‌عنوان رئیس بانک مرکزی اسپانیا شناخته می‌شود و تجربهٔ مدیریتی گسترده‌ای در حوزهٔ سیاست پولی دارد. انتصاب او در زمان بحرانی نرخ بهره و تورم در منطقه یورو، توجه سرمایه‌گذاران را به خود جلب کرده است. تحلیل‌گران انتظار دارند که هرناندز دِ کُس ممکن است رویکردی محتاطانه‌تر نسبت به افزایش نرخ بهره اتخاذ کند. بازارهای ارز و اوراق قرضه اروپا به‌سرعت واکنش نشان دادند و نوسان‌های کوتاه‌مدت در یورو مشاهده شد. این تغییر رهبری می‌تواند مسیر سیاست‌های پولی آیندهٔ اروپا را شکل دهد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "سیاست پولی",
+    "tag": "ECB",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/ecb-eurozone-pablo-hernandez-de-cos-lagarde-d308b6cfbe6399b131255f2a678b10e4",
+    "clean_url": "https://apnews.com/article/ecb-eurozone-pablo-hernandez-de-cos-lagarde-d308b6cfbe6399b131255f2a678b10e4",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795679400.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "9ccfd8a396",
     "title_fa": "‏ترامپ تعرفه‌های جدید را برای کاهش وابستگی به چین اعمال کرد",
     "title_en": "Trump's new tariffs aim to prise global trade from China's grip",
@@ -63,6 +260,28 @@
     "clean_url": "https://www.reuters.com/business/finance/unicredit-seeks-commerzbank-shareholder-vote-it-completes-process-take-control-2026-11-26",
     "image": "https://s.yimg.com/bo/82c8936c-8765-5595-9a0d-d28ef7f4dbf6_1795676826106.jpg",
     "timestamp": 1795675642.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "27e78e28d8",
+    "title_fa": "‏حملات سایبری ایران به بریتانیا و هلند افزایش یافت",
+    "title_en": "UK and Netherlands Hit by Surge in Iran-Linked Attacks, Report Says",
+    "summary": [
+      "‏گزارش‌ها نشان می‌دهد حملات سایبری مرتبط با ایران به زیرساخت‌های دیجیتال بریتانیا و هلند به شدت افزایش یافته‌اند.",
+      "‏این افزایش می‌تواند روابط تجاری و امنیتی دو کشور با ایران را تحت فشار قرار دهد.",
+      "‏هنوز جزئیات دقیق حمله‌ها منتشر نشده است."
+    ],
+    "body_fa": "‏بلومبرگ گزارش داد که حملات سایبری مرتبط با ایران به زیرساخت‌های دیجیتال بریتانیا و هلند در ماه‌های اخیر به طور قابل توجهی افزایش یافته‌اند. این حملات شامل نفوذ به سامانه‌های دولتی و شرکت‌های خصوصی بوده و به‌نظر می‌رسد هدف اصلی ایجاد اختلال در خدمات حیاتی باشد. مقامات امنیتی هر دو کشور هشدار داده‌اند که این تهدیدات می‌توانند به تجارت، داده‌های حساس و اعتماد بین‌المللی آسیب برسانند. دولت بریتانیا اعلام کرده است که تیم‌های سایبری خود را برای مقابله با این تهدیدات تقویت می‌کند و در حال بررسی ارتباط مستقیم با ایران است. هلند نیز قصد دارد همکاری‌های اطلاعاتی خود با شرکای اروپایی را گسترش دهد تا از گسترش حملات جلوگیری کند. جزئیات دقیق روش‌های مورد استفاده و مقیاس خسارت هنوز به‌صورت عمومی منتشر نشده است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "حملات سایبری",
+    "tag": "Iran cyber",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-and-netherlands-hit-by-surge-in-iran-linked-attacks-report-says",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-and-netherlands-hit-by-surge-in-iran-linked-attacks-report-says",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795672800.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +373,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "f40a1535da",
+    "title_fa": "‏GTA 6 فروش خرده‌فروشی بازی‌های بریتانیا را ۹۹٪ افزایش داد",
+    "title_en": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period",
+    "summary": [
+      "‏فروش خرده‌فروشی بازی‌های فیزیکی در بریتانیا در دورهٔ سه‌روزهٔ عرضه GTA 6 ، ۹۹٪ به ۱۴۲ میلیون پوند جهش کرد.",
+      "‏این بازی ۷۴٪ کل فروش نرم‌افزار فیزیکی را به خود اختصاص داد و ۸۸٪ فروش‌ها در روز عرضه رخ داد.",
+      "‏همزمان، فروش سخت‌افزارهای کنسول ۳۸٪ و لوازم جانبی ۱۲۳٪ افزایش یافت."
+    ],
+    "body_fa": "‏نیلسن‌آی‌کیو اعلام کرد که در دورهٔ سه‌روزهٔ عرضهٔ Grand Theft Auto 6 ، درآمد خرده‌فروشی بازی‌های فیزیکی در بریتانیا ۹۹٪ افزایش یافت و به ۱۴۲ میلیون پوند رسید. این عنوان، ۷۲ میلیون پوند فروش فیزیکی را شامل می‌شود که ۷۴٪ کل فروش نرم‌افزار فیزیکی کشور را تشکیل می‌دهد و ۸۸٪ آن در روز نخست عرضه رخ داد. فروش جعبه‌ای بازی‌ها به ۴۳ میلیون پوند رسید که نسبت به هفتهٔ پیش ۴۰۹٪ رشد داشت و بالاترین رکورد فروش فیزیکی از کریسمس ۲۰۱۸ است. علاوه بر این، فروش سخت‌افزارهای کنسول ۳۸٪ و لوازم جانبی ۱۲۳٪ رشد کرد؛ فروش PlayStation 5 ۴۶٪ و Xbox Series X|S ۷۵٪ افزایش یافت. این نتایج نشان می‌دهد که با وجود گرایش به دانلودهای دیجیتال، عرضهٔ فیزیکی GTA 6 توانست تاثیر قابل‌توجهی بر بازار داشته باشد.",
+    "category": "گیم",
+    "subcategory": "فروش فیزیکی بازی‌ها",
+    "tag": "GTA6",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
+    "clean_url": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
+    "image": "https://assetsio.gnwcdn.com/jason-lucia-bank.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1795665300.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "ace229de23",
     "title_fa": "‏بانک انگلستان کاهش الزامات سرمایه بانکی را پیشنهاد کرد",
     "title_en": "Bank of England Proposes Cut to U.K. Bank Capital Requirements",
@@ -173,6 +414,28 @@
     "clean_url": "https://www.wsj.com/business/bank-of-england-proposes-cut-to-u-k-bank-capital-requirements-456b852d",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795662780.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e089d51c86",
+    "title_fa": "‏راه‌اندازی GTA 6 با ۲.۳ میلیون دانلود موبایل رکوردشکن شد",
+    "title_en": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+    "summary": [
+      "‏ارائهٔ Grand Theft Auto 6 باعث ۲.۳ میلیون دانلود ترکیبی پورت‌های موبایل سری شد.",
+      "‏این رقم نشان‌دهندهٔ بزرگ‌ترین راه‌اندازی بازی در تاریخ PlayStation و تاثیر گسترده بر اپلیکیشن‌های دیگر است.",
+      "‏پیش‌فروش‌ها ۳۲.۵ میلیون واحد و فروش روز اول ۳.۷۹ میلیارد دلار ثبت شد."
+    ],
+    "body_fa": "‏راه‌اندازی رکوردشکن Grand Theft Auto 6 در هفتهٔ اول منجر به ۲.۳ میلیون دانلود ترکیبی پورت‌های موبایل سری شد؛ در این بازه، GTA: Vice City – Definitive Edition بیش از ۱.۱ میلیون نصب داشت. افزایشی چشمگیر در بازی‌های دیگر سری نیز مشاهده شد؛ کاربران فعال روزانه GTA 5 – Enhanced Edition از ۴۰۷ هزار به ۷۱۸ هزار و GTA Legacy از ۲۹۳ هزار به ۴۹۴ هزار رسید. برنامه‌های مرتبط همچون PlayStation App ، PS Remote Play ، Xbox app و Twitch نیز دانلودهای خود را دو برابر کردند. این عرضه بزرگ‌ترین راه‌اندازی در تاریخ PlayStation بود؛ بیش از ۳۹ میلیون بازیکن منحصربه‌فرد شرکت کردند و ۶۸۳ میلیون ساعت بازی ثبت شد. پیش‌فروش‌ها ۳۲.۵ میلیون واحد و فروش روز اول ۳.۷۹ میلیارد دلار به دست آمد.",
+    "category": "گیم",
+    "subcategory": "دانلود موبایل",
+    "tag": "GTA6",
+    "urgency": 9,
+    "iran_relevant": false,
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
+    "clean_url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
+    "image": "https://assetsio.gnwcdn.com/android-gta-vc-mobile-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "timestamp": 1795658820.0,
     "sent_to_telegram": true
   },
   {
@@ -6333,270 +6596,6 @@
     "clean_url": "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
     "image": "https://assetsio.gnwcdn.com/gta-6-zelda.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
     "timestamp": 1794970680.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "ff9fe9ce8e",
-    "title_fa": "‏استریت پس از درآمد Nvidia و صورتجلسه فدرال ترکیب شد",
-    "title_en": "Wall Street ends mixed after Nvidia earnings, Fed minutes",
-    "summary": [
-      "‏Nvidia درآمد بالاتر از انتظار اعلام کرد و پیش‌بینی رشد فروش قوی ارائه داد.",
-      "‏این خبر باعث شد شاخص Nasdaq صعود کند و نگرانی‌های سرمایه‌گذاران دربارهٔ آینده چیپ‌ها کاهش یابد.",
-      "‏صورتجلسه فدرال رزرو نشان داد که احتمال افزایش نرخ بهره در کوتاه‌مدت کم است."
-    ],
-    "body_fa": "‏Nvidia در گزارش سه ماههٔ سوم خود، درآمدی بالغ بر 13 میلیارد دلار اعلام کرد که نسبت به پیش‌بینی‌ها کمی بالاتر بود. علاوه بر این، شرکت پیش‌بینی کرد که فروش سالانه‌اش در سال 2025 به بیش از 30 میلیارد دلار خواهد رسید، که نگرانی‌های بازار دربارهٔ تقاضای چیپ‌های پیشرفته را کاهش داد. این خبر باعث شد شاخص Nasdaq Composite حدود 1.2 درصد افزایش یابد، در حالی که S&P 500 تنها به‌صورت خنثی یا کمی پایین‌تر بسته شد. در عین حال، صورتجلسهٔ اخیر فدرال رزرو نشان داد که اعضا به احتمال زیاد نرخ بهره را در ماه‌های آینده ثابت نگه می‌دارند، که برای اوراق قرضه و دلار اثر مثبت داشت. ترکیب این دو عامل، بازارهای سهام آمریکا را در روزی ترکیبی از صعود و رکود به پایان رساند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام آمریکا",
-    "tag": "Nvidia",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/",
-    "clean_url": "https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794968880.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "50b958fcaf",
-    "title_fa": "‏والر فدرال‌رزرو را به افزایش نیم‌درصدی نرخ هشدار داد",
-    "title_en": "2-year Treasury note yield is little changed as Waller warns that Fed may need to ‘shock people’ with half-point rate hike",
-    "summary": [
-      "‏والر، عضو فدرال‌رزرو، گفت احتمالاً در جلسه دسامبر باید نرخ بهره نیم درصد افزایش یابد.",
-      "‏این اظهارات باعث شد اوراق ۲ ساله دولتی کمتر از ۱ پایه‌نقطه به ۴.۷۸۳٪ کاهش یابد و بازارها انتظار افزایش نرخ را تقویت کردند.",
-      "‏در عین حال، فروش خرده‌فروشی آمریکا ۰.۶٪ رشد کرد که فشار بر نرخ‌ها را افزایش می‌دهد."
-    ],
-    "body_fa": "‏فدرال‌رزرو در مصاحبه‌ای زنده با CNBC ، کریستوفر والر را به این نکته اشاره کرد که تورم بیش از حد پیش‌بینی شده ادامه دارد و برای مهار آن ممکن است نیاز به افزایش نیم‌درصدی نرخ بهره در جلسه دسامبر ۸-۹ باشد. والر افزود که برای بازگرداندن کاهش‌های سه‌ربع درصدی سال گذشته، شاید لازم باشد اقداماتی شاک‌کننده انجام شود. پس از این اظهارات، بازده اوراق ۲ ساله دولتی کمی کاهش یافت و در حدود ۴.۷۸۳٪ باقی ماند، در حالی که بازده ۱۰ ساله به ۵.۰۶۴٪ و ۳۰ ساله به ۵.۴۱۴٪ افت داشت. بازارها اکنون ۹۵٪ احتمال افزایش یک‌چهارم درصدی نرخ را در ابزار FedWatch محاسبه کرده‌اند. در همین زمان، داده‌های فروش خرده‌فروشی آمریکا که ۰.۶٪ رشد کرد، فشار برای ادامه سیاست‌های سختگیرانه را تقویت کرد. دقیقاً پس از این، صورتجلسه جلسه اکتبر فدرال‌رزرو که تصمیم به حفظ نرخ‌ها در محدوده ۳.۷۵٪‑۴٪ داشت، منتشر شد و نظرات مخالف لیسا کوک و بث هماک را نشان داد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازارهای مالی",
-    "tag": "نرخ بهره",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
-    "clean_url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108553938-1794992645771-gettyimages-2303016269-AFP_D6EW8PT.jpeg?v=1794992734&w=1920&h=1080",
-    "timestamp": 1794965460.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1931526dd3",
-    "title_fa": "‏ایالات متحده به جزیره قشم ایران در هرمز حمله کرد",
-    "title_en": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
-    "summary": [
-      "‏ایالات متحده روز سه‌شنبه به جزیره قشم ایران در تنگه هرمز حملات هوایی انجام داد.",
-      "‏این اقدام پس از ادعای ایران از هدف قرار دادن رادار آمریکا در بحرین و تهدید مسیرهای نفتی است.",
-      "‏کویت نیز گزارش کرد درگیری‌های پهپادی را متوقف کرده و هواپیماهای دفاعی خود فعال کرده‌اند."
-    ],
-    "body_fa": "‏در روز سه‌شنبه، ایالات متحده به جزیره قشم ایران در تنگه هرمز حملات هوایی انجام داد، همان‌طور که یک مقام ایرانی اعلام کرد. این حمله پس از آن بود که ایران ادعا کرد سامانه رادار آمریکایی در بحرین را هدف قرار داده است. سازمان فرماندهی مرکزی ایالات متحده اعلام کرد تمام پهپادهای حمله‌ای را رهگیری کرده و هیچ خسارت جدی به زیرساخت‌های آمریکایی وارد نشده است. ایران همچنین مدعی شد یک تانکر نفتی در نزدیکی تنگه هرمز پس از برخورد با مین دریایی به آتش گرفته است، اما نیروی نظامی آمریکا این ادعا را رد کرد و گفت مسیرهای کشتی‌رانی امن هستند. در همین حین، ارتش کویت گزارش داد که درگیری‌های پهپادی را متوقف کرده و صدای انفجارها ناشی از سامانه‌های دفاع هوایی است. این تشدید درگیری‌ها نگرانی‌های بین‌المللی درباره امنیت حمل و نقل نفت در تنگه هرمز و احتمال گسترش جنگ را افزایش داده است.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "جنگ خاورمیانه",
-    "tag": "قشم",
-    "urgency": 8,
-    "iran_relevant": true,
-    "source": "CBS News · via Yahoo News",
-    "url": "https://www.yahoo.com/news/world/articles/iran-rules-inspections-damaged-nuclear-084932815.html",
-    "clean_url": "https://www.yahoo.com/news/world/articles/iran-rules-inspections-damaged-nuclear-084932815.html",
-    "image": "https://media.zenfs.com/en/cbs_news_897/c5810d9742bd6a74620704cc14f91a4c.jpg",
-    "timestamp": 1794961402.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "56bb84c82f",
-    "title_fa": "‏گوگل ابزار هوش مصنوعی خودکار هک را کشف کرد",
-    "title_en": "Google finds self-running AI hacking tool with Russian comments in its files",
-    "summary": [
-      "‏گوگل ابزار هوش مصنوعی خودکاری یافت که بدون دخالت انسان، نقص‌های نرم‌افزاری را شناسایی و بهره‌برداری می‌کند.",
-      "‏این کشف امنیت دیجیتال را به خطر می‌اندازد و نشان می‌دهد که AI می‌تواند به‌صورت خودکار به‌عنوان ابزار هک عمل کند.",
-      "‏در فایل‌های ابزار، نظرات به زبان Russian یافت شد که احتمالاً نشانگر منبع یا هدف خاصی است."
-    ],
-    "body_fa": "‏گوگل روز دوشنبه اعلام کرد که در یکی از سامانه‌های خود، ابزار هوش مصنوعی خودکاری شناسایی کرده که می‌تواند به‌صورت مستقل نقص‌های نرم‌افزاری را پیدا کرده و از آن‌ها سوءاستفاده کند. این ابزار بدون نیاز به دخالت انسانی عمل می‌کند و می‌تواند به‌سرعت آسیب‌پذیری‌های مختلف را شناسایی کند. در کدهای این ابزار، نظراتی به زبان Russian وجود دارد که نشان می‌دهد ممکن است توسط گروهی با پیش‌زمینه روسی توسعه یافته باشد. گوگل این کشف را به‌عنوان تهدید جدی امنیت سایبری توصیف کرده و در حال بررسی راه‌های مقابله و رفع آسیب‌های احتمالی است. این رویداد نشان می‌دهد که فناوری‌های AI می‌توانند به‌سرعت به ابزارهای مخرب تبدیل شوند و نیاز به نظارت و مقررات قوی‌تر در این حوزه را برجسته می‌کند.",
-    "category": "تکنولوژی",
-    "subcategory": "امنیت سایبری",
-    "tag": "هک",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-    "clean_url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794958620.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8d122c2639",
-    "title_fa": "‏ضربهٔ نظامی اوکراین به پل کریمه؛ ۲۷۰ متر سقوط کرد",
-    "title_en": "Putin can't hide this military defeat to Ukraine: Part of the Crimean Bridge, one of Russia's crowning achievements, has collapsed",
-    "summary": [
-      "‏اوکراین با حمله‌ای به پل کریمه، حدود ۲۷۰ متر از مسیر جاده‌ای پل را فرو ریخت.",
-      "‏این ضربه نمادین برای ولادیمیر پوتین است و می‌تواند تدارکات روسیه به کریمه را مختل کند.",
-      "‏سقوط پل می‌تواند فشار بین‌المللی بر روسیه را افزایش دهد."
-    ],
-    "body_fa": "‏در آخرین حملهٔ نظامی اوکراین، بخش حدود ۲۷۰ متری از پل کریمه که به عنوان یکی از نمادهای بزرگ روسیه شناخته می‌شود، به‌طور کامل فرو ریخت. این پل که مسیر جاده‌ای و ریلی مهمی برای اتصال روسیه به شبه‌جزیره کریمه فراهم می‌کند، هدف استراتژیک مهمی برای نیروهای اوکراینی بوده است. حملهٔ موفقیت‌آمیز اوکراین نه تنها تدارکات نظامی روسیه به کریمه را مختل می‌کند، بلکه پیام سیاسی قوی‌ای به ولادیمیر پوتین می‌فرستد. تحلیل‌گران پیش‌بینی می‌کنند این رویداد می‌تواند فشار بین‌المللی و تحریم‌های بیشتری بر روسیه وارد کند و به تصمیم‌گیری‌های استراتژیک مسلحانهٔ مسکو آسیب برساند. در عین حال، روسیه ممکن است برای بازسازی سریع پل و جبران خسارت‌های لجستیکی به منابع مالی و نظامی بیشتری نیاز داشته باشد.",
-    "category": "سیاست مهم جهانی",
-    "subcategory": "جنگ اوکراین",
-    "tag": "پل‌کریمه",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "National Security Journal on MSN",
-    "url": "https://www.msn.com/en-us/news/other/putin-can-t-hide-this-military-defeat-to-ukraine-part-of-the-crimean-bridge-one-of-russia-s-crowning-achievements-has-collapsed/ar-AA2hEeXn?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-us/news/other/putin-can-t-hide-this-military-defeat-to-ukraine-part-of-the-crimean-bridge-one-of-russia-s-crowning-achievements-has-collapsed/ar-AA2hEeXn",
-    "image": "https://www.bing.com/th?id=ONUT.KCcBhVEeFz7_KT_A9jQeAg",
-    "timestamp": 1794953293.0278628,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "34c65844e1",
-    "title_fa": "‏کالیفرنیا خودروهای خودران Waymo را از بزرگراه‌ها ممنوع کرد",
-    "title_en": "California bans Waymo autonomous vehicles from state freeways, saying they pose...",
-    "summary": [
-      "‏دپارتمان وسایل نقلیه کالیفرنیا، خودروهای خودران Way م o را از بزرگراه‌های ایالتی ممنوع کرد",
-      "‏این تصمیم به دلیل نگرانی‌های ایمنی و حوادث اخیر اتخاذ شد و می‌تواند تست و توسعه خودران‌ها را مختل کند",
-      "‏ممنوعیت ممکن است به تعلیق برنامه‌های Waymo برای گسترش خدمات راید‑اشتینگ در ایالت منجر شود"
-    ],
-    "body_fa": "‏دپارتمان وسایل نقلیه کالیفرنیا (DMV) به‌طور رسمی خودروهای خودران Waymo را از تمام بزرگراه‌های ایالتی ممنوع کرد. این اقدام پس از چندین حادثه نزدیک‌به‌تصادف و گزارش‌های عمومی درباره عملکرد ناامن این وسایل انجام شد. Waymo باید تمام خودروهای خودران خود را از مسیرهای سریع‌السیر خارج کرده و به تست در مسیرهای محلی محدود شود. ممنوعیت می‌تواند برنامه‌های گسترش سرویس راید‑اشتینگ این شرکت در کالیفرنیا را به تعویق بیندازد و فشار بیشتری بر رقبا برای بهبود ایمنی بگذارد. این تصمیم همچنین نشانگر نگرانی‌های نظارتی در سطح ملی نسبت به فناوری خودران‌هاست و ممکن است پیش‌زمینه‌ای برای قوانین سختگیرانه‌تر در سایر ایالات باشد.",
-    "category": "تکنولوژی",
-    "subcategory": "خودروهای خودران",
-    "tag": "Waymo",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
-    "clean_url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
-    "image": "https://s.yimg.com/bo/870060fe-fceb-5a89-a3ca-016ff01e3419_1794952273257.jpg",
-    "timestamp": 1794949640.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "b0062bbe30",
-    "title_fa": "‏تجارت خلیج با آسیای مرکزی بین ۲۰۲۰‑۲۰۲۵ چهار برابر شد",
-    "title_en": "Gulf Trade With Central Asia Surges as Energy Ties Deepen | OilPrice.com",
-    "summary": [
-      "‏تجارت بین خلیج و آسیای مرکزی از ۲۰۲۰ تا ۲۰۲۵ تقریباً چهار برابر شد و به ۳.۹ میلیارد دلار رسید.",
-      "‏این رشد نشان‌دهنده تقویت روابط انرژی و سرمایه‌گذاری خلیج در منطقه است و سرمایه‌گذاری‌ها به ۳۱.۱ میلیارد دلار رسید.",
-      "‏اما هزینه‌های حمل‌ونقل بالا و کمبود بنادر مستقیم، گسترش را در پنج سال آینده محدود می‌کند."
-    ],
-    "body_fa": "‏گزارش بانک توسعه اوراسیا نشان می‌دهد که حجم تجارت بین کشورهای خلیج و آسیای مرکزی از ۱ میلیارد دلار در سال ۲۰۲۰ به ۳.۹ میلیارد دلار در سال ۲۰۲۵ نزدیک به چهار برابر شده است. در همین دوره، سرمایه‌گذاری خلیجی در این منطقه نیز سه برابر شده و تا نیمه اول ۲۰۲۶ به ۳۱.۱ میلیارد دلار رسیده است. بخش تولید برق سریع‌ترین رشد را داشته و بیش از یک‌سوم کل سرمایه‌گذاری‌ها را شامل می‌شود. با این حال، سهم کل تجارت آسیای مرکزی در تجارت جهانی تنها ۱.۷ درصد است و گسترش آینده به دلیل هزینه‌های بالای حمل‌ونقل و کمبود زیرساخت‌های لجستیکی محدود می‌شود. از میان کشورهای آسیای مرکزی، ازبکستان و ترکمنستان بیشترین حجم تجارت را دارند؛ صادرات این کشورها شامل طلا، مواد معدنی، محصولات کشاورزی و انرژی است، در حالی که واردات عمدتاً ماشین‌آلات و تجهیزات صنعتی است. کارشناسان هشدار می‌دهند که نبود دسترسی مستقیم به بنادر و کمبود تسهیلات مالی می‌تواند رشد تجارت را در پنج سال آینده کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "تجارت بین‌المللی",
-    "tag": "خلیج-آسیای_مرکزی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/Gulf-Trade-With-Central-Asia-Surges-as-Energy-Ties-Deepen.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/Gulf-Trade-With-Central-Asia-Surges-as-Energy-Ties-Deepen.html",
-    "image": "https://s.yimg.com/bo/b01b9b2c-57a9-5d1d-97b7-f7e09b8fa781_1794940058939.jpg",
-    "timestamp": 1794938120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "1afb62d894",
-    "title_fa": "‏قیمت برنت حدود ۹۳ دلار ثابت؛ حملات به تانکرهای هرمز",
-    "title_en": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge |...",
-    "summary": [
-      "‏برنت در حدود ۹۳ دلار در سبد قیمت‌ها باقی مانده است.",
-      "‏حملات به تانکرهای عبوری از تنگه هرمز باعث تعادل قیمت شد و صادرات خلیج را خنثی کرد.",
-      "‏همچنین تولیدکنندگان شیل آمریکا به‌دلیل ضررهای بزرگ در پوشش‌های مشتقه، کمتر از ۷٪ تولید ۲۰۲۷ را هِج کردند."
-    ],
-    "body_fa": "‏قیمت نفت برنت این هفته در حدود ۹۳ دلار ثابت مانده و از نوسان شدید جلوگیری کرد؛ این ثبات ناشی از حملات به تانکرهای عبوری از تنگه هرمز بود که اثر افزایشی صادرات خلیج فارس را خنثی کرد. در همین دوره، تولیدکنندگان شیل ایالات متحده به دلیل ضررهای چند صد میلیونی در پوشش‌های مشتقه، هِج خود را به کمتر از ۷٪ برای سال ۲۰۲۷ کاهش دادند. در بازارهای دیگر، شرکت چینی Sinochem سهام ۵۰۰ میلیون دلاری خود در Pirelli را با تخفیف فروخت و سهام این شرکت را ۵٪ کاهش داد. همچنین CNR کانادا برای ۱.۷۷ میلیارد دلار شرکت Advantage Energy را خرید و ظرفیت تولید خود را ۷۹٬۰۰۰ بشکه در روز گسترش داد. Diamondback Energy ۲٫۱۵ میلیارد دلار دارایی‌های Permian را از Double Eagle Midco خریداری کرد و ExxonMobil اولین نفت از پروژه Uaru در گویانای گویانای را اعلام کرد. این تحولات نشان می‌دهد که ریسک‌های ژئوپلیتیک و تغییرات استراتژی‌های پوشش‌گری می‌توانند به سرعت بر قیمت‌های انرژی و جریان‌های سرمایه‌گذاری تأثیر بگذارند.",
-    "category": "انرژی و کالا",
-    "subcategory": "نفت و گاز",
-    "tag": "برنت",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/Brent-Stuck-Near-93-as-Hormuz-Tanker-Attacks-Offset-Gulf-Export-Surge.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/Brent-Stuck-Near-93-as-Hormuz-Tanker-Attacks-Offset-Gulf-Export-Surge.html",
-    "image": "https://s.yimg.com/bo/dd496333-46a1-535b-9c41-f0631902fc27_1783825650736.png.cf.jpg",
-    "timestamp": 1794930920.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cfc2d459cc",
-    "title_fa": "‏متا برنامه پیام‌رسان مستقل Direct را راه‌اندازی کرد",
-    "title_en": "Meta launches Direct, a standalone messaging app for Instagram | TechCrunch",
-    "summary": [
-      "‏متا برنامه پیام‌رسان جدید Direct را در ترکیه و تایلند به صورت آزمایشی عرضه کرد.",
-      "‏این اپ می‌تواند پیام‌های Direct Instagram را بدون نیاز به حساب اینستاگرام مدیریت کند و کاربران را در اکوسیستم متا نگه دارد.",
-      "‏Direct قابلیت‌های واکنش، یادداشت صوتی، رسم و استیکرهای سفارشی را نیز ارائه می‌دهد."
-    ],
-    "body_fa": "‏متا برنامه پیام‌رسان مستقل Direct را به‌عنوان نسخه‌ای جداگانه از پیام‌های Direct اینستاگرام معرفی کرد. این سرویس ابتدا در ترکیه و تایلند به‌صورت آزمایشی در دسترس کاربران قرار گرفت و می‌تواند با یا بدون حساب اینستاگرام استفاده شود. کاربران می‌توانند با ایمیل یا شماره تلفن ثبت‌نام کنند و گفت‌وگوهای قبلی خود را که در اینستاگرام داشته‌اند، به‌صورت همزمان در دو برنامه همگام‌سازی کنند. Direct امکاناتی چون واکنش‌ها، یادداشت‌های صوتی، ایموجی، قابلیت «Draw» برای رسم داخل چت و «Notes» برای به‌روزرسانی وضعیت کوتاه را فراهم می‌کند. همچنین امکان ساخت استیکرهای سفارشی، افزودن افکت صوتی به پاسخ‌ها و شخصی‌سازی پس‌زمینه چت با تم‌های دلخواه وجود دارد. برای حفظ امنیت نوجوانان، متا از فناوری تخمین سن استفاده می‌کند و ابزارهای نظارت برای والدین فراهم می‌کند. هنوز زمان یا برنامه‌ای برای گسترش Direct به سایر کشورها اعلام نشده است.",
-    "category": "تکنولوژی",
-    "subcategory": "پیام‌رسان‌های موبایل",
-    "tag": "Direct",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-    "clean_url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram",
-    "image": "https://s.yimg.com/bo/b5c8b083-a54b-5936-a417-4e1184b8994f_1794928590716.png.cf.jpg",
-    "timestamp": 1794927535.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "78febdcbfb",
-    "title_fa": "‏هونگ‌کنگ و Swift سپرده‌های توکنی ۲۴ساعته را بررسی می‌کنند",
-    "title_en": "Hong Kong, Swift explore tokenized deposits to bring 24/7 speed to bank payments",
-    "summary": [
-      "‏هونگ‌کنگ و Swift پروژه‌ای برای استفاده از سپرده‌های توکنی به منظور پرداخت ۲۴ ساعته راه‌اندازی کردند.",
-      "‏این اقدام می‌تواند سرعت و دسترسی به انتقالات بانکی را بهبود دهد و تعامل بین CBDC ها را گسترش دهد.",
-      "‏پروژه بر پایه آزمایش‌های سازگاری CBDC در سال ۲۰۲۳ استوار است."
-    ],
-    "body_fa": "‏بانک مرکزی هنگ‌کنگ (HKMA) و شبکهٔ بین‌المللی سوئیفت در یک ابتکار مشترک به بررسی استفاده از سپرده‌های توکنی می‌پردازند تا امکان پرداخت‌های ۲۴ ساعته و فوری برای بانک‌ها فراهم شود. این طرح بر پایهٔ آزمایش‌های سازگاری ارزهای دیجیتال بانک مرکزی (CBDC) که در سال ۲۰۲۳ آغاز شد، ساخته شده و هدف آن اتصال زیرساخت‌های بانکی سنتی به فناوری توکنی است. با توکنی‌سازی سپرده‌ها، انتقالات می‌توانند بدون نیاز به ساعت کاری بانک‌ها انجام شوند و زمان تسویه‌حساب به‌طور قابل‌توجهی کاهش یابد. سوئیفت نقش فنی و استانداردهای پیام‌رسانی را بر عهده دارد، در حالی که HKMA چارچوب نظارتی و پشتیبانی از بانک‌های محلی را فراهم می‌کند. موفقیت این پروژه می‌تواند الگوی جدیدی برای همکاری‌های بین‌المللی در حوزهٔ پرداخت‌های دیجیتال ایجاد کند و مسیر را برای گسترش بیشتر CBDC ها هموار سازد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "توکن‌سازی پرداخت",
-    "tag": "توکن‌سازی",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-    "clean_url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-    "image": "https://s.yimg.com/bo/c4c56e05-6d09-57a6-8036-0655698d734e_1794929078461.jpg",
-    "timestamp": 1794927320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "11e0a8d5dd",
-    "title_fa": "‏آمازون و گوگل پس از IPO ۳۰٪ Anthropic را می‌خرند",
-    "title_en": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "summary": [
-      "‏آمازون ۱۴.۷٪ و گوگل ۱۳.۷٪ از سهام Anthropic را پس از عرضه عمومی خریدند.",
-      "‏این سرمایه‌گذاری مشترک تقریباً ۳۰٪ مالکیت غیررای‌دهنده را تشکیل می‌دهد و می‌تواند رقابت هوش مصنوعی و خدمات ابری را تحت تأثیر قرار دهد.",
-      "‏علاوه بر این، AWS بیش از ۱۰۰ میلیارد دلار هزینهٔ ابری Anthropic را در ده سال آینده تضمین کرده است."
-    ],
-    "body_fa": "‏Anthropic در روز سه‌شنبه جزئیات سرمایه‌گذاری‌های بزرگ خود با ارائه‌دهندگان ابری آمازون و گوگل را فاش کرد. آمازون با تبدیل بخشی از اوراق تضمینی به سهام غیررای‌دهنده، حدود ۱۴.۷٪ از شرکت را به دست آورد که در صورت تبدیل تمام اوراق می‌توانست به ۲۳.۸٪ برسد. گوگل نیز با تبدیل اوراق و خرید خصوصی، تقریباً ۱۳.۷٪ سهام غیررای‌دهنده Anthropic را در اختیار دارد. گروهی از شرکت‌های فناوری بزرگ از جمله AMD ، Broadcom ، Micron ، Microsoft ، Nvidia ، TSMC و خود گوگل، توافق کردند تا ۲۶ میلیارد دلار سهام غیررای‌دهنده خریداری کنند که گوگل و Nvidia هر کدام ۱۰ میلیارد دلار خریداری می‌کنند. علاوه بر این، AWS انتظار دارد که Anthropic بیش از ۱۰۰ میلیارد دلار هزینهٔ خدمات ابری خود را در ده سال آینده صرف کند. این ترکیب مالکیت تقریباً ۳۰٪ غیررای‌دهنده می‌تواند نقش مهمی در رقابت بین ارائه‌دهندگان هوش مصنوعی و سرویس‌های ابری ایفا کند.",
-    "category": "تکنولوژی",
-    "subcategory": "سرمایه‌گذاری هوش مصنوعی",
-    "tag": "Anthropic",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-    "clean_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-    "timestamp": 1794925740.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "af46c77083",
-    "title_fa": "‏Anthropic قیمت IPO را بالاتر از ۷۸ دلار می‌گذارد",
-    "title_en": "Anthropic likely to price IPO above the current range of $70 to $78, sources...",
-    "summary": [
-      "‏Anthropic قصد دارد قیمت IPO را بالاتر از بازه ۷۰ تا ۷۸ دلار بگذارد.",
-      "‏این عرضه در بازارهای عمومی AI که امروز با تردید مواجه‌اند، می‌تواند ارزش‌گذاری شرکت‌های هوش مصنوعی را تحت تأثیر قرار دهد.",
-      "‏شرکت در نه ماه اول 2026 درآمد 33.24 میلیارد دلاری ثبت کرد اما ضرر خالص 104 میلیارد دلاری گزارش داد."
-    ],
-    "body_fa": "‏شرکت هوش مصنوعی Anthropic برنامه دارد قیمت عرضه عمومی خود را بالاتر از بازه 70 تا 78 دلار بگذارد. این شرکت قرار است با نماد ANT در Nasdaq در 19 نوامبر به معامله بپردازد. در نه ماه اول 2026 ، Anthropic درآمد 33.24 میلیارد دلاری کسب کرد اما به دلیل تغییر ارزش منصفانه اوراق قابل تبدیل و ابزارهای مشتقه، ضرر خالص 104 میلیارد دلاری ثبت شد. عرضه این شرکت پس از عرضه تاریخی SpaceX که 85.7 میلیارد دلار جمع‌آوری کرد، در بازاری انجام می‌شود که به تازگی نسبت به فناوری‌های AI تردید بیشتری نشان داده است. مدیرعامل Dario Amodei در ویدئوی راه‌اندازی، تأکید کرد که هدف شرکت حل مشکلات بزرگ بشر است ولی باید ریسک‌های فناوری را به دقت مدیریت کرد.",
-    "category": "تکنولوژی",
-    "subcategory": "عرضه عمومی",
-    "tag": "Anthropic",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-    "clean_url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-    "image": "https://s.yimg.com/bo/602f7f25-779c-5084-9d96-be55878a2387_1794926191608.jpg",
-    "timestamp": 1794924784.0,
     "sent_to_telegram": true
   }
 ]
