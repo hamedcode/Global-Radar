@@ -44,6 +44,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "17115d3aa9",
+    "title_fa": "‏ویتنام با آمریکا برای نهایی‌سازی توافق‌نامه تجاری همکاری می‌کند",
+    "title_en": "Vietnam says it is working with US to complete trade deal as soon as possible",
+    "summary": [
+      "‏وزارت تجارت ویتنام اعلام کرد که برای تکمیل سریع توافق‌نامه تجاری با آمریکا در حال همکاری است",
+      "‏این اقدام پس از اعمال تعرفه‌های جدید آمریکا بر 14 شریک تجاری برای مقابله با چین انجام می‌شود",
+      "‏تسریع این توافق می‌تواند نقش ویتنام را در زنجیره تأمین جهانی تقویت کند"
+    ],
+    "body_fa": "‏وزارت تجارت ویتنام در بیانیه‌ای اعلام کرد که برای نهایی‌سازی توافق‌نامه تجاری با ایالات متحده در کوتاه‌ترین زمان ممکن با این کشور همکاری می‌کند. این حرکت پس از آن رخ داد که دولت ترامپ تعرفه‌های جدیدی را بر 14 شریک تجاری خود اعمال کرد تا فشار اقتصادی بر چین افزایش یابد. ویتنام به عنوان یکی از بزرگ‌ترین صادرکنندگان در آسیا، به دنبال استفاده از فرصت‌های جدید برای جایگزینی بخش‌هایی از تجارت چین است. تکمیل سریع این توافق می‌تواند صادرات ویتنام، به‌ویژه در حوزه‌های الکترونیک و کشاورزی، را تقویت کرده و نقش این کشور را در زنجیره تأمین جهانی ارتقا دهد. در عین حال، این توافق می‌تواند فشارهای تجاری بین آمریکا و چین را کمی کاهش دهد، هرچند اثرات کلی آن هنوز نامشخص است.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "تجارت بین‌المللی",
+    "tag": "تجارت",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/emerging/vietnam-says-it-is-working-with-us-complete-trade-deal-soon-possible-2026-11-26/",
+    "clean_url": "https://www.reuters.com/markets/emerging/vietnam-says-it-is-working-with-us-complete-trade-deal-soon-possible-2026-11-26",
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795622400.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "c15fcf8662",
     "title_fa": "‏سازمان نظارت بانکی اروپا از کمیسیون قانون‌گذاری کریپتو می‌طلبد",
     "title_en": "European Banking Authority asks Commission to weigh rules for crypto firms...",
@@ -85,6 +107,50 @@
     "clean_url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
     "image": "https://s.yimg.com/bo/e3fc6bdb-134f-5ff2-8b80-dcbfa3d559b9_1794349892604.jpg",
     "timestamp": 1795621762.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "c7e441259c",
+    "title_fa": "‏بانک ANZ از فهرست FX فدرال‌رزرو نیویورک حذف شد",
+    "title_en": "ANZ Removed From NY Fed List of FX Counterparties in Rare Move",
+    "summary": [
+      "‏بانک ANZ از فهرست همتایان ارز خارجی فدرال‌رزرو نیویورک حذف شد.",
+      "‏این اقدام نادر می‌تواند دسترسی بانک به معاملات ارز و نقدینگی را تحت تأثیر قرار دهد.",
+      "‏حذف ممکن است نشان‌دهنده تغییرات نظارتی یا ارزیابی ریسک جدید باشد."
+    ],
+    "body_fa": "‏فدرال‌رزرو نیویورک فهرستی از بانک‌های معتبر برای معاملات ارز خارجی (FX) نگهداری می‌کند که به عنوان همتایان معاملاتی شناخته می‌شوند. اخیراً بانک ANZ از این فهرست حذف شد؛ امری که به ندرت رخ می‌دهد. حذف از این فهرست می‌تواند به معنای محدود شدن دسترسی ANZ به برخی خدمات ارز خارجی و کاهش توانایی ارائه نقدینگی به مشتریان باشد. احتمالاً این تصمیم ناشی از بازنگری نظارتی، ارزیابی ریسک جدید یا تغییر در استراتژی تجاری بانک است. هرچند جزئیات دقیق هنوز منتشر نشده، این تغییر می‌تواند پیامدهایی برای بازارهای ارز و سایر بانک‌های فعال در این حوزه داشته باشد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "بازار ارز",
+    "tag": "ANZ",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/anz-removed-from-ny-fed-list-of-fx-counterparties-in-rare-move",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-25/anz-removed-from-ny-fed-list-of-fx-counterparties-in-rare-move",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795619700.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9d01eede10",
+    "title_fa": "‏کیم جونگ‌اون استقرار سلاح‌های هسته‌ای تاکتیکی را گسترش داد",
+    "title_en": "North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says",
+    "summary": [
+      "‏کیم جونگ‌اون در بازدید از یک تأسیسات نظامی، خواستار گسترش استقرار سلاح‌های هسته‌ای تاکتیکی شد.",
+      "‏این اظهارات می‌تواند تنش‌های منطقه‌ای را افزایش دهد و نگرانی‌های بین‌المللی درباره گسترش هسته‌ای را تشدید کند.",
+      "‏او افزود که ظرفیت تولید مواد هسته‌ای کشور به‌صورت سیستماتیک در حال تقویت است."
+    ],
+    "body_fa": "‏کیم جونگ‌اون در بازدید از یک تأسیسات نظامی شمالی، اعلام کرد که باید سلاح‌های هسته‌ای تاکتیکی را در حوزه‌های مختلف مستقر کرد. وی افزود که توانایی تولید مواد هسته‌ای کشور به‌صورت سیستماتیک در حال افزایش است و این هدف استراتژیک جدید است. این اظهارات توسط خبرگزاری رسمی KCNA منتشر شد و نشان‌دهنده تمایل پی‌درپی پی‌ریمان به گسترش توان هسته‌ای است. تحلیل‌گران بین‌المللی هشدار دادند که چنین سیاستی می‌تواند تنش‌های امنیتی در شبه‌جزیره کره و روابط میان قدرت‌های بزرگ را تشدید کند. در عین حال، جامعه جهانی ممکن است فشارهای دیپلماتیک یا تحریم‌های جدیدی را برای مهار این برنامه اعمال کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "سیاست هسته‌ای شمالی",
+    "tag": "سلاح‌های تاکتیک هسته‌ای",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-visits-nuclear-facilities-calls-wider-tactical-nuclear-weapons-2026-11-25/",
+    "clean_url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-visits-nuclear-facilities-calls-wider-tactical-nuclear-weapons-2026-11-25",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795612920.0,
     "sent_to_telegram": true
   },
   {
@@ -154,6 +220,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "3b6158cab9",
+    "title_fa": "‏FCC به SpaceX اجازه پرتاب یک میلیون ماهواره Starmind داد",
+    "title_en": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers",
+    "summary": [
+      "‏FCC تأیید کرد که SpaceX می‌تواند 1,000,000 ماهواره Starmind برای مراکز داده فضایی پرتاب کند.",
+      "‏این شبکه می‌تواند پردازش هوش مصنوعی را به فضا منتقل کرده و رقابت در بازار داده‌ها را دگرگون کند.",
+      "‏رئیس FCC Brendan Carr این تصمیم را در بیانیه‌ای رسمی اعلام کرد."
+    ],
+    "body_fa": "‏رئیس کمیسیون فدرال مخابرات آمریکا (FCC)، Brendan Carr ، اعلام کرد که این نهاد مسیر SpaceX را برای پرتاب یک میلیون ماهواره تحت نام Starmind هموار کرده است. این ماهواره‌ها قرار است به عنوان مراکز داده فضایی عمل کنند و پردازش هوش مصنوعی را در مدار زمین میزبانی کنند. طرح Starmind می‌تواند به‌طور قابل‌توجهی هزینه‌های انرژی و تأخیرهای ارتباطی را کاهش دهد و زیرساخت‌های دیجیتال را به سطح جدیدی برساند. این تصمیم نشان‌دهنده پذیرش سریع مقیاس بزرگ در فناوری‌های فضایی توسط مقامات نظارتی است و می‌تواند رقابت در بازارهای پردازش داده و خدمات ابری را تحت تأثیر قرار دهد. اگرچه هنوز جزئیات فنی و زمان‌بندی دقیق پرتاب‌ها مشخص نیست، اما این گام بزرگ برای SpaceX و صنعت داده‌های فضایی محسوب می‌شود.",
+    "category": "تکنولوژی",
+    "subcategory": "فناوری فضایی",
+    "tag": "SpaceX",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7",
+    "clean_url": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795606740.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "1e3419910d",
     "title_fa": "‏سناتورهای Warren و Van Hollen خواستار لغو Regulation Crypto شدند",
     "title_en": "Sens. Warren, Van Hollen lead push to scrap SEC's Regulation Crypto and innovation exemption",
@@ -220,6 +308,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "47df2ed892",
+    "title_fa": "‏1Password: هکرها به زیرساخت داخلی نفوذ کردند اما رمزها ایمن‌اند",
+    "title_en": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "summary": [
+      "‏هکرها در 19 نوامبر به حساب کارمند 1Password در GitHub دست یافتند و به سرورهای داخلی نفوذ کردند",
+      "‏اطلاعاتی چون نام و ایمیل کاربران استخراج شد اما vault های رمز عبور هرگز در دست هکرها نبود",
+      "‏شرکت اعلام کرد برنامه‌های کاربردی و افزونه‌ها تحت تأثیر این حمله نیستند"
+    ],
+    "body_fa": "‏1Password در بیانیه‌ای اعلام کرد که در 19 نوامبر یک نفوذگر به حساب کارمند شرکت در GitHub دست یافت و با استفاده از آن کد مخربی را به سرورهای داخلی بارگذاری کرد. این حمله منجر به استخراج داده‌هایی از جمله نام، ایمیل و زمان‌های ایجاد و آخرین ورود حساب‌های کاربران شد، اما vault های حاوی رمزهای عبور هرگز در دست هکرها قرار نگرفت. شرکت تأکید کرد که خودشان نیز به رمزهای کاربران یا کلیدهای رمزنگاری دسترسی ندارند. برنامه‌های موبایل، وب و افزونه‌های مرورگر 1Password تحت تأثیر این رخداد نیستند. هنوز مشخص نیست چگونه حساب کارمند مورد هدف قرار گرفت و تعداد کاربران تحت تأثیر نیز اعلام نشده است.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت سایبری",
+    "tag": "هک",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+    "clean_url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/11/3-1password.png?w=1200",
+    "timestamp": 1795603740.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "3335b73d25",
     "title_fa": "‏توکن HYPE به صندوق ETF کریپتو Franklin Templeton اضافه شد",
     "title_en": "Hyperliquid's HYPE will join bitcoin, ether and more in Franklin Templeton's crypto ETF",
@@ -283,6 +393,50 @@
     "clean_url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
     "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795601100.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "1d223e2a31",
+    "title_fa": "‏دولت آمریکا 800 متهم را در تقلب کریپتو دستگیر کرد",
+    "title_en": "Justice Department takes aim at billions in crypto fraud proceeds in historic 'largest ever crackdown'",
+    "summary": [
+      "‏دولت آمریکا بیش از 800 نفر را به دلیل تقلب‌های کریپتو دستگیر کرد",
+      "‏این عملیات بزرگ‌ترین سرکوب تاریخی در زمینه تقلب‌های رمزارزی است و اثر جهانی دارد",
+      "‏جرایم شامل میلیاردها دلار بوده و با همکاری حدود دوازده کشور انجام شد"
+    ],
+    "body_fa": "‏دپارتمان عدالت ایالات متحده روز سه‌شنبه اعلام کرد که در یک عملیات تاریخی بیش از 800 متهم مرتبط با تقلب‌های رمزارزی را هدف قرار داد. این اقدام شامل حملات به مراکز تماس و کمپ‌های کلاهبرداری در چندین کشور بود و به‌همراه نیروهای پلیس در نزدیک دوازده کشور اجرا شد. مقامات اعلام کردند که میلیاردها دلار از عواید این تقلب‌ها به دست می‌آمد. این سرکوب بزرگ‌ترین اقدام قانونی علیه تقلب‌های کریپتو تا به امروز محسوب می‌شود و می‌تواند پیامدهای مهمی برای بازارهای رمزارزی داشته باشد. هدف اصلی این عملیات، جلوگیری از ادامه فعالیت‌های کلاهبرداری و محافظت از سرمایه‌گذاران جهانی است.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "جرائم مالی",
+    "tag": "crypto fraud",
+    "urgency": 8,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+    "clean_url": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795600800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "141f41b33d",
+    "title_fa": "‏دولت ترامپ اعلام کرد جنسن هوانگ تهدید امنیت ملی نیست",
+    "title_en": "How the Trump administration determined Jensen Huang is not a national security threat",
+    "summary": [
+      "‏وزارت دادگستری آمریکا اعلام کرد Nvidia و مدیرعامل آن جنسن هوانگ مرتکب تخلف یا خطر امنیتی نشده‌اند.",
+      "‏این تصمیم به رفع نگرانی‌های مرتبط با محدودیت‌های فناوری چین و ادامه فعالیت‌های شرکت کمک می‌کند.",
+      "‏برخی تحلیل‌گران می‌گویند این حکم می‌تواند قیمت سهام Nvidia را در کوتاه‌مدت تثبیت کند."
+    ],
+    "body_fa": "‏وزارت دادگستری ایالات متحده پس از بررسی‌های داخلی اعلام کرد که شرکت Nvidia و مدیرعاملش جنسن هوانگ هیچ تخلفی مرتکب نشده‌اند. این نتایج نشان می‌دهد مقامات امنیت ملی آمریکا جنسن هوانگ را به عنوان تهدیدی برای امنیت کشور نمی‌دانند. تصمیم این‌چنین در زمان افزایش تنش‌های فناوری بین آمریکا و چین، به ویژه در زمینه چیپ‌های پیشرفته، اهمیت دارد. با رفع این نگرانی‌ها، Nvidia می‌تواند به‌طور آزادتر با شرکای چینی همکاری کند و برنامه‌های توسعه‌اش را ادامه دهد. تحلیل‌گران بازار انتظار دارند این خبر به تثبیت قیمت سهام Nvidia کمک کند و فشارهای نظارتی را کاهش دهد.",
+    "category": "تکنولوژی",
+    "subcategory": "امنیت فناوری",
+    "tag": "Nvidia",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-justice-department-did-not-open-probe-into-jensen-huang-before-reinstatement-2026-11-25/",
+    "clean_url": "https://www.reuters.com/business/us-justice-department-did-not-open-probe-into-jensen-huang-before-reinstatement-2026-11-25",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795599000.0,
     "sent_to_telegram": true
   },
   {
@@ -459,6 +613,28 @@
     "clean_url": "https://www.reuters.com/video/watch/idRW116225112026RP1",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795584300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "13e33c4e9d",
+    "title_fa": "‏پولند ناتو را برای نابود موشک‌های روسی بر اوکراین خواست",
+    "title_en": "Poland Asks NATO to Shoot Down Russian Missiles Over Ukraine",
+    "summary": [
+      "‏پولند از ناتو درخواست کرد موشک‌های روسی که به اوکراین می‌رسند را سرنگون کند.",
+      "‏این درخواست می‌تواند نقش ناتو را در جنگ اوکراین گسترش دهد و تنش‌های نظامی را افزایش دهد.",
+      "‏پولند گفت این اقدام برای محافظت از حاکمیت اوکراین و جلوگیری از تهدیدات هوایی ضروری است."
+    ],
+    "body_fa": "‏پولند به ناتو اعلام کرد که موشک‌های بالستیک روسی که به سمت اوکراین پرتاب می‌شوند، باید توسط نیروهای ناتو سرنگون شوند. این درخواست پس از افزایش حملات هوایی روسیه به شهرهای اوکراینی و نگرانی‌های امنیتی در منطقه مطرح شد. پولند استدلال می‌کند که مداخله هوایی ناتو می‌تواند از گسترش خسارات غیرنظامی جلوگیری کند. ناتو هنوز پاسخی رسمی به این پیشنهاد نداده و تصمیم‌گیری دربارهٔ نقش مستقیم خود در دفاع هوایی اوکراین در حال بررسی است. اگر ناتو این اقدام را بپذیرد، می‌تواند پیشینهٔ تعهدات نظامی خود را در شرق اروپا تعمیق بخشد و احتمال تشدید تنش‌های روسیه‑ناتو را افزایش دهد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "ناتو اوکراین",
+    "tag": "پولند",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/poland-asks-nato-to-shoot-down-russian-missiles-over-ukraine",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-25/poland-asks-nato-to-shoot-down-russian-missiles-over-ukraine",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795583940.0,
     "sent_to_telegram": true
   },
   {
@@ -6421,182 +6597,6 @@
     "clean_url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
     "image": "https://s.yimg.com/bo/3a89d3db-5e22-5648-97a5-fe9604bba80e_1794918423464.jpg",
     "timestamp": 1794916444.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "225ada4fe8",
-    "title_fa": "‏Model ML ۲۵۰ میلیون دلار برای خودکارسازی بانکداری جذب کرد",
-    "title_en": "Model ML raises $250M to automate investment banking grunt work",
-    "summary": [
-      "‏استارتاپ لندن‌مبتنی Model ML مبلغ ۲۵۰ میلیون دلار در دور سری B جمع‌آوری کرد.",
-      "‏این سرمایه‌گذاری به شرکت امکان می‌دهد هوش مصنوعی خود را برای خودکارسازی مدل‌سازی مالی و تهیه پرزنتیشن‌های بانکی گسترش دهد.",
-      "‏مدل‌های این شرکت با هزینه‌ای حدود 2 ٪ از مدل‌های پیشرفته کار می‌کنند."
-    ],
-    "body_fa": "‏Model ML ، استارتاپی مستقر در لندن که هوش مصنوعی را برای خودکارسازی کارهای روزمره بانکداران سرمایه‌گذاری و مشاوران استفاده می‌کند، 250 میلیون دلار در دور سری B جمع‌آوری کرد و ارزش‌گذاریش به 1.5 میلیارد دلار رسید. این دور سرمایه‌گذاری توسط General Atlantic و QED Investors رهبری شد و یک سال پس از دور سری A که 75 میلیون دلار جذب کرده بود، انجام شد. برادران Chaz و Arnie Englander ، که پیشتر دو شرکت دیگر از جمله Fat Llama را بنیان‌گذاری کرده بودند، این شرکت سه ساله را راه‌اندازی کردند. هوش مصنوعی Model ML می‌تواند با ابزارهای مشتریان همچون Excel و PowerPoint یکپارچه شود و به‌صورت خودکار مدل‌های مالی و اسلایدهای ارائه را به‌روز کند. شرکت ادعا می‌کند که با استفاده از مدل‌های منبع باز، هزینه پردازش خود را به حدود 2 ٪ از مدل‌های پیشرفته کاهش داده و سرعت نتایج را افزایش داده است. رقبای این حوزه شامل Hebbia ، Rogo ، Anthropic و OpenAI هستند که نیز ابزارهای مشابهی برای حرفه‌ای‌های مالی ارائه می‌دهند.",
-    "category": "تکنولوژی",
-    "subcategory": "فین‌تک",
-    "tag": "AI",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "clean_url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
-    "timestamp": 1794915120.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "91dc5c4dab",
-    "title_fa": "‏قیمت طلا ۳,۸۵۰ دلار شد؛ انتظار افزایش نرخ بهره فدرال‌رزرو",
-    "title_en": "Gold struggles near $3,850 as traders bet on back-to-back Fed rate hikes |...",
-    "summary": [
-      "‏قیمت طلا به حدود ۳,۸۵۰ دلار رسید و پس از رسیدن به ۳,۸۸۶ دلار کاهش یافت.",
-      "‏بازارگران به انتظار افزایش متوالی نرخ بهره فدرال‌رزرو، طلا را به عنوان دارایی امن فشار می‌دهند.",
-      "‏این حرکت می‌تواند بر سبدهای سرمایه‌گذاری در خاورمیانه و آسیا تأثیر بگذارد."
-    ],
-    "body_fa": "‏طلا (XAU/USD) در روز سه‌شنبه نتوانست صعودی مستمر داشته باشد و پس از رسیدن به اوج داخلی ۳,۸۸۶ دلار، به حدود ۳,۸۵۰ دلار کاهش یافت. این کاهش نشان‌دهنده فشار فروش است که ناشی از انتظارات بازار برای دو افزایش متوالی نرخ بهره توسط فدرال‌رزرو است. تحلیل‌گران بر این باورند که اگر فدرال‌رزرو نرخ بهره را در دو جلسه متوالی بالا ببرد، طلا به عنوان دارایی امن تحت فشار بیشتری قرار خواهد گرفت. پیش‌بینی‌های اخیر نشان می‌دهد که احتمال افزایش نرخ بهره در ماه‌های آینده حدود ۷۰ درصد است. کاهش قیمت طلا می‌تواند تقاضای سرمایه‌گذاران در بازارهای نوظهور، به‌ویژه در خاورمیانه و آسیا، را تحت تأثیر قرار دهد. در ادامه، بازارهای دیگر کالاها و ارزها نیز ممکن است به واکنش‌های مشابه نسبت به سیاست پولی فدرال‌رزرو واکنش نشان دهند.",
-    "category": "انرژی و کالا",
-    "subcategory": "قیمت طلا",
-    "tag": "طلا",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Forex Market",
-    "url": "https://www.fxstreet.com/news/gold-struggles-near-3-850-as-traders-bet-on-back-to-back-fed-rate-hikes-202611171102",
-    "clean_url": "https://www.fxstreet.com/news/gold-struggles-near-3-850-as-traders-bet-on-back-to-back-fed-rate-hikes-202611171102",
-    "image": "https://s.yimg.com/bo/e6ef5978-0ff5-58f4-8bb8-b19d20d75a7b_1793352264685.jpg",
-    "timestamp": 1794912917.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bcca06f7d4",
-    "title_fa": "‏شرکت Nvidia کمیته نظارت بر صادرات تشکیل داد",
-    "title_en": "Nvidia Forms Export Control Board Committee After Chip Curbs",
-    "summary": [
-      "‏شرکت Nvidia برای نظارت بر امنیت ملی و کنترل صادرات تراشه‌ها یک کمیته ویژه تشکیل داد.",
-      "‏این اقدام در واکنش به محدودیت‌های جدید آمریکا برای قطع دسترسی چین به تراشه‌ها انجام شد.",
-      "‏این تصمیم از نخستین اقدامات Colette Kress پس از کناره‌گیری جنجالی Jensen Huang است."
-    ],
-    "body_fa": "‏شرکت Nvidia در واکنش به فشارهای امنیتی واشنگتن، کمیته ویژه‌ای در هیئت‌مدیره خود برای نظارت بر سیاست‌های امنیت ملی و کنترل صادرات ایجاد کرد. این کمیته به ریاست Suzanne Nora Johnson ، مدیر سابق Goldman Sachs ، موظف است بر پایبندی این غول تراشه‌سازی به قوانین فدرال نظارت کند. تشکیل این نهاد نظارتی از نخستین تصمیمات بزرگ Colette Kress ، مدیرعامل موقت شرکت، پس از استعفای جنجالی بنیان‌گذار آن، Jensen Huang ، به شمار می‌رود. هم‌زمان، دولت آمریکا دسترسی شرکت‌های چینی به پردازنده‌های هوش مصنوعی Nvidia را از طریق اجاره سرور در کشورهای واسط مانند سنگاپور، مالزی و برزیل محدود کرده است. واشنگتن تلاش می‌کند با بستن این روزنه‌ها، برتری راهبردی خود را در توسعه مدل‌های پیشرفته هوش مصنوعی حفظ کند.",
-    "category": "تکنولوژی",
-    "subcategory": "هوش مصنوعی و تراشه",
-    "tag": "Nvidia",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Bloomberg · via Yahoo Finance",
-    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-forms-export-control-board-105132905.html",
-    "clean_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-forms-export-control-board-105132905.html",
-    "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/41fd49850b2cd598e48f6293d6d33292.jpg",
-    "timestamp": 1794912283.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "12a160270a",
-    "title_fa": "‏Bitwise ZDAY را برای دفاع سایبری هوش مصنوعی راه‌اندازی کرد",
-    "title_en": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
-    "summary": [
-      "‏Bitwise اولین ETF غیرکریپتو خود به نام ZDAY را در NYSE راه‌اندازی کرد.",
-      "‏این صندوق با هدف سرمایه‌گذاری در شرکت‌های دفاع سایبری مبتنی بر هوش مصنوعی و کارمزد 0.75 ٪ مدیریت ایجاد شد.",
-      "‏پرتفوی هدف 10 تا 30 شرکت خواهد بود."
-    ],
-    "body_fa": "‏Bitwise ، مدیر دارایی‌های رمزارزی، اولین صندوق ETF غیرکریپتو خود به نام ZDAY را که در بورس نیویورک (NYSE) معامله می‌شود، معرفی کرد. این صندوق بر روی شرکت‌های فعال در حوزه دفاع سایبری مبتنی بر هوش مصنوعی متمرکز است و هدف دارد تا از رشد این فناوری‌ها بهره‌برداری کند. هزینه مدیریت صندوق 0.75 درصد در سال تعیین شده و سرمایه‌گذاری در 10 تا 30 شرکت هدف انجام می‌شود. با راه‌اندازی ZDAY ، Bitwise سعی دارد تا دامنه سرمایه‌گذاری‌های خود را فراتر از رمزارزها گسترش دهد و به سرمایه‌گذاران فرصتی برای ورود به بازار دفاع سایبری هوش مصنوعی ارائه دهد.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "صندوق ETF",
-    "tag": "ZDAY",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
-    "clean_url": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794909600.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "6135e6b14d",
-    "title_fa": "‏ایران و عمان برای امنیت خلیج‌هرمز مذاکرات برگزار کردند",
-    "title_en": "Iran and Oman Hold Talks on Strait of Hormuz Security as Tanker Attacks Surge |...",
-    "summary": [
-      "‏وزیران خارجه ایران و عمان درباره افزایش حملات به تانکرها در خلیج‌هرمز گفتگو کردند.",
-      "‏هدف جلسه حفظ امنیت مسیرهای دریایی و جلوگیری از تشدید بحران نفتی است.",
-      "‏این مذاکرات در حالی برگزار شد که در اکتبر بیشترین حملات به تانکرها گزارش شد."
-    ],
-    "body_fa": "‏روز سه‌شنبه، وزیران خارجه ایران و عمان در مسائلی پیرامون خلیج‌هرمز به گفتگو نشستند. دو کشور بر لزوم حفظ امنیت در مسیرهای دریایی برای اطمینان از جریان روان حمل و نقل نفتی تأکید کردند. این دیدار همزمان با افزایش قابل توجه حملات به تانکرها در خلیج‌هرمز برگزار شد؛ در اکتبر بیشترین تعداد حملات ثبت شد. گزارش‌های UKMTO نشان داد دو حمله به تانکرها منجر به آتش‌سوزی در موتورخانه شد و خدمه ایمن باقی ماند. عمان به نقش میان‌دست خود در تسهیل مذاکرات غیرمستقیم بین ایالات متحده و ایران اشاره کرد. ایران نیز بر این باور است که قوانین بین‌المللی ۱۹۸۲ در این آب‌ها اعمال نمی‌شود و هر دو کشور ساحلی باید قوانین خود را اعمال کنند. کارشناسان هشدار می‌دهند که ادامه این تنش‌ها می‌تواند فشار بر قیمت نفت جهانی را افزایش دهد.",
-    "category": "ژئوپلیتیک و سیاست اقتصادی",
-    "subcategory": "امنیت خلیج فارس",
-    "tag": "خلیج‌هرمز",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Hold-Talks-on-Strait-of-Hormuz-Security-as-Tanker-Attacks-Surge.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Hold-Talks-on-Strait-of-Hormuz-Security-as-Tanker-Attacks-Surge.html",
-    "image": "https://s.yimg.com/bo/6a5c0533-53ee-5b25-af37-f4379ff48c5e_1794910540539.jpg",
-    "timestamp": 1794909320.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cc2123d1b8",
-    "title_fa": "‏هکرها کد دزدی رمزارز را در ۱۷۸ سایت کاشتند",
-    "title_en": "Hackers planted crypto-stealing code on 178 organizations’ sites, including HSBC...",
-    "summary": [
-      "‏هکرها کد مخرب برای سرقت رمزارزها را در ۱۷۸ وب‌سایت، از جمله HSBC ، نصب کردند",
-      "‏این کد آدرس کیف پول را عوض می‌کند و می‌تواند میلیون‌ها دلار رمزارز را به کیف پول هکرها بفرستد",
-      "‏حمله از طریق نقص ثبت‌نام Optimizely انجام شد"
-    ],
-    "body_fa": "‏یک نقص در فرم ثبت‌نام Optimizely به هکرها اجازه داد کد مخربی را بر روی ۱۷۸ وب‌سایت مختلف، از جمله وب‌سایت بانک HSBC ، قرار دهند. این کد به‌صورت خودکار آدرس کیف پول مقصد را در صفحات پرداخت رمزارز تعویض می‌کند و کاربران را به‌سوی کیف پول هکرها هدایت می‌کند. کارشناسان امنیتی تخمین می‌زنند که این حمله می‌تواند سرقت میلیون‌ها دلار رمزارز را به‌بار آورد. شرکت‌های متاثر در حال بررسی آسیب‌پذیری و به‌روزرسانی سیستم‌های خود هستند. این رویداد نشان‌دهنده خطرات زنجیره تأمین نرم‌افزاری در حوزه رمزارزهاست.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "امنیت سایبری",
-    "tag": "هک",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
-    "clean_url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
-    "image": "https://s.yimg.com/bo/e78be1e0-0ffc-5111-a98e-56ed3b0fae58_1794120563279.jpg",
-    "timestamp": 1794909244.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "13ae842f74",
-    "title_fa": "‏سهام Deutsche Bank افشای پرداخت‌های مشکوک به اپستین سقوط کرد",
-    "title_en": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax...",
-    "summary": [
-      "‏سهام Deutsche Bank در صبح دوشنبه حدود ۴.۷٪ کاهش یافت پس از افشای اسناد حاوی ۵۸۲ میلیون دلار پرداخت مشکوک به Jeffrey Epstein.",
-      "‏این افشا نشان‌دهنده نقص‌های جدی در مدیریت ریسک و کنترل‌های مالی بانک است که می‌تواند فشار نظارتی و قانونی بیشتری ایجاد کند.",
-      "‏در همان زمان، اسناد نشان دادند که بانک به‌طور اشتباه اظهارنامه مالیاتی دونالد ترامپ را نیز فاش کرده بود."
-    ],
-    "body_fa": "‏در اوایل روز سه‌شنبه، سهام Deutsche Bank پس از انتشار اسنادی که توسط افشاگران ارائه شد، حدود ۴.۷٪ کاهش یافت. این اسناد، که شامل حدود ۱۵ میلیون صفحه اطلاعات داخلی بانک است، پرداخت‌های مشکوک به مبلغ ۵۸۲ میلیون دلار به Jeffrey Epstein را نشان می‌دهند، که پیش از این به‌طور کامل شناخته نشده بود. همچنین، افشای تصادفی اظهارنامه‌های مالیاتی دونالد ترامپ در سال ۲۰۱۷ نیز در این اسناد آمده است. گزارش‌ها نشان می‌دهند که بانک در طول دو دهه گذشته در مدیریت ریسک و کنترل‌های مالی‌اش نقص‌های جدی داشته و حدود ۲۸,۰۰۰ مشتری سرمایه‌گذاری مشکل‌دار را که باید حذف می‌شدند، نگه داشته است. این افشاها فشار نظارتی بر Deutsche Bank را افزایش می‌دهد، در حالی که بانک تا به‌حال بیش از ۱۸.۶ میلیارد یورو برای حل پرونده‌های مختلف پرداخت کرده است. کارشناسان پیش‌بینی می‌کنند این رویداد می‌تواند نوسانات بیشتری در بازارهای اروپایی ایجاد کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بانک‌ها",
-    "tag": "DeutscheBank",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
-    "clean_url": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
-    "image": "https://s.yimg.com/bo/0b358e67-3d5d-52fd-aa4e-6ddc7816d7fa_1794909095286.jpg",
-    "timestamp": 1794905644.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "5ed0fb04e5",
-    "title_fa": "‏جنسن هوانگ آمادگی بازگشت به مدیرعاملی Nvidia را اعلام کرد",
-    "title_en": "Jensen Huang Is Willing to Return as Nvidia CEO If Board Allows It",
-    "summary": [
-      "‏جنسن هوانگ اعلام کرد آمادگی دارد در صورت موافقت هیئت‌مدیره، مجدداً به عنوان مدیرعامل Nvidia برگردد.",
-      "‏این خبر می‌تواند تأثیر قابل‌توجهی بر ارزش سهام Nvidia و روند فناوری‌های گرافیکی داشته باشد.",
-      "‏تصمیم او نشان‌دهنده ادامه استراتژی رشد و نوآوری شرکت است."
-    ],
-    "body_fa": "‏جنسن هوانگ، بنیان‌گذار و مدیرعامل فعلی Nvidia ، گفت در صورت دریافت اجازه از هیئت‌مدیره می‌تواند دوباره به عنوان مدیرعامل شرکت عمل کند. این اظهارات پس از شایعاتی درباره تغییرات رهبری در شرکت مطرح شد و نشان می‌دهد که هوانگ هنوز تمایل به رهبری مستقیم دارد. بازگشت او می‌تواند استراتژی‌های توسعه هوش مصنوعی و پردازش گرافیکی را تقویت کند و واکنش مثبت بازارهای سهام فناوری را به دنبال داشته باشد. در صورت تحقق، این تصمیم می‌تواند مسیر رشد Nvidia را در سال‌های آینده شکل دهد.",
-    "category": "تکنولوژی",
-    "subcategory": "رهبری شرکت",
-    "tag": "Nvidia",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it",
-    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794903720.0,
     "sent_to_telegram": true
   }
 ]
