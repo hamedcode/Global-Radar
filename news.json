@@ -1,5 +1,27 @@
 [
   {
+    "id": "fce81acc0a",
+    "title_fa": "‏قیمت سرورهای Nvidia در چین به ۳ میلیون دلار رسید",
+    "title_en": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown...",
+    "summary": [
+      "‏چین ویدیوهایی از فروش سرورهای Nvidia B300 به قیمت ۳ میلیون دلار منتشر کرد.",
+      "‏این قیمت‌ها پس از فشارهای واشنگتن و رسوایی مدیرعامل Nvidia به شدت بالا رفت و نشان‌دهنده کمبود چیپ‌های پیشرفته است.",
+      "‏برخی فروشندگان ادعا می‌کنند سرورهای مشابه با پیش‌پرداخت فروخته می‌شوند، اما صحت این ادعاها تأیید نشده است."
+    ],
+    "body_fa": "‏ویدیوهای چینی در پلتفرم Douyin نشان می‌دهند که سرورهای Nvidia مدل B300 به قیمت حدود ۳ میلیون دلار (۲۳ میلیون یوان) به فروش می‌رسند، که بیش از پنج برابر قیمت آمریکایی آن است. این افزایش قیمت پس از اعلام محدودیت‌های جدید واشنگتن بر خرید و اجاره توان محاسباتی توسط شرکت‌های چینی و پس از رسوایی مدیرعامل Nvidia ، جنسن هوانگ، با فردی که ادعا می‌شود جاسوس چینی بوده، رخ داده است. معامله‌گران محلی می‌گویند موجودی‌های موجود در چین تنها تا حدود دو یا سه ماه آینده می‌تواند تأمین شود و پس از آن دسترسی به این چیپ‌های پیشرفته بسیار دشوار خواهد شد. برخی فروشندگان در بازار هوآکیانگ‌بی می‌خواهند برای یک سرور هشت‌چیپی تا ۳.۴ میلیون دلار پیش‌پرداخت بگیرند، در حالی که مقامات تایوانی ادعا می‌کنند ۷۴ سرور مشابه به چین فروخته شده و حدود ۲۱ میلیون دلار درآمد داشته‌اند. اگرچه برخی ادعاهای فروش ممکن است کلاهبرداری باشد، اما این وضعیت نشان می‌دهد که تقاضا برای چیپ‌های AI پیشرفته همچنان بالا است و فشارهای ژئوپولیتیکی می‌تواند قیمت‌ها را به سطوح بی‌سابقه برساند.",
+    "category": "تکنولوژی",
+    "subcategory": "چپ‌های AI",
+    "tag": "Nvidia",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "NY Post · via Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-sale-3m-china-211840132.html",
+    "clean_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-sale-3m-china-211840132.html",
+    "image": "https://media.zenfs.com/en/ny_post_articles_869/09d2063754a01900ecc4a1a84aba7716.jpg",
+    "timestamp": 1795814527.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "928f931221",
     "title_fa": "‏قیمت‌های سوخت هواپیماها خطر ورشکستگی خطوط هوایی را افزایش می‌دهد",
     "title_en": "Soaring Fuel Prices Threaten to Push More Airlines Into Bankruptcy |...",
@@ -132,6 +154,28 @@
     "sent_to_telegram": true
   },
   {
+    "id": "818fec9ecd",
+    "title_fa": "‏بانک جهانی رشد جهانی را کاهش داد اما رکود نیست",
+    "title_en": "Slower growth, but no recession: World Bank economist says global economy still expanding",
+    "summary": [
+      "‏بانک جهانی پیش‌بینی رشد جهانی 2026 را به 2.8 ٪ کاهش داد",
+      "‏این کاهش به دلیل بحران خاورمیانه و فشارهای زنجیره تأمین است",
+      "‏اقتصاد جهان هنوز در حال گسترش است اما با تورم بالاتر"
+    ],
+    "body_fa": "‏در کنفرانس ملی چشم‌انداز اقتصادی که توسط مؤسسه تحقیقات اقتصادی مالزی (MIER) برگزار شد، دیسیگان شموگام، اقتصاددان بانک جهانی، اعلام کرد که پیش‌بینی رشد جهانی برای سال 2026 به 2.8 درصد کاهش یافته است. او تأکید کرد این کاهش نشانگر رکود نیست و اقتصاد جهان همچنان در حال گسترش است، اما با سرعت کمتر و تورم بالاتر. اصلی‌ترین عامل این کاهش، بحران خاورمیانه است که از طریق قیمت‌های انرژی، تورم، نرخ بهره و به‌ویژه اختلالات حمل‌ونقل و زنجیره تأمین اثر می‌گذارد. شموگام اشاره کرد که قیمت‌های خرده‌فروشی سوخت، به‌ویژه دیزل و سوخت جت، بیش از قیمت نفت خام افزایش یافته و این باعث فشار بر شرکت‌های هواپیمایی مانند AirAsia شده است. او همچنین هشدار داد که استفاده صرف از قیمت نفت برنت برای تخمین قیمت‌های خرده‌فروشی کافی نیست و عوامل حمل‌ونقل و هزینه‌های بیمه نیز نقش مهمی دارند. پیش‌بینی می‌شود عرضه جهانی نفت حدود 5 درصد کاهش یابد و مصرف نیز 2.5 درصد کاهش پیدا کند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "رشد جهانی",
+    "tag": "رشد",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Malay Mail",
+    "url": "https://www.malaymail.com/news/money/2026/11/27/slower-growth-but-no-recession-world-bank-economist-says-global-economy-still-expanding/245042",
+    "clean_url": "https://www.malaymail.com/news/money/2026/11/27/slower-growth-but-no-recession-world-bank-economist-says-global-economy-still-expanding/245042",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/27/376703.webp",
+    "timestamp": 1795782180.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "83de176172",
     "title_fa": "‏برندهای مد سفارشات را از بنگلادش به هند منتقل کردند",
     "title_en": "EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India amid...",
@@ -173,6 +217,28 @@
     "clean_url": "https://finance.yahoo.com/technology/articles/nvidia-blackwell-chips-turn-china-114546617.html",
     "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/e0b59da1aa7ecda3fc907e68028c0a33.jpg_up.jpg",
     "timestamp": 1795781428.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7b9dbbb529",
+    "title_fa": "‏سناتورها لوتنیک را مسدود کردن چیپ‌های AI به چین می‌نشانند",
+    "title_en": "Lutnick in the hot seat as senators vow to crack down on AI chip leaks to China",
+    "summary": [
+      "‏سناتورهای دموکرات و جمهوری‌خواه لوتنیک، وزیر تجارت، را به دلیل فروش میلیاردها دلاری چیپ‌های پیشرفته Nvidia به شرکتی سنگاپوری مرتبط با جاسوس چینی سرزنش کردند.",
+      "‏سناتورها قوانین سخت‌تری برای صادرات فناوری AI به چین پیشنهاد کردند و لوتنیک را برای عدم تحریم شرکت Megaspeed تحت فشار گذاشتند.",
+      "‏جنس‌پذیر شدن این موضوع می‌تواند مسیر توسعه چیپ‌های پیشرفته و رقابت فناوری بین آمریکا و چین را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏سناتورهای دموکرات و جمهوری‌خواه مجلس سنای ایالات متحده لوتنیک، وزیر تجارت، را به دلیل فروش میلیاردها دلاری چیپ‌های پیشرفته Nvidia به شرکتی سنگاپوری به نام Megaspeed که پیشینه‌ای با جاسوس چینی دارد، سرزنش کردند. این شرکت توسط آلیس هوآنگ، مدیر ارشد پیشین، که به عنوان جاسوس چین شناخته می‌شود، اداره می‌شد و ارتباط او با نژانس جاسوسی چین باعث نگرانی‌های امنیتی شد. سناتور مارک وارنر، رئیس آینده کمیته اطلاعات سنای آمریکا، گفت که وزارت تجارت ممکن است به شرکت‌های شل چینی اجازه فروش فناوری حساس را داده باشد و خواستار پاسخگویی شد. سناتور تام کاتن، رئیس فعلی کمیته اطلاعات، اعلام کرد که قانون‌گذاری بایستی تقویت شود و لایحهٔ Chip Security Act را برای محدود کردن صادرات چیپ‌های AI پیش‌نهاد می‌کند. لوتنیک به فشارهای قبلی از سوی وزیر خزانه‌داری اسکات بسنت و وزیر امور خارجه مارکو روبی که خواستند Megaspeed در فهرست سیاه تجاری قرار گیرد، واکنش نشان نداده است. این بحث می‌تواند مسیر صادرات فناوری‌های پیشرفته آمریکا به چین را تغییر داده و تأثیر قابل‌توجهی بر بازارهای چیپ و رقابت هوش مصنوعی جهانی داشته باشد.",
+    "category": "ژئوپلیتیک و سیاست اقتصادی",
+    "subcategory": "صادرات فناوری AI",
+    "tag": "AI chips",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "The Hill · via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/lutnick-hot-seat-senators-vow-110000030.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/lutnick-hot-seat-senators-vow-110000030.html",
+    "image": "https://media.zenfs.com/en/the_hill_articles_341/5c3876d7572d5e74fd2abb4474390370.jpg_up.jpg",
+    "timestamp": 1795778527.0,
     "sent_to_telegram": true
   },
   {
@@ -330,6 +396,50 @@
     "sent_to_telegram": true
   },
   {
+    "id": "d852812028",
+    "title_fa": "‏چین در ۲۰۲۷ ذخایر نفت را پر می‌کند",
+    "title_en": "Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says",
+    "summary": [
+      "‏تحلیلگر Energy Aspect پیش‌بینی می‌کند در ۲۰۲۷ چین و دیگر کشورها برای پر کردن موجودی‌های خالی، خرید انبوه نفت انجام دهند.",
+      "‏این روند می‌تواند قیمت نفت را بالا نگه دارد، حتی اگر عرضه جهانی مازاد باشد.",
+      "‏چین همچنین ظرفیت ذخیره‌سازی خود را گسترش می‌دهد تا خریدهای ذخیره‌ای را تسهیل کند."
+    ],
+    "body_fa": "‏Energy Aspect در مصاحبه‌ای با Bloomberg TV اعلام کرد که موجودی‌های نفتی جهان به‌طور قابل‌توجهی کاهش یافته و در سال ۲۰۲۷ فشار برای پر کردن انبارها ایجاد خواهد شد. به‌نظر او، چین نقش پیشرو را در این خریدهای انبوه ایفا می‌کند، چرا که معمولاً هنگام سقوط قیمت‌ها به‌سرعت ذخیره‌سازی می‌کند و هم‌زمان ظرفیت ذخیره‌سازی خود را گسترش می‌دهد. اگرچه پیش‌بینی می‌شود بازار جهانی مازاد داشته باشد، اما پر کردن موجودی‌ها می‌تواند قیمت نفت را در سطح بالاتر نگه دارد. سن همچنین اشاره کرد که وضعیت ژئوپولیتیکی، به‌ویژه جنگ ایران، هنوز ریسک‌های عرضه را به‌طور کامل از بین نبرده و حاشیه ایمنی بازار را بسیار کم کرده است. به‌دلیل این عوامل، معامله‌گران ممکن است به‌سختی به کاهش قیمت‌ها عادت کنند و تمایل به فروش کوتاه‌مدت نفت کاهش یابد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و ذخیره‌سازی",
+    "tag": "نفت",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Stockpiling-Will-Support-Oil-Prices-in-2027-Energy-Aspects-Says.html",
+    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Stockpiling-Will-Support-Oil-Prices-in-2027-Energy-Aspects-Says.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-27_96yllghgkx.jpg",
+    "timestamp": 1795753800.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "b82dbb9279",
+    "title_fa": "‏مطالعه ۱۷۰‑ساله احتمال سقوط بزرگ بازار را ۹۷٪ می‌سنجد",
+    "title_en": "This 170-year historical study says ‘major market collapse’ is coming",
+    "summary": [
+      "‏یک مطالعه ۱۷۰‑ساله احتمال حباب مالی هوش مصنوعی را تا ۹۷٪ برآورد کرد",
+      "‏تحلیل‌گران هشدار می‌دهند که این می‌تواند به سقوط بزرگ بازار منجر شود",
+      "‏شاخص حباب در دوره‌های قبلی پیش‌بینی کاهش بازده Nasdaq را نشان داده است"
+    ],
+    "body_fa": "‏یک پژوهش جدید از مدرسه کسب‌وکار لندن و دانشگاه کمبریج بر پایه ۱۷۰ سال تاریخ مالی، احتمال حباب مالی ناشی از هوش مصنوعی را تا ۹۷٪ در سپتامبر ۲۰۲۶ می‌سنجد. این احتمال در دو مدل جایگزین حدود ۴۰٪ برآورد شد، اما همگی بالاتر از میانگین تاریخی و نزدیک به سطوح حباب اینترنت در اواخر دههٔ ۱۹۹۰ هستند. پژوهشگران با استفاده از مدل‌های زبانی بزرگ، ۷۹۶,۰۰۰ مقالهٔ The Economist از سال ۱۸۴۳ تا ۲۰۱۳ را بررسی و ۲۲ حباب تاریخی در ۱۰ کشور را شناسایی کردند. نتایج نشان می‌دهد که افزایش شاخص حباب معمولاً پیش از کاهش قابل توجه بازده Nasdaq در ۱۲ تا ۲۴ ماه آینده می‌آید. این مطالعه همچنین نشان داد که رسانه‌های مالی به‌طور متوسط احتمال سقوط را ۲۰٪ اعلام می‌کردند، در حالی که نرخ واقعی وقوع فقط ۵.۷٪ بود. بر پایهٔ این یافته‌ها، پژوهشگران خطرات ارزشی‌گذاری‌های مبتنی بر انتظارات سفارشی را به‌ویژه در سهام مرتبط با AI و زیرساخت‌های داده‌ای هشدار می‌دهند.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "تحلیل بازار",
+    "tag": "حباب AI",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
+    "clean_url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
+    "image": "https://s.yimg.com/bo/fd8bcd41-cc58-569d-89b4-5eb8c63cfc78_1795568661803.jpg",
+    "timestamp": 1795753329.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "76b5d59809",
     "title_fa": "‏رئیس ECB توکن‌سازی سپرده بانکی را بر استیبل‌کوین ترجیح می‌دهد",
     "title_en": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
@@ -371,6 +481,28 @@
     "clean_url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795748460.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7bd86684ed",
+    "title_fa": "‏پیشرفت‌های ریاضی هوش مصنوعی نگرانی‌های امنیت بیت‌کوین را زنده کرد",
+    "title_en": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+    "summary": [
+      "‏یک الگوریتم ریاضی کارآمد توسط هوش مصنوعی مطرح شد که می‌تواند کلید خصوصی بیت‌کوین را بشکند.",
+      "‏تحلیل‌گران K33 می‌گویند حتی اگر ریاضیاً مؤثر باشد، زمان لازم برای بازیابی کلید در عمل بسیار طولانی است.",
+      "‏به همین دلیل تهدید واقعی برای امنیت بیت‌کوین هنوز ثابت نشده است."
+    ],
+    "body_fa": "‏اخیراً پیشرفت‌های ریاضی در حوزه هوش مصنوعی باعث شد برخی متخصصان به امکان شکستن کلیدهای خصوصی بیت‌کوین اشاره کنند. K33 ، یک شرکت تحلیل‌گری در زمینه کریپتو، اظهار داشت که حتی اگر الگوریتمی به‌صورت نظری کارآمد باشد، زمان لازم برای استخراج کلید خصوصی در عمل بسیار طولانی خواهد بود و به‌راحتی قابل اجرا نیست. این نظر نشان می‌دهد که تهدید واقعی برای امنیت شبکه بیت‌کوین هنوز ثابت نشده است. با این حال، این بحث دوباره نگرانی‌های جامعهٔ کریپتو را دربارهٔ مقاومت بیت‌کوین در برابر حملات پیشرفتهٔ محاسباتی برانگیخته کرده است. اگر در آینده الگوریتم‌های عملیاتی شوند، ممکن است تأثیرات قابل‌توجهی بر قیمت و اعتماد به بیت‌کوین داشته باشد.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "امنیت بیت‌کوین",
+    "tag": "بیت‌کوین",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+    "clean_url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795747500.0,
     "sent_to_telegram": true
   },
   {
@@ -6464,138 +6596,6 @@
     "clean_url": "https://www.wsj.com/finance/stocks/nvidia-is-the-central-bank-to-ais-circular-economy-see-where-the-money-goes-da480b61",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795055400.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f5f0df6651",
-    "title_fa": "‏قیمت‌گذاری IPO Anthropic بازار Nasdaq را بالای ۱٪ ارتقا داد",
-    "title_en": "SNAPSHOT Nasdaq rises over 1% at open as Anthropic IPO pricing bolsters AI trade",
-    "summary": [
-      "‏آی‌پوی Anthropic با قیمت‌گذاری بالاتر از محدوده، پیش‌بینی رشد قوی بازار را تقویت کرد.",
-      "‏نتیجه‌اش، افزایش نزدیک به ۲٪ در معاملات آتی Nasdaq و بهبود احساسات نسبت به سهام‌های هوش مصنوعی شد.",
-      "‏این حرکت می‌تواند فشار خرید بر سایر شرکت‌های AI را تقویت کند."
-    ],
-    "body_fa": "‏فیوچرزهای Nasdaq در اوایل روز پنجشنبه نزدیک به ۲٪ افزایش یافتند. این رشد پس از آن بود که شرکت Anthropic ، فعال در حوزه هوش مصنوعی، قیمت‌گذاری اولیه سهام خود را بالاتر از بازه پیش‌بینی شده اعلام کرد. قیمت بالاتر IPO انتظارات بازار را برای یک عرضه موفق تقویت کرد و باعث بهبود روحیه سرمایه‌گذاران شد. به‌ویژه سهام‌های مرتبط با هوش مصنوعی که در ماه‌های اخیر تحت فشار بودند، از این خبر سود بردند. تحلیل‌گران پیش‌بینی می‌کنند این حرکت می‌تواند موج خریدی در بخش AI ایجاد کند و فشار خرید بر سایر شرکت‌های فناوری را افزایش دهد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "Anthropic",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19/",
-    "clean_url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1795050180.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "52ddda40a3",
-    "title_fa": "‏سهام Rakuten Bank پس از نشت داده‌ها 30 ٪ سقوط کرد",
-    "title_en": "[Attention] Rakuten Bank (5838) crashes! Stock price plummets 30% in just one week, hits daily limit low and updates year-to-date low! The shock of Rakuten Securities' \"up to ...",
-    "summary": [
-      "‏سهام Rakuten Bank در یک هفته 30 ٪ سقوط کرد و به 4,291 ین رسید",
-      "‏دلیل سقوط، نشت اطلاعات حدود 15.72 میلیون حساب در Rakuten Securities است که اعتماد بازار را تحت‌تأثیر قرار داد",
-      "‏همزمان، سهام گروه Rakuten نیز 7.5 ٪ افت و به پایین‌ترین سطح سه ساله رسید"
-    ],
-    "body_fa": "‏در تاریخ ۱۸ نوامبر، قیمت سهام Rakuten Bank به ۴,۲۹۱ ین رسید که معادل کاهش ۳۰٪ در یک هفته است و بزرگ‌ترین افت روزانه در بازار اصلی توکیو را رقم زد. این سقوط به دلیل نشت اطلاعات حدود ۱۵٫۷۲ میلیون حساب مشتری توسط زیرمجموعهٔ Rakuten Securities رخ داد که به‌سرعت به انتشار اخبار منجر شد. شرکت اعلام کرد دسترسی غیرمجاز به سیستم‌های تستی منجر به افشای داده‌ها شده و هنوز جزئیات کامل مشخص نیست. حجم معاملات به‌طور چشمگیری افزایش یافت و نشان داد هم سرمایه‌گذاران فردی و هم نهادی به‌سرعت سهام را فروختند. سقوط قیمت نه تنها بر Rakuten Bank بلکه بر کل گروه Rakuten تأثیر گذاشت؛ سهام گروه نیز ۷٫۵٪ کاهش یافت و به پایین‌ترین سطح سه‌سالهٔ خود رسید. این رویداد نشان می‌دهد که حتی در شرایط کلی بازار مثبت، نشت داده‌ها می‌تواند اعتماد سرمایه‌گذاران را به‌سرعت تخریب کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام ژاپن",
-    "tag": "داده‌نشت",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "note",
-    "url": "https://note.com/kabuya66/n/n20e72b146d82?hl=en",
-    "clean_url": "https://note.com/kabuya66/n/n20e72b146d82",
-    "image": "https://www.bing.com/th?id=ONUT.CZ6Cnoy8xbdsW7tW76j12g",
-    "timestamp": 1795045665.8658197,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "24f198a3a2",
-    "title_fa": "‏هک Equinor موج جدیدی از تهدیدهای سایبری انرژی است",
-    "title_en": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies | OilPrice.com",
-    "summary": [
-      "‏شرکت Equinor ، بزرگ‌ترین تأمین‌کننده گاز لوله‌ای اروپا، در حال مقابله با حمله سایبری فعال بر سیستم‌های IT خود است.",
-      "‏این حمله بخشی از افزایش ۷۰٪ حملات به زیرساخت‌های انرژی از سال ۲۰۲۴ است و می‌تواند نوسانات قیمت گاز را تشدید کند.",
-      "‏Equinor اعلام کرد تا کنون داده‌ای سرقت نشده و تولید نفت و گاز تحت تأثیر نیست، اما زمان بازگرداندن سیستم‌ها نامشخص است."
-    ],
-    "body_fa": "‏Equinor ، بزرگ‌ترین تأمین‌کننده گاز لوله‌ای اروپا، اعلام کرد که در حال مقابله با یک حمله سایبری فعال بر سامانه‌های فناوری اطلاعات خود است. این حمله، که هنوز به‌صورت ویروس‌پراکننده شناخته نشده و داده‌ای سرقت نشده، می‌تواند زمان بازگرداندن عملکردهای داخلی را به‌طور قابل‌توجهی به تعویق بیندازد. این واقعه در زمینه افزایش چشمگیر حملات سایبری به زیرساخت‌های انرژی رخ می‌دهد؛ در سال ۲۰۲۴، تعداد حملات به شرکت‌های انرژی آمریکایی ۷۰٪ افزایش یافت و حدود ۱,۷۵۵ حمله هفتگی گزارش شد. گروه‌های هکری مرتبط با روسیه و ایران در دو سال گذشته به سدهای نروژ، مزارع بادی و خورشیدی لهستان و حتی تأمین‌کنندگان زیرساخت‌های آمریکایی نفوذ کرده‌اند. اگرچه تاکنون تأثیری بر تولید نفت و گاز Equinor نداشته، اما این نوع تهدیدها می‌توانند نوسانات قیمت گاز در اروپا را تشدید کنند و نگرانی‌های امنیتی را برای بازارهای انرژی افزایش دهند.",
-    "category": "انرژی و کالا",
-    "subcategory": "حملات سایبری انرژی",
-    "tag": "سایبر",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
-    "clean_url": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
-    "image": "https://s.yimg.com/bo/20a1b5dd-04d7-5bdf-a7b2-da35bd553d62_1795044484353.jpg",
-    "timestamp": 1795042802.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bef7cf7ed9",
-    "title_fa": "‏نماینده فدرال رزرو مایکل بار پیش‌بینی می‌کند نرخ بهره افزایشی",
-    "title_en": "Fed's Barr says rate rises likely lie ahead for economy",
-    "summary": [
-      "‏نماینده فدرال رزرو مایکل بار گفت احتمال افزایش نرخ بهره در آینده نزدیک وجود دارد",
-      "‏این اظهارات می‌تواند فشار بر بازارهای مالی و ارزها ایجاد کند و انتظارات سرمایه‌گذاران را تغییر دهد",
-      "‏بار افزود که این سیاست برای کنترل تورم و حمایت از رشد اقتصادی ضروری است"
-    ],
-    "body_fa": "‏مایکل بار، نماینده فدرال رزرو، روز چهارشنبه اعلام کرد که احتمالاً در آینده نزدیک با سیاست‌های پولی سختگیرانه‌تر همراه خواهد شد و نرخ بهره را افزایش می‌دهد. او اشاره کرد که این تصمیم‌ها برای مهار تورم و حفظ ثبات اقتصادی ضروری هستند. بار گفت این دیدگاه با نظرات دیگر اعضای فدرال رزرو هم‌راستا است و ممکن است در جلسه بعدی FOMC به تصویب برسد. او همچنین تأکید کرد که هر گونه تغییر در نرخ بهره تأثیر مستقیم بر بازارهای سهام، اوراق قرضه و ارزها خواهد داشت. این اظهارات می‌تواند انتظارات سرمایه‌گذاران را نسبت به مسیر سیاست‌های پولی آمریکا بازنگری کند.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "نرخ بهره",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/feds-barr-says-rate-rises-likely-lie-ahead-economy-2026-11-18/",
-    "clean_url": "https://www.reuters.com/business/feds-barr-says-rate-rises-likely-lie-ahead-economy-2026-11-18",
-    "image": "https://s.yimg.com/bo/bf57d6b4-013f-51d3-9354-7515bf8523e3_1795027987795.jpg",
-    "timestamp": 1795027021.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "cbb42bfec0",
-    "title_fa": "‏سایپم و Subsea 7 ادغام را تا اوایل 2027 تکمیل می‌کنند",
-    "title_en": "Italy's Saipem working with Subsea 7 to complete merger in early 2027",
-    "summary": [
-      "‏سایپم و Subsea 7 برنامه‌ریزی می‌کنند تا ادغام خود را تا اوایل 2027 به پایان برسانند.",
-      "‏این ترکیب دو شرکت بزرگ خدمات نفت و گاز، می‌تواند توان offshore را تقویت کند و در بازار انرژی اروپا تأثیر بگذارد.",
-      "‏ادغام پس از دریافت تأیید ناظران مالی انجام خواهد شد."
-    ],
-    "body_fa": "‏شرکت ایتالیایی Saipem امروز اعلام کرد که با شرکت نروژی Subsea 7 در حال نهایی‌سازی برنامه ادغام دو شرکت است. دو طرف قصد دارند تا اوایل سال 2027 ادغام رسمی را تکمیل کنند. این ترکیب پس از دریافت تأیید ناظران مالی و رضایت سهامداران هر دو شرکت صورت خواهد گرفت. ادغام انتظار می‌رود توان offshore در زمینه‌های حفاری، نصب و خدمات زیرآبی را ترکیب کرده و موقعیت رقابتی هر دو را در بازار جهانی انرژی تقویت کند. تحلیل‌گران پیش‌بینی می‌کنند که این حرکت می‌تواند ارزش بازار هر دو شرکت را افزایش داده و تأثیر قابل‌توجهی بر رقبا در اروپا داشته باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "ادغام شرکت‌ها",
-    "tag": "Saipem",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/italys-saipem-working-with-subsea-7-complete-merger-early-2027-2026-11-18/",
-    "clean_url": "https://www.reuters.com/business/energy/italys-saipem-working-with-subsea-7-complete-merger-early-2027-2026-11-18",
-    "image": "https://s.yimg.com/bo/191ce5ac-667c-588f-8590-f9995711a191_1790251711827.jpg",
-    "timestamp": 1795025004.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "f187147e23",
-    "title_fa": "‏وزارت‌مجلس موزامبیک طرح تجدیدنظر شده پروژه LNG رووما را تأیید کرد",
-    "title_en": "Mozambique Approves Exxon’s Redesigned $30 Billion Rovuma LNG Plan | OilPrice.co...",
-    "summary": [
-      "‏وزارت‌مجلس موزامبیک برنامه تجدیدنظر شده پروژه LNG رووما با ظرفیت ۱۸.۶ میلیون تن در سال را تصویب کرد.",
-      "‏این تصمیم هزینه پروژه را کاهش و انتشار گازها را ۴۰٪ کم می‌کند، و می‌تواند ۱۲۱ میلیارد دلار درآمد برای کشور فراهم کند.",
-      "‏پروژه که هزینه‌اش نزدیک به ۳۰ میلیارد دلار است، حدود ۱۰٪ عرضه جهانی LNG را پوشش می‌دهد."
-    ],
-    "body_fa": "‏وزارت‌مجلس موزامبیک روز سه‌شنبه برنامه تجدیدنظر شده پروژه LNG رووما را که توسط ExxonMobil توسعه می‌شود، تصویب کرد. طرح جدید با استفاده از ماژول‌های پردازش گاز طبیعی الکتریکی هزینه‌های ساخت را کاهش می‌دهد و ظرفیت کارخانه روی‌ساحلی را از ۱۵.۲ به ۱۸.۶ میلیون تن در سال ارتقا می‌دهد. برآورد استاندارد بانک نشان می‌دهد هزینه کل پروژه نزدیک به ۳۰ میلیارد دلار است که آن را بزرگ‌ترین توسعه داخلی موزامبیک می‌سازد. موسسه ملی نفت موزامبیک انتظار دارد بازطراحی طرح انتشار گازها را حدود ۴۰٪ کاهش دهد و در طول ۲۵ سال تولید، حدود ۱۲۱ میلیارد دلار درآمد برای دولت به ارمغان آورد. ۲۵٪ گاز تولیدی برای تأمین نیازهای داخلی کشور اختصاص می‌یابد. این پروژه پس از توافق ExxonMobil برای افزایش سهم خود به ۵۰٪ از طریق تعویض دارایی با Eni ، می‌تواند در اوایل دههٔ ۲۰۳۰ به بهره‌برداری برسد. با توجه به افزایش تقاضای جهانی LNG و تحریم‌های مرتبط با اوکراین و ایران، افزودن تقریباً ۱۰٪ به عرضه جهانی می‌تواند نقش مهمی در بازار انرژی بین‌المللی داشته باشد.",
-    "category": "انرژی و کالا",
-    "subcategory": "پروژه LNG",
-    "tag": "Rovuma",
-    "urgency": 8,
-    "iran_relevant": false,
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Mozambique-Approves-Exxons-Redesigned-30-Billion-Rovuma-LNG-Plan.html",
-    "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Mozambique-Approves-Exxons-Redesigned-30-Billion-Rovuma-LNG-Plan.html",
-    "image": "https://s.yimg.com/bo/451c2372-97a8-54bc-8007-68d2256e15d3_1795024558038.jpg",
-    "timestamp": 1795023025.0,
     "sent_to_telegram": true
   }
 ]
