@@ -1,5 +1,71 @@
 [
   {
+    "id": "ea3d906ec7",
+    "title_fa": "‏نتانیاهو برای حفظ قدرت، از رقیب درخواست اتحاد کرد",
+    "title_en": "At risk of losing power, Netanyahu makes long-shot unity appeal to rival...",
+    "summary": [
+      "‏نتانیاهو گفت حاضر است نقش خود را واگذار کند تا دولت ائتلافی با رقیب سیاسی‌اش شکل گیرد.",
+      "‏این گام می‌تواند مانع از سقوط دولت او شود و ثبات سیاسی و امنیت منطقه‌ای را تقویت کند.",
+      "‏رقیب مورد نظر احتمالاً بنی گانتس یا یائور لاپید است که در مذاکرات ائتلافی حضور دارند."
+    ],
+    "body_fa": "‏اسرائیل در روز شنبه، پس از نتایج انتخابات که نتانیاهو را در معرض خطر از دست دادن نخست‌وزیری قرار داد، اعلام کرد که مایل به واگذاری برخی از مسئولیت‌های خود است. وی به رقیب سیاسی‌اش، که احتمالاً بنی گانتس یا یائور لاپید است، پیشنهاد داد تا در یک دولت ائتلافی همکاری کنند. این پیشنهاد در حالی مطرح شد که ترکیب کنگره‌های پارلمانی به وضوح نتانیاهو را به یک اکثریت ضعیف محدود کرده است. تشکیل ائتلاف می‌تواند به حفظ ثبات داخلی و ادامه سیاست‌های امنیتی اسرائیل، به ویژه در قبال ایران، کمک کند. همچنین، این حرکت می‌تواند روابط اسرائیل با ایالات متحده و دیگر متحدان را تحت تأثیر قرار دهد. اگر مذاکرات موفق باشد، احتمالاً انتخابات مجدد یا انتخابات زودهنگام به تعویق خواهد افتاد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "حکومت ائتلافی",
+    "tag": "نتانیاهو",
+    "urgency": 5,
+    "iran_relevant": true,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/risk-losing-power-netanyahu-makes-long-shot-unity-appeal-rival-eisenkot-2026-11-28/",
+    "clean_url": "https://www.reuters.com/world/middle-east/risk-losing-power-netanyahu-makes-long-shot-unity-appeal-rival-eisenkot-2026-11-28",
+    "image": "https://s.yimg.com/bo/921c35aa-8f85-594c-8624-851b5a505284_1795887224033.jpg",
+    "timestamp": 1795886482.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "e2e3915576",
+    "title_fa": "‏دپارتمان بازنشستگی بریتانیا هدف حمله سایبری شد",
+    "title_en": "UK pensions department says it was targeted in cyberattack",
+    "summary": [
+      "‏دپارتمان بازنشستگی و پرداخت‌های رفاهی بریتانیا اعلام کرد که مورد حمله سایبری قرار گرفته است",
+      "‏این رخداد می‌تواند امنیت داده‌های بازنشستگان و عملکرد سامانه‌های پرداخت را به خطر اندازد",
+      "‏وزارت دیجیتال‌اقتصاد در حال بررسی و تقویت تدابیر دفاعی است"
+    ],
+    "body_fa": "‏دپارتمان بازنشستگی و پرداخت‌های رفاهی بریتانیا (Department for Work and Pensions) روز شنبه اعلام کرد که سامانه‌های آن تحت یک حمله سایبری قرار گرفته‌اند. این سازمان گفت که هنوز شواهدی از نفوذ به داده‌های شخصی بازنشستگان پیدا نشده، اما به‌سرعت با مرکز ملی امنیت سایبری (National Cyber Security Centre) برای ارزیابی خسارات همکاری می‌کند. مسئولان این دپارتمان تأکید کردند که خدمات پرداختی به‌صورت موقت تحت نظارت بیشتری قرار گرفته و اقدامات حفاظتی برای جلوگیری از تکرار حمله اتخاذ شده است. این حادثه نشان‌دهنده افزایش تهدیدات سایبری علیه زیرساخت‌های حیاتی دولتی است و ممکن است نگرانی‌های عمومی درباره امنیت اطلاعات مالی را برانگیزد.",
+    "category": "تکنولوژی",
+    "subcategory": "حملات سایبری",
+    "tag": "حمله‌سایبری",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/uk-pensions-department-says-it-was-targeted-cyberattack-2026-11-28/",
+    "clean_url": "https://www.reuters.com/business/finance/uk-pensions-department-says-it-was-targeted-cyberattack-2026-11-28",
+    "image": "https://s.yimg.com/bo/f02269f0-b329-5e77-a31d-69c569fb5b10_1795788425373.jpg",
+    "timestamp": 1795884502.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "5f32e125b2",
+    "title_fa": "‏سااب سوئد سفارش رادار ۴۵۰ میلیون یورویی اوکراین را دریافت کرد",
+    "title_en": "Sweden's Saab lands $492 million radar order from Ukraine",
+    "summary": [
+      "‏سااب سوئد سفارش رادار به ارزش ۴۵۰ میلیون یورو از اوکراین دریافت کرد",
+      "‏این معامله بزرگ نشان‌دهنده حمایت نظامی غرب از اوکراین در مقابل روسیه است",
+      "‏سفارش شامل سیستم‌های رادار Giraffe برای تقویت دفاع هوایی اوکراین است"
+    ],
+    "body_fa": "‏شرکت سوئدی سازنده تجهیزات نظامی Saab اعلام کرد که سفارشی به ارزش ۴۵۰ میلیون یورو (حدود ۴۹۲ میلیون دلار) برای سیستم‌های رادار از اوکراین دریافت کرده است. این سفارش شامل چندین واحد رادار Giraffe می‌شود که برای ارتقای توان دفاع هوایی اوکراین در برابر تهدیدات هوایی روسیه استفاده خواهد شد. معامله نشان‌دهنده ادامه حمایت نظامی غرب از اوکراین و تقویت توان دفاعی این کشور است. به گزارش‌ها، تحویل این تجهیزات در ماه‌های آینده آغاز خواهد شد و می‌تواند نقش مهمی در بهبود آگاهی موقعیتی و شناسایی تهدیدات هوایی اوکراین ایفا کند.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "فروش تجهیزات نظامی",
+    "tag": "رادار",
+    "urgency": 7,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/swedens-saab-lands-492-million-radar-order-ukraine-2026-11-28/",
+    "clean_url": "https://www.reuters.com/business/aerospace-defense/swedens-saab-lands-492-million-radar-order-ukraine-2026-11-28",
+    "image": "https://s.yimg.com/bo/ddfe0df1-7c59-5b09-9e20-1b40d2906e2d_1795885001064.jpg",
+    "timestamp": 1795884502.0,
+    "sent_to_telegram": true
+  },
+  {
     "id": "100e6dcb5f",
     "title_fa": "‏کاستاریکا کارشناس ویژه ملل را به اتهام تروریسم بازداشت کرد",
     "title_en": "Costa Rica Detains Francesca Albanese Over ‘Links To Terrorist Acts’",
@@ -41,6 +107,116 @@
     "clean_url": "https://www.reuters.com/world/europe/live-spain-election-results-2026-11-28",
     "image": "https://s.yimg.com/bo/9a5fc820-b00d-512a-885c-09545c7d0fe0_1795874568769.jpg",
     "timestamp": 1795873831.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "6b49bc643c",
+    "title_fa": "‏اتحادیه‌های فرودگاه پاریس پیش از کریسمس برای دستمزدها اعتصاب می‌کنند",
+    "title_en": "Paris Airport Unions Call for Strike Before Christmas Over Pay",
+    "summary": [
+      "‏اتحادیه‌های کارگری فرودگاه‌های پاریس اعلام کردند که پیش از کریسمس برای افزایش دستمزدها اعتصاب می‌کنند.",
+      "‏این اقدام می‌تواند سفرهای هوایی را مختل کرده و فشار بر سهام شرکت‌های هواپیمایی و خدمات فرودگاهی وارد کند.",
+      "‏اعتصاب ممکن است چند روز ادامه یابد و ترافیک مسافران در تعطیلات را تحت تأثیر قرار دهد."
+    ],
+    "body_fa": "‏اتحادیه‌های کارگری در فرودگاه‌های پاریس تصمیم گرفته‌اند که پیش از تعطیلات کریسمس برای مطالبه افزایش دستمزدها به اعتصاب بپردازند. این اقدام پس از مذاکرات ناموفق با کارفرمایان صورت گرفته و هدف آن فشار بر شرکت‌های هواپیمایی برای پذیرش شرایط جدید است. اگر اعتصاب اجرا شود، احتمالاً پروازهای داخلی و بین‌المللی به‌طور قابل‌توجهی کاهش می‌یابد و مسافران مجبور به تغییر برنامه‌های سفر خود می‌شوند. این اختلال می‌تواند بر سودآوری شرکت‌های هواپیمایی و سرویس‌های فرودگاهی تأثیر منفی بگذارد و در بازارهای مالی واکنش‌های منفی ایجاد کند. همچنین، تعطیلات کریسمس که معمولاً با تقاضای بالای سفر همراه است، ممکن است تحت فشار جدی قرار گیرد.",
+    "category": "اقتصاد و بازار",
+    "subcategory": "اعتصاب کارگری",
+    "tag": "اعتصاب",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/paris-airport-unions-call-for-strike-before-christmas-over-pay",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-28/paris-airport-unions-call-for-strike-before-christmas-over-pay",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795854420.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "9dfb9df7be",
+    "title_fa": "‏اوکراین نفت‌پالای نووشاختینسک در روسیه را هدف گرفت",
+    "title_en": "Ukraine Says It Hit Novoshakhtinsk Refinery in Southern Russia",
+    "summary": [
+      "‏اوکراین ادعا کرد که پالای نفتی نووشاختینسک در جنوب روسیه را مورد حمله قرار داد",
+      "‏این حمله می‌تواند تولید نفت روسیه را مختل کند و بر قیمت جهانی نفت تاثیر بگذارد",
+      "‏پالای در منطقه صنعتی نووشاختینسک، نزدیک به خطوط لوله مهم، قرار دارد"
+    ],
+    "body_fa": "‏اوکراین اعلام کرد که به پالای نفتی نووشاختینسک در جنوب روسیه حمله کرده است. این پالای بخشی از زیرساخت‌های مهم تولید نفت روسیه است و آسیب به آن می‌تواند خروجی نفت این کشور را کاهش دهد. کاهش عرضه روسیه می‌تواند فشار افزایشی بر قیمت جهانی نفت وارد کند و بازارهای انرژی را ناآرام سازد. در واکنش، مسکو ممکن است اقدامات تلافی‌جویانه‌ای در برابر زیرساخت‌های انرژی اوکراین یا کشورهای هم‌پیمانش انجام دهد. این رخداد نشان می‌دهد که جنگ در حال گسترش به حوزه‌های اقتصادی و انرژی است و می‌تواند تأثیرات گسترده‌ای بر تجارت نفت بین‌المللی داشته باشد.",
+    "category": "انرژی و کالا",
+    "subcategory": "نفت و گاز",
+    "tag": "نقش‌گیری",
+    "urgency": 6,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/ukraine-says-it-hit-novoshakhtinsk-refinery-in-southern-russia",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-28/ukraine-says-it-hit-novoshakhtinsk-refinery-in-southern-russia",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795853940.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "403115168b",
+    "title_fa": "‏چانگ‌پنگ ژائو می‌گوید سریال Netflix The Altruists توهین‌آمیز است",
+    "title_en": "CZ says Netflix's 'The Altruists' is 'basically defamation,' says he is talking to lawyers",
+    "summary": [
+      "‏CZ در Binance Blockchain Week گفت سریال Netflix The Altruists او را به‌عنوان خلافکار نشان می‌دهد",
+      "‏او ادعا کرد این توهین است و برای دفاع به وکلای خود مراجعه کرده",
+      "‏همچنین اشاره کرد این موضوع ممکن است فشار برای عفو سام بنکمن‑فرید را نشان دهد"
+    ],
+    "body_fa": "‏در طول Binance Blockchain Week ، بنیان‌گذار Binance ، چانگ‌پنگ ژائو (CZ) به خبرنگار The Block گفت سریال مستند Netflix با عنوان The Altruists به‌صورت اساسی به او توهین می‌کند و او را به‌عنوان شخصیت منفی در درامای FTX نشان می‌دهد. او افزود که این توهین قانونی است و در حال مشورت با وکلای خود برای اقدامات قانونی می‌باشد. ژائو همچنین اشاره کرد که این روایت ممکن است نشانگر فشارهای سیاسی برای درخواست عفو سام بنکمن‑فرید، بنیان‌گذار سقوط‌پذیر FTX ، باشد. این اظهارات می‌تواند بر تصویر عمومی Binance و روابط قانونی آن با مقامات نظارتی تأثیر بگذارد. در عین حال، واکنش‌های بازار به این خبر تا کنون محدود بوده و هنوز نشانه‌ای از تغییر قیمت‌های رمزارزها دیده نشده.",
+    "category": "کریپتو و بلاکچین",
+    "subcategory": "بیانیه‌سازان و رسانه",
+    "tag": "CZ",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-11-28-cz-says-netflixs-the-altruists-is-basically-defamation-says-he-is-talking-to-lawyers-447599",
+    "clean_url": "https://www.theblock.co/news/business/2026-11-28-cz-says-netflixs-the-altruists-is-basically-defamation-says-he-is-talking-to-lawyers-447599",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795850160.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "7361cad47b",
+    "title_fa": "‏غزه مراسم تشییع جنازه کارمند MSF را برگزار کرد",
+    "title_en": "Gazans mourn MSF staff killed in Israeli strike outside charity clinic",
+    "summary": [
+      "‏غزه روز شنبه مراسم تشییع جنازه کارمند Medecins Sans Frontieres را پس از حمله اسرائیلی برگزار کرد.",
+      "‏این قتل می‌تواند فشار بین‌المللی برای محافظت از پرسنل بشردوستانه و ادامه کمک‌های انسانی را افزایش دهد.",
+      "‏دو نگهبان دیگر نیز در همان حمله کشته شدند."
+    ],
+    "body_fa": "‏در روز شنبه، ساکنان غزه مراسم تشییع جنازه یکی از کارکنان سازمان پزشکی بدون مرز (MSF) را برگزار کردند. این فرد جز دو نگهبانی بود که در حمله هوایی اسرائیلی به‌محل یک کلینیک خیریه کشته شدند. MSF اعلام کرد که پرسنل خود را در مناطق جنگی به‌صورت غیرنظامی می‌فرستد و از هدف قرار گرفتن آنها ابراز نگرانی کرد. ارتش اسرائیل ادعا کرد هدف حمله گروه‌های مسلح بود و تلافی‌جویی می‌کند. این حادثه در میانهٔ بحران انسانی گسترده در نوار غزه رخ داد و احتمالاً واکنش‌های بین‌المللی بیشتری نسبت به امنیت پرسنل بشردوستانه به‌وجود می‌آورد.",
+    "category": "سیاست مهم جهانی",
+    "subcategory": "قضایای انسانی",
+    "tag": "غزه",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Reuters",
+    "url": "https://www.reuters.com/video/watch/idRW189428112026RP1/",
+    "clean_url": "https://www.reuters.com/video/watch/idRW189428112026RP1",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795848300.0,
+    "sent_to_telegram": true
+  },
+  {
+    "id": "8a084f66bb",
+    "title_fa": "‏رای‌دهندگان تایوان به احیای انرژی هسته‌ای در همه‌پرسی حمایت کردند",
+    "title_en": "Taiwan Voters Back Nuclear Revival in Referendum to End Phaseout",
+    "summary": [
+      "‏در همه‌پرسی اخیر، مردم تایوان تصمیم به ادامه برنامه هسته‌ای گرفتند.",
+      "‏این تصمیم می‌تواند مسیر انرژی کشور را تغییر داده و به کاهش وابستگی به سوخت‌های فسیلی کمک کند.",
+      "‏نتیجه‌گیری نشان می‌دهد حمایت عمومی از انرژی هسته‌ای در حال رشد است."
+    ],
+    "body_fa": "‏در یک همه‌پرسی ملی، رای‌دهندگان تایوان با اکثریت آرا به ادامه برنامه احیای نیروگاه‌های هسته‌ای که پیشتر برنامه‌ریزی برای حذف آن‌ها بود، رأی دادند. این گام نشان می‌دهد که دولت تحت فشار عمومی برای تأمین امنیت انرژی و کاهش وابستگی به واردات سوخت‌های فسیلی اقدام می‌کند. بازگشت به هسته‌ای می‌تواند به تثبیت عرضه برق داخلی کمک کرده و تأثیراتی بر بازارهای انرژی منطقه‌ای داشته باشد، هرچند اثر مستقیم آن بر بازارهای جهانی محدود است. تصمیم مردم ممکن است فشار بر سیاست‌گذاران برای تدوین چارچوب‌های نظارتی جدید و سرمایه‌گذاری در فناوری‌های ایمنی هسته‌ای ایجاد کند.",
+    "category": "انرژی و کالا",
+    "subcategory": "انرژی هسته‌ای",
+    "tag": "هسته‌ای",
+    "urgency": 5,
+    "iran_relevant": false,
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/taiwan-voters-back-nuclear-revival-in-referendum-to-end-phaseout",
+    "clean_url": "https://www.bloomberg.com/news/articles/2026-11-28/taiwan-voters-back-nuclear-revival-in-referendum-to-end-phaseout",
+    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795846380.0,
     "sent_to_telegram": true
   },
   {
@@ -6420,182 +6596,6 @@
     "clean_url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108361251-1789053511534-gettyimages-2290360646-TSCHNEIDER_69387_Payward_P8731285.jpeg?v=1789053537&w=1920&h=1080",
     "timestamp": 1795086360.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "66db2264ca",
-    "title_fa": "‏مقامات فدرال آمریکا گسترش LNG سابین‌پاس چنیره را تأیید کردند",
-    "title_en": "US federal regulators approve Cheniere's Sabine Pass expansion project",
-    "summary": [
-      "‏مقامات فدرال آمریکا درخواست چنیره انرژی برای افزودن 20 میلیون تن LNG سالانه به کارخانه سابین‌پاس در لوئیزیانا را تصویب کردند",
-      "‏این گسترش ظرفیت می‌تواند عرضه گاز مایع آمریکا را افزایش داده و بر بازارهای جهانی، به‌ویژه اروپا، تأثیر بگذارد",
-      "‏پروژه انتظار می‌رود تا سال 2029 به بهره‌برداری برسد"
-    ],
-    "body_fa": "‏مقامات فدرال ایالات متحده درخواست چنیره انرژی برای گسترش کارخانه مایع‌سازی گاز طبیعی (LNG) سابین‌پاس در لوئیزیانا را تأیید کردند. این گسترش به اضافه‌کردن 20 میلیون تن متریک در سال به ظرفیت خروجی این واحد می‌انجامد. با این افزایش، توان خروجی کل LNG آمریکا به حدود 100 میلیون تن در سال نزدیک می‌شود. افزایش عرضه گاز مایع می‌تواند نقش آمریکا را در تأمین انرژی اروپا، به‌ویژه پس از کاهش گاز روسیه، تقویت کند. تحلیل‌گران پیش‌بینی می‌کنند این پروژه تا سال 2029 به بهره‌برداری برسد و سرمایه‌گذاری چند میلیارد دلاری جذب کند.",
-    "category": "انرژی و کالا",
-    "subcategory": "صنعت گاز",
-    "tag": "LNG",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/federal-regulators-approve-chenieres-sabine-pass-expansion-project-2026-11-19/",
-    "clean_url": "https://www.reuters.com/legal/litigation/federal-regulators-approve-chenieres-sabine-pass-expansion-project-2026-11-19",
-    "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1795085700.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2ac361507f",
-    "title_fa": "‏برنامه‌های عرضه ETF درآمدی برای Solana و XRP لغو شد",
-    "title_en": "Solana and XRP income ETFs shelved as rival funds attract just $12 million",
-    "summary": [
-      "‏شرکت Roundhill برنامه‌های خود برای راه‌اندازی دو صندوق درآمدزا مبتنی بر SOL و XRP را پس گرفت.",
-      "‏صندوق‌های مشابه رقیب تنها توانسته‌اند حدود 12 میلیون دلار سرمایه جذب کنند که نشان‌دهنده تقاضای بسیار ضعیف بازار است.",
-      "‏این تصمیم تردیدها درباره جذابیت محصولات درآمدی بر پایه آلت‌کوین‌ها را افزایش داده است."
-    ],
-    "body_fa": "‏شرکت مدیریت دارایی Roundhill برنامه‌های خود برای عرضه دو صندوق قابل معامله درآمدزا بر پایه ارزهای دیجیتال SOL و XRP را لغو کرده است. این تصمیم در شرایطی گرفته شده که صندوق‌های مشابه شرکت‌های رقیب در مجموع تنها موفق به جذب 12 میلیون دلار سرمایه شده‌اند. این استقبال سرد سرمایه‌گذاران نشان می‌دهد که تقاضا برای محصولات مشتقه و استراتژی‌های درآمدی روی آلت‌کوین‌ها بسیار کمتر از حد انتظار است. در حالی که صندوق‌های نقدی اصلی بازار توجه زیادی جلب کرده‌اند، ابزارهای مالی پیچیده‌تر با ریسک بالا نتوانسته‌اند جایگاه مناسبی در میان معامله‌گران نهادی پیدا کنند.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "صندوق‌های ETF کریپتو",
-    "tag": "ETF",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-    "clean_url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-    "image": "https://s.yimg.com/bo/dfe5bc19-64d0-5a5f-9d76-1ef2be597eb2_1795086001329.jpg",
-    "timestamp": 1795085473.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "3d77a55ecd",
-    "title_fa": "‏کامپیوترهای کوانتومی می‌توانند رمزنگاری مالی را در پنج سال بشکنند",
-    "title_en": "‘Highly advanced’ quantum computers could crack financial encryption in five yea...",
-    "summary": [
-      "‏کامپیوترهای کوانتومی قادر به شکستن رمزنگاری مالی در پنج سال آینده هستند.",
-      "‏این تهدید امنیت بلاکچین‌های غیرمتمرکز را به چالش می‌کشد و نیاز به روش‌های جدید حفاظت را ایجاد می‌کند.",
-      "‏توسعه‌دهندگان در حال بحث درباره مهاجرت به الگوریتم‌های مقاوم در برابر کوانتوم هستند."
-    ],
-    "body_fa": "‏تحقیقات اخیر نشان می‌دهد که در حدود پنج سال آینده کامپیوترهای کوانتومی به توانایی اجرای الگوریتم شُر برای شکستن کلیدهای RSA و ECC می‌رسند. این الگوریتم‌ها پایهٔ اکثر رمزنگاری‌های مالی و بلاکچین‌های امروز هستند، بنابراین اگر به‌سرعت پیشرفت کنند، امنیت دارایی‌های دیجیتال به خطر می‌افتد. جامعهٔ توسعه‌دهندگان بلاکچین به‌سرعت به بررسی الگوریتم‌های پساکوانتومی مانند امضای مبتنی بر شبکه‌های لاطی می‌پردازند و دربارهٔ مسیر مهاجرت و هزینه‌های فنی آن بحث می‌کنند. برخی پروژه‌ها پیش‌ازاین نسخه‌های آزمایشی این الگوریتم‌ها را روی زنجیره‌های تستی پیاده‌سازی کرده‌اند. اگر این تهدید به‌سرعت تحقق یابد، ممکن است فشار برای ارتقای زیرساخت‌های امنیتی و حتی ایجاد فورک‌های اضطراری در برخی شبکه‌ها افزایش یابد. با این حال، زمان‌بندی دقیق و میزان تأثیر بر بازارهای مالی هنوز نامشخص است.",
-    "category": "کریپتو و بلاکچین",
-    "subcategory": "امنیت کوانتومی",
-    "tag": "quantum",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
-    "clean_url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
-    "image": "https://s.yimg.com/bo/9ae5d5fd-9e12-5285-9db8-c918d9c557b8_1795086577990.jpg",
-    "timestamp": 1795084872.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "2274e90bb9",
-    "title_fa": "‏سهام غول‌های فناوری توسط حساب‌های سرمایه‌گذاری Donald Trump خریداری شد",
-    "title_en": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-    "summary": [
-      "‏گزارش‌های مالی جدید نشان می‌دهد حساب‌های Donald Trump در ماه سپتامبر سهام Nvidia ، Palantir و SpaceX را خریده‌اند.",
-      "‏این معاملات هم‌زمان با عقد قراردادهای دولتی بزرگ توسط این شرکت‌ها انجام شده و بحث تعارض منافع را داغ کرده است.",
-      "‏کاخ سفید اعلام کرد این سبد دارایی به‌صورت کاملاً مستقل و بدون دخالت مستقیم رئیس‌جمهور مدیریت می‌شود."
-    ],
-    "body_fa": "‏اسناد مالی جدید نشان می‌دهند که حساب‌های سرمایه‌گذاری Donald Trump در ماه سپتامبر اقدام به خرید سهام شرکت‌های Nvidia ، Palantir و SpaceX کرده‌اند. این معاملات در دوره‌ای انجام شده که شرکت‌های مذکور در حال بستن قراردادهای بزرگ با دولت فدرال بودند و مدیران آن‌ها نیز دیدارهایی با رئیس‌جمهور داشتند. طبق گزارش ۲۵ صفحه‌ای منتشرشده، صدها معامله به ارزش کل بین 40.9 میلیون تا 148.1 میلیون دلار در این حساب‌ها ثبت شده است. این سرمایه‌گذاری‌ها توجه زیادی را به موضوع تعارض احتمالی منافع جلب کرده، زیرا رؤسای جمهور معمولاً دارایی‌های خود را واگذار می‌کردند یا در صندوق‌های امانی کور قرار می‌دادند. با این حال، کاخ سفید تأکید کرده که پورتفوی مالی رئیس‌جمهور کاملاً مستقل اداره می‌شود و شخص او نقشی در تصمیم‌گیری‌های معاملاتی ندارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سرمایه‌گذاری و بازار سهام",
-    "tag": "Donald Trump",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-    "clean_url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108552979-1794919207940-gettyimages-2305517071-wm017388_zrti7lai.jpeg?v=1794935003&w=1920&h=1080",
-    "timestamp": 1795082280.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "a09b23533b",
-    "title_fa": "‏سهام AMD پس از گزارش فروش کوتاه‌فروش 11 ٪ سقوط کرد",
-    "title_en": "AMD stock plunges after short-seller says the chip maker has its own China problems",
-    "summary": [
-      "‏سهام AMD تا 11 ٪ کاهش یافت پس از آن‌که فروش کوتاه‌فروش Hunterbrook ادعای روابط با شرکت چینی IEIT Systems را مطرح کرد",
-      "‏این ادعاها نگرانی‌های جدیدی دربارهٔ ریسک تحریم‌های صادراتی آمریکا به چین و رشد AI برای AMD ایجاد کرد",
-      "‏AMD رد این ادعاها را اعلام کرد و تأکید کرد که قوانین صادراتی آمریکا را رعایت می‌کند"
-    ],
-    "body_fa": "‏در روز پنجشنبه، سهام AMD پس از انتشار گزارش فروش کوتاه‌فروش Hunterbrook که شرکت را به داشتن کدهای داخلی در به‌روزرسانی نرم‌افزاری یک شرکت چینی تحریم‌شده (IEIT Systems) متهم کرد، تا 11 ٪ سقوط کرد. گزارش می‌گوید فایل به‌روزرسانی 19 اکتبر 2026 شامل کدهای firmware نوشته شده توسط AMD بوده و این شرکت نیز با Aivres ، یکی از بخش‌های شبکه تجاری چین Nvidia ، ارتباط دارد. این خبر در حالی منتشر شد که مدیرعامل Nvidia ، Jensen Huang ، به دلیل رسوایی‌های شخصی و روابط مشکوک با چین استعفا داده بود و سایر فروش کوتاه‌فروش‌ها نیز به ریسک‌های مشابه اشاره کرده‌اند. هر دو شرکت AMD و Nvidia با تهدید محدودیت‌های صادراتی سخت‌گیرانه‌ای که ممکن است از ژانویه اجرا شود، مواجه‌اند. AMD در بیانیه‌ای به Business Insider گفت که این ادعاها نادرست هستند و شرکت تمام قوانین صادراتی آمریکا را رعایت می‌کند. این سقوط سهام نشان می‌دهد که نگرانی‌های مرتبط با چین می‌تواند به سرعت بر ارزش بازار شرکت‌های فناوری آمریکایی تأثیر بگذارد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "بازار سهام",
-    "tag": "AMD",
-    "urgency": 7,
-    "iran_relevant": false,
-    "source": "Insider",
-    "url": "https://www.businessinsider.com/amd-stock-short-seller-hunterbrook-china-nvda-2026-11",
-    "clean_url": "https://www.businessinsider.com/amd-stock-short-seller-hunterbrook-china-nvda-2026-11",
-    "image": "https://i.insider.com/6aff25e073f126f9eccb85ad?width=1200&format=jpeg",
-    "timestamp": 1795081920.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "edcffe6675",
-    "title_fa": "‏IEA: ۴۰ میلیارد خط لوله، وابستگی به هرمز حفظ می‌شود",
-    "title_en": "IEA says $40bn spent on pipelines will not end Gulf's Strait of Hormuz dependence",
-    "summary": [
-      "‏IEA اعلام کرد ۴۰ میلیارد دلار برای ساخت خطوط لوله صرف می‌شود اما این پروژه‌ها وابستگی خلیج فارس به تنگه هرمز را از بین نمی‌برند.",
-      "‏این مسیرهای جدید می‌توانند ظرفیت صادرات تا ۷ میلیون بشکه در روز اضافه کنند، اما ریسک ناپایداری منطقه‌ای همچنان بر بازارهای انرژی اثرگذار است.",
-      "‏این وضعیت برای ایران که بزرگ‌ترین صادرکننده نفت خلیج است، خطرات ژئوپولیتیکی بیشتری به همراه دارد."
-    ],
-    "body_fa": "‏IEA هشدار داد که با صرف ۴۰ میلیارد دلار برای ساخت خطوط لوله جدید در خلیج فارس، وابستگی منطقه به تنگه هرمز کاهش نمی‌یابد. این پروژه‌ها می‌توانند ظرفیت صادرات نفت و گاز را تا حدود ۷ میلیون بشکه در روز افزایش دهند. اما به دلیل ناپایداری سیاسی و امنیتی خلیج، حمل و نقل انرژی همچنان در معرض خطرات جدی خواهد بود. IEA به این نکته اشاره کرد که هرچند مسیرهای زمینی می‌توانند فشار بر تنگه را کم کنند، اما نمی‌توانند ریسک‌های ژئوپولیتیکی را از بین ببرند. این امر می‌تواند بر قیمت جهانی نفت و تصمیمات سرمایه‌گذاران در بازار انرژی تأثیر بگذارد. برای ایران، که یکی از بزرگ‌ترین صادرکنندگان نفت از این مسیر است، این ادامه وابستگی به هرمز به معنای ریسک‌های اقتصادی و سیاسی بیشتر است.",
-    "category": "انرژی و کالا",
-    "subcategory": "نفت و گاز",
-    "tag": "هرمز",
-    "urgency": 6,
-    "iran_relevant": true,
-    "source": "The National",
-    "url": "https://www.msn.com/en-ae/money/news/iea-says-40bn-spent-on-pipelines-will-not-end-gulf-s-strait-of-hormuz-dependence/ar-AA2hL0ZH",
-    "clean_url": "https://www.msn.com/en-ae/money/news/iea-says-40bn-spent-on-pipelines-will-not-end-gulf-s-strait-of-hormuz-dependence/ar-AA2hL0ZH",
-    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hL3QX.img?w=4207&h=2805&m=4&q=80",
-    "timestamp": 1795079797.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "8e43c2c7d1",
-    "title_fa": "‏دقیقه‌های فدرال‌رزرو حمایت از افزایش نرخ بهره را نشان داد",
-    "title_en": "Fed minutes show broad support for more rate hikes",
-    "summary": [
-      "‏دقیقه‌های جلسه اکتبر فدرال‌رزرو نشان دادند تقریباً تمام سیاست‌گذاران افزایش نرخ بهره را مناسب می‌دانند.",
-      "‏این سیگنال می‌تواند فشار بر بازارهای مالی و ارزها ایجاد کند و احتمال ادامه سیاست سختگیرانه را تقویت کند.",
-      "‏بازارهای سهام ممکن است به‌سرعت واکنش نشان دهند."
-    ],
-    "body_fa": "‏دقیقه‌های جلسه اکتبر فدرال‌رزرو منتشر شد و نشان داد تقریباً تمام اعضای کمیته سیاست‌گذاری پولی بر این باورند که افزایش‌های بیشتری در نرخ بهره لازم است. این دیدگاه گسترده نشان می‌دهد که فدرال‌رزرو هنوز تمایلی به کاهش نرخ بهره در کوتاه‌مدت ندارد. چنین سیگنالی می‌تواند باعث افزایش نوسان در بازارهای سهام، اوراق قرضه و ارزهای اصلی شود. سرمایه‌گذاران ممکن است به‌دنبال کاهش قیمت اوراق قرضه و تقویت دلار آمریکا باشند. در صورت ادامه این روند، فشار بر اقتصادهای نوظهور و هزینه‌های استقراض جهانی افزایش می‌یابد.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "سیاست پولی",
-    "tag": "نرخ بهره",
-    "urgency": 6,
-    "iran_relevant": false,
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/11/19/interest-rates-ai-fed-october",
-    "clean_url": "https://www.axios.com/2026/11/19/interest-rates-ai-fed-october",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1795079640.0,
-    "sent_to_telegram": true
-  },
-  {
-    "id": "bdea04f0ab",
-    "title_fa": "‏بانک JPMorgan حمله سایبری را تأیید کرد؛ داده‌ها فاش شد",
-    "title_en": "JPMorgan Chase reveals data breach, but says it’s unrelated to this week’s banking outage",
-    "summary": [
-      "‏بانک JPMorgan اعلام کرد حمله سایبری به فروشندگان ثالث، نام و ایمیل حدود ۱۶٬۰۰۰ مشتری فاش شد.",
-      "‏این نفوذ به داده‌های بازاریابی محدود است، کارت‌های پرداخت تحت تأثیر نیستند؛ اما می‌تواند به نگرانی‌های امنیتی و نظارتی منجر شود.",
-      "‏همچنین Visa و Mastercard گزارش دادند فروشندگان ثالثشان هدف حمله بوده و ایمیل‌های محدود مشتریان ویژه فاش شد."
-    ],
-    "body_fa": "‏بانک JPMorgan اعلام کرد که فروشندگان ثالثی که خدمات به این بانک ارائه می‌دهند، مورد حمله سایبری قرار گرفته‌اند. بر اساس اطلاعات به دست آمده، هکرها به داده‌های بازاریابی شامل نام و آدرس ایمیل حدود ۱۶٬۰۰۰ مشتری دست یافته‌اند. بانک تأکید کرد هیچ‌گونه اختلالی در خدمات بانکی رخ نداده و داده‌های پرداختی مانند شماره کارت تحت تأثیر نیستند. در همین حین، Visa و Mastercard نیز اعلام کردند که فروشندگان ثالث خود هدف مشابهی بوده و ایمیل‌های محدود مشتریان ویژه این کارت‌ها فاش شده است. شرکت‌ها قول داده‌اند به مشتریان متاثر اطلاع‌رسانی کنند و خدمات نظارت رایگان بر اعتبار را ارائه دهند. این رخداد نگرانی‌های امنیتی را در میان مصرف‌کنندگان و ناظران مالی برانگیخته و ممکن است منجر به بررسی‌های نظارتی بیشتر شود.",
-    "category": "اقتصاد و بازار",
-    "subcategory": "نقض داده‌های بانکی",
-    "tag": "JPMorgan",
-    "urgency": 5,
-    "iran_relevant": false,
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
-    "clean_url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305014881.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "timestamp": 1795075980.0,
     "sent_to_telegram": true
   }
 ]
